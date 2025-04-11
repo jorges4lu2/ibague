@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250411 -0500">
+  <channel id="The Masters 2025 - Day 2: Featured Groups (CBS Sports)">
+    <display-name lang="en">The Masters 2025 - Day 2: Featured Groups (CBS Sports)</display-name>
+  </channel>
   <channel id="The Masters 2025 - Day 2: Featured Groups">
     <display-name lang="en">The Masters 2025 - Day 2: Featured Groups</display-name>
   </channel>
@@ -87,9 +90,6 @@
   <channel id="F1: Bahrain Grand Prix (Race, F1TV)">
     <display-name lang="en">F1: Bahrain Grand Prix (Race, F1TV)</display-name>
   </channel>
-  <channel id="The Masters 2025 - Day 2: Featured Groups (CBS Sports)">
-    <display-name lang="en">The Masters 2025 - Day 2: Featured Groups (CBS Sports)</display-name>
-  </channel>
   <channel id="The Masters 2025 - Day 2: Amen Corner (CBS Sports)">
     <display-name lang="en">The Masters 2025 - Day 2: Amen Corner (CBS Sports)</display-name>
   </channel>
@@ -117,6 +117,14 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
+  <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Featured Groups (CBS Sports)" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Featured Groups" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -343,14 +351,6 @@
   </programme>
   <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Race, F1TV)" stop="20250411235959 -0500">
     <title>10:00 AM 13/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Featured Groups (CBS Sports)" stop="20250411235959 -0500">
-    <title>08:15 AM 11/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
