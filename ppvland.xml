@@ -1,10 +1,64 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250411 -0500">
+  <channel id="F1: Bahrain Grand Prix (Practice 2, Sky Sports)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Practice 2, Sky Sports)</display-name>
+  </channel>
+  <channel id="F1: Bahrain Grand Prix (Practice 2, F1TV)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Practice 2, F1TV)</display-name>
+  </channel>
   <channel id="The Masters 2025 - Day 2: Featured Groups (CBS Sports)">
     <display-name lang="en">The Masters 2025 - Day 2: Featured Groups (CBS Sports)</display-name>
   </channel>
   <channel id="The Masters 2025 - Day 2: Featured Groups">
     <display-name lang="en">The Masters 2025 - Day 2: Featured Groups</display-name>
+  </channel>
+  <channel id="The Masters 2025 - Day 2: Amen Corner (CBS Sports)">
+    <display-name lang="en">The Masters 2025 - Day 2: Amen Corner (CBS Sports)</display-name>
+  </channel>
+  <channel id="Bucks at Pistons">
+    <display-name lang="en">Bucks at Pistons</display-name>
+  </channel>
+  <channel id="Magic at Pacers">
+    <display-name lang="en">Magic at Pacers</display-name>
+  </channel>
+  <channel id="Hawks at 76ers">
+    <display-name lang="en">Hawks at 76ers</display-name>
+  </channel>
+  <channel id="Hornets at Celtics">
+    <display-name lang="en">Hornets at Celtics</display-name>
+  </channel>
+  <channel id="Cavaliers at Knicks">
+    <display-name lang="en">Cavaliers at Knicks</display-name>
+  </channel>
+  <channel id="Wizards at Bulls">
+    <display-name lang="en">Wizards at Bulls</display-name>
+  </channel>
+  <channel id="Heat at Pelicans">
+    <display-name lang="en">Heat at Pelicans</display-name>
+  </channel>
+  <channel id="Raptors at Mavericks">
+    <display-name lang="en">Raptors at Mavericks</display-name>
+  </channel>
+  <channel id="Nets at Timberwolves">
+    <display-name lang="en">Nets at Timberwolves</display-name>
+  </channel>
+  <channel id="Grizzlies at Nuggets">
+    <display-name lang="en">Grizzlies at Nuggets</display-name>
+  </channel>
+  <channel id="Thunder at Jazz">
+    <display-name lang="en">Thunder at Jazz</display-name>
+  </channel>
+  <channel id="Spurs at Suns">
+    <display-name lang="en">Spurs at Suns</display-name>
+  </channel>
+  <channel id="Warriors at Trail Blazers">
+    <display-name lang="en">Warriors at Trail Blazers</display-name>
+  </channel>
+  <channel id="Clippers at Kings">
+    <display-name lang="en">Clippers at Kings</display-name>
+  </channel>
+  <channel id="Rockets at Lakers">
+    <display-name lang="en">Rockets at Lakers</display-name>
   </channel>
   <channel id="UFC 314">
     <display-name lang="en">UFC 314</display-name>
@@ -66,12 +120,6 @@
   <channel id="Chicago Cubs vs. Los Angeles Dodgers">
     <display-name lang="en">Chicago Cubs vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="F1: Bahrain Grand Prix (Practice 2, Sky Sports)">
-    <display-name lang="en">F1: Bahrain Grand Prix (Practice 2, Sky Sports)</display-name>
-  </channel>
-  <channel id="F1: Bahrain Grand Prix (Practice 2, F1TV)">
-    <display-name lang="en">F1: Bahrain Grand Prix (Practice 2, F1TV)</display-name>
-  </channel>
   <channel id="F1: Bahrain Grand Prix (Practice 3, Sky Sports)">
     <display-name lang="en">F1: Bahrain Grand Prix (Practice 3, Sky Sports)</display-name>
   </channel>
@@ -89,9 +137,6 @@
   </channel>
   <channel id="F1: Bahrain Grand Prix (Race, F1TV)">
     <display-name lang="en">F1: Bahrain Grand Prix (Race, F1TV)</display-name>
-  </channel>
-  <channel id="The Masters 2025 - Day 2: Amen Corner (CBS Sports)">
-    <display-name lang="en">The Masters 2025 - Day 2: Amen Corner (CBS Sports)</display-name>
   </channel>
   <channel id="The Masters 2025 - Day 2: Holes 15 &amp;amp; 16 (CBS Sports)">
     <display-name lang="en">The Masters 2025 - Day 2: Holes 15 &amp;amp; 16 (CBS Sports)</display-name>
@@ -117,6 +162,22 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 2, Sky Sports)" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 2, F1TV)" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Featured Groups (CBS Sports)" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -127,6 +188,134 @@
   </programme>
   <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Featured Groups" stop="20250411235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Amen Corner (CBS Sports)" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Bucks at Pistons" stop="20250411235959 -0500">
+    <title>06:00 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Magic at Pacers" stop="20250411235959 -0500">
+    <title>06:00 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Hawks at 76ers" stop="20250411235959 -0500">
+    <title>06:00 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Hornets at Celtics" stop="20250411235959 -0500">
+    <title>06:30 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Cavaliers at Knicks" stop="20250411235959 -0500">
+    <title>06:30 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Wizards at Bulls" stop="20250411235959 -0500">
+    <title>07:00 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Heat at Pelicans" stop="20250411235959 -0500">
+    <title>07:00 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Raptors at Mavericks" stop="20250411235959 -0500">
+    <title>07:30 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Nets at Timberwolves" stop="20250411235959 -0500">
+    <title>08:00 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Grizzlies at Nuggets" stop="20250411235959 -0500">
+    <title>08:00 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Thunder at Jazz" stop="20250411235959 -0500">
+    <title>08:30 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Spurs at Suns" stop="20250411235959 -0500">
+    <title>09:00 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Warriors at Trail Blazers" stop="20250411235959 -0500">
+    <title>09:00 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Clippers at Kings" stop="20250411235959 -0500">
+    <title>09:00 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Rockets at Lakers" stop="20250411235959 -0500">
+    <title>09:30 PM 11/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -293,24 +482,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 2, Sky Sports)" stop="20250411235959 -0500">
-    <title>10:00 AM 11/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 2, F1TV)" stop="20250411235959 -0500">
-    <title>10:00 AM 11/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 3, Sky Sports)" stop="20250411235959 -0500">
-    <title>07:30 AM 12/04/25</title>
+    <title>07:25 AM 12/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -318,7 +491,7 @@
     </audio>
   </programme>
   <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 3, F1TV)" stop="20250411235959 -0500">
-    <title>07:30 AM 12/04/25</title>
+    <title>07:25 AM 12/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -326,7 +499,7 @@
     </audio>
   </programme>
   <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Qualifying, Sky Sports)" stop="20250411235959 -0500">
-    <title>11:00 AM 12/04/25</title>
+    <title>10:55 AM 12/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -334,7 +507,7 @@
     </audio>
   </programme>
   <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Qualifying, F1TV)" stop="20250411235959 -0500">
-    <title>11:00 AM 12/04/25</title>
+    <title>10:55 AM 12/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -342,7 +515,7 @@
     </audio>
   </programme>
   <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Race, Sky Sports)" stop="20250411235959 -0500">
-    <title>10:00 AM 13/04/25</title>
+    <title>09:55 AM 13/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -350,15 +523,7 @@
     </audio>
   </programme>
   <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Race, F1TV)" stop="20250411235959 -0500">
-    <title>10:00 AM 13/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Amen Corner (CBS Sports)" stop="20250411235959 -0500">
-    <title>09:35 AM 11/04/25</title>
+    <title>09:55 AM 13/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
