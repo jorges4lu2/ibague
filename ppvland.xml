@@ -6,6 +6,9 @@
   <channel id="MFN Weekly">
     <display-name lang="en">MFN Weekly</display-name>
   </channel>
+  <channel id="Boxing: Jaron Ennis vs. Eimantas Stanionis">
+    <display-name lang="en">Boxing: Jaron Ennis vs. Eimantas Stanionis</display-name>
+  </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
@@ -57,6 +60,36 @@
   <channel id="Chicago Cubs vs. Los Angeles Dodgers">
     <display-name lang="en">Chicago Cubs vs. Los Angeles Dodgers</display-name>
   </channel>
+  <channel id="F1: Bahrain Grand Prix (Practice 1, Sky Sports)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Practice 1, Sky Sports)</display-name>
+  </channel>
+  <channel id="F1: Bahrain Grand Prix (Practice 1, F1TV)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Practice 1, F1TV)</display-name>
+  </channel>
+  <channel id="F1: Bahrain Grand Prix (Practice 2, Sky Sports)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Practice 2, Sky Sports)</display-name>
+  </channel>
+  <channel id="F1: Bahrain Grand Prix (Practice 2, F1TV)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Practice 2, F1TV)</display-name>
+  </channel>
+  <channel id="F1: Bahrain Grand Prix (Practice 3, Sky Sports)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Practice 3, Sky Sports)</display-name>
+  </channel>
+  <channel id="F1: Bahrain Grand Prix (Practice 3, F1TV)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Practice 3, F1TV)</display-name>
+  </channel>
+  <channel id="F1: Bahrain Grand Prix (Qualifying, Sky Sports)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Qualifying, Sky Sports)</display-name>
+  </channel>
+  <channel id="F1: Bahrain Grand Prix (Qualifying, F1TV)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Qualifying, F1TV)</display-name>
+  </channel>
+  <channel id="F1: Bahrain Grand Prix (Race, Sky Sports)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Race, Sky Sports)</display-name>
+  </channel>
+  <channel id="F1: Bahrain Grand Prix (Race, F1TV)">
+    <display-name lang="en">F1: Bahrain Grand Prix (Race, F1TV)</display-name>
+  </channel>
   <channel id="The Masters 2025 - Day 2: Featured Groups">
     <display-name lang="en">The Masters 2025 - Day 2: Featured Groups</display-name>
   </channel>
@@ -99,6 +132,14 @@
     </audio>
   </programme>
   <programme start="20250411000000 -0500" channel="MFN Weekly" stop="20250411235959 -0500">
+    <title>07:00 PM 12/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Boxing: Jaron Ennis vs. Eimantas Stanionis" stop="20250411235959 -0500">
     <title>07:00 PM 12/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -236,6 +277,86 @@
   </programme>
   <programme start="20250411000000 -0500" channel="Chicago Cubs vs. Los Angeles Dodgers" stop="20250411235959 -0500">
     <title>09:10 PM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 1, Sky Sports)" stop="20250411235959 -0500">
+    <title>06:30 AM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 1, F1TV)" stop="20250411235959 -0500">
+    <title>06:30 AM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 2, Sky Sports)" stop="20250411235959 -0500">
+    <title>10:00 AM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 2, F1TV)" stop="20250411235959 -0500">
+    <title>10:00 AM 11/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 3, Sky Sports)" stop="20250411235959 -0500">
+    <title>07:30 AM 12/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Practice 3, F1TV)" stop="20250411235959 -0500">
+    <title>07:30 AM 12/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Qualifying, Sky Sports)" stop="20250411235959 -0500">
+    <title>11:00 AM 12/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Qualifying, F1TV)" stop="20250411235959 -0500">
+    <title>11:00 AM 12/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Race, Sky Sports)" stop="20250411235959 -0500">
+    <title>10:00 AM 13/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Race, F1TV)" stop="20250411235959 -0500">
+    <title>10:00 AM 13/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
