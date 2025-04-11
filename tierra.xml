@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250411 -0500">
-  <channel id="The Masters 2025 - Day 2: Featured Groups (CBS Sports)">
-    <display-name lang="en">The Masters 2025 - Day 2: Featured Groups (CBS Sports)</display-name>
-  </channel>
-  <channel id="The Masters 2025 - Day 2: Holes 15 &amp;amp; 16 (CBS Sports)">
-    <display-name lang="en">The Masters 2025 - Day 2: Holes 15 &amp;amp; 16 (CBS Sports)</display-name>
-  </channel>
-  <channel id="The Masters 2025 - Day 2: Second Round Broadcast">
-    <display-name lang="en">The Masters 2025 - Day 2: Second Round Broadcast</display-name>
-  </channel>
   <channel id="Bucks at Pistons">
     <display-name lang="en">Bucks at Pistons</display-name>
   </channel>
@@ -17,6 +8,18 @@
   </channel>
   <channel id="Hawks at 76ers">
     <display-name lang="en">Hawks at 76ers</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. Cleveland Guardians">
+    <display-name lang="en">Kansas City Royals vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. Cincinnati Reds">
+    <display-name lang="en">Pittsburgh Pirates vs. Cincinnati Reds</display-name>
+  </channel>
+  <channel id="The Masters 2025 - Day 2: Featured Groups (CBS Sports)">
+    <display-name lang="en">The Masters 2025 - Day 2: Featured Groups (CBS Sports)</display-name>
+  </channel>
+  <channel id="The Masters 2025 - Day 2: Second Round Broadcast">
+    <display-name lang="en">The Masters 2025 - Day 2: Second Round Broadcast</display-name>
   </channel>
   <channel id="Hornets at Celtics">
     <display-name lang="en">Hornets at Celtics</display-name>
@@ -86,12 +89,6 @@
   </channel>
   <channel id="EPL: Arsenal vs Brentford">
     <display-name lang="en">EPL: Arsenal vs Brentford</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Cleveland Guardians">
-    <display-name lang="en">Kansas City Royals vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Cincinnati Reds">
-    <display-name lang="en">Pittsburgh Pirates vs. Cincinnati Reds</display-name>
   </channel>
   <channel id="Atlanta Braves vs. Tampa Bay Rays">
     <display-name lang="en">Atlanta Braves vs. Tampa Bay Rays</display-name>
@@ -171,7 +168,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Featured Groups (CBS Sports)" stop="20250411235959 -0500">
+  <programme start="20250411000000 -0500" channel="Bucks at Pistons" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -179,7 +176,39 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Holes 15 &amp;amp; 16 (CBS Sports)" stop="20250411235959 -0500">
+  <programme start="20250411000000 -0500" channel="Magic at Pacers" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Hawks at 76ers" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Kansas City Royals vs. Cleveland Guardians" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Pittsburgh Pirates vs. Cincinnati Reds" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Featured Groups (CBS Sports)" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -189,30 +218,6 @@
   </programme>
   <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Second Round Broadcast" stop="20250411235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Bucks at Pistons" stop="20250411235959 -0500">
-    <title>06:00 PM 11/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Magic at Pacers" stop="20250411235959 -0500">
-    <title>06:00 PM 11/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Hawks at 76ers" stop="20250411235959 -0500">
-    <title>06:00 PM 11/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -397,22 +402,6 @@
   </programme>
   <programme start="20250411000000 -0500" channel="EPL: Arsenal vs Brentford" stop="20250411235959 -0500">
     <title>11:30 AM 12/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Kansas City Royals vs. Cleveland Guardians" stop="20250411235959 -0500">
-    <title>05:10 PM 11/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Pittsburgh Pirates vs. Cincinnati Reds" stop="20250411235959 -0500">
-    <title>05:40 PM 11/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
