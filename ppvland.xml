@@ -3,14 +3,14 @@
   <channel id="The Masters 2025 - Day 2: Featured Groups (CBS Sports)">
     <display-name lang="en">The Masters 2025 - Day 2: Featured Groups (CBS Sports)</display-name>
   </channel>
-  <channel id="The Masters 2025 - Day 2: Featured Groups">
-    <display-name lang="en">The Masters 2025 - Day 2: Featured Groups</display-name>
-  </channel>
   <channel id="The Masters 2025 - Day 2: Amen Corner (CBS Sports)">
     <display-name lang="en">The Masters 2025 - Day 2: Amen Corner (CBS Sports)</display-name>
   </channel>
   <channel id="The Masters 2025 - Day 2: Holes 15 &amp;amp; 16 (CBS Sports)">
     <display-name lang="en">The Masters 2025 - Day 2: Holes 15 &amp;amp; 16 (CBS Sports)</display-name>
+  </channel>
+  <channel id="The Masters 2025 - Day 2: Second Round Broadcast">
+    <display-name lang="en">The Masters 2025 - Day 2: Second Round Broadcast</display-name>
   </channel>
   <channel id="Bucks at Pistons">
     <display-name lang="en">Bucks at Pistons</display-name>
@@ -135,9 +135,6 @@
   <channel id="F1: Bahrain Grand Prix (Race, F1TV)">
     <display-name lang="en">F1: Bahrain Grand Prix (Race, F1TV)</display-name>
   </channel>
-  <channel id="The Masters 2025 - Day 2: Second Round Broadcast">
-    <display-name lang="en">The Masters 2025 - Day 2: Second Round Broadcast</display-name>
-  </channel>
   <channel id="ESPN">
     <display-name lang="en">ESPN</display-name>
   </channel>
@@ -164,14 +161,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Featured Groups" stop="20250411235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Amen Corner (CBS Sports)" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -181,6 +170,14 @@
     </audio>
   </programme>
   <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Holes 15 &amp;amp; 16 (CBS Sports)" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Second Round Broadcast" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -510,14 +507,6 @@
   </programme>
   <programme start="20250411000000 -0500" channel="F1: Bahrain Grand Prix (Race, F1TV)" stop="20250411235959 -0500">
     <title>09:55 AM 13/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="The Masters 2025 - Day 2: Second Round Broadcast" stop="20250411235959 -0500">
-    <title>01:30 PM 11/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
