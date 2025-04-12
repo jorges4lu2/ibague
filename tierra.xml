@@ -1,16 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250412 -0500">
-  <channel id="EPL: Goal Rush">
-    <display-name lang="en">EPL: Goal Rush</display-name>
-  </channel>
-  <channel id="EPL: Brighton and Hove Albion vs Leicester City">
-    <display-name lang="en">EPL: Brighton and Hove Albion vs Leicester City</display-name>
-  </channel>
-  <channel id="EPL: Nottingham Forest vs Everton">
-    <display-name lang="en">EPL: Nottingham Forest vs Everton</display-name>
-  </channel>
-  <channel id="EPL: Southampton vs Aston Villa">
-    <display-name lang="en">EPL: Southampton vs Aston Villa</display-name>
+  <channel id="EPL: Arsenal vs Brentford">
+    <display-name lang="en">EPL: Arsenal vs Brentford</display-name>
   </channel>
   <channel id="Supercross: Race Day Live: Philadelphia">
     <display-name lang="en">Supercross: Race Day Live: Philadelphia</display-name>
@@ -21,8 +12,8 @@
   <channel id="F1: Bahrain Grand Prix (Qualifying, F1TV)">
     <display-name lang="en">F1: Bahrain Grand Prix (Qualifying, F1TV)</display-name>
   </channel>
-  <channel id="The Masters 2025 - Round 3 Build Up">
-    <display-name lang="en">The Masters 2025 - Round 3 Build Up</display-name>
+  <channel id="MotoGP: Grand Prix of Qatar (Sprint)">
+    <display-name lang="en">MotoGP: Grand Prix of Qatar (Sprint)</display-name>
   </channel>
   <channel id="The Masters 2025 - Day 3: Featured Groups (CBS Sports)">
     <display-name lang="en">The Masters 2025 - Day 3: Featured Groups (CBS Sports)</display-name>
@@ -32,6 +23,12 @@
   </channel>
   <channel id="The Masters 2025 - Third Round Broadcast (Paramount+ Expanded Coverage)">
     <display-name lang="en">The Masters 2025 - Third Round Broadcast (Paramount+ Expanded Coverage)</display-name>
+  </channel>
+  <channel id="The Masters 2025 - Masters Round 3">
+    <display-name lang="en">The Masters 2025 - Masters Round 3</display-name>
+  </channel>
+  <channel id="The Masters 2025 - Day 3: Holes 15 &amp;amp; 16 (CBS Sports)">
+    <display-name lang="en">The Masters 2025 - Day 3: Holes 15 &amp;amp; 16 (CBS Sports)</display-name>
   </channel>
   <channel id="Magic at Hawks">
     <display-name lang="en">Magic at Hawks</display-name>
@@ -93,14 +90,8 @@
   <channel id="OKTAGON 70 (German/Deutsch)">
     <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
   </channel>
-  <channel id="EPL: Arsenal vs Brentford">
-    <display-name lang="en">EPL: Arsenal vs Brentford</display-name>
-  </channel>
   <channel id="LaLiga: Legan&#233;s vs Barcelona">
     <display-name lang="en">LaLiga: Legan&#233;s vs Barcelona</display-name>
-  </channel>
-  <channel id="MotoGP: Grand Prix of Qatar (Sprint)">
-    <display-name lang="en">MotoGP: Grand Prix of Qatar (Sprint)</display-name>
   </channel>
   <channel id="Supercross: Philadelphia">
     <display-name lang="en">Supercross: Philadelphia</display-name>
@@ -113,12 +104,6 @@
   </channel>
   <channel id="MotoGP: Grand Prix of Qatar">
     <display-name lang="en">MotoGP: Grand Prix of Qatar</display-name>
-  </channel>
-  <channel id="The Masters 2025 - Masters Round 3">
-    <display-name lang="en">The Masters 2025 - Masters Round 3</display-name>
-  </channel>
-  <channel id="The Masters 2025 - Day 3: Holes 15 &amp;amp; 16 (CBS Sports)">
-    <display-name lang="en">The Masters 2025 - Day 3: Holes 15 &amp;amp; 16 (CBS Sports)</display-name>
   </channel>
   <channel id="The Masters 2025 - Third Round Broadcast (CBS)">
     <display-name lang="en">The Masters 2025 - Third Round Broadcast (CBS)</display-name>
@@ -141,31 +126,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250412000000 -0500" channel="EPL: Goal Rush" stop="20250412235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250412000000 -0500" channel="EPL: Brighton and Hove Albion vs Leicester City" stop="20250412235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250412000000 -0500" channel="EPL: Nottingham Forest vs Everton" stop="20250412235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250412000000 -0500" channel="EPL: Southampton vs Aston Villa" stop="20250412235959 -0500">
+  <programme start="20250412000000 -0500" channel="EPL: Arsenal vs Brentford" stop="20250412235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -197,7 +158,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250412000000 -0500" channel="The Masters 2025 - Round 3 Build Up" stop="20250412235959 -0500">
+  <programme start="20250412000000 -0500" channel="MotoGP: Grand Prix of Qatar (Sprint)" stop="20250412235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -222,6 +183,22 @@
     </audio>
   </programme>
   <programme start="20250412000000 -0500" channel="The Masters 2025 - Third Round Broadcast (Paramount+ Expanded Coverage)" stop="20250412235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250412000000 -0500" channel="The Masters 2025 - Masters Round 3" stop="20250412235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250412000000 -0500" channel="The Masters 2025 - Day 3: Holes 15 &amp;amp; 16 (CBS Sports)" stop="20250412235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -389,24 +366,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250412000000 -0500" channel="EPL: Arsenal vs Brentford" stop="20250412235959 -0500">
-    <title>11:30 AM 12/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250412000000 -0500" channel="LaLiga: Legan&#233;s vs Barcelona" stop="20250412235959 -0500">
     <title>02:00 PM 12/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250412000000 -0500" channel="MotoGP: Grand Prix of Qatar (Sprint)" stop="20250412235959 -0500">
-    <title>11:55 AM 12/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -439,22 +400,6 @@
   </programme>
   <programme start="20250412000000 -0500" channel="MotoGP: Grand Prix of Qatar" stop="20250412235959 -0500">
     <title>11:55 AM 13/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250412000000 -0500" channel="The Masters 2025 - Masters Round 3" stop="20250412235959 -0500">
-    <title>11:30 AM 12/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250412000000 -0500" channel="The Masters 2025 - Day 3: Holes 15 &amp;amp; 16 (CBS Sports)" stop="20250412235959 -0500">
-    <title>11:30 AM 12/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
