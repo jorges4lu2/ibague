@@ -39,6 +39,9 @@
   <channel id="LaLiga: Legan&#233;s vs Barcelona">
     <display-name lang="en">LaLiga: Legan&#233;s vs Barcelona</display-name>
   </channel>
+  <channel id="MotoGP: Grand Prix of Qatar (Practice 2 &amp;amp; Qualifying)">
+    <display-name lang="en">MotoGP: Grand Prix of Qatar (Practice 2 &amp;amp; Qualifying)</display-name>
+  </channel>
   <channel id="F1: Bahrain Grand Prix (Practice 3, Sky Sports)">
     <display-name lang="en">F1: Bahrain Grand Prix (Practice 3, Sky Sports)</display-name>
   </channel>
@@ -54,6 +57,9 @@
   <channel id="F1: Bahrain Grand Prix (Qualifying, F1TV)">
     <display-name lang="en">F1: Bahrain Grand Prix (Qualifying, F1TV)</display-name>
   </channel>
+  <channel id="MotoGP: Grand Prix of Qatar (Sprint)">
+    <display-name lang="en">MotoGP: Grand Prix of Qatar (Sprint)</display-name>
+  </channel>
   <channel id="Supercross: Philadelphia">
     <display-name lang="en">Supercross: Philadelphia</display-name>
   </channel>
@@ -62,6 +68,9 @@
   </channel>
   <channel id="F1: Bahrain Grand Prix (Race, F1TV)">
     <display-name lang="en">F1: Bahrain Grand Prix (Race, F1TV)</display-name>
+  </channel>
+  <channel id="MotoGP: Grand Prix of Qatar">
+    <display-name lang="en">MotoGP: Grand Prix of Qatar</display-name>
   </channel>
   <channel id="The Masters 2025 - Round 3 Build Up">
     <display-name lang="en">The Masters 2025 - Round 3 Build Up</display-name>
@@ -206,6 +215,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250412000000 -0500" channel="MotoGP: Grand Prix of Qatar (Practice 2 &amp;amp; Qualifying)" stop="20250412235959 -0500">
+    <title>07:00 AM 12/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250412000000 -0500" channel="F1: Bahrain Grand Prix (Practice 3, Sky Sports)" stop="20250412235959 -0500">
     <title>07:25 AM 12/04/25</title>
     <date>2025</date>
@@ -223,7 +240,7 @@
     </audio>
   </programme>
   <programme start="20250412000000 -0500" channel="Supercross: Race Day Live: Philadelphia" stop="20250412235959 -0500">
-    <title>08:30 AM 12/04/25</title>
+    <title>08:25 AM 12/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -246,8 +263,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250412000000 -0500" channel="MotoGP: Grand Prix of Qatar (Sprint)" stop="20250412235959 -0500">
+    <title>11:55 AM 12/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250412000000 -0500" channel="Supercross: Philadelphia" stop="20250412235959 -0500">
-    <title>02:00 PM 12/04/25</title>
+    <title>01:55 PM 12/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -264,6 +289,14 @@
   </programme>
   <programme start="20250412000000 -0500" channel="F1: Bahrain Grand Prix (Race, F1TV)" stop="20250412235959 -0500">
     <title>09:55 AM 13/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250412000000 -0500" channel="MotoGP: Grand Prix of Qatar" stop="20250412235959 -0500">
+    <title>11:55 AM 13/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
