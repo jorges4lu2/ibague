@@ -21,6 +21,15 @@
   <channel id="Heat at Pelicans">
     <display-name lang="en">Heat at Pelicans</display-name>
   </channel>
+  <channel id="Raptors at Mavericks">
+    <display-name lang="en">Raptors at Mavericks</display-name>
+  </channel>
+  <channel id="Nets at Timberwolves">
+    <display-name lang="en">Nets at Timberwolves</display-name>
+  </channel>
+  <channel id="Grizzlies at Nuggets">
+    <display-name lang="en">Grizzlies at Nuggets</display-name>
+  </channel>
   <channel id="Kansas City Royals vs. Cleveland Guardians">
     <display-name lang="en">Kansas City Royals vs. Cleveland Guardians</display-name>
   </channel>
@@ -42,17 +51,17 @@
   <channel id="Boston Red Sox vs. Chicago White Sox">
     <display-name lang="en">Boston Red Sox vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Los Angeles Angels vs. Houston Astros">
+    <display-name lang="en">Los Angeles Angels vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Detroit Tigers vs. Minnesota Twins">
+    <display-name lang="en">Detroit Tigers vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Philadelphia Phillies vs. St. Louis Cardinals">
+    <display-name lang="en">Philadelphia Phillies vs. St. Louis Cardinals</display-name>
+  </channel>
   <channel id="WWE: Friday Night SmackDown">
     <display-name lang="en">WWE: Friday Night SmackDown</display-name>
-  </channel>
-  <channel id="Raptors at Mavericks">
-    <display-name lang="en">Raptors at Mavericks</display-name>
-  </channel>
-  <channel id="Nets at Timberwolves">
-    <display-name lang="en">Nets at Timberwolves</display-name>
-  </channel>
-  <channel id="Grizzlies at Nuggets">
-    <display-name lang="en">Grizzlies at Nuggets</display-name>
   </channel>
   <channel id="Thunder at Jazz">
     <display-name lang="en">Thunder at Jazz</display-name>
@@ -101,15 +110,6 @@
   </channel>
   <channel id="EPL: Arsenal vs Brentford">
     <display-name lang="en">EPL: Arsenal vs Brentford</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Houston Astros">
-    <display-name lang="en">Los Angeles Angels vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Minnesota Twins">
-    <display-name lang="en">Detroit Tigers vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. St. Louis Cardinals">
-    <display-name lang="en">Philadelphia Phillies vs. St. Louis Cardinals</display-name>
   </channel>
   <channel id="Colorado Rockies vs. San Diego Padres">
     <display-name lang="en">Colorado Rockies vs. San Diego Padres</display-name>
@@ -218,6 +218,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250411000000 -0500" channel="Raptors at Mavericks" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Nets at Timberwolves" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250411000000 -0500" channel="Grizzlies at Nuggets" stop="20250411235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250411000000 -0500" channel="Kansas City Royals vs. Cleveland Guardians" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -274,7 +298,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250411000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250411235959 -0500">
+  <programme start="20250411000000 -0500" channel="Los Angeles Angels vs. Houston Astros" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -282,24 +306,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250411000000 -0500" channel="Raptors at Mavericks" stop="20250411235959 -0500">
-    <title>07:30 PM 11/04/25</title>
+  <programme start="20250411000000 -0500" channel="Detroit Tigers vs. Minnesota Twins" stop="20250411235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250411000000 -0500" channel="Nets at Timberwolves" stop="20250411235959 -0500">
-    <title>08:00 PM 11/04/25</title>
+  <programme start="20250411000000 -0500" channel="Philadelphia Phillies vs. St. Louis Cardinals" stop="20250411235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250411000000 -0500" channel="Grizzlies at Nuggets" stop="20250411235959 -0500">
-    <title>08:00 PM 11/04/25</title>
+  <programme start="20250411000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250411235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -428,30 +452,6 @@
   </programme>
   <programme start="20250411000000 -0500" channel="EPL: Arsenal vs Brentford" stop="20250411235959 -0500">
     <title>11:30 AM 12/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Los Angeles Angels vs. Houston Astros" stop="20250411235959 -0500">
-    <title>07:10 PM 11/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Detroit Tigers vs. Minnesota Twins" stop="20250411235959 -0500">
-    <title>07:10 PM 11/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Philadelphia Phillies vs. St. Louis Cardinals" stop="20250411235959 -0500">
-    <title>07:15 PM 11/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
