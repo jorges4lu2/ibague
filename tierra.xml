@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250412 -0500">
+  <channel id="EPL: Manchester City vs Crystal Palace">
+    <display-name lang="en">EPL: Manchester City vs Crystal Palace</display-name>
+  </channel>
+  <channel id="MotoGP: Grand Prix of Qatar (Practice 2 &amp;amp; Qualifying)">
+    <display-name lang="en">MotoGP: Grand Prix of Qatar (Practice 2 &amp;amp; Qualifying)</display-name>
+  </channel>
   <channel id="JOJODAY STAGE">
     <display-name lang="en">JOJODAY STAGE</display-name>
   </channel>
@@ -18,9 +24,6 @@
   <channel id="OKTAGON 70 (German/Deutsch)">
     <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
   </channel>
-  <channel id="EPL: Manchester City vs Crystal Palace">
-    <display-name lang="en">EPL: Manchester City vs Crystal Palace</display-name>
-  </channel>
   <channel id="EPL: Goal Rush">
     <display-name lang="en">EPL: Goal Rush</display-name>
   </channel>
@@ -38,9 +41,6 @@
   </channel>
   <channel id="LaLiga: Legan&#233;s vs Barcelona">
     <display-name lang="en">LaLiga: Legan&#233;s vs Barcelona</display-name>
-  </channel>
-  <channel id="MotoGP: Grand Prix of Qatar (Practice 2 &amp;amp; Qualifying)">
-    <display-name lang="en">MotoGP: Grand Prix of Qatar (Practice 2 &amp;amp; Qualifying)</display-name>
   </channel>
   <channel id="F1: Bahrain Grand Prix (Practice 3, Sky Sports)">
     <display-name lang="en">F1: Bahrain Grand Prix (Practice 3, Sky Sports)</display-name>
@@ -111,6 +111,22 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
+  <programme start="20250412000000 -0500" channel="EPL: Manchester City vs Crystal Palace" stop="20250412235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250412000000 -0500" channel="MotoGP: Grand Prix of Qatar (Practice 2 &amp;amp; Qualifying)" stop="20250412235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250412000000 -0500" channel="JOJODAY STAGE" stop="20250412235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -159,14 +175,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250412000000 -0500" channel="EPL: Manchester City vs Crystal Palace" stop="20250412235959 -0500">
-    <title>06:30 AM 12/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250412000000 -0500" channel="EPL: Goal Rush" stop="20250412235959 -0500">
     <title>09:00 AM 12/04/25</title>
     <date>2025</date>
@@ -209,14 +217,6 @@
   </programme>
   <programme start="20250412000000 -0500" channel="LaLiga: Legan&#233;s vs Barcelona" stop="20250412235959 -0500">
     <title>02:00 PM 12/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250412000000 -0500" channel="MotoGP: Grand Prix of Qatar (Practice 2 &amp;amp; Qualifying)" stop="20250412235959 -0500">
-    <title>07:00 AM 12/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
