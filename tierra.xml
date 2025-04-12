@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250411 -0500">
-  <channel id="Hornets at Celtics">
-    <display-name lang="en">Hornets at Celtics</display-name>
-  </channel>
-  <channel id="Cavaliers at Knicks">
-    <display-name lang="en">Cavaliers at Knicks</display-name>
-  </channel>
-  <channel id="Wizards at Bulls">
-    <display-name lang="en">Wizards at Bulls</display-name>
-  </channel>
-  <channel id="Heat at Pelicans">
-    <display-name lang="en">Heat at Pelicans</display-name>
-  </channel>
   <channel id="Raptors at Mavericks">
     <display-name lang="en">Raptors at Mavericks</display-name>
   </channel>
@@ -33,20 +21,11 @@
   <channel id="Clippers at Kings">
     <display-name lang="en">Clippers at Kings</display-name>
   </channel>
-  <channel id="Atlanta Braves vs. Tampa Bay Rays">
-    <display-name lang="en">Atlanta Braves vs. Tampa Bay Rays</display-name>
+  <channel id="Rockets at Lakers">
+    <display-name lang="en">Rockets at Lakers</display-name>
   </channel>
   <channel id="San Francisco Giants vs. New York Yankees">
     <display-name lang="en">San Francisco Giants vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Baltimore Orioles">
-    <display-name lang="en">Toronto Blue Jays vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Miami Marlins">
-    <display-name lang="en">Washington Nationals vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Chicago White Sox">
-    <display-name lang="en">Boston Red Sox vs. Chicago White Sox</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. Houston Astros">
     <display-name lang="en">Los Angeles Angels vs. Houston Astros</display-name>
@@ -66,11 +45,11 @@
   <channel id="Texas Rangers vs. Seattle Mariners">
     <display-name lang="en">Texas Rangers vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="WWE: Friday Night SmackDown">
-    <display-name lang="en">WWE: Friday Night SmackDown</display-name>
+  <channel id="New York Mets vs. Athletics">
+    <display-name lang="en">New York Mets vs. Athletics</display-name>
   </channel>
-  <channel id="Rockets at Lakers">
-    <display-name lang="en">Rockets at Lakers</display-name>
+  <channel id="Chicago Cubs vs. Los Angeles Dodgers">
+    <display-name lang="en">Chicago Cubs vs. Los Angeles Dodgers</display-name>
   </channel>
   <channel id="UFC 314">
     <display-name lang="en">UFC 314</display-name>
@@ -104,12 +83,6 @@
   </channel>
   <channel id="EPL: Arsenal vs Brentford">
     <display-name lang="en">EPL: Arsenal vs Brentford</display-name>
-  </channel>
-  <channel id="New York Mets vs. Athletics">
-    <display-name lang="en">New York Mets vs. Athletics</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Los Angeles Dodgers">
-    <display-name lang="en">Chicago Cubs vs. Los Angeles Dodgers</display-name>
   </channel>
   <channel id="F1: Bahrain Grand Prix (Practice 3, Sky Sports)">
     <display-name lang="en">F1: Bahrain Grand Prix (Practice 3, Sky Sports)</display-name>
@@ -147,38 +120,6 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250411000000 -0500" channel="Hornets at Celtics" stop="20250411235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Cavaliers at Knicks" stop="20250411235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Wizards at Bulls" stop="20250411235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Heat at Pelicans" stop="20250411235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250411000000 -0500" channel="Raptors at Mavericks" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -235,7 +176,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250411000000 -0500" channel="Atlanta Braves vs. Tampa Bay Rays" stop="20250411235959 -0500">
+  <programme start="20250411000000 -0500" channel="Rockets at Lakers" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -244,30 +185,6 @@
     </audio>
   </programme>
   <programme start="20250411000000 -0500" channel="San Francisco Giants vs. New York Yankees" stop="20250411235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Toronto Blue Jays vs. Baltimore Orioles" stop="20250411235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Washington Nationals vs. Miami Marlins" stop="20250411235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Boston Red Sox vs. Chicago White Sox" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -323,7 +240,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250411000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250411235959 -0500">
+  <programme start="20250411000000 -0500" channel="New York Mets vs. Athletics" stop="20250411235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -331,8 +248,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250411000000 -0500" channel="Rockets at Lakers" stop="20250411235959 -0500">
-    <title>09:30 PM 11/04/25</title>
+  <programme start="20250411000000 -0500" channel="Chicago Cubs vs. Los Angeles Dodgers" stop="20250411235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -421,22 +338,6 @@
   </programme>
   <programme start="20250411000000 -0500" channel="EPL: Arsenal vs Brentford" stop="20250411235959 -0500">
     <title>11:30 AM 12/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="New York Mets vs. Athletics" stop="20250411235959 -0500">
-    <title>09:05 PM 11/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250411000000 -0500" channel="Chicago Cubs vs. Los Angeles Dodgers" stop="20250411235959 -0500">
-    <title>09:10 PM 11/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
