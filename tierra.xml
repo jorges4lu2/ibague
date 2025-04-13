@@ -27,24 +27,6 @@
   <channel id="Women's Series 11-12">
     <display-name lang="en">Women's Series 11-12</display-name>
   </channel>
-  <channel id="San Francisco Giants vs. New York Yankees">
-    <display-name lang="en">San Francisco Giants vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Baltimore Orioles">
-    <display-name lang="en">Toronto Blue Jays vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Tampa Bay Rays">
-    <display-name lang="en">Atlanta Braves vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Cleveland Guardians">
-    <display-name lang="en">Kansas City Royals vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Cincinnati Reds">
-    <display-name lang="en">Pittsburgh Pirates vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Miami Marlins">
-    <display-name lang="en">Washington Nationals vs. Miami Marlins</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. Houston Astros">
     <display-name lang="en">Los Angeles Angels vs. Houston Astros</display-name>
   </channel>
@@ -56,6 +38,18 @@
   </channel>
   <channel id="Philadelphia Phillies vs. St. Louis Cardinals">
     <display-name lang="en">Philadelphia Phillies vs. St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="New York Mets vs. Athletics">
+    <display-name lang="en">New York Mets vs. Athletics</display-name>
+  </channel>
+  <channel id="Colorado Rockies vs. San Diego Padres">
+    <display-name lang="en">Colorado Rockies vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Arizona Diamondbacks">
+    <display-name lang="en">Milwaukee Brewers vs. Arizona Diamondbacks</display-name>
+  </channel>
+  <channel id="Texas Rangers vs. Seattle Mariners">
+    <display-name lang="en">Texas Rangers vs. Seattle Mariners</display-name>
   </channel>
   <channel id="The Masters 2025 - Day 4: Featured Groups (CBS Sports)">
     <display-name lang="en">The Masters 2025 - Day 4: Featured Groups (CBS Sports)</display-name>
@@ -92,18 +86,6 @@
   </channel>
   <channel id="Players Championship 13 - Board 1">
     <display-name lang="en">Players Championship 13 - Board 1</display-name>
-  </channel>
-  <channel id="New York Mets vs. Athletics">
-    <display-name lang="en">New York Mets vs. Athletics</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. San Diego Padres">
-    <display-name lang="en">Colorado Rockies vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Arizona Diamondbacks">
-    <display-name lang="en">Milwaukee Brewers vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Seattle Mariners">
-    <display-name lang="en">Texas Rangers vs. Seattle Mariners</display-name>
   </channel>
   <channel id="Chicago Cubs vs. Los Angeles Dodgers">
     <display-name lang="en">Chicago Cubs vs. Los Angeles Dodgers</display-name>
@@ -195,54 +177,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250413000000 -0500" channel="San Francisco Giants vs. New York Yankees" stop="20250413235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Toronto Blue Jays vs. Baltimore Orioles" stop="20250413235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Atlanta Braves vs. Tampa Bay Rays" stop="20250413235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Kansas City Royals vs. Cleveland Guardians" stop="20250413235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Pittsburgh Pirates vs. Cincinnati Reds" stop="20250413235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Washington Nationals vs. Miami Marlins" stop="20250413235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250413000000 -0500" channel="Los Angeles Angels vs. Houston Astros" stop="20250413235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -268,6 +202,38 @@
     </audio>
   </programme>
   <programme start="20250413000000 -0500" channel="Philadelphia Phillies vs. St. Louis Cardinals" stop="20250413235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250413000000 -0500" channel="New York Mets vs. Athletics" stop="20250413235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250413000000 -0500" channel="Colorado Rockies vs. San Diego Padres" stop="20250413235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250413000000 -0500" channel="Milwaukee Brewers vs. Arizona Diamondbacks" stop="20250413235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250413000000 -0500" channel="Texas Rangers vs. Seattle Mariners" stop="20250413235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -365,38 +331,6 @@
   </programme>
   <programme start="20250413000000 -0500" channel="Players Championship 13 - Board 1" stop="20250413235959 -0500">
     <title>06:00 AM 14/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="New York Mets vs. Athletics" stop="20250413235959 -0500">
-    <title>03:05 PM 13/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Colorado Rockies vs. San Diego Padres" stop="20250413235959 -0500">
-    <title>03:10 PM 13/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Milwaukee Brewers vs. Arizona Diamondbacks" stop="20250413235959 -0500">
-    <title>03:10 PM 13/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Texas Rangers vs. Seattle Mariners" stop="20250413235959 -0500">
-    <title>03:10 PM 13/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
