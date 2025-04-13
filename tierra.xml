@@ -42,8 +42,17 @@
   <channel id="Washington Nationals vs. Miami Marlins">
     <display-name lang="en">Washington Nationals vs. Miami Marlins</display-name>
   </channel>
-  <channel id="MotoGP: Grand Prix of Qatar">
-    <display-name lang="en">MotoGP: Grand Prix of Qatar</display-name>
+  <channel id="Los Angeles Angels vs. Houston Astros">
+    <display-name lang="en">Los Angeles Angels vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Chicago White Sox">
+    <display-name lang="en">Boston Red Sox vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="Detroit Tigers vs. Minnesota Twins">
+    <display-name lang="en">Detroit Tigers vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Philadelphia Phillies vs. St. Louis Cardinals">
+    <display-name lang="en">Philadelphia Phillies vs. St. Louis Cardinals</display-name>
   </channel>
   <channel id="The Masters 2025 - Day 4: Featured Groups (CBS Sports)">
     <display-name lang="en">The Masters 2025 - Day 4: Featured Groups (CBS Sports)</display-name>
@@ -104,18 +113,6 @@
   </channel>
   <channel id="Players Championship 13 - Board 1">
     <display-name lang="en">Players Championship 13 - Board 1</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Houston Astros">
-    <display-name lang="en">Los Angeles Angels vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Chicago White Sox">
-    <display-name lang="en">Boston Red Sox vs. Chicago White Sox</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Minnesota Twins">
-    <display-name lang="en">Detroit Tigers vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. St. Louis Cardinals">
-    <display-name lang="en">Philadelphia Phillies vs. St. Louis Cardinals</display-name>
   </channel>
   <channel id="New York Mets vs. Athletics">
     <display-name lang="en">New York Mets vs. Athletics</display-name>
@@ -259,7 +256,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250413000000 -0500" channel="MotoGP: Grand Prix of Qatar" stop="20250413235959 -0500">
+  <programme start="20250413000000 -0500" channel="Los Angeles Angels vs. Houston Astros" stop="20250413235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250413000000 -0500" channel="Boston Red Sox vs. Chicago White Sox" stop="20250413235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250413000000 -0500" channel="Detroit Tigers vs. Minnesota Twins" stop="20250413235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250413000000 -0500" channel="Philadelphia Phillies vs. St. Louis Cardinals" stop="20250413235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -421,38 +442,6 @@
   </programme>
   <programme start="20250413000000 -0500" channel="Players Championship 13 - Board 1" stop="20250413235959 -0500">
     <title>06:00 AM 14/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Los Angeles Angels vs. Houston Astros" stop="20250413235959 -0500">
-    <title>01:10 PM 13/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Boston Red Sox vs. Chicago White Sox" stop="20250413235959 -0500">
-    <title>01:10 PM 13/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Detroit Tigers vs. Minnesota Twins" stop="20250413235959 -0500">
-    <title>01:10 PM 13/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250413000000 -0500" channel="Philadelphia Phillies vs. St. Louis Cardinals" stop="20250413235959 -0500">
-    <title>01:15 PM 13/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
