@@ -36,6 +36,9 @@
   <channel id="Players Championship 14 - Board 1">
     <display-name lang="en">Players Championship 14 - Board 1</display-name>
   </channel>
+  <channel id="EPL: Bournemouth vs Fulham">
+    <display-name lang="en">EPL: Bournemouth vs Fulham</display-name>
+  </channel>
   <channel id="Washington Nationals vs. Pittsburgh Pirates">
     <display-name lang="en">Washington Nationals vs. Pittsburgh Pirates</display-name>
   </channel>
@@ -171,6 +174,14 @@
   </programme>
   <programme start="20250414000000 -0500" channel="Players Championship 14 - Board 1" stop="20250414235959 -0500">
     <title>06:00 AM 15/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="EPL: Bournemouth vs Fulham" stop="20250414235959 -0500">
+    <title>02:00 PM 14/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
