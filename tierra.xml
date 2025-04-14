@@ -84,6 +84,12 @@
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
+  </channel>
+  <channel id="WWE: Friday Night SmackDown">
+    <display-name lang="en">WWE: Friday Night SmackDown</display-name>
+  </channel>
   <channel id="WWE: WrestleMania (Day 1)">
     <display-name lang="en">WWE: WrestleMania (Day 1)</display-name>
   </channel>
@@ -323,6 +329,22 @@
   </programme>
   <programme start="20250414000000 -0500" channel="WWE: Monday Night RAW" stop="20250414235959 -0500">
     <title>07:00 PM 14/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="WWE: NXT" stop="20250414235959 -0500">
+    <title>07:00 PM 15/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250414235959 -0500">
+    <title>07:00 PM 18/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
