@@ -12,6 +12,15 @@
   <channel id="Players Championship 13 - Board 1">
     <display-name lang="en">Players Championship 13 - Board 1</display-name>
   </channel>
+  <channel id="EPL: Bournemouth vs Fulham">
+    <display-name lang="en">EPL: Bournemouth vs Fulham</display-name>
+  </channel>
+  <channel id="LaLiga: Atl&#233;tico Madrid vs Real Valladolid (English)">
+    <display-name lang="en">LaLiga: Atl&#233;tico Madrid vs Real Valladolid (English)</display-name>
+  </channel>
+  <channel id="LaLiga: Atl&#233;tico de Madrid vs Real Valladolid (Espa&#241;ol)">
+    <display-name lang="en">LaLiga: Atl&#233;tico de Madrid vs Real Valladolid (Espa&#241;ol)</display-name>
+  </channel>
   <channel id="Hawks at Magic">
     <display-name lang="en">Hawks at Magic</display-name>
   </channel>
@@ -41,15 +50,6 @@
   </channel>
   <channel id="Players Championship 14 - Board 1">
     <display-name lang="en">Players Championship 14 - Board 1</display-name>
-  </channel>
-  <channel id="EPL: Bournemouth vs Fulham">
-    <display-name lang="en">EPL: Bournemouth vs Fulham</display-name>
-  </channel>
-  <channel id="LaLiga: Atl&#233;tico Madrid vs Real Valladolid (English)">
-    <display-name lang="en">LaLiga: Atl&#233;tico Madrid vs Real Valladolid (English)</display-name>
-  </channel>
-  <channel id="LaLiga: Atl&#233;tico Madrid vs Real Valladolid (Espa&#241;ol)">
-    <display-name lang="en">LaLiga: Atl&#233;tico Madrid vs Real Valladolid (Espa&#241;ol)</display-name>
   </channel>
   <channel id="Washington Nationals vs. Pittsburgh Pirates">
     <display-name lang="en">Washington Nationals vs. Pittsburgh Pirates</display-name>
@@ -143,6 +143,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250414000000 -0500" channel="EPL: Bournemouth vs Fulham" stop="20250414235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="LaLiga: Atl&#233;tico Madrid vs Real Valladolid (English)" stop="20250414235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="LaLiga: Atl&#233;tico de Madrid vs Real Valladolid (Espa&#241;ol)" stop="20250414235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250414000000 -0500" channel="Hawks at Magic" stop="20250414235959 -0500">
     <title>06:30 PM 15/04/25</title>
     <date>2025</date>
@@ -217,30 +241,6 @@
   </programme>
   <programme start="20250414000000 -0500" channel="Players Championship 14 - Board 1" stop="20250414235959 -0500">
     <title>06:00 AM 15/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250414000000 -0500" channel="EPL: Bournemouth vs Fulham" stop="20250414235959 -0500">
-    <title>02:00 PM 14/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250414000000 -0500" channel="LaLiga: Atl&#233;tico Madrid vs Real Valladolid (English)" stop="20250414235959 -0500">
-    <title>02:00 PM 14/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250414000000 -0500" channel="LaLiga: Atl&#233;tico Madrid vs Real Valladolid (Espa&#241;ol)" stop="20250414235959 -0500">
-    <title>02:00 PM 14/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
