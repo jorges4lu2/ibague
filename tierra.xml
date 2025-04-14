@@ -12,6 +12,12 @@
   <channel id="Players Championship 13 - Board 1">
     <display-name lang="en">Players Championship 13 - Board 1</display-name>
   </channel>
+  <channel id="Hawks at Magic">
+    <display-name lang="en">Hawks at Magic</display-name>
+  </channel>
+  <channel id="Grizzlies at Warriors">
+    <display-name lang="en">Grizzlies at Warriors</display-name>
+  </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
@@ -116,6 +122,22 @@
   </programme>
   <programme start="20250414000000 -0500" channel="Players Championship 13 - Board 1" stop="20250414235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="Hawks at Magic" stop="20250414235959 -0500">
+    <title>06:30 PM 15/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="Grizzlies at Warriors" stop="20250414235959 -0500">
+    <title>09:00 PM 15/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
