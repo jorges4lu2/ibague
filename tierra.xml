@@ -81,6 +81,15 @@
   <channel id="Colorado Rockies vs. Los Angeles Dodgers">
     <display-name lang="en">Colorado Rockies vs. Los Angeles Dodgers</display-name>
   </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
+  <channel id="WWE: WrestleMania (Day 1)">
+    <display-name lang="en">WWE: WrestleMania (Day 1)</display-name>
+  </channel>
+  <channel id="WWE: WrestleMania (Day 2)">
+    <display-name lang="en">WWE: WrestleMania (Day 2)</display-name>
+  </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
@@ -306,6 +315,30 @@
   </programme>
   <programme start="20250414000000 -0500" channel="Colorado Rockies vs. Los Angeles Dodgers" stop="20250414235959 -0500">
     <title>09:10 PM 14/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="WWE: Monday Night RAW" stop="20250414235959 -0500">
+    <title>07:00 PM 14/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="WWE: WrestleMania (Day 1)" stop="20250414235959 -0500">
+    <title>06:00 PM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="WWE: WrestleMania (Day 2)" stop="20250414235959 -0500">
+    <title>06:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
