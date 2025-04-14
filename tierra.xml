@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250414 -0500">
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="MFN Weekly">
-    <display-name lang="en">MFN Weekly</display-name>
-  </channel>
-  <channel id="OKTAGON 70 (German/Deutsch)">
-    <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
-  </channel>
-  <channel id="Boxing: Eubank Jr. vs. Benn">
-    <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
-  </channel>
   <channel id="Players Championship 13 - Board 4">
     <display-name lang="en">Players Championship 13 - Board 4</display-name>
   </channel>
@@ -23,6 +11,18 @@
   </channel>
   <channel id="Players Championship 13 - Board 1">
     <display-name lang="en">Players Championship 13 - Board 1</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
+  </channel>
+  <channel id="MFN Weekly">
+    <display-name lang="en">MFN Weekly</display-name>
+  </channel>
+  <channel id="OKTAGON 70 (German/Deutsch)">
+    <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
+  </channel>
+  <channel id="Boxing: Eubank Jr. vs. Benn">
+    <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
   </channel>
   <channel id="Players Championship 14 - Board 2">
     <display-name lang="en">Players Championship 14 - Board 2</display-name>
@@ -90,6 +90,38 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
+  <programme start="20250414000000 -0500" channel="Players Championship 13 - Board 4" stop="20250414235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="Players Championship 13 - Board 3" stop="20250414235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="Players Championship 13 - Board 2" stop="20250414235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250414000000 -0500" channel="Players Championship 13 - Board 1" stop="20250414235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250414000000 -0500" channel="LND Monthly" stop="20250414235959 -0500">
     <title>07:00 PM 19/04/25</title>
     <date>2025</date>
@@ -116,38 +148,6 @@
   </programme>
   <programme start="20250414000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250414235959 -0500">
     <title>11:00 AM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250414000000 -0500" channel="Players Championship 13 - Board 4" stop="20250414235959 -0500">
-    <title>06:00 AM 14/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250414000000 -0500" channel="Players Championship 13 - Board 3" stop="20250414235959 -0500">
-    <title>06:00 AM 14/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250414000000 -0500" channel="Players Championship 13 - Board 2" stop="20250414235959 -0500">
-    <title>06:00 AM 14/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250414000000 -0500" channel="Players Championship 13 - Board 1" stop="20250414235959 -0500">
-    <title>06:00 AM 14/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
