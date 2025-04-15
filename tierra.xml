@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250415 -0500">
+  <channel id="Players Championship 14 - Board 2">
+    <display-name lang="en">Players Championship 14 - Board 2</display-name>
+  </channel>
+  <channel id="Players Championship 14 - Board 3">
+    <display-name lang="en">Players Championship 14 - Board 3</display-name>
+  </channel>
+  <channel id="Players Championship 14 - Board 4">
+    <display-name lang="en">Players Championship 14 - Board 4</display-name>
+  </channel>
+  <channel id="Players Championship 14 - Board 1">
+    <display-name lang="en">Players Championship 14 - Board 1</display-name>
+  </channel>
   <channel id="Hawks at Magic">
     <display-name lang="en">Hawks at Magic</display-name>
   </channel>
@@ -17,18 +29,6 @@
   </channel>
   <channel id="Boxing: Eubank Jr. vs. Benn">
     <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
-  </channel>
-  <channel id="Players Championship 14 - Board 2">
-    <display-name lang="en">Players Championship 14 - Board 2</display-name>
-  </channel>
-  <channel id="Players Championship 14 - Board 3">
-    <display-name lang="en">Players Championship 14 - Board 3</display-name>
-  </channel>
-  <channel id="Players Championship 14 - Board 4">
-    <display-name lang="en">Players Championship 14 - Board 4</display-name>
-  </channel>
-  <channel id="Players Championship 14 - Board 1">
-    <display-name lang="en">Players Championship 14 - Board 1</display-name>
   </channel>
   <channel id="UCL: Aston Villa vs PSG (Prime Video)">
     <display-name lang="en">UCL: Aston Villa vs PSG (Prime Video)</display-name>
@@ -120,6 +120,38 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
+  <programme start="20250415000000 -0500" channel="Players Championship 14 - Board 2" stop="20250415235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250415000000 -0500" channel="Players Championship 14 - Board 3" stop="20250415235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250415000000 -0500" channel="Players Championship 14 - Board 4" stop="20250415235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250415000000 -0500" channel="Players Championship 14 - Board 1" stop="20250415235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250415000000 -0500" channel="Hawks at Magic" stop="20250415235959 -0500">
     <title>06:30 PM 15/04/25</title>
     <date>2025</date>
@@ -162,38 +194,6 @@
   </programme>
   <programme start="20250415000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250415235959 -0500">
     <title>11:00 AM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250415000000 -0500" channel="Players Championship 14 - Board 2" stop="20250415235959 -0500">
-    <title>06:00 AM 15/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250415000000 -0500" channel="Players Championship 14 - Board 3" stop="20250415235959 -0500">
-    <title>06:00 AM 15/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250415000000 -0500" channel="Players Championship 14 - Board 4" stop="20250415235959 -0500">
-    <title>06:00 AM 15/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250415000000 -0500" channel="Players Championship 14 - Board 1" stop="20250415235959 -0500">
-    <title>06:00 AM 15/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
