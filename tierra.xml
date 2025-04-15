@@ -30,6 +30,9 @@
   <channel id="Boxing: Eubank Jr. vs. Benn">
     <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
   </channel>
+  <channel id="UCL: Multicast">
+    <display-name lang="en">UCL: Multicast</display-name>
+  </channel>
   <channel id="UCL: Aston Villa vs PSG (Prime Video)">
     <display-name lang="en">UCL: Aston Villa vs PSG (Prime Video)</display-name>
   </channel>
@@ -194,6 +197,14 @@
   </programme>
   <programme start="20250415000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250415235959 -0500">
     <title>11:00 AM 26/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250415000000 -0500" channel="UCL: Multicast" stop="20250415235959 -0500">
+    <title>02:00 PM 15/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
