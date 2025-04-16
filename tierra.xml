@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250416 -0500">
-  <channel id="PDC_USA_2">
-    <display-name lang="en">PDC_USA_2</display-name>
-  </channel>
   <channel id="Heat at Bulls">
     <display-name lang="en">Heat at Bulls</display-name>
   </channel>
@@ -26,6 +23,9 @@
   </channel>
   <channel id="EPL: Newcastle United vs Crystal Palace">
     <display-name lang="en">EPL: Newcastle United vs Crystal Palace</display-name>
+  </channel>
+  <channel id="UCL: Multicast">
+    <display-name lang="en">UCL: Multicast</display-name>
   </channel>
   <channel id="UCL: Real Madrid vs Arsenal (TNT Sports)">
     <display-name lang="en">UCL: Real Madrid vs Arsenal (TNT Sports)</display-name>
@@ -117,14 +117,6 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250416000000 -0500" channel="PDC_USA_2" stop="20250416235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250416000000 -0500" channel="Heat at Bulls" stop="20250416235959 -0500">
     <title>06:30 PM 16/04/25</title>
     <date>2025</date>
@@ -183,6 +175,14 @@
   </programme>
   <programme start="20250416000000 -0500" channel="EPL: Newcastle United vs Crystal Palace" stop="20250416235959 -0500">
     <title>01:30 PM 16/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250416000000 -0500" channel="UCL: Multicast" stop="20250416235959 -0500">
+    <title>02:00 PM 16/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
