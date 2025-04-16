@@ -81,6 +81,9 @@
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
+  <channel id="TNA: Impact!">
+    <display-name lang="en">TNA: Impact!</display-name>
+  </channel>
   <channel id="WWE: Friday Night SmackDown">
     <display-name lang="en">WWE: Friday Night SmackDown</display-name>
   </channel>
@@ -318,6 +321,14 @@
   </programme>
   <programme start="20250416000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250416235959 -0500">
     <title>07:00 PM 16/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250416000000 -0500" channel="TNA: Impact!" stop="20250416235959 -0500">
+    <title>07:00 PM 17/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
