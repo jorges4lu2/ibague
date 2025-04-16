@@ -3,6 +3,21 @@
   <channel id="Chicago Cubs vs. San Diego Padres">
     <display-name lang="en">Chicago Cubs vs. San Diego Padres</display-name>
   </channel>
+  <channel id="Cleveland Guardians vs. Baltimore Orioles">
+    <display-name lang="en">Cleveland Guardians vs. Baltimore Orioles</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. Miami Marlins">
+    <display-name lang="en">Arizona Diamondbacks vs. Miami Marlins</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. Cincinnati Reds">
+    <display-name lang="en">Seattle Mariners vs. Cincinnati Reds</display-name>
+  </channel>
+  <channel id="Washington Nationals vs. Pittsburgh Pirates">
+    <display-name lang="en">Washington Nationals vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. Philadelphia Phillies">
+    <display-name lang="en">San Francisco Giants vs. Philadelphia Phillies</display-name>
+  </channel>
   <channel id="Heat at Bulls">
     <display-name lang="en">Heat at Bulls</display-name>
   </channel>
@@ -24,21 +39,6 @@
   <channel id="BetMGM Premier League - Night Eleven">
     <display-name lang="en">BetMGM Premier League - Night Eleven</display-name>
   </channel>
-  <channel id="Cleveland Guardians vs. Baltimore Orioles">
-    <display-name lang="en">Cleveland Guardians vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Miami Marlins">
-    <display-name lang="en">Arizona Diamondbacks vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Cincinnati Reds">
-    <display-name lang="en">Seattle Mariners vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Pittsburgh Pirates">
-    <display-name lang="en">Washington Nationals vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Philadelphia Phillies">
-    <display-name lang="en">San Francisco Giants vs. Philadelphia Phillies</display-name>
-  </channel>
   <channel id="Boston Red Sox vs. Tampa Bay Rays">
     <display-name lang="en">Boston Red Sox vs. Tampa Bay Rays</display-name>
   </channel>
@@ -59,6 +59,9 @@
   </channel>
   <channel id="TNA: Impact!">
     <display-name lang="en">TNA: Impact!</display-name>
+  </channel>
+  <channel id="GCW: Josh Barnett's Bloodsport XIII">
+    <display-name lang="en">GCW: Josh Barnett's Bloodsport XIII</display-name>
   </channel>
   <channel id="WWE: Friday Night SmackDown">
     <display-name lang="en">WWE: Friday Night SmackDown</display-name>
@@ -88,6 +91,46 @@
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
   <programme start="20250416000000 -0500" channel="Chicago Cubs vs. San Diego Padres" stop="20250416235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250416000000 -0500" channel="Cleveland Guardians vs. Baltimore Orioles" stop="20250416235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250416000000 -0500" channel="Arizona Diamondbacks vs. Miami Marlins" stop="20250416235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250416000000 -0500" channel="Seattle Mariners vs. Cincinnati Reds" stop="20250416235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250416000000 -0500" channel="Washington Nationals vs. Pittsburgh Pirates" stop="20250416235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250416000000 -0500" channel="San Francisco Giants vs. Philadelphia Phillies" stop="20250416235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -151,46 +194,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="Cleveland Guardians vs. Baltimore Orioles" stop="20250416235959 -0500">
-    <title>05:35 PM 16/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250416000000 -0500" channel="Arizona Diamondbacks vs. Miami Marlins" stop="20250416235959 -0500">
-    <title>05:40 PM 16/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250416000000 -0500" channel="Seattle Mariners vs. Cincinnati Reds" stop="20250416235959 -0500">
-    <title>05:40 PM 16/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250416000000 -0500" channel="Washington Nationals vs. Pittsburgh Pirates" stop="20250416235959 -0500">
-    <title>05:40 PM 16/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250416000000 -0500" channel="San Francisco Giants vs. Philadelphia Phillies" stop="20250416235959 -0500">
-    <title>05:45 PM 16/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250416000000 -0500" channel="Boston Red Sox vs. Tampa Bay Rays" stop="20250416235959 -0500">
     <title>06:05 PM 16/04/25</title>
     <date>2025</date>
@@ -241,6 +244,14 @@
   </programme>
   <programme start="20250416000000 -0500" channel="TNA: Impact!" stop="20250416235959 -0500">
     <title>07:00 PM 17/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250416000000 -0500" channel="GCW: Josh Barnett's Bloodsport XIII" stop="20250416235959 -0500">
+    <title>10:00 PM 17/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
