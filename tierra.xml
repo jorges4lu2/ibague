@@ -39,6 +39,9 @@
   <channel id="Houston Astros vs. St. Louis Cardinals">
     <display-name lang="en">Houston Astros vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Los Angeles Angels vs. Texas Rangers">
+    <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
+  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
   </channel>
@@ -56,9 +59,6 @@
   </channel>
   <channel id="Boxing: Eubank Jr. vs. Benn">
     <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Texas Rangers">
-    <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
   </channel>
   <channel id="Chicago Cubs vs. San Diego Padres">
     <display-name lang="en">Chicago Cubs vs. San Diego Padres</display-name>
@@ -200,6 +200,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250415000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250415235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250415000000 -0500" channel="WWE: NXT" stop="20250415235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -242,14 +250,6 @@
   </programme>
   <programme start="20250415000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250415235959 -0500">
     <title>11:00 AM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250415000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250415235959 -0500">
-    <title>07:05 PM 15/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
