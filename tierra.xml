@@ -18,8 +18,14 @@
   <channel id="Boxing: Eubank Jr. vs. Benn">
     <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
   </channel>
+  <channel id="PDC_USA_2">
+    <display-name lang="en">PDC_USA_2</display-name>
+  </channel>
   <channel id="BetMGM Premier League - Night Eleven">
     <display-name lang="en">BetMGM Premier League - Night Eleven</display-name>
+  </channel>
+  <channel id="EPL: Newcastle United vs Crystal Palace">
+    <display-name lang="en">EPL: Newcastle United vs Crystal Palace</display-name>
   </channel>
   <channel id="UCL: Real Madrid vs Arsenal (TNT Sports)">
     <display-name lang="en">UCL: Real Madrid vs Arsenal (TNT Sports)</display-name>
@@ -159,8 +165,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250416000000 -0500" channel="PDC_USA_2" stop="20250416235959 -0500">
+    <title>09:31 AM 16/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250416000000 -0500" channel="BetMGM Premier League - Night Eleven" stop="20250416235959 -0500">
     <title>12:00 PM 17/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250416000000 -0500" channel="EPL: Newcastle United vs Crystal Palace" stop="20250416235959 -0500">
+    <title>01:30 PM 16/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
