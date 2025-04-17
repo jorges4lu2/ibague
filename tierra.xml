@@ -54,6 +54,9 @@
   <channel id="UECL: Chelsea vs Legia Warsaw (CBS Sports)">
     <display-name lang="en">UECL: Chelsea vs Legia Warsaw (CBS Sports)</display-name>
   </channel>
+  <channel id="AEW: Collision">
+    <display-name lang="en">AEW: Collision</display-name>
+  </channel>
   <channel id="TNA: Impact!">
     <display-name lang="en">TNA: Impact!</display-name>
   </channel>
@@ -65,9 +68,6 @@
   </channel>
   <channel id="WWE: WrestleMania (Day 1)">
     <display-name lang="en">WWE: WrestleMania (Day 1)</display-name>
-  </channel>
-  <channel id="AEW: Saturday Night Collision">
-    <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
   <channel id="WWE: WrestleMania (Day 2)">
     <display-name lang="en">WWE: WrestleMania (Day 2)</display-name>
@@ -231,6 +231,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250417000000 -0500" channel="AEW: Collision" stop="20250417235959 -0500">
+    <title>07:00 PM 17/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250417000000 -0500" channel="TNA: Impact!" stop="20250417235959 -0500">
     <title>07:00 PM 17/04/25</title>
     <date>2025</date>
@@ -257,14 +265,6 @@
   </programme>
   <programme start="20250417000000 -0500" channel="WWE: WrestleMania (Day 1)" stop="20250417235959 -0500">
     <title>06:00 PM 19/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="AEW: Saturday Night Collision" stop="20250417235959 -0500">
-    <title>07:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
