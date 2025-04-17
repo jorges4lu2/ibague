@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250416 -0500">
-  <channel id="Mavericks at Kings">
-    <display-name lang="en">Mavericks at Kings</display-name>
-  </channel>
+<tv date="20250417 -0500">
   <channel id="Colorado Rockies vs. Los Angeles Dodgers">
     <display-name lang="en">Colorado Rockies vs. Los Angeles Dodgers</display-name>
   </channel>
@@ -20,6 +17,9 @@
   </channel>
   <channel id="BetMGM Premier League - Night Eleven">
     <display-name lang="en">BetMGM Premier League - Night Eleven</display-name>
+  </channel>
+  <channel id="China Premier League Stage 1 &amp;amp; 2">
+    <display-name lang="en">China Premier League Stage 1 &amp;amp; 2</display-name>
   </channel>
   <channel id="TNA: Impact!">
     <display-name lang="en">TNA: Impact!</display-name>
@@ -54,7 +54,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250416000000 -0500" channel="Mavericks at Kings" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="Colorado Rockies vs. Los Angeles Dodgers" stop="20250417235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -62,15 +62,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="Colorado Rockies vs. Los Angeles Dodgers" stop="20250416235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250416000000 -0500" channel="LND Monthly" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="LND Monthly" stop="20250417235959 -0500">
     <title>07:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -78,7 +70,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="MFN Weekly" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="MFN Weekly" stop="20250417235959 -0500">
     <title>07:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -86,7 +78,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250417235959 -0500">
     <title>11:00 AM 26/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -94,7 +86,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250417235959 -0500">
     <title>11:00 AM 26/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -102,7 +94,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="BetMGM Premier League - Night Eleven" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="BetMGM Premier League - Night Eleven" stop="20250417235959 -0500">
     <title>12:00 PM 17/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -110,7 +102,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="TNA: Impact!" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="China Premier League Stage 1 &amp;amp; 2" stop="20250417235959 -0500">
+    <title>01:00 AM 18/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="TNA: Impact!" stop="20250417235959 -0500">
     <title>07:00 PM 17/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -118,7 +118,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="GCW: Josh Barnett's Bloodsport XIII" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="GCW: Josh Barnett's Bloodsport XIII" stop="20250417235959 -0500">
     <title>10:00 PM 17/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -126,7 +126,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250417235959 -0500">
     <title>07:00 PM 18/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -134,7 +134,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="WWE: WrestleMania (Day 1)" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="WWE: WrestleMania (Day 1)" stop="20250417235959 -0500">
     <title>06:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -142,7 +142,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="AEW: Saturday Night Collision" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="AEW: Saturday Night Collision" stop="20250417235959 -0500">
     <title>07:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -150,7 +150,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="WWE: WrestleMania (Day 2)" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="WWE: WrestleMania (Day 2)" stop="20250417235959 -0500">
     <title>06:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
@@ -158,7 +158,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="24/7 COWS" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="24/7 COWS" stop="20250417235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -166,7 +166,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="24/7 South Park" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="24/7 South Park" stop="20250417235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -174,7 +174,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="24/7 The Simpsons" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="24/7 The Simpsons" stop="20250417235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -182,7 +182,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="(North) Korean Central Television" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="(North) Korean Central Television" stop="20250417235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -190,7 +190,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250416000000 -0500" channel="24/7 S*y Sports Golf" stop="20250416235959 -0500">
+  <programme start="20250417000000 -0500" channel="24/7 S*y Sports Golf" stop="20250417235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
