@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250417 -0500">
+  <channel id="Heat at Hawks">
+    <display-name lang="en">Heat at Hawks</display-name>
+  </channel>
+  <channel id="Mavericks at Grizzlies">
+    <display-name lang="en">Mavericks at Grizzlies</display-name>
+  </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
@@ -81,6 +87,22 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
+  <programme start="20250417000000 -0500" channel="Heat at Hawks" stop="20250417235959 -0500">
+    <title>06:00 PM 18/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="Mavericks at Grizzlies" stop="20250417235959 -0500">
+    <title>08:30 PM 18/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250417000000 -0500" channel="LND Monthly" stop="20250417235959 -0500">
     <title>07:00 PM 19/04/25</title>
     <date>2025</date>
