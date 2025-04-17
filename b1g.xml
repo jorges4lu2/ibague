@@ -1209,6 +1209,9 @@
   <channel id="WWE: WrestleMania 41 (Sun 01:00 UK)">
     <display-name lang="en">WWE: WrestleMania 41 (Sun 01:00 UK)</display-name>
   </channel>
+  <channel id="LIVE EVENT 10 - 7:30PM Mars Late Models">
+    <display-name lang="en">LIVE EVENT 10 - 7:30PM Mars Late Models</display-name>
+  </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Game Changer Wrestling DEFY: Living Proof 2025 - Thu,17 Apr 14:00 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Game Changer Wrestling DEFY: Living Proof 2025 - Thu,17 Apr 14:00 ET</display-name>
   </channel>
@@ -5267,6 +5270,14 @@
   </programme>
   <programme start="20250417000000 -0500" channel="WWE: WrestleMania 41 (Sun 01:00 UK)" stop="20250417235959 -0500">
     <title>07:00 PM</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="LIVE EVENT 10 - 7:30PM Mars Late Models" stop="20250417235959 -0500">
+    <title>01:30 PM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
