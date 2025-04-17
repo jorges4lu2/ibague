@@ -27,6 +27,9 @@
   <channel id="Athletics vs. Chicago White Sox">
     <display-name lang="en">Athletics vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Los Angeles Angels vs. Texas Rangers">
+    <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -47,9 +50,6 @@
   </channel>
   <channel id="BetMGM Premier League - Night Eleven">
     <display-name lang="en">BetMGM Premier League - Night Eleven</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Texas Rangers">
-    <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
   </channel>
   <channel id="Colorado Rockies vs. Los Angeles Dodgers">
     <display-name lang="en">Colorado Rockies vs. Los Angeles Dodgers</display-name>
@@ -159,6 +159,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250416000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250416235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250416000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250416235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -209,14 +217,6 @@
   </programme>
   <programme start="20250416000000 -0500" channel="BetMGM Premier League - Night Eleven" stop="20250416235959 -0500">
     <title>12:00 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250416000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250416235959 -0500">
-    <title>07:05 PM 16/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
