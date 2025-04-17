@@ -3,35 +3,8 @@
   <channel id="BetMGM Premier League - Night Eleven">
     <display-name lang="en">BetMGM Premier League - Night Eleven</display-name>
   </channel>
-  <channel id="UEL: Manchester United vs Lyon (TNT Sports)">
-    <display-name lang="en">UEL: Manchester United vs Lyon (TNT Sports)</display-name>
-  </channel>
-  <channel id="UEL: Athletic Bilbao vs Rangers">
-    <display-name lang="en">UEL: Athletic Bilbao vs Rangers</display-name>
-  </channel>
-  <channel id="UEL: Eintracht Frankfurt vs Tottenham">
-    <display-name lang="en">UEL: Eintracht Frankfurt vs Tottenham</display-name>
-  </channel>
-  <channel id="UEL: Lazio vs Bod&#248;/Glimt">
-    <display-name lang="en">UEL: Lazio vs Bod&#248;/Glimt</display-name>
-  </channel>
-  <channel id="UEL: Manchester United vs Lyon (CBS Sports)">
-    <display-name lang="en">UEL: Manchester United vs Lyon (CBS Sports)</display-name>
-  </channel>
-  <channel id="UECL: Rapid Vienna vs Djurg&#229;rden">
-    <display-name lang="en">UECL: Rapid Vienna vs Djurg&#229;rden</display-name>
-  </channel>
-  <channel id="UECL: Chelsea vs Legia Warsaw (TNT Sports)">
-    <display-name lang="en">UECL: Chelsea vs Legia Warsaw (TNT Sports)</display-name>
-  </channel>
-  <channel id="UECL: Chelsea vs Legia Warsaw (CBS Sports)">
-    <display-name lang="en">UECL: Chelsea vs Legia Warsaw (CBS Sports)</display-name>
-  </channel>
   <channel id="UEFA: The Golazo Show">
     <display-name lang="en">UEFA: The Golazo Show</display-name>
-  </channel>
-  <channel id="Athletics vs. Chicago White Sox">
-    <display-name lang="en">Athletics vs. Chicago White Sox</display-name>
   </channel>
   <channel id="San Francisco Giants vs. Philadelphia Phillies">
     <display-name lang="en">San Francisco Giants vs. Philadelphia Phillies</display-name>
@@ -71,6 +44,21 @@
   </channel>
   <channel id="Los Angeles Angels vs. Texas Rangers">
     <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="F1: Saudi Arabian Grand Prix (Practice 1)">
+    <display-name lang="en">F1: Saudi Arabian Grand Prix (Practice 1)</display-name>
+  </channel>
+  <channel id="F1: Saudi Arabian Grand Prix (Practice 2)">
+    <display-name lang="en">F1: Saudi Arabian Grand Prix (Practice 2)</display-name>
+  </channel>
+  <channel id="F1: Saudi Arabian Grand Prix (Practice 3)">
+    <display-name lang="en">F1: Saudi Arabian Grand Prix (Practice 3)</display-name>
+  </channel>
+  <channel id="F1: Saudi Arabian Grand Prix (Qualifying)">
+    <display-name lang="en">F1: Saudi Arabian Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="F1: Saudi Arabian Grand Prix (Race)">
+    <display-name lang="en">F1: Saudi Arabian Grand Prix (Race)</display-name>
   </channel>
   <channel id="AEW: Collision">
     <display-name lang="en">AEW: Collision</display-name>
@@ -113,79 +101,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250417000000 -0500" channel="UEL: Manchester United vs Lyon (TNT Sports)" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UEL: Athletic Bilbao vs Rangers" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UEL: Eintracht Frankfurt vs Tottenham" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UEL: Lazio vs Bod&#248;/Glimt" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UEL: Manchester United vs Lyon (CBS Sports)" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UECL: Rapid Vienna vs Djurg&#229;rden" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UECL: Chelsea vs Legia Warsaw (TNT Sports)" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UECL: Chelsea vs Legia Warsaw (CBS Sports)" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250417000000 -0500" channel="UEFA: The Golazo Show" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="Athletics vs. Chicago White Sox" stop="20250417235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -291,6 +207,46 @@
   </programme>
   <programme start="20250417000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250417235959 -0500">
     <title>07:05 PM 17/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="F1: Saudi Arabian Grand Prix (Practice 1)" stop="20250417235959 -0500">
+    <title>08:30 AM 18/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="F1: Saudi Arabian Grand Prix (Practice 2)" stop="20250417235959 -0500">
+    <title>12:00 PM 18/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="F1: Saudi Arabian Grand Prix (Practice 3)" stop="20250417235959 -0500">
+    <title>08:30 AM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="F1: Saudi Arabian Grand Prix (Qualifying)" stop="20250417235959 -0500">
+    <title>12:00 PM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="F1: Saudi Arabian Grand Prix (Race)" stop="20250417235959 -0500">
+    <title>12:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
