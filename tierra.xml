@@ -9,27 +9,6 @@
   <channel id="UECL: Fiorentina vs Celje">
     <display-name lang="en">UECL: Fiorentina vs Celje</display-name>
   </channel>
-  <channel id="Heat at Hawks">
-    <display-name lang="en">Heat at Hawks</display-name>
-  </channel>
-  <channel id="Mavericks at Grizzlies">
-    <display-name lang="en">Mavericks at Grizzlies</display-name>
-  </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="MFN Weekly">
-    <display-name lang="en">MFN Weekly</display-name>
-  </channel>
-  <channel id="OKTAGON 70 (German/Deutsch)">
-    <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
-  </channel>
-  <channel id="Boxing: Eubank Jr. vs. Benn">
-    <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
-  </channel>
-  <channel id="China Premier League Stage 1 &amp;amp; 2">
-    <display-name lang="en">China Premier League Stage 1 &amp;amp; 2</display-name>
-  </channel>
   <channel id="UEL: Manchester United vs Lyon (TNT Sports)">
     <display-name lang="en">UEL: Manchester United vs Lyon (TNT Sports)</display-name>
   </channel>
@@ -56,6 +35,27 @@
   </channel>
   <channel id="UEFA: The Golazo Show">
     <display-name lang="en">UEFA: The Golazo Show</display-name>
+  </channel>
+  <channel id="Heat at Hawks">
+    <display-name lang="en">Heat at Hawks</display-name>
+  </channel>
+  <channel id="Mavericks at Grizzlies">
+    <display-name lang="en">Mavericks at Grizzlies</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
+  </channel>
+  <channel id="MFN Weekly">
+    <display-name lang="en">MFN Weekly</display-name>
+  </channel>
+  <channel id="OKTAGON 70 (German/Deutsch)">
+    <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
+  </channel>
+  <channel id="Boxing: Eubank Jr. vs. Benn">
+    <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
+  </channel>
+  <channel id="China Premier League Stage 1 &amp;amp; 2">
+    <display-name lang="en">China Premier League Stage 1 &amp;amp; 2</display-name>
   </channel>
   <channel id="AEW: Collision">
     <display-name lang="en">AEW: Collision</display-name>
@@ -114,6 +114,78 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250417000000 -0500" channel="UEL: Manchester United vs Lyon (TNT Sports)" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="UEL: Athletic Bilbao vs Rangers" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="UEL: Eintracht Frankfurt vs Tottenham" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="UEL: Lazio vs Bod&#248;/Glimt" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="UEL: Manchester United vs Lyon (CBS Sports)" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="UECL: Rapid Vienna vs Djurg&#229;rden" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="UECL: Chelsea vs Legia Warsaw (TNT Sports)" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="UECL: Chelsea vs Legia Warsaw (CBS Sports)" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="UEFA: The Golazo Show" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250417000000 -0500" channel="Heat at Hawks" stop="20250417235959 -0500">
     <title>06:00 PM 18/04/25</title>
     <date>2025</date>
@@ -164,78 +236,6 @@
   </programme>
   <programme start="20250417000000 -0500" channel="China Premier League Stage 1 &amp;amp; 2" stop="20250417235959 -0500">
     <title>01:00 AM 18/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UEL: Manchester United vs Lyon (TNT Sports)" stop="20250417235959 -0500">
-    <title>02:00 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UEL: Athletic Bilbao vs Rangers" stop="20250417235959 -0500">
-    <title>02:00 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UEL: Eintracht Frankfurt vs Tottenham" stop="20250417235959 -0500">
-    <title>02:00 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UEL: Lazio vs Bod&#248;/Glimt" stop="20250417235959 -0500">
-    <title>02:00 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UEL: Manchester United vs Lyon (CBS Sports)" stop="20250417235959 -0500">
-    <title>02:00 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UECL: Rapid Vienna vs Djurg&#229;rden" stop="20250417235959 -0500">
-    <title>02:00 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UECL: Chelsea vs Legia Warsaw (TNT Sports)" stop="20250417235959 -0500">
-    <title>02:00 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UECL: Chelsea vs Legia Warsaw (CBS Sports)" stop="20250417235959 -0500">
-    <title>02:00 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="UEFA: The Golazo Show" stop="20250417235959 -0500">
-    <title>02:00 PM 17/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
