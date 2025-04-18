@@ -3,6 +3,9 @@
   <channel id="China Premier League Stage 1 &amp;amp; 2">
     <display-name lang="en">China Premier League Stage 1 &amp;amp; 2</display-name>
   </channel>
+  <channel id="F1: Saudi Arabian Grand Prix (Practice 1)">
+    <display-name lang="en">F1: Saudi Arabian Grand Prix (Practice 1)</display-name>
+  </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
   </channel>
@@ -114,9 +117,6 @@
   <channel id="San Francisco Giants vs. Los Angeles Angels">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Angels</display-name>
   </channel>
-  <channel id="F1: Saudi Arabian Grand Prix (Practice 1)">
-    <display-name lang="en">F1: Saudi Arabian Grand Prix (Practice 1)</display-name>
-  </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Practice 2)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Practice 2)</display-name>
   </channel>
@@ -157,6 +157,14 @@
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
   <programme start="20250418000000 -0500" channel="China Premier League Stage 1 &amp;amp; 2" stop="20250418235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="F1: Saudi Arabian Grand Prix (Practice 1)" stop="20250418235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -454,14 +462,6 @@
   </programme>
   <programme start="20250418000000 -0500" channel="San Francisco Giants vs. Los Angeles Angels" stop="20250418235959 -0500">
     <title>08:38 PM 18/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250418000000 -0500" channel="F1: Saudi Arabian Grand Prix (Practice 1)" stop="20250418235959 -0500">
-    <title>08:30 AM 18/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
