@@ -39,6 +39,9 @@
   <channel id="2025 German Darts Grand Prix Day One">
     <display-name lang="en">2025 German Darts Grand Prix Day One</display-name>
   </channel>
+  <channel id="EPL: Goal Rush">
+    <display-name lang="en">EPL: Goal Rush</display-name>
+  </channel>
   <channel id="EPL: Brentford vs Brighton and Hove Albion">
     <display-name lang="en">EPL: Brentford vs Brighton and Hove Albion</display-name>
   </channel>
@@ -251,6 +254,14 @@
   </programme>
   <programme start="20250418000000 -0500" channel="2025 German Darts Grand Prix Day One" stop="20250418235959 -0500">
     <title>06:00 AM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="EPL: Goal Rush" stop="20250418235959 -0500">
+    <title>09:00 AM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
