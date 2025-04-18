@@ -3,9 +3,6 @@
   <channel id="PFL: First Round - Lightweights and Middleweights">
     <display-name lang="en">PFL: First Round - Lightweights and Middleweights</display-name>
   </channel>
-  <channel id="Arizona Diamondbacks vs. Chicago Cubs">
-    <display-name lang="en">Arizona Diamondbacks vs. Chicago Cubs</display-name>
-  </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
   </channel>
@@ -114,8 +111,14 @@
   <channel id="F1: Saudi Arabian Grand Prix (Practice 3)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Practice 3)</display-name>
   </channel>
+  <channel id="AMA Supercross: Race Day Live: East Rutherford">
+    <display-name lang="en">AMA Supercross: Race Day Live: East Rutherford</display-name>
+  </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Qualifying)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="AMA Supercross: East Rutherford">
+    <display-name lang="en">AMA Supercross: East Rutherford</display-name>
   </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
@@ -148,14 +151,6 @@
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
   <programme start="20250418000000 -0500" channel="PFL: First Round - Lightweights and Middleweights" stop="20250418235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250418000000 -0500" channel="Arizona Diamondbacks vs. Chicago Cubs" stop="20250418235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -451,8 +446,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250418000000 -0500" channel="AMA Supercross: Race Day Live: East Rutherford" stop="20250418235959 -0500">
+    <title>08:30 AM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250418000000 -0500" channel="F1: Saudi Arabian Grand Prix (Qualifying)" stop="20250418235959 -0500">
     <title>12:00 PM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="AMA Supercross: East Rutherford" stop="20250418235959 -0500">
+    <title>02:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
