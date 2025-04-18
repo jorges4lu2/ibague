@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250418 -0500">
+  <channel id="PFL: First Round - Lightweights and Middleweights">
+    <display-name lang="en">PFL: First Round - Lightweights and Middleweights</display-name>
+  </channel>
   <channel id="Arizona Diamondbacks vs. Chicago Cubs">
     <display-name lang="en">Arizona Diamondbacks vs. Chicago Cubs</display-name>
   </channel>
@@ -17,9 +20,6 @@
   </channel>
   <channel id="Mavericks at Grizzlies">
     <display-name lang="en">Mavericks at Grizzlies</display-name>
-  </channel>
-  <channel id="PFL: First Round - Lightweights and Middleweights">
-    <display-name lang="en">PFL: First Round - Lightweights and Middleweights</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -147,6 +147,14 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
+  <programme start="20250418000000 -0500" channel="PFL: First Round - Lightweights and Middleweights" stop="20250418235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250418000000 -0500" channel="Arizona Diamondbacks vs. Chicago Cubs" stop="20250418235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -189,14 +197,6 @@
   </programme>
   <programme start="20250418000000 -0500" channel="Mavericks at Grizzlies" stop="20250418235959 -0500">
     <title>08:30 PM 18/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250418000000 -0500" channel="PFL: First Round - Lightweights and Middleweights" stop="20250418235959 -0500">
-    <title>04:00 PM 18/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
