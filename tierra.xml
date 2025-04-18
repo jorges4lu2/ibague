@@ -1,19 +1,34 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250417 -0500">
-  <channel id="BetMGM Premier League - Night Eleven">
-    <display-name lang="en">BetMGM Premier League - Night Eleven</display-name>
-  </channel>
   <channel id="UEFA: The Golazo Show">
     <display-name lang="en">UEFA: The Golazo Show</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Philadelphia Phillies">
-    <display-name lang="en">San Francisco Giants vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. Baltimore Orioles">
     <display-name lang="en">Cleveland Guardians vs. Baltimore Orioles</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Detroit Tigers">
     <display-name lang="en">Kansas City Royals vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="New York Yankees vs. Tampa Bay Rays">
+    <display-name lang="en">New York Yankees vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="St. Louis Cardinals vs. New York Mets">
+    <display-name lang="en">St. Louis Cardinals vs. New York Mets</display-name>
+  </channel>
+  <channel id="AEW: Collision">
+    <display-name lang="en">AEW: Collision</display-name>
+  </channel>
+  <channel id="TNA: Impact!">
+    <display-name lang="en">TNA: Impact!</display-name>
+  </channel>
+  <channel id="2025 NFL Draft: Day 1">
+    <display-name lang="en">2025 NFL Draft: Day 1</display-name>
+  </channel>
+  <channel id="2025 NFL Draft: Day 3">
+    <display-name lang="en">2025 NFL Draft: Day 3</display-name>
+  </channel>
+  <channel id="2025 NFL Draft: Day 2">
+    <display-name lang="en">2025 NFL Draft: Day 2</display-name>
   </channel>
   <channel id="Heat at Hawks">
     <display-name lang="en">Heat at Hawks</display-name>
@@ -39,12 +54,6 @@
   <channel id="China Premier League Stage 1 &amp;amp; 2">
     <display-name lang="en">China Premier League Stage 1 &amp;amp; 2</display-name>
   </channel>
-  <channel id="New York Yankees vs. Tampa Bay Rays">
-    <display-name lang="en">New York Yankees vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. New York Mets">
-    <display-name lang="en">St. Louis Cardinals vs. New York Mets</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. Texas Rangers">
     <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
   </channel>
@@ -62,12 +71,6 @@
   </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Race)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Race)</display-name>
-  </channel>
-  <channel id="AEW: Collision">
-    <display-name lang="en">AEW: Collision</display-name>
-  </channel>
-  <channel id="TNA: Impact!">
-    <display-name lang="en">TNA: Impact!</display-name>
   </channel>
   <channel id="GCW: Josh Barnett's Bloodsport XIII">
     <display-name lang="en">GCW: Josh Barnett's Bloodsport XIII</display-name>
@@ -96,23 +99,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250417000000 -0500" channel="BetMGM Premier League - Night Eleven" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250417000000 -0500" channel="UEFA: The Golazo Show" stop="20250417235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="San Francisco Giants vs. Philadelphia Phillies" stop="20250417235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -130,6 +117,62 @@
   </programme>
   <programme start="20250417000000 -0500" channel="Kansas City Royals vs. Detroit Tigers" stop="20250417235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="New York Yankees vs. Tampa Bay Rays" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="St. Louis Cardinals vs. New York Mets" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="AEW: Collision" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="TNA: Impact!" stop="20250417235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="2025 NFL Draft: Day 1" stop="20250417235959 -0500">
+    <title>07:00 PM 26/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="2025 NFL Draft: Day 3" stop="20250417235959 -0500">
+    <title>11:00 AM 27/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250417000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250417235959 -0500">
+    <title>06:00 PM 27/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -200,22 +243,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250417000000 -0500" channel="New York Yankees vs. Tampa Bay Rays" stop="20250417235959 -0500">
-    <title>06:05 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="St. Louis Cardinals vs. New York Mets" stop="20250417235959 -0500">
-    <title>06:10 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250417000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250417235959 -0500">
     <title>07:05 PM 17/04/25</title>
     <date>2025</date>
@@ -258,22 +285,6 @@
   </programme>
   <programme start="20250417000000 -0500" channel="F1: Saudi Arabian Grand Prix (Race)" stop="20250417235959 -0500">
     <title>12:00 PM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="AEW: Collision" stop="20250417235959 -0500">
-    <title>07:00 PM 17/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250417000000 -0500" channel="TNA: Impact!" stop="20250417235959 -0500">
-    <title>07:00 PM 17/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
