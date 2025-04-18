@@ -39,6 +39,33 @@
   <channel id="2025 German Darts Grand Prix Day One">
     <display-name lang="en">2025 German Darts Grand Prix Day One</display-name>
   </channel>
+  <channel id="EPL: Brentford vs Brighton and Hove Albion">
+    <display-name lang="en">EPL: Brentford vs Brighton and Hove Albion</display-name>
+  </channel>
+  <channel id="EPL: Crystal Palace vs Bournemouth">
+    <display-name lang="en">EPL: Crystal Palace vs Bournemouth</display-name>
+  </channel>
+  <channel id="EPL: Everton vs Manchester City">
+    <display-name lang="en">EPL: Everton vs Manchester City</display-name>
+  </channel>
+  <channel id="EPL: West Ham United vs Southampton">
+    <display-name lang="en">EPL: West Ham United vs Southampton</display-name>
+  </channel>
+  <channel id="EPL: Aston Villa vs Newcastle United">
+    <display-name lang="en">EPL: Aston Villa vs Newcastle United</display-name>
+  </channel>
+  <channel id="EPL: Fulham vs Chelsea">
+    <display-name lang="en">EPL: Fulham vs Chelsea</display-name>
+  </channel>
+  <channel id="EPL: Ipswich Town vs Arsenal">
+    <display-name lang="en">EPL: Ipswich Town vs Arsenal</display-name>
+  </channel>
+  <channel id="EPL: Manchester United vs Wolverhampton Wanderers">
+    <display-name lang="en">EPL: Manchester United vs Wolverhampton Wanderers</display-name>
+  </channel>
+  <channel id="EPL: Leicester City vs Liverpool">
+    <display-name lang="en">EPL: Leicester City vs Liverpool</display-name>
+  </channel>
   <channel id="Arizona Diamondbacks vs. Chicago Cubs">
     <display-name lang="en">Arizona Diamondbacks vs. Chicago Cubs</display-name>
   </channel>
@@ -96,8 +123,11 @@
   <channel id="F1: Saudi Arabian Grand Prix (Qualifying)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Qualifying)</display-name>
   </channel>
-  <channel id="F1: Saudi Arabian Grand Prix (Race)">
-    <display-name lang="en">F1: Saudi Arabian Grand Prix (Race)</display-name>
+  <channel id="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)">
+    <display-name lang="en">F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
+  </channel>
+  <channel id="F1: Saudi Arabian GP (Race, F1TV Commentary)">
+    <display-name lang="en">F1: Saudi Arabian GP (Race, F1TV Commentary)</display-name>
   </channel>
   <channel id="WWE: Friday Night SmackDown">
     <display-name lang="en">WWE: Friday Night SmackDown</display-name>
@@ -221,6 +251,78 @@
   </programme>
   <programme start="20250418000000 -0500" channel="2025 German Darts Grand Prix Day One" stop="20250418235959 -0500">
     <title>06:00 AM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="EPL: Brentford vs Brighton and Hove Albion" stop="20250418235959 -0500">
+    <title>09:00 AM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="EPL: Crystal Palace vs Bournemouth" stop="20250418235959 -0500">
+    <title>09:00 AM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="EPL: Everton vs Manchester City" stop="20250418235959 -0500">
+    <title>09:00 AM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="EPL: West Ham United vs Southampton" stop="20250418235959 -0500">
+    <title>09:00 AM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="EPL: Aston Villa vs Newcastle United" stop="20250418235959 -0500">
+    <title>11:30 AM 19/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="EPL: Fulham vs Chelsea" stop="20250418235959 -0500">
+    <title>08:00 AM 20/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="EPL: Ipswich Town vs Arsenal" stop="20250418235959 -0500">
+    <title>08:00 AM 20/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="EPL: Manchester United vs Wolverhampton Wanderers" stop="20250418235959 -0500">
+    <title>08:00 AM 20/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="EPL: Leicester City vs Liverpool" stop="20250418235959 -0500">
+    <title>10:30 AM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -379,7 +481,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250418000000 -0500" channel="F1: Saudi Arabian Grand Prix (Race)" stop="20250418235959 -0500">
+  <programme start="20250418000000 -0500" channel="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)" stop="20250418235959 -0500">
+    <title>12:00 PM 20/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250418000000 -0500" channel="F1: Saudi Arabian GP (Race, F1TV Commentary)" stop="20250418235959 -0500">
     <title>12:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
