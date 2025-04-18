@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250418 -0500">
+  <channel id="China Premier League Stage 1 &amp;amp; 2">
+    <display-name lang="en">China Premier League Stage 1 &amp;amp; 2</display-name>
+  </channel>
   <channel id="Unbreakable 2025">
     <display-name lang="en">Unbreakable 2025</display-name>
   </channel>
@@ -35,9 +38,6 @@
   </channel>
   <channel id="Boxing: Eubank Jr. vs. Benn">
     <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
-  </channel>
-  <channel id="China Premier League Stage 1 &amp;amp; 2">
-    <display-name lang="en">China Premier League Stage 1 &amp;amp; 2</display-name>
   </channel>
   <channel id="China Premier League&#160; Stage 3, 4 &amp;amp; 5">
     <display-name lang="en">China Premier League&#160; Stage 3, 4 &amp;amp; 5</display-name>
@@ -129,6 +129,14 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
+  <programme start="20250418000000 -0500" channel="China Premier League Stage 1 &amp;amp; 2" stop="20250418235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250418000000 -0500" channel="Unbreakable 2025" stop="20250418235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -219,14 +227,6 @@
   </programme>
   <programme start="20250418000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250418235959 -0500">
     <title>11:00 AM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250418000000 -0500" channel="China Premier League Stage 1 &amp;amp; 2" stop="20250418235959 -0500">
-    <title>01:00 AM 18/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
