@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250419 -0500">
-  <channel id="Clippers at Nuggets">
-    <display-name lang="en">Clippers at Nuggets</display-name>
-  </channel>
   <channel id="Pistons at Knicks">
     <display-name lang="en">Pistons at Knicks</display-name>
   </channel>
@@ -14,9 +11,6 @@
   </channel>
   <channel id="St. Louis Blues vs. Winnipeg Jets">
     <display-name lang="en">St. Louis Blues vs. Winnipeg Jets</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Toronto Blue Jays">
-    <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Baltimore Orioles">
     <display-name lang="en">Cincinnati Reds vs. Baltimore Orioles</display-name>
@@ -39,11 +33,8 @@
   <channel id="Washington Nationals vs. Colorado Rockies">
     <display-name lang="en">Washington Nationals vs. Colorado Rockies</display-name>
   </channel>
-  <channel id="AMA Supercross: East Rutherford">
-    <display-name lang="en">AMA Supercross: East Rutherford</display-name>
-  </channel>
-  <channel id="NXT Stand &amp;amp; Deliver">
-    <display-name lang="en">NXT Stand &amp;amp; Deliver</display-name>
+  <channel id="WWE: WrestleMania (Day 1)">
+    <display-name lang="en">WWE: WrestleMania (Day 1)</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
@@ -111,9 +102,6 @@
   <channel id="F1: Saudi Arabian GP (Race, F1TV Commentary)">
     <display-name lang="en">F1: Saudi Arabian GP (Race, F1TV Commentary)</display-name>
   </channel>
-  <channel id="WWE: WrestleMania (Day 1)">
-    <display-name lang="en">WWE: WrestleMania (Day 1)</display-name>
-  </channel>
   <channel id="WWE: WrestleMania (Day 2)">
     <display-name lang="en">WWE: WrestleMania (Day 2)</display-name>
   </channel>
@@ -132,14 +120,6 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250419000000 -0500" channel="Clippers at Nuggets" stop="20250419235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250419000000 -0500" channel="Pistons at Knicks" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -165,14 +145,6 @@
     </audio>
   </programme>
   <programme start="20250419000000 -0500" channel="St. Louis Blues vs. Winnipeg Jets" stop="20250419235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -236,15 +208,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250419000000 -0500" channel="AMA Supercross: East Rutherford" stop="20250419235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="NXT Stand &amp;amp; Deliver" stop="20250419235959 -0500">
+  <programme start="20250419000000 -0500" channel="WWE: WrestleMania (Day 1)" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -422,14 +386,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="F1: Saudi Arabian GP (Race, F1TV Commentary)" stop="20250419235959 -0500">
     <title>12:00 PM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="WWE: WrestleMania (Day 1)" stop="20250419235959 -0500">
-    <title>06:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
