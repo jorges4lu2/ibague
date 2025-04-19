@@ -18,8 +18,14 @@
   <channel id="Kansas City Royals vs. Detroit Tigers">
     <display-name lang="en">Kansas City Royals vs. Detroit Tigers</display-name>
   </channel>
+  <channel id="Arizona Diamondbacks vs. Chicago Cubs">
+    <display-name lang="en">Arizona Diamondbacks vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Qualifying)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="AMA Supercross: East Rutherford">
+    <display-name lang="en">AMA Supercross: East Rutherford</display-name>
   </channel>
   <channel id="NXT Stand &amp;amp; Deliver">
     <display-name lang="en">NXT Stand &amp;amp; Deliver</display-name>
@@ -75,9 +81,6 @@
   <channel id="EPL: Leicester City vs Liverpool">
     <display-name lang="en">EPL: Leicester City vs Liverpool</display-name>
   </channel>
-  <channel id="Arizona Diamondbacks vs. Chicago Cubs">
-    <display-name lang="en">Arizona Diamondbacks vs. Chicago Cubs</display-name>
-  </channel>
   <channel id="Seattle Mariners vs. Toronto Blue Jays">
     <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
   </channel>
@@ -113,9 +116,6 @@
   </channel>
   <channel id="San Francisco Giants vs. Los Angeles Angels">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="AMA Supercross: East Rutherford">
-    <display-name lang="en">AMA Supercross: East Rutherford</display-name>
   </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
@@ -192,7 +192,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250419000000 -0500" channel="Arizona Diamondbacks vs. Chicago Cubs" stop="20250419235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250419000000 -0500" channel="F1: Saudi Arabian Grand Prix (Qualifying)" stop="20250419235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250419000000 -0500" channel="AMA Supercross: East Rutherford" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -344,14 +360,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250419000000 -0500" channel="Arizona Diamondbacks vs. Chicago Cubs" stop="20250419235959 -0500">
-    <title>01:20 PM 19/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250419000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20250419235959 -0500">
     <title>02:07 PM 19/04/25</title>
     <date>2025</date>
@@ -442,14 +450,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="San Francisco Giants vs. Los Angeles Angels" stop="20250419235959 -0500">
     <title>08:38 PM 19/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="AMA Supercross: East Rutherford" stop="20250419235959 -0500">
-    <title>02:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
