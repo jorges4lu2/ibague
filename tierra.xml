@@ -3,14 +3,17 @@
   <channel id="Clippers at Nuggets">
     <display-name lang="en">Clippers at Nuggets</display-name>
   </channel>
+  <channel id="Pistons at Knicks">
+    <display-name lang="en">Pistons at Knicks</display-name>
+  </channel>
   <channel id="Smith vs. Germain">
     <display-name lang="en">Smith vs. Germain</display-name>
   </channel>
   <channel id="PDC: 2025 German Darts Grand Prix Day One">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day One</display-name>
   </channel>
-  <channel id="Arizona Diamondbacks vs. Chicago Cubs">
-    <display-name lang="en">Arizona Diamondbacks vs. Chicago Cubs</display-name>
+  <channel id="St. Louis Blues vs. Winnipeg Jets">
+    <display-name lang="en">St. Louis Blues vs. Winnipeg Jets</display-name>
   </channel>
   <channel id="Seattle Mariners vs. Toronto Blue Jays">
     <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
@@ -51,9 +54,6 @@
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
   </channel>
-  <channel id="Pistons at Knicks">
-    <display-name lang="en">Pistons at Knicks</display-name>
-  </channel>
   <channel id="Timberwolves at Lakers">
     <display-name lang="en">Timberwolves at Lakers</display-name>
   </channel>
@@ -89,9 +89,6 @@
   </channel>
   <channel id="EPL: Leicester City vs Liverpool">
     <display-name lang="en">EPL: Leicester City vs Liverpool</display-name>
-  </channel>
-  <channel id="St. Louis Blues vs. Winnipeg Jets">
-    <display-name lang="en">St. Louis Blues vs. Winnipeg Jets</display-name>
   </channel>
   <channel id="Colorado Avalanche vs. Dallas Stars">
     <display-name lang="en">Colorado Avalanche vs. Dallas Stars</display-name>
@@ -143,6 +140,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250419000000 -0500" channel="Pistons at Knicks" stop="20250419235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250419000000 -0500" channel="Smith vs. Germain" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -159,7 +164,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250419000000 -0500" channel="Arizona Diamondbacks vs. Chicago Cubs" stop="20250419235959 -0500">
+  <programme start="20250419000000 -0500" channel="St. Louis Blues vs. Winnipeg Jets" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -271,14 +276,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250419000000 -0500" channel="Pistons at Knicks" stop="20250419235959 -0500">
-    <title>05:00 PM 19/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250419000000 -0500" channel="Timberwolves at Lakers" stop="20250419235959 -0500">
     <title>07:30 PM 19/04/25</title>
     <date>2025</date>
@@ -369,14 +366,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="EPL: Leicester City vs Liverpool" stop="20250419235959 -0500">
     <title>10:30 AM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="St. Louis Blues vs. Winnipeg Jets" stop="20250419235959 -0500">
-    <title>05:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
