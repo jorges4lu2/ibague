@@ -1,22 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250418 -0500">
-  <channel id="Heat at Hawks">
-    <display-name lang="en">Heat at Hawks</display-name>
+  <channel id="Mavericks at Grizzlies">
+    <display-name lang="en">Mavericks at Grizzlies</display-name>
   </channel>
   <channel id="PFL: First Round - Lightweights and Middleweights">
     <display-name lang="en">PFL: First Round - Lightweights and Middleweights</display-name>
   </channel>
   <channel id="China Premier League&#160; Stage 3, 4 &amp;amp; 5">
     <display-name lang="en">China Premier League&#160; Stage 3, 4 &amp;amp; 5</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Pittsburgh Pirates">
-    <display-name lang="en">Cleveland Guardians vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Detroit Tigers">
-    <display-name lang="en">Kansas City Royals vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Philadelphia Phillies">
-    <display-name lang="en">Miami Marlins vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Baltimore Orioles">
     <display-name lang="en">Cincinnati Reds vs. Baltimore Orioles</display-name>
@@ -48,6 +39,9 @@
   <channel id="Washington Nationals vs. Colorado Rockies">
     <display-name lang="en">Washington Nationals vs. Colorado Rockies</display-name>
   </channel>
+  <channel id="San Francisco Giants vs. Los Angeles Angels">
+    <display-name lang="en">San Francisco Giants vs. Los Angeles Angels</display-name>
+  </channel>
   <channel id="WWE: Friday Night SmackDown">
     <display-name lang="en">WWE: Friday Night SmackDown</display-name>
   </channel>
@@ -59,9 +53,6 @@
   </channel>
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
-  </channel>
-  <channel id="Mavericks at Grizzlies">
-    <display-name lang="en">Mavericks at Grizzlies</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -108,9 +99,6 @@
   <channel id="EPL: Leicester City vs Liverpool">
     <display-name lang="en">EPL: Leicester City vs Liverpool</display-name>
   </channel>
-  <channel id="San Francisco Giants vs. Los Angeles Angels">
-    <display-name lang="en">San Francisco Giants vs. Los Angeles Angels</display-name>
-  </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Practice 3)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Practice 3)</display-name>
   </channel>
@@ -150,7 +138,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250418000000 -0500" channel="Heat at Hawks" stop="20250418235959 -0500">
+  <programme start="20250418000000 -0500" channel="Mavericks at Grizzlies" stop="20250418235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -167,30 +155,6 @@
     </audio>
   </programme>
   <programme start="20250418000000 -0500" channel="China Premier League&#160; Stage 3, 4 &amp;amp; 5" stop="20250418235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250418000000 -0500" channel="Cleveland Guardians vs. Pittsburgh Pirates" stop="20250418235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250418000000 -0500" channel="Kansas City Royals vs. Detroit Tigers" stop="20250418235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250418000000 -0500" channel="Miami Marlins vs. Philadelphia Phillies" stop="20250418235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -278,6 +242,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250418000000 -0500" channel="San Francisco Giants vs. Los Angeles Angels" stop="20250418235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250418000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250418235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -304,14 +276,6 @@
   </programme>
   <programme start="20250418000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250418235959 -0500">
     <title>06:00 PM 27/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250418000000 -0500" channel="Mavericks at Grizzlies" stop="20250418235959 -0500">
-    <title>08:30 PM 18/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -432,14 +396,6 @@
   </programme>
   <programme start="20250418000000 -0500" channel="EPL: Leicester City vs Liverpool" stop="20250418235959 -0500">
     <title>10:30 AM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250418000000 -0500" channel="San Francisco Giants vs. Los Angeles Angels" stop="20250418235959 -0500">
-    <title>08:38 PM 18/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
