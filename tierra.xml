@@ -3,17 +3,26 @@
   <channel id="Bucks at Pacers">
     <display-name lang="en">Bucks at Pacers</display-name>
   </channel>
+  <channel id="Smith vs. Germain">
+    <display-name lang="en">Smith vs. Germain</display-name>
+  </channel>
   <channel id="PDC: 2025 German Darts Grand Prix Day One">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day One</display-name>
-  </channel>
-  <channel id="LaLiga: Barcelona vs Celta de Vigo">
-    <display-name lang="en">LaLiga: Barcelona vs Celta de Vigo</display-name>
   </channel>
   <channel id="EPL: Aston Villa vs Newcastle United">
     <display-name lang="en">EPL: Aston Villa vs Newcastle United</display-name>
   </channel>
+  <channel id="Miami Marlins vs. Philadelphia Phillies">
+    <display-name lang="en">Miami Marlins vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. Detroit Tigers">
+    <display-name lang="en">Kansas City Royals vs. Detroit Tigers</display-name>
+  </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Qualifying)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="NXT Stand &amp;amp; Deliver">
+    <display-name lang="en">NXT Stand &amp;amp; Deliver</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
@@ -32,9 +41,6 @@
   </channel>
   <channel id="Timberwolves at Lakers">
     <display-name lang="en">Timberwolves at Lakers</display-name>
-  </channel>
-  <channel id="Smith vs. Germain">
-    <display-name lang="en">Smith vs. Germain</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -68,12 +74,6 @@
   </channel>
   <channel id="EPL: Leicester City vs Liverpool">
     <display-name lang="en">EPL: Leicester City vs Liverpool</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Philadelphia Phillies">
-    <display-name lang="en">Miami Marlins vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Detroit Tigers">
-    <display-name lang="en">Kansas City Royals vs. Detroit Tigers</display-name>
   </channel>
   <channel id="Arizona Diamondbacks vs. Chicago Cubs">
     <display-name lang="en">Arizona Diamondbacks vs. Chicago Cubs</display-name>
@@ -152,7 +152,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250419000000 -0500" channel="PDC: 2025 German Darts Grand Prix Day One" stop="20250419235959 -0500">
+  <programme start="20250419000000 -0500" channel="Smith vs. Germain" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -160,7 +160,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250419000000 -0500" channel="LaLiga: Barcelona vs Celta de Vigo" stop="20250419235959 -0500">
+  <programme start="20250419000000 -0500" channel="PDC: 2025 German Darts Grand Prix Day One" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -176,7 +176,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250419000000 -0500" channel="Miami Marlins vs. Philadelphia Phillies" stop="20250419235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250419000000 -0500" channel="Kansas City Royals vs. Detroit Tigers" stop="20250419235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250419000000 -0500" channel="F1: Saudi Arabian Grand Prix (Qualifying)" stop="20250419235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250419000000 -0500" channel="NXT Stand &amp;amp; Deliver" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -226,14 +250,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="Timberwolves at Lakers" stop="20250419235959 -0500">
     <title>07:30 PM 19/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="Smith vs. Germain" stop="20250419235959 -0500">
-    <title>01:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -322,22 +338,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="EPL: Leicester City vs Liverpool" stop="20250419235959 -0500">
     <title>10:30 AM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="Miami Marlins vs. Philadelphia Phillies" stop="20250419235959 -0500">
-    <title>12:05 PM 19/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="Kansas City Royals vs. Detroit Tigers" stop="20250419235959 -0500">
-    <title>12:10 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
