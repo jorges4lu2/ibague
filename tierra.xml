@@ -1,31 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250419 -0500">
-  <channel id="PDC: China Premier League&#160; Stage 3, 4 &amp;amp; 5">
-    <display-name lang="en">PDC: China Premier League&#160; Stage 3, 4 &amp;amp; 5</display-name>
+  <channel id="Bucks at Pacers">
+    <display-name lang="en">Bucks at Pacers</display-name>
   </channel>
   <channel id="PDC: 2025 German Darts Grand Prix Day One">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day One</display-name>
   </channel>
-  <channel id="EPL: Goal Rush">
-    <display-name lang="en">EPL: Goal Rush</display-name>
-  </channel>
-  <channel id="EPL: Brentford vs Brighton and Hove Albion">
-    <display-name lang="en">EPL: Brentford vs Brighton and Hove Albion</display-name>
-  </channel>
-  <channel id="EPL: Crystal Palace vs Bournemouth">
-    <display-name lang="en">EPL: Crystal Palace vs Bournemouth</display-name>
-  </channel>
-  <channel id="EPL: Everton vs Manchester City">
-    <display-name lang="en">EPL: Everton vs Manchester City</display-name>
-  </channel>
-  <channel id="EPL: West Ham United vs Southampton">
-    <display-name lang="en">EPL: West Ham United vs Southampton</display-name>
-  </channel>
   <channel id="LaLiga: Barcelona vs Celta de Vigo">
     <display-name lang="en">LaLiga: Barcelona vs Celta de Vigo</display-name>
   </channel>
-  <channel id="AMA Supercross: Race Day Live: East Rutherford">
-    <display-name lang="en">AMA Supercross: Race Day Live: East Rutherford</display-name>
+  <channel id="EPL: Aston Villa vs Newcastle United">
+    <display-name lang="en">EPL: Aston Villa vs Newcastle United</display-name>
+  </channel>
+  <channel id="F1: Saudi Arabian Grand Prix (Qualifying)">
+    <display-name lang="en">F1: Saudi Arabian Grand Prix (Qualifying)</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
@@ -35,9 +23,6 @@
   </channel>
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
-  </channel>
-  <channel id="Bucks at Pacers">
-    <display-name lang="en">Bucks at Pacers</display-name>
   </channel>
   <channel id="Clippers at Nuggets">
     <display-name lang="en">Clippers at Nuggets</display-name>
@@ -71,9 +56,6 @@
   </channel>
   <channel id="PDC: 2025 German Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Two</display-name>
-  </channel>
-  <channel id="EPL: Aston Villa vs Newcastle United">
-    <display-name lang="en">EPL: Aston Villa vs Newcastle United</display-name>
   </channel>
   <channel id="EPL: Fulham vs Chelsea">
     <display-name lang="en">EPL: Fulham vs Chelsea</display-name>
@@ -132,9 +114,6 @@
   <channel id="San Francisco Giants vs. Los Angeles Angels">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Angels</display-name>
   </channel>
-  <channel id="F1: Saudi Arabian Grand Prix (Qualifying)">
-    <display-name lang="en">F1: Saudi Arabian Grand Prix (Qualifying)</display-name>
-  </channel>
   <channel id="AMA Supercross: East Rutherford">
     <display-name lang="en">AMA Supercross: East Rutherford</display-name>
   </channel>
@@ -165,7 +144,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250419000000 -0500" channel="PDC: China Premier League&#160; Stage 3, 4 &amp;amp; 5" stop="20250419235959 -0500">
+  <programme start="20250419000000 -0500" channel="Bucks at Pacers" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -181,46 +160,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250419000000 -0500" channel="EPL: Goal Rush" stop="20250419235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="EPL: Brentford vs Brighton and Hove Albion" stop="20250419235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="EPL: Crystal Palace vs Bournemouth" stop="20250419235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="EPL: Everton vs Manchester City" stop="20250419235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="EPL: West Ham United vs Southampton" stop="20250419235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250419000000 -0500" channel="LaLiga: Barcelona vs Celta de Vigo" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -229,7 +168,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250419000000 -0500" channel="AMA Supercross: Race Day Live: East Rutherford" stop="20250419235959 -0500">
+  <programme start="20250419000000 -0500" channel="EPL: Aston Villa vs Newcastle United" stop="20250419235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250419000000 -0500" channel="F1: Saudi Arabian Grand Prix (Qualifying)" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -255,14 +202,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250419235959 -0500">
     <title>06:00 PM 27/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="Bucks at Pacers" stop="20250419235959 -0500">
-    <title>12:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -351,14 +290,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="PDC: 2025 German Darts Grand Prix Day Two" stop="20250419235959 -0500">
     <title>06:00 AM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="EPL: Aston Villa vs Newcastle United" stop="20250419235959 -0500">
-    <title>11:30 AM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -511,14 +442,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="San Francisco Giants vs. Los Angeles Angels" stop="20250419235959 -0500">
     <title>08:38 PM 19/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="F1: Saudi Arabian Grand Prix (Qualifying)" stop="20250419235959 -0500">
-    <title>12:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
