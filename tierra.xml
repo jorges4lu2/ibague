@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250420 -0500">
-  <channel id="PDC: China Premier League&#160; Stage 6, 7 &amp;amp; Play-off">
-    <display-name lang="en">PDC: China Premier League&#160; Stage 6, 7 &amp;amp; Play-off</display-name>
+  <channel id="Grizzlies at Thunder">
+    <display-name lang="en">Grizzlies at Thunder</display-name>
   </channel>
   <channel id="PDC: 2025 German Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Two</display-name>
   </channel>
   <channel id="EPL: Leicester City vs Liverpool">
     <display-name lang="en">EPL: Leicester City vs Liverpool</display-name>
+  </channel>
+  <channel id="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)">
+    <display-name lang="en">F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
+  </channel>
+  <channel id="F1: Saudi Arabian GP (Race, F1TV Commentary)">
+    <display-name lang="en">F1: Saudi Arabian GP (Race, F1TV Commentary)</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
@@ -17,9 +23,6 @@
   </channel>
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
-  </channel>
-  <channel id="Grizzlies at Thunder">
-    <display-name lang="en">Grizzlies at Thunder</display-name>
   </channel>
   <channel id="Magic at Celtics">
     <display-name lang="en">Magic at Celtics</display-name>
@@ -102,12 +105,6 @@
   <channel id="Washington Nationals vs. Colorado Rockies">
     <display-name lang="en">Washington Nationals vs. Colorado Rockies</display-name>
   </channel>
-  <channel id="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)">
-    <display-name lang="en">F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
-  </channel>
-  <channel id="F1: Saudi Arabian GP (Race, F1TV Commentary)">
-    <display-name lang="en">F1: Saudi Arabian GP (Race, F1TV Commentary)</display-name>
-  </channel>
   <channel id="WWE: WrestleMania (Day 2)">
     <display-name lang="en">WWE: WrestleMania (Day 2)</display-name>
   </channel>
@@ -126,7 +123,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250420000000 -0500" channel="PDC: China Premier League&#160; Stage 6, 7 &amp;amp; Play-off" stop="20250420235959 -0500">
+  <programme start="20250420000000 -0500" channel="Grizzlies at Thunder" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -143,6 +140,22 @@
     </audio>
   </programme>
   <programme start="20250420000000 -0500" channel="EPL: Leicester City vs Liverpool" stop="20250420235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250420000000 -0500" channel="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)" stop="20250420235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250420000000 -0500" channel="F1: Saudi Arabian GP (Race, F1TV Commentary)" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -168,14 +181,6 @@
   </programme>
   <programme start="20250420000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250420235959 -0500">
     <title>06:00 PM 27/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="Grizzlies at Thunder" stop="20250420235959 -0500">
-    <title>12:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -392,22 +397,6 @@
   </programme>
   <programme start="20250420000000 -0500" channel="Washington Nationals vs. Colorado Rockies" stop="20250420235959 -0500">
     <title>07:10 PM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)" stop="20250420235959 -0500">
-    <title>12:00 PM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="F1: Saudi Arabian GP (Race, F1TV Commentary)" stop="20250420235959 -0500">
-    <title>12:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
