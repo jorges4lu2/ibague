@@ -9,11 +9,11 @@
   <channel id="PDC: 2025 German Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Two</display-name>
   </channel>
-  <channel id="LaLiga: Real Madrid vs Athletic Club">
-    <display-name lang="en">LaLiga: Real Madrid vs Athletic Club</display-name>
+  <channel id="Washington Nationals vs. Colorado Rockies">
+    <display-name lang="en">Washington Nationals vs. Colorado Rockies</display-name>
   </channel>
-  <channel id="New Jersey Devils vs. Carolina Hurricanes">
-    <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
+  <channel id="San Francisco Giants vs. Los Angeles Angels">
+    <display-name lang="en">San Francisco Giants vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
@@ -44,6 +44,12 @@
   </channel>
   <channel id="Minnesota Wild vs. Vegas Golden Knights">
     <display-name lang="en">Minnesota Wild vs. Vegas Golden Knights</display-name>
+  </channel>
+  <channel id="San Diego Padres vs. Houston Astros">
+    <display-name lang="en">San Diego Padres vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Washington Nationals vs. Colorado Rockies">
+    <display-name lang="en">Washington Nationals vs. Colorado Rockies</display-name>
   </channel>
   <channel id="WWE: WrestleMania (Day 2)">
     <display-name lang="en">WWE: WrestleMania (Day 2)</display-name>
@@ -87,7 +93,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250420000000 -0500" channel="LaLiga: Real Madrid vs Athletic Club" stop="20250420235959 -0500">
+  <programme start="20250420000000 -0500" channel="Washington Nationals vs. Colorado Rockies" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -95,7 +101,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250420000000 -0500" channel="New Jersey Devils vs. Carolina Hurricanes" stop="20250420235959 -0500">
+  <programme start="20250420000000 -0500" channel="San Francisco Giants vs. Los Angeles Angels" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -177,6 +183,22 @@
   </programme>
   <programme start="20250420000000 -0500" channel="Minnesota Wild vs. Vegas Golden Knights" stop="20250420235959 -0500">
     <title>09:00 PM 20/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250420000000 -0500" channel="San Diego Padres vs. Houston Astros" stop="20250420235959 -0500">
+    <title>06:00 PM 20/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250420000000 -0500" channel="Washington Nationals vs. Colorado Rockies" stop="20250420235959 -0500">
+    <title>07:10 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
