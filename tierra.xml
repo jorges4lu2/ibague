@@ -9,8 +9,11 @@
   <channel id="PDC: 2025 German Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Two</display-name>
   </channel>
-  <channel id="EPL: Leicester City vs Liverpool">
-    <display-name lang="en">EPL: Leicester City vs Liverpool</display-name>
+  <channel id="LaLiga: Real Madrid vs Athletic Club">
+    <display-name lang="en">LaLiga: Real Madrid vs Athletic Club</display-name>
+  </channel>
+  <channel id="New Jersey Devils vs. Carolina Hurricanes">
+    <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
   </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
@@ -44,12 +47,6 @@
   </channel>
   <channel id="PDC: 2025 German Darts Grand Prix Day Three">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Three</display-name>
-  </channel>
-  <channel id="LaLiga: Real Madrid vs Athletic Club">
-    <display-name lang="en">LaLiga: Real Madrid vs Athletic Club</display-name>
-  </channel>
-  <channel id="New Jersey Devils vs. Carolina Hurricanes">
-    <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
   </channel>
   <channel id="Ottawa Senators vs. Toronto Maple Leafs">
     <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
@@ -99,7 +96,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250420000000 -0500" channel="EPL: Leicester City vs Liverpool" stop="20250420235959 -0500">
+  <programme start="20250420000000 -0500" channel="LaLiga: Real Madrid vs Athletic Club" stop="20250420235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250420000000 -0500" channel="New Jersey Devils vs. Carolina Hurricanes" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -189,22 +194,6 @@
   </programme>
   <programme start="20250420000000 -0500" channel="PDC: 2025 German Darts Grand Prix Day Three" stop="20250420235959 -0500">
     <title>06:00 AM 21/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="LaLiga: Real Madrid vs Athletic Club" stop="20250420235959 -0500">
-    <title>02:00 PM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="New Jersey Devils vs. Carolina Hurricanes" stop="20250420235959 -0500">
-    <title>02:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
