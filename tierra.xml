@@ -1,19 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250420 -0500">
-  <channel id="Magic at Celtics">
-    <display-name lang="en">Magic at Celtics</display-name>
-  </channel>
-  <channel id="Boxing: Whittaker v Cameron II">
-    <display-name lang="en">Boxing: Whittaker v Cameron II</display-name>
+  <channel id="Heat at Cavaliers">
+    <display-name lang="en">Heat at Cavaliers</display-name>
   </channel>
   <channel id="PDC: 2025 German Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Two</display-name>
   </channel>
-  <channel id="Washington Nationals vs. Colorado Rockies">
-    <display-name lang="en">Washington Nationals vs. Colorado Rockies</display-name>
+  <channel id="Ottawa Senators vs. Toronto Maple Leafs">
+    <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
   </channel>
   <channel id="San Francisco Giants vs. Los Angeles Angels">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="San Diego Padres vs. Houston Astros">
+    <display-name lang="en">San Diego Padres vs. Houston Astros</display-name>
+  </channel>
+  <channel id="WWE: WrestleMania (Day 2)">
+    <display-name lang="en">WWE: WrestleMania (Day 2)</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
-  </channel>
-  <channel id="Heat at Cavaliers">
-    <display-name lang="en">Heat at Cavaliers</display-name>
   </channel>
   <channel id="Warriors at Rockets">
     <display-name lang="en">Warriors at Rockets</display-name>
@@ -39,20 +39,11 @@
   <channel id="PDC: 2025 German Darts Grand Prix Day Three">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Three</display-name>
   </channel>
-  <channel id="Ottawa Senators vs. Toronto Maple Leafs">
-    <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
-  </channel>
   <channel id="Minnesota Wild vs. Vegas Golden Knights">
     <display-name lang="en">Minnesota Wild vs. Vegas Golden Knights</display-name>
   </channel>
-  <channel id="San Diego Padres vs. Houston Astros">
-    <display-name lang="en">San Diego Padres vs. Houston Astros</display-name>
-  </channel>
   <channel id="Washington Nationals vs. Colorado Rockies">
     <display-name lang="en">Washington Nationals vs. Colorado Rockies</display-name>
-  </channel>
-  <channel id="WWE: WrestleMania (Day 2)">
-    <display-name lang="en">WWE: WrestleMania (Day 2)</display-name>
   </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
@@ -69,15 +60,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250420000000 -0500" channel="Magic at Celtics" stop="20250420235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="Boxing: Whittaker v Cameron II" stop="20250420235959 -0500">
+  <programme start="20250420000000 -0500" channel="Heat at Cavaliers" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -93,7 +76,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250420000000 -0500" channel="Washington Nationals vs. Colorado Rockies" stop="20250420235959 -0500">
+  <programme start="20250420000000 -0500" channel="Ottawa Senators vs. Toronto Maple Leafs" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -102,6 +85,22 @@
     </audio>
   </programme>
   <programme start="20250420000000 -0500" channel="San Francisco Giants vs. Los Angeles Angels" stop="20250420235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250420000000 -0500" channel="San Diego Padres vs. Houston Astros" stop="20250420235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250420000000 -0500" channel="WWE: WrestleMania (Day 2)" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -127,14 +126,6 @@
   </programme>
   <programme start="20250420000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250420235959 -0500">
     <title>06:00 PM 27/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="Heat at Cavaliers" stop="20250420235959 -0500">
-    <title>06:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -173,14 +164,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250420000000 -0500" channel="Ottawa Senators vs. Toronto Maple Leafs" stop="20250420235959 -0500">
-    <title>06:00 PM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250420000000 -0500" channel="Minnesota Wild vs. Vegas Golden Knights" stop="20250420235959 -0500">
     <title>09:00 PM 20/04/25</title>
     <date>2025</date>
@@ -189,24 +172,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250420000000 -0500" channel="San Diego Padres vs. Houston Astros" stop="20250420235959 -0500">
-    <title>06:00 PM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250420000000 -0500" channel="Washington Nationals vs. Colorado Rockies" stop="20250420235959 -0500">
     <title>07:10 PM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="WWE: WrestleMania (Day 2)" stop="20250420235959 -0500">
-    <title>06:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
