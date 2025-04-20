@@ -24,6 +24,9 @@
   <channel id="Minnesota Twins vs. Atlanta Braves">
     <display-name lang="en">Minnesota Twins vs. Atlanta Braves</display-name>
   </channel>
+  <channel id="San Francisco Giants vs. Los Angeles Angels">
+    <display-name lang="en">San Francisco Giants vs. Los Angeles Angels</display-name>
+  </channel>
   <channel id="WWE: WrestleMania (Day 1)">
     <display-name lang="en">WWE: WrestleMania (Day 1)</display-name>
   </channel>
@@ -59,9 +62,6 @@
   </channel>
   <channel id="EPL: Leicester City vs Liverpool">
     <display-name lang="en">EPL: Leicester City vs Liverpool</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Los Angeles Angels">
-    <display-name lang="en">San Francisco Giants vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
@@ -144,6 +144,14 @@
     </audio>
   </programme>
   <programme start="20250419000000 -0500" channel="Minnesota Twins vs. Atlanta Braves" stop="20250419235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250419000000 -0500" channel="San Francisco Giants vs. Los Angeles Angels" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -241,14 +249,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="EPL: Leicester City vs Liverpool" stop="20250419235959 -0500">
     <title>10:30 AM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="San Francisco Giants vs. Los Angeles Angels" stop="20250419235959 -0500">
-    <title>08:38 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
