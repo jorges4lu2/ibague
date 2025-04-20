@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250419 -0500">
-  <channel id="Pistons at Knicks">
-    <display-name lang="en">Pistons at Knicks</display-name>
-  </channel>
-  <channel id="Smith vs. Germain">
-    <display-name lang="en">Smith vs. Germain</display-name>
+  <channel id="Timberwolves at Lakers">
+    <display-name lang="en">Timberwolves at Lakers</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -12,8 +9,11 @@
   <channel id="MFN Weekly">
     <display-name lang="en">MFN Weekly</display-name>
   </channel>
-  <channel id="St. Louis Blues vs. Winnipeg Jets">
-    <display-name lang="en">St. Louis Blues vs. Winnipeg Jets</display-name>
+  <channel id="PDC: China Premier League&#160; Stage 6, 7 &amp;amp; Play-off">
+    <display-name lang="en">PDC: China Premier League&#160; Stage 6, 7 &amp;amp; Play-off</display-name>
+  </channel>
+  <channel id="Colorado Avalanche vs. Dallas Stars">
+    <display-name lang="en">Colorado Avalanche vs. Dallas Stars</display-name>
   </channel>
   <channel id="Athletics vs. Milwaukee Brewers">
     <display-name lang="en">Athletics vs. Milwaukee Brewers</display-name>
@@ -36,9 +36,6 @@
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
   </channel>
-  <channel id="Timberwolves at Lakers">
-    <display-name lang="en">Timberwolves at Lakers</display-name>
-  </channel>
   <channel id="Boxing: Whittaker v Cameron II">
     <display-name lang="en">Boxing: Whittaker v Cameron II</display-name>
   </channel>
@@ -47,9 +44,6 @@
   </channel>
   <channel id="Boxing: Eubank Jr. vs. Benn">
     <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
-  </channel>
-  <channel id="PDC: China Premier League&#160; Stage 6, 7 &amp;amp; Play-off">
-    <display-name lang="en">PDC: China Premier League&#160; Stage 6, 7 &amp;amp; Play-off</display-name>
   </channel>
   <channel id="PDC: 2025 German Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Two</display-name>
@@ -65,9 +59,6 @@
   </channel>
   <channel id="EPL: Leicester City vs Liverpool">
     <display-name lang="en">EPL: Leicester City vs Liverpool</display-name>
-  </channel>
-  <channel id="Colorado Avalanche vs. Dallas Stars">
-    <display-name lang="en">Colorado Avalanche vs. Dallas Stars</display-name>
   </channel>
   <channel id="San Francisco Giants vs. Los Angeles Angels">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Angels</display-name>
@@ -96,15 +87,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250419000000 -0500" channel="Pistons at Knicks" stop="20250419235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="Smith vs. Germain" stop="20250419235959 -0500">
+  <programme start="20250419000000 -0500" channel="Timberwolves at Lakers" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -128,7 +111,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250419000000 -0500" channel="St. Louis Blues vs. Winnipeg Jets" stop="20250419235959 -0500">
+  <programme start="20250419000000 -0500" channel="PDC: China Premier League&#160; Stage 6, 7 &amp;amp; Play-off" stop="20250419235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250419000000 -0500" channel="Colorado Avalanche vs. Dallas Stars" stop="20250419235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -192,14 +183,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250419000000 -0500" channel="Timberwolves at Lakers" stop="20250419235959 -0500">
-    <title>07:30 PM 19/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250419000000 -0500" channel="Boxing: Whittaker v Cameron II" stop="20250419235959 -0500">
     <title>01:00 PM 20/04/25</title>
     <date>2025</date>
@@ -218,14 +201,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250419235959 -0500">
     <title>11:00 AM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="PDC: China Premier League&#160; Stage 6, 7 &amp;amp; Play-off" stop="20250419235959 -0500">
-    <title>08:00 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -266,14 +241,6 @@
   </programme>
   <programme start="20250419000000 -0500" channel="EPL: Leicester City vs Liverpool" stop="20250419235959 -0500">
     <title>10:30 AM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250419000000 -0500" channel="Colorado Avalanche vs. Dallas Stars" stop="20250419235959 -0500">
-    <title>07:30 PM 19/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
