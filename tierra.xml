@@ -39,6 +39,9 @@
   <channel id="EPL: Leicester City vs Liverpool">
     <display-name lang="en">EPL: Leicester City vs Liverpool</display-name>
   </channel>
+  <channel id="LaLiga: Real Madrid vs Athletic Club">
+    <display-name lang="en">LaLiga: Real Madrid vs Athletic Club</display-name>
+  </channel>
   <channel id="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)">
     <display-name lang="en">F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
   </channel>
@@ -161,6 +164,14 @@
   </programme>
   <programme start="20250420000000 -0500" channel="EPL: Leicester City vs Liverpool" stop="20250420235959 -0500">
     <title>10:30 AM 20/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250420000000 -0500" channel="LaLiga: Real Madrid vs Athletic Club" stop="20250420235959 -0500">
+    <title>02:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
