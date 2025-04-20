@@ -24,6 +24,9 @@
   <channel id="PDC: 2025 German Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Two</display-name>
   </channel>
+  <channel id="PDC: 2025 German Darts Grand Prix Day Three">
+    <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Three</display-name>
+  </channel>
   <channel id="EPL: Fulham vs Chelsea">
     <display-name lang="en">EPL: Fulham vs Chelsea</display-name>
   </channel>
@@ -118,6 +121,14 @@
   </programme>
   <programme start="20250420000000 -0500" channel="PDC: 2025 German Darts Grand Prix Day Two" stop="20250420235959 -0500">
     <title>06:00 AM 20/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250420000000 -0500" channel="PDC: 2025 German Darts Grand Prix Day Three" stop="20250420235959 -0500">
+    <title>06:00 AM 21/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
