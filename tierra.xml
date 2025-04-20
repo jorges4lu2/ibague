@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250420 -0500">
-  <channel id="Grizzlies at Thunder">
-    <display-name lang="en">Grizzlies at Thunder</display-name>
+  <channel id="Magic at Celtics">
+    <display-name lang="en">Magic at Celtics</display-name>
   </channel>
   <channel id="Boxing: Whittaker v Cameron II">
     <display-name lang="en">Boxing: Whittaker v Cameron II</display-name>
@@ -15,12 +15,6 @@
   <channel id="New Jersey Devils vs. Carolina Hurricanes">
     <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
   </channel>
-  <channel id="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)">
-    <display-name lang="en">F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
-  </channel>
-  <channel id="F1: Saudi Arabian GP (Race, F1TV Commentary)">
-    <display-name lang="en">F1: Saudi Arabian GP (Race, F1TV Commentary)</display-name>
-  </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
   </channel>
@@ -29,9 +23,6 @@
   </channel>
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
-  </channel>
-  <channel id="Magic at Celtics">
-    <display-name lang="en">Magic at Celtics</display-name>
   </channel>
   <channel id="Heat at Cavaliers">
     <display-name lang="en">Heat at Cavaliers</display-name>
@@ -72,7 +63,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250420000000 -0500" channel="Grizzlies at Thunder" stop="20250420235959 -0500">
+  <programme start="20250420000000 -0500" channel="Magic at Celtics" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -112,22 +103,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250420000000 -0500" channel="F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)" stop="20250420235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="F1: Saudi Arabian GP (Race, F1TV Commentary)" stop="20250420235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250420000000 -0500" channel="2025 NFL Draft: Day 1" stop="20250420235959 -0500">
     <title>07:00 PM 26/04/25</title>
     <date>2025</date>
@@ -146,14 +121,6 @@
   </programme>
   <programme start="20250420000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250420235959 -0500">
     <title>06:00 PM 27/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="Magic at Celtics" stop="20250420235959 -0500">
-    <title>02:30 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
