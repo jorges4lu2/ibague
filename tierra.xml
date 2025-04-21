@@ -9,6 +9,12 @@
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
   </channel>
+  <channel id="NBA: Pistons at Knicks">
+    <display-name lang="en">NBA: Pistons at Knicks</display-name>
+  </channel>
+  <channel id="NBA: Clippers at Nuggets">
+    <display-name lang="en">NBA: Clippers at Nuggets</display-name>
+  </channel>
   <channel id="OKTAGON 70 (German/Deutsch)">
     <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
   </channel>
@@ -17,6 +23,9 @@
   </channel>
   <channel id="PDC: 2025 German Darts Grand Prix Day Three">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Three</display-name>
+  </channel>
+  <channel id="EPL: Tottenham Hotspur vs Nottingham Forest">
+    <display-name lang="en">EPL: Tottenham Hotspur vs Nottingham Forest</display-name>
   </channel>
   <channel id="Montreal Canadiens vs. Washington Capitals">
     <display-name lang="en">Montreal Canadiens vs. Washington Capitals</display-name>
@@ -93,6 +102,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250421000000 -0500" channel="NBA: Pistons at Knicks" stop="20250421235959 -0500">
+    <title>06:30 PM 21/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250421000000 -0500" channel="NBA: Clippers at Nuggets" stop="20250421235959 -0500">
+    <title>09:00 PM 21/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250421000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250421235959 -0500">
     <title>11:00 AM 26/04/25</title>
     <date>2025</date>
@@ -111,6 +136,14 @@
   </programme>
   <programme start="20250421000000 -0500" channel="PDC: 2025 German Darts Grand Prix Day Three" stop="20250421235959 -0500">
     <title>06:00 AM 21/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250421000000 -0500" channel="EPL: Tottenham Hotspur vs Nottingham Forest" stop="20250421235959 -0500">
+    <title>02:00 PM 21/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
