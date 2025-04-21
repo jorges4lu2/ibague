@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250420 -0500">
-  <channel id="Heat at Cavaliers">
-    <display-name lang="en">Heat at Cavaliers</display-name>
+  <channel id="Warriors Suck at Rockets">
+    <display-name lang="en">Warriors Suck at Rockets</display-name>
   </channel>
   <channel id="Ottawa Senators vs. Toronto Maple Leafs">
     <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="Minnesota Wild vs. Vegas Golden Knights">
+    <display-name lang="en">Minnesota Wild vs. Vegas Golden Knights</display-name>
   </channel>
   <channel id="San Diego Padres vs. Houston Astros">
     <display-name lang="en">San Diego Padres vs. Houston Astros</display-name>
@@ -24,9 +27,6 @@
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
   </channel>
-  <channel id="Warriors at Rockets">
-    <display-name lang="en">Warriors at Rockets</display-name>
-  </channel>
   <channel id="OKTAGON 70 (German/Deutsch)">
     <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
   </channel>
@@ -35,9 +35,6 @@
   </channel>
   <channel id="PDC: 2025 German Darts Grand Prix Day Three">
     <display-name lang="en">PDC: 2025 German Darts Grand Prix Day Three</display-name>
-  </channel>
-  <channel id="Minnesota Wild vs. Vegas Golden Knights">
-    <display-name lang="en">Minnesota Wild vs. Vegas Golden Knights</display-name>
   </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
@@ -54,7 +51,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250420000000 -0500" channel="Heat at Cavaliers" stop="20250420235959 -0500">
+  <programme start="20250420000000 -0500" channel="Warriors Suck at Rockets" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -63,6 +60,14 @@
     </audio>
   </programme>
   <programme start="20250420000000 -0500" channel="Ottawa Senators vs. Toronto Maple Leafs" stop="20250420235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250420000000 -0500" channel="Minnesota Wild vs. Vegas Golden Knights" stop="20250420235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -118,14 +123,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250420000000 -0500" channel="Warriors at Rockets" stop="20250420235959 -0500">
-    <title>08:30 PM 20/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250420000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250420235959 -0500">
     <title>11:00 AM 26/04/25</title>
     <date>2025</date>
@@ -144,14 +141,6 @@
   </programme>
   <programme start="20250420000000 -0500" channel="PDC: 2025 German Darts Grand Prix Day Three" stop="20250420235959 -0500">
     <title>06:00 AM 21/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250420000000 -0500" channel="Minnesota Wild vs. Vegas Golden Knights" stop="20250420235959 -0500">
-    <title>09:00 PM 20/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
