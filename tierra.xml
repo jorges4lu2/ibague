@@ -24,6 +24,9 @@
   <channel id="St. Louis Cardinals vs. Atlanta Braves">
     <display-name lang="en">St. Louis Cardinals vs. Atlanta Braves</display-name>
   </channel>
+  <channel id="Toronto Blue Jays vs. Houston Astros">
+    <display-name lang="en">Toronto Blue Jays vs. Houston Astros</display-name>
+  </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
@@ -56,9 +59,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Los Angeles Kings">
     <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Houston Astros">
-    <display-name lang="en">Toronto Blue Jays vs. Houston Astros</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. San Francisco Giants">
     <display-name lang="en">Milwaukee Brewers vs. San Francisco Giants</display-name>
@@ -154,6 +154,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250421000000 -0500" channel="Toronto Blue Jays vs. Houston Astros" stop="20250421235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250421000000 -0500" channel="WWE: Monday Night RAW" stop="20250421235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -236,14 +244,6 @@
   </programme>
   <programme start="20250421000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250421235959 -0500">
     <title>09:00 PM 21/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250421000000 -0500" channel="Toronto Blue Jays vs. Houston Astros" stop="20250421235959 -0500">
-    <title>07:10 PM 21/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
