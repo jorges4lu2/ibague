@@ -15,8 +15,14 @@
   <channel id="Boxing: Eubank Jr. vs. Benn">
     <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
   </channel>
+  <channel id="LaLiga: Valencia vs Espanyol">
+    <display-name lang="en">LaLiga: Valencia vs Espanyol</display-name>
+  </channel>
   <channel id="EPL: Manchester City vs Aston Villa">
     <display-name lang="en">EPL: Manchester City vs Aston Villa</display-name>
+  </channel>
+  <channel id="LaLiga: Barcelona vs Mallorca">
+    <display-name lang="en">LaLiga: Barcelona vs Mallorca</display-name>
   </channel>
   <channel id="EPL: Arsenal vs Crystal Palace">
     <display-name lang="en">EPL: Arsenal vs Crystal Palace</display-name>
@@ -145,8 +151,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250422000000 -0500" channel="LaLiga: Valencia vs Espanyol" stop="20250422235959 -0500">
+    <title>12:00 PM 22/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250422000000 -0500" channel="EPL: Manchester City vs Aston Villa" stop="20250422235959 -0500">
     <title>02:00 PM 22/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250422000000 -0500" channel="LaLiga: Barcelona vs Mallorca" stop="20250422235959 -0500">
+    <title>02:30 PM 22/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
