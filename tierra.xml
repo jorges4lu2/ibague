@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250421 -0500">
-  <channel id="Pistons at Knicks">
-    <display-name lang="en">Pistons at Knicks</display-name>
-  </channel>
   <channel id="Clippers at Nuggets">
     <display-name lang="en">Clippers at Nuggets</display-name>
   </channel>
@@ -12,20 +9,11 @@
   <channel id="Edmonton Oilers vs. Los Angeles Kings">
     <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
   </channel>
-  <channel id="Philadelphia Phillies vs. New York Mets">
-    <display-name lang="en">Philadelphia Phillies vs. New York Mets</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Atlanta Braves">
-    <display-name lang="en">St. Louis Cardinals vs. Atlanta Braves</display-name>
-  </channel>
   <channel id="Toronto Blue Jays vs. Houston Astros">
     <display-name lang="en">Toronto Blue Jays vs. Houston Astros</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. San Francisco Giants">
     <display-name lang="en">Milwaukee Brewers vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
@@ -132,14 +120,6 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250421000000 -0500" channel="Pistons at Knicks" stop="20250421235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250421000000 -0500" channel="Clippers at Nuggets" stop="20250421235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -164,22 +144,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250421000000 -0500" channel="Philadelphia Phillies vs. New York Mets" stop="20250421235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250421000000 -0500" channel="St. Louis Cardinals vs. Atlanta Braves" stop="20250421235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250421000000 -0500" channel="Toronto Blue Jays vs. Houston Astros" stop="20250421235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -189,14 +153,6 @@
     </audio>
   </programme>
   <programme start="20250421000000 -0500" channel="Milwaukee Brewers vs. San Francisco Giants" stop="20250421235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250421000000 -0500" channel="WWE: Monday Night RAW" stop="20250421235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
