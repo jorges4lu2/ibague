@@ -3,11 +3,11 @@
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
   </channel>
-  <channel id="2025 NFL Draft: Day 3">
-    <display-name lang="en">2025 NFL Draft: Day 3</display-name>
-  </channel>
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
+  </channel>
+  <channel id="2025 NFL Draft: Day 3">
+    <display-name lang="en">2025 NFL Draft: Day 3</display-name>
   </channel>
   <channel id="OKTAGON 70 (German/Deutsch)">
     <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
@@ -112,15 +112,7 @@
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
   <programme start="20250422000000 -0500" channel="2025 NFL Draft: Day 1" stop="20250422235959 -0500">
-    <title>07:00 PM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250422000000 -0500" channel="2025 NFL Draft: Day 3" stop="20250422235959 -0500">
-    <title>11:00 AM 27/04/25</title>
+    <title>07:00 PM 24/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -128,7 +120,15 @@
     </audio>
   </programme>
   <programme start="20250422000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250422235959 -0500">
-    <title>06:00 PM 27/04/25</title>
+    <title>06:00 PM 25/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250422000000 -0500" channel="2025 NFL Draft: Day 3" stop="20250422235959 -0500">
+    <title>11:00 AM 26/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
