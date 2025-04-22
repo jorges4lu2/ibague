@@ -3,6 +3,9 @@
   <channel id="LaLiga: Valencia vs Espanyol">
     <display-name lang="en">LaLiga: Valencia vs Espanyol</display-name>
   </channel>
+  <channel id="EPL: Manchester City vs Aston Villa">
+    <display-name lang="en">EPL: Manchester City vs Aston Villa</display-name>
+  </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
   </channel>
@@ -26,9 +29,6 @@
   </channel>
   <channel id="Boxing: Eubank Jr. vs. Benn">
     <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
-  </channel>
-  <channel id="EPL: Manchester City vs Aston Villa">
-    <display-name lang="en">EPL: Manchester City vs Aston Villa</display-name>
   </channel>
   <channel id="LaLiga: Barcelona vs Mallorca">
     <display-name lang="en">LaLiga: Barcelona vs Mallorca</display-name>
@@ -128,6 +128,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250422000000 -0500" channel="EPL: Manchester City vs Aston Villa" stop="20250422235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250422000000 -0500" channel="2025 NFL Draft: Day 1" stop="20250422235959 -0500">
     <title>07:00 PM 24/04/25</title>
     <date>2025</date>
@@ -186,14 +194,6 @@
   </programme>
   <programme start="20250422000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250422235959 -0500">
     <title>11:00 AM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250422000000 -0500" channel="EPL: Manchester City vs Aston Villa" stop="20250422235959 -0500">
-    <title>02:00 PM 22/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
