@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250422 -0500">
-  <channel id="EPL: Manchester City vs Aston Villa">
-    <display-name lang="en">EPL: Manchester City vs Aston Villa</display-name>
-  </channel>
   <channel id="LaLiga: Barcelona vs Mallorca">
     <display-name lang="en">LaLiga: Barcelona vs Mallorca</display-name>
+  </channel>
+  <channel id="New Jersey Devils vs. Carolina Hurricanes">
+    <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
@@ -32,9 +32,6 @@
   </channel>
   <channel id="EPL: Arsenal vs Crystal Palace">
     <display-name lang="en">EPL: Arsenal vs Crystal Palace</display-name>
-  </channel>
-  <channel id="New Jersey Devils vs. Carolina Hurricanes">
-    <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
   </channel>
   <channel id="Ottawa Senators vs. Toronto Maple Leafs">
     <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
@@ -117,7 +114,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250422000000 -0500" channel="EPL: Manchester City vs Aston Villa" stop="20250422235959 -0500">
+  <programme start="20250422000000 -0500" channel="LaLiga: Barcelona vs Mallorca" stop="20250422235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -125,7 +122,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250422000000 -0500" channel="LaLiga: Barcelona vs Mallorca" stop="20250422235959 -0500">
+  <programme start="20250422000000 -0500" channel="New Jersey Devils vs. Carolina Hurricanes" stop="20250422235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -199,14 +196,6 @@
   </programme>
   <programme start="20250422000000 -0500" channel="EPL: Arsenal vs Crystal Palace" stop="20250422235959 -0500">
     <title>02:00 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250422000000 -0500" channel="New Jersey Devils vs. Carolina Hurricanes" stop="20250422235959 -0500">
-    <title>05:00 PM 22/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
