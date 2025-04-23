@@ -6,6 +6,12 @@
   <channel id="LaLiga: Celta de Vigo vs Villarreal">
     <display-name lang="en">LaLiga: Celta de Vigo vs Villarreal</display-name>
   </channel>
+  <channel id="EPL: Arsenal vs Crystal Palace">
+    <display-name lang="en">EPL: Arsenal vs Crystal Palace</display-name>
+  </channel>
+  <channel id="Inter Milan vs AC Milan">
+    <display-name lang="en">Inter Milan vs AC Milan</display-name>
+  </channel>
   <channel id="St. Louis Cardinals vs. Atlanta Braves">
     <display-name lang="en">St. Louis Cardinals vs. Atlanta Braves</display-name>
   </channel>
@@ -54,17 +60,8 @@
   <channel id="PDC: BetMGM Premier League - Night Twelve">
     <display-name lang="en">PDC: BetMGM Premier League - Night Twelve</display-name>
   </channel>
-  <channel id="EPL: Arsenal vs Crystal Palace">
-    <display-name lang="en">EPL: Arsenal vs Crystal Palace</display-name>
-  </channel>
-  <channel id="Inter Milan vs AC Milan">
-    <display-name lang="en">Inter Milan vs AC Milan</display-name>
-  </channel>
   <channel id="LaLiga: Getafe vs Real Madrid">
     <display-name lang="en">LaLiga: Getafe vs Real Madrid</display-name>
-  </channel>
-  <channel id="LaLiga: Deportivo Alav&#233;s vs Real Sociedad">
-    <display-name lang="en">LaLiga: Deportivo Alav&#233;s vs Real Sociedad</display-name>
   </channel>
   <channel id="Montreal Canadiens vs. Washington Capitals">
     <display-name lang="en">Montreal Canadiens vs. Washington Capitals</display-name>
@@ -138,6 +135,22 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="LaLiga: Celta de Vigo vs Villarreal" stop="20250423235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="EPL: Arsenal vs Crystal Palace" stop="20250423235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Inter Milan vs AC Milan" stop="20250423235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -273,32 +286,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="EPL: Arsenal vs Crystal Palace" stop="20250423235959 -0500">
-    <title>02:00 PM 23/04/25 - EPL: Arsenal vs Crystal Palace</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Inter Milan vs AC Milan" stop="20250423235959 -0500">
-    <title>02:00 PM 23/04/25 - Inter Milan vs AC Milan</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250423000000 -0500" channel="LaLiga: Getafe vs Real Madrid" stop="20250423235959 -0500">
     <title>02:30 PM 23/04/25 - LaLiga: Getafe vs Real Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="LaLiga: Deportivo Alav&#233;s vs Real Sociedad" stop="20250423235959 -0500">
-    <title>02:30 PM 23/04/25 - LaLiga: Deportivo Alav&#233;s vs Real Sociedad</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
