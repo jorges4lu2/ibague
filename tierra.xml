@@ -33,6 +33,9 @@
   <channel id="EPL: Arsenal vs Crystal Palace">
     <display-name lang="en">EPL: Arsenal vs Crystal Palace</display-name>
   </channel>
+  <channel id="Inter Milan vs AC Milan">
+    <display-name lang="en">Inter Milan vs AC Milan</display-name>
+  </channel>
   <channel id="LaLiga: Getafe vs Real Madrid">
     <display-name lang="en">LaLiga: Getafe vs Real Madrid</display-name>
   </channel>
@@ -198,6 +201,14 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="EPL: Arsenal vs Crystal Palace" stop="20250423235959 -0500">
+    <title>02:00 PM 23/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Inter Milan vs AC Milan" stop="20250423235959 -0500">
     <title>02:00 PM 23/04/25</title>
     <date>2025</date>
     <category>Sports</category>
