@@ -6,11 +6,11 @@
   <channel id="Grizzlies at Thunder">
     <display-name lang="en">Grizzlies at Thunder</display-name>
   </channel>
-  <channel id="New Jersey Devils vs. Carolina Hurricanes">
-    <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
-  </channel>
   <channel id="Ottawa Senators vs. Toronto Maple Leafs">
     <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Tampa Bay Lightning">
+    <display-name lang="en">Florida Panthers vs. Tampa Bay Lightning</display-name>
   </channel>
   <channel id="New York Yankees vs. Cleveland Guardians">
     <display-name lang="en">New York Yankees vs. Cleveland Guardians</display-name>
@@ -41,6 +41,9 @@
   </channel>
   <channel id="Los Angeles Dodgers vs. Chicago Cubs">
     <display-name lang="en">Los Angeles Dodgers vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. Houston Astros">
+    <display-name lang="en">Toronto Blue Jays vs. Houston Astros</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -78,14 +81,8 @@
   <channel id="LaLiga: Deportivo Alav&#233;s vs Real Sociedad">
     <display-name lang="en">LaLiga: Deportivo Alav&#233;s vs Real Sociedad</display-name>
   </channel>
-  <channel id="Florida Panthers vs. Tampa Bay Lightning">
-    <display-name lang="en">Florida Panthers vs. Tampa Bay Lightning</display-name>
-  </channel>
   <channel id="Minnesota Wild vs. Vegas Golden Knights">
     <display-name lang="en">Minnesota Wild vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Houston Astros">
-    <display-name lang="en">Toronto Blue Jays vs. Houston Astros</display-name>
   </channel>
   <channel id="Pittsburgh Pirates vs. Los Angeles Angels">
     <display-name lang="en">Pittsburgh Pirates vs. Los Angeles Angels</display-name>
@@ -139,7 +136,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250422000000 -0500" channel="New Jersey Devils vs. Carolina Hurricanes" stop="20250422235959 -0500">
+  <programme start="20250422000000 -0500" channel="Ottawa Senators vs. Toronto Maple Leafs" stop="20250422235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -147,7 +144,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250422000000 -0500" channel="Ottawa Senators vs. Toronto Maple Leafs" stop="20250422235959 -0500">
+  <programme start="20250422000000 -0500" channel="Florida Panthers vs. Tampa Bay Lightning" stop="20250422235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -228,6 +225,14 @@
     </audio>
   </programme>
   <programme start="20250422000000 -0500" channel="Los Angeles Dodgers vs. Chicago Cubs" stop="20250422235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250422000000 -0500" channel="Toronto Blue Jays vs. Houston Astros" stop="20250422235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -331,24 +336,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250422000000 -0500" channel="Florida Panthers vs. Tampa Bay Lightning" stop="20250422235959 -0500">
-    <title>07:30 PM 22/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250422000000 -0500" channel="Minnesota Wild vs. Vegas Golden Knights" stop="20250422235959 -0500">
     <title>10:00 PM 22/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250422000000 -0500" channel="Toronto Blue Jays vs. Houston Astros" stop="20250422235959 -0500">
-    <title>07:10 PM 22/04/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
