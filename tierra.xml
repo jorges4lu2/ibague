@@ -15,6 +15,12 @@
   <channel id="Boxing: Eubank Jr. vs. Benn">
     <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
   </channel>
+  <channel id="MFN Weekly">
+    <display-name lang="en">MFN Weekly</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
+  </channel>
   <channel id="PDC: BetMGM Premier League - Night Twelve">
     <display-name lang="en">PDC: BetMGM Premier League - Night Twelve</display-name>
   </channel>
@@ -145,6 +151,22 @@
   </programme>
   <programme start="20250423000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250423235959 -0500">
     <title>11:00 AM 26/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="MFN Weekly" stop="20250423235959 -0500">
+    <title>07:00 PM 26/04/25</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="LND Monthly" stop="20250423235959 -0500">
+    <title>07:00 PM 17/05/25</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
