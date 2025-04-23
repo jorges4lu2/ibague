@@ -1,19 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250423 -0500">
-  <channel id="LaLiga: Athletic Club vs Las Palmas">
-    <display-name lang="en">LaLiga: Athletic Club vs Las Palmas</display-name>
-  </channel>
-  <channel id="LaLiga: Celta de Vigo vs Villarreal">
-    <display-name lang="en">LaLiga: Celta de Vigo vs Villarreal</display-name>
-  </channel>
   <channel id="EPL: Arsenal vs Crystal Palace">
     <display-name lang="en">EPL: Arsenal vs Crystal Palace</display-name>
   </channel>
   <channel id="Inter Milan vs AC Milan">
     <display-name lang="en">Inter Milan vs AC Milan</display-name>
   </channel>
-  <channel id="St. Louis Cardinals vs. Atlanta Braves">
-    <display-name lang="en">St. Louis Cardinals vs. Atlanta Braves</display-name>
+  <channel id="LaLiga: Getafe vs Real Madrid">
+    <display-name lang="en">LaLiga: Getafe vs Real Madrid</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Miami Marlins">
     <display-name lang="en">Cincinnati Reds vs. Miami Marlins</display-name>
@@ -59,9 +53,6 @@
   </channel>
   <channel id="PDC: BetMGM Premier League - Night Twelve">
     <display-name lang="en">PDC: BetMGM Premier League - Night Twelve</display-name>
-  </channel>
-  <channel id="LaLiga: Getafe vs Real Madrid">
-    <display-name lang="en">LaLiga: Getafe vs Real Madrid</display-name>
   </channel>
   <channel id="Montreal Canadiens vs. Washington Capitals">
     <display-name lang="en">Montreal Canadiens vs. Washington Capitals</display-name>
@@ -126,22 +117,6 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250423000000 -0500" channel="LaLiga: Athletic Club vs Las Palmas" stop="20250423235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="LaLiga: Celta de Vigo vs Villarreal" stop="20250423235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250423000000 -0500" channel="EPL: Arsenal vs Crystal Palace" stop="20250423235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -158,7 +133,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="St. Louis Cardinals vs. Atlanta Braves" stop="20250423235959 -0500">
+  <programme start="20250423000000 -0500" channel="LaLiga: Getafe vs Real Madrid" stop="20250423235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -280,14 +255,6 @@
   </programme>
   <programme start="20250423000000 -0500" channel="PDC: BetMGM Premier League - Night Twelve" stop="20250423235959 -0500">
     <title>01:00 PM 24/04/25 - PDC: BetMGM Premier League - Night Twelve</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="LaLiga: Getafe vs Real Madrid" stop="20250423235959 -0500">
-    <title>02:30 PM 23/04/25 - LaLiga: Getafe vs Real Madrid</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
