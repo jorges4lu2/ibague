@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250423 -0500">
+  <channel id="LaLiga: Athletic Club vs Las Palmas">
+    <display-name lang="en">LaLiga: Athletic Club vs Las Palmas</display-name>
+  </channel>
+  <channel id="LaLiga: Celta de Vigo vs Villarreal">
+    <display-name lang="en">LaLiga: Celta de Vigo vs Villarreal</display-name>
+  </channel>
+  <channel id="St. Louis Cardinals vs. Atlanta Braves">
+    <display-name lang="en">St. Louis Cardinals vs. Atlanta Braves</display-name>
+  </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
   </channel>
@@ -33,12 +42,6 @@
   <channel id="PDC: BetMGM Premier League - Night Twelve">
     <display-name lang="en">PDC: BetMGM Premier League - Night Twelve</display-name>
   </channel>
-  <channel id="LaLiga: Athletic Club vs Las Palmas">
-    <display-name lang="en">LaLiga: Athletic Club vs Las Palmas</display-name>
-  </channel>
-  <channel id="LaLiga: Celta de Vigo vs Villarreal">
-    <display-name lang="en">LaLiga: Celta de Vigo vs Villarreal</display-name>
-  </channel>
   <channel id="EPL: Arsenal vs Crystal Palace">
     <display-name lang="en">EPL: Arsenal vs Crystal Palace</display-name>
   </channel>
@@ -59,9 +62,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Los Angeles Kings">
     <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Atlanta Braves">
-    <display-name lang="en">St. Louis Cardinals vs. Atlanta Braves</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Miami Marlins">
     <display-name lang="en">Cincinnati Reds vs. Miami Marlins</display-name>
@@ -129,96 +129,8 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250423000000 -0500" channel="2025 NFL Draft: Day 1" stop="20250423235959 -0500">
-    <title>07:00 PM 24/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250423235959 -0500">
-    <title>06:00 PM 25/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="2025 NFL Draft: Day 3" stop="20250423235959 -0500">
-    <title>11:00 AM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Magic at Celtics" stop="20250423235959 -0500">
-    <title>06:00 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Heat at Cavaliers" stop="20250423235959 -0500">
-    <title>06:30 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Warriors at Rockets" stop="20250423235959 -0500">
-    <title>08:30 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250423235959 -0500">
-    <title>11:00 AM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250423235959 -0500">
-    <title>11:00 AM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="MFN Weekly" stop="20250423235959 -0500">
-    <title>07:00 PM 26/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="LND Monthly" stop="20250423235959 -0500">
-    <title>07:00 PM 17/05/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="PDC: BetMGM Premier League - Night Twelve" stop="20250423235959 -0500">
-    <title>01:00 PM 24/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250423000000 -0500" channel="LaLiga: Athletic Club vs Las Palmas" stop="20250423235959 -0500">
-    <title>12:00 PM 23/04/25</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -226,63 +138,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="LaLiga: Celta de Vigo vs Villarreal" stop="20250423235959 -0500">
-    <title>12:00 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="EPL: Arsenal vs Crystal Palace" stop="20250423235959 -0500">
-    <title>02:00 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Inter Milan vs AC Milan" stop="20250423235959 -0500">
-    <title>02:00 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="LaLiga: Getafe vs Real Madrid" stop="20250423235959 -0500">
-    <title>02:30 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="LaLiga: Deportivo Alav&#233;s vs Real Sociedad" stop="20250423235959 -0500">
-    <title>02:30 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Montreal Canadiens vs. Washington Capitals" stop="20250423235959 -0500">
-    <title>06:00 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Dallas Stars vs. Colorado Avalanche" stop="20250423235959 -0500">
-    <title>08:30 PM 23/04/25</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250423235959 -0500">
-    <title>09:00 PM 23/04/25</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -290,7 +146,151 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="St. Louis Cardinals vs. Atlanta Braves" stop="20250423235959 -0500">
-    <title>11:15 AM 23/04/25</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="2025 NFL Draft: Day 1" stop="20250423235959 -0500">
+    <title>07:00 PM 24/04/25 - 2025 NFL Draft: Day 1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250423235959 -0500">
+    <title>06:00 PM 25/04/25 - 2025 NFL Draft: Day 2</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="2025 NFL Draft: Day 3" stop="20250423235959 -0500">
+    <title>11:00 AM 26/04/25 - 2025 NFL Draft: Day 3</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Magic at Celtics" stop="20250423235959 -0500">
+    <title>06:00 PM 23/04/25 - Magic at Celtics</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Heat at Cavaliers" stop="20250423235959 -0500">
+    <title>06:30 PM 23/04/25 - Heat at Cavaliers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Warriors at Rockets" stop="20250423235959 -0500">
+    <title>08:30 PM 23/04/25 - Warriors at Rockets</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250423235959 -0500">
+    <title>11:00 AM 26/04/25 - OKTAGON 70 (German/Deutsch)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250423235959 -0500">
+    <title>11:00 AM 26/04/25 - Boxing: Eubank Jr. vs. Benn</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="MFN Weekly" stop="20250423235959 -0500">
+    <title>07:00 PM 26/04/25 - MFN Weekly</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="LND Monthly" stop="20250423235959 -0500">
+    <title>07:00 PM 17/05/25 - LND Monthly</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="PDC: BetMGM Premier League - Night Twelve" stop="20250423235959 -0500">
+    <title>01:00 PM 24/04/25 - PDC: BetMGM Premier League - Night Twelve</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="EPL: Arsenal vs Crystal Palace" stop="20250423235959 -0500">
+    <title>02:00 PM 23/04/25 - EPL: Arsenal vs Crystal Palace</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Inter Milan vs AC Milan" stop="20250423235959 -0500">
+    <title>02:00 PM 23/04/25 - Inter Milan vs AC Milan</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="LaLiga: Getafe vs Real Madrid" stop="20250423235959 -0500">
+    <title>02:30 PM 23/04/25 - LaLiga: Getafe vs Real Madrid</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="LaLiga: Deportivo Alav&#233;s vs Real Sociedad" stop="20250423235959 -0500">
+    <title>02:30 PM 23/04/25 - LaLiga: Deportivo Alav&#233;s vs Real Sociedad</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Montreal Canadiens vs. Washington Capitals" stop="20250423235959 -0500">
+    <title>06:00 PM 23/04/25 - Montreal Canadiens vs. Washington Capitals</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Dallas Stars vs. Colorado Avalanche" stop="20250423235959 -0500">
+    <title>08:30 PM 23/04/25 - Dallas Stars vs. Colorado Avalanche</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250423235959 -0500">
+    <title>09:00 PM 23/04/25 - Edmonton Oilers vs. Los Angeles Kings</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -298,7 +298,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Cincinnati Reds vs. Miami Marlins" stop="20250423235959 -0500">
-    <title>12:10 PM 23/04/25</title>
+    <title>12:10 PM 23/04/25 - Cincinnati Reds vs. Miami Marlins</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -306,7 +306,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="New York Yankees vs. Cleveland Guardians" stop="20250423235959 -0500">
-    <title>12:10 PM 23/04/25</title>
+    <title>12:10 PM 23/04/25 - New York Yankees vs. Cleveland Guardians</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -314,7 +314,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Philadelphia Phillies vs. New York Mets" stop="20250423235959 -0500">
-    <title>12:10 PM 23/04/25</title>
+    <title>12:10 PM 23/04/25 - Philadelphia Phillies vs. New York Mets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -322,7 +322,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="San Diego Padres vs. Detroit Tigers" stop="20250423235959 -0500">
-    <title>12:10 PM 23/04/25</title>
+    <title>12:10 PM 23/04/25 - San Diego Padres vs. Detroit Tigers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -330,7 +330,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Baltimore Orioles vs. Washington Nationals" stop="20250423235959 -0500">
-    <title>05:45 PM 23/04/25</title>
+    <title>05:45 PM 23/04/25 - Baltimore Orioles vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -338,7 +338,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Seattle Mariners vs. Boston Red Sox" stop="20250423235959 -0500">
-    <title>05:45 PM 23/04/25</title>
+    <title>05:45 PM 23/04/25 - Seattle Mariners vs. Boston Red Sox</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -346,7 +346,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Los Angeles Dodgers vs. Chicago Cubs" stop="20250423235959 -0500">
-    <title>06:00 PM 23/04/25</title>
+    <title>06:00 PM 23/04/25 - Los Angeles Dodgers vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -354,7 +354,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Chicago White Sox vs. Minnesota Twins" stop="20250423235959 -0500">
-    <title>06:40 PM 23/04/25</title>
+    <title>06:40 PM 23/04/25 - Chicago White Sox vs. Minnesota Twins</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -362,7 +362,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Colorado Rockies vs. Kansas City Royals" stop="20250423235959 -0500">
-    <title>06:40 PM 23/04/25</title>
+    <title>06:40 PM 23/04/25 - Colorado Rockies vs. Kansas City Royals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -370,7 +370,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Toronto Blue Jays vs. Houston Astros" stop="20250423235959 -0500">
-    <title>06:40 PM 23/04/25</title>
+    <title>06:40 PM 23/04/25 - Toronto Blue Jays vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -378,7 +378,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Angels" stop="20250423235959 -0500">
-    <title>08:38 PM 23/04/25</title>
+    <title>08:38 PM 23/04/25 - Pittsburgh Pirates vs. Los Angeles Angels</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -386,7 +386,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Tampa Bay Rays vs. Arizona Diamondbacks" stop="20250423235959 -0500">
-    <title>08:40 PM 23/04/25</title>
+    <title>08:40 PM 23/04/25 - Tampa Bay Rays vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -394,7 +394,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Milwaukee Brewers vs. San Francisco Giants" stop="20250423235959 -0500">
-    <title>08:45 PM 23/04/25</title>
+    <title>08:45 PM 23/04/25 - Milwaukee Brewers vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -402,7 +402,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="Texas Rangers vs. Athletics" stop="20250423235959 -0500">
-    <title>09:05 PM 23/04/25</title>
+    <title>09:05 PM 23/04/25 - Texas Rangers vs. Athletics</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -410,7 +410,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250423235959 -0500">
-    <title>07:00 PM 23/04/25</title>
+    <title>07:00 PM 23/04/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -418,7 +418,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250423235959 -0500">
-    <title>07:00 PM 25/04/25</title>
+    <title>07:00 PM 25/04/25 - WWE: Friday Night SmackDown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -426,7 +426,7 @@
     </audio>
   </programme>
   <programme start="20250423000000 -0500" channel="AEW: Saturday Night Collision" stop="20250423235959 -0500">
-    <title>07:00 PM 26/04/25</title>
+    <title>07:00 PM 26/04/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
