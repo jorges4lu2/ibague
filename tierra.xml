@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250423 -0500">
-  <channel id="Inter Milan vs AC Milan">
-    <display-name lang="en">Inter Milan vs AC Milan</display-name>
+  <channel id="Magic at Celtics">
+    <display-name lang="en">Magic at Celtics</display-name>
   </channel>
-  <channel id="LaLiga: Getafe vs Real Madrid">
-    <display-name lang="en">LaLiga: Getafe vs Real Madrid</display-name>
+  <channel id="Montreal Canadiens vs. Washington Capitals">
+    <display-name lang="en">Montreal Canadiens vs. Washington Capitals</display-name>
+  </channel>
+  <channel id="Baltimore Orioles vs. Washington Nationals">
+    <display-name lang="en">Baltimore Orioles vs. Washington Nationals</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. Boston Red Sox">
+    <display-name lang="en">Seattle Mariners vs. Boston Red Sox</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. Chicago Cubs">
+    <display-name lang="en">Los Angeles Dodgers vs. Chicago Cubs</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
@@ -14,9 +23,6 @@
   </channel>
   <channel id="2025 NFL Draft: Day 3">
     <display-name lang="en">2025 NFL Draft: Day 3</display-name>
-  </channel>
-  <channel id="Magic at Celtics">
-    <display-name lang="en">Magic at Celtics</display-name>
   </channel>
   <channel id="Heat at Cavaliers">
     <display-name lang="en">Heat at Cavaliers</display-name>
@@ -39,23 +45,11 @@
   <channel id="PDC: BetMGM Premier League - Night Twelve">
     <display-name lang="en">PDC: BetMGM Premier League - Night Twelve</display-name>
   </channel>
-  <channel id="Montreal Canadiens vs. Washington Capitals">
-    <display-name lang="en">Montreal Canadiens vs. Washington Capitals</display-name>
-  </channel>
   <channel id="Dallas Stars vs. Colorado Avalanche">
     <display-name lang="en">Dallas Stars vs. Colorado Avalanche</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Los Angeles Kings">
     <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Washington Nationals">
-    <display-name lang="en">Baltimore Orioles vs. Washington Nationals</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Boston Red Sox">
-    <display-name lang="en">Seattle Mariners vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Chicago Cubs">
-    <display-name lang="en">Los Angeles Dodgers vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Minnesota Twins">
     <display-name lang="en">Chicago White Sox vs. Minnesota Twins</display-name>
@@ -102,7 +96,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250423000000 -0500" channel="Inter Milan vs AC Milan" stop="20250423235959 -0500">
+  <programme start="20250423000000 -0500" channel="Magic at Celtics" stop="20250423235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -110,7 +104,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="LaLiga: Getafe vs Real Madrid" stop="20250423235959 -0500">
+  <programme start="20250423000000 -0500" channel="Montreal Canadiens vs. Washington Capitals" stop="20250423235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Baltimore Orioles vs. Washington Nationals" stop="20250423235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Seattle Mariners vs. Boston Red Sox" stop="20250423235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250423000000 -0500" channel="Los Angeles Dodgers vs. Chicago Cubs" stop="20250423235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -136,14 +154,6 @@
   </programme>
   <programme start="20250423000000 -0500" channel="2025 NFL Draft: Day 3" stop="20250423235959 -0500">
     <title>11:00 AM 26/04/25 - 2025 NFL Draft: Day 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Magic at Celtics" stop="20250423235959 -0500">
-    <title>06:00 PM 23/04/25 - Magic at Celtics</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -206,14 +216,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Montreal Canadiens vs. Washington Capitals" stop="20250423235959 -0500">
-    <title>06:00 PM 23/04/25 - Montreal Canadiens vs. Washington Capitals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250423000000 -0500" channel="Dallas Stars vs. Colorado Avalanche" stop="20250423235959 -0500">
     <title>08:30 PM 23/04/25 - Dallas Stars vs. Colorado Avalanche</title>
     <date>2025</date>
@@ -224,30 +226,6 @@
   </programme>
   <programme start="20250423000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250423235959 -0500">
     <title>09:00 PM 23/04/25 - Edmonton Oilers vs. Los Angeles Kings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Baltimore Orioles vs. Washington Nationals" stop="20250423235959 -0500">
-    <title>05:45 PM 23/04/25 - Baltimore Orioles vs. Washington Nationals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Seattle Mariners vs. Boston Red Sox" stop="20250423235959 -0500">
-    <title>05:45 PM 23/04/25 - Seattle Mariners vs. Boston Red Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Los Angeles Dodgers vs. Chicago Cubs" stop="20250423235959 -0500">
-    <title>06:00 PM 23/04/25 - Los Angeles Dodgers vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
