@@ -1,5 +1,54 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv date="20250424">
+﻿<tv>
+  <channel id="beINSports3USA.us">
+    <display-name>US BeIN Sports La Liga (F)</display-name>
+    <icon src="https://prod-media.beinsports.com/image/7c302953061ee72769feb0e99e06e14e.128.png" />
+    <url>https://beinsports.com</url>
+  </channel>
+  <channel id="beINSports4USA.us">
+    <display-name>US BeIN 4 Sports (F)</display-name>
+    <icon src="https://prod-media.beinsports.com/image/a886c65b0bcb407579a079ed4564fffa.128.png" />
+    <url>https://beinsports.com</url>
+  </channel>
+  <channel id="beINSports5USA.us">
+    <display-name>US BeIN5 Sports (F)</display-name>
+    <icon src="https://prod-media.beinsports.com/image/0d2131d903a4485c80374b7f91549323.128.png" />
+    <url>https://beinsports.com</url>
+  </channel>
+  <channel id="beINSports6USA.us">
+    <display-name>US BeIN6 Sports (F)</display-name>
+    <icon src="https://prod-media.beinsports.com/image/8b63b8f113f8516bf5a83fa1168ac941.128.png" />
+    <url>https://beinsports.com</url>
+  </channel>
+  <channel id="beINSports7USA.us">
+    <display-name>US BeIN7 Sports (F)</display-name>
+    <icon src="https://prod-media.beinsports.com/image/efbcbf2e8bd55ef7f1351a54268413e6.128.png" />
+    <url>https://beinsports.com</url>
+  </channel>
+  <channel id="beINSports8USA.us">
+    <display-name>US BeIN8 Sports (F)</display-name>
+    <icon src="https://prod-media.beinsports.com/image/450dfdd4d0cb242cccbf13900e91ea4a.128.png" />
+    <url>https://beinsports.com</url>
+  </channel>
+  <channel id="beINSportsenEspanol.us">
+    <display-name>US BEIN Sports En Espanol (F)</display-name>
+    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76943_dark_360w_270h.png" />
+    <url>https://beinsports.com</url>
+  </channel>
+  <channel id="beINSportsUSA.us">
+    <display-name>US BeIN Sports (F)</display-name>
+    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76942_dark_360w_270h.png" />
+    <url>https://beinsports.com</url>
+  </channel>
+  <channel id="beINSPORTSXTRAUSA.us">
+    <display-name>US Bein Sport Xtra (Y)</display-name>
+    <icon src="https://prod-media.beinsports.com/image/f51ff5e82c61a9c21b95a001fdc6c241.128.png" />
+    <url>https://beinsports.com</url>
+  </channel>
+  <channel id="beINSPORTSXTRAenEspanol.us">
+    <display-name>US (Latin) beIN Xtra en Español (Y)</display-name>
+    <icon src="https://prod-media.beinsports.com/image/5ffc1e310fee3b18af752d09df335833.128.png" />
+    <url>https://beinsports.com</url>
+  </channel>
   <channel id="vixdeportes1">
     <display-name>US (Latin) ViX+ Deportes 1 (Y)</display-name>
     <icon src="https://www.tvtv.us/gn/si/assets/s123583_ll_h15_ac.png" />
@@ -115,61 +164,1003 @@
     <icon src="https://www.tvtv.us/gn/si/assets/s123942_ll_h15_ab.png" />
     <url>https://tvtv.us</url>
   </channel>
-  <channel id="beINSportsUSA.us">
-    <display-name>US BeIN Sports (F)</display-name>
-    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76942_dark_360w_270h.png" />
-    <url>https://tvtv.us</url>
-  </channel>
-  <channel id="beINSportsenEspanol.us">
-    <display-name>US BEIN Sports En Espanol (F)</display-name>
-    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76943_dark_360w_270h.png" />
-    <url>https://tvtv.us</url>
-  </channel>
-  <channel id="beINSports3USA.us">
-    <display-name>US BeIN Sports La Liga (F)</display-name>
-    <icon src="https://prod-media.beinsports.com/image/7c302953061ee72769feb0e99e06e14e.128.png" />
-    <url>https://tvtv.us</url>
-  </channel>
-  <channel id="beINSports4USA.us">
-    <display-name>US BeIN 4 Sports (F)</display-name>
-    <icon src="https://prod-media.beinsports.com/image/a886c65b0bcb407579a079ed4564fffa.128.png" />
-    <url>https://tvtv.us</url>
-  </channel>
-  <channel id="beINSports5USA.us">
-    <display-name>US BeIN5 Sports (F)</display-name>
-    <icon src="https://prod-media.beinsports.com/image/0d2131d903a4485c80374b7f91549323.128.png" />
-    <url>https://tvtv.us</url>
-  </channel>
-  <channel id="beINSports6USA.us">
-    <display-name>US BeIN6 Sports (F)</display-name>
-    <icon src="https://prod-media.beinsports.com/image/8b63b8f113f8516bf5a83fa1168ac941.128.png" />
-    <url>https://tvtv.us</url>
-  </channel>
-  <channel id="beINSports7USA.us">
-    <display-name>US BeIN7 Sports (F)</display-name>
-    <icon src="https://prod-media.beinsports.com/image/efbcbf2e8bd55ef7f1351a54268413e6.128.png" />
-    <url>https://tvtv.us</url>
-  </channel>
-  <channel id="beINSports8USA.us">
-    <display-name>US BeIN8 Sports (F)</display-name>
-    <icon src="https://prod-media.beinsports.com/image/450dfdd4d0cb242cccbf13900e91ea4a.128.png" />
-    <url>https://tvtv.us</url>
-  </channel>
-  <channel id="beINSPORTSXTRAUSA.us">
-    <display-name>US Bein Sport Xtra (Y)</display-name>
-    <icon src="https://prod-media.beinsports.com/image/f51ff5e82c61a9c21b95a001fdc6c241.128.png" />
-    <url>https://tvtv.us</url>
-  </channel>
-  <channel id="beINSPORTSXTRAenEspanol.us">
-    <display-name>US (Latin) beIN Xtra en Español (Y)</display-name>
-    <icon src="https://prod-media.beinsports.com/image/5ffc1e310fee3b18af752d09df335833.128.png" />
-    <url>https://tvtv.us</url>
-  </channel>
   <channel id="t2.us">
     <display-name>T2</display-name>
     <icon src="" />
     <url>https://tvtv.us</url>
   </channel>
+  <programme start="20250423233000 +0000" stop="20250424002000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSports3USA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Estudiantes vs. Botafogo</desc>
+  </programme>
+  <programme start="20250424023000 +0000" stop="20250424031000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424031000 +0000" stop="20250424051500 +0000" channel="beINSports3USA.us">
+    <title lang="en">CIBACOPA Basketball</title>
+    <desc lang="en">Halcones de Ciudad Obregón vs. Astros de Jalisco</desc>
+  </programme>
+  <programme start="20250424051500 +0000" stop="20250424063000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424063000 +0000" stop="20250424100000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424100000 +0000" stop="20250424140000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424140000 +0000" stop="20250424180000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424180000 +0000" stop="20250424215000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424215000 +0000" stop="20250425000000 +0000" channel="beINSports3USA.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Godoy Cruz vs. Grêmio</desc>
+  </programme>
+  <programme start="20250425000000 +0000" stop="20250425002000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425002000 +0000" stop="20250425023000 +0000" channel="beINSports3USA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Cerro Porteño vs. Sporting Cristal</desc>
+  </programme>
+  <programme start="20250425023000 +0000" stop="20250425051500 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425051500 +0000" stop="20250425063000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425063000 +0000" stop="20250425100000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425100000 +0000" stop="20250425140000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425140000 +0000" stop="20250425165000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425165000 +0000" stop="20250425190000 +0000" channel="beINSports3USA.us">
+    <title lang="en">Fútbol Turco Superliga</title>
+    <desc lang="en">Besiktas vs. Hatayspor</desc>
+  </programme>
+  <programme start="20250425190000 +0000" stop="20250425220000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425220000 +0000" stop="20250426020000 +0000" channel="beINSports3USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425000000 +0000" stop="20250425002000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425002000 +0000" stop="20250425023000 +0000" channel="beINSports4USA.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Palestino vs. Cruzeiro</desc>
+  </programme>
+  <programme start="20250425023000 +0000" stop="20250425060000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425060000 +0000" stop="20250425100000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425100000 +0000" stop="20250425140000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425140000 +0000" stop="20250425155500 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425155500 +0000" stop="20250425180000 +0000" channel="beINSports4USA.us">
+    <title lang="en">CAF Champions League Soccer</title>
+    <desc lang="en">Al Ahly vs. Mamelodi Sundowns</desc>
+  </programme>
+  <programme start="20250425180000 +0000" stop="20250425220000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425220000 +0000" stop="20250426020000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSports4USA.us">
+    <title lang="en">Copa Libertadores Soccer</title>
+    <desc lang="en">Libertad vs. São Paulo</desc>
+  </programme>
+  <programme start="20250424023000 +0000" stop="20250424060000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424060000 +0000" stop="20250424100000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424100000 +0000" stop="20250424140000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424140000 +0000" stop="20250424180000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424180000 +0000" stop="20250424215000 +0000" channel="beINSports4USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424215000 +0000" stop="20250425000000 +0000" channel="beINSports4USA.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Corinthians vs. Racing CM</desc>
+  </programme>
+  <programme start="20250425000000 +0000" stop="20250425002000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425002000 +0000" stop="20250425023000 +0000" channel="beINSports5USA.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Deportes Iquique vs. Cienciano</desc>
+  </programme>
+  <programme start="20250425023000 +0000" stop="20250425060000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425060000 +0000" stop="20250425100000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425100000 +0000" stop="20250425105000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425105000 +0000" stop="20250425163000 +0000" channel="beINSports5USA.us">
+    <title lang="en">Modern Pentathlon</title>
+    <desc lang="en">UIPM World Cup: Budapest, Men's Semifinal</desc>
+  </programme>
+  <programme start="20250425163000 +0000" stop="20250425175500 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425175500 +0000" stop="20250425200000 +0000" channel="beINSports5USA.us">
+    <title lang="en">CAF Champions League Soccer</title>
+    <desc lang="en">Orlando Pirates vs. Pyramids FC</desc>
+  </programme>
+  <programme start="20250425200000 +0000" stop="20250425220000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425220000 +0000" stop="20250425225000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425225000 +0000" stop="20250426010000 +0000" channel="beINSports5USA.us">
+    <title lang="en">Basketball</title>
+    <desc lang="en">Super League: Sudbury Five vs. Windsor Express</desc>
+  </programme>
+  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSports5USA.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Caracas FC vs. Atlético Mineiro</desc>
+  </programme>
+  <programme start="20250424023000 +0000" stop="20250424060000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424060000 +0000" stop="20250424072500 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424072500 +0000" stop="20250424133000 +0000" channel="beINSports5USA.us">
+    <title lang="en">Modern Pentathlon</title>
+    <desc lang="en">UIPM World Cup: Budapest, Women's Semifinal</desc>
+  </programme>
+  <programme start="20250424133000 +0000" stop="20250424140000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424140000 +0000" stop="20250424180000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424180000 +0000" stop="20250424215000 +0000" channel="beINSports5USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424215000 +0000" stop="20250425000000 +0000" channel="beINSports5USA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Central Córdoba (SE) vs. Deportivo Táchira</desc>
+  </programme>
+  <programme start="20250424235500 +0000" stop="20250425015500 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Bahia vs. Atlético Nacional</desc>
+  </programme>
+  <programme start="20250425015500 +0000" stop="20250425040000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Universidad Católica vs. Defensa y Justicia</desc>
+  </programme>
+  <programme start="20250425040000 +0000" stop="20250425060000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Bolívar vs. Palmeiras</desc>
+  </programme>
+  <programme start="20250425060000 +0000" stop="20250425070000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">X-Games Reaction Sports</title>
+    <desc lang="en">Episode 27 - March</desc>
+  </programme>
+  <programme start="20250425070000 +0000" stop="20250425073000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Copa Libertadores 2024-25: Independiente del Valle vs. River Plate</desc>
+  </programme>
+  <programme start="20250425073000 +0000" stop="20250425080000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425080000 +0000" stop="20250425083000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425083000 +0000" stop="20250425090000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425090000 +0000" stop="20250425093000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425093000 +0000" stop="20250425100000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425100000 +0000" stop="20250425103000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425103000 +0000" stop="20250425110000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425110000 +0000" stop="20250425113000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425113000 +0000" stop="20250425123000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">X-Games Reaction Sports</title>
+    <desc lang="en">Episode 27 - March</desc>
+  </programme>
+  <programme start="20250425123000 +0000" stop="20250425130000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425130000 +0000" stop="20250425133000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Gearing Up</title>
+  </programme>
+  <programme start="20250425133000 +0000" stop="20250425140000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">The World Sailing Show</title>
+  </programme>
+  <programme start="20250425140000 +0000" stop="20250425143000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425143000 +0000" stop="20250425150000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">World Sailing Show</title>
+  </programme>
+  <programme start="20250425150000 +0000" stop="20250425170000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Estudiantes vs. Botafogo</desc>
+  </programme>
+  <programme start="20250425170000 +0000" stop="20250425173000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">This is Paris</title>
+  </programme>
+  <programme start="20250425173000 +0000" stop="20250425180000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Ligue 1 Highlights Show</title>
+  </programme>
+  <programme start="20250425180000 +0000" stop="20250425183000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Ligue 1 Preview Show</title>
+  </programme>
+  <programme start="20250425183000 +0000" stop="20250425183500 +0000" channel="beINSportsUSA.us">
+    <title lang="en">The Express Preview</title>
+  </programme>
+  <programme start="20250425183500 +0000" stop="20250425204500 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Fútbol Ligue 1</title>
+    <desc lang="en">Paris Saint-Germain vs. OGC Nice</desc>
+  </programme>
+  <programme start="20250425204500 +0000" stop="20250425210000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Ligue 1 Highlights Show</title>
+  </programme>
+  <programme start="20250425210000 +0000" stop="20250425213000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Copa Libertadores 2024-25: Bolivar vs. Palmeiras</desc>
+  </programme>
+  <programme start="20250425213000 +0000" stop="20250425220000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Copa Libertadores 2024-25: Independiente del Valle vs. River Plate</desc>
+  </programme>
+  <programme start="20250425220000 +0000" stop="20250426000000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Qatar, Women's Final</desc>
+  </programme>
+  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">The Express Preview</title>
+  </programme>
+  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Independiente del Valle vs. River Plate</desc>
+  </programme>
+  <programme start="20250424023000 +0000" stop="20250424040000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Atlético Bucaramanga vs. Fortaleza</desc>
+  </programme>
+  <programme start="20250424040000 +0000" stop="20250424060000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Independiente del Valle vs. River Plate</desc>
+  </programme>
+  <programme start="20250424060000 +0000" stop="20250424063000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Superliga 2024-25: Goztepe vs. Besiktas</desc>
+  </programme>
+  <programme start="20250424063000 +0000" stop="20250424070000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Superliga 2024-25: Fenerbahce vs. Kayserispor</desc>
+  </programme>
+  <programme start="20250424070000 +0000" stop="20250424073000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Superliga 2024-25: Galatasaray vs. Bodrum</desc>
+  </programme>
+  <programme start="20250424073000 +0000" stop="20250424080000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424080000 +0000" stop="20250424083000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424083000 +0000" stop="20250424090000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424090000 +0000" stop="20250424093000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424093000 +0000" stop="20250424100000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424100000 +0000" stop="20250424103000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424103000 +0000" stop="20250424110000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424110000 +0000" stop="20250424113000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424113000 +0000" stop="20250424123000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">X-Games Reaction Sports</title>
+    <desc lang="en">Episode 26 - February</desc>
+  </programme>
+  <programme start="20250424123000 +0000" stop="20250424130000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424130000 +0000" stop="20250424133000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">ABSA Cape Epic</title>
+    <desc lang="en">Stage 6</desc>
+  </programme>
+  <programme start="20250424133000 +0000" stop="20250424140000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">ABSA Cape Epic</title>
+    <desc lang="en">Stage 7</desc>
+  </programme>
+  <programme start="20250424140000 +0000" stop="20250424143000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424143000 +0000" stop="20250424150000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">The World Sailing Show</title>
+  </programme>
+  <programme start="20250424150000 +0000" stop="20250424170000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">CAF Champions League Soccer</title>
+    <desc lang="en">Mamelodi Sundowns vs. Al Ahly</desc>
+  </programme>
+  <programme start="20250424170000 +0000" stop="20250424190000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">CAF Champions League Soccer</title>
+    <desc lang="en">Orlando Pirates vs. Pyramids FC</desc>
+  </programme>
+  <programme start="20250424190000 +0000" stop="20250424210000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Internacional vs. Nacional</desc>
+  </programme>
+  <programme start="20250424210000 +0000" stop="20250424213000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Copa Libertadores 2024-25: Independiente del Valle vs. River Plate</desc>
+  </programme>
+  <programme start="20250424213000 +0000" stop="20250424215000 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Ligue 1 Highlights Show</title>
+  </programme>
+  <programme start="20250424215000 +0000" stop="20250424235500 +0000" channel="beINSportsUSA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Bolívar vs. Palmeiras</desc>
+  </programme>
+  <programme start="20250424235500 +0000" stop="20250425015500 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Bahia vs. Atlético Nacional</desc>
+  </programme>
+  <programme start="20250425015500 +0000" stop="20250425040000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Universidad Católica vs. Defensa y Justicia</desc>
+  </programme>
+  <programme start="20250425040000 +0000" stop="20250425043000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Copa Libertadores 2024-25: Independiente del Valle vs. River Plate</desc>
+  </programme>
+  <programme start="20250425043000 +0000" stop="20250425050000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Superliga 2024-25: Fenerbahce vs. Kayserispor</desc>
+  </programme>
+  <programme start="20250425050000 +0000" stop="20250425060000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">The Xtra</title>
+  </programme>
+  <programme start="20250425060000 +0000" stop="20250425070000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">La Charreada</title>
+  </programme>
+  <programme start="20250425070000 +0000" stop="20250425073000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425073000 +0000" stop="20250425080000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425080000 +0000" stop="20250425083000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425083000 +0000" stop="20250425090000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425090000 +0000" stop="20250425093000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425093000 +0000" stop="20250425100000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425100000 +0000" stop="20250425103000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425103000 +0000" stop="20250425110000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425110000 +0000" stop="20250425120000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">The Xtra</title>
+  </programme>
+  <programme start="20250425120000 +0000" stop="20250425123000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425123000 +0000" stop="20250425143000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">CIBACOPA Basketball</title>
+    <desc lang="en">Halcones de Ciudad Obregón vs. Astros de Jalisco</desc>
+  </programme>
+  <programme start="20250425143000 +0000" stop="20250425150000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250425150000 +0000" stop="20250425160000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">La Charreada</title>
+  </programme>
+  <programme start="20250425160000 +0000" stop="20250425180000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Godoy Cruz vs. Grêmio</desc>
+  </programme>
+  <programme start="20250425180000 +0000" stop="20250425183000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Lo mejor de la jornada francesa</title>
+    <desc lang="en">Matchday 30</desc>
+  </programme>
+  <programme start="20250425183000 +0000" stop="20250425183500 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">The Express Preview</title>
+  </programme>
+  <programme start="20250425183500 +0000" stop="20250425204600 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Fútbol Ligue 1</title>
+    <desc lang="en">Paris Saint-Germain vs. OGC Nice</desc>
+  </programme>
+  <programme start="20250425204600 +0000" stop="20250425214500 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">The Xtra</title>
+  </programme>
+  <programme start="20250425214500 +0000" stop="20250425220000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Ligue 1 Highlights Show</title>
+  </programme>
+  <programme start="20250425220000 +0000" stop="20250426000000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Cerro Porteño vs. Sporting Cristal</desc>
+  </programme>
+  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">The Express Preview</title>
+  </programme>
+  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Independiente del Valle vs. River Plate</desc>
+  </programme>
+  <programme start="20250424023000 +0000" stop="20250424040000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Atlético Bucaramanga vs. Fortaleza</desc>
+  </programme>
+  <programme start="20250424040000 +0000" stop="20250424043000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Ligue 1 2024-25: Lille vs. Auxerre</desc>
+  </programme>
+  <programme start="20250424043000 +0000" stop="20250424050000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Superliga 2024-25: Galatasaray vs. Bodrum</desc>
+  </programme>
+  <programme start="20250424050000 +0000" stop="20250424053000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Los mejores goles</title>
+    <desc lang="en">Copa Libertadores</desc>
+  </programme>
+  <programme start="20250424053000 +0000" stop="20250424060000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Lo mejor de la jornada francesa</title>
+    <desc lang="en">Matchday 30</desc>
+  </programme>
+  <programme start="20250424060000 +0000" stop="20250424070000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">La Charreada</title>
+  </programme>
+  <programme start="20250424070000 +0000" stop="20250424073000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424073000 +0000" stop="20250424080000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424080000 +0000" stop="20250424083000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424083000 +0000" stop="20250424090000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424090000 +0000" stop="20250424093000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424093000 +0000" stop="20250424100000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424100000 +0000" stop="20250424103000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424103000 +0000" stop="20250424110000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424110000 +0000" stop="20250424113000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Los mejores goles</title>
+    <desc lang="en">Copa Libertadores</desc>
+  </programme>
+  <programme start="20250424113000 +0000" stop="20250424120000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Lo mejor de la jornada francesa</title>
+    <desc lang="en">Matchday 30</desc>
+  </programme>
+  <programme start="20250424120000 +0000" stop="20250424123000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424123000 +0000" stop="20250424143000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Baloncesto CIBACOPA</title>
+    <desc lang="en">Ángeles de la Ciudad de México vs. Pioneros de Los Mochis</desc>
+  </programme>
+  <programme start="20250424143000 +0000" stop="20250424150000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20250424150000 +0000" stop="20250424170000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Internacional vs. Nacional</desc>
+  </programme>
+  <programme start="20250424170000 +0000" stop="20250424190000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">CONMEBOL Copa Sudamericana</title>
+    <desc lang="en">Huracán vs. América de Cali</desc>
+  </programme>
+  <programme start="20250424190000 +0000" stop="20250424210000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Estudiantes vs. Botafogo</desc>
+  </programme>
+  <programme start="20250424210000 +0000" stop="20250424215000 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">The Xtra</title>
+  </programme>
+  <programme start="20250424215000 +0000" stop="20250424235500 +0000" channel="beINSportsenEspanol.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Bolívar vs. Palmeiras</desc>
+  </programme>
+  <programme start="20250424220000 +0000" stop="20250425020000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425020000 +0000" stop="20250425060000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425060000 +0000" stop="20250425100000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425100000 +0000" stop="20250425140000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425140000 +0000" stop="20250425180000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425180000 +0000" stop="20250425220000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425220000 +0000" stop="20250426020000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250423220000 +0000" stop="20250424015000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424015000 +0000" stop="20250424040000 +0000" channel="beINSports8USA.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Atlético Bucaramanga vs. Fortaleza</desc>
+  </programme>
+  <programme start="20250424040000 +0000" stop="20250424060000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424060000 +0000" stop="20250424100000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424100000 +0000" stop="20250424140000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424140000 +0000" stop="20250424180000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424180000 +0000" stop="20250424220000 +0000" channel="beINSports8USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424220000 +0000" stop="20250425020000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425020000 +0000" stop="20250425060000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425060000 +0000" stop="20250425100000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425100000 +0000" stop="20250425130000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425130000 +0000" stop="20250425160000 +0000" channel="beINSports7USA.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Brussels, Men's &amp; Women's Quarterfinal (Secondary Court)</desc>
+  </programme>
+  <programme start="20250425160000 +0000" stop="20250425180000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425180000 +0000" stop="20250425220000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425220000 +0000" stop="20250426020000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250423220000 +0000" stop="20250424015000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424015000 +0000" stop="20250424040000 +0000" channel="beINSports7USA.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Mushuc Runa vs. Unión</desc>
+  </programme>
+  <programme start="20250424040000 +0000" stop="20250424060000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424060000 +0000" stop="20250424075000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424075000 +0000" stop="20250424180000 +0000" channel="beINSports7USA.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Brussels, Men's &amp; Women's Round of 16 (Secondary Court)</desc>
+  </programme>
+  <programme start="20250424180000 +0000" stop="20250424220000 +0000" channel="beINSports7USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424220000 +0000" stop="20250425020000 +0000" channel="beINSports6USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425020000 +0000" stop="20250425060000 +0000" channel="beINSports6USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425060000 +0000" stop="20250425075000 +0000" channel="beINSports6USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425075000 +0000" stop="20250425150000 +0000" channel="beINSports6USA.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Brussels, Men's &amp; Women's Quarterfinal (Center Court)</desc>
+  </programme>
+  <programme start="20250425150000 +0000" stop="20250425193000 +0000" channel="beINSports6USA.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Brussels, Men's &amp; Women's Quarterfinal (Center Court)</desc>
+  </programme>
+  <programme start="20250425193000 +0000" stop="20250425220000 +0000" channel="beINSports6USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250425220000 +0000" stop="20250426020000 +0000" channel="beINSports6USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSports6USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSports6USA.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Vitória vs. Cerro Largo</desc>
+  </programme>
+  <programme start="20250424023000 +0000" stop="20250424060000 +0000" channel="beINSports6USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424060000 +0000" stop="20250424075000 +0000" channel="beINSports6USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424075000 +0000" stop="20250424150000 +0000" channel="beINSports6USA.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Brussels, Men's &amp; Women's Round of 16 (Center Court)</desc>
+  </programme>
+  <programme start="20250424150000 +0000" stop="20250424193000 +0000" channel="beINSports6USA.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Brussels, Men's &amp; Women's Round of 16 (Center Court)</desc>
+  </programme>
+  <programme start="20250424193000 +0000" stop="20250424220000 +0000" channel="beINSports6USA.us">
+    <title lang="en">SIGN OFF</title>
+  </programme>
+  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">500 Great Goals</title>
+  </programme>
+  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Estudiantes vs. Botafogo</desc>
+  </programme>
+  <programme start="20250424023000 +0000" stop="20250424030000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Miércoles de Estrellas, Cavani: Paris Saint Germain vs. Reims</desc>
+  </programme>
+  <programme start="20250424030000 +0000" stop="20250424040000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">BYB Xtreme Fighting Series</title>
+    <desc lang="en">BYB 12: London Brawl</desc>
+  </programme>
+  <programme start="20250424040000 +0000" stop="20250424050000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 60</title>
+    <desc lang="en">Copa Libertadores 1999: Palmeiras vs. River</desc>
+  </programme>
+  <programme start="20250424050000 +0000" stop="20250424053000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Ligue 1 2024-25: OGC Nice vs. Angers SCO</desc>
+  </programme>
+  <programme start="20250424053000 +0000" stop="20250424060000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Lo mejor de la Copa Libertadores: Fluminense vs. Colo Colo</desc>
+  </programme>
+  <programme start="20250424060000 +0000" stop="20250424080000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Madrid: final masculino</desc>
+  </programme>
+  <programme start="20250424080000 +0000" stop="20250424090000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">La Charreada</title>
+  </programme>
+  <programme start="20250424090000 +0000" stop="20250424100000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Footvolley</title>
+    <desc lang="en">Pro Tour: Massive Men's Match &amp; Mixed Doubles</desc>
+  </programme>
+  <programme start="20250424100000 +0000" stop="20250424103000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 en 30</title>
+    <desc lang="en">Ligue 1 2024-25: Stade Brestois vs. RC Lens</desc>
+  </programme>
+  <programme start="20250424103000 +0000" stop="20250424110000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Copa Sudamericana: Vélez vs. Lanús</desc>
+  </programme>
+  <programme start="20250424110000 +0000" stop="20250424130000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Finlandia, final femenina</desc>
+  </programme>
+  <programme start="20250424130000 +0000" stop="20250424133000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Ligue 1 2024-25: AS Monaco vs. Strasbourg</desc>
+  </programme>
+  <programme start="20250424133000 +0000" stop="20250424140000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Ligue 1 2024-25: Paris Saint-Germain vs. Le Havre</desc>
+  </programme>
+  <programme start="20250424140000 +0000" stop="20250424150000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 60</title>
+    <desc lang="en">2016: Chapecoense vs. San Lorenzo</desc>
+  </programme>
+  <programme start="20250424150000 +0000" stop="20250424193000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Premier Padel</title>
+    <desc lang="en">Brussels P2: Octavos de final</desc>
+  </programme>
+  <programme start="20250424193000 +0000" stop="20250424200000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 en 30</title>
+    <desc lang="en">Ligue 1 2024-25: Stade Brestois vs. RC Lens</desc>
+  </programme>
+  <programme start="20250424200000 +0000" stop="20250424210000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Copa Sudamericana Highlight Show</title>
+    <desc lang="en">Fase de grupos, jornada 2</desc>
+  </programme>
+  <programme start="20250424210000 +0000" stop="20250424215000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">The Xtra</title>
+  </programme>
+  <programme start="20250424215000 +0000" stop="20250425000000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Central Córdoba (SE) vs. Deportivo Táchira</desc>
+  </programme>
+  <programme start="20250425000000 +0000" stop="20250425002000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">500 Great Goals</title>
+  </programme>
+  <programme start="20250425002000 +0000" stop="20250425023000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Palestino vs. Cruzeiro</desc>
+  </programme>
+  <programme start="20250425023000 +0000" stop="20250425030000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">GKA Kite World Tour</title>
+  </programme>
+  <programme start="20250425030000 +0000" stop="20250425040000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">BYB Xtreme Fighting Series</title>
+    <desc lang="en">BYB 12: London Brawl</desc>
+  </programme>
+  <programme start="20250425040000 +0000" stop="20250425060000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">XFC 52: The Awakening</title>
+  </programme>
+  <programme start="20250425060000 +0000" stop="20250425080000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">XFC: Detroit Grand Prix II</title>
+  </programme>
+  <programme start="20250425080000 +0000" stop="20250425100000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Premier Padel</title>
+    <desc lang="en">Qatar Major, Men's final</desc>
+  </programme>
+  <programme start="20250425100000 +0000" stop="20250425120000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Skiing</title>
+    <desc lang="en">Ski Classic Pro Tour: Jizerska 50, Race 7</desc>
+  </programme>
+  <programme start="20250425120000 +0000" stop="20250425140000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Marathon</title>
+    <desc lang="en">Seville</desc>
+  </programme>
+  <programme start="20250425140000 +0000" stop="20250425150000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">X-Games Reaction Sports</title>
+    <desc lang="en">Episode 29 - May</desc>
+  </programme>
+  <programme start="20250425150000 +0000" stop="20250425153000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Queen and King of the Court</title>
+    <desc lang="en">Doha</desc>
+  </programme>
+  <programme start="20250425153000 +0000" stop="20250425155500 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">NEOM Beach Games 2024</title>
+  </programme>
+  <programme start="20250425155500 +0000" stop="20250425175500 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">CAF Champions League Soccer</title>
+    <desc lang="en">Al Ahly vs. Mamelodi Sundowns</desc>
+  </programme>
+  <programme start="20250425175500 +0000" stop="20250425200000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">CAF Champions League Soccer</title>
+    <desc lang="en">Orlando Pirates vs. Pyramids FC</desc>
+  </programme>
+  <programme start="20250425200000 +0000" stop="20250425203000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">ABSA Cape Epic</title>
+    <desc lang="en">Stage 6</desc>
+  </programme>
+  <programme start="20250425203000 +0000" stop="20250425210000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">ABSA Cape Epic</title>
+    <desc lang="en">Stage 7</desc>
+  </programme>
+  <programme start="20250425210000 +0000" stop="20250425213000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">NEOM Beach Games 2024</title>
+  </programme>
+  <programme start="20250425213000 +0000" stop="20250425220000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Queen and King of the Court</title>
+    <desc lang="en">Doha</desc>
+  </programme>
+  <programme start="20250425220000 +0000" stop="20250426000000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Qatar, Women's Final</desc>
+  </programme>
+  <programme start="20250425000000 +0000" stop="20250425002000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">500 Great Goals</title>
+  </programme>
+  <programme start="20250425002000 +0000" stop="20250425023000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
+    <desc lang="en">Cerro Porteño vs. Sporting Cristal</desc>
+  </programme>
+  <programme start="20250425023000 +0000" stop="20250425030000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 en 30</title>
+    <desc lang="en">Jueves salvadoreño: CD Municipal Limeño vs. CD Platense</desc>
+  </programme>
+  <programme start="20250425030000 +0000" stop="20250425040000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">BYB Xtreme Fighting Series</title>
+    <desc lang="en">BYB 13: Tampa Brawl</desc>
+  </programme>
+  <programme start="20250425040000 +0000" stop="20250425045000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">The Xtra</title>
+  </programme>
+  <programme start="20250425045000 +0000" stop="20250425050000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">500 Great Goals</title>
+  </programme>
+  <programme start="20250425050000 +0000" stop="20250425053000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 en 30</title>
+    <desc lang="en">Ligue 1 2024-25: Stade Brestois vs. RC Lens</desc>
+  </programme>
+  <programme start="20250425053000 +0000" stop="20250425060000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Copa Sudamericana: Vélez vs. Lanús</desc>
+  </programme>
+  <programme start="20250425060000 +0000" stop="20250425080000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Finlandia, final femenina</desc>
+  </programme>
+  <programme start="20250425080000 +0000" stop="20250425090000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">La Charreada</title>
+  </programme>
+  <programme start="20250425090000 +0000" stop="20250425100000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Pro Footvolley Tour</title>
+    <desc lang="en">USA vs. World All-Stars</desc>
+  </programme>
+  <programme start="20250425100000 +0000" stop="20250425103000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Ligue 1 2024-25: Saint Etienne vs. Lyon</desc>
+  </programme>
+  <programme start="20250425103000 +0000" stop="20250425110000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 30</title>
+    <desc lang="en">Lo mejor de la Copa Libertadores: Cerro Porteño vs. Alianza Lima</desc>
+  </programme>
+  <programme start="20250425110000 +0000" stop="20250425130000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Finlandia, final masculino</desc>
+  </programme>
+  <programme start="20250425130000 +0000" stop="20250425135000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">The Xtra</title>
+  </programme>
+  <programme start="20250425135000 +0000" stop="20250425140000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">500 Great Goals</title>
+  </programme>
+  <programme start="20250425140000 +0000" stop="20250425150000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">90 in 60</title>
+    <desc lang="en">Copa LIbertadores 2000: Corinthians vs. Palmeiras</desc>
+  </programme>
+  <programme start="20250425150000 +0000" stop="20250425193000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Premier Padel</title>
+    <desc lang="en">Brussels P2: Cuartos de final</desc>
+  </programme>
+  <programme start="20250425193000 +0000" stop="20250425200000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">This is Paris</title>
+  </programme>
+  <programme start="20250425200000 +0000" stop="20250425203000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Lo mejor de la jornada francesa</title>
+    <desc lang="en">Matchday 30</desc>
+  </programme>
+  <programme start="20250425203000 +0000" stop="20250425204500 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">500 Great Goals</title>
+  </programme>
+  <programme start="20250425204500 +0000" stop="20250425214500 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">The Xtra</title>
+  </programme>
+  <programme start="20250425214500 +0000" stop="20250425220000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">500 Great Goals</title>
+  </programme>
+  <programme start="20250425220000 +0000" stop="20250426000000 +0000" channel="beINSPORTSXTRAenEspanol.us">
+    <title lang="en">Premier Padel Tennis</title>
+    <desc lang="en">Finlandia, final masculino</desc>
+  </programme>
+  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">500 Great Goals</title>
+  </programme>
+  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Copa Libertadores Soccer</title>
+    <desc lang="en">Libertad vs. São Paulo</desc>
+  </programme>
+  <programme start="20250424023000 +0000" stop="20250424030000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">GKA Kite World Tour</title>
+    <desc lang="en">Dakhla</desc>
+  </programme>
+  <programme start="20250424030000 +0000" stop="20250424040000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">BYB Xtreme Fighting Series</title>
+    <desc lang="en">BYB 11: Brawl in Doral</desc>
+  </programme>
+  <programme start="20250424040000 +0000" stop="20250424060000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">BYB Extreme Fighting Series 26: Mile High Brawl</title>
+  </programme>
+  <programme start="20250424060000 +0000" stop="20250424080000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">BYB Xtreme Fighting Series</title>
+    <desc lang="en">BYB 27: Brawl in Duval</desc>
+  </programme>
+  <programme start="20250424080000 +0000" stop="20250424100000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">BYB Extreme Fighting Series 28: Bourbon Street Brawl</title>
+  </programme>
+  <programme start="20250424100000 +0000" stop="20250424120000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Skiing</title>
+    <desc lang="en">Ski Classic Pro Tour: Marcialonga</desc>
+  </programme>
+  <programme start="20250424120000 +0000" stop="20250424140000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Premier Padel</title>
+    <desc lang="en">Qatar Major, Women's final</desc>
+  </programme>
+  <programme start="20250424140000 +0000" stop="20250424150000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Footvolley</title>
+    <desc lang="en">Pro Tour: Stop 1 from Hollywood Beach, Fla.</desc>
+  </programme>
+  <programme start="20250424150000 +0000" stop="20250424193000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Premier Padel</title>
+    <desc lang="en">Brussels P2: Round of 16</desc>
+  </programme>
+  <programme start="20250424193000 +0000" stop="20250424200000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">World Downhill Skateboarding Championship</title>
+  </programme>
+  <programme start="20250424200000 +0000" stop="20250424203000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">World Downhill Skateboarding Championship</title>
+  </programme>
+  <programme start="20250424203000 +0000" stop="20250424210000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">ABSA Cape Epic</title>
+    <desc lang="en">Stage 5</desc>
+  </programme>
+  <programme start="20250424210000 +0000" stop="20250424213000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">ABSA Cape Epic</title>
+    <desc lang="en">Stage 6</desc>
+  </programme>
+  <programme start="20250424213000 +0000" stop="20250424215000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">500 Great Goals</title>
+  </programme>
+  <programme start="20250424215000 +0000" stop="20250425000000 +0000" channel="beINSPORTSXTRAUSA.us">
+    <title lang="en">Copa Sudamericana Soccer</title>
+    <desc lang="en">Corinthians vs. Racing CM</desc>
+  </programme>
   <programme start="20250423214500 +0000" stop="20250423215000 +0000" channel="vixdeportes1">
     <title lang="en">CONMEBOL Copa Sudamericana</title>
     <desc lang="en">Jornada 3 del Grupo C de la Copa Sudamericana 2025. Desde el estadio Tomás A. Ducó, en Buenos Aires. El primer lugar del grupo está en juego donde el Globo tiene dos puntos de ventaja sobre Los Diablos Rojos. Huracán viene de golear al Racing, 5-0.</desc>
@@ -2644,1713 +3635,6 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Entertainment</category>
     <image>https://tvtv.us/gn/pi/assets/p22282118_b_v12_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250423220000 +0000" stop="20250423235000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424015000 +0000" stop="20250424040000 +0000" channel="beINSports8USA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group E.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Q1C6S.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424040000 +0000" stop="20250424060000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424060000 +0000" stop="20250424100000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424100000 +0000" stop="20250424140000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424140000 +0000" stop="20250424180000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424180000 +0000" stop="20250424220000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424220000 +0000" stop="20250425000100 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424220000 +0000" stop="20250425000000 +0000" channel="beINSports6USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425020000 +0000" stop="20250425060000 +0000" channel="beINSports6USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425060000 +0000" stop="20250425075000 +0000" channel="beINSports6USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425075000 +0000" stop="20250425150000 +0000" channel="beINSports6USA.us">
-    <title lang="en">Premier Padel Tennis</title>
-    <category lang="en">Racquet</category>
-    <image>https://tvtv.us/gn/pi/assets/p23196420_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425150000 +0000" stop="20250425193000 +0000" channel="beINSports6USA.us">
-    <title lang="en">Premier Padel Tennis</title>
-    <category lang="en">Racquet</category>
-    <image>https://tvtv.us/gn/pi/assets/p23196420_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425193000 +0000" stop="20250425220000 +0000" channel="beINSports6USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425220000 +0000" stop="20250426000100 +0000" channel="beINSports6USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSports6USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSports6USA.us">
-    <title lang="en">Copa Sudamericana Soccer</title>
-    <desc lang="en">Group B.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001L1W35.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424023000 +0000" stop="20250424060000 +0000" channel="beINSports6USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424060000 +0000" stop="20250424075000 +0000" channel="beINSports6USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424075000 +0000" stop="20250424150000 +0000" channel="beINSports6USA.us">
-    <title lang="en">Premier Padel Tennis</title>
-    <category lang="en">Racquet</category>
-    <image>https://tvtv.us/gn/pi/assets/p23196420_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424150000 +0000" stop="20250424193000 +0000" channel="beINSports6USA.us">
-    <title lang="en">Premier Padel Tennis</title>
-    <category lang="en">Racquet</category>
-    <image>https://tvtv.us/gn/pi/assets/p23196420_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424193000 +0000" stop="20250424220000 +0000" channel="beINSports6USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425000000 +0000" stop="20250425002000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425002000 +0000" stop="20250425023000 +0000" channel="beINSports5USA.us">
-    <title lang="en">Copa Sudamericana Soccer</title>
-    <desc lang="en">Group H.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001YB09M.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425023000 +0000" stop="20250425060000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425060000 +0000" stop="20250425100000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425100000 +0000" stop="20250425105000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425105000 +0000" stop="20250425163000 +0000" channel="beINSports5USA.us">
-    <title lang="en">Modern Pentathlon</title>
-    <category lang="en">Multi-sport event</category>
-    <category lang="en">Track/field</category>
-    <image>https://tvtv.us/gn/pi/assets/p9999659_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425163000 +0000" stop="20250425175500 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425175500 +0000" stop="20250425200000 +0000" channel="beINSports5USA.us">
-    <title lang="en">CAF Champions League Soccer</title>
-    <desc lang="en">Semifinal, 2nd Leg.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/p8365834_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425200000 +0000" stop="20250425220000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425220000 +0000" stop="20250425225000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425225000 +0000" stop="20250426000100 +0000" channel="beINSports5USA.us">
-    <title lang="en">Basketball</title>
-    <desc lang="en">Game 4.</desc>
-    <category lang="en">Basketball</category>
-    <image>https://tvtv.us/gn/pi/assets/p3589829_b_v8_ad.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSports5USA.us">
-    <title lang="en">Copa Sudamericana Soccer</title>
-    <desc lang="en">Group H.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001YB373.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424023000 +0000" stop="20250424060000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424060000 +0000" stop="20250424072500 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424072500 +0000" stop="20250424133000 +0000" channel="beINSports5USA.us">
-    <title lang="en">Modern Pentathlon</title>
-    <category lang="en">Multi-sport event</category>
-    <category lang="en">Track/field</category>
-    <image>https://tvtv.us/gn/pi/assets/p9999659_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424133000 +0000" stop="20250424140000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424140000 +0000" stop="20250424180000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424180000 +0000" stop="20250424215000 +0000" channel="beINSports5USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424215000 +0000" stop="20250425000000 +0000" channel="beINSports5USA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group C.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QQFHV.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425000000 +0000" stop="20250425002000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425002000 +0000" stop="20250425023000 +0000" channel="beINSports4USA.us">
-    <title lang="en">Copa Sudamericana Soccer</title>
-    <desc lang="en">Group E.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y4T27.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425023000 +0000" stop="20250425060000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425060000 +0000" stop="20250425100000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425100000 +0000" stop="20250425140000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425140000 +0000" stop="20250425155500 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425155500 +0000" stop="20250425180000 +0000" channel="beINSports4USA.us">
-    <title lang="en">CAF Champions League Soccer</title>
-    <desc lang="en">Semifinal, 2nd Leg.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y3ZDV.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425180000 +0000" stop="20250425220000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425220000 +0000" stop="20250426000100 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSports4USA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group D.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y32VG.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424023000 +0000" stop="20250424060000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424060000 +0000" stop="20250424100000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424100000 +0000" stop="20250424140000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424140000 +0000" stop="20250424180000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424180000 +0000" stop="20250424215000 +0000" channel="beINSports4USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424215000 +0000" stop="20250425000000 +0000" channel="beINSports4USA.us">
-    <title lang="en">Copa Sudamericana Soccer</title>
-    <desc lang="en">Group C.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001YB1P5.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425000000 +0000" stop="20250425002000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425002000 +0000" stop="20250425023000 +0000" channel="beINSports3USA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group G.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QQFM3.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425023000 +0000" stop="20250425051500 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425051500 +0000" stop="20250425063000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425063000 +0000" stop="20250425100000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425100000 +0000" stop="20250425140000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425140000 +0000" stop="20250425165000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425165000 +0000" stop="20250425190000 +0000" channel="beINSports3USA.us">
-    <title lang="en">Turkish Super Lig Soccer</title>
-    <desc lang="en">From Tüpraş Stadyumu in Istanbul.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QZRCK.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425190000 +0000" stop="20250425220000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425220000 +0000" stop="20250426000100 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250423233000 +0000" stop="20250423235000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSports3USA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group A.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y586R.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424023000 +0000" stop="20250424031000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424031000 +0000" stop="20250424051500 +0000" channel="beINSports3USA.us">
-    <title lang="en">CIBACOPA Basketball</title>
-    <desc lang="en">From Arena ITSON in Ciudad Obregon, Sonora, Mexico.</desc>
-    <category lang="en">Basketball</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QX7ZZ.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424051500 +0000" stop="20250424063000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424063000 +0000" stop="20250424100000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424100000 +0000" stop="20250424140000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424140000 +0000" stop="20250424180000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424180000 +0000" stop="20250424215000 +0000" channel="beINSports3USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424215000 +0000" stop="20250425000000 +0000" channel="beINSports3USA.us">
-    <title lang="en">Copa Sudamericana Soccer</title>
-    <desc lang="en">Group D.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001YB2B1.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424235500 +0000" stop="20250425015000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo F de la Copa Libertadores 2025. Desde el Arena Fonte Nova, en Salvador. La Bahêa busca tomar el liderato del grupo aunque El Verde está justo abajo de los locales con un punto de diferencia.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001L1YS3.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425015500 +0000" stop="20250425040000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">CONMEBOL Copa Sudamericana</title>
-    <desc lang="en">Jornada 3 del Grupo B de la Copa Sudamericana 2025. Desde el Estadio Olímpico Atahualpa, en Quito. La Camaratta defiende su liderato del grupo ante El Halcón, que tiene la posibilidad de posicionarse en el primer lugar.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y5870.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425040000 +0000" stop="20250425043000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">Compacto del partido de la Copa Libertadores 2024-2025. Encuentro entre Independiente del Valle y River Plate. Disputado el 23 de abril del 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.236.0/1</episode-num>
-    <episode-num system="onscreen">S01E237</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425043000 +0000" stop="20250425050000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">Los mejores y más destacados momentos de la Superliga 2024-2025. Encuentro entre Fenerbahce y Kayserispor. Disputado el 20 de abril del 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.233.0/1</episode-num>
-    <episode-num system="onscreen">S01E234</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425050000 +0000" stop="20250425060000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">The Xtra</title>
-    <desc lang="en">El estudio de beIN sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.</desc>
-    <date>20120101</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p16172813_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425060000 +0000" stop="20250425070000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">La Charreada</title>
-    <desc lang="en">Una serie sobre los charros mexicanos y su vida alrededor de la charrería, el deporte nacional por excelencia.</desc>
-    <date>20230101</date>
-    <category lang="en">Bull riding</category>
-    <image>https://tvtv.us/gn/pi/assets/p23749126_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425070000 +0000" stop="20250425073000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425073000 +0000" stop="20250425080000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425080000 +0000" stop="20250425083000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425083000 +0000" stop="20250425090000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425090000 +0000" stop="20250425093000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425093000 +0000" stop="20250425100000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425100000 +0000" stop="20250425103000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425103000 +0000" stop="20250425110000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425110000 +0000" stop="20250425120000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">The Xtra</title>
-    <desc lang="en">El estudio de beIN sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.</desc>
-    <date>20120101</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p16172813_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425120000 +0000" stop="20250425123000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425123000 +0000" stop="20250425143000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Baloncesto CIBACOPA</title>
-    <desc lang="en">Segundo juego de la serie regular del CIBACOPA 2025. Halcones de Ciudad Obregón se enfrenta al Astros de Jalisco. Desde la Arena ITSON, en Ciudad Obregón, Sonora.</desc>
-    <category lang="en">Basketball</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QX7ZZ.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425143000 +0000" stop="20250425150000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425150000 +0000" stop="20250425160000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">La Charreada</title>
-    <desc lang="en">Una serie sobre los charros mexicanos y su vida alrededor de la charrería, el deporte nacional por excelencia.</desc>
-    <date>20230101</date>
-    <category lang="en">Bull riding</category>
-    <image>https://tvtv.us/gn/pi/assets/p23749126_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425160000 +0000" stop="20250425180000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">CONMEBOL Copa Sudamericana</title>
-    <desc lang="en">Jornada 3 del Grupo D de la Copa Sudamericana 2025. Desde el Estadio Malvinas Argentinas, en Mendoza. El liderato del grupo está en juego entre la Tomba y Maior do Sul, ya que ambos equipos siguen invictos.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001YB2B1.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425180000 +0000" stop="20250425183000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Lo mejor de la jornada francesa</title>
-    <desc lang="en">Los momentos más destacados de los partidos de la jornada 30 de la Ligue 1 2024-2025.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20250101</date>
-    <category lang="en">Sports talk</category>
-    <episode-num system="xmltv_ns">0.28.0/1</episode-num>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9415950_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425183000 +0000" stop="20250425183500 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">The Express Preview</title>
-    <desc lang="en">El programa de noticias del fin de semana. Previa, medio tiempo y la cobertura posterior a cada partido.</desc>
-    <date>20140101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p11360721_b_v8_ac.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425183500 +0000" stop="20250425204600 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Fútbol Ligue 1</title>
-    <desc lang="en">Jornada 31 de la Ligue 1 2024-2025. El Paris Saint-Germain recibe a un Nice que atraviesa una racha de derrotas. Desde el estadio Parc des Princes, en París.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y30D7.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425204600 +0000" stop="20250425214500 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">The Xtra</title>
-    <desc lang="en">El estudio de beIN sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.</desc>
-    <date>20120101</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p16172813_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425214500 +0000" stop="20250425220000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Ligue 1 - Highlight Show</title>
-    <desc lang="en">Un recuento de los momentos emocionantes de la semana en los partidos de fútbol de la liga francesa. Historias inéditas, entrevistas exclusivas y una mirada profunda al backstage.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20120101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p9415950_st_v8_ah.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425220000 +0000" stop="20250426000000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo G de la Copa Libertadores 2025. Desde el Estadio General Pablo Rojas, en Asunción. Mientras busca obtener la segunda posición del grupo, El Ciclón de Barrio Obrero defiende su tercer lugar ante La Máquina Celeste.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Q1C8C.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">The Express Preview</title>
-    <desc lang="en">El programa de noticias del fin de semana. Previa, medio tiempo y la cobertura posterior a cada partido.</desc>
-    <date>20140101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p11360721_b_v8_ac.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo B de la Copa Libertadores 2025. Desde el Estadio Banco Guayaquil, en Quito. El primer lugar del grupo está en juego, aunque El Millonario tiene un punto de ventaja sobre El Matagigantes.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QZKW4.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424023000 +0000" stop="20250424040000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo E de la Copa Libertadores 2025. Desde el estadio Américo Montanini, en Santander. Atlético Bucaramanga, líder del grupo, se enfrenta a Fortaleza que se encuentra en último lugar.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QQFJ9.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424040000 +0000" stop="20250424043000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">Los mejores y más destacados momentos de la Ligue 1 en resumen. Encuentro entre Lille y Auxerre. Disputado el 20 de abril del 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.231.0/1</episode-num>
-    <episode-num system="onscreen">S01E232</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424043000 +0000" stop="20250424050000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">Los mejores y más destacados momentos de la Superliga 2024-2025. Encuentro entre Galatasaray y Bodrum. Disputado el 20 de abril del 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.234.0/1</episode-num>
-    <episode-num system="onscreen">S01E235</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424050000 +0000" stop="20250424053000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Los mejores goles</title>
-    <desc lang="en">Un vistazo a las mejores anotaciones que ocurrieron en la historia de la Copa Libertadores.</desc>
-    <category lang="en">Soccer</category>
-    <category lang="en">Classic Sport Event</category>
-    <image>https://tvtv.us/gn/pi/assets/p29724218_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424053000 +0000" stop="20250424060000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Lo mejor de la jornada francesa</title>
-    <desc lang="en">Los momentos más destacados de los partidos de la jornada 30 de la Ligue 1 2024-2025.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20250101</date>
-    <category lang="en">Sports talk</category>
-    <episode-num system="xmltv_ns">0.28.0/1</episode-num>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9415950_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424060000 +0000" stop="20250424070000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">La Charreada</title>
-    <desc lang="en">Una serie sobre los charros mexicanos y su vida alrededor de la charrería, el deporte nacional por excelencia.</desc>
-    <date>20230101</date>
-    <category lang="en">Bull riding</category>
-    <image>https://tvtv.us/gn/pi/assets/p23749126_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424070000 +0000" stop="20250424073000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424073000 +0000" stop="20250424080000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424080000 +0000" stop="20250424083000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424083000 +0000" stop="20250424090000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424090000 +0000" stop="20250424093000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424093000 +0000" stop="20250424100000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424100000 +0000" stop="20250424103000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424103000 +0000" stop="20250424110000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424110000 +0000" stop="20250424113000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Los mejores goles</title>
-    <desc lang="en">Un vistazo a las mejores anotaciones que ocurrieron en la historia de la Copa Libertadores.</desc>
-    <category lang="en">Soccer</category>
-    <category lang="en">Classic Sport Event</category>
-    <image>https://tvtv.us/gn/pi/assets/p29724218_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424113000 +0000" stop="20250424120000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Lo mejor de la jornada francesa</title>
-    <desc lang="en">Los momentos más destacados de los partidos de la jornada 30 de la Ligue 1 2024-2025.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20250101</date>
-    <category lang="en">Sports talk</category>
-    <episode-num system="xmltv_ns">0.28.0/1</episode-num>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9415950_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424120000 +0000" stop="20250424123000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424123000 +0000" stop="20250424143000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Baloncesto CIBACOPA</title>
-    <desc lang="en">Primer juego de la serie regular del CIBACOPA 2025. Ángeles de la Ciudad de México se enfrenta a Pioneros de Los Mochis. Desde el Gimnasio Olímpico Juan de la Barrera, en Ciudad de México.</desc>
-    <category lang="en">Basketball</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QE2M9.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424143000 +0000" stop="20250424150000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424150000 +0000" stop="20250424170000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo F de la Copa Libertadores 2025. Desde el Estadio Beira-Rio, en Porto Alegre. Internacional defiende su liderato del grupo ante un Nacional que no ha obtenido un triunfo en este torneo.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QKEGY.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424170000 +0000" stop="20250424190000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">CONMEBOL Copa Sudamericana</title>
-    <desc lang="en">Jornada 3 del Grupo C de la Copa Sudamericana 2025. Desde el estadio Tomás A. Ducó, en Buenos Aires. El primer lugar del grupo está en juego donde el Globo tiene dos puntos de ventaja sobre Los Diablos Rojos. Huracán viene de golear al Racing, 5-0.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QE42S.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424190000 +0000" stop="20250424210000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo A de la Copa Libertadores 2025. Desde el estadio Jorge Luis Hirschi, en Buenos Aires. La segunda posición del grupo está en juego donde Estudiantes de La Plata tiene un gol a favor sobre Botafago.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y586R.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424210000 +0000" stop="20250424215000 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">The Xtra</title>
-    <desc lang="en">El estudio de beIN sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.</desc>
-    <date>20120101</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p16172813_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424215000 +0000" stop="20250424235500 +0000" channel="beINSportsenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo G de la Copa Libertadores 2025. Desde el estadio Hernando Siles, en La Paz. Bolívar, número 2, se enfrenta a Palmeiras, número 1, por el liderato del grupo.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y586Z.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424235500 +0000" stop="20250425015000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group F.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QZKVW.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425015500 +0000" stop="20250425040000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Copa Sudamericana Soccer</title>
-    <desc lang="en">Group B.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y5870.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425040000 +0000" stop="20250425060000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group G.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y586Z.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425060000 +0000" stop="20250425070000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">X-Games Reaction Sports</title>
-    <date>20250101</date>
-    <category lang="en">Adventure</category>
-    <episode-num system="xmltv_ns">0.26.0/1</episode-num>
-    <episode-num system="onscreen">S01E27</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p28127530_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425070000 +0000" stop="20250425073000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">From April 23, 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.236.0/1</episode-num>
-    <episode-num system="onscreen">S01E237</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425073000 +0000" stop="20250425080000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425080000 +0000" stop="20250425083000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425083000 +0000" stop="20250425090000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425090000 +0000" stop="20250425093000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425093000 +0000" stop="20250425100000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425100000 +0000" stop="20250425103000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425103000 +0000" stop="20250425110000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425110000 +0000" stop="20250425113000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425113000 +0000" stop="20250425123000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">X-Games Reaction Sports</title>
-    <date>20250101</date>
-    <category lang="en">Adventure</category>
-    <episode-num system="xmltv_ns">0.26.0/1</episode-num>
-    <episode-num system="onscreen">S01E27</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p28127530_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425123000 +0000" stop="20250425130000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425130000 +0000" stop="20250425133000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Gearing Up</title>
-    <desc lang="en">An insight into the action from the world&amp;apos;s most unique motor sports events.</desc>
-    <credits>
-      <director>Jonathan Perkins</director>
-      <actor>Kelly Biase</actor>
-      <actor>Ralph Biase</actor>
-      <actor>Damon Sasso</actor>
-      <producer>Kelly Biase</producer>
-    </credits>
-    <date>20190101</date>
-    <category lang="en">Auto</category>
-    <image>https://tvtv.us/gn/pi/assets/p29027972_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425133000 +0000" stop="20250425140000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">The World Sailing Show</title>
-    <desc lang="en">The official international sailing series of the World Sailing Federation is a half hour digest of everything that matters in the sport.</desc>
-    <date>20220101</date>
-    <category lang="en">Sailing</category>
-    <image>https://tvtv.us/gn/pi/assets/p23648438_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425140000 +0000" stop="20250425143000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425143000 +0000" stop="20250425150000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">World Sailing Show</title>
-    <desc lang="en">The host delivers the latest information and stories about professional athletes competing in various sailing tournaments.</desc>
-    <date>20180101</date>
-    <category lang="en">Sailing</category>
-    <category lang="en">Yacht racing</category>
-    <image>https://tvtv.us/gn/pi/assets/p15432760_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425150000 +0000" stop="20250425170000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group A.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y586R.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425170000 +0000" stop="20250425173000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">This is Paris</title>
-    <desc lang="en">All the information related to the Paris Saint-Germain team. Learn about the training, international players, future stars of this prestigious club and all the locker room gossip.</desc>
-    <date>20130101</date>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Documentary</category>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p10127537_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425173000 +0000" stop="20250425180000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Ligue 1 Show</title>
-    <desc lang="en">All of the greatest moments from a weekend full of action in Ligue 1, with reviews of table and results. Also discusses players of the week, best play, best save, worst blooper, who is in the hot seat, and who was the revelation of the round.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20120101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p29187274_b_v12_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425180000 +0000" stop="20250425183000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Ligue 1 Preview Show</title>
-    <desc lang="en">Previews of the upcoming games from the French Ligue 1, France&amp;apos;s top division of soccer.</desc>
-    <date>20080101</date>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/p257931_b_v8_ac.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425183000 +0000" stop="20250425183500 +0000" channel="beINSportsUSA.us">
-    <title lang="en">The Express Preview</title>
-    <desc lang="en">Airing continuously around live events on weekends, covering special previews, halftime, and postgame coverage for the matches broadcast live on beIN SPORTS with live hits from reporters in different stadiums and cities around the world.</desc>
-    <date>20140101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p11360721_b_v8_ac.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425183500 +0000" stop="20250425204500 +0000" channel="beINSportsUSA.us">
-    <title lang="en">French Ligue 1 Soccer</title>
-    <desc lang="en">From Parc des Princes in Paris, Ile-de-France, France.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y30D7.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425204500 +0000" stop="20250425210000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Ligue 1 Show</title>
-    <desc lang="en">All of the greatest moments from a weekend full of action in Ligue 1, with reviews of table and results. Also discusses players of the week, best play, best save, worst blooper, who is in the hot seat, and who was the revelation of the round.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20120101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p29187274_b_v12_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425210000 +0000" stop="20250425213000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">From April 24, 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.238.0/1</episode-num>
-    <episode-num system="onscreen">S01E239</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425213000 +0000" stop="20250425220000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">From April 23, 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.236.0/1</episode-num>
-    <episode-num system="onscreen">S01E237</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425220000 +0000" stop="20250426000000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Premier Padel Tennis</title>
-    <category lang="en">Racquet</category>
-    <image>https://tvtv.us/gn/pi/assets/p23196420_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">The Express Preview</title>
-    <desc lang="en">Airing continuously around live events on weekends, covering special previews, halftime, and postgame coverage for the matches broadcast live on beIN SPORTS with live hits from reporters in different stadiums and cities around the world.</desc>
-    <date>20140101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p11360721_b_v8_ac.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group B.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001L1YEQ.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424023000 +0000" stop="20250424040000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group E.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Q1C6S.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424040000 +0000" stop="20250424060000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group B.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001L1YEQ.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424060000 +0000" stop="20250424063000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">From April 20, 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.232.0/1</episode-num>
-    <episode-num system="onscreen">S01E233</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424063000 +0000" stop="20250424070000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">From April 20, 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.233.0/1</episode-num>
-    <episode-num system="onscreen">S01E234</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424070000 +0000" stop="20250424073000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">From April 20, 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.234.0/1</episode-num>
-    <episode-num system="onscreen">S01E235</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424073000 +0000" stop="20250424080000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424080000 +0000" stop="20250424083000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424083000 +0000" stop="20250424090000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424090000 +0000" stop="20250424093000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424093000 +0000" stop="20250424100000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424100000 +0000" stop="20250424103000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424103000 +0000" stop="20250424110000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424110000 +0000" stop="20250424113000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424113000 +0000" stop="20250424123000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">X-Games Reaction Sports</title>
-    <date>20250101</date>
-    <category lang="en">Adventure</category>
-    <episode-num system="xmltv_ns">0.25.0/1</episode-num>
-    <episode-num system="onscreen">S01E26</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p28127530_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424123000 +0000" stop="20250424130000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424130000 +0000" stop="20250424133000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">ABSA Cape Epic</title>
-    <date>20240101</date>
-    <category lang="en">Mountain biking</category>
-    <category lang="en">Action sports</category>
-    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p20804527_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424133000 +0000" stop="20250424140000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">ABSA Cape Epic</title>
-    <date>20240101</date>
-    <category lang="en">Mountain biking</category>
-    <category lang="en">Action sports</category>
-    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p20804527_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424140000 +0000" stop="20250424143000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424143000 +0000" stop="20250424150000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">The World Sailing Show</title>
-    <desc lang="en">The official international sailing series of the World Sailing Federation is a half hour digest of everything that matters in the sport.</desc>
-    <date>20220101</date>
-    <category lang="en">Sailing</category>
-    <image>https://tvtv.us/gn/pi/assets/p23648438_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424150000 +0000" stop="20250424170000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">CAF Champions League Soccer</title>
-    <desc lang="en">1st Leg, Semifinal.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y0F26.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424170000 +0000" stop="20250424190000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">CAF Champions League Soccer</title>
-    <desc lang="en">Semifinal, 2nd Leg.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/p8365834_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424190000 +0000" stop="20250424210000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group F.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QZL9W.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424210000 +0000" stop="20250424213000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">From April 23, 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.236.0/1</episode-num>
-    <episode-num system="onscreen">S01E237</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424213000 +0000" stop="20250424215000 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Ligue 1 Show</title>
-    <desc lang="en">All of the greatest moments from a weekend full of action in Ligue 1, with reviews of table and results. Also discusses players of the week, best play, best save, worst blooper, who is in the hot seat, and who was the revelation of the round.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20120101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p29187274_b_v12_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424215000 +0000" stop="20250424235500 +0000" channel="beINSportsUSA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group G.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y586Z.jpg?w=240&amp;h=360</image>
   </programme>
   <programme start="20250424202000 +0000" stop="20250424204000 +0000" channel="vixdeportes23">
     <title lang="en">ViX Premium Deportes 23</title>
@@ -16176,149 +15460,6 @@
     <category lang="en">Entertainment</category>
     <image>https://tvtv.us/gn/pi/assets/p22282125_b_v12_ab.jpg?w=240&amp;h=360</image>
   </programme>
-  <programme start="20250425000000 +0000" stop="20250425002000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">500 Great Goals</title>
-    <desc lang="en">The 500 of the best goals ever seen.</desc>
-    <date>20100101</date>
-    <category lang="en">Special</category>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/p8296786_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425002000 +0000" stop="20250425023000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Copa Sudamericana Soccer</title>
-    <desc lang="en">Group E.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y4T27.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425023000 +0000" stop="20250425030000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">GKA Kite World Tour</title>
-    <desc lang="en">The Kite World Tour unifies kiteboarding fans and the best athletes in one, multi-discipline World Tour.</desc>
-    <date>20230101</date>
-    <category lang="en">Action sports</category>
-    <image>https://tvtv.us/gn/pi/assets/p24391962_b_v11_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425030000 +0000" stop="20250425040000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">BYB Xtreme Fighting Series</title>
-    <desc lang="en">BYB Xtreme Fighting Series is a bare knuckle fighting organization. BYB is an abbreviation of &amp;quot;Back Yard Brawl&amp;quot;.</desc>
-    <credits>
-      <actor>Mike Goldberg</actor>
-      <actor>Paulie Malignaggi</actor>
-    </credits>
-    <date>20220101</date>
-    <category lang="en">Boxing</category>
-    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p25869303_b_v12_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425040000 +0000" stop="20250425060000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">XFC 52: The Awakening</title>
-    <date>20250101</date>
-    <category lang="en">Mixed martial arts</category>
-    <image>https://tvtv.us/gn/pi/assets/p29781081_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425060000 +0000" stop="20250425080000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">XFC: Detroit Grand Prix II</title>
-    <date>20240101</date>
-    <category lang="en">Mixed martial arts</category>
-    <image>https://tvtv.us/gn/pi/assets/p29900516_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425080000 +0000" stop="20250425100000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Premier Padel Tennis</title>
-    <desc lang="en">From Khalifa International Tennis and Squash Complex in Doha, Qatar.</desc>
-    <category lang="en">Racquet</category>
-    <image>https://tvtv.us/gn/pi/assets/p23196420_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425100000 +0000" stop="20250425120000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Skiing</title>
-    <desc lang="en">Coverage of skiing action.</desc>
-    <category lang="en">Skiing</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p488899_b_v8_ac.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425120000 +0000" stop="20250425140000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Marathon</title>
-    <desc lang="en">Coverage from the streets of Seville, Spain.</desc>
-    <category lang="en">Marathon</category>
-    <image>https://tvtv.us/gn/pi/assets/p261906_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425140000 +0000" stop="20250425150000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">X-Games Reaction Sports</title>
-    <date>20250101</date>
-    <category lang="en">Adventure</category>
-    <episode-num system="xmltv_ns">0.28.0/1</episode-num>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p28127530_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425150000 +0000" stop="20250425153000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Queen and King of the Court</title>
-    <desc lang="en">Men&amp;apos;s and women&amp;apos;s beach volleyball action.</desc>
-    <date>20240101</date>
-    <category lang="en">Beach volleyball</category>
-    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p28330816_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425153000 +0000" stop="20250425155500 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">NEOM Beach Games 2024</title>
-    <date>20250101</date>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/p29393686_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425155500 +0000" stop="20250425175500 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">CAF Champions League Soccer</title>
-    <desc lang="en">Semifinal, 2nd Leg.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y3ZDV.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425175500 +0000" stop="20250425200000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">CAF Champions League Soccer</title>
-    <desc lang="en">Semifinal, 2nd Leg.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/p8365834_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425200000 +0000" stop="20250425203000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">ABSA Cape Epic</title>
-    <date>20240101</date>
-    <category lang="en">Mountain biking</category>
-    <category lang="en">Action sports</category>
-    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p20804527_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425203000 +0000" stop="20250425210000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">ABSA Cape Epic</title>
-    <date>20240101</date>
-    <category lang="en">Mountain biking</category>
-    <category lang="en">Action sports</category>
-    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p20804527_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425210000 +0000" stop="20250425213000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">NEOM Beach Games 2024</title>
-    <date>20250101</date>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/p29393686_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425213000 +0000" stop="20250425220000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Queen and King of the Court</title>
-    <desc lang="en">Men&amp;apos;s and women&amp;apos;s beach volleyball action.</desc>
-    <date>20240101</date>
-    <category lang="en">Beach volleyball</category>
-    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p28330816_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425220000 +0000" stop="20250426000000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Premier Padel Tennis</title>
-    <category lang="en">Racquet</category>
-    <image>https://tvtv.us/gn/pi/assets/p23196420_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
   <programme start="20250424200000 +0000" stop="20250424220000 +0000" channel="t2.us">
     <title lang="en">Best of the Day</title>
     <desc lang="en">Enjoy the best of today&amp;apos;s coverage on Tennis Channel 2.</desc>
@@ -16510,692 +15651,5 @@
       <value>TVG</value>
     </rating>
     <image>https://tvtv.us/gn/pi/assets/p29917218_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">The Express Preview</title>
-    <desc lang="en">El programa de noticias del fin de semana. Previa, medio tiempo y la cobertura posterior a cada partido.</desc>
-    <date>20140101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p11360721_b_v8_ac.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo B de la Copa Libertadores 2025. Desde el Estadio Banco Guayaquil, en Quito. El primer lugar del grupo está en juego, aunque El Millonario tiene un punto de ventaja sobre El Matagigantes.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QZKW4.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424023000 +0000" stop="20250424040000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo E de la Copa Libertadores 2025. Desde el estadio Américo Montanini, en Santander. Atlético Bucaramanga, líder del grupo, se enfrenta a Fortaleza que se encuentra en último lugar.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QQFJ9.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424040000 +0000" stop="20250424043000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">Los mejores y más destacados momentos de la Ligue 1 en resumen. Encuentro entre Lille y Auxerre. Disputado el 20 de abril del 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.231.0/1</episode-num>
-    <episode-num system="onscreen">S01E232</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424043000 +0000" stop="20250424050000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">Los mejores y más destacados momentos de la Superliga 2024-2025. Encuentro entre Galatasaray y Bodrum. Disputado el 20 de abril del 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.234.0/1</episode-num>
-    <episode-num system="onscreen">S01E235</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424050000 +0000" stop="20250424053000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Los mejores goles</title>
-    <desc lang="en">Un vistazo a las mejores anotaciones que ocurrieron en la historia de la Copa Libertadores.</desc>
-    <category lang="en">Soccer</category>
-    <category lang="en">Classic Sport Event</category>
-    <image>https://tvtv.us/gn/pi/assets/p29724218_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424053000 +0000" stop="20250424060000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Lo mejor de la jornada francesa</title>
-    <desc lang="en">Los momentos más destacados de los partidos de la jornada 30 de la Ligue 1 2024-2025.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20250101</date>
-    <category lang="en">Sports talk</category>
-    <episode-num system="xmltv_ns">0.28.0/1</episode-num>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9415950_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424060000 +0000" stop="20250424070000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">La Charreada</title>
-    <desc lang="en">Una serie sobre los charros mexicanos y su vida alrededor de la charrería, el deporte nacional por excelencia.</desc>
-    <date>20230101</date>
-    <category lang="en">Bull riding</category>
-    <image>https://tvtv.us/gn/pi/assets/p23749126_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424070000 +0000" stop="20250424073000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424073000 +0000" stop="20250424080000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424080000 +0000" stop="20250424083000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424083000 +0000" stop="20250424090000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424090000 +0000" stop="20250424093000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424093000 +0000" stop="20250424100000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424100000 +0000" stop="20250424103000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424103000 +0000" stop="20250424110000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424110000 +0000" stop="20250424113000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Los mejores goles</title>
-    <desc lang="en">Un vistazo a las mejores anotaciones que ocurrieron en la historia de la Copa Libertadores.</desc>
-    <category lang="en">Soccer</category>
-    <category lang="en">Classic Sport Event</category>
-    <image>https://tvtv.us/gn/pi/assets/p29724218_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424113000 +0000" stop="20250424120000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Lo mejor de la jornada francesa</title>
-    <desc lang="en">Los momentos más destacados de los partidos de la jornada 30 de la Ligue 1 2024-2025.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20250101</date>
-    <category lang="en">Sports talk</category>
-    <episode-num system="xmltv_ns">0.28.0/1</episode-num>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9415950_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424120000 +0000" stop="20250424123000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424123000 +0000" stop="20250424143000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Baloncesto CIBACOPA</title>
-    <desc lang="en">Primer juego de la serie regular del CIBACOPA 2025. Ángeles de la Ciudad de México se enfrenta a Pioneros de Los Mochis. Desde el Gimnasio Olímpico Juan de la Barrera, en Ciudad de México.</desc>
-    <category lang="en">Basketball</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QE2M9.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424143000 +0000" stop="20250424150000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424150000 +0000" stop="20250424170000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo F de la Copa Libertadores 2025. Desde el Estadio Beira-Rio, en Porto Alegre. Internacional defiende su liderato del grupo ante un Nacional que no ha obtenido un triunfo en este torneo.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QKEGY.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424170000 +0000" stop="20250424190000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">CONMEBOL Copa Sudamericana</title>
-    <desc lang="en">Jornada 3 del Grupo C de la Copa Sudamericana 2025. Desde el estadio Tomás A. Ducó, en Buenos Aires. El primer lugar del grupo está en juego donde el Globo tiene dos puntos de ventaja sobre Los Diablos Rojos. Huracán viene de golear al Racing, 5-0.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QE42S.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424190000 +0000" stop="20250424210000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo A de la Copa Libertadores 2025. Desde el estadio Jorge Luis Hirschi, en Buenos Aires. La segunda posición del grupo está en juego donde Estudiantes de La Plata tiene un gol a favor sobre Botafago.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y586R.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424210000 +0000" stop="20250424215000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">The Xtra</title>
-    <desc lang="en">El estudio de beIN sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.</desc>
-    <date>20120101</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p16172813_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424215000 +0000" stop="20250424235500 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo G de la Copa Libertadores 2025. Desde el estadio Hernando Siles, en La Paz. Bolívar, número 2, se enfrenta a Palmeiras, número 1, por el liderato del grupo.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y586Z.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424235500 +0000" stop="20250425000100 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo F de la Copa Libertadores 2025. Desde el Arena Fonte Nova, en Salvador. La Bahêa busca tomar el liderato del grupo aunque El Verde está justo abajo de los locales con un punto de diferencia.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001L1YS3.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424000000 +0000" stop="20250424002000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">500 Great Goals</title>
-    <desc lang="en">The 500 of the best goals ever seen.</desc>
-    <date>20100101</date>
-    <category lang="en">Special</category>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/p8296786_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424002000 +0000" stop="20250424023000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Copa Libertadores Soccer</title>
-    <desc lang="en">Group D.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y32VG.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424023000 +0000" stop="20250424030000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">GKA Kite World Tour</title>
-    <desc lang="en">The Kite World Tour unifies kiteboarding fans and the best athletes in one, multi-discipline World Tour.</desc>
-    <date>20230101</date>
-    <category lang="en">Action sports</category>
-    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p24391962_b_v11_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424030000 +0000" stop="20250424040000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">BYB Xtreme Fighting Series</title>
-    <desc lang="en">BYB Xtreme Fighting Series is a bare knuckle fighting organization. BYB is an abbreviation of &amp;quot;Back Yard Brawl&amp;quot;.</desc>
-    <credits>
-      <actor>Mike Goldberg</actor>
-      <actor>Paulie Malignaggi</actor>
-    </credits>
-    <date>20220101</date>
-    <category lang="en">Boxing</category>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p25869303_b_v12_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424040000 +0000" stop="20250424060000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">BYB Extreme Fighting Series 26: Mile High Brawl</title>
-    <desc lang="en">LT Nelson vs. Tommy Turner. From Stockyards Event Center in Denver.</desc>
-    <date>20240101</date>
-    <category lang="en">Boxing</category>
-    <image>https://tvtv.us/gn/pi/assets/p27178996_b_v11_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424060000 +0000" stop="20250424080000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">BYB Xtreme Fighting Series</title>
-    <desc lang="en">BYB Xtreme Fighting Series is a bare knuckle fighting organization. BYB is an abbreviation of &amp;quot;Back Yard Brawl&amp;quot;.</desc>
-    <credits>
-      <actor>Mike Goldberg</actor>
-      <actor>Paulie Malignaggi</actor>
-    </credits>
-    <date>20240101</date>
-    <category lang="en">Boxing</category>
-    <episode-num system="xmltv_ns">0.24.0/1</episode-num>
-    <episode-num system="onscreen">S01E25</episode-num>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p25869303_b_v12_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424080000 +0000" stop="20250424100000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">BYB Extreme Fighting Series 28: Bourbon Street Brawl</title>
-    <desc lang="en">From John A. Alario Event Center in New Orleans.</desc>
-    <date>20240101</date>
-    <category lang="en">Boxing</category>
-    <image>https://tvtv.us/gn/pi/assets/p27755262_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424100000 +0000" stop="20250424120000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Skiing</title>
-    <desc lang="en">Coverage of skiing action.</desc>
-    <category lang="en">Skiing</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p488899_b_v8_ac.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424120000 +0000" stop="20250424140000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Premier Padel Tennis</title>
-    <desc lang="en">From Khalifa International Tennis and Squash Complex in Doha, Qatar.</desc>
-    <category lang="en">Racquet</category>
-    <image>https://tvtv.us/gn/pi/assets/p23196420_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424140000 +0000" stop="20250424150000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Footvolley</title>
-    <category lang="en">Footvolley</category>
-    <image>https://tvtv.us/gn/pi/assets/p9795166_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424150000 +0000" stop="20250424193000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Premier Padel Tennis</title>
-    <desc lang="en">From Gare Maritime in Bruxelles, Bruxelles-Capitale, Région de, Belgium.</desc>
-    <category lang="en">Playoff sports</category>
-    <category lang="en">Racquet</category>
-    <image>https://tvtv.us/gn/pi/assets/p23196420_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424193000 +0000" stop="20250424200000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">World Downhill Skateboarding Championship</title>
-    <desc lang="en">Watch all the highlights from the latest round of the World Downhill Skateboarding Championships.</desc>
-    <date>20220101</date>
-    <category lang="en">Skateboarding</category>
-    <image>https://tvtv.us/gn/pi/assets/p22801354_b_v11_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424200000 +0000" stop="20250424203000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">World Downhill Skateboarding Championship</title>
-    <desc lang="en">Watch all the highlights from the latest round of the World Downhill Skateboarding Championships.</desc>
-    <date>20220101</date>
-    <category lang="en">Skateboarding</category>
-    <image>https://tvtv.us/gn/pi/assets/p22801354_b_v11_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424203000 +0000" stop="20250424210000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">ABSA Cape Epic</title>
-    <date>20240101</date>
-    <category lang="en">Mountain biking</category>
-    <category lang="en">Action sports</category>
-    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p20804527_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424210000 +0000" stop="20250424213000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">ABSA Cape Epic</title>
-    <date>20240101</date>
-    <category lang="en">Mountain biking</category>
-    <category lang="en">Action sports</category>
-    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p20804527_b_v12_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424213000 +0000" stop="20250424215000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">500 Great Goals</title>
-    <desc lang="en">The 500 of the best goals ever seen.</desc>
-    <date>20100101</date>
-    <category lang="en">Special</category>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/p8296786_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250424215000 +0000" stop="20250425000000 +0000" channel="beINSPORTSXTRAUSA.us">
-    <title lang="en">Copa Sudamericana Soccer</title>
-    <desc lang="en">Group C.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001YB1P5.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425015500 +0000" stop="20250425040000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">CONMEBOL Copa Sudamericana</title>
-    <desc lang="en">Jornada 3 del Grupo B de la Copa Sudamericana 2025. Desde el Estadio Olímpico Atahualpa, en Quito. La Camaratta defiende su liderato del grupo ante El Halcón, que tiene la posibilidad de posicionarse en el primer lugar.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y5870.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425040000 +0000" stop="20250425043000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">Compacto del partido de la Copa Libertadores 2024-2025. Encuentro entre Independiente del Valle y River Plate. Disputado el 23 de abril del 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.236.0/1</episode-num>
-    <episode-num system="onscreen">S01E237</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425043000 +0000" stop="20250425050000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">90 in 30</title>
-    <desc lang="en">Los mejores y más destacados momentos de la Superliga 2024-2025. Encuentro entre Fenerbahce y Kayserispor. Disputado el 20 de abril del 2025.</desc>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <episode-num system="xmltv_ns">0.233.0/1</episode-num>
-    <episode-num system="onscreen">S01E234</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9414874_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425050000 +0000" stop="20250425060000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">The Xtra</title>
-    <desc lang="en">El estudio de beIN sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.</desc>
-    <date>20120101</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p16172813_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425060000 +0000" stop="20250425070000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">La Charreada</title>
-    <desc lang="en">Una serie sobre los charros mexicanos y su vida alrededor de la charrería, el deporte nacional por excelencia.</desc>
-    <date>20230101</date>
-    <category lang="en">Bull riding</category>
-    <image>https://tvtv.us/gn/pi/assets/p23749126_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425070000 +0000" stop="20250425073000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425073000 +0000" stop="20250425080000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425080000 +0000" stop="20250425083000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425083000 +0000" stop="20250425090000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425090000 +0000" stop="20250425093000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425093000 +0000" stop="20250425100000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425100000 +0000" stop="20250425103000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425103000 +0000" stop="20250425110000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425110000 +0000" stop="20250425120000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">The Xtra</title>
-    <desc lang="en">El estudio de beIN sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.</desc>
-    <date>20120101</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p16172813_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425120000 +0000" stop="20250425123000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425123000 +0000" stop="20250425143000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Baloncesto CIBACOPA</title>
-    <desc lang="en">Segundo juego de la serie regular del CIBACOPA 2025. Halcones de Ciudad Obregón se enfrenta al Astros de Jalisco. Desde la Arena ITSON, en Ciudad Obregón, Sonora.</desc>
-    <category lang="en">Basketball</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001QX7ZZ.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425143000 +0000" stop="20250425150000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-    <date>20250101</date>
-    <category lang="en">Shopping</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Variety</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425150000 +0000" stop="20250425160000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">La Charreada</title>
-    <desc lang="en">Una serie sobre los charros mexicanos y su vida alrededor de la charrería, el deporte nacional por excelencia.</desc>
-    <date>20230101</date>
-    <category lang="en">Bull riding</category>
-    <image>https://tvtv.us/gn/pi/assets/p23749126_st_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425160000 +0000" stop="20250425180000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">CONMEBOL Copa Sudamericana</title>
-    <desc lang="en">Jornada 3 del Grupo D de la Copa Sudamericana 2025. Desde el Estadio Malvinas Argentinas, en Mendoza. El liderato del grupo está en juego entre la Tomba y Maior do Sul, ya que ambos equipos siguen invictos.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001YB2B1.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425180000 +0000" stop="20250425183000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Lo mejor de la jornada francesa</title>
-    <desc lang="en">Los momentos más destacados de los partidos de la jornada 30 de la Ligue 1 2024-2025.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20250101</date>
-    <category lang="en">Sports talk</category>
-    <episode-num system="xmltv_ns">0.28.0/1</episode-num>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <image>https://tvtv.us/gn/pi/assets/p9415950_b_v8_ab.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425183000 +0000" stop="20250425183500 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">The Express Preview</title>
-    <desc lang="en">El programa de noticias del fin de semana. Previa, medio tiempo y la cobertura posterior a cada partido.</desc>
-    <date>20140101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p11360721_b_v8_ac.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425183500 +0000" stop="20250425204600 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Fútbol Ligue 1</title>
-    <desc lang="en">Jornada 31 de la Ligue 1 2024-2025. El Paris Saint-Germain recibe a un Nice que atraviesa una racha de derrotas. Desde el estadio Parc des Princes, en París.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Y30D7.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425204600 +0000" stop="20250425214500 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">The Xtra</title>
-    <desc lang="en">El estudio de beIN sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.</desc>
-    <date>20120101</date>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p16172813_b_v8_aa.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425214500 +0000" stop="20250425220000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Ligue 1 - Highlight Show</title>
-    <desc lang="en">Un recuento de los momentos emocionantes de la semana en los partidos de fútbol de la liga francesa. Historias inéditas, entrevistas exclusivas y una mirada profunda al backstage.</desc>
-    <credits>
-      <actor>Andres Cordero</actor>
-      <actor>Thomas Rongen</actor>
-    </credits>
-    <date>20120101</date>
-    <category lang="en">Sports talk</category>
-    <image>https://tvtv.us/gn/pi/assets/p9415950_st_v8_ah.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425220000 +0000" stop="20250426000000 +0000" channel="beINSPORTSXTRAenEspanol.us">
-    <title lang="en">Fútbol CONMEBOL Copa Libertadores</title>
-    <desc lang="en">Jornada 3 del Grupo G de la Copa Libertadores 2025. Desde el Estadio General Pablo Rojas, en Asunción. Mientras busca obtener la segunda posición del grupo, El Ciclón de Barrio Obrero defiende su tercer lugar ante La Máquina Celeste.</desc>
-    <category lang="en">Soccer</category>
-    <image>https://tvtv.us/gn/pi/assets/GNLZZGG001Q1C8C.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425020000 +0000" stop="20250425060000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425060000 +0000" stop="20250425100000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425100000 +0000" stop="20250425140000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425140000 +0000" stop="20250425180000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425180000 +0000" stop="20250425220000 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
-  </programme>
-  <programme start="20250425220000 +0000" stop="20250426000100 +0000" channel="beINSports8USA.us">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.</desc>
-    <date>20220101</date>
-    <category lang="en">Special</category>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <image>https://tvtv.us/gn/pi/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360</image>
   </programme>
 </tv>
