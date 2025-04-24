@@ -12,6 +12,9 @@
   <channel id="Colorado Rockies vs. Kansas City Royals">
     <display-name lang="en">Colorado Rockies vs. Kansas City Royals</display-name>
   </channel>
+  <channel id="Milwaukee Brewers vs. San Francisco Giants">
+    <display-name lang="en">Milwaukee Brewers vs. San Francisco Giants</display-name>
+  </channel>
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
   </channel>
@@ -59,9 +62,6 @@
   </channel>
   <channel id="Winnipeg Jets vs. St. Louis Blues">
     <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. San Francisco Giants">
-    <display-name lang="en">Milwaukee Brewers vs. San Francisco Giants</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Washington Nationals">
     <display-name lang="en">Baltimore Orioles vs. Washington Nationals</display-name>
@@ -121,6 +121,14 @@
     </audio>
   </programme>
   <programme start="20250424000000 -0500" channel="Colorado Rockies vs. Kansas City Royals" stop="20250424235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250424000000 -0500" channel="Milwaukee Brewers vs. San Francisco Giants" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -250,14 +258,6 @@
   </programme>
   <programme start="20250424000000 -0500" channel="Winnipeg Jets vs. St. Louis Blues" stop="20250424235959 -0500">
     <title>08:30 PM 24/04/25 - Winnipeg Jets vs. St. Louis Blues</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250424000000 -0500" channel="Milwaukee Brewers vs. San Francisco Giants" stop="20250424235959 -0500">
-    <title>02:45 PM 24/04/25 - Milwaukee Brewers vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
