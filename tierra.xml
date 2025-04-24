@@ -1,23 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250423 -0500">
-  <channel id="Warriors at Rockets">
-    <display-name lang="en">Warriors at Rockets</display-name>
-  </channel>
-  <channel id="Dallas Stars vs. Colorado Avalanche">
-    <display-name lang="en">Dallas Stars vs. Colorado Avalanche</display-name>
-  </channel>
-  <channel id="Edmonton Oilers vs. Los Angeles Kings">
-    <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Los Angeles Angels">
-    <display-name lang="en">Pittsburgh Pirates vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Arizona Diamondbacks">
-    <display-name lang="en">Tampa Bay Rays vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. San Francisco Giants">
-    <display-name lang="en">Milwaukee Brewers vs. San Francisco Giants</display-name>
-  </channel>
+<tv date="20250424 -0500">
   <channel id="Texas Rangers vs. Athletics">
     <display-name lang="en">Texas Rangers vs. Athletics</display-name>
   </channel>
@@ -44,6 +26,9 @@
   </channel>
   <channel id="PDC: BetMGM Premier League - Night Twelve">
     <display-name lang="en">PDC: BetMGM Premier League - Night Twelve</display-name>
+  </channel>
+  <channel id="PDC: 2025 Austrian Darts Open Day One">
+    <display-name lang="en">PDC: 2025 Austrian Darts Open Day One</display-name>
   </channel>
   <channel id="Vancouver Whitecaps vs Inter Miami">
     <display-name lang="en">Vancouver Whitecaps vs Inter Miami</display-name>
@@ -105,7 +90,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250423000000 -0500" channel="Warriors at Rockets" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Texas Rangers vs. Athletics" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -113,55 +98,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Dallas Stars vs. Colorado Avalanche" stop="20250423235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250423235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Angels" stop="20250423235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Tampa Bay Rays vs. Arizona Diamondbacks" stop="20250423235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Milwaukee Brewers vs. San Francisco Giants" stop="20250423235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="Texas Rangers vs. Athletics" stop="20250423235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250423000000 -0500" channel="2025 NFL Draft: Day 1" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="2025 NFL Draft: Day 1" stop="20250424235959 -0500">
     <title>07:00 PM 24/04/25 - 2025 NFL Draft: Day 1</title>
     <date>2025</date>
     <category>Sports</category>
@@ -169,7 +106,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250424235959 -0500">
     <title>06:00 PM 25/04/25 - 2025 NFL Draft: Day 2</title>
     <date>2025</date>
     <category>Sports</category>
@@ -177,7 +114,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="2025 NFL Draft: Day 3" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="2025 NFL Draft: Day 3" stop="20250424235959 -0500">
     <title>11:00 AM 26/04/25 - 2025 NFL Draft: Day 3</title>
     <date>2025</date>
     <category>Sports</category>
@@ -185,7 +122,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250424235959 -0500">
     <title>11:00 AM 26/04/25 - OKTAGON 70 (German/Deutsch)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -193,7 +130,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250424235959 -0500">
     <title>11:00 AM 26/04/25 - Boxing: Eubank Jr. vs. Benn</title>
     <date>2025</date>
     <category>Sports</category>
@@ -201,7 +138,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="MFN Weekly" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="MFN Weekly" stop="20250424235959 -0500">
     <title>07:00 PM 26/04/25 - MFN Weekly</title>
     <date>2025</date>
     <category>Sports</category>
@@ -209,7 +146,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="LND Monthly" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="LND Monthly" stop="20250424235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
     <date>2025</date>
     <category>Sports</category>
@@ -217,7 +154,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="PDC: BetMGM Premier League - Night Twelve" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="PDC: BetMGM Premier League - Night Twelve" stop="20250424235959 -0500">
     <title>01:00 PM 24/04/25 - PDC: BetMGM Premier League - Night Twelve</title>
     <date>2025</date>
     <category>Sports</category>
@@ -225,7 +162,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Vancouver Whitecaps vs Inter Miami" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="PDC: 2025 Austrian Darts Open Day One" stop="20250424235959 -0500">
+    <title>06:00 AM 25/04/25 - PDC: 2025 Austrian Darts Open Day One</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250424000000 -0500" channel="Vancouver Whitecaps vs Inter Miami" stop="20250424235959 -0500">
     <title>09:30 PM 24/04/25 - Vancouver Whitecaps vs Inter Miami</title>
     <date>2025</date>
     <category>Sports</category>
@@ -233,7 +178,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Florida Panthers vs. Tampa Bay Lightning" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Florida Panthers vs. Tampa Bay Lightning" stop="20250424235959 -0500">
     <title>05:30 PM 24/04/25 - Florida Panthers vs. Tampa Bay Lightning</title>
     <date>2025</date>
     <category>Sports</category>
@@ -241,7 +186,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Toronto Maple Leafs vs. Ottawa Senators" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Toronto Maple Leafs vs. Ottawa Senators" stop="20250424235959 -0500">
     <title>06:00 PM 24/04/25 - Toronto Maple Leafs vs. Ottawa Senators</title>
     <date>2025</date>
     <category>Sports</category>
@@ -249,7 +194,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Vegas Golden Knights vs. Minnesota Wild" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Vegas Golden Knights vs. Minnesota Wild" stop="20250424235959 -0500">
     <title>08:00 PM 24/04/25 - Vegas Golden Knights vs. Minnesota Wild</title>
     <date>2025</date>
     <category>Sports</category>
@@ -257,7 +202,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Winnipeg Jets vs. St. Louis Blues" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Winnipeg Jets vs. St. Louis Blues" stop="20250424235959 -0500">
     <title>08:30 PM 24/04/25 - Winnipeg Jets vs. St. Louis Blues</title>
     <date>2025</date>
     <category>Sports</category>
@@ -265,7 +210,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Chicago White Sox vs. Minnesota Twins" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Chicago White Sox vs. Minnesota Twins" stop="20250424235959 -0500">
     <title>12:10 PM 24/04/25 - Chicago White Sox vs. Minnesota Twins</title>
     <date>2025</date>
     <category>Sports</category>
@@ -273,7 +218,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Seattle Mariners vs. Boston Red Sox" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Seattle Mariners vs. Boston Red Sox" stop="20250424235959 -0500">
     <title>12:35 PM 24/04/25 - Seattle Mariners vs. Boston Red Sox</title>
     <date>2025</date>
     <category>Sports</category>
@@ -281,7 +226,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Colorado Rockies vs. Kansas City Royals" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Colorado Rockies vs. Kansas City Royals" stop="20250424235959 -0500">
     <title>01:10 PM 24/04/25 - Colorado Rockies vs. Kansas City Royals</title>
     <date>2025</date>
     <category>Sports</category>
@@ -289,7 +234,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Milwaukee Brewers vs. San Francisco Giants" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Milwaukee Brewers vs. San Francisco Giants" stop="20250424235959 -0500">
     <title>02:45 PM 24/04/25 - Milwaukee Brewers vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
@@ -297,7 +242,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Baltimore Orioles vs. Washington Nationals" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Baltimore Orioles vs. Washington Nationals" stop="20250424235959 -0500">
     <title>05:45 PM 24/04/25 - Baltimore Orioles vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
@@ -305,7 +250,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Angels" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Angels" stop="20250424235959 -0500">
     <title>08:29 PM 24/04/25 - Pittsburgh Pirates vs. Los Angeles Angels</title>
     <date>2025</date>
     <category>Sports</category>
@@ -313,7 +258,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Tampa Bay Rays vs. Arizona Diamondbacks" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Tampa Bay Rays vs. Arizona Diamondbacks" stop="20250424235959 -0500">
     <title>08:40 PM 24/04/25 - Tampa Bay Rays vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
@@ -321,7 +266,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="Texas Rangers vs. Athletics" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="Texas Rangers vs. Athletics" stop="20250424235959 -0500">
     <title>09:05 PM 24/04/25 - Texas Rangers vs. Athletics</title>
     <date>2025</date>
     <category>Sports</category>
@@ -329,7 +274,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250424235959 -0500">
     <title>07:00 PM 25/04/25 - WWE: Friday Night SmackDown</title>
     <date>2025</date>
     <category>Sports</category>
@@ -337,7 +282,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="AEW: Saturday Night Collision" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="AEW: Saturday Night Collision" stop="20250424235959 -0500">
     <title>07:00 PM 26/04/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -345,7 +290,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="24/7 COWS" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="24/7 COWS" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -353,7 +298,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="24/7 South Park" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="24/7 South Park" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -361,7 +306,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="24/7 The Simpsons" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="24/7 The Simpsons" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -369,7 +314,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="(North) Korean Central Television" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="(North) Korean Central Television" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -377,7 +322,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250423000000 -0500" channel="24/7 S*y Sports Golf" stop="20250423235959 -0500">
+  <programme start="20250424000000 -0500" channel="24/7 S*y Sports Golf" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
