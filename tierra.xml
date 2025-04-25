@@ -12,6 +12,9 @@
   <channel id="Toronto Maple Leafs vs. Ottawa Senators">
     <display-name lang="en">Toronto Maple Leafs vs. Ottawa Senators</display-name>
   </channel>
+  <channel id="Vegas Golden Knights vs. Minnesota Wild">
+    <display-name lang="en">Vegas Golden Knights vs. Minnesota Wild</display-name>
+  </channel>
   <channel id="Baltimore Orioles vs. Washington Nationals">
     <display-name lang="en">Baltimore Orioles vs. Washington Nationals</display-name>
   </channel>
@@ -44,9 +47,6 @@
   </channel>
   <channel id="Vancouver Whitecaps vs Inter Miami">
     <display-name lang="en">Vancouver Whitecaps vs Inter Miami</display-name>
-  </channel>
-  <channel id="Vegas Golden Knights vs. Minnesota Wild">
-    <display-name lang="en">Vegas Golden Knights vs. Minnesota Wild</display-name>
   </channel>
   <channel id="Winnipeg Jets vs. St. Louis Blues">
     <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
@@ -106,6 +106,14 @@
     </audio>
   </programme>
   <programme start="20250424000000 -0500" channel="Toronto Maple Leafs vs. Ottawa Senators" stop="20250424235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250424000000 -0500" channel="Vegas Golden Knights vs. Minnesota Wild" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -195,14 +203,6 @@
   </programme>
   <programme start="20250424000000 -0500" channel="Vancouver Whitecaps vs Inter Miami" stop="20250424235959 -0500">
     <title>09:30 PM 24/04/25 - Vancouver Whitecaps vs Inter Miami</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250424000000 -0500" channel="Vegas Golden Knights vs. Minnesota Wild" stop="20250424235959 -0500">
-    <title>08:00 PM 24/04/25 - Vegas Golden Knights vs. Minnesota Wild</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
