@@ -3,11 +3,11 @@
   <channel id="2025 NFL Draft: Day 1">
     <display-name lang="en">2025 NFL Draft: Day 1</display-name>
   </channel>
-  <channel id="Knicks at Pistons">
-    <display-name lang="en">Knicks at Pistons</display-name>
+  <channel id="Thunder at Grizzlies">
+    <display-name lang="en">Thunder at Grizzlies</display-name>
   </channel>
-  <channel id="Florida Panthers vs. Tampa Bay Lightning">
-    <display-name lang="en">Florida Panthers vs. Tampa Bay Lightning</display-name>
+  <channel id="Nuggets at Clippers">
+    <display-name lang="en">Nuggets at Clippers</display-name>
   </channel>
   <channel id="Toronto Maple Leafs vs. Ottawa Senators">
     <display-name lang="en">Toronto Maple Leafs vs. Ottawa Senators</display-name>
@@ -15,20 +15,20 @@
   <channel id="Vegas Golden Knights vs. Minnesota Wild">
     <display-name lang="en">Vegas Golden Knights vs. Minnesota Wild</display-name>
   </channel>
-  <channel id="Baltimore Orioles vs. Washington Nationals">
-    <display-name lang="en">Baltimore Orioles vs. Washington Nationals</display-name>
+  <channel id="Winnipeg Jets vs. St. Louis Blues">
+    <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. Los Angeles Angels">
+    <display-name lang="en">Pittsburgh Pirates vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. Arizona Diamondbacks">
+    <display-name lang="en">Tampa Bay Rays vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
   </channel>
   <channel id="2025 NFL Draft: Day 3">
     <display-name lang="en">2025 NFL Draft: Day 3</display-name>
-  </channel>
-  <channel id="Thunder at Grizzlies">
-    <display-name lang="en">Thunder at Grizzlies</display-name>
-  </channel>
-  <channel id="Nuggets at Clippers">
-    <display-name lang="en">Nuggets at Clippers</display-name>
   </channel>
   <channel id="OKTAGON 70 (German/Deutsch)">
     <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
@@ -47,15 +47,6 @@
   </channel>
   <channel id="Vancouver Whitecaps vs Inter Miami">
     <display-name lang="en">Vancouver Whitecaps vs Inter Miami</display-name>
-  </channel>
-  <channel id="Winnipeg Jets vs. St. Louis Blues">
-    <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Los Angeles Angels">
-    <display-name lang="en">Pittsburgh Pirates vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Arizona Diamondbacks">
-    <display-name lang="en">Tampa Bay Rays vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="Texas Rangers vs. Athletics">
     <display-name lang="en">Texas Rangers vs. Athletics</display-name>
@@ -89,7 +80,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250424000000 -0500" channel="Knicks at Pistons" stop="20250424235959 -0500">
+  <programme start="20250424000000 -0500" channel="Thunder at Grizzlies" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -97,7 +88,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250424000000 -0500" channel="Florida Panthers vs. Tampa Bay Lightning" stop="20250424235959 -0500">
+  <programme start="20250424000000 -0500" channel="Nuggets at Clippers" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -121,7 +112,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250424000000 -0500" channel="Baltimore Orioles vs. Washington Nationals" stop="20250424235959 -0500">
+  <programme start="20250424000000 -0500" channel="Winnipeg Jets vs. St. Louis Blues" stop="20250424235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250424000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Angels" stop="20250424235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250424000000 -0500" channel="Tampa Bay Rays vs. Arizona Diamondbacks" stop="20250424235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -139,22 +146,6 @@
   </programme>
   <programme start="20250424000000 -0500" channel="2025 NFL Draft: Day 3" stop="20250424235959 -0500">
     <title>11:00 AM 26/04/25 - 2025 NFL Draft: Day 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250424000000 -0500" channel="Thunder at Grizzlies" stop="20250424235959 -0500">
-    <title>08:30 PM 24/04/25 - Thunder at Grizzlies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250424000000 -0500" channel="Nuggets at Clippers" stop="20250424235959 -0500">
-    <title>09:00 PM 24/04/25 - Nuggets at Clippers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -203,30 +194,6 @@
   </programme>
   <programme start="20250424000000 -0500" channel="Vancouver Whitecaps vs Inter Miami" stop="20250424235959 -0500">
     <title>09:30 PM 24/04/25 - Vancouver Whitecaps vs Inter Miami</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250424000000 -0500" channel="Winnipeg Jets vs. St. Louis Blues" stop="20250424235959 -0500">
-    <title>08:30 PM 24/04/25 - Winnipeg Jets vs. St. Louis Blues</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250424000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Angels" stop="20250424235959 -0500">
-    <title>08:29 PM 24/04/25 - Pittsburgh Pirates vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250424000000 -0500" channel="Tampa Bay Rays vs. Arizona Diamondbacks" stop="20250424235959 -0500">
-    <title>08:40 PM 24/04/25 - Tampa Bay Rays vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
