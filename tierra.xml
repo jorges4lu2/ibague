@@ -6,11 +6,11 @@
   <channel id="Philadelphia Phillies vs. Chicago Cubs">
     <display-name lang="en">Philadelphia Phillies vs. Chicago Cubs</display-name>
   </channel>
-  <channel id="2025 NFL Draft: Day 2">
-    <display-name lang="en">2025 NFL Draft: Day 2</display-name>
+  <channel id="2025 NFL Draft: Round 2 &amp;amp; 3">
+    <display-name lang="en">2025 NFL Draft: Round 2 &amp;amp; 3</display-name>
   </channel>
-  <channel id="2025 NFL Draft: Day 3">
-    <display-name lang="en">2025 NFL Draft: Day 3</display-name>
+  <channel id="2025 NFL Draft: Rounds 4-7">
+    <display-name lang="en">2025 NFL Draft: Rounds 4-7</display-name>
   </channel>
   <channel id="Celtics at Magic">
     <display-name lang="en">Celtics at Magic</display-name>
@@ -27,6 +27,12 @@
   <channel id="Boxing: Eubank Jr. vs. Benn">
     <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
   </channel>
+  <channel id="OKTAGON 70 (Czech)">
+    <display-name lang="en">OKTAGON 70 (Czech)</display-name>
+  </channel>
+  <channel id="Oktagon 70 (English)">
+    <display-name lang="en">Oktagon 70 (English)</display-name>
+  </channel>
   <channel id="MFN Weekly">
     <display-name lang="en">MFN Weekly</display-name>
   </channel>
@@ -38,6 +44,24 @@
   </channel>
   <channel id="EPL: Chelsea vs Everton">
     <display-name lang="en">EPL: Chelsea vs Everton</display-name>
+  </channel>
+  <channel id="EPL: Brighton and Hove Albion vs West Ham United">
+    <display-name lang="en">EPL: Brighton and Hove Albion vs West Ham United</display-name>
+  </channel>
+  <channel id="EPL: Newcastle United vs Ipswich Town">
+    <display-name lang="en">EPL: Newcastle United vs Ipswich Town</display-name>
+  </channel>
+  <channel id="EPL: Southampton vs Fulham">
+    <display-name lang="en">EPL: Southampton vs Fulham</display-name>
+  </channel>
+  <channel id="EPL: Wolverhampton Wanderers vs Leicester City">
+    <display-name lang="en">EPL: Wolverhampton Wanderers vs Leicester City</display-name>
+  </channel>
+  <channel id="FA Cup: Crystal Palace vs Aston Villa">
+    <display-name lang="en">FA Cup: Crystal Palace vs Aston Villa</display-name>
+  </channel>
+  <channel id="Copa del Rey: Barcelona vs Real Madrid">
+    <display-name lang="en">Copa del Rey: Barcelona vs Real Madrid</display-name>
   </channel>
   <channel id="Washington Capitals vs. Montreal Canadiens">
     <display-name lang="en">Washington Capitals vs. Montreal Canadiens</display-name>
@@ -127,16 +151,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="2025 NFL Draft: Day 2" stop="20250425235959 -0500">
-    <title>06:00 PM 25/04/25 - 2025 NFL Draft: Day 2</title>
+  <programme start="20250425000000 -0500" channel="2025 NFL Draft: Round 2 &amp;amp; 3" stop="20250425235959 -0500">
+    <title>06:00 PM 25/04/25 - 2025 NFL Draft: Round 2 &amp;amp; 3</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="2025 NFL Draft: Day 3" stop="20250425235959 -0500">
-    <title>11:00 AM 26/04/25 - 2025 NFL Draft: Day 3</title>
+  <programme start="20250425000000 -0500" channel="2025 NFL Draft: Rounds 4-7" stop="20250425235959 -0500">
+    <title>11:00 AM 26/04/25 - 2025 NFL Draft: Rounds 4-7</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -183,6 +207,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250425000000 -0500" channel="OKTAGON 70 (Czech)" stop="20250425235959 -0500">
+    <title>11:00 AM 26/04/25 - OKTAGON 70 (Czech)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="Oktagon 70 (English)" stop="20250425235959 -0500">
+    <title>11:00 AM 26/04/25 - Oktagon 70 (English)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250425000000 -0500" channel="MFN Weekly" stop="20250425235959 -0500">
     <title>07:00 PM 26/04/25 - MFN Weekly</title>
     <date>2025</date>
@@ -209,6 +249,54 @@
   </programme>
   <programme start="20250425000000 -0500" channel="EPL: Chelsea vs Everton" stop="20250425235959 -0500">
     <title>06:30 AM 26/04/25 - EPL: Chelsea vs Everton</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="EPL: Brighton and Hove Albion vs West Ham United" stop="20250425235959 -0500">
+    <title>09:00 AM 26/04/25 - EPL: Brighton and Hove Albion vs West Ham United</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="EPL: Newcastle United vs Ipswich Town" stop="20250425235959 -0500">
+    <title>09:00 AM 26/04/25 - EPL: Newcastle United vs Ipswich Town</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="EPL: Southampton vs Fulham" stop="20250425235959 -0500">
+    <title>09:00 AM 26/04/25 - EPL: Southampton vs Fulham</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="EPL: Wolverhampton Wanderers vs Leicester City" stop="20250425235959 -0500">
+    <title>09:00 AM 26/04/25 - EPL: Wolverhampton Wanderers vs Leicester City</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="FA Cup: Crystal Palace vs Aston Villa" stop="20250425235959 -0500">
+    <title>11:15 AM 26/04/25 - FA Cup: Crystal Palace vs Aston Villa</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="Copa del Rey: Barcelona vs Real Madrid" stop="20250425235959 -0500">
+    <title>03:00 PM 26/04/25 - Copa del Rey: Barcelona vs Real Madrid</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
