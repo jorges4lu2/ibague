@@ -36,6 +36,9 @@
   <channel id="PDC: 2025 Austrian Darts Open Day Two">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day Two</display-name>
   </channel>
+  <channel id="EPL: Chelsea vs Everton">
+    <display-name lang="en">EPL: Chelsea vs Everton</display-name>
+  </channel>
   <channel id="Washington Capitals vs. Montreal Canadiens">
     <display-name lang="en">Washington Capitals vs. Montreal Canadiens</display-name>
   </channel>
@@ -198,6 +201,14 @@
   </programme>
   <programme start="20250425000000 -0500" channel="PDC: 2025 Austrian Darts Open Day Two" stop="20250425235959 -0500">
     <title>06:00 AM 26/04/25 - PDC: 2025 Austrian Darts Open Day Two</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="EPL: Chelsea vs Everton" stop="20250425235959 -0500">
+    <title>06:30 AM 26/04/25 - EPL: Chelsea vs Everton</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
