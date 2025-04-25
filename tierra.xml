@@ -3,6 +3,9 @@
   <channel id="PDC: 2025 Austrian Darts Open Day One">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day One</display-name>
   </channel>
+  <channel id="Philadelphia Phillies vs. Chicago Cubs">
+    <display-name lang="en">Philadelphia Phillies vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="2025 NFL Draft: Day 2">
     <display-name lang="en">2025 NFL Draft: Day 2</display-name>
   </channel>
@@ -41,9 +44,6 @@
   </channel>
   <channel id="Los Angeles Kings vs. Edmonton Oilers">
     <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Chicago Cubs">
-    <display-name lang="en">Philadelphia Phillies vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Detroit Tigers">
     <display-name lang="en">Baltimore Orioles vs. Detroit Tigers</display-name>
@@ -109,6 +109,14 @@
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
   <programme start="20250425000000 -0500" channel="PDC: 2025 Austrian Darts Open Day One" stop="20250425235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="Philadelphia Phillies vs. Chicago Cubs" stop="20250425235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -214,14 +222,6 @@
   </programme>
   <programme start="20250425000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250425235959 -0500">
     <title>09:00 PM 25/04/25 - Los Angeles Kings vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Philadelphia Phillies vs. Chicago Cubs" stop="20250425235959 -0500">
-    <title>01:20 PM 25/04/25 - Philadelphia Phillies vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
