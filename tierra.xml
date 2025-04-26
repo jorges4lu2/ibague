@@ -3,26 +3,11 @@
   <channel id="2025 NFL Draft: Round 2 &amp;amp; 3">
     <display-name lang="en">2025 NFL Draft: Round 2 &amp;amp; 3</display-name>
   </channel>
-  <channel id="Pacers at Bucks">
-    <display-name lang="en">Pacers at Bucks</display-name>
-  </channel>
   <channel id="Lakers at Timberwolves">
     <display-name lang="en">Lakers at Timberwolves</display-name>
   </channel>
-  <channel id="Carolina Hurricanes vs. New Jersey Devils">
-    <display-name lang="en">Carolina Hurricanes vs. New Jersey Devils</display-name>
-  </channel>
   <channel id="Los Angeles Kings vs. Edmonton Oilers">
     <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. New York Yankees">
-    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Minnesota Twins">
-    <display-name lang="en">Los Angeles Angels vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Kansas City Royals">
-    <display-name lang="en">Houston Astros vs. Kansas City Royals</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. St. Louis Cardinals">
     <display-name lang="en">Milwaukee Brewers vs. St. Louis Cardinals</display-name>
@@ -39,8 +24,14 @@
   <channel id="Tampa Bay Rays vs. San Diego Padres">
     <display-name lang="en">Tampa Bay Rays vs. San Diego Padres</display-name>
   </channel>
-  <channel id="WWE: Friday Night SmackDown">
-    <display-name lang="en">WWE: Friday Night SmackDown</display-name>
+  <channel id="Chicago White Sox vs. Athletics">
+    <display-name lang="en">Chicago White Sox vs. Athletics</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. Los Angeles Dodgers">
+    <display-name lang="en">Pittsburgh Pirates vs. Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="Texas Rangers vs. San Francisco Giants">
+    <display-name lang="en">Texas Rangers vs. San Francisco Giants</display-name>
   </channel>
   <channel id="2025 NFL Draft: Rounds 4-7">
     <display-name lang="en">2025 NFL Draft: Rounds 4-7</display-name>
@@ -114,15 +105,6 @@
   <channel id="Copa del Rey: Barcelona vs Real Madrid">
     <display-name lang="en">Copa del Rey: Barcelona vs Real Madrid</display-name>
   </channel>
-  <channel id="Chicago White Sox vs. Athletics">
-    <display-name lang="en">Chicago White Sox vs. Athletics</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Los Angeles Dodgers">
-    <display-name lang="en">Pittsburgh Pirates vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. San Francisco Giants">
-    <display-name lang="en">Texas Rangers vs. San Francisco Giants</display-name>
-  </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
@@ -149,14 +131,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Pacers at Bucks" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250425000000 -0500" channel="Lakers at Timberwolves" stop="20250425235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -165,39 +139,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Carolina Hurricanes vs. New Jersey Devils" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250425000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Los Angeles Angels vs. Minnesota Twins" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Houston Astros vs. Kansas City Royals" stop="20250425235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -245,7 +187,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250425235959 -0500">
+  <programme start="20250425000000 -0500" channel="Chicago White Sox vs. Athletics" stop="20250425235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Dodgers" stop="20250425235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="Texas Rangers vs. San Francisco Giants" stop="20250425235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -439,30 +397,6 @@
   </programme>
   <programme start="20250425000000 -0500" channel="Copa del Rey: Barcelona vs Real Madrid" stop="20250425235959 -0500">
     <title>03:00 PM 26/04/25 - Copa del Rey: Barcelona vs Real Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Chicago White Sox vs. Athletics" stop="20250425235959 -0500">
-    <title>09:05 PM 25/04/25 - Chicago White Sox vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Dodgers" stop="20250425235959 -0500">
-    <title>09:10 PM 25/04/25 - Pittsburgh Pirates vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Texas Rangers vs. San Francisco Giants" stop="20250425235959 -0500">
-    <title>09:15 PM 25/04/25 - Texas Rangers vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
