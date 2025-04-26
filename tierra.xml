@@ -6,6 +6,9 @@
   <channel id="Thunder at Grizzlies">
     <display-name lang="en">Thunder at Grizzlies</display-name>
   </channel>
+  <channel id="Nuggets at Clippers">
+    <display-name lang="en">Nuggets at Clippers</display-name>
+  </channel>
   <channel id="OKTAGON 70 (German/Deutsch)">
     <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
   </channel>
@@ -21,6 +24,9 @@
   <channel id="Cage Warriors 188">
     <display-name lang="en">Cage Warriors 188</display-name>
   </channel>
+  <channel id="UFC Fight Night: Machado Garry vs. Prates">
+    <display-name lang="en">UFC Fight Night: Machado Garry vs. Prates</display-name>
+  </channel>
   <channel id="PDC: 2025 Austrian Darts Open Day Two">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day Two</display-name>
   </channel>
@@ -33,18 +39,6 @@
   <channel id="Vegas Golden Knights vs. Minnesota Wild">
     <display-name lang="en">Vegas Golden Knights vs. Minnesota Wild</display-name>
   </channel>
-  <channel id="Los Angeles Angels vs. Minnesota Twins">
-    <display-name lang="en">Los Angeles Angels vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Minnesota Twins">
-    <display-name lang="en">Los Angeles Angels vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. St. Louis Cardinals">
-    <display-name lang="en">Milwaukee Brewers vs. St. Louis Cardinals</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. St. Louis Cardinals">
-    <display-name lang="en">Milwaukee Brewers vs. St. Louis Cardinals</display-name>
-  </channel>
   <channel id="Cincinnati Reds vs. Colorado Rockies">
     <display-name lang="en">Cincinnati Reds vs. Colorado Rockies</display-name>
   </channel>
@@ -74,18 +68,9 @@
   </channel>
   <channel id="Chicago White Sox vs. Athletics">
     <display-name lang="en">Chicago White Sox vs. Athletics</display-name>
-  </channel>
-  <channel id="AMA Supercross: Pittsburgh (Qualifying)">
-    <display-name lang="en">AMA Supercross: Pittsburgh (Qualifying)</display-name>
-  </channel>
-  <channel id="Nuggets at Clippers">
-    <display-name lang="en">Nuggets at Clippers</display-name>
   </channel>
   <channel id="Rockets at Warriors">
     <display-name lang="en">Rockets at Warriors</display-name>
-  </channel>
-  <channel id="UFC Fight Night: Machado Garry vs. Prates">
-    <display-name lang="en">UFC Fight Night: Machado Garry vs. Prates</display-name>
   </channel>
   <channel id="MFN Weekly">
     <display-name lang="en">MFN Weekly</display-name>
@@ -181,6 +166,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250426000000 -0500" channel="Nuggets at Clippers" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250426000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -221,6 +214,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250426000000 -0500" channel="UFC Fight Night: Machado Garry vs. Prates" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250426000000 -0500" channel="PDC: 2025 Austrian Darts Open Day Two" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -253,38 +254,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250426000000 -0500" channel="Los Angeles Angels vs. Minnesota Twins" stop="20250426235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="Los Angeles Angels vs. Minnesota Twins" stop="20250426235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="Milwaukee Brewers vs. St. Louis Cardinals" stop="20250426235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="Milwaukee Brewers vs. St. Louis Cardinals" stop="20250426235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250426000000 -0500" channel="Cincinnati Reds vs. Colorado Rockies" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -359,22 +328,6 @@
   </programme>
   <programme start="20250426000000 -0500" channel="Chicago White Sox vs. Athletics" stop="20250426235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="AMA Supercross: Pittsburgh (Qualifying)" stop="20250426235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="Nuggets at Clippers" stop="20250426235959 -0500">
-    <title>05:00 PM 26/04/25 - Nuggets at Clippers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -383,14 +336,6 @@
   </programme>
   <programme start="20250426000000 -0500" channel="Rockets at Warriors" stop="20250426235959 -0500">
     <title>07:30 PM 26/04/25 - Rockets at Warriors</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="UFC Fight Night: Machado Garry vs. Prates" stop="20250426235959 -0500">
-    <title>05:00 PM 26/04/25 - UFC Fight Night: Machado Garry vs. Prates</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
