@@ -6,14 +6,14 @@
   <channel id="Celtics at Magic">
     <display-name lang="en">Celtics at Magic</display-name>
   </channel>
-  <channel id="PDC: 2025 Austrian Darts Open Day One">
-    <display-name lang="en">PDC: 2025 Austrian Darts Open Day One</display-name>
+  <channel id="Pacers at Bucks">
+    <display-name lang="en">Pacers at Bucks</display-name>
   </channel>
   <channel id="Washington Capitals vs. Montreal Canadiens">
     <display-name lang="en">Washington Capitals vs. Montreal Canadiens</display-name>
   </channel>
-  <channel id="Philadelphia Phillies vs. Chicago Cubs">
-    <display-name lang="en">Philadelphia Phillies vs. Chicago Cubs</display-name>
+  <channel id="Carolina Hurricanes vs. New Jersey Devils">
+    <display-name lang="en">Carolina Hurricanes vs. New Jersey Devils</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Detroit Tigers">
     <display-name lang="en">Baltimore Orioles vs. Detroit Tigers</display-name>
@@ -21,11 +21,20 @@
   <channel id="New York Mets vs. Washington Nationals">
     <display-name lang="en">New York Mets vs. Washington Nationals</display-name>
   </channel>
+  <channel id="Toronto Blue Jays vs. New York Yankees">
+    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
+  </channel>
+  <channel id="Los Angeles Angels vs. Minnesota Twins">
+    <display-name lang="en">Los Angeles Angels vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Houston Astros vs. Kansas City Royals">
+    <display-name lang="en">Houston Astros vs. Kansas City Royals</display-name>
+  </channel>
+  <channel id="WWE: Friday Night SmackDown">
+    <display-name lang="en">WWE: Friday Night SmackDown</display-name>
+  </channel>
   <channel id="2025 NFL Draft: Rounds 4-7">
     <display-name lang="en">2025 NFL Draft: Rounds 4-7</display-name>
-  </channel>
-  <channel id="Pacers at Bucks">
-    <display-name lang="en">Pacers at Bucks</display-name>
   </channel>
   <channel id="Lakers at Timberwolves">
     <display-name lang="en">Lakers at Timberwolves</display-name>
@@ -99,23 +108,8 @@
   <channel id="Copa del Rey: Barcelona vs Real Madrid">
     <display-name lang="en">Copa del Rey: Barcelona vs Real Madrid</display-name>
   </channel>
-  <channel id="Carolina Hurricanes vs. New Jersey Devils">
-    <display-name lang="en">Carolina Hurricanes vs. New Jersey Devils</display-name>
-  </channel>
   <channel id="Los Angeles Kings vs. Edmonton Oilers">
     <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. New York Yankees">
-    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Cleveland Guardians">
-    <display-name lang="en">Boston Red Sox vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Minnesota Twins">
-    <display-name lang="en">Los Angeles Angels vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Kansas City Royals">
-    <display-name lang="en">Houston Astros vs. Kansas City Royals</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. St. Louis Cardinals">
     <display-name lang="en">Milwaukee Brewers vs. St. Louis Cardinals</display-name>
@@ -140,9 +134,6 @@
   </channel>
   <channel id="Texas Rangers vs. San Francisco Giants">
     <display-name lang="en">Texas Rangers vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="WWE: Friday Night SmackDown">
-    <display-name lang="en">WWE: Friday Night SmackDown</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -178,7 +169,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="PDC: 2025 Austrian Darts Open Day One" stop="20250425235959 -0500">
+  <programme start="20250425000000 -0500" channel="Pacers at Bucks" stop="20250425235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -194,7 +185,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Philadelphia Phillies vs. Chicago Cubs" stop="20250425235959 -0500">
+  <programme start="20250425000000 -0500" channel="Carolina Hurricanes vs. New Jersey Devils" stop="20250425235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -218,16 +209,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="2025 NFL Draft: Rounds 4-7" stop="20250425235959 -0500">
-    <title>11:00 AM 26/04/25 - 2025 NFL Draft: Rounds 4-7</title>
+  <programme start="20250425000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250425235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Pacers at Bucks" stop="20250425235959 -0500">
-    <title>07:00 PM 25/04/25 - Pacers at Bucks</title>
+  <programme start="20250425000000 -0500" channel="Los Angeles Angels vs. Minnesota Twins" stop="20250425235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="Houston Astros vs. Kansas City Royals" stop="20250425235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250425235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="2025 NFL Draft: Rounds 4-7" stop="20250425235959 -0500">
+    <title>11:00 AM 26/04/25 - 2025 NFL Draft: Rounds 4-7</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -426,48 +441,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Carolina Hurricanes vs. New Jersey Devils" stop="20250425235959 -0500">
-    <title>07:00 PM 25/04/25 - Carolina Hurricanes vs. New Jersey Devils</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250425000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250425235959 -0500">
     <title>09:00 PM 25/04/25 - Los Angeles Kings vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250425235959 -0500">
-    <title>06:05 PM 25/04/25 - Toronto Blue Jays vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Boston Red Sox vs. Cleveland Guardians" stop="20250425235959 -0500">
-    <title>06:10 PM 25/04/25 - Boston Red Sox vs. Cleveland Guardians</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Los Angeles Angels vs. Minnesota Twins" stop="20250425235959 -0500">
-    <title>06:40 PM 25/04/25 - Los Angeles Angels vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Houston Astros vs. Kansas City Royals" stop="20250425235959 -0500">
-    <title>06:40 PM 25/04/25 - Houston Astros vs. Kansas City Royals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -532,14 +507,6 @@
   </programme>
   <programme start="20250425000000 -0500" channel="Texas Rangers vs. San Francisco Giants" stop="20250425235959 -0500">
     <title>09:15 PM 25/04/25 - Texas Rangers vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250425235959 -0500">
-    <title>07:00 PM 25/04/25 - WWE: Friday Night SmackDown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
