@@ -1,20 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250425 -0500">
-  <channel id="Lakers at Timberwolves">
-    <display-name lang="en">Lakers at Timberwolves</display-name>
-  </channel>
-  <channel id="Los Angeles Kings vs. Edmonton Oilers">
-    <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Arizona Diamondbacks">
-    <display-name lang="en">Atlanta Braves vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Seattle Mariners">
-    <display-name lang="en">Miami Marlins vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. San Diego Padres">
-    <display-name lang="en">Tampa Bay Rays vs. San Diego Padres</display-name>
-  </channel>
+<tv date="20250426 -0500">
   <channel id="Chicago White Sox vs. Athletics">
     <display-name lang="en">Chicago White Sox vs. Athletics</display-name>
   </channel>
@@ -47,6 +32,9 @@
   </channel>
   <channel id="PDC: 2025 Austrian Darts Open Day Two">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day Two</display-name>
+  </channel>
+  <channel id="PDC: 2025 Austrian Darts Open Day Three">
+    <display-name lang="en">PDC: 2025 Austrian Darts Open Day Three</display-name>
   </channel>
   <channel id="EPL: Chelsea vs Everton">
     <display-name lang="en">EPL: Chelsea vs Everton</display-name>
@@ -114,7 +102,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250425000000 -0500" channel="Lakers at Timberwolves" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="Chicago White Sox vs. Athletics" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -122,7 +110,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Dodgers" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -130,7 +118,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Atlanta Braves vs. Arizona Diamondbacks" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="Texas Rangers vs. San Francisco Giants" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -138,47 +126,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Miami Marlins vs. Seattle Mariners" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Tampa Bay Rays vs. San Diego Padres" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Chicago White Sox vs. Athletics" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Dodgers" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Texas Rangers vs. San Francisco Giants" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="2025 NFL Draft: Rounds 4-7" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="2025 NFL Draft: Rounds 4-7" stop="20250426235959 -0500">
     <title>11:00 AM 26/04/25 - 2025 NFL Draft: Rounds 4-7</title>
     <date>2025</date>
     <category>Sports</category>
@@ -186,7 +134,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250426235959 -0500">
     <title>11:00 AM 26/04/25 - OKTAGON 70 (German/Deutsch)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -194,7 +142,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250426235959 -0500">
     <title>11:00 AM 26/04/25 - Boxing: Eubank Jr. vs. Benn</title>
     <date>2025</date>
     <category>Sports</category>
@@ -202,7 +150,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="OKTAGON 70 (Czech)" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="OKTAGON 70 (Czech)" stop="20250426235959 -0500">
     <title>11:00 AM 26/04/25 - OKTAGON 70 (Czech)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -210,7 +158,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Oktagon 70 (English)" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="Oktagon 70 (English)" stop="20250426235959 -0500">
     <title>11:00 AM 26/04/25 - Oktagon 70 (English)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -218,7 +166,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="MFN Weekly" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="MFN Weekly" stop="20250426235959 -0500">
     <title>07:00 PM 26/04/25 - MFN Weekly</title>
     <date>2025</date>
     <category>Sports</category>
@@ -226,7 +174,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="LND Monthly" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="LND Monthly" stop="20250426235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
     <date>2025</date>
     <category>Sports</category>
@@ -234,7 +182,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="PDC: 2025 Austrian Darts Open Day Two" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="PDC: 2025 Austrian Darts Open Day Two" stop="20250426235959 -0500">
     <title>06:00 AM 26/04/25 - PDC: 2025 Austrian Darts Open Day Two</title>
     <date>2025</date>
     <category>Sports</category>
@@ -242,7 +190,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EPL: Chelsea vs Everton" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="PDC: 2025 Austrian Darts Open Day Three" stop="20250426235959 -0500">
+    <title>06:00 AM 27/04/25 - PDC: 2025 Austrian Darts Open Day Three</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="EPL: Chelsea vs Everton" stop="20250426235959 -0500">
     <title>06:30 AM 26/04/25 - EPL: Chelsea vs Everton</title>
     <date>2025</date>
     <category>Sports</category>
@@ -250,7 +206,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EFL: QPR vs Burnley" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EFL: QPR vs Burnley" stop="20250426235959 -0500">
     <title>06:30 AM 26/04/25 - EFL: QPR vs Burnley</title>
     <date>2025</date>
     <category>Sports</category>
@@ -258,7 +214,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EFL: Luton vs Coventry" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EFL: Luton vs Coventry" stop="20250426235959 -0500">
     <title>06:30 AM 26/04/25 - EFL: Luton vs Coventry</title>
     <date>2025</date>
     <category>Sports</category>
@@ -266,7 +222,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EPL: Brighton and Hove Albion vs West Ham United" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EPL: Brighton and Hove Albion vs West Ham United" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EPL: Brighton and Hove Albion vs West Ham United</title>
     <date>2025</date>
     <category>Sports</category>
@@ -274,7 +230,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EPL: Newcastle United vs Ipswich Town" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EPL: Newcastle United vs Ipswich Town" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EPL: Newcastle United vs Ipswich Town</title>
     <date>2025</date>
     <category>Sports</category>
@@ -282,7 +238,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EPL: Southampton vs Fulham" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EPL: Southampton vs Fulham" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EPL: Southampton vs Fulham</title>
     <date>2025</date>
     <category>Sports</category>
@@ -290,7 +246,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EPL: Wolverhampton Wanderers vs Leicester City" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EPL: Wolverhampton Wanderers vs Leicester City" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EPL: Wolverhampton Wanderers vs Leicester City</title>
     <date>2025</date>
     <category>Sports</category>
@@ -298,7 +254,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EFL: Cardiff vs West Brom" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EFL: Cardiff vs West Brom" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EFL: Cardiff vs West Brom</title>
     <date>2025</date>
     <category>Sports</category>
@@ -306,7 +262,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EFL: Middlesbrough vs Norwich" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EFL: Middlesbrough vs Norwich" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EFL: Middlesbrough vs Norwich</title>
     <date>2025</date>
     <category>Sports</category>
@@ -314,7 +270,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EFL: Millwall vs Swansea" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EFL: Millwall vs Swansea" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EFL: Millwall vs Swansea</title>
     <date>2025</date>
     <category>Sports</category>
@@ -322,7 +278,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EFL: Blackburn vs Watford" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EFL: Blackburn vs Watford" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EFL: Blackburn vs Watford</title>
     <date>2025</date>
     <category>Sports</category>
@@ -330,7 +286,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EFL: Preston vs Plymouth" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EFL: Preston vs Plymouth" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EFL: Preston vs Plymouth</title>
     <date>2025</date>
     <category>Sports</category>
@@ -338,7 +294,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EFL: Sheffield Weds vs Portsmouth" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EFL: Sheffield Weds vs Portsmouth" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EFL: Sheffield Weds vs Portsmouth</title>
     <date>2025</date>
     <category>Sports</category>
@@ -346,7 +302,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="EFL: Oxford Utd vs Sunderland" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="EFL: Oxford Utd vs Sunderland" stop="20250426235959 -0500">
     <title>09:00 AM 26/04/25 - EFL: Oxford Utd vs Sunderland</title>
     <date>2025</date>
     <category>Sports</category>
@@ -354,7 +310,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="FA Cup: Crystal Palace vs Aston Villa" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="FA Cup: Crystal Palace vs Aston Villa" stop="20250426235959 -0500">
     <title>11:15 AM 26/04/25 - FA Cup: Crystal Palace vs Aston Villa</title>
     <date>2025</date>
     <category>Sports</category>
@@ -362,7 +318,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Copa del Rey: Barcelona vs Real Madrid" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="Copa del Rey: Barcelona vs Real Madrid" stop="20250426235959 -0500">
     <title>03:00 PM 26/04/25 - Copa del Rey: Barcelona vs Real Madrid</title>
     <date>2025</date>
     <category>Sports</category>
@@ -370,7 +326,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="AEW: Saturday Night Collision" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="AEW: Saturday Night Collision" stop="20250426235959 -0500">
     <title>07:00 PM 26/04/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -378,7 +334,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="24/7 COWS" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="24/7 COWS" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -386,7 +342,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="24/7 South Park" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="24/7 South Park" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -394,7 +350,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="24/7 The Simpsons" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="24/7 The Simpsons" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -402,7 +358,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="(North) Korean Central Television" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="(North) Korean Central Television" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -410,7 +366,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="24/7 S*y Sports Golf" stop="20250425235959 -0500">
+  <programme start="20250426000000 -0500" channel="24/7 S*y Sports Golf" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
