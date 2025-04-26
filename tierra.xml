@@ -3,23 +3,17 @@
   <channel id="2025 NFL Draft: Round 2 &amp;amp; 3">
     <display-name lang="en">2025 NFL Draft: Round 2 &amp;amp; 3</display-name>
   </channel>
-  <channel id="Celtics at Magic">
-    <display-name lang="en">Celtics at Magic</display-name>
-  </channel>
   <channel id="Pacers at Bucks">
     <display-name lang="en">Pacers at Bucks</display-name>
   </channel>
-  <channel id="Washington Capitals vs. Montreal Canadiens">
-    <display-name lang="en">Washington Capitals vs. Montreal Canadiens</display-name>
+  <channel id="Lakers at Timberwolves">
+    <display-name lang="en">Lakers at Timberwolves</display-name>
   </channel>
   <channel id="Carolina Hurricanes vs. New Jersey Devils">
     <display-name lang="en">Carolina Hurricanes vs. New Jersey Devils</display-name>
   </channel>
-  <channel id="Baltimore Orioles vs. Detroit Tigers">
-    <display-name lang="en">Baltimore Orioles vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="New York Mets vs. Washington Nationals">
-    <display-name lang="en">New York Mets vs. Washington Nationals</display-name>
+  <channel id="Los Angeles Kings vs. Edmonton Oilers">
+    <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
   </channel>
   <channel id="Toronto Blue Jays vs. New York Yankees">
     <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
@@ -36,14 +30,20 @@
   <channel id="Cincinnati Reds vs. Colorado Rockies">
     <display-name lang="en">Cincinnati Reds vs. Colorado Rockies</display-name>
   </channel>
+  <channel id="Atlanta Braves vs. Arizona Diamondbacks">
+    <display-name lang="en">Atlanta Braves vs. Arizona Diamondbacks</display-name>
+  </channel>
+  <channel id="Miami Marlins vs. Seattle Mariners">
+    <display-name lang="en">Miami Marlins vs. Seattle Mariners</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. San Diego Padres">
+    <display-name lang="en">Tampa Bay Rays vs. San Diego Padres</display-name>
+  </channel>
   <channel id="WWE: Friday Night SmackDown">
     <display-name lang="en">WWE: Friday Night SmackDown</display-name>
   </channel>
   <channel id="2025 NFL Draft: Rounds 4-7">
     <display-name lang="en">2025 NFL Draft: Rounds 4-7</display-name>
-  </channel>
-  <channel id="Lakers at Timberwolves">
-    <display-name lang="en">Lakers at Timberwolves</display-name>
   </channel>
   <channel id="OKTAGON 70 (German/Deutsch)">
     <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
@@ -114,18 +114,6 @@
   <channel id="Copa del Rey: Barcelona vs Real Madrid">
     <display-name lang="en">Copa del Rey: Barcelona vs Real Madrid</display-name>
   </channel>
-  <channel id="Los Angeles Kings vs. Edmonton Oilers">
-    <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Arizona Diamondbacks">
-    <display-name lang="en">Atlanta Braves vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Seattle Mariners">
-    <display-name lang="en">Miami Marlins vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. San Diego Padres">
-    <display-name lang="en">Tampa Bay Rays vs. San Diego Padres</display-name>
-  </channel>
   <channel id="Chicago White Sox vs. Athletics">
     <display-name lang="en">Chicago White Sox vs. Athletics</display-name>
   </channel>
@@ -161,14 +149,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Celtics at Magic" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250425000000 -0500" channel="Pacers at Bucks" stop="20250425235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -177,7 +157,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Washington Capitals vs. Montreal Canadiens" stop="20250425235959 -0500">
+  <programme start="20250425000000 -0500" channel="Lakers at Timberwolves" stop="20250425235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -193,15 +173,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250425000000 -0500" channel="Baltimore Orioles vs. Detroit Tigers" stop="20250425235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="New York Mets vs. Washington Nationals" stop="20250425235959 -0500">
+  <programme start="20250425000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250425235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -249,6 +221,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250425000000 -0500" channel="Atlanta Braves vs. Arizona Diamondbacks" stop="20250425235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="Miami Marlins vs. Seattle Mariners" stop="20250425235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250425000000 -0500" channel="Tampa Bay Rays vs. San Diego Padres" stop="20250425235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250425000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250425235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -259,14 +255,6 @@
   </programme>
   <programme start="20250425000000 -0500" channel="2025 NFL Draft: Rounds 4-7" stop="20250425235959 -0500">
     <title>11:00 AM 26/04/25 - 2025 NFL Draft: Rounds 4-7</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Lakers at Timberwolves" stop="20250425235959 -0500">
-    <title>08:30 PM 25/04/25 - Lakers at Timberwolves</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -451,38 +439,6 @@
   </programme>
   <programme start="20250425000000 -0500" channel="Copa del Rey: Barcelona vs Real Madrid" stop="20250425235959 -0500">
     <title>03:00 PM 26/04/25 - Copa del Rey: Barcelona vs Real Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250425235959 -0500">
-    <title>09:00 PM 25/04/25 - Los Angeles Kings vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Atlanta Braves vs. Arizona Diamondbacks" stop="20250425235959 -0500">
-    <title>08:40 PM 25/04/25 - Atlanta Braves vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Miami Marlins vs. Seattle Mariners" stop="20250425235959 -0500">
-    <title>08:40 PM 25/04/25 - Miami Marlins vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250425000000 -0500" channel="Tampa Bay Rays vs. San Diego Padres" stop="20250425235959 -0500">
-    <title>08:40 PM 25/04/25 - Tampa Bay Rays vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
