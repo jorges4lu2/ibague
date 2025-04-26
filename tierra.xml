@@ -3,42 +3,6 @@
   <channel id="PDC: 2025 Austrian Darts Open Day Two">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day Two</display-name>
   </channel>
-  <channel id="EPL: Chelsea vs Everton">
-    <display-name lang="en">EPL: Chelsea vs Everton</display-name>
-  </channel>
-  <channel id="EFL: Luton vs Coventry">
-    <display-name lang="en">EFL: Luton vs Coventry</display-name>
-  </channel>
-  <channel id="EFL: QPR vs Burnley">
-    <display-name lang="en">EFL: QPR vs Burnley</display-name>
-  </channel>
-  <channel id="2025 NFL Draft: Rounds 4-7">
-    <display-name lang="en">2025 NFL Draft: Rounds 4-7</display-name>
-  </channel>
-  <channel id="OKTAGON 70 (German/Deutsch)">
-    <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
-  </channel>
-  <channel id="Boxing: Eubank Jr. vs. Benn">
-    <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
-  </channel>
-  <channel id="OKTAGON 70 (Czech)">
-    <display-name lang="en">OKTAGON 70 (Czech)</display-name>
-  </channel>
-  <channel id="Oktagon 70 (English)">
-    <display-name lang="en">Oktagon 70 (English)</display-name>
-  </channel>
-  <channel id="UFC Fight Night: Machado Garry vs. Prates">
-    <display-name lang="en">UFC Fight Night: Machado Garry vs. Prates</display-name>
-  </channel>
-  <channel id="MFN Weekly">
-    <display-name lang="en">MFN Weekly</display-name>
-  </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="PDC: 2025 Austrian Darts Open Day Three">
-    <display-name lang="en">PDC: 2025 Austrian Darts Open Day Three</display-name>
-  </channel>
   <channel id="EPL: Brighton and Hove Albion vs West Ham United">
     <display-name lang="en">EPL: Brighton and Hove Albion vs West Ham United</display-name>
   </channel>
@@ -72,6 +36,33 @@
   <channel id="EFL: Oxford Utd vs Sunderland">
     <display-name lang="en">EFL: Oxford Utd vs Sunderland</display-name>
   </channel>
+  <channel id="2025 NFL Draft: Rounds 4-7">
+    <display-name lang="en">2025 NFL Draft: Rounds 4-7</display-name>
+  </channel>
+  <channel id="OKTAGON 70 (German/Deutsch)">
+    <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
+  </channel>
+  <channel id="Boxing: Eubank Jr. vs. Benn">
+    <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
+  </channel>
+  <channel id="OKTAGON 70 (Czech)">
+    <display-name lang="en">OKTAGON 70 (Czech)</display-name>
+  </channel>
+  <channel id="Oktagon 70 (English)">
+    <display-name lang="en">Oktagon 70 (English)</display-name>
+  </channel>
+  <channel id="UFC Fight Night: Machado Garry vs. Prates">
+    <display-name lang="en">UFC Fight Night: Machado Garry vs. Prates</display-name>
+  </channel>
+  <channel id="MFN Weekly">
+    <display-name lang="en">MFN Weekly</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
+  </channel>
+  <channel id="PDC: 2025 Austrian Darts Open Day Three">
+    <display-name lang="en">PDC: 2025 Austrian Darts Open Day Three</display-name>
+  </channel>
   <channel id="FA Cup: Crystal Palace vs Aston Villa">
     <display-name lang="en">FA Cup: Crystal Palace vs Aston Villa</display-name>
   </channel>
@@ -104,7 +95,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250426000000 -0500" channel="EPL: Chelsea vs Everton" stop="20250426235959 -0500">
+  <programme start="20250426000000 -0500" channel="EPL: Brighton and Hove Albion vs West Ham United" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -112,7 +103,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250426000000 -0500" channel="EFL: Luton vs Coventry" stop="20250426235959 -0500">
+  <programme start="20250426000000 -0500" channel="EPL: Newcastle United vs Ipswich Town" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -120,7 +111,71 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250426000000 -0500" channel="EFL: QPR vs Burnley" stop="20250426235959 -0500">
+  <programme start="20250426000000 -0500" channel="EPL: Southampton vs Fulham" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="EPL: Wolverhampton Wanderers vs Leicester City" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="EFL: Cardiff vs West Brom" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="EFL: Middlesbrough vs Norwich" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="EFL: Millwall vs Swansea" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="EFL: Blackburn vs Watford" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="EFL: Preston vs Plymouth" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="EFL: Sheffield Weds vs Portsmouth" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="EFL: Oxford Utd vs Sunderland" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -194,94 +249,6 @@
   </programme>
   <programme start="20250426000000 -0500" channel="PDC: 2025 Austrian Darts Open Day Three" stop="20250426235959 -0500">
     <title>06:00 AM 27/04/25 - PDC: 2025 Austrian Darts Open Day Three</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EPL: Brighton and Hove Albion vs West Ham United" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EPL: Brighton and Hove Albion vs West Ham United</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EPL: Newcastle United vs Ipswich Town" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EPL: Newcastle United vs Ipswich Town</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EPL: Southampton vs Fulham" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EPL: Southampton vs Fulham</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EPL: Wolverhampton Wanderers vs Leicester City" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EPL: Wolverhampton Wanderers vs Leicester City</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EFL: Cardiff vs West Brom" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EFL: Cardiff vs West Brom</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EFL: Middlesbrough vs Norwich" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EFL: Middlesbrough vs Norwich</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EFL: Millwall vs Swansea" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EFL: Millwall vs Swansea</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EFL: Blackburn vs Watford" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EFL: Blackburn vs Watford</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EFL: Preston vs Plymouth" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EFL: Preston vs Plymouth</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EFL: Sheffield Weds vs Portsmouth" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EFL: Sheffield Weds vs Portsmouth</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="EFL: Oxford Utd vs Sunderland" stop="20250426235959 -0500">
-    <title>09:00 AM 26/04/25 - EFL: Oxford Utd vs Sunderland</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
