@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250426 -0500">
+  <channel id="PDC: 2025 Austrian Darts Open Day Two">
+    <display-name lang="en">PDC: 2025 Austrian Darts Open Day Two</display-name>
+  </channel>
   <channel id="2025 NFL Draft: Rounds 4-7">
     <display-name lang="en">2025 NFL Draft: Rounds 4-7</display-name>
   </channel>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="PDC: 2025 Austrian Darts Open Day Two">
-    <display-name lang="en">PDC: 2025 Austrian Darts Open Day Two</display-name>
   </channel>
   <channel id="PDC: 2025 Austrian Darts Open Day Three">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day Three</display-name>
@@ -96,6 +96,14 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
+  <programme start="20250426000000 -0500" channel="PDC: 2025 Austrian Darts Open Day Two" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250426000000 -0500" channel="2025 NFL Draft: Rounds 4-7" stop="20250426235959 -0500">
     <title>11:00 AM 26/04/25 - 2025 NFL Draft: Rounds 4-7</title>
     <date>2025</date>
@@ -154,14 +162,6 @@
   </programme>
   <programme start="20250426000000 -0500" channel="LND Monthly" stop="20250426235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="PDC: 2025 Austrian Darts Open Day Two" stop="20250426235959 -0500">
-    <title>06:00 AM 26/04/25 - PDC: 2025 Austrian Darts Open Day Two</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
