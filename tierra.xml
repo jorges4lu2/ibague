@@ -3,6 +3,9 @@
   <channel id="PDC: 2025 Austrian Darts Open Day Two">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day Two</display-name>
   </channel>
+  <channel id="EPL: Goal Rush">
+    <display-name lang="en">EPL: Goal Rush</display-name>
+  </channel>
   <channel id="EPL: Brighton and Hove Albion vs West Ham United">
     <display-name lang="en">EPL: Brighton and Hove Albion vs West Ham United</display-name>
   </channel>
@@ -39,17 +42,29 @@
   <channel id="2025 NFL Draft: Rounds 4-7">
     <display-name lang="en">2025 NFL Draft: Rounds 4-7</display-name>
   </channel>
+  <channel id="Cavaliers at Heat">
+    <display-name lang="en">Cavaliers at Heat</display-name>
+  </channel>
+  <channel id="Thunder at Grizzlies">
+    <display-name lang="en">Thunder at Grizzlies</display-name>
+  </channel>
+  <channel id="Nuggets at Clippers">
+    <display-name lang="en">Nuggets at Clippers</display-name>
+  </channel>
+  <channel id="Rockets at Warriors">
+    <display-name lang="en">Rockets at Warriors</display-name>
+  </channel>
   <channel id="OKTAGON 70 (German/Deutsch)">
     <display-name lang="en">OKTAGON 70 (German/Deutsch)</display-name>
-  </channel>
-  <channel id="Boxing: Eubank Jr. vs. Benn">
-    <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
   </channel>
   <channel id="OKTAGON 70 (Czech)">
     <display-name lang="en">OKTAGON 70 (Czech)</display-name>
   </channel>
   <channel id="Oktagon 70 (English)">
     <display-name lang="en">Oktagon 70 (English)</display-name>
+  </channel>
+  <channel id="Boxing: Eubank Jr. vs. Benn">
+    <display-name lang="en">Boxing: Eubank Jr. vs. Benn</display-name>
   </channel>
   <channel id="UFC Fight Night: Machado Garry vs. Prates">
     <display-name lang="en">UFC Fight Night: Machado Garry vs. Prates</display-name>
@@ -68,6 +83,69 @@
   </channel>
   <channel id="Copa del Rey: Barcelona vs Real Madrid">
     <display-name lang="en">Copa del Rey: Barcelona vs Real Madrid</display-name>
+  </channel>
+  <channel id="Tampa Bay Lightning vs. Florida Panthers">
+    <display-name lang="en">Tampa Bay Lightning vs. Florida Panthers</display-name>
+  </channel>
+  <channel id="Vegas Golden Knights vs. Minnesota Wild">
+    <display-name lang="en">Vegas Golden Knights vs. Minnesota Wild</display-name>
+  </channel>
+  <channel id="Toronto Maple Leafs vs. Ottawa Senators">
+    <display-name lang="en">Toronto Maple Leafs vs. Ottawa Senators</display-name>
+  </channel>
+  <channel id="Dallas Stars vs. Colorado Avalanche">
+    <display-name lang="en">Dallas Stars vs. Colorado Avalanche</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. New York Yankees">
+    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
+  </channel>
+  <channel id="Baltimore Orioles vs. Detroit Tigers">
+    <display-name lang="en">Baltimore Orioles vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Cleveland Guardians">
+    <display-name lang="en">Boston Red Sox vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="Los Angeles Angels vs. Minnesota Twins">
+    <display-name lang="en">Los Angeles Angels vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. St. Louis Cardinals">
+    <display-name lang="en">Milwaukee Brewers vs. St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="Cincinnati Reds vs. Colorado Rockies">
+    <display-name lang="en">Cincinnati Reds vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="New York Mets vs. Washington Nationals">
+    <display-name lang="en">New York Mets vs. Washington Nationals</display-name>
+  </channel>
+  <channel id="Philadelphia Phillies vs. Chicago Cubs">
+    <display-name lang="en">Philadelphia Phillies vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Texas Rangers vs. San Francisco Giants">
+    <display-name lang="en">Texas Rangers vs. San Francisco Giants</display-name>
+  </channel>
+  <channel id="Chicago White Sox vs. Athletics">
+    <display-name lang="en">Chicago White Sox vs. Athletics</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Cleveland Guardians">
+    <display-name lang="en">Boston Red Sox vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="Baltimore Orioles vs. Detroit Tigers">
+    <display-name lang="en">Baltimore Orioles vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="Houston Astros vs. Kansas City Royals">
+    <display-name lang="en">Houston Astros vs. Kansas City Royals</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Arizona Diamondbacks">
+    <display-name lang="en">Atlanta Braves vs. Arizona Diamondbacks</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. San Diego Padres">
+    <display-name lang="en">Tampa Bay Rays vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. Los Angeles Dodgers">
+    <display-name lang="en">Pittsburgh Pirates vs. Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="Miami Marlins vs. Seattle Mariners">
+    <display-name lang="en">Miami Marlins vs. Seattle Mariners</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -88,6 +166,14 @@
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
   <programme start="20250426000000 -0500" channel="PDC: 2025 Austrian Darts Open Day Two" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="EPL: Goal Rush" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -191,8 +277,56 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250426000000 -0500" channel="Cavaliers at Heat" stop="20250426235959 -0500">
+    <title>12:00 PM 26/04/25 - Cavaliers at Heat</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Thunder at Grizzlies" stop="20250426235959 -0500">
+    <title>02:30 PM 26/04/25 - Thunder at Grizzlies</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Nuggets at Clippers" stop="20250426235959 -0500">
+    <title>05:00 PM 26/04/25 - Nuggets at Clippers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Rockets at Warriors" stop="20250426235959 -0500">
+    <title>07:30 PM 26/04/25 - Rockets at Warriors</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250426000000 -0500" channel="OKTAGON 70 (German/Deutsch)" stop="20250426235959 -0500">
-    <title>11:00 AM 26/04/25 - OKTAGON 70 (German/Deutsch)</title>
+    <title>10:30 AM 26/04/25 - OKTAGON 70 (German/Deutsch)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="OKTAGON 70 (Czech)" stop="20250426235959 -0500">
+    <title>10:30 AM 26/04/25 - OKTAGON 70 (Czech)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Oktagon 70 (English)" stop="20250426235959 -0500">
+    <title>10:30 AM 26/04/25 - Oktagon 70 (English)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -201,22 +335,6 @@
   </programme>
   <programme start="20250426000000 -0500" channel="Boxing: Eubank Jr. vs. Benn" stop="20250426235959 -0500">
     <title>11:00 AM 26/04/25 - Boxing: Eubank Jr. vs. Benn</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="OKTAGON 70 (Czech)" stop="20250426235959 -0500">
-    <title>11:00 AM 26/04/25 - OKTAGON 70 (Czech)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="Oktagon 70 (English)" stop="20250426235959 -0500">
-    <title>11:00 AM 26/04/25 - Oktagon 70 (English)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -265,6 +383,174 @@
   </programme>
   <programme start="20250426000000 -0500" channel="Copa del Rey: Barcelona vs Real Madrid" stop="20250426235959 -0500">
     <title>03:00 PM 26/04/25 - Copa del Rey: Barcelona vs Real Madrid</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Tampa Bay Lightning vs. Florida Panthers" stop="20250426235959 -0500">
+    <title>12:00 PM 26/04/25 - Tampa Bay Lightning vs. Florida Panthers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Vegas Golden Knights vs. Minnesota Wild" stop="20250426235959 -0500">
+    <title>03:00 PM 26/04/25 - Vegas Golden Knights vs. Minnesota Wild</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Toronto Maple Leafs vs. Ottawa Senators" stop="20250426235959 -0500">
+    <title>06:00 PM 26/04/25 - Toronto Maple Leafs vs. Ottawa Senators</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Dallas Stars vs. Colorado Avalanche" stop="20250426235959 -0500">
+    <title>08:30 PM 26/04/25 - Dallas Stars vs. Colorado Avalanche</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250426235959 -0500">
+    <title>12:05 PM 26/04/25 - Toronto Blue Jays vs. New York Yankees</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Baltimore Orioles vs. Detroit Tigers" stop="20250426235959 -0500">
+    <title>12:10 PM 26/04/25 - Baltimore Orioles vs. Detroit Tigers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Boston Red Sox vs. Cleveland Guardians" stop="20250426235959 -0500">
+    <title>12:10 PM 26/04/25 - Boston Red Sox vs. Cleveland Guardians</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Los Angeles Angels vs. Minnesota Twins" stop="20250426235959 -0500">
+    <title>01:10 PM 26/04/25 - Los Angeles Angels vs. Minnesota Twins</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Milwaukee Brewers vs. St. Louis Cardinals" stop="20250426235959 -0500">
+    <title>01:15 PM 26/04/25 - Milwaukee Brewers vs. St. Louis Cardinals</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Cincinnati Reds vs. Colorado Rockies" stop="20250426235959 -0500">
+    <title>02:10 PM 26/04/25 - Cincinnati Reds vs. Colorado Rockies</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="New York Mets vs. Washington Nationals" stop="20250426235959 -0500">
+    <title>03:05 PM 26/04/25 - New York Mets vs. Washington Nationals</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Philadelphia Phillies vs. Chicago Cubs" stop="20250426235959 -0500">
+    <title>03:05 PM 26/04/25 - Philadelphia Phillies vs. Chicago Cubs</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Texas Rangers vs. San Francisco Giants" stop="20250426235959 -0500">
+    <title>03:05 PM 26/04/25 - Texas Rangers vs. San Francisco Giants</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Chicago White Sox vs. Athletics" stop="20250426235959 -0500">
+    <title>03:05 PM 26/04/25 - Chicago White Sox vs. Athletics</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Boston Red Sox vs. Cleveland Guardians" stop="20250426235959 -0500">
+    <title>05:10 PM 26/04/25 - Boston Red Sox vs. Cleveland Guardians</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Baltimore Orioles vs. Detroit Tigers" stop="20250426235959 -0500">
+    <title>05:10 PM 26/04/25 - Baltimore Orioles vs. Detroit Tigers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Houston Astros vs. Kansas City Royals" stop="20250426235959 -0500">
+    <title>06:10 PM 26/04/25 - Houston Astros vs. Kansas City Royals</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Atlanta Braves vs. Arizona Diamondbacks" stop="20250426235959 -0500">
+    <title>07:10 PM 26/04/25 - Atlanta Braves vs. Arizona Diamondbacks</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Tampa Bay Rays vs. San Diego Padres" stop="20250426235959 -0500">
+    <title>07:40 PM 26/04/25 - Tampa Bay Rays vs. San Diego Padres</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Pittsburgh Pirates vs. Los Angeles Dodgers" stop="20250426235959 -0500">
+    <title>08:10 PM 26/04/25 - Pittsburgh Pirates vs. Los Angeles Dodgers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Miami Marlins vs. Seattle Mariners" stop="20250426235959 -0500">
+    <title>08:40 PM 26/04/25 - Miami Marlins vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
