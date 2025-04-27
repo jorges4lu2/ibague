@@ -6,14 +6,26 @@
   <channel id="PDC: 2025 Austrian Darts Open Day Three">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day Three</display-name>
   </channel>
-  <channel id="EPL: Liverpool vs Tottenham Hotspur">
-    <display-name lang="en">EPL: Liverpool vs Tottenham Hotspur</display-name>
-  </channel>
   <channel id="FA Cup: Nottingham Forest vs Manchester Shitty">
     <display-name lang="en">FA Cup: Nottingham Forest vs Manchester Shitty</display-name>
   </channel>
   <channel id="Winnipeg Jets vs. St. Louis Blues">
     <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
+  </channel>
+  <channel id="New York Mets vs. Washington Nationals">
+    <display-name lang="en">New York Mets vs. Washington Nationals</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. New York Yankees">
+    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
+  </channel>
+  <channel id="Baltimore Orioles vs. Detroit Tigers">
+    <display-name lang="en">Baltimore Orioles vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="Los Angeles Angels vs. Minnesota Twins">
+    <display-name lang="en">Los Angeles Angels vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Cleveland Guardians">
+    <display-name lang="en">Boston Red Sox vs. Cleveland Guardians</display-name>
   </channel>
   <channel id="Lakers at Timberwolves">
     <display-name lang="en">Lakers at Timberwolves</display-name>
@@ -35,21 +47,6 @@
   </channel>
   <channel id="Los Angeles Kings vs. Edmonton Oilers">
     <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="New York Mets vs. Washington Nationals">
-    <display-name lang="en">New York Mets vs. Washington Nationals</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. New York Yankees">
-    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Detroit Tigers">
-    <display-name lang="en">Baltimore Orioles vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Minnesota Twins">
-    <display-name lang="en">Los Angeles Angels vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Cleveland Guardians">
-    <display-name lang="en">Boston Red Sox vs. Cleveland Guardians</display-name>
   </channel>
   <channel id="Houston Astros vs. Kansas City Royals">
     <display-name lang="en">Houston Astros vs. Kansas City Royals</display-name>
@@ -115,14 +112,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250427000000 -0500" channel="EPL: Liverpool vs Tottenham Hotspur" stop="20250427235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250427000000 -0500" channel="FA Cup: Nottingham Forest vs Manchester Shitty" stop="20250427235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -132,6 +121,46 @@
     </audio>
   </programme>
   <programme start="20250427000000 -0500" channel="Winnipeg Jets vs. St. Louis Blues" stop="20250427235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250427000000 -0500" channel="New York Mets vs. Washington Nationals" stop="20250427235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250427000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250427235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250427000000 -0500" channel="Baltimore Orioles vs. Detroit Tigers" stop="20250427235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250427000000 -0500" channel="Los Angeles Angels vs. Minnesota Twins" stop="20250427235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250427000000 -0500" channel="Boston Red Sox vs. Cleveland Guardians" stop="20250427235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -189,46 +218,6 @@
   </programme>
   <programme start="20250427000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250427235959 -0500">
     <title>08:30 PM 27/04/25 - Los Angeles Kings vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="New York Mets vs. Washington Nationals" stop="20250427235959 -0500">
-    <title>12:35 PM 27/04/25 - New York Mets vs. Washington Nationals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250427235959 -0500">
-    <title>12:35 PM 27/04/25 - Toronto Blue Jays vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="Baltimore Orioles vs. Detroit Tigers" stop="20250427235959 -0500">
-    <title>12:40 PM 27/04/25 - Baltimore Orioles vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="Los Angeles Angels vs. Minnesota Twins" stop="20250427235959 -0500">
-    <title>12:40 PM 27/04/25 - Los Angeles Angels vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="Boston Red Sox vs. Cleveland Guardians" stop="20250427235959 -0500">
-    <title>12:40 PM 27/04/25 - Boston Red Sox vs. Cleveland Guardians</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
