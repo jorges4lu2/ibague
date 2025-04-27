@@ -1266,6 +1266,9 @@
   <channel id="BOXING: Chris Eubank Jr vs. Conor Benn HD (Sat 17:00 UK)">
     <display-name lang="en">BOXING: Chris Eubank Jr vs. Conor Benn HD (Sat 17:00 UK)</display-name>
   </channel>
+  <channel id="LIVE EVENT 03 - 5:45PM Lucas Oil Late Models Port Royal">
+    <display-name lang="en">LIVE EVENT 03 - 5:45PM Lucas Oil Late Models Port Royal</display-name>
+  </channel>
   <channel id="LIVE EVENT 10 - KSW 105 - UK Sat 26 Apr 7:00pm">
     <display-name lang="en">LIVE EVENT 10 - KSW 105 - UK Sat 26 Apr 7:00pm</display-name>
   </channel>
@@ -5680,6 +5683,14 @@
   </programme>
   <programme start="20250427000000 -0500" channel="BOXING: Chris Eubank Jr vs. Conor Benn HD (Sat 17:00 UK)" stop="20250427235959 -0500">
     <title>11:00 AM - BOXING: Chris Eubank Jr vs. Conor Benn HD (Sat 17:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250427000000 -0500" channel="LIVE EVENT 03 - 5:45PM Lucas Oil Late Models Port Royal" stop="20250427235959 -0500">
+    <title>11:45 AM - LIVE EVENT 03 - 5:45PM Lucas Oil Late Models Port Royal</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
