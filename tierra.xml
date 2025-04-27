@@ -9,12 +9,6 @@
   <channel id="Carolina Hurricanes vs. New Jersey Devils">
     <display-name lang="en">Carolina Hurricanes vs. New Jersey Devils</display-name>
   </channel>
-  <channel id="Houston Astros vs. Kansas City Royals">
-    <display-name lang="en">Houston Astros vs. Kansas City Royals</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. St. Louis Cardinals">
-    <display-name lang="en">Milwaukee Brewers vs. St. Louis Cardinals</display-name>
-  </channel>
   <channel id="Cincinnati Reds vs. Colorado Rockies">
     <display-name lang="en">Cincinnati Reds vs. Colorado Rockies</display-name>
   </channel>
@@ -36,6 +30,9 @@
   <channel id="Tampa Bay Rays vs. San Diego Padres">
     <display-name lang="en">Tampa Bay Rays vs. San Diego Padres</display-name>
   </channel>
+  <channel id="Toronto Blue Jays vs. New York Yankees">
+    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
+  </channel>
   <channel id="Celtics at Magic">
     <display-name lang="en">Celtics at Magic</display-name>
   </channel>
@@ -50,9 +47,6 @@
   </channel>
   <channel id="Los Angeles Kings vs. Edmonton Oilers">
     <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. New York Yankees">
-    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Chicago Cubs">
     <display-name lang="en">Philadelphia Phillies vs. Chicago Cubs</display-name>
@@ -86,22 +80,6 @@
     </audio>
   </programme>
   <programme start="20250427000000 -0500" channel="Carolina Hurricanes vs. New Jersey Devils" stop="20250427235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="Houston Astros vs. Kansas City Royals" stop="20250427235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="Milwaukee Brewers vs. St. Louis Cardinals" stop="20250427235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -165,6 +143,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250427000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250427235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250427000000 -0500" channel="Celtics at Magic" stop="20250427235959 -0500">
     <title>06:00 PM 27/04/25 - Celtics at Magic</title>
     <date>2025</date>
@@ -199,14 +185,6 @@
   </programme>
   <programme start="20250427000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250427235959 -0500">
     <title>08:30 PM 27/04/25 - Los Angeles Kings vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250427235959 -0500">
-    <title>04:05 PM 27/04/25 - Toronto Blue Jays vs. New York Yankees</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
