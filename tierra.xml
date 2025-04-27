@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250427 -0500">
-  <channel id="Lakers at Timberwolves">
-    <display-name lang="en">Lakers at Timberwolves</display-name>
+  <channel id="Celtics at Magic">
+    <display-name lang="en">Celtics at Magic</display-name>
   </channel>
   <channel id="PDC: 2025 Austrian Darts Open Day Three">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day Three</display-name>
   </channel>
-  <channel id="Carolina Hurricanes vs. New Jersey Devils">
-    <display-name lang="en">Carolina Hurricanes vs. New Jersey Devils</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Colorado Rockies">
-    <display-name lang="en">Cincinnati Reds vs. Colorado Rockies</display-name>
+  <channel id="Washington Capitals vs. Montreal Canadiens">
+    <display-name lang="en">Washington Capitals vs. Montreal Canadiens</display-name>
   </channel>
   <channel id="Texas Rangers vs. San Francisco Giants">
     <display-name lang="en">Texas Rangers vs. San Francisco Giants</display-name>
@@ -33,8 +30,8 @@
   <channel id="Toronto Blue Jays vs. New York Yankees">
     <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
   </channel>
-  <channel id="Celtics at Magic">
-    <display-name lang="en">Celtics at Magic</display-name>
+  <channel id="Philadelphia Phillies vs. Chicago Cubs">
+    <display-name lang="en">Philadelphia Phillies vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Pacers at Bucks">
     <display-name lang="en">Pacers at Bucks</display-name>
@@ -42,14 +39,8 @@
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
-  <channel id="Washington Capitals vs. Montreal Canadiens">
-    <display-name lang="en">Washington Capitals vs. Montreal Canadiens</display-name>
-  </channel>
   <channel id="Los Angeles Kings vs. Edmonton Oilers">
     <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Chicago Cubs">
-    <display-name lang="en">Philadelphia Phillies vs. Chicago Cubs</display-name>
   </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
@@ -63,7 +54,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250427000000 -0500" channel="Lakers at Timberwolves" stop="20250427235959 -0500">
+  <programme start="20250427000000 -0500" channel="Celtics at Magic" stop="20250427235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -79,15 +70,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250427000000 -0500" channel="Carolina Hurricanes vs. New Jersey Devils" stop="20250427235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="Cincinnati Reds vs. Colorado Rockies" stop="20250427235959 -0500">
+  <programme start="20250427000000 -0500" channel="Washington Capitals vs. Montreal Canadiens" stop="20250427235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -151,8 +134,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250427000000 -0500" channel="Celtics at Magic" stop="20250427235959 -0500">
-    <title>06:00 PM 27/04/25 - Celtics at Magic</title>
+  <programme start="20250427000000 -0500" channel="Philadelphia Phillies vs. Chicago Cubs" stop="20250427235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -175,24 +158,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250427000000 -0500" channel="Washington Capitals vs. Montreal Canadiens" stop="20250427235959 -0500">
-    <title>05:30 PM 27/04/25 - Washington Capitals vs. Montreal Canadiens</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250427000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250427235959 -0500">
     <title>08:30 PM 27/04/25 - Los Angeles Kings vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="Philadelphia Phillies vs. Chicago Cubs" stop="20250427235959 -0500">
-    <title>06:00 PM 27/04/25 - Philadelphia Phillies vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
