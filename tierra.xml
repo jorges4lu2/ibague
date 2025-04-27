@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250427 -0500">
+  <channel id="Knicks at Pistons">
+    <display-name lang="en">Knicks at Pistons</display-name>
+  </channel>
   <channel id="PDC: 2025 Austrian Darts Open Day Three">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day Three</display-name>
   </channel>
@@ -9,8 +12,8 @@
   <channel id="FA Cup: Nottingham Forest vs Manchester Shitty">
     <display-name lang="en">FA Cup: Nottingham Forest vs Manchester Shitty</display-name>
   </channel>
-  <channel id="Knicks at Pistons">
-    <display-name lang="en">Knicks at Pistons</display-name>
+  <channel id="Winnipeg Jets vs. St. Louis Blues">
+    <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
   </channel>
   <channel id="Lakers at Timberwolves">
     <display-name lang="en">Lakers at Timberwolves</display-name>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="Winnipeg Jets vs. St. Louis Blues">
-    <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
   </channel>
   <channel id="Carolina Hurricanes vs. New Jersey Devils">
     <display-name lang="en">Carolina Hurricanes vs. New Jersey Devils</display-name>
@@ -99,6 +99,14 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
+  <programme start="20250427000000 -0500" channel="Knicks at Pistons" stop="20250427235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250427000000 -0500" channel="PDC: 2025 Austrian Darts Open Day Three" stop="20250427235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -123,8 +131,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250427000000 -0500" channel="Knicks at Pistons" stop="20250427235959 -0500">
-    <title>12:00 PM 27/04/25 - Knicks at Pistons</title>
+  <programme start="20250427000000 -0500" channel="Winnipeg Jets vs. St. Louis Blues" stop="20250427235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -157,14 +165,6 @@
   </programme>
   <programme start="20250427000000 -0500" channel="LND Monthly" stop="20250427235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250427000000 -0500" channel="Winnipeg Jets vs. St. Louis Blues" stop="20250427235959 -0500">
-    <title>12:00 PM 27/04/25 - Winnipeg Jets vs. St. Louis Blues</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
