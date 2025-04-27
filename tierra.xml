@@ -6,6 +6,18 @@
   <channel id="EPL: Bournemouth vs Manchester United">
     <display-name lang="en">EPL: Bournemouth vs Manchester United</display-name>
   </channel>
+  <channel id="Knicks at Pistons">
+    <display-name lang="en">Knicks at Pistons</display-name>
+  </channel>
+  <channel id="Lakers at Timberwolves">
+    <display-name lang="en">Lakers at Timberwolves</display-name>
+  </channel>
+  <channel id="Celtics at Magic">
+    <display-name lang="en">Celtics at Magic</display-name>
+  </channel>
+  <channel id="Pacers at Bucks">
+    <display-name lang="en">Pacers at Bucks</display-name>
+  </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
@@ -100,6 +112,38 @@
   </programme>
   <programme start="20250427000000 -0500" channel="EPL: Bournemouth vs Manchester United" stop="20250427235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250427000000 -0500" channel="Knicks at Pistons" stop="20250427235959 -0500">
+    <title>12:00 PM 27/04/25 - Knicks at Pistons</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250427000000 -0500" channel="Lakers at Timberwolves" stop="20250427235959 -0500">
+    <title>02:30 PM 27/04/25 - Lakers at Timberwolves</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250427000000 -0500" channel="Celtics at Magic" stop="20250427235959 -0500">
+    <title>06:00 PM 27/04/25 - Celtics at Magic</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250427000000 -0500" channel="Pacers at Bucks" stop="20250427235959 -0500">
+    <title>08:30 PM 27/04/25 - Pacers at Bucks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
