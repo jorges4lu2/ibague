@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250426 -0500">
-  <channel id="Nuggets at Clippers">
-    <display-name lang="en">Nuggets at Clippers</display-name>
+  <channel id="Rockets at Warriors">
+    <display-name lang="en">Rockets at Warriors</display-name>
   </channel>
   <channel id="UFC Fight Night: Machado Garry vs. Prates">
     <display-name lang="en">UFC Fight Night: Machado Garry vs. Prates</display-name>
@@ -30,11 +30,20 @@
   <channel id="Houston Astros vs. Kansas City Royals">
     <display-name lang="en">Houston Astros vs. Kansas City Royals</display-name>
   </channel>
+  <channel id="Atlanta Braves vs. Arizona Diamondbacks">
+    <display-name lang="en">Atlanta Braves vs. Arizona Diamondbacks</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Arizona Diamondbacks">
+    <display-name lang="en">Atlanta Braves vs. Arizona Diamondbacks</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. San Diego Padres">
+    <display-name lang="en">Tampa Bay Rays vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. San Diego Padres">
+    <display-name lang="en">Tampa Bay Rays vs. San Diego Padres</display-name>
+  </channel>
   <channel id="AMA Supercross: Pittsburgh">
     <display-name lang="en">AMA Supercross: Pittsburgh</display-name>
-  </channel>
-  <channel id="Rockets at Warriors">
-    <display-name lang="en">Rockets at Warriors</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -44,18 +53,6 @@
   </channel>
   <channel id="Dallas Stars vs. Colorado Avalanche">
     <display-name lang="en">Dallas Stars vs. Colorado Avalanche</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Arizona Diamondbacks">
-    <display-name lang="en">Atlanta Braves vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Arizona Diamondbacks">
-    <display-name lang="en">Atlanta Braves vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. San Diego Padres">
-    <display-name lang="en">Tampa Bay Rays vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. San Diego Padres">
-    <display-name lang="en">Tampa Bay Rays vs. San Diego Padres</display-name>
   </channel>
   <channel id="Pittsburgh Pirates vs. Los Angeles Dodgers">
     <display-name lang="en">Pittsburgh Pirates vs. Los Angeles Dodgers</display-name>
@@ -84,7 +81,7 @@
   <channel id="24/7 S*y Sports Golf">
     <display-name lang="en">24/7 S*y Sports Golf</display-name>
   </channel>
-  <programme start="20250426000000 -0500" channel="Nuggets at Clippers" stop="20250426235959 -0500">
+  <programme start="20250426000000 -0500" channel="Rockets at Warriors" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -164,7 +161,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250426000000 -0500" channel="AMA Supercross: Pittsburgh" stop="20250426235959 -0500">
+  <programme start="20250426000000 -0500" channel="Atlanta Braves vs. Arizona Diamondbacks" stop="20250426235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -172,8 +169,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250426000000 -0500" channel="Rockets at Warriors" stop="20250426235959 -0500">
-    <title>07:30 PM 26/04/25 - Rockets at Warriors</title>
+  <programme start="20250426000000 -0500" channel="Atlanta Braves vs. Arizona Diamondbacks" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Tampa Bay Rays vs. San Diego Padres" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="Tampa Bay Rays vs. San Diego Padres" stop="20250426235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250426000000 -0500" channel="AMA Supercross: Pittsburgh" stop="20250426235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -198,38 +219,6 @@
   </programme>
   <programme start="20250426000000 -0500" channel="Dallas Stars vs. Colorado Avalanche" stop="20250426235959 -0500">
     <title>08:30 PM 26/04/25 - Dallas Stars vs. Colorado Avalanche</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="Atlanta Braves vs. Arizona Diamondbacks" stop="20250426235959 -0500">
-    <title>07:10 PM 26/04/25 - Atlanta Braves vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="Atlanta Braves vs. Arizona Diamondbacks" stop="20250426235959 -0500">
-    <title>07:10 PM 26/04/25 - Atlanta Braves vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="Tampa Bay Rays vs. San Diego Padres" stop="20250426235959 -0500">
-    <title>07:40 PM 26/04/25 - Tampa Bay Rays vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250426000000 -0500" channel="Tampa Bay Rays vs. San Diego Padres" stop="20250426235959 -0500">
-    <title>07:40 PM 26/04/25 - Tampa Bay Rays vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
