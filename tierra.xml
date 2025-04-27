@@ -3,11 +3,11 @@
   <channel id="PDC: 2025 Austrian Darts Open Day Three">
     <display-name lang="en">PDC: 2025 Austrian Darts Open Day Three</display-name>
   </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
   <channel id="EPL: Bournemouth vs Manchester United">
     <display-name lang="en">EPL: Bournemouth vs Manchester United</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
   </channel>
   <channel id="EPL: Liverpool vs Tottenham Hotspur">
     <display-name lang="en">EPL: Liverpool vs Tottenham Hotspur</display-name>
@@ -98,16 +98,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250427000000 -0500" channel="LND Monthly" stop="20250427235959 -0500">
-    <title>07:00 PM 17/05/25 - LND Monthly</title>
+  <programme start="20250427000000 -0500" channel="EPL: Bournemouth vs Manchester United" stop="20250427235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250427000000 -0500" channel="EPL: Bournemouth vs Manchester United" stop="20250427235959 -0500">
-    <title>08:00 AM 27/04/25 - EPL: Bournemouth vs Manchester United</title>
+  <programme start="20250427000000 -0500" channel="LND Monthly" stop="20250427235959 -0500">
+    <title>07:00 PM 17/05/25 - LND Monthly</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
