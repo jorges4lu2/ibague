@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250428 -0500">
+  <channel id="Cavaliers at Heat">
+    <display-name lang="en">Cavaliers at Heat</display-name>
+  </channel>
+  <channel id="Rockets at Warriors">
+    <display-name lang="en">Rockets at Warriors</display-name>
+  </channel>
   <channel id="MFN Weekly">
     <display-name lang="en">MFN Weekly</display-name>
   </channel>
@@ -51,6 +57,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250428000000 -0500" channel="Cavaliers at Heat" stop="20250428235959 -0500">
+    <title>06:30 PM 28/04/25 - Cavaliers at Heat</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250428000000 -0500" channel="Rockets at Warriors" stop="20250428235959 -0500">
+    <title>09:00 PM 28/04/25 - Rockets at Warriors</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250428000000 -0500" channel="MFN Weekly" stop="20250428235959 -0500">
     <title>07:00 PM 03/05/25 - MFN Weekly</title>
     <date>2025</date>
