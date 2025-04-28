@@ -3,6 +3,9 @@
   <channel id="EFL: Leeds vs Bristol City">
     <display-name lang="en">EFL: Leeds vs Bristol City</display-name>
   </channel>
+  <channel id="New York Mets vs. Washington Nationals">
+    <display-name lang="en">New York Mets vs. Washington Nationals</display-name>
+  </channel>
   <channel id="Cavaliers at Heat">
     <display-name lang="en">Cavaliers at Heat</display-name>
   </channel>
@@ -20,9 +23,6 @@
   </channel>
   <channel id="Colorado Avalanche vs. Dallas Stars">
     <display-name lang="en">Colorado Avalanche vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="New York Mets vs. Washington Nationals">
-    <display-name lang="en">New York Mets vs. Washington Nationals</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Cleveland Guardians">
     <display-name lang="en">Minnesota Twins vs. Cleveland Guardians</display-name>
@@ -61,6 +61,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250428000000 -0500" channel="EFL: Leeds vs Bristol City" stop="20250428235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250428000000 -0500" channel="New York Mets vs. Washington Nationals" stop="20250428235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -110,14 +118,6 @@
   </programme>
   <programme start="20250428000000 -0500" channel="Colorado Avalanche vs. Dallas Stars" stop="20250428235959 -0500">
     <title>08:30 PM 28/04/25 - Colorado Avalanche vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250428000000 -0500" channel="New York Mets vs. Washington Nationals" stop="20250428235959 -0500">
-    <title>03:05 PM 28/04/25 - New York Mets vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
