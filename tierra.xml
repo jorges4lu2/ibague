@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250428 -0500">
+  <channel id="MFN Weekly">
+    <display-name lang="en">MFN Weekly</display-name>
+  </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
@@ -48,6 +51,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250428000000 -0500" channel="MFN Weekly" stop="20250428235959 -0500">
+    <title>07:00 PM 03/05/25 - MFN Weekly</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250428000000 -0500" channel="LND Monthly" stop="20250428235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
     <date>2025</date>
