@@ -3,6 +3,21 @@
   <channel id="Bucks at Pacers">
     <display-name lang="en">Bucks at Pacers</display-name>
   </channel>
+  <channel id="Ottawa Senators vs. Toronto Maple Leafs">
+    <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="Minnesota Twins vs. Cleveland Guardians">
+    <display-name lang="en">Minnesota Twins vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="New York Yankees vs. Baltimore Orioles">
+    <display-name lang="en">New York Yankees vs. Baltimore Orioles</display-name>
+  </channel>
+  <channel id="Chicago Cubs vs. Pittsburgh Pirates">
+    <display-name lang="en">Chicago Cubs vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="Washington Nationals vs. Philadelphia Phillies">
+    <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
+  </channel>
   <channel id="Pistons at Knicks">
     <display-name lang="en">Pistons at Knicks</display-name>
   </channel>
@@ -18,8 +33,8 @@
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
-  <channel id="Ottawa Senators vs. Toronto Maple Leafs">
-    <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
+  <channel id="UCL: Barcelona vs Inter Milan">
+    <display-name lang="en">UCL: Barcelona vs Inter Milan</display-name>
   </channel>
   <channel id="New Jersey Devils vs. Carolina Hurricanes">
     <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
@@ -29,21 +44,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Los Angeles Kings">
     <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Cleveland Guardians">
-    <display-name lang="en">Minnesota Twins vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="New York Yankees vs. Baltimore Orioles">
-    <display-name lang="en">New York Yankees vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Pittsburgh Pirates">
-    <display-name lang="en">Chicago Cubs vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Cincinnati Reds">
-    <display-name lang="en">St. Louis Cardinals vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Philadelphia Phillies">
-    <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Tampa Bay Rays">
     <display-name lang="en">Kansas City Royals vs. Tampa Bay Rays</display-name>
@@ -95,6 +95,46 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250429000000 -0500" channel="Ottawa Senators vs. Toronto Maple Leafs" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="Minnesota Twins vs. Cleveland Guardians" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="New York Yankees vs. Baltimore Orioles" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="Chicago Cubs vs. Pittsburgh Pirates" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="Washington Nationals vs. Philadelphia Phillies" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250429000000 -0500" channel="Pistons at Knicks" stop="20250429235959 -0500">
     <title>06:30 PM 29/04/25 - Pistons at Knicks</title>
     <date>2025</date>
@@ -135,8 +175,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="Ottawa Senators vs. Toronto Maple Leafs" stop="20250429235959 -0500">
-    <title>06:00 PM 29/04/25 - Ottawa Senators vs. Toronto Maple Leafs</title>
+  <programme start="20250429000000 -0500" channel="UCL: Barcelona vs Inter Milan" stop="20250429235959 -0500">
+    <title>02:00 PM 30/04/25 - UCL: Barcelona vs Inter Milan</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -161,46 +201,6 @@
   </programme>
   <programme start="20250429000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250429235959 -0500">
     <title>09:00 PM 29/04/25 - Edmonton Oilers vs. Los Angeles Kings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Minnesota Twins vs. Cleveland Guardians" stop="20250429235959 -0500">
-    <title>05:10 PM 29/04/25 - Minnesota Twins vs. Cleveland Guardians</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="New York Yankees vs. Baltimore Orioles" stop="20250429235959 -0500">
-    <title>05:35 PM 29/04/25 - New York Yankees vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Chicago Cubs vs. Pittsburgh Pirates" stop="20250429235959 -0500">
-    <title>05:40 PM 29/04/25 - Chicago Cubs vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="St. Louis Cardinals vs. Cincinnati Reds" stop="20250429235959 -0500">
-    <title>05:40 PM 29/04/25 - St. Louis Cardinals vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Washington Nationals vs. Philadelphia Phillies" stop="20250429235959 -0500">
-    <title>05:45 PM 29/04/25 - Washington Nationals vs. Philadelphia Phillies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
