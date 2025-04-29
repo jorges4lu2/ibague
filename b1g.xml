@@ -930,6 +930,9 @@
   <channel id="07. AFC CL Elite | Al-Hilal vs Alhi Saudi (Tue 17:30 UK)">
     <display-name lang="en">07. AFC CL Elite | Al-Hilal vs Alhi Saudi (Tue 17:30 UK)</display-name>
   </channel>
+  <channel id="08. Glasgow Cup Final | Celtic B vs Rangers B (Tue 19:00 UK)">
+    <display-name lang="en">08. Glasgow Cup Final | Celtic B vs Rangers B (Tue 19:00 UK)</display-name>
+  </channel>
   <channel id="UFC Fight Night: Ian Machado Garry vs. Carlos Prates FHD (Sun 02:00 UK)">
     <display-name lang="en">UFC Fight Night: Ian Machado Garry vs. Carlos Prates FHD (Sun 02:00 UK)</display-name>
   </channel>
@@ -993,38 +996,38 @@
   <channel id="UK-BBC Four HD (From 19:00 UK)">
     <display-name lang="en">UK-BBC Four HD (From 19:00 UK)</display-name>
   </channel>
-  <channel id="01. IPL | DC vs KKR (Tue 15:00 UK)">
-    <display-name lang="en">01. IPL | DC vs KKR (Tue 15:00 UK)</display-name>
+  <channel id="01. IPL | CSK vs PBKS (Wed 15:00 UK)">
+    <display-name lang="en">01. IPL | CSK vs PBKS (Wed 15:00 UK)</display-name>
   </channel>
-  <channel id="02. IPL | DC vs KKR (Tue 15:00 UK)">
-    <display-name lang="en">02. IPL | DC vs KKR (Tue 15:00 UK)</display-name>
+  <channel id="02. IPL | CSK vs PBKS (Wed 15:00 UK)">
+    <display-name lang="en">02. IPL | CSK vs PBKS (Wed 15:00 UK)</display-name>
   </channel>
-  <channel id="03. IPL | DC vs KKR (Tue 15:00 UK)">
-    <display-name lang="en">03. IPL | DC vs KKR (Tue 15:00 UK)</display-name>
+  <channel id="03. IPL | CSK vs PBKS (Wed 15:00 UK)">
+    <display-name lang="en">03. IPL | CSK vs PBKS (Wed 15:00 UK)</display-name>
   </channel>
-  <channel id="04. IPL | DC vs KKR (Tue 15:00 UK)">
-    <display-name lang="en">04. IPL | DC vs KKR (Tue 15:00 UK)</display-name>
+  <channel id="04. IPL | CSK vs PBKS (Wed 15:00 UK)">
+    <display-name lang="en">04. IPL | CSK vs PBKS (Wed 15:00 UK)</display-name>
   </channel>
-  <channel id="05. IPL | DC vs KKR (Tue 15:00 UK)">
-    <display-name lang="en">05. IPL | DC vs KKR (Tue 15:00 UK)</display-name>
+  <channel id="05. IPL | CSK vs PBKS (Wed 15:00 UK)">
+    <display-name lang="en">05. IPL | CSK vs PBKS (Wed 15:00 UK)</display-name>
   </channel>
-  <channel id="06. IPL | DC vs KKR (Tue 15:00 UK)">
-    <display-name lang="en">06. IPL | DC vs KKR (Tue 15:00 UK)</display-name>
+  <channel id="06. IPL | CSK vs PBKS (Wed 15:00 UK)">
+    <display-name lang="en">06. IPL | CSK vs PBKS (Wed 15:00 UK)</display-name>
   </channel>
-  <channel id="07. PSL | MS vs QG (Tue 16:00 UK)">
-    <display-name lang="en">07. PSL | MS vs QG (Tue 16:00 UK)</display-name>
+  <channel id="07. PSL | LQ vs IU (Wed 16:00 UK)">
+    <display-name lang="en">07. PSL | LQ vs IU (Wed 16:00 UK)</display-name>
   </channel>
-  <channel id="08. PSL | MS vs QG (Tue 16:00 UK)">
-    <display-name lang="en">08. PSL | MS vs QG (Tue 16:00 UK)</display-name>
+  <channel id="08. PSL | LQ vs IU (Wed 16:00 UK)">
+    <display-name lang="en">08. PSL | LQ vs IU (Wed 16:00 UK)</display-name>
   </channel>
-  <channel id="09. PSL | MS vs QG (Tue 16:00 UK)">
-    <display-name lang="en">09. PSL | MS vs QG (Tue 16:00 UK)</display-name>
+  <channel id="09. PSL | LQ vs IU (Wed 16:00 UK)">
+    <display-name lang="en">09. PSL | LQ vs IU (Wed 16:00 UK)</display-name>
   </channel>
-  <channel id="10. PSL | MS vs QG (Tue 16:00 UK)">
-    <display-name lang="en">10. PSL | MS vs QG (Tue 16:00 UK)</display-name>
+  <channel id="10. PSL | LQ vs IU (Wed 16:00 UK)">
+    <display-name lang="en">10. PSL | LQ vs IU (Wed 16:00 UK)</display-name>
   </channel>
-  <channel id="11. PSL | MS vs QG (Tue 16:00 UK)">
-    <display-name lang="en">11. PSL | MS vs QG (Tue 16:00 UK)</display-name>
+  <channel id="11. PSL | LQ vs IU (Wed 16:00 UK)">
+    <display-name lang="en">11. PSL | LQ vs IU (Wed 16:00 UK)</display-name>
   </channel>
   <channel id="36. EPL 09 | Liverpool vs Tottenham (Sun 16:30 UK)">
     <display-name lang="en">36. EPL 09 | Liverpool vs Tottenham (Sun 16:30 UK)</display-name>
@@ -4022,6 +4025,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250429000000 -0500" channel="08. Glasgow Cup Final | Celtic B vs Rangers B (Tue 19:00 UK)" stop="20250429235959 -0500">
+    <title>01:00 PM - 08. Glasgow Cup Final | Celtic B vs Rangers B (Tue 19:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250429000000 -0500" channel="UFC Fight Night: Ian Machado Garry vs. Carlos Prates FHD (Sun 02:00 UK)" stop="20250429235959 -0500">
     <title>08:00 PM - UFC Fight Night: Ian Machado Garry vs. Carlos Prates FHD (Sun 02:00 UK)</title>
     <date>2025</date>
@@ -4190,88 +4201,88 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="01. IPL | DC vs KKR (Tue 15:00 UK)" stop="20250429235959 -0500">
-    <title>09:00 AM - 01. IPL | DC vs KKR (Tue 15:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="01. IPL | CSK vs PBKS (Wed 15:00 UK)" stop="20250429235959 -0500">
+    <title>09:00 AM - 01. IPL | CSK vs PBKS (Wed 15:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="02. IPL | DC vs KKR (Tue 15:00 UK)" stop="20250429235959 -0500">
-    <title>09:00 AM - 02. IPL | DC vs KKR (Tue 15:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="02. IPL | CSK vs PBKS (Wed 15:00 UK)" stop="20250429235959 -0500">
+    <title>09:00 AM - 02. IPL | CSK vs PBKS (Wed 15:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="03. IPL | DC vs KKR (Tue 15:00 UK)" stop="20250429235959 -0500">
-    <title>09:00 AM - 03. IPL | DC vs KKR (Tue 15:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="03. IPL | CSK vs PBKS (Wed 15:00 UK)" stop="20250429235959 -0500">
+    <title>09:00 AM - 03. IPL | CSK vs PBKS (Wed 15:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="04. IPL | DC vs KKR (Tue 15:00 UK)" stop="20250429235959 -0500">
-    <title>09:00 AM - 04. IPL | DC vs KKR (Tue 15:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="04. IPL | CSK vs PBKS (Wed 15:00 UK)" stop="20250429235959 -0500">
+    <title>09:00 AM - 04. IPL | CSK vs PBKS (Wed 15:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="05. IPL | DC vs KKR (Tue 15:00 UK)" stop="20250429235959 -0500">
-    <title>09:00 AM - 05. IPL | DC vs KKR (Tue 15:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="05. IPL | CSK vs PBKS (Wed 15:00 UK)" stop="20250429235959 -0500">
+    <title>09:00 AM - 05. IPL | CSK vs PBKS (Wed 15:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="06. IPL | DC vs KKR (Tue 15:00 UK)" stop="20250429235959 -0500">
-    <title>09:00 AM - 06. IPL | DC vs KKR (Tue 15:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="06. IPL | CSK vs PBKS (Wed 15:00 UK)" stop="20250429235959 -0500">
+    <title>09:00 AM - 06. IPL | CSK vs PBKS (Wed 15:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="07. PSL | MS vs QG (Tue 16:00 UK)" stop="20250429235959 -0500">
-    <title>10:00 AM - 07. PSL | MS vs QG (Tue 16:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="07. PSL | LQ vs IU (Wed 16:00 UK)" stop="20250429235959 -0500">
+    <title>10:00 AM - 07. PSL | LQ vs IU (Wed 16:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="08. PSL | MS vs QG (Tue 16:00 UK)" stop="20250429235959 -0500">
-    <title>10:00 AM - 08. PSL | MS vs QG (Tue 16:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="08. PSL | LQ vs IU (Wed 16:00 UK)" stop="20250429235959 -0500">
+    <title>10:00 AM - 08. PSL | LQ vs IU (Wed 16:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="09. PSL | MS vs QG (Tue 16:00 UK)" stop="20250429235959 -0500">
-    <title>10:00 AM - 09. PSL | MS vs QG (Tue 16:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="09. PSL | LQ vs IU (Wed 16:00 UK)" stop="20250429235959 -0500">
+    <title>10:00 AM - 09. PSL | LQ vs IU (Wed 16:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="10. PSL | MS vs QG (Tue 16:00 UK)" stop="20250429235959 -0500">
-    <title>10:00 AM - 10. PSL | MS vs QG (Tue 16:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="10. PSL | LQ vs IU (Wed 16:00 UK)" stop="20250429235959 -0500">
+    <title>10:00 AM - 10. PSL | LQ vs IU (Wed 16:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="11. PSL | MS vs QG (Tue 16:00 UK)" stop="20250429235959 -0500">
-    <title>10:00 AM - 11. PSL | MS vs QG (Tue 16:00 UK)</title>
+  <programme start="20250429000000 -0500" channel="11. PSL | LQ vs IU (Wed 16:00 UK)" stop="20250429235959 -0500">
+    <title>10:00 AM - 11. PSL | LQ vs IU (Wed 16:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
