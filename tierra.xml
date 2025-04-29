@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250429 -0500">
-  <channel id="UCL: Arsenal vs PSG (Prime Video)">
-    <display-name lang="en">UCL: Arsenal vs PSG (Prime Video)</display-name>
-  </channel>
-  <channel id="UCL: Arsenal vs PSG (CBS Sports)">
-    <display-name lang="en">UCL: Arsenal vs PSG (CBS Sports)</display-name>
-  </channel>
   <channel id="Bucks at Pacers">
     <display-name lang="en">Bucks at Pacers</display-name>
   </channel>
@@ -93,24 +87,8 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250429000000 -0500" channel="UCL: Arsenal vs PSG (Prime Video)" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="UCL: Arsenal vs PSG (CBS Sports)" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250429000000 -0500" channel="Bucks at Pacers" stop="20250429235959 -0500">
-    <title>05:00 PM 29/04/25 - Bucks at Pacers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
