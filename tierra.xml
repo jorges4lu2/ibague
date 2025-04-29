@@ -6,6 +6,12 @@
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
+  <channel id="UCL: Arsenal vs PSG (Prime Video)">
+    <display-name lang="en">UCL: Arsenal vs PSG (Prime Video)</display-name>
+  </channel>
+  <channel id="UCL: Arsenal vs PSG (CBS Sports)">
+    <display-name lang="en">UCL: Arsenal vs PSG (CBS Sports)</display-name>
+  </channel>
   <channel id="Ottawa Senators vs. Toronto Maple Leafs">
     <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
   </channel>
@@ -85,6 +91,22 @@
   </programme>
   <programme start="20250429000000 -0500" channel="LND Monthly" stop="20250429235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="UCL: Arsenal vs PSG (Prime Video)" stop="20250429235959 -0500">
+    <title>02:00 PM 29/04/25 - UCL: Arsenal vs PSG (Prime Video)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="UCL: Arsenal vs PSG (CBS Sports)" stop="20250429235959 -0500">
+    <title>02:00 PM 29/04/25 - UCL: Arsenal vs PSG (CBS Sports)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
