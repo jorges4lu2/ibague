@@ -3,8 +3,14 @@
   <channel id="Bucks at Pacers">
     <display-name lang="en">Bucks at Pacers</display-name>
   </channel>
+  <channel id="Pistons at Knicks">
+    <display-name lang="en">Pistons at Knicks</display-name>
+  </channel>
   <channel id="Ottawa Senators vs. Toronto Maple Leafs">
     <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="New Jersey Devils vs. Carolina Hurricanes">
+    <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Cleveland Guardians">
     <display-name lang="en">Minnesota Twins vs. Cleveland Guardians</display-name>
@@ -18,8 +24,17 @@
   <channel id="Washington Nationals vs. Philadelphia Phillies">
     <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
   </channel>
-  <channel id="Pistons at Knicks">
-    <display-name lang="en">Pistons at Knicks</display-name>
+  <channel id="Kansas City Royals vs. Tampa Bay Rays">
+    <display-name lang="en">Kansas City Royals vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Toronto Blue Jays">
+    <display-name lang="en">Boston Red Sox vs. Toronto Blue Jays</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. New York Mets">
+    <display-name lang="en">Arizona Diamondbacks vs. New York Mets</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Chicago White Sox">
+    <display-name lang="en">Milwaukee Brewers vs. Chicago White Sox</display-name>
   </channel>
   <channel id="Magic at Celtics">
     <display-name lang="en">Magic at Celtics</display-name>
@@ -36,26 +51,11 @@
   <channel id="UCL: Barcelona vs Inter Milan">
     <display-name lang="en">UCL: Barcelona vs Inter Milan</display-name>
   </channel>
-  <channel id="New Jersey Devils vs. Carolina Hurricanes">
-    <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
-  </channel>
   <channel id="Minnesota Wild vs. Vegas Golden Knights">
     <display-name lang="en">Minnesota Wild vs. Vegas Golden Knights</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Los Angeles Kings">
     <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Tampa Bay Rays">
-    <display-name lang="en">Kansas City Royals vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Toronto Blue Jays">
-    <display-name lang="en">Boston Red Sox vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. New York Mets">
-    <display-name lang="en">Arizona Diamondbacks vs. New York Mets</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Chicago White Sox">
-    <display-name lang="en">Milwaukee Brewers vs. Chicago White Sox</display-name>
   </channel>
   <channel id="Athletics vs. Texas Rangers">
     <display-name lang="en">Athletics vs. Texas Rangers</display-name>
@@ -95,7 +95,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250429000000 -0500" channel="Pistons at Knicks" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250429000000 -0500" channel="Ottawa Senators vs. Toronto Maple Leafs" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="New Jersey Devils vs. Carolina Hurricanes" stop="20250429235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -135,8 +151,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="Pistons at Knicks" stop="20250429235959 -0500">
-    <title>06:30 PM 29/04/25 - Pistons at Knicks</title>
+  <programme start="20250429000000 -0500" channel="Kansas City Royals vs. Tampa Bay Rays" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="Boston Red Sox vs. Toronto Blue Jays" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="Arizona Diamondbacks vs. New York Mets" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="Milwaukee Brewers vs. Chicago White Sox" stop="20250429235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -183,14 +223,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="New Jersey Devils vs. Carolina Hurricanes" stop="20250429235959 -0500">
-    <title>06:30 PM 29/04/25 - New Jersey Devils vs. Carolina Hurricanes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250429000000 -0500" channel="Minnesota Wild vs. Vegas Golden Knights" stop="20250429235959 -0500">
     <title>08:30 PM 29/04/25 - Minnesota Wild vs. Vegas Golden Knights</title>
     <date>2025</date>
@@ -201,38 +233,6 @@
   </programme>
   <programme start="20250429000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250429235959 -0500">
     <title>09:00 PM 29/04/25 - Edmonton Oilers vs. Los Angeles Kings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Kansas City Royals vs. Tampa Bay Rays" stop="20250429235959 -0500">
-    <title>06:05 PM 29/04/25 - Kansas City Royals vs. Tampa Bay Rays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Boston Red Sox vs. Toronto Blue Jays" stop="20250429235959 -0500">
-    <title>06:07 PM 29/04/25 - Boston Red Sox vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Arizona Diamondbacks vs. New York Mets" stop="20250429235959 -0500">
-    <title>06:10 PM 29/04/25 - Arizona Diamondbacks vs. New York Mets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Milwaukee Brewers vs. Chicago White Sox" stop="20250429235959 -0500">
-    <title>06:40 PM 29/04/25 - Milwaukee Brewers vs. Chicago White Sox</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
