@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250430 -0500">
+  <channel id="UCL: Barcelona vs Inter Milan">
+    <display-name lang="en">UCL: Barcelona vs Inter Milan</display-name>
+  </channel>
   <channel id="Warriors at Rockets">
     <display-name lang="en">Warriors at Rockets</display-name>
   </channel>
@@ -14,9 +17,6 @@
   </channel>
   <channel id="PDC: BetMGM Premier League - Night Thirteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Thirteen</display-name>
-  </channel>
-  <channel id="UCL: Barcelona vs Inter Milan">
-    <display-name lang="en">UCL: Barcelona vs Inter Milan</display-name>
   </channel>
   <channel id="Montreal Canadiens vs. Washington Capitals">
     <display-name lang="en">Montreal Canadiens vs. Washington Capitals</display-name>
@@ -39,6 +39,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250430000000 -0500" channel="UCL: Barcelona vs Inter Milan" stop="20250430235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250430000000 -0500" channel="Warriors at Rockets" stop="20250430235959 -0500">
     <title>06:30 PM 30/04/25 - Warriors at Rockets</title>
     <date>2025</date>
@@ -73,14 +81,6 @@
   </programme>
   <programme start="20250430000000 -0500" channel="PDC: BetMGM Premier League - Night Thirteen" stop="20250430235959 -0500">
     <title>01:00 PM 01/05/25 - PDC: BetMGM Premier League - Night Thirteen</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250430000000 -0500" channel="UCL: Barcelona vs Inter Milan" stop="20250430235959 -0500">
-    <title>02:00 PM 30/04/25 - UCL: Barcelona vs Inter Milan</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
