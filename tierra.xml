@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250429 -0500">
-  <channel id="Bucks at Pacers">
-    <display-name lang="en">Bucks at Pacers</display-name>
-  </channel>
   <channel id="Pistons at Knicks">
     <display-name lang="en">Pistons at Knicks</display-name>
+  </channel>
+  <channel id="Magic at Celtics">
+    <display-name lang="en">Magic at Celtics</display-name>
   </channel>
   <channel id="Ottawa Senators vs. Toronto Maple Leafs">
     <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
@@ -36,8 +36,14 @@
   <channel id="Milwaukee Brewers vs. Chicago White Sox">
     <display-name lang="en">Milwaukee Brewers vs. Chicago White Sox</display-name>
   </channel>
-  <channel id="Magic at Celtics">
-    <display-name lang="en">Magic at Celtics</display-name>
+  <channel id="Athletics vs. Texas Rangers">
+    <display-name lang="en">Athletics vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Detroit Tigers vs. Houston Astros">
+    <display-name lang="en">Detroit Tigers vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Colorado Rockies">
+    <display-name lang="en">Atlanta Braves vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Clippers at Nuggets">
     <display-name lang="en">Clippers at Nuggets</display-name>
@@ -56,15 +62,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Los Angeles Kings">
     <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
-  </channel>
-  <channel id="Athletics vs. Texas Rangers">
-    <display-name lang="en">Athletics vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Houston Astros">
-    <display-name lang="en">Detroit Tigers vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Colorado Rockies">
-    <display-name lang="en">Atlanta Braves vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. Seattle Mariners">
     <display-name lang="en">Los Angeles Angels vs. Seattle Mariners</display-name>
@@ -87,7 +84,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250429000000 -0500" channel="Bucks at Pacers" stop="20250429235959 -0500">
+  <programme start="20250429000000 -0500" channel="Pistons at Knicks" stop="20250429235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -95,7 +92,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="Pistons at Knicks" stop="20250429235959 -0500">
+  <programme start="20250429000000 -0500" channel="Magic at Celtics" stop="20250429235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -183,8 +180,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="Magic at Celtics" stop="20250429235959 -0500">
-    <title>07:30 PM 29/04/25 - Magic at Celtics</title>
+  <programme start="20250429000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="Detroit Tigers vs. Houston Astros" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="Atlanta Braves vs. Colorado Rockies" stop="20250429235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -233,30 +246,6 @@
   </programme>
   <programme start="20250429000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250429235959 -0500">
     <title>09:00 PM 29/04/25 - Edmonton Oilers vs. Los Angeles Kings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250429235959 -0500">
-    <title>07:05 PM 29/04/25 - Athletics vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Detroit Tigers vs. Houston Astros" stop="20250429235959 -0500">
-    <title>07:10 PM 29/04/25 - Detroit Tigers vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Atlanta Braves vs. Colorado Rockies" stop="20250429235959 -0500">
-    <title>07:40 PM 29/04/25 - Atlanta Braves vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
