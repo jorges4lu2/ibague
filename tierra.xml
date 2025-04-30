@@ -1,20 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250429 -0500">
-  <channel id="Clippers at Nuggets">
-    <display-name lang="en">Clippers at Nuggets</display-name>
-  </channel>
-  <channel id="Minnesota Wild vs. Vegas Golden Knights">
-    <display-name lang="en">Minnesota Wild vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="Edmonton Oilers vs. Los Angeles Kings">
-    <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Seattle Mariners">
-    <display-name lang="en">Los Angeles Angels vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. San Diego Padres">
-    <display-name lang="en">San Francisco Giants vs. San Diego Padres</display-name>
-  </channel>
+<tv date="20250430 -0500">
   <channel id="Miami Marlins vs. Los Angeles Dodgers">
     <display-name lang="en">Miami Marlins vs. Los Angeles Dodgers</display-name>
   </channel>
@@ -23,6 +8,9 @@
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
+  </channel>
+  <channel id="PDC: BetMGM Premier League - Night Thirteen">
+    <display-name lang="en">PDC: BetMGM Premier League - Night Thirteen</display-name>
   </channel>
   <channel id="UCL: Barcelona vs Inter Milan">
     <display-name lang="en">UCL: Barcelona vs Inter Milan</display-name>
@@ -48,7 +36,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250429000000 -0500" channel="Clippers at Nuggets" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="Miami Marlins vs. Los Angeles Dodgers" stop="20250430235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -56,47 +44,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="Minnesota Wild vs. Vegas Golden Knights" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Los Angeles Angels vs. Seattle Mariners" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="San Francisco Giants vs. San Diego Padres" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Miami Marlins vs. Los Angeles Dodgers" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="MFN Weekly" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="MFN Weekly" stop="20250430235959 -0500">
     <title>07:00 PM 03/05/25 - MFN Weekly</title>
     <date>2025</date>
     <category>Sports</category>
@@ -104,7 +52,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="LND Monthly" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="LND Monthly" stop="20250430235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
     <date>2025</date>
     <category>Sports</category>
@@ -112,7 +60,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="UCL: Barcelona vs Inter Milan" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="PDC: BetMGM Premier League - Night Thirteen" stop="20250430235959 -0500">
+    <title>01:00 PM 01/05/25 - PDC: BetMGM Premier League - Night Thirteen</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250430000000 -0500" channel="UCL: Barcelona vs Inter Milan" stop="20250430235959 -0500">
     <title>02:00 PM 30/04/25 - UCL: Barcelona vs Inter Milan</title>
     <date>2025</date>
     <category>Sports</category>
@@ -120,7 +76,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="Montreal Canadiens vs. Washington Capitals" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="Montreal Canadiens vs. Washington Capitals" stop="20250430235959 -0500">
     <title>06:00 PM 30/04/25 - Montreal Canadiens vs. Washington Capitals</title>
     <date>2025</date>
     <category>Sports</category>
@@ -128,7 +84,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="Florida Panthers vs. Tampa Bay Lightning" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="Florida Panthers vs. Tampa Bay Lightning" stop="20250430235959 -0500">
     <title>06:30 PM 30/04/25 - Florida Panthers vs. Tampa Bay Lightning</title>
     <date>2025</date>
     <category>Sports</category>
@@ -136,7 +92,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="St. Louis Blues vs. Winnipeg Jets" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="St. Louis Blues vs. Winnipeg Jets" stop="20250430235959 -0500">
     <title>08:30 PM 30/04/25 - St. Louis Blues vs. Winnipeg Jets</title>
     <date>2025</date>
     <category>Sports</category>
@@ -144,7 +100,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="24/7 COWS" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="24/7 COWS" stop="20250430235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -152,7 +108,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="24/7 South Park" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="24/7 South Park" stop="20250430235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -160,7 +116,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="24/7 The Simpsons" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="24/7 The Simpsons" stop="20250430235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -168,7 +124,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="(North) Korean Central Television" stop="20250429235959 -0500">
+  <programme start="20250430000000 -0500" channel="(North) Korean Central Television" stop="20250430235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
