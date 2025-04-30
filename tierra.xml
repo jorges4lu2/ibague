@@ -6,23 +6,20 @@
   <channel id="Magic at Celtics">
     <display-name lang="en">Magic at Celtics</display-name>
   </channel>
-  <channel id="Ottawa Senators vs. Toronto Maple Leafs">
-    <display-name lang="en">Ottawa Senators vs. Toronto Maple Leafs</display-name>
+  <channel id="Clippers at Nuggets">
+    <display-name lang="en">Clippers at Nuggets</display-name>
   </channel>
   <channel id="New Jersey Devils vs. Carolina Hurricanes">
     <display-name lang="en">New Jersey Devils vs. Carolina Hurricanes</display-name>
   </channel>
+  <channel id="Minnesota Wild vs. Vegas Golden Knights">
+    <display-name lang="en">Minnesota Wild vs. Vegas Golden Knights</display-name>
+  </channel>
+  <channel id="Edmonton Oilers vs. Los Angeles Kings">
+    <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
+  </channel>
   <channel id="Minnesota Twins vs. Cleveland Guardians">
     <display-name lang="en">Minnesota Twins vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="New York Yankees vs. Baltimore Orioles">
-    <display-name lang="en">New York Yankees vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Pittsburgh Pirates">
-    <display-name lang="en">Chicago Cubs vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Philadelphia Phillies">
-    <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Tampa Bay Rays">
     <display-name lang="en">Kansas City Royals vs. Tampa Bay Rays</display-name>
@@ -45,8 +42,11 @@
   <channel id="Atlanta Braves vs. Colorado Rockies">
     <display-name lang="en">Atlanta Braves vs. Colorado Rockies</display-name>
   </channel>
-  <channel id="Clippers at Nuggets">
-    <display-name lang="en">Clippers at Nuggets</display-name>
+  <channel id="Los Angeles Angels vs. Seattle Mariners">
+    <display-name lang="en">Los Angeles Angels vs. Seattle Mariners</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. San Diego Padres">
+    <display-name lang="en">San Francisco Giants vs. San Diego Padres</display-name>
   </channel>
   <channel id="MFN Weekly">
     <display-name lang="en">MFN Weekly</display-name>
@@ -56,18 +56,6 @@
   </channel>
   <channel id="UCL: Barcelona vs Inter Milan">
     <display-name lang="en">UCL: Barcelona vs Inter Milan</display-name>
-  </channel>
-  <channel id="Minnesota Wild vs. Vegas Golden Knights">
-    <display-name lang="en">Minnesota Wild vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="Edmonton Oilers vs. Los Angeles Kings">
-    <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Seattle Mariners">
-    <display-name lang="en">Los Angeles Angels vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. San Diego Padres">
-    <display-name lang="en">San Francisco Giants vs. San Diego Padres</display-name>
   </channel>
   <channel id="Miami Marlins vs. Los Angeles Dodgers">
     <display-name lang="en">Miami Marlins vs. Los Angeles Dodgers</display-name>
@@ -100,7 +88,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="Ottawa Senators vs. Toronto Maple Leafs" stop="20250429235959 -0500">
+  <programme start="20250429000000 -0500" channel="Clippers at Nuggets" stop="20250429235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -116,31 +104,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250429000000 -0500" channel="Minnesota Wild vs. Vegas Golden Knights" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250429000000 -0500" channel="Minnesota Twins vs. Cleveland Guardians" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="New York Yankees vs. Baltimore Orioles" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Chicago Cubs vs. Pittsburgh Pirates" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Washington Nationals vs. Philadelphia Phillies" stop="20250429235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -204,8 +184,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="Clippers at Nuggets" stop="20250429235959 -0500">
-    <title>09:00 PM 29/04/25 - Clippers at Nuggets</title>
+  <programme start="20250429000000 -0500" channel="Los Angeles Angels vs. Seattle Mariners" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="San Francisco Giants vs. San Diego Padres" stop="20250429235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -230,38 +218,6 @@
   </programme>
   <programme start="20250429000000 -0500" channel="UCL: Barcelona vs Inter Milan" stop="20250429235959 -0500">
     <title>02:00 PM 30/04/25 - UCL: Barcelona vs Inter Milan</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Minnesota Wild vs. Vegas Golden Knights" stop="20250429235959 -0500">
-    <title>08:30 PM 29/04/25 - Minnesota Wild vs. Vegas Golden Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250429235959 -0500">
-    <title>09:00 PM 29/04/25 - Edmonton Oilers vs. Los Angeles Kings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Los Angeles Angels vs. Seattle Mariners" stop="20250429235959 -0500">
-    <title>08:40 PM 29/04/25 - Los Angeles Angels vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="San Francisco Giants vs. San Diego Padres" stop="20250429235959 -0500">
-    <title>08:40 PM 29/04/25 - San Francisco Giants vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
