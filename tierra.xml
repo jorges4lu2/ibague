@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250429 -0500">
-  <channel id="Pistons at Knicks">
-    <display-name lang="en">Pistons at Knicks</display-name>
-  </channel>
   <channel id="Magic at Celtics">
     <display-name lang="en">Magic at Celtics</display-name>
   </channel>
@@ -17,21 +14,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Los Angeles Kings">
     <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Cleveland Guardians">
-    <display-name lang="en">Minnesota Twins vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Tampa Bay Rays">
-    <display-name lang="en">Kansas City Royals vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Toronto Blue Jays">
-    <display-name lang="en">Boston Red Sox vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. New York Mets">
-    <display-name lang="en">Arizona Diamondbacks vs. New York Mets</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Chicago White Sox">
-    <display-name lang="en">Milwaukee Brewers vs. Chicago White Sox</display-name>
   </channel>
   <channel id="Athletics vs. Texas Rangers">
     <display-name lang="en">Athletics vs. Texas Rangers</display-name>
@@ -48,6 +30,9 @@
   <channel id="San Francisco Giants vs. San Diego Padres">
     <display-name lang="en">San Francisco Giants vs. San Diego Padres</display-name>
   </channel>
+  <channel id="Miami Marlins vs. Los Angeles Dodgers">
+    <display-name lang="en">Miami Marlins vs. Los Angeles Dodgers</display-name>
+  </channel>
   <channel id="MFN Weekly">
     <display-name lang="en">MFN Weekly</display-name>
   </channel>
@@ -57,8 +42,14 @@
   <channel id="UCL: Barcelona vs Inter Milan">
     <display-name lang="en">UCL: Barcelona vs Inter Milan</display-name>
   </channel>
-  <channel id="Miami Marlins vs. Los Angeles Dodgers">
-    <display-name lang="en">Miami Marlins vs. Los Angeles Dodgers</display-name>
+  <channel id="Montreal Canadiens vs. Washington Capitals">
+    <display-name lang="en">Montreal Canadiens vs. Washington Capitals</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Tampa Bay Lightning">
+    <display-name lang="en">Florida Panthers vs. Tampa Bay Lightning</display-name>
+  </channel>
+  <channel id="St. Louis Blues vs. Winnipeg Jets">
+    <display-name lang="en">St. Louis Blues vs. Winnipeg Jets</display-name>
   </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
@@ -72,14 +63,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250429000000 -0500" channel="Pistons at Knicks" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250429000000 -0500" channel="Magic at Celtics" stop="20250429235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -113,46 +96,6 @@
     </audio>
   </programme>
   <programme start="20250429000000 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Minnesota Twins vs. Cleveland Guardians" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Kansas City Royals vs. Tampa Bay Rays" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Boston Red Sox vs. Toronto Blue Jays" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Arizona Diamondbacks vs. New York Mets" stop="20250429235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250429000000 -0500" channel="Milwaukee Brewers vs. Chicago White Sox" stop="20250429235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -200,6 +143,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250429000000 -0500" channel="Miami Marlins vs. Los Angeles Dodgers" stop="20250429235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250429000000 -0500" channel="MFN Weekly" stop="20250429235959 -0500">
     <title>07:00 PM 03/05/25 - MFN Weekly</title>
     <date>2025</date>
@@ -224,8 +175,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250429000000 -0500" channel="Miami Marlins vs. Los Angeles Dodgers" stop="20250429235959 -0500">
-    <title>09:10 PM 29/04/25 - Miami Marlins vs. Los Angeles Dodgers</title>
+  <programme start="20250429000000 -0500" channel="Montreal Canadiens vs. Washington Capitals" stop="20250429235959 -0500">
+    <title>06:00 PM 30/04/25 - Montreal Canadiens vs. Washington Capitals</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="Florida Panthers vs. Tampa Bay Lightning" stop="20250429235959 -0500">
+    <title>06:30 PM 30/04/25 - Florida Panthers vs. Tampa Bay Lightning</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250429000000 -0500" channel="St. Louis Blues vs. Winnipeg Jets" stop="20250429235959 -0500">
+    <title>08:30 PM 30/04/25 - St. Louis Blues vs. Winnipeg Jets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
