@@ -3,36 +3,6 @@
   <channel id="PDC: BetMGM Premier League - Night Thirteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Thirteen</display-name>
   </channel>
-  <channel id="Chicago Cubs vs. Pittsburgh Pirates">
-    <display-name lang="en">Chicago Cubs vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Cincinnati Reds">
-    <display-name lang="en">St. Louis Cardinals vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. New York Mets">
-    <display-name lang="en">Arizona Diamondbacks vs. New York Mets</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Tampa Bay Rays">
-    <display-name lang="en">Kansas City Royals vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Cleveland Guardians">
-    <display-name lang="en">Minnesota Twins vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Knicks at Pistons">
-    <display-name lang="en">Knicks at Pistons</display-name>
-  </channel>
-  <channel id="Nuggets at Clippers">
-    <display-name lang="en">Nuggets at Clippers</display-name>
-  </channel>
-  <channel id="MFN Weekly">
-    <display-name lang="en">MFN Weekly</display-name>
-  </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="PDC: 2025 European Darts Grand Prix Day One">
-    <display-name lang="en">PDC: 2025 European Darts Grand Prix Day One</display-name>
-  </channel>
   <channel id="EPL: Nottingham Forest vs Brentford">
     <display-name lang="en">EPL: Nottingham Forest vs Brentford</display-name>
   </channel>
@@ -51,6 +21,48 @@
   <channel id="UECL: Real Betis vs Fiorentina">
     <display-name lang="en">UECL: Real Betis vs Fiorentina</display-name>
   </channel>
+  <channel id="Chicago Cubs vs. Pittsburgh Pirates">
+    <display-name lang="en">Chicago Cubs vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="St. Louis Cardinals vs. Cincinnati Reds">
+    <display-name lang="en">St. Louis Cardinals vs. Cincinnati Reds</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. New York Mets">
+    <display-name lang="en">Arizona Diamondbacks vs. New York Mets</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. Tampa Bay Rays">
+    <display-name lang="en">Kansas City Royals vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="Minnesota Twins vs. Cleveland Guardians">
+    <display-name lang="en">Minnesota Twins vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Chicago White Sox">
+    <display-name lang="en">Milwaukee Brewers vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="Athletics vs. Texas Rangers">
+    <display-name lang="en">Athletics vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Knicks at Pistons">
+    <display-name lang="en">Knicks at Pistons</display-name>
+  </channel>
+  <channel id="Nuggets at Clippers">
+    <display-name lang="en">Nuggets at Clippers</display-name>
+  </channel>
+  <channel id="Boxing: Garcia vs. Romero">
+    <display-name lang="en">Boxing: Garcia vs. Romero</display-name>
+  </channel>
+  <channel id="Boxing: Canelo vs. Scull">
+    <display-name lang="en">Boxing: Canelo vs. Scull</display-name>
+  </channel>
+  <channel id="MFN Weekly">
+    <display-name lang="en">MFN Weekly</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
+  </channel>
+  <channel id="PDC: 2025 European Darts Grand Prix Day One">
+    <display-name lang="en">PDC: 2025 European Darts Grand Prix Day One</display-name>
+  </channel>
   <channel id="Toronto Maple Leafs vs. Ottawa Senators">
     <display-name lang="en">Toronto Maple Leafs vs. Ottawa Senators</display-name>
   </channel>
@@ -62,12 +74,6 @@
   </channel>
   <channel id="Los Angeles Kings vs. Edmonton Oilers">
     <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Chicago White Sox">
-    <display-name lang="en">Milwaukee Brewers vs. Chicago White Sox</display-name>
-  </channel>
-  <channel id="Athletics vs. Texas Rangers">
-    <display-name lang="en">Athletics vs. Texas Rangers</display-name>
   </channel>
   <channel id="Washington Nationals vs. Philadelphia Phillies">
     <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
@@ -94,6 +100,54 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250501000000 -0500" channel="PDC: BetMGM Premier League - Night Thirteen" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="EPL: Nottingham Forest vs Brentford" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="UEFA: The Golazo Show" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="UEL: Athletic Bilbao vs Manchester United" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="UEL: Tottenham vs Bod&#248;/Glimt" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="UECL: Djurg&#229;rden vs Chelsea" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="UECL: Real Betis vs Fiorentina" stop="20250501235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -141,6 +195,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250501000000 -0500" channel="Milwaukee Brewers vs. Chicago White Sox" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250501000000 -0500" channel="Knicks at Pistons" stop="20250501235959 -0500">
     <title>06:30 PM 01/05/25 - Knicks at Pistons</title>
     <date>2025</date>
@@ -151,6 +221,22 @@
   </programme>
   <programme start="20250501000000 -0500" channel="Nuggets at Clippers" stop="20250501235959 -0500">
     <title>09:00 PM 01/05/25 - Nuggets at Clippers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="Boxing: Garcia vs. Romero" stop="20250501235959 -0500">
+    <title>04:00 PM 02/05/25 - Boxing: Garcia vs. Romero</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="Boxing: Canelo vs. Scull" stop="20250501235959 -0500">
+    <title>04:45 PM 03/05/25 - Boxing: Canelo vs. Scull</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -175,54 +261,6 @@
   </programme>
   <programme start="20250501000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day One" stop="20250501235959 -0500">
     <title>06:00 AM 02/05/25 - PDC: 2025 European Darts Grand Prix Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="EPL: Nottingham Forest vs Brentford" stop="20250501235959 -0500">
-    <title>01:30 PM 01/05/25 - EPL: Nottingham Forest vs Brentford</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="UEFA: The Golazo Show" stop="20250501235959 -0500">
-    <title>02:00 PM 01/05/25 - UEFA: The Golazo Show</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="UEL: Athletic Bilbao vs Manchester United" stop="20250501235959 -0500">
-    <title>02:00 PM 01/05/25 - UEL: Athletic Bilbao vs Manchester United</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="UEL: Tottenham vs Bod&#248;/Glimt" stop="20250501235959 -0500">
-    <title>02:00 PM 01/05/25 - UEL: Tottenham vs Bod&#248;/Glimt</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="UECL: Djurg&#229;rden vs Chelsea" stop="20250501235959 -0500">
-    <title>02:00 PM 01/05/25 - UECL: Djurg&#229;rden vs Chelsea</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="UECL: Real Betis vs Fiorentina" stop="20250501235959 -0500">
-    <title>02:00 PM 01/05/25 - UECL: Real Betis vs Fiorentina</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -255,22 +293,6 @@
   </programme>
   <programme start="20250501000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250501235959 -0500">
     <title>09:00 PM 01/05/25 - Los Angeles Kings vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="Milwaukee Brewers vs. Chicago White Sox" stop="20250501235959 -0500">
-    <title>01:10 PM 01/05/25 - Milwaukee Brewers vs. Chicago White Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250501235959 -0500">
-    <title>01:35 PM 01/05/25 - Athletics vs. Texas Rangers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
