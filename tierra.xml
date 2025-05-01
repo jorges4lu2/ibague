@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250501 -0500">
+  <channel id="Knicks at Pistons">
+    <display-name lang="en">Knicks at Pistons</display-name>
+  </channel>
+  <channel id="Nuggets at Clippers">
+    <display-name lang="en">Nuggets at Clippers</display-name>
+  </channel>
   <channel id="MFN Weekly">
     <display-name lang="en">MFN Weekly</display-name>
   </channel>
@@ -8,6 +14,9 @@
   </channel>
   <channel id="PDC: BetMGM Premier League - Night Thirteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Thirteen</display-name>
+  </channel>
+  <channel id="PDC: 2025 European Darts Grand Prix Day One">
+    <display-name lang="en">PDC: 2025 European Darts Grand Prix Day One</display-name>
   </channel>
   <channel id="UEL: Athletic Bilbao vs Manchester United">
     <display-name lang="en">UEL: Athletic Bilbao vs Manchester United</display-name>
@@ -78,6 +87,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250501000000 -0500" channel="Knicks at Pistons" stop="20250501235959 -0500">
+    <title>06:30 PM 01/05/25 - Knicks at Pistons</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="Nuggets at Clippers" stop="20250501235959 -0500">
+    <title>09:00 PM 01/05/25 - Nuggets at Clippers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250501000000 -0500" channel="MFN Weekly" stop="20250501235959 -0500">
     <title>07:00 PM 03/05/25 - MFN Weekly</title>
     <date>2025</date>
@@ -96,6 +121,14 @@
   </programme>
   <programme start="20250501000000 -0500" channel="PDC: BetMGM Premier League - Night Thirteen" stop="20250501235959 -0500">
     <title>01:00 PM 01/05/25 - PDC: BetMGM Premier League - Night Thirteen</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day One" stop="20250501235959 -0500">
+    <title>06:00 AM 02/05/25 - PDC: 2025 European Darts Grand Prix Day One</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
