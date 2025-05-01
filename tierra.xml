@@ -36,6 +36,9 @@
   <channel id="Milwaukee Brewers vs. Chicago White Sox">
     <display-name lang="en">Milwaukee Brewers vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Athletics vs. Texas Rangers">
+    <display-name lang="en">Athletics vs. Texas Rangers</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -53,9 +56,6 @@
   </channel>
   <channel id="St. Louis Blues vs. Winnipeg Jets">
     <display-name lang="en">St. Louis Blues vs. Winnipeg Jets</display-name>
-  </channel>
-  <channel id="Athletics vs. Texas Rangers">
-    <display-name lang="en">Athletics vs. Texas Rangers</display-name>
   </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
@@ -165,6 +165,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250430000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250430235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250430000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250430235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -207,14 +215,6 @@
   </programme>
   <programme start="20250430000000 -0500" channel="St. Louis Blues vs. Winnipeg Jets" stop="20250430235959 -0500">
     <title>08:30 PM 30/04/25 - St. Louis Blues vs. Winnipeg Jets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250430000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250430235959 -0500">
-    <title>07:05 PM 30/04/25 - Athletics vs. Texas Rangers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
