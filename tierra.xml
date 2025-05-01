@@ -3,8 +3,11 @@
   <channel id="PDC: BetMGM Premier League - Night Thirteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Thirteen</display-name>
   </channel>
-  <channel id="UEFA: The Golazo Show">
-    <display-name lang="en">UEFA: The Golazo Show</display-name>
+  <channel id="Toronto Maple Leafs vs. Ottawa Senators">
+    <display-name lang="en">Toronto Maple Leafs vs. Ottawa Senators</display-name>
+  </channel>
+  <channel id="Washington Nationals vs. Philadelphia Phillies">
+    <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Knicks at Pistons">
     <display-name lang="en">Knicks at Pistons</display-name>
@@ -27,9 +30,6 @@
   <channel id="PDC: 2025 European Darts Grand Prix Day One">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day One</display-name>
   </channel>
-  <channel id="Toronto Maple Leafs vs. Ottawa Senators">
-    <display-name lang="en">Toronto Maple Leafs vs. Ottawa Senators</display-name>
-  </channel>
   <channel id="Vegas Golden Knights vs. Minnesota Wild">
     <display-name lang="en">Vegas Golden Knights vs. Minnesota Wild</display-name>
   </channel>
@@ -38,9 +38,6 @@
   </channel>
   <channel id="Los Angeles Kings vs. Edmonton Oilers">
     <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Philadelphia Phillies">
-    <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Boston Red Sox vs. Toronto Blue Jays">
     <display-name lang="en">Boston Red Sox vs. Toronto Blue Jays</display-name>
@@ -71,7 +68,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250501000000 -0500" channel="UEFA: The Golazo Show" stop="20250501235959 -0500">
+  <programme start="20250501000000 -0500" channel="Toronto Maple Leafs vs. Ottawa Senators" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="Washington Nationals vs. Philadelphia Phillies" stop="20250501235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -135,14 +140,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250501000000 -0500" channel="Toronto Maple Leafs vs. Ottawa Senators" stop="20250501235959 -0500">
-    <title>06:00 PM 01/05/25 - Toronto Maple Leafs vs. Ottawa Senators</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250501000000 -0500" channel="Vegas Golden Knights vs. Minnesota Wild" stop="20250501235959 -0500">
     <title>06:30 PM 01/05/25 - Vegas Golden Knights vs. Minnesota Wild</title>
     <date>2025</date>
@@ -161,14 +158,6 @@
   </programme>
   <programme start="20250501000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250501235959 -0500">
     <title>09:00 PM 01/05/25 - Los Angeles Kings vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="Washington Nationals vs. Philadelphia Phillies" stop="20250501235959 -0500">
-    <title>05:45 PM 01/05/25 - Washington Nationals vs. Philadelphia Phillies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
