@@ -1,10 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250501 -0500">
+  <channel id="PDC: BetMGM Premier League - Night Thirteen">
+    <display-name lang="en">PDC: BetMGM Premier League - Night Thirteen</display-name>
+  </channel>
   <channel id="Chicago Cubs vs. Pittsburgh Pirates">
     <display-name lang="en">Chicago Cubs vs. Pittsburgh Pirates</display-name>
   </channel>
   <channel id="St. Louis Cardinals vs. Cincinnati Reds">
     <display-name lang="en">St. Louis Cardinals vs. Cincinnati Reds</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. New York Mets">
+    <display-name lang="en">Arizona Diamondbacks vs. New York Mets</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. Tampa Bay Rays">
+    <display-name lang="en">Kansas City Royals vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="Minnesota Twins vs. Cleveland Guardians">
+    <display-name lang="en">Minnesota Twins vs. Cleveland Guardians</display-name>
   </channel>
   <channel id="Knicks at Pistons">
     <display-name lang="en">Knicks at Pistons</display-name>
@@ -18,11 +30,14 @@
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
-  <channel id="PDC: BetMGM Premier League - Night Thirteen">
-    <display-name lang="en">PDC: BetMGM Premier League - Night Thirteen</display-name>
-  </channel>
   <channel id="PDC: 2025 European Darts Grand Prix Day One">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day One</display-name>
+  </channel>
+  <channel id="EPL: Nottingham Forest vs Brentford">
+    <display-name lang="en">EPL: Nottingham Forest vs Brentford</display-name>
+  </channel>
+  <channel id="UEFA: The Golazo Show">
+    <display-name lang="en">UEFA: The Golazo Show</display-name>
   </channel>
   <channel id="UEL: Athletic Bilbao vs Manchester United">
     <display-name lang="en">UEL: Athletic Bilbao vs Manchester United</display-name>
@@ -47,15 +62,6 @@
   </channel>
   <channel id="Los Angeles Kings vs. Edmonton Oilers">
     <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. New York Mets">
-    <display-name lang="en">Arizona Diamondbacks vs. New York Mets</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Tampa Bay Rays">
-    <display-name lang="en">Kansas City Royals vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Cleveland Guardians">
-    <display-name lang="en">Minnesota Twins vs. Cleveland Guardians</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Chicago White Sox">
     <display-name lang="en">Milwaukee Brewers vs. Chicago White Sox</display-name>
@@ -87,6 +93,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250501000000 -0500" channel="PDC: BetMGM Premier League - Night Thirteen" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250501000000 -0500" channel="Chicago Cubs vs. Pittsburgh Pirates" stop="20250501235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -96,6 +110,30 @@
     </audio>
   </programme>
   <programme start="20250501000000 -0500" channel="St. Louis Cardinals vs. Cincinnati Reds" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="Arizona Diamondbacks vs. New York Mets" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="Kansas City Royals vs. Tampa Bay Rays" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="Minnesota Twins vs. Cleveland Guardians" stop="20250501235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -135,16 +173,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250501000000 -0500" channel="PDC: BetMGM Premier League - Night Thirteen" stop="20250501235959 -0500">
-    <title>01:00 PM 01/05/25 - PDC: BetMGM Premier League - Night Thirteen</title>
+  <programme start="20250501000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day One" stop="20250501235959 -0500">
+    <title>06:00 AM 02/05/25 - PDC: 2025 European Darts Grand Prix Day One</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250501000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day One" stop="20250501235959 -0500">
-    <title>06:00 AM 02/05/25 - PDC: 2025 European Darts Grand Prix Day One</title>
+  <programme start="20250501000000 -0500" channel="EPL: Nottingham Forest vs Brentford" stop="20250501235959 -0500">
+    <title>01:30 PM 01/05/25 - EPL: Nottingham Forest vs Brentford</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250501000000 -0500" channel="UEFA: The Golazo Show" stop="20250501235959 -0500">
+    <title>02:00 PM 01/05/25 - UEFA: The Golazo Show</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -209,30 +255,6 @@
   </programme>
   <programme start="20250501000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250501235959 -0500">
     <title>09:00 PM 01/05/25 - Los Angeles Kings vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="Arizona Diamondbacks vs. New York Mets" stop="20250501235959 -0500">
-    <title>12:10 PM 01/05/25 - Arizona Diamondbacks vs. New York Mets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="Kansas City Royals vs. Tampa Bay Rays" stop="20250501235959 -0500">
-    <title>12:10 PM 01/05/25 - Kansas City Royals vs. Tampa Bay Rays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="Minnesota Twins vs. Cleveland Guardians" stop="20250501235959 -0500">
-    <title>12:10 PM 01/05/25 - Minnesota Twins vs. Cleveland Guardians</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
