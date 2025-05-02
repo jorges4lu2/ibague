@@ -18,6 +18,9 @@
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
+  <channel id="PDC: Asian Tour 9 - Kuala Lumpur - Day One">
+    <display-name lang="en">PDC: Asian Tour 9 - Kuala Lumpur - Day One</display-name>
+  </channel>
   <channel id="PDC: 2025 European Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Two</display-name>
   </channel>
@@ -156,6 +159,14 @@
   </programme>
   <programme start="20250502000000 -0500" channel="LND Monthly" stop="20250502235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="PDC: Asian Tour 9 - Kuala Lumpur - Day One" stop="20250502235959 -0500">
+    <title>09:00 PM 02/05/25 - PDC: Asian Tour 9 - Kuala Lumpur - Day One</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
