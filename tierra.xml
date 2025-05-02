@@ -6,11 +6,14 @@
   <channel id="PDC: 2025 European Darts Grand Prix Day One">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day One</display-name>
   </channel>
-  <channel id="F1: Miami GP (Sprint Quali)">
-    <display-name lang="en">F1: Miami GP (Sprint Quali)</display-name>
+  <channel id="Washington Nationals vs. Cincinnati Reds">
+    <display-name lang="en">Washington Nationals vs. Cincinnati Reds</display-name>
   </channel>
-  <channel id="F1: Miami GP (Sprint Quali / F1TV)">
-    <display-name lang="en">F1: Miami GP (Sprint Quali / F1TV)</display-name>
+  <channel id="San Diego Padres vs. Pittsburgh Pirates">
+    <display-name lang="en">San Diego Padres vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. Philadelphia Phillies">
+    <display-name lang="en">Arizona Diamondbacks vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Rockets at Warriors">
     <display-name lang="en">Rockets at Warriors</display-name>
@@ -32,15 +35,6 @@
   </channel>
   <channel id="Winnipeg Jets vs. St. Louis Blues">
     <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Cincinnati Reds">
-    <display-name lang="en">Washington Nationals vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Pittsburgh Pirates">
-    <display-name lang="en">San Diego Padres vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Philadelphia Phillies">
-    <display-name lang="en">Arizona Diamondbacks vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Baltimore Orioles">
     <display-name lang="en">Kansas City Royals vs. Baltimore Orioles</display-name>
@@ -127,7 +121,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint Quali)" stop="20250502235959 -0500">
+  <programme start="20250502000000 -0500" channel="Washington Nationals vs. Cincinnati Reds" stop="20250502235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -135,7 +129,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint Quali / F1TV)" stop="20250502235959 -0500">
+  <programme start="20250502000000 -0500" channel="San Diego Padres vs. Pittsburgh Pirates" stop="20250502235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="Arizona Diamondbacks vs. Philadelphia Phillies" stop="20250502235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -193,30 +195,6 @@
   </programme>
   <programme start="20250502000000 -0500" channel="Winnipeg Jets vs. St. Louis Blues" stop="20250502235959 -0500">
     <title>07:00 PM 02/05/25 - Winnipeg Jets vs. St. Louis Blues</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="Washington Nationals vs. Cincinnati Reds" stop="20250502235959 -0500">
-    <title>05:10 PM 02/05/25 - Washington Nationals vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="San Diego Padres vs. Pittsburgh Pirates" stop="20250502235959 -0500">
-    <title>05:40 PM 02/05/25 - San Diego Padres vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="Arizona Diamondbacks vs. Philadelphia Phillies" stop="20250502235959 -0500">
-    <title>05:45 PM 02/05/25 - Arizona Diamondbacks vs. Philadelphia Phillies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
