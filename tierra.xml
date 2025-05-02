@@ -1,16 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250502 -0500">
+  <channel id="Boxing: Garcia vs. Romero">
+    <display-name lang="en">Boxing: Garcia vs. Romero</display-name>
+  </channel>
   <channel id="PDC: 2025 European Darts Grand Prix Day One">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day One</display-name>
   </channel>
   <channel id="EPL: Manchester City vs Wolverhampton Wanderers">
     <display-name lang="en">EPL: Manchester City vs Wolverhampton Wanderers</display-name>
   </channel>
+  <channel id="F1: Miami GP (Sprint Quali)">
+    <display-name lang="en">F1: Miami GP (Sprint Quali)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Sprint Quali / F1TV)">
+    <display-name lang="en">F1: Miami GP (Sprint Quali / F1TV)</display-name>
+  </channel>
   <channel id="Rockets at Warriors">
     <display-name lang="en">Rockets at Warriors</display-name>
-  </channel>
-  <channel id="Boxing: Garcia vs. Romero">
-    <display-name lang="en">Boxing: Garcia vs. Romero</display-name>
   </channel>
   <channel id="Boxing: Canelo vs. Scull">
     <display-name lang="en">Boxing: Canelo vs. Scull</display-name>
@@ -75,12 +81,6 @@
   <channel id="Colorado Rockies vs. San Francisco Giants">
     <display-name lang="en">Colorado Rockies vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="F1: Miami GP (Sprint Quali)">
-    <display-name lang="en">F1: Miami GP (Sprint Quali)</display-name>
-  </channel>
-  <channel id="F1: Miami GP (Sprint Quali / F1TV)">
-    <display-name lang="en">F1: Miami GP (Sprint Quali / F1TV)</display-name>
-  </channel>
   <channel id="F1: Miami GP (Sprint)">
     <display-name lang="en">F1: Miami GP (Sprint)</display-name>
   </channel>
@@ -99,6 +99,9 @@
   <channel id="F1: Miami GP (Race / F1TV)">
     <display-name lang="en">F1: Miami GP (Race / F1TV)</display-name>
   </channel>
+  <channel id="WWE: Friday Night SmackDown">
+    <display-name lang="en">WWE: Friday Night SmackDown</display-name>
+  </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
@@ -111,6 +114,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250502000000 -0500" channel="Boxing: Garcia vs. Romero" stop="20250502235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250502000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day One" stop="20250502235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -127,16 +138,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250502000000 -0500" channel="Rockets at Warriors" stop="20250502235959 -0500">
-    <title>08:00 PM 02/05/25 - Rockets at Warriors</title>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint Quali)" stop="20250502235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250502000000 -0500" channel="Boxing: Garcia vs. Romero" stop="20250502235959 -0500">
-    <title>04:00 PM 02/05/25 - Boxing: Garcia vs. Romero</title>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint Quali / F1TV)" stop="20250502235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="Rockets at Warriors" stop="20250502235959 -0500">
+    <title>08:00 PM 02/05/25 - Rockets at Warriors</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -311,22 +330,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint Quali)" stop="20250502235959 -0500">
-    <title>03:30 PM 02/05/25 - F1: Miami GP (Sprint Quali)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint Quali / F1TV)" stop="20250502235959 -0500">
-    <title>03:30 PM 02/05/25 - F1: Miami GP (Sprint Quali / F1TV)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint)" stop="20250502235959 -0500">
     <title>11:00 AM 03/05/25 - F1: Miami GP (Sprint)</title>
     <date>2025</date>
@@ -369,6 +372,14 @@
   </programme>
   <programme start="20250502000000 -0500" channel="F1: Miami GP (Race / F1TV)" stop="20250502235959 -0500">
     <title>03:00 PM 04/05/25 - F1: Miami GP (Race / F1TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250502235959 -0500">
+    <title>07:00 PM 02/05/25 - WWE: Friday Night SmackDown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
