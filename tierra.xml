@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250501 -0500">
-  <channel id="PDC: BetMGM Premier League - Night Thirteen">
-    <display-name lang="en">PDC: BetMGM Premier League - Night Thirteen</display-name>
+  <channel id="Knicks at Pistons">
+    <display-name lang="en">Knicks at Pistons</display-name>
   </channel>
   <channel id="Toronto Maple Leafs vs. Ottawa Senators">
     <display-name lang="en">Toronto Maple Leafs vs. Ottawa Senators</display-name>
   </channel>
+  <channel id="Vegas Golden Knights vs. Minnesota Wild">
+    <display-name lang="en">Vegas Golden Knights vs. Minnesota Wild</display-name>
+  </channel>
   <channel id="Washington Nationals vs. Philadelphia Phillies">
     <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
   </channel>
-  <channel id="Knicks at Pistons">
-    <display-name lang="en">Knicks at Pistons</display-name>
+  <channel id="Boston Red Sox vs. Toronto Blue Jays">
+    <display-name lang="en">Boston Red Sox vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Nuggets at Clippers">
     <display-name lang="en">Nuggets at Clippers</display-name>
@@ -30,17 +33,11 @@
   <channel id="PDC: 2025 European Darts Grand Prix Day One">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day One</display-name>
   </channel>
-  <channel id="Vegas Golden Knights vs. Minnesota Wild">
-    <display-name lang="en">Vegas Golden Knights vs. Minnesota Wild</display-name>
-  </channel>
   <channel id="Dallas Stars vs. Colorado Avalanche">
     <display-name lang="en">Dallas Stars vs. Colorado Avalanche</display-name>
   </channel>
   <channel id="Los Angeles Kings vs. Edmonton Oilers">
     <display-name lang="en">Los Angeles Kings vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Toronto Blue Jays">
-    <display-name lang="en">Boston Red Sox vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Los Angeles Angels">
     <display-name lang="en">Detroit Tigers vs. Los Angeles Angels</display-name>
@@ -60,7 +57,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250501000000 -0500" channel="PDC: BetMGM Premier League - Night Thirteen" stop="20250501235959 -0500">
+  <programme start="20250501000000 -0500" channel="Knicks at Pistons" stop="20250501235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -76,6 +73,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250501000000 -0500" channel="Vegas Golden Knights vs. Minnesota Wild" stop="20250501235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250501000000 -0500" channel="Washington Nationals vs. Philadelphia Phillies" stop="20250501235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -84,8 +89,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250501000000 -0500" channel="Knicks at Pistons" stop="20250501235959 -0500">
-    <title>06:30 PM 01/05/25 - Knicks at Pistons</title>
+  <programme start="20250501000000 -0500" channel="Boston Red Sox vs. Toronto Blue Jays" stop="20250501235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -140,14 +145,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250501000000 -0500" channel="Vegas Golden Knights vs. Minnesota Wild" stop="20250501235959 -0500">
-    <title>06:30 PM 01/05/25 - Vegas Golden Knights vs. Minnesota Wild</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250501000000 -0500" channel="Dallas Stars vs. Colorado Avalanche" stop="20250501235959 -0500">
     <title>08:30 PM 01/05/25 - Dallas Stars vs. Colorado Avalanche</title>
     <date>2025</date>
@@ -158,14 +155,6 @@
   </programme>
   <programme start="20250501000000 -0500" channel="Los Angeles Kings vs. Edmonton Oilers" stop="20250501235959 -0500">
     <title>09:00 PM 01/05/25 - Los Angeles Kings vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250501000000 -0500" channel="Boston Red Sox vs. Toronto Blue Jays" stop="20250501235959 -0500">
-    <title>06:07 PM 01/05/25 - Boston Red Sox vs. Toronto Blue Jays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
