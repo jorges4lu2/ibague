@@ -18,6 +18,9 @@
   <channel id="PDC: 2025 European Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Two</display-name>
   </channel>
+  <channel id="EPL: Manchester City vs Wolverhampton Wanderers">
+    <display-name lang="en">EPL: Manchester City vs Wolverhampton Wanderers</display-name>
+  </channel>
   <channel id="Winnipeg Jets vs. St. Louis Blues">
     <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
   </channel>
@@ -65,6 +68,36 @@
   </channel>
   <channel id="Colorado Rockies vs. San Francisco Giants">
     <display-name lang="en">Colorado Rockies vs. San Francisco Giants</display-name>
+  </channel>
+  <channel id="F1: Miami GP (FP1)">
+    <display-name lang="en">F1: Miami GP (FP1)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (FP1 / F1TV)">
+    <display-name lang="en">F1: Miami GP (FP1 / F1TV)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Sprint Quali)">
+    <display-name lang="en">F1: Miami GP (Sprint Quali)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Sprint Quali / F1TV)">
+    <display-name lang="en">F1: Miami GP (Sprint Quali / F1TV)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Sprint)">
+    <display-name lang="en">F1: Miami GP (Sprint)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Sprint / F1TV)">
+    <display-name lang="en">F1: Miami GP (Sprint / F1TV)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Quali)">
+    <display-name lang="en">F1: Miami GP (Quali)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Quali / F1TV)">
+    <display-name lang="en">F1: Miami GP (Quali / F1TV)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Race)">
+    <display-name lang="en">F1: Miami GP (Race)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Race / F1TV)">
+    <display-name lang="en">F1: Miami GP (Race / F1TV)</display-name>
   </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
@@ -120,6 +153,14 @@
   </programme>
   <programme start="20250502000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Two" stop="20250502235959 -0500">
     <title>06:00 AM 03/05/25 - PDC: 2025 European Darts Grand Prix Day Two</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="EPL: Manchester City vs Wolverhampton Wanderers" stop="20250502235959 -0500">
+    <title>02:00 PM 02/05/25 - EPL: Manchester City vs Wolverhampton Wanderers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -248,6 +289,86 @@
   </programme>
   <programme start="20250502000000 -0500" channel="Colorado Rockies vs. San Francisco Giants" stop="20250502235959 -0500">
     <title>09:15 PM 02/05/25 - Colorado Rockies vs. San Francisco Giants</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (FP1)" stop="20250502235959 -0500">
+    <title>11:30 AM 02/05/25 - F1: Miami GP (FP1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (FP1 / F1TV)" stop="20250502235959 -0500">
+    <title>11:30 AM 02/05/25 - F1: Miami GP (FP1 / F1TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint Quali)" stop="20250502235959 -0500">
+    <title>03:30 PM 02/05/25 - F1: Miami GP (Sprint Quali)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint Quali / F1TV)" stop="20250502235959 -0500">
+    <title>03:30 PM 02/05/25 - F1: Miami GP (Sprint Quali / F1TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint)" stop="20250502235959 -0500">
+    <title>11:00 AM 03/05/25 - F1: Miami GP (Sprint)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (Sprint / F1TV)" stop="20250502235959 -0500">
+    <title>11:00 AM 03/05/25 - F1: Miami GP (Sprint / F1TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (Quali)" stop="20250502235959 -0500">
+    <title>03:00 PM 03/05/25 - F1: Miami GP (Quali)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (Quali / F1TV)" stop="20250502235959 -0500">
+    <title>03:00 PM 03/05/25 - F1: Miami GP (Quali / F1TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (Race)" stop="20250502235959 -0500">
+    <title>03:00 PM 04/05/25 - F1: Miami GP (Race)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (Race / F1TV)" stop="20250502235959 -0500">
+    <title>03:00 PM 04/05/25 - F1: Miami GP (Race / F1TV)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
