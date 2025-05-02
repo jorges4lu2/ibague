@@ -15,6 +15,9 @@
   <channel id="PDC: 2025 European Darts Grand Prix Day One">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day One</display-name>
   </channel>
+  <channel id="PDC: 2025 European Darts Grand Prix Day Two">
+    <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Two</display-name>
+  </channel>
   <channel id="Winnipeg Jets vs. St. Louis Blues">
     <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
   </channel>
@@ -109,6 +112,14 @@
   </programme>
   <programme start="20250502000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day One" stop="20250502235959 -0500">
     <title>06:00 AM 02/05/25 - PDC: 2025 European Darts Grand Prix Day One</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Two" stop="20250502235959 -0500">
+    <title>06:00 AM 03/05/25 - PDC: 2025 European Darts Grand Prix Day Two</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
