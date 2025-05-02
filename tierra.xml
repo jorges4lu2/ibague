@@ -3,6 +3,12 @@
   <channel id="PDC: 2025 European Darts Grand Prix Day One">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day One</display-name>
   </channel>
+  <channel id="F1: Miami GP (FP1)">
+    <display-name lang="en">F1: Miami GP (FP1)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (FP1 / F1TV)">
+    <display-name lang="en">F1: Miami GP (FP1 / F1TV)</display-name>
+  </channel>
   <channel id="Rockets at Warriors">
     <display-name lang="en">Rockets at Warriors</display-name>
   </channel>
@@ -75,12 +81,6 @@
   <channel id="Colorado Rockies vs. San Francisco Giants">
     <display-name lang="en">Colorado Rockies vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="F1: Miami GP (FP1)">
-    <display-name lang="en">F1: Miami GP (FP1)</display-name>
-  </channel>
-  <channel id="F1: Miami GP (FP1 / F1TV)">
-    <display-name lang="en">F1: Miami GP (FP1 / F1TV)</display-name>
-  </channel>
   <channel id="F1: Miami GP (Sprint Quali)">
     <display-name lang="en">F1: Miami GP (Sprint Quali)</display-name>
   </channel>
@@ -118,6 +118,22 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250502000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day One" stop="20250502235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (FP1)" stop="20250502235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="F1: Miami GP (FP1 / F1TV)" stop="20250502235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -311,22 +327,6 @@
   </programme>
   <programme start="20250502000000 -0500" channel="Colorado Rockies vs. San Francisco Giants" stop="20250502235959 -0500">
     <title>09:15 PM 02/05/25 - Colorado Rockies vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="F1: Miami GP (FP1)" stop="20250502235959 -0500">
-    <title>11:30 AM 02/05/25 - F1: Miami GP (FP1)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="F1: Miami GP (FP1 / F1TV)" stop="20250502235959 -0500">
-    <title>11:30 AM 02/05/25 - F1: Miami GP (FP1 / F1TV)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
