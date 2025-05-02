@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250502 -0500">
+  <channel id="Rockets at Warriors">
+    <display-name lang="en">Rockets at Warriors</display-name>
+  </channel>
   <channel id="Boxing: Garcia vs. Romero">
     <display-name lang="en">Boxing: Garcia vs. Romero</display-name>
   </channel>
@@ -111,6 +114,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250502000000 -0500" channel="Rockets at Warriors" stop="20250502235959 -0500">
+    <title>08:00 PM 02/05/25 - Rockets at Warriors</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250502000000 -0500" channel="Boxing: Garcia vs. Romero" stop="20250502235959 -0500">
     <title>04:00 PM 02/05/25 - Boxing: Garcia vs. Romero</title>
     <date>2025</date>
