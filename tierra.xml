@@ -6,17 +6,11 @@
   <channel id="Boxing: Garcia vs. Romero">
     <display-name lang="en">Boxing: Garcia vs. Romero</display-name>
   </channel>
+  <channel id="PDC: Asian Tour 9 - Kuala Lumpur - Day One">
+    <display-name lang="en">PDC: Asian Tour 9 - Kuala Lumpur - Day One</display-name>
+  </channel>
   <channel id="Winnipeg Jets vs. St. Louis Blues">
     <display-name lang="en">Winnipeg Jets vs. St. Louis Blues</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Cincinnati Reds">
-    <display-name lang="en">Washington Nationals vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Pittsburgh Pirates">
-    <display-name lang="en">San Diego Padres vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Philadelphia Phillies">
-    <display-name lang="en">Arizona Diamondbacks vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Baltimore Orioles">
     <display-name lang="en">Kansas City Royals vs. Baltimore Orioles</display-name>
@@ -48,6 +42,9 @@
   <channel id="New York Mets vs. St. Louis Cardinals">
     <display-name lang="en">New York Mets vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Detroit Tigers vs. Los Angeles Angels">
+    <display-name lang="en">Detroit Tigers vs. Los Angeles Angels</display-name>
+  </channel>
   <channel id="WWE: Friday Night SmackDown">
     <display-name lang="en">WWE: Friday Night SmackDown</display-name>
   </channel>
@@ -60,14 +57,8 @@
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
-  <channel id="PDC: Asian Tour 9 - Kuala Lumpur - Day One">
-    <display-name lang="en">PDC: Asian Tour 9 - Kuala Lumpur - Day One</display-name>
-  </channel>
   <channel id="PDC: 2025 European Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Two</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Los Angeles Angels">
-    <display-name lang="en">Detroit Tigers vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="Colorado Rockies vs. San Francisco Giants">
     <display-name lang="en">Colorado Rockies vs. San Francisco Giants</display-name>
@@ -118,31 +109,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250502000000 -0500" channel="PDC: Asian Tour 9 - Kuala Lumpur - Day One" stop="20250502235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250502000000 -0500" channel="Winnipeg Jets vs. St. Louis Blues" stop="20250502235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="Washington Nationals vs. Cincinnati Reds" stop="20250502235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="San Diego Padres vs. Pittsburgh Pirates" stop="20250502235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="Arizona Diamondbacks vs. Philadelphia Phillies" stop="20250502235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -230,6 +205,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250502000000 -0500" channel="Detroit Tigers vs. Los Angeles Angels" stop="20250502235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250502000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250502235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -262,24 +245,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250502000000 -0500" channel="PDC: Asian Tour 9 - Kuala Lumpur - Day One" stop="20250502235959 -0500">
-    <title>09:00 PM 02/05/25 - PDC: Asian Tour 9 - Kuala Lumpur - Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250502000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Two" stop="20250502235959 -0500">
     <title>06:00 AM 03/05/25 - PDC: 2025 European Darts Grand Prix Day Two</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="Detroit Tigers vs. Los Angeles Angels" stop="20250502235959 -0500">
-    <title>08:38 PM 02/05/25 - Detroit Tigers vs. Los Angeles Angels</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
