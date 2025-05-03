@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250503 -0500">
-  <channel id="PDC: Asian Tour 9 - Kuala Lumpur - Day One">
-    <display-name lang="en">PDC: Asian Tour 9 - Kuala Lumpur - Day One</display-name>
-  </channel>
   <channel id="PDC: 2025 European Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Two</display-name>
   </channel>
@@ -50,6 +47,9 @@
   </channel>
   <channel id="EFL L1: Wycombe vs Stockport">
     <display-name lang="en">EFL L1: Wycombe vs Stockport</display-name>
+  </channel>
+  <channel id="Clippers at Nuggets">
+    <display-name lang="en">Clippers at Nuggets</display-name>
   </channel>
   <channel id="Boxing: Canelo vs. Scull">
     <display-name lang="en">Boxing: Canelo vs. Scull</display-name>
@@ -153,14 +153,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250503000000 -0500" channel="PDC: Asian Tour 9 - Kuala Lumpur - Day One" stop="20250503235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250503000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Two" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -283,6 +275,14 @@
   </programme>
   <programme start="20250503000000 -0500" channel="EFL L1: Wycombe vs Stockport" stop="20250503235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250503000000 -0500" channel="Clippers at Nuggets" stop="20250503235959 -0500">
+    <title>06:30 PM 03/05/25 - Clippers at Nuggets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
