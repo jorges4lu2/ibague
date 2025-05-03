@@ -48,6 +48,12 @@
   <channel id="EFL L1: Wycombe vs Stockport">
     <display-name lang="en">EFL L1: Wycombe vs Stockport</display-name>
   </channel>
+  <channel id="F1: Miami GP (Sprint)">
+    <display-name lang="en">F1: Miami GP (Sprint)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Sprint / F1TV)">
+    <display-name lang="en">F1: Miami GP (Sprint / F1TV)</display-name>
+  </channel>
   <channel id="Clippers at Nuggets">
     <display-name lang="en">Clippers at Nuggets</display-name>
   </channel>
@@ -122,12 +128,6 @@
   </channel>
   <channel id="Detroit Tigers vs. Los Angeles Angels">
     <display-name lang="en">Detroit Tigers vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="F1: Miami GP (Sprint)">
-    <display-name lang="en">F1: Miami GP (Sprint)</display-name>
-  </channel>
-  <channel id="F1: Miami GP (Sprint / F1TV)">
-    <display-name lang="en">F1: Miami GP (Sprint / F1TV)</display-name>
   </channel>
   <channel id="F1: Miami GP (Quali)">
     <display-name lang="en">F1: Miami GP (Quali)</display-name>
@@ -274,6 +274,22 @@
     </audio>
   </programme>
   <programme start="20250503000000 -0500" channel="EFL L1: Wycombe vs Stockport" stop="20250503235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250503000000 -0500" channel="F1: Miami GP (Sprint)" stop="20250503235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250503000000 -0500" channel="F1: Miami GP (Sprint / F1TV)" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -475,22 +491,6 @@
   </programme>
   <programme start="20250503000000 -0500" channel="Detroit Tigers vs. Los Angeles Angels" stop="20250503235959 -0500">
     <title>08:38 PM 03/05/25 - Detroit Tigers vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="F1: Miami GP (Sprint)" stop="20250503235959 -0500">
-    <title>11:00 AM 03/05/25 - F1: Miami GP (Sprint)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="F1: Miami GP (Sprint / F1TV)" stop="20250503235959 -0500">
-    <title>11:00 AM 03/05/25 - F1: Miami GP (Sprint / F1TV)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
