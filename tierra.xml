@@ -6,11 +6,11 @@
   <channel id="EPL: Arsenal vs Bournemouth">
     <display-name lang="en">EPL: Arsenal vs Bournemouth</display-name>
   </channel>
-  <channel id="F1: Miami GP (Sprint)">
-    <display-name lang="en">F1: Miami GP (Sprint)</display-name>
+  <channel id="Tampa Bay Rays vs. New York Yankees">
+    <display-name lang="en">Tampa Bay Rays vs. New York Yankees</display-name>
   </channel>
-  <channel id="F1: Miami GP (Sprint / F1TV)">
-    <display-name lang="en">F1: Miami GP (Sprint / F1TV)</display-name>
+  <channel id="AMA Supercross: Denver (Qualifying)">
+    <display-name lang="en">AMA Supercross: Denver (Qualifying)</display-name>
   </channel>
   <channel id="Clippers at Nuggets">
     <display-name lang="en">Clippers at Nuggets</display-name>
@@ -38,9 +38,6 @@
   </channel>
   <channel id="Colorado Avalanche vs. Dallas Stars">
     <display-name lang="en">Colorado Avalanche vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. New York Yankees">
-    <display-name lang="en">Tampa Bay Rays vs. New York Yankees</display-name>
   </channel>
   <channel id="Houston Astros vs. Chicago White Sox">
     <display-name lang="en">Houston Astros vs. Chicago White Sox</display-name>
@@ -90,6 +87,9 @@
   <channel id="F1: Miami GP (Quali / F1TV)">
     <display-name lang="en">F1: Miami GP (Quali / F1TV)</display-name>
   </channel>
+  <channel id="AMA Supercross: Denver">
+    <display-name lang="en">AMA Supercross: Denver</display-name>
+  </channel>
   <channel id="F1: Miami GP (Race)">
     <display-name lang="en">F1: Miami GP (Race)</display-name>
   </channel>
@@ -124,7 +124,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250503000000 -0500" channel="F1: Miami GP (Sprint)" stop="20250503235959 -0500">
+  <programme start="20250503000000 -0500" channel="Tampa Bay Rays vs. New York Yankees" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -132,7 +132,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250503000000 -0500" channel="F1: Miami GP (Sprint / F1TV)" stop="20250503235959 -0500">
+  <programme start="20250503000000 -0500" channel="AMA Supercross: Denver (Qualifying)" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -206,14 +206,6 @@
   </programme>
   <programme start="20250503000000 -0500" channel="Colorado Avalanche vs. Dallas Stars" stop="20250503235959 -0500">
     <title>07:00 PM 03/05/25 - Colorado Avalanche vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="Tampa Bay Rays vs. New York Yankees" stop="20250503235959 -0500">
-    <title>12:05 PM 03/05/25 - Tampa Bay Rays vs. New York Yankees</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -342,6 +334,14 @@
   </programme>
   <programme start="20250503000000 -0500" channel="F1: Miami GP (Quali / F1TV)" stop="20250503235959 -0500">
     <title>03:00 PM 03/05/25 - F1: Miami GP (Quali / F1TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250503000000 -0500" channel="AMA Supercross: Denver" stop="20250503235959 -0500">
+    <title>06:00 PM 03/05/25 - AMA Supercross: Denver</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
