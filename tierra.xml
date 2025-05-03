@@ -63,6 +63,9 @@
   <channel id="PDC: World Cup Asia Qualifying (Malaysia) 2025">
     <display-name lang="en">PDC: World Cup Asia Qualifying (Malaysia) 2025</display-name>
   </channel>
+  <channel id="RB Leipzig vs Bayern">
+    <display-name lang="en">RB Leipzig vs Bayern</display-name>
+  </channel>
   <channel id="EPL: Everton vs Ipswich Town">
     <display-name lang="en">EPL: Everton vs Ipswich Town</display-name>
   </channel>
@@ -351,6 +354,14 @@
   </programme>
   <programme start="20250503000000 -0500" channel="PDC: World Cup Asia Qualifying (Malaysia) 2025" stop="20250503235959 -0500">
     <title>07:00 AM 04/05/25 - PDC: World Cup Asia Qualifying (Malaysia) 2025</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250503000000 -0500" channel="RB Leipzig vs Bayern" stop="20250503235959 -0500">
+    <title>08:30 AM 03/05/25 - RB Leipzig vs Bayern</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
