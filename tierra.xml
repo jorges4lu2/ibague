@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250502 -0500">
+  <channel id="Rockets at Warriors">
+    <display-name lang="en">Rockets at Warriors</display-name>
+  </channel>
   <channel id="Boxing: Garcia vs. Romero">
     <display-name lang="en">Boxing: Garcia vs. Romero</display-name>
   </channel>
@@ -36,11 +39,17 @@
   <channel id="Houston Astros vs. Chicago White Sox">
     <display-name lang="en">Houston Astros vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Seattle Mariners vs. Texas Rangers">
+    <display-name lang="en">Seattle Mariners vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Chicago Cubs vs. Milwaukee Brewers">
+    <display-name lang="en">Chicago Cubs vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="New York Mets vs. St. Louis Cardinals">
+    <display-name lang="en">New York Mets vs. St. Louis Cardinals</display-name>
+  </channel>
   <channel id="WWE: Friday Night SmackDown">
     <display-name lang="en">WWE: Friday Night SmackDown</display-name>
-  </channel>
-  <channel id="Rockets at Warriors">
-    <display-name lang="en">Rockets at Warriors</display-name>
   </channel>
   <channel id="Boxing: Canelo vs. Scull">
     <display-name lang="en">Boxing: Canelo vs. Scull</display-name>
@@ -56,15 +65,6 @@
   </channel>
   <channel id="PDC: 2025 European Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Two</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Texas Rangers">
-    <display-name lang="en">Seattle Mariners vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Milwaukee Brewers">
-    <display-name lang="en">Chicago Cubs vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="New York Mets vs. St. Louis Cardinals">
-    <display-name lang="en">New York Mets vs. St. Louis Cardinals</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Los Angeles Angels">
     <display-name lang="en">Detroit Tigers vs. Los Angeles Angels</display-name>
@@ -102,6 +102,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250502000000 -0500" channel="Rockets at Warriors" stop="20250502235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250502000000 -0500" channel="Boxing: Garcia vs. Romero" stop="20250502235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -198,7 +206,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250502000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250502235959 -0500">
+  <programme start="20250502000000 -0500" channel="Seattle Mariners vs. Texas Rangers" stop="20250502235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -206,8 +214,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250502000000 -0500" channel="Rockets at Warriors" stop="20250502235959 -0500">
-    <title>08:00 PM 02/05/25 - Rockets at Warriors</title>
+  <programme start="20250502000000 -0500" channel="Chicago Cubs vs. Milwaukee Brewers" stop="20250502235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="New York Mets vs. St. Louis Cardinals" stop="20250502235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250502235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -248,30 +272,6 @@
   </programme>
   <programme start="20250502000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Two" stop="20250502235959 -0500">
     <title>06:00 AM 03/05/25 - PDC: 2025 European Darts Grand Prix Day Two</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="Seattle Mariners vs. Texas Rangers" stop="20250502235959 -0500">
-    <title>07:05 PM 02/05/25 - Seattle Mariners vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="Chicago Cubs vs. Milwaukee Brewers" stop="20250502235959 -0500">
-    <title>07:10 PM 02/05/25 - Chicago Cubs vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="New York Mets vs. St. Louis Cardinals" stop="20250502235959 -0500">
-    <title>07:15 PM 02/05/25 - New York Mets vs. St. Louis Cardinals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
