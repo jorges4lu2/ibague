@@ -3,11 +3,11 @@
   <channel id="Boxing: Canelo vs. Scull">
     <display-name lang="en">Boxing: Canelo vs. Scull</display-name>
   </channel>
+  <channel id="UFC Fight Night: Sandhagen vs. Figueiredo">
+    <display-name lang="en">UFC Fight Night: Sandhagen vs. Figueiredo</display-name>
+  </channel>
   <channel id="PDC: 2025 European Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Two</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Toronto Blue Jays">
-    <display-name lang="en">Cleveland Guardians vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="San Diego Padres vs. Pittsburgh Pirates">
     <display-name lang="en">San Diego Padres vs. Pittsburgh Pirates</display-name>
@@ -20,6 +20,15 @@
   </channel>
   <channel id="Athletics vs. Miami Marlins">
     <display-name lang="en">Athletics vs. Miami Marlins</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. Philadelphia Phillies">
+    <display-name lang="en">Arizona Diamondbacks vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Washington Nationals vs. Cincinnati Reds">
+    <display-name lang="en">Washington Nationals vs. Cincinnati Reds</display-name>
+  </channel>
+  <channel id="AMA Supercross: Denver">
+    <display-name lang="en">AMA Supercross: Denver</display-name>
   </channel>
   <channel id="Clippers at Nuggets">
     <display-name lang="en">Clippers at Nuggets</display-name>
@@ -66,12 +75,6 @@
   <channel id="Colorado Avalanche vs. Dallas Stars">
     <display-name lang="en">Colorado Avalanche vs. Dallas Stars</display-name>
   </channel>
-  <channel id="Arizona Diamondbacks vs. Philadelphia Phillies">
-    <display-name lang="en">Arizona Diamondbacks vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Cincinnati Reds">
-    <display-name lang="en">Washington Nationals vs. Cincinnati Reds</display-name>
-  </channel>
   <channel id="Seattle Mariners vs. Texas Rangers">
     <display-name lang="en">Seattle Mariners vs. Texas Rangers</display-name>
   </channel>
@@ -86,9 +89,6 @@
   </channel>
   <channel id="Detroit Tigers vs. Los Angeles Angels">
     <display-name lang="en">Detroit Tigers vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="AMA Supercross: Denver">
-    <display-name lang="en">AMA Supercross: Denver</display-name>
   </channel>
   <channel id="F1: Miami GP (Race)">
     <display-name lang="en">F1: Miami GP (Race)</display-name>
@@ -116,7 +116,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250503000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Two" stop="20250503235959 -0500">
+  <programme start="20250503000000 -0500" channel="UFC Fight Night: Sandhagen vs. Figueiredo" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -124,7 +124,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250503000000 -0500" channel="Cleveland Guardians vs. Toronto Blue Jays" stop="20250503235959 -0500">
+  <programme start="20250503000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Two" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -157,6 +157,30 @@
     </audio>
   </programme>
   <programme start="20250503000000 -0500" channel="Athletics vs. Miami Marlins" stop="20250503235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250503000000 -0500" channel="Arizona Diamondbacks vs. Philadelphia Phillies" stop="20250503235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250503000000 -0500" channel="Washington Nationals vs. Cincinnati Reds" stop="20250503235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250503000000 -0500" channel="AMA Supercross: Denver" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -284,22 +308,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250503000000 -0500" channel="Arizona Diamondbacks vs. Philadelphia Phillies" stop="20250503235959 -0500">
-    <title>05:05 PM 03/05/25 - Arizona Diamondbacks vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="Washington Nationals vs. Cincinnati Reds" stop="20250503235959 -0500">
-    <title>05:40 PM 03/05/25 - Washington Nationals vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250503000000 -0500" channel="Seattle Mariners vs. Texas Rangers" stop="20250503235959 -0500">
     <title>06:05 PM 03/05/25 - Seattle Mariners vs. Texas Rangers</title>
     <date>2025</date>
@@ -334,14 +342,6 @@
   </programme>
   <programme start="20250503000000 -0500" channel="Detroit Tigers vs. Los Angeles Angels" stop="20250503235959 -0500">
     <title>08:38 PM 03/05/25 - Detroit Tigers vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="AMA Supercross: Denver" stop="20250503235959 -0500">
-    <title>06:00 PM 03/05/25 - AMA Supercross: Denver</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
