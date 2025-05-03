@@ -1,19 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250502 -0500">
-  <channel id="Rockets at Warriors">
-    <display-name lang="en">Rockets at Warriors</display-name>
-  </channel>
   <channel id="PDC: Asian Tour 9 - Kuala Lumpur - Day One">
     <display-name lang="en">PDC: Asian Tour 9 - Kuala Lumpur - Day One</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Texas Rangers">
-    <display-name lang="en">Seattle Mariners vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Milwaukee Brewers">
-    <display-name lang="en">Chicago Cubs vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="New York Mets vs. St. Louis Cardinals">
-    <display-name lang="en">New York Mets vs. St. Louis Cardinals</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Los Angeles Angels">
     <display-name lang="en">Detroit Tigers vs. Los Angeles Angels</display-name>
@@ -32,6 +20,9 @@
   </channel>
   <channel id="PDC: 2025 European Darts Grand Prix Day Two">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Two</display-name>
+  </channel>
+  <channel id="PDC: Asian Tour 10 - Kuala Lumpur - Day Two">
+    <display-name lang="en">PDC: Asian Tour 10 - Kuala Lumpur - Day Two</display-name>
   </channel>
   <channel id="Colorado Avalanche vs. Dallas Stars">
     <display-name lang="en">Colorado Avalanche vs. Dallas Stars</display-name>
@@ -111,39 +102,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250502000000 -0500" channel="Rockets at Warriors" stop="20250502235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250502000000 -0500" channel="PDC: Asian Tour 9 - Kuala Lumpur - Day One" stop="20250502235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="Seattle Mariners vs. Texas Rangers" stop="20250502235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="Chicago Cubs vs. Milwaukee Brewers" stop="20250502235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250502000000 -0500" channel="New York Mets vs. St. Louis Cardinals" stop="20250502235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -193,6 +152,14 @@
   </programme>
   <programme start="20250502000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Two" stop="20250502235959 -0500">
     <title>06:00 AM 03/05/25 - PDC: 2025 European Darts Grand Prix Day Two</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250502000000 -0500" channel="PDC: Asian Tour 10 - Kuala Lumpur - Day Two" stop="20250502235959 -0500">
+    <title>09:00 PM 03/05/25 - PDC: Asian Tour 10 - Kuala Lumpur - Day Two</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
