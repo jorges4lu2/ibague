@@ -1,25 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250503 -0500">
+  <channel id="Clippers at Nuggets">
+    <display-name lang="en">Clippers at Nuggets</display-name>
+  </channel>
   <channel id="Boxing: Canelo vs. Scull">
     <display-name lang="en">Boxing: Canelo vs. Scull</display-name>
   </channel>
   <channel id="UFC Fight Night: Sandhagen vs. Figueiredo">
     <display-name lang="en">UFC Fight Night: Sandhagen vs. Figueiredo</display-name>
   </channel>
-  <channel id="PDC: 2025 European Darts Grand Prix Day Two">
-    <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Two</display-name>
+  <channel id="MFN Weekly">
+    <display-name lang="en">MFN Weekly</display-name>
   </channel>
-  <channel id="San Diego Padres vs. Pittsburgh Pirates">
-    <display-name lang="en">San Diego Padres vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. San Francisco Giants">
-    <display-name lang="en">Colorado Rockies vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Boston Red Sox">
-    <display-name lang="en">Minnesota Twins vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Athletics vs. Miami Marlins">
-    <display-name lang="en">Athletics vs. Miami Marlins</display-name>
+  <channel id="Colorado Avalanche vs. Dallas Stars">
+    <display-name lang="en">Colorado Avalanche vs. Dallas Stars</display-name>
   </channel>
   <channel id="Arizona Diamondbacks vs. Philadelphia Phillies">
     <display-name lang="en">Arizona Diamondbacks vs. Philadelphia Phillies</display-name>
@@ -27,14 +21,20 @@
   <channel id="Washington Nationals vs. Cincinnati Reds">
     <display-name lang="en">Washington Nationals vs. Cincinnati Reds</display-name>
   </channel>
+  <channel id="Seattle Mariners vs. Texas Rangers">
+    <display-name lang="en">Seattle Mariners vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Chicago Cubs vs. Milwaukee Brewers">
+    <display-name lang="en">Chicago Cubs vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. Baltimore Orioles">
+    <display-name lang="en">Kansas City Royals vs. Baltimore Orioles</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. Atlanta Braves">
+    <display-name lang="en">Los Angeles Dodgers vs. Atlanta Braves</display-name>
+  </channel>
   <channel id="AMA Supercross: Denver">
     <display-name lang="en">AMA Supercross: Denver</display-name>
-  </channel>
-  <channel id="Clippers at Nuggets">
-    <display-name lang="en">Clippers at Nuggets</display-name>
-  </channel>
-  <channel id="MFN Weekly">
-    <display-name lang="en">MFN Weekly</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -72,21 +72,6 @@
   <channel id="Real Sociedad vs Athletic Bilbao">
     <display-name lang="en">Real Sociedad vs Athletic Bilbao</display-name>
   </channel>
-  <channel id="Colorado Avalanche vs. Dallas Stars">
-    <display-name lang="en">Colorado Avalanche vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Texas Rangers">
-    <display-name lang="en">Seattle Mariners vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Milwaukee Brewers">
-    <display-name lang="en">Chicago Cubs vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Baltimore Orioles">
-    <display-name lang="en">Kansas City Royals vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Atlanta Braves">
-    <display-name lang="en">Los Angeles Dodgers vs. Atlanta Braves</display-name>
-  </channel>
   <channel id="Detroit Tigers vs. Los Angeles Angels">
     <display-name lang="en">Detroit Tigers vs. Los Angeles Angels</display-name>
   </channel>
@@ -108,6 +93,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250503000000 -0500" channel="Clippers at Nuggets" stop="20250503235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250503000000 -0500" channel="Boxing: Canelo vs. Scull" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -124,7 +117,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250503000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Two" stop="20250503235959 -0500">
+  <programme start="20250503000000 -0500" channel="MFN Weekly" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -132,31 +125,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250503000000 -0500" channel="San Diego Padres vs. Pittsburgh Pirates" stop="20250503235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="Colorado Rockies vs. San Francisco Giants" stop="20250503235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="Minnesota Twins vs. Boston Red Sox" stop="20250503235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="Athletics vs. Miami Marlins" stop="20250503235959 -0500">
+  <programme start="20250503000000 -0500" channel="Colorado Avalanche vs. Dallas Stars" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -180,7 +149,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250503000000 -0500" channel="AMA Supercross: Denver" stop="20250503235959 -0500">
+  <programme start="20250503000000 -0500" channel="Seattle Mariners vs. Texas Rangers" stop="20250503235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -188,16 +157,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250503000000 -0500" channel="Clippers at Nuggets" stop="20250503235959 -0500">
-    <title>06:30 PM 03/05/25 - Clippers at Nuggets</title>
+  <programme start="20250503000000 -0500" channel="Chicago Cubs vs. Milwaukee Brewers" stop="20250503235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250503000000 -0500" channel="MFN Weekly" stop="20250503235959 -0500">
-    <title>07:00 PM 03/05/25 - MFN Weekly</title>
+  <programme start="20250503000000 -0500" channel="Kansas City Royals vs. Baltimore Orioles" stop="20250503235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250503000000 -0500" channel="Los Angeles Dodgers vs. Atlanta Braves" stop="20250503235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250503000000 -0500" channel="AMA Supercross: Denver" stop="20250503235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -294,46 +279,6 @@
   </programme>
   <programme start="20250503000000 -0500" channel="Real Sociedad vs Athletic Bilbao" stop="20250503235959 -0500">
     <title>02:00 PM 04/05/25 - Real Sociedad vs Athletic Bilbao</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="Colorado Avalanche vs. Dallas Stars" stop="20250503235959 -0500">
-    <title>07:00 PM 03/05/25 - Colorado Avalanche vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="Seattle Mariners vs. Texas Rangers" stop="20250503235959 -0500">
-    <title>06:05 PM 03/05/25 - Seattle Mariners vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="Chicago Cubs vs. Milwaukee Brewers" stop="20250503235959 -0500">
-    <title>06:10 PM 03/05/25 - Chicago Cubs vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="Kansas City Royals vs. Baltimore Orioles" stop="20250503235959 -0500">
-    <title>06:15 PM 03/05/25 - Kansas City Royals vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250503000000 -0500" channel="Los Angeles Dodgers vs. Atlanta Braves" stop="20250503235959 -0500">
-    <title>06:15 PM 03/05/25 - Los Angeles Dodgers vs. Atlanta Braves</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
