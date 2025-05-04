@@ -39,6 +39,12 @@
   <channel id="Seattle Mariners vs. Texas Rangers">
     <display-name lang="en">Seattle Mariners vs. Texas Rangers</display-name>
   </channel>
+  <channel id="F1: Miami GP (Race)">
+    <display-name lang="en">F1: Miami GP (Race)</display-name>
+  </channel>
+  <channel id="F1: Miami GP (Race / F1TV)">
+    <display-name lang="en">F1: Miami GP (Race / F1TV)</display-name>
+  </channel>
   <channel id="Pacers at Cavaliers">
     <display-name lang="en">Pacers at Cavaliers</display-name>
   </channel>
@@ -68,12 +74,6 @@
   </channel>
   <channel id="Los Angeles Dodgers vs. Atlanta Braves">
     <display-name lang="en">Los Angeles Dodgers vs. Atlanta Braves</display-name>
-  </channel>
-  <channel id="F1: Miami GP (Race)">
-    <display-name lang="en">F1: Miami GP (Race)</display-name>
-  </channel>
-  <channel id="F1: Miami GP (Race / F1TV)">
-    <display-name lang="en">F1: Miami GP (Race / F1TV)</display-name>
   </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
@@ -191,6 +191,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250504000000 -0500" channel="F1: Miami GP (Race)" stop="20250504235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250504000000 -0500" channel="F1: Miami GP (Race / F1TV)" stop="20250504235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250504000000 -0500" channel="Pacers at Cavaliers" stop="20250504235959 -0500">
     <title>05:00 PM 04/05/25 - Pacers at Cavaliers</title>
     <date>2025</date>
@@ -265,22 +281,6 @@
   </programme>
   <programme start="20250504000000 -0500" channel="Los Angeles Dodgers vs. Atlanta Braves" stop="20250504235959 -0500">
     <title>06:00 PM 04/05/25 - Los Angeles Dodgers vs. Atlanta Braves</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="F1: Miami GP (Race)" stop="20250504235959 -0500">
-    <title>03:00 PM 04/05/25 - F1: Miami GP (Race)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="F1: Miami GP (Race / F1TV)" stop="20250504235959 -0500">
-    <title>03:00 PM 04/05/25 - F1: Miami GP (Race / F1TV)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
