@@ -1,19 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250504 -0500">
-  <channel id="PDC: Asian Tour 10 - Kuala Lumpur - Day Two">
-    <display-name lang="en">PDC: Asian Tour 10 - Kuala Lumpur - Day Two</display-name>
-  </channel>
   <channel id="PDC: 2025 European Darts Grand Prix Day Three">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Three</display-name>
   </channel>
   <channel id="PDC: World Cup Asia Qualifying (Malaysia) 2025">
     <display-name lang="en">PDC: World Cup Asia Qualifying (Malaysia) 2025</display-name>
-  </channel>
-  <channel id="Rangers vs Celtic">
-    <display-name lang="en">Rangers vs Celtic</display-name>
-  </channel>
-  <channel id="Real Madrid vs Celta Vigo">
-    <display-name lang="en">Real Madrid vs Celta Vigo</display-name>
   </channel>
   <channel id="EPL: Brentford vs Manchester United">
     <display-name lang="en">EPL: Brentford vs Manchester United</display-name>
@@ -24,14 +15,20 @@
   <channel id="EPL: West Ham United vs Tottenham Hotspur">
     <display-name lang="en">EPL: West Ham United vs Tottenham Hotspur</display-name>
   </channel>
+  <channel id="Sevilla vs Leganes">
+    <display-name lang="en">Sevilla vs Leganes</display-name>
+  </channel>
+  <channel id="Pacers at Cavaliers">
+    <display-name lang="en">Pacers at Cavaliers</display-name>
+  </channel>
+  <channel id="Warriors at Rockets">
+    <display-name lang="en">Warriors at Rockets</display-name>
+  </channel>
   <channel id="Live Fight Night Int: Inoue v Cardenas">
     <display-name lang="en">Live Fight Night Int: Inoue v Cardenas</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="Sevilla vs Leganes">
-    <display-name lang="en">Sevilla vs Leganes</display-name>
   </channel>
   <channel id="EPL: Chelsea vs Liverpool">
     <display-name lang="en">EPL: Chelsea vs Liverpool</display-name>
@@ -111,14 +108,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250504000000 -0500" channel="PDC: Asian Tour 10 - Kuala Lumpur - Day Two" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250504000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Three" stop="20250504235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -128,22 +117,6 @@
     </audio>
   </programme>
   <programme start="20250504000000 -0500" channel="PDC: World Cup Asia Qualifying (Malaysia) 2025" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Rangers vs Celtic" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Real Madrid vs Celta Vigo" stop="20250504235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -175,6 +148,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250504000000 -0500" channel="Sevilla vs Leganes" stop="20250504235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250504000000 -0500" channel="Pacers at Cavaliers" stop="20250504235959 -0500">
+    <title>05:00 PM 04/05/25 - Pacers at Cavaliers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250504000000 -0500" channel="Warriors at Rockets" stop="20250504235959 -0500">
+    <title>07:30 PM 04/05/25 - Warriors at Rockets</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250504000000 -0500" channel="Live Fight Night Int: Inoue v Cardenas" stop="20250504235959 -0500">
     <title>07:00 PM 04/05/25 - Live Fight Night Int: Inoue v Cardenas</title>
     <date>2025</date>
@@ -185,14 +182,6 @@
   </programme>
   <programme start="20250504000000 -0500" channel="LND Monthly" stop="20250504235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Sevilla vs Leganes" stop="20250504235959 -0500">
-    <title>09:15 AM 04/05/25 - Sevilla vs Leganes</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
