@@ -15,9 +15,6 @@
   <channel id="Real Madrid vs Celta Vigo">
     <display-name lang="en">Real Madrid vs Celta Vigo</display-name>
   </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
   <channel id="EPL: Brentford vs Manchester United">
     <display-name lang="en">EPL: Brentford vs Manchester United</display-name>
   </channel>
@@ -26,6 +23,9 @@
   </channel>
   <channel id="EPL: West Ham United vs Tottenham Hotspur">
     <display-name lang="en">EPL: West Ham United vs Tottenham Hotspur</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
   </channel>
   <channel id="Sevilla vs Leganes">
     <display-name lang="en">Sevilla vs Leganes</display-name>
@@ -97,16 +97,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250504000000 -0500" channel="LND Monthly" stop="20250504235959 -0500">
-    <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250504000000 -0500" channel="EPL: Brentford vs Manchester United" stop="20250504235959 -0500">
-    <title>08:00 AM 04/05/25 - EPL: Brentford vs Manchester United</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -114,7 +106,7 @@
     </audio>
   </programme>
   <programme start="20250504000000 -0500" channel="EPL: Brighton and Hove Albion vs Newcastle United" stop="20250504235959 -0500">
-    <title>08:00 AM 04/05/25 - EPL: Brighton and Hove Albion vs Newcastle United</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -122,7 +114,15 @@
     </audio>
   </programme>
   <programme start="20250504000000 -0500" channel="EPL: West Ham United vs Tottenham Hotspur" stop="20250504235959 -0500">
-    <title>08:00 AM 04/05/25 - EPL: West Ham United vs Tottenham Hotspur</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250504000000 -0500" channel="LND Monthly" stop="20250504235959 -0500">
+    <title>07:00 PM 17/05/25 - LND Monthly</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
