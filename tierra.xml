@@ -1,22 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250504 -0500">
+  <channel id="Pacers at Cavaliers">
+    <display-name lang="en">Pacers at Cavaliers</display-name>
+  </channel>
   <channel id="PDC: 2025 European Darts Grand Prix Day Three">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Three</display-name>
-  </channel>
-  <channel id="Real Sociedad vs Athletic Bilbao">
-    <display-name lang="en">Real Sociedad vs Athletic Bilbao</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Philadelphia Phillies">
-    <display-name lang="en">Arizona Diamondbacks vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Milwaukee Brewers">
-    <display-name lang="en">Chicago Cubs vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Chicago White Sox">
-    <display-name lang="en">Houston Astros vs. Chicago White Sox</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Texas Rangers">
-    <display-name lang="en">Seattle Mariners vs. Texas Rangers</display-name>
   </channel>
   <channel id="Colorado Rockies vs. San Francisco Giants">
     <display-name lang="en">Colorado Rockies vs. San Francisco Giants</display-name>
@@ -32,9 +20,6 @@
   </channel>
   <channel id="F1: Miami GP (Race / F1TV)">
     <display-name lang="en">F1: Miami GP (Race / F1TV)</display-name>
-  </channel>
-  <channel id="Pacers at Cavaliers">
-    <display-name lang="en">Pacers at Cavaliers</display-name>
   </channel>
   <channel id="Warriors at Rockets">
     <display-name lang="en">Warriors at Rockets</display-name>
@@ -66,47 +51,15 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250504000000 -0500" channel="Pacers at Cavaliers" stop="20250504235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250504000000 -0500" channel="PDC: 2025 European Darts Grand Prix Day Three" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Real Sociedad vs Athletic Bilbao" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Arizona Diamondbacks vs. Philadelphia Phillies" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Chicago Cubs vs. Milwaukee Brewers" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Houston Astros vs. Chicago White Sox" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Seattle Mariners vs. Texas Rangers" stop="20250504235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -148,14 +101,6 @@
   </programme>
   <programme start="20250504000000 -0500" channel="F1: Miami GP (Race / F1TV)" stop="20250504235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Pacers at Cavaliers" stop="20250504235959 -0500">
-    <title>05:00 PM 04/05/25 - Pacers at Cavaliers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
