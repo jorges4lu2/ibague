@@ -6,17 +6,17 @@
   <channel id="PDC: 2025 European Darts Grand Prix Day Three">
     <display-name lang="en">PDC: 2025 European Darts Grand Prix Day Three</display-name>
   </channel>
-  <channel id="Rangers vs Celtic">
-    <display-name lang="en">Rangers vs Celtic</display-name>
-  </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
   <channel id="PDC: World Cup Asia Qualifying (Malaysia) 2025">
     <display-name lang="en">PDC: World Cup Asia Qualifying (Malaysia) 2025</display-name>
   </channel>
+  <channel id="Rangers vs Celtic">
+    <display-name lang="en">Rangers vs Celtic</display-name>
+  </channel>
   <channel id="Real Madrid vs Celta Vigo">
     <display-name lang="en">Real Madrid vs Celta Vigo</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
   </channel>
   <channel id="EPL: Brentford vs Manchester United">
     <display-name lang="en">EPL: Brentford vs Manchester United</display-name>
@@ -73,7 +73,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250504000000 -0500" channel="PDC: World Cup Asia Qualifying (Malaysia) 2025" stop="20250504235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250504000000 -0500" channel="Rangers vs Celtic" stop="20250504235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250504000000 -0500" channel="Real Madrid vs Celta Vigo" stop="20250504235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -83,22 +99,6 @@
   </programme>
   <programme start="20250504000000 -0500" channel="LND Monthly" stop="20250504235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="PDC: World Cup Asia Qualifying (Malaysia) 2025" stop="20250504235959 -0500">
-    <title>07:00 AM 04/05/25 - PDC: World Cup Asia Qualifying (Malaysia) 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Real Madrid vs Celta Vigo" stop="20250504235959 -0500">
-    <title>07:00 AM 04/05/25 - Real Madrid vs Celta Vigo</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
