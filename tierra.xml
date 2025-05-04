@@ -12,6 +12,9 @@
   <channel id="PDC: World Cup Asia Qualifying (Malaysia) 2025">
     <display-name lang="en">PDC: World Cup Asia Qualifying (Malaysia) 2025</display-name>
   </channel>
+  <channel id="Rangers vs Celtic">
+    <display-name lang="en">Rangers vs Celtic</display-name>
+  </channel>
   <channel id="Real Madrid vs Celta Vigo">
     <display-name lang="en">Real Madrid vs Celta Vigo</display-name>
   </channel>
@@ -80,6 +83,14 @@
   </programme>
   <programme start="20250504000000 -0500" channel="PDC: World Cup Asia Qualifying (Malaysia) 2025" stop="20250504235959 -0500">
     <title>07:00 AM 04/05/25 - PDC: World Cup Asia Qualifying (Malaysia) 2025</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250504000000 -0500" channel="Rangers vs Celtic" stop="20250504235959 -0500">
+    <title>06:00 AM 04/05/25 - Rangers vs Celtic</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
