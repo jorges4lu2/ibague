@@ -6,11 +6,11 @@
   <channel id="PDC: World Cup Asia Qualifying (Malaysia) 2025">
     <display-name lang="en">PDC: World Cup Asia Qualifying (Malaysia) 2025</display-name>
   </channel>
-  <channel id="Sevilla vs Leganes">
-    <display-name lang="en">Sevilla vs Leganes</display-name>
-  </channel>
   <channel id="EPL: Chelsea vs Liverpool">
     <display-name lang="en">EPL: Chelsea vs Liverpool</display-name>
+  </channel>
+  <channel id="Espanyol vs Real Betis">
+    <display-name lang="en">Espanyol vs Real Betis</display-name>
   </channel>
   <channel id="Pacers at Cavaliers">
     <display-name lang="en">Pacers at Cavaliers</display-name>
@@ -23,9 +23,6 @@
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="Espanyol vs Real Betis">
-    <display-name lang="en">Espanyol vs Real Betis</display-name>
   </channel>
   <channel id="Real Sociedad vs Athletic Bilbao">
     <display-name lang="en">Real Sociedad vs Athletic Bilbao</display-name>
@@ -115,7 +112,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250504000000 -0500" channel="Sevilla vs Leganes" stop="20250504235959 -0500">
+  <programme start="20250504000000 -0500" channel="EPL: Chelsea vs Liverpool" stop="20250504235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -123,7 +120,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250504000000 -0500" channel="EPL: Chelsea vs Liverpool" stop="20250504235959 -0500">
+  <programme start="20250504000000 -0500" channel="Espanyol vs Real Betis" stop="20250504235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -157,14 +154,6 @@
   </programme>
   <programme start="20250504000000 -0500" channel="LND Monthly" stop="20250504235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="Espanyol vs Real Betis" stop="20250504235959 -0500">
-    <title>11:30 AM 04/05/25 - Espanyol vs Real Betis</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
