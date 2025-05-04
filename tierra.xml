@@ -6,17 +6,11 @@
   <channel id="PDC: World Cup Asia Qualifying (Malaysia) 2025">
     <display-name lang="en">PDC: World Cup Asia Qualifying (Malaysia) 2025</display-name>
   </channel>
-  <channel id="EPL: Brentford vs Manchester United">
-    <display-name lang="en">EPL: Brentford vs Manchester United</display-name>
-  </channel>
-  <channel id="EPL: Brighton and Hove Albion vs Newcastle United">
-    <display-name lang="en">EPL: Brighton and Hove Albion vs Newcastle United</display-name>
-  </channel>
-  <channel id="EPL: West Ham United vs Tottenham Hotspur">
-    <display-name lang="en">EPL: West Ham United vs Tottenham Hotspur</display-name>
-  </channel>
   <channel id="Sevilla vs Leganes">
     <display-name lang="en">Sevilla vs Leganes</display-name>
+  </channel>
+  <channel id="EPL: Chelsea vs Liverpool">
+    <display-name lang="en">EPL: Chelsea vs Liverpool</display-name>
   </channel>
   <channel id="Pacers at Cavaliers">
     <display-name lang="en">Pacers at Cavaliers</display-name>
@@ -29,9 +23,6 @@
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="EPL: Chelsea vs Liverpool">
-    <display-name lang="en">EPL: Chelsea vs Liverpool</display-name>
   </channel>
   <channel id="Espanyol vs Real Betis">
     <display-name lang="en">Espanyol vs Real Betis</display-name>
@@ -124,31 +115,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250504000000 -0500" channel="EPL: Brentford vs Manchester United" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="EPL: Brighton and Hove Albion vs Newcastle United" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="EPL: West Ham United vs Tottenham Hotspur" stop="20250504235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250504000000 -0500" channel="Sevilla vs Leganes" stop="20250504235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250504000000 -0500" channel="EPL: Chelsea vs Liverpool" stop="20250504235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -182,14 +157,6 @@
   </programme>
   <programme start="20250504000000 -0500" channel="LND Monthly" stop="20250504235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250504000000 -0500" channel="EPL: Chelsea vs Liverpool" stop="20250504235959 -0500">
-    <title>10:30 AM 04/05/25 - EPL: Chelsea vs Liverpool</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
