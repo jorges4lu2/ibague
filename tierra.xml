@@ -3,6 +3,12 @@
   <channel id="Knicks at Celtics">
     <display-name lang="en">Knicks at Celtics</display-name>
   </channel>
+  <channel id="Los Angeles Dodgers vs. Miami Marlins">
+    <display-name lang="en">Los Angeles Dodgers vs. Miami Marlins</display-name>
+  </channel>
+  <channel id="Cleveland Guardians vs. Washington Nationals">
+    <display-name lang="en">Cleveland Guardians vs. Washington Nationals</display-name>
+  </channel>
   <channel id="Nuggets at Thunder">
     <display-name lang="en">Nuggets at Thunder</display-name>
   </channel>
@@ -23,12 +29,6 @@
   </channel>
   <channel id="Florida Panthers vs. Toronto Maple Leafs">
     <display-name lang="en">Florida Panthers vs. Toronto Maple Leafs</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Miami Marlins">
-    <display-name lang="en">Los Angeles Dodgers vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Washington Nationals">
-    <display-name lang="en">Cleveland Guardians vs. Washington Nationals</display-name>
   </channel>
   <channel id="San Diego Padres vs. New York Yankees">
     <display-name lang="en">San Diego Padres vs. New York Yankees</display-name>
@@ -67,7 +67,23 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250505000000 -0500" channel="Knicks at Celtics" stop="20250505235959 -0500">
-    <title>06:00 PM 05/05/25 - Knicks at Celtics</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250505000000 -0500" channel="Los Angeles Dodgers vs. Miami Marlins" stop="20250505235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250505000000 -0500" channel="Cleveland Guardians vs. Washington Nationals" stop="20250505235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -124,22 +140,6 @@
   </programme>
   <programme start="20250505000000 -0500" channel="Florida Panthers vs. Toronto Maple Leafs" stop="20250505235959 -0500">
     <title>07:00 PM 05/05/25 - Florida Panthers vs. Toronto Maple Leafs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250505000000 -0500" channel="Los Angeles Dodgers vs. Miami Marlins" stop="20250505235959 -0500">
-    <title>05:40 PM 05/05/25 - Los Angeles Dodgers vs. Miami Marlins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250505000000 -0500" channel="Cleveland Guardians vs. Washington Nationals" stop="20250505235959 -0500">
-    <title>05:45 PM 05/05/25 - Cleveland Guardians vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
