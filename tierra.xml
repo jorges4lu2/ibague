@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250506 -0500">
-  <channel id="UCL: Inter Milan vs Barcelona">
-    <display-name lang="en">UCL: Inter Milan vs Barcelona</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Washington Nationals">
-    <display-name lang="en">Cleveland Guardians vs. Washington Nationals</display-name>
-  </channel>
   <channel id="Pacers at Cavaliers">
     <display-name lang="en">Pacers at Cavaliers</display-name>
+  </channel>
+  <channel id="Carolina Hurricanes vs. Washington Capitals">
+    <display-name lang="en">Carolina Hurricanes vs. Washington Capitals</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. Miami Marlins">
+    <display-name lang="en">Los Angeles Dodgers vs. Miami Marlins</display-name>
+  </channel>
+  <channel id="Texas Rangers vs. Boston Red Sox">
+    <display-name lang="en">Texas Rangers vs. Boston Red Sox</display-name>
   </channel>
   <channel id="Warriors at Timberwolves">
     <display-name lang="en">Warriors at Timberwolves</display-name>
@@ -27,17 +30,8 @@
   <channel id="Sunderland vs Coventry">
     <display-name lang="en">Sunderland vs Coventry</display-name>
   </channel>
-  <channel id="Carolina Hurricanes vs. Washington Capitals">
-    <display-name lang="en">Carolina Hurricanes vs. Washington Capitals</display-name>
-  </channel>
   <channel id="Edmonton Oilers vs. Vegas Golden Knights">
     <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Miami Marlins">
-    <display-name lang="en">Los Angeles Dodgers vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Boston Red Sox">
-    <display-name lang="en">Texas Rangers vs. Boston Red Sox</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Tampa Bay Rays">
     <display-name lang="en">Philadelphia Phillies vs. Tampa Bay Rays</display-name>
@@ -90,24 +84,32 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250506000000 -0500" channel="UCL: Inter Milan vs Barcelona" stop="20250506235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250506000000 -0500" channel="Cleveland Guardians vs. Washington Nationals" stop="20250506235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250506000000 -0500" channel="Pacers at Cavaliers" stop="20250506235959 -0500">
-    <title>06:00 PM 06/05/25 - Pacers at Cavaliers</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250506000000 -0500" channel="Carolina Hurricanes vs. Washington Capitals" stop="20250506235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250506000000 -0500" channel="Los Angeles Dodgers vs. Miami Marlins" stop="20250506235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250506000000 -0500" channel="Texas Rangers vs. Boston Red Sox" stop="20250506235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -162,32 +164,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250506000000 -0500" channel="Carolina Hurricanes vs. Washington Capitals" stop="20250506235959 -0500">
-    <title>06:00 PM 06/05/25 - Carolina Hurricanes vs. Washington Capitals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250506000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250506235959 -0500">
     <title>08:30 PM 06/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250506000000 -0500" channel="Los Angeles Dodgers vs. Miami Marlins" stop="20250506235959 -0500">
-    <title>05:40 PM 06/05/25 - Los Angeles Dodgers vs. Miami Marlins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250506000000 -0500" channel="Texas Rangers vs. Boston Red Sox" stop="20250506235959 -0500">
-    <title>05:45 PM 06/05/25 - Texas Rangers vs. Boston Red Sox</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
