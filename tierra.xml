@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250506 -0500">
+  <channel id="Pacers at Cavaliers">
+    <display-name lang="en">Pacers at Cavaliers</display-name>
+  </channel>
+  <channel id="Warriors at Timberwolves">
+    <display-name lang="en">Warriors at Timberwolves</display-name>
+  </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
@@ -84,6 +90,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250506000000 -0500" channel="Pacers at Cavaliers" stop="20250506235959 -0500">
+    <title>06:00 PM 06/05/25 - Pacers at Cavaliers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250506000000 -0500" channel="Warriors at Timberwolves" stop="20250506235959 -0500">
+    <title>08:30 PM 06/05/25 - Warriors at Timberwolves</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250506000000 -0500" channel="LND Monthly" stop="20250506235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
     <date>2025</date>
