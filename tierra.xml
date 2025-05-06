@@ -3,6 +3,9 @@
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
+  <channel id="UCL: Inter Milan vs Barcelona">
+    <display-name lang="en">UCL: Inter Milan vs Barcelona</display-name>
+  </channel>
   <channel id="Bristol City vs Sheffield United">
     <display-name lang="en">Bristol City vs Sheffield United</display-name>
   </channel>
@@ -83,6 +86,14 @@
   </channel>
   <programme start="20250506000000 -0500" channel="LND Monthly" stop="20250506235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250506000000 -0500" channel="UCL: Inter Milan vs Barcelona" stop="20250506235959 -0500">
+    <title>02:00 PM 06/05/25 - UCL: Inter Milan vs Barcelona</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
