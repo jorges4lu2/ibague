@@ -3,9 +3,6 @@
   <channel id="UCL: PSG vs Arsenal">
     <display-name lang="en">UCL: PSG vs Arsenal</display-name>
   </channel>
-  <channel id="Cleveland Guardians vs. Washington Nationals">
-    <display-name lang="en">Cleveland Guardians vs. Washington Nationals</display-name>
-  </channel>
   <channel id="Houston Astros vs. Milwaukee Brewers">
     <display-name lang="en">Houston Astros vs. Milwaukee Brewers</display-name>
   </channel>
@@ -14,6 +11,12 @@
   </channel>
   <channel id="San Francisco Giants vs. Chicago Cubs">
     <display-name lang="en">San Francisco Giants vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. Athletics">
+    <display-name lang="en">Seattle Mariners vs. Athletics</display-name>
+  </channel>
+  <channel id="New York Mets vs. Arizona Diamondbacks">
+    <display-name lang="en">New York Mets vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="Knicks at Celtics">
     <display-name lang="en">Knicks at Celtics</display-name>
@@ -44,12 +47,6 @@
   </channel>
   <channel id="Dallas Stars vs. Winnipeg Jets">
     <display-name lang="en">Dallas Stars vs. Winnipeg Jets</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Athletics">
-    <display-name lang="en">Seattle Mariners vs. Athletics</display-name>
-  </channel>
-  <channel id="New York Mets vs. Arizona Diamondbacks">
-    <display-name lang="en">New York Mets vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="Los Angeles Dodgers vs. Miami Marlins">
     <display-name lang="en">Los Angeles Dodgers vs. Miami Marlins</display-name>
@@ -98,14 +95,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250507000000 -0500" channel="Cleveland Guardians vs. Washington Nationals" stop="20250507235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250507000000 -0500" channel="Houston Astros vs. Milwaukee Brewers" stop="20250507235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -123,6 +112,22 @@
     </audio>
   </programme>
   <programme start="20250507000000 -0500" channel="San Francisco Giants vs. Chicago Cubs" stop="20250507235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250507000000 -0500" channel="Seattle Mariners vs. Athletics" stop="20250507235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250507000000 -0500" channel="New York Mets vs. Arizona Diamondbacks" stop="20250507235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -204,22 +209,6 @@
   </programme>
   <programme start="20250507000000 -0500" channel="Dallas Stars vs. Winnipeg Jets" stop="20250507235959 -0500">
     <title>08:30 PM 07/05/25 - Dallas Stars vs. Winnipeg Jets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="Seattle Mariners vs. Athletics" stop="20250507235959 -0500">
-    <title>02:35 PM 07/05/25 - Seattle Mariners vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="New York Mets vs. Arizona Diamondbacks" stop="20250507235959 -0500">
-    <title>02:40 PM 07/05/25 - New York Mets vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
