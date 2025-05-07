@@ -3,6 +3,12 @@
   <channel id="Cleveland Guardians vs. Washington Nationals">
     <display-name lang="en">Cleveland Guardians vs. Washington Nationals</display-name>
   </channel>
+  <channel id="Houston Astros vs. Milwaukee Brewers">
+    <display-name lang="en">Houston Astros vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. St. Louis Cardinals">
+    <display-name lang="en">Pittsburgh Pirates vs. St. Louis Cardinals</display-name>
+  </channel>
   <channel id="Knicks at Celtics">
     <display-name lang="en">Knicks at Celtics</display-name>
   </channel>
@@ -35,12 +41,6 @@
   </channel>
   <channel id="Dallas Stars vs. Winnipeg Jets">
     <display-name lang="en">Dallas Stars vs. Winnipeg Jets</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Milwaukee Brewers">
-    <display-name lang="en">Houston Astros vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. St. Louis Cardinals">
-    <display-name lang="en">Pittsburgh Pirates vs. St. Louis Cardinals</display-name>
   </channel>
   <channel id="San Francisco Giants vs. Chicago Cubs">
     <display-name lang="en">San Francisco Giants vs. Chicago Cubs</display-name>
@@ -91,6 +91,22 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250507000000 -0500" channel="Cleveland Guardians vs. Washington Nationals" stop="20250507235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250507000000 -0500" channel="Houston Astros vs. Milwaukee Brewers" stop="20250507235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250507000000 -0500" channel="Pittsburgh Pirates vs. St. Louis Cardinals" stop="20250507235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -180,22 +196,6 @@
   </programme>
   <programme start="20250507000000 -0500" channel="Dallas Stars vs. Winnipeg Jets" stop="20250507235959 -0500">
     <title>08:30 PM 07/05/25 - Dallas Stars vs. Winnipeg Jets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="Houston Astros vs. Milwaukee Brewers" stop="20250507235959 -0500">
-    <title>12:10 PM 07/05/25 - Houston Astros vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="Pittsburgh Pirates vs. St. Louis Cardinals" stop="20250507235959 -0500">
-    <title>12:15 PM 07/05/25 - Pittsburgh Pirates vs. St. Louis Cardinals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
