@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250507 -0500">
+  <channel id="Cleveland Guardians vs. Washington Nationals">
+    <display-name lang="en">Cleveland Guardians vs. Washington Nationals</display-name>
+  </channel>
   <channel id="Knicks at Celtics">
     <display-name lang="en">Knicks at Celtics</display-name>
   </channel>
@@ -32,9 +35,6 @@
   </channel>
   <channel id="Dallas Stars vs. Winnipeg Jets">
     <display-name lang="en">Dallas Stars vs. Winnipeg Jets</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Washington Nationals">
-    <display-name lang="en">Cleveland Guardians vs. Washington Nationals</display-name>
   </channel>
   <channel id="Houston Astros vs. Milwaukee Brewers">
     <display-name lang="en">Houston Astros vs. Milwaukee Brewers</display-name>
@@ -90,6 +90,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250507000000 -0500" channel="Cleveland Guardians vs. Washington Nationals" stop="20250507235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250507000000 -0500" channel="Knicks at Celtics" stop="20250507235959 -0500">
     <title>06:00 PM 07/05/25 - Knicks at Celtics</title>
     <date>2025</date>
@@ -172,14 +180,6 @@
   </programme>
   <programme start="20250507000000 -0500" channel="Dallas Stars vs. Winnipeg Jets" stop="20250507235959 -0500">
     <title>08:30 PM 07/05/25 - Dallas Stars vs. Winnipeg Jets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="Cleveland Guardians vs. Washington Nationals" stop="20250507235959 -0500">
-    <title>11:05 AM 07/05/25 - Cleveland Guardians vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
