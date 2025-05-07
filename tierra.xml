@@ -39,6 +39,9 @@
   <channel id="Pittsburgh Pirates vs. St. Louis Cardinals">
     <display-name lang="en">Pittsburgh Pirates vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Detroit Tigers vs. Colorado Rockies">
+    <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Warriors at Timberwolves">
     <display-name lang="en">Warriors at Timberwolves</display-name>
   </channel>
@@ -59,9 +62,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Vegas Golden Knights">
     <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Colorado Rockies">
-    <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Angels">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Angels</display-name>
@@ -188,6 +188,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250506000000 -0500" channel="Detroit Tigers vs. Colorado Rockies" stop="20250506235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250506000000 -0500" channel="Warriors at Timberwolves" stop="20250506235959 -0500">
     <title>08:30 PM 06/05/25 - Warriors at Timberwolves</title>
     <date>2025</date>
@@ -238,14 +246,6 @@
   </programme>
   <programme start="20250506000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250506235959 -0500">
     <title>08:30 PM 06/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250506000000 -0500" channel="Detroit Tigers vs. Colorado Rockies" stop="20250506235959 -0500">
-    <title>07:40 PM 06/05/25 - Detroit Tigers vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
