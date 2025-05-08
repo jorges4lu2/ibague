@@ -6,29 +6,11 @@
   <channel id="Dallas Stars vs. Winnipeg Jets">
     <display-name lang="en">Dallas Stars vs. Winnipeg Jets</display-name>
   </channel>
-  <channel id="Philadelphia Phillies vs. Tampa Bay Rays">
-    <display-name lang="en">Philadelphia Phillies vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. New York Yankees">
-    <display-name lang="en">San Diego Padres vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Atlanta Braves">
-    <display-name lang="en">Cincinnati Reds vs. Atlanta Braves</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Minnesota Twins">
-    <display-name lang="en">Baltimore Orioles vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Kansas City Royals">
-    <display-name lang="en">Chicago White Sox vs. Kansas City Royals</display-name>
-  </channel>
   <channel id="Detroit Tigers vs. Colorado Rockies">
     <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Angels">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -59,6 +41,12 @@
   </channel>
   <channel id="Sunderland vs Coventry">
     <display-name lang="en">Sunderland vs Coventry</display-name>
+  </channel>
+  <channel id="Carolina Hurricanes vs. Washington Capitals">
+    <display-name lang="en">Carolina Hurricanes vs. Washington Capitals</display-name>
+  </channel>
+  <channel id="Edmonton Oilers vs. Vegas Golden Knights">
+    <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Minnesota Twins">
     <display-name lang="en">Baltimore Orioles vs. Minnesota Twins</display-name>
@@ -160,46 +148,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250507000000 -0500" channel="Philadelphia Phillies vs. Tampa Bay Rays" stop="20250507235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="San Diego Padres vs. New York Yankees" stop="20250507235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="Cincinnati Reds vs. Atlanta Braves" stop="20250507235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="Baltimore Orioles vs. Minnesota Twins" stop="20250507235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="Chicago White Sox vs. Kansas City Royals" stop="20250507235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250507000000 -0500" channel="Detroit Tigers vs. Colorado Rockies" stop="20250507235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -209,14 +157,6 @@
     </audio>
   </programme>
   <programme start="20250507000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Angels" stop="20250507235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250507235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -298,6 +238,22 @@
   </programme>
   <programme start="20250507000000 -0500" channel="Sunderland vs Coventry" stop="20250507235959 -0500">
     <title>02:00 PM 13/05/25 - Sunderland vs Coventry</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250507000000 -0500" channel="Carolina Hurricanes vs. Washington Capitals" stop="20250507235959 -0500">
+    <title>06:00 PM 08/05/25 - Carolina Hurricanes vs. Washington Capitals</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250507000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250507235959 -0500">
+    <title>08:30 PM 08/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
