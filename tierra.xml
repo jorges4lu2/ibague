@@ -3,18 +3,6 @@
   <channel id="PDC: BetMGM Premier League - Night Fourteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Fourteen</display-name>
   </channel>
-  <channel id="Baltimore Orioles vs. Minnesota Twins">
-    <display-name lang="en">Baltimore Orioles vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Boston Red Sox">
-    <display-name lang="en">Texas Rangers vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Warriors at Timberwolves">
-    <display-name lang="en">Warriors at Timberwolves</display-name>
-  </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
   <channel id="Bristol City vs Sheffield United">
     <display-name lang="en">Bristol City vs Sheffield United</display-name>
   </channel>
@@ -30,6 +18,21 @@
   <channel id="Fiorentina vs Real Betis">
     <display-name lang="en">Fiorentina vs Real Betis</display-name>
   </channel>
+  <channel id="Baltimore Orioles vs. Minnesota Twins">
+    <display-name lang="en">Baltimore Orioles vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Texas Rangers vs. Boston Red Sox">
+    <display-name lang="en">Texas Rangers vs. Boston Red Sox</display-name>
+  </channel>
+  <channel id="Chicago White Sox vs. Kansas City Royals">
+    <display-name lang="en">Chicago White Sox vs. Kansas City Royals</display-name>
+  </channel>
+  <channel id="Warriors at Timberwolves">
+    <display-name lang="en">Warriors at Timberwolves</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
+  </channel>
   <channel id="Coventry vs Sunderland">
     <display-name lang="en">Coventry vs Sunderland</display-name>
   </channel>
@@ -44,9 +47,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Vegas Golden Knights">
     <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Kansas City Royals">
-    <display-name lang="en">Chicago White Sox vs. Kansas City Royals</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Colorado Rockies">
     <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
@@ -131,6 +131,46 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250508000000 -0500" channel="Bristol City vs Sheffield United" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="Manchester United vs Athletic Bilbao" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="Bod&#248;/Glimt vs Tottenham" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="Chelsea vs Djurg&#229;rden" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="Fiorentina vs Real Betis" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250508000000 -0500" channel="Baltimore Orioles vs. Minnesota Twins" stop="20250508235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -140,6 +180,14 @@
     </audio>
   </programme>
   <programme start="20250508000000 -0500" channel="Texas Rangers vs. Boston Red Sox" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="Chicago White Sox vs. Kansas City Royals" stop="20250508235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -157,46 +205,6 @@
   </programme>
   <programme start="20250508000000 -0500" channel="LND Monthly" stop="20250508235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Bristol City vs Sheffield United" stop="20250508235959 -0500">
-    <title>02:00 PM 08/05/25 - Bristol City vs Sheffield United</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Manchester United vs Athletic Bilbao" stop="20250508235959 -0500">
-    <title>02:00 PM 08/05/25 - Manchester United vs Athletic Bilbao</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Bod&#248;/Glimt vs Tottenham" stop="20250508235959 -0500">
-    <title>02:00 PM 08/05/25 - Bod&#248;/Glimt vs Tottenham</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Chelsea vs Djurg&#229;rden" stop="20250508235959 -0500">
-    <title>02:00 PM 08/05/25 - Chelsea vs Djurg&#229;rden</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Fiorentina vs Real Betis" stop="20250508235959 -0500">
-    <title>02:00 PM 08/05/25 - Fiorentina vs Real Betis</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -237,14 +245,6 @@
   </programme>
   <programme start="20250508000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250508235959 -0500">
     <title>08:30 PM 08/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Chicago White Sox vs. Kansas City Royals" stop="20250508235959 -0500">
-    <title>01:10 PM 08/05/25 - Chicago White Sox vs. Kansas City Royals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
