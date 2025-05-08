@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250507 -0500">
-  <channel id="Knicks at Celtics">
-    <display-name lang="en">Knicks at Celtics</display-name>
+  <channel id="Nuggets at Thunder">
+    <display-name lang="en">Nuggets at Thunder</display-name>
   </channel>
-  <channel id="Florida Panthers vs. Toronto Maple Leafs">
-    <display-name lang="en">Florida Panthers vs. Toronto Maple Leafs</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Boston Red Sox">
-    <display-name lang="en">Texas Rangers vs. Boston Red Sox</display-name>
+  <channel id="Dallas Stars vs. Winnipeg Jets">
+    <display-name lang="en">Dallas Stars vs. Winnipeg Jets</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Tampa Bay Rays">
     <display-name lang="en">Philadelphia Phillies vs. Tampa Bay Rays</display-name>
@@ -27,11 +24,11 @@
   <channel id="Detroit Tigers vs. Colorado Rockies">
     <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
   </channel>
+  <channel id="Toronto Blue Jays vs. Los Angeles Angels">
+    <display-name lang="en">Toronto Blue Jays vs. Los Angeles Angels</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
-  <channel id="Nuggets at Thunder">
-    <display-name lang="en">Nuggets at Thunder</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -62,12 +59,6 @@
   </channel>
   <channel id="Sunderland vs Coventry">
     <display-name lang="en">Sunderland vs Coventry</display-name>
-  </channel>
-  <channel id="Dallas Stars vs. Winnipeg Jets">
-    <display-name lang="en">Dallas Stars vs. Winnipeg Jets</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Los Angeles Angels">
-    <display-name lang="en">Toronto Blue Jays vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Minnesota Twins">
     <display-name lang="en">Baltimore Orioles vs. Minnesota Twins</display-name>
@@ -153,7 +144,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250507000000 -0500" channel="Knicks at Celtics" stop="20250507235959 -0500">
+  <programme start="20250507000000 -0500" channel="Nuggets at Thunder" stop="20250507235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -161,15 +152,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250507000000 -0500" channel="Florida Panthers vs. Toronto Maple Leafs" stop="20250507235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="Texas Rangers vs. Boston Red Sox" stop="20250507235959 -0500">
+  <programme start="20250507000000 -0500" channel="Dallas Stars vs. Winnipeg Jets" stop="20250507235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -225,7 +208,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250507000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250507235959 -0500">
+  <programme start="20250507000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Angels" stop="20250507235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -233,8 +216,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250507000000 -0500" channel="Nuggets at Thunder" stop="20250507235959 -0500">
-    <title>08:30 PM 07/05/25 - Nuggets at Thunder</title>
+  <programme start="20250507000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250507235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -315,22 +298,6 @@
   </programme>
   <programme start="20250507000000 -0500" channel="Sunderland vs Coventry" stop="20250507235959 -0500">
     <title>02:00 PM 13/05/25 - Sunderland vs Coventry</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="Dallas Stars vs. Winnipeg Jets" stop="20250507235959 -0500">
-    <title>08:30 PM 07/05/25 - Dallas Stars vs. Winnipeg Jets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250507000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Angels" stop="20250507235959 -0500">
-    <title>08:38 PM 07/05/25 - Toronto Blue Jays vs. Los Angeles Angels</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
