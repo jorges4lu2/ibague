@@ -18,12 +18,6 @@
   <channel id="Fiorentina vs Real Betis">
     <display-name lang="en">Fiorentina vs Real Betis</display-name>
   </channel>
-  <channel id="Baltimore Orioles vs. Minnesota Twins">
-    <display-name lang="en">Baltimore Orioles vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Boston Red Sox">
-    <display-name lang="en">Texas Rangers vs. Boston Red Sox</display-name>
-  </channel>
   <channel id="Chicago White Sox vs. Kansas City Royals">
     <display-name lang="en">Chicago White Sox vs. Kansas City Royals</display-name>
   </channel>
@@ -50,6 +44,18 @@
   </channel>
   <channel id="Edmonton Oilers vs. Vegas Golden Knights">
     <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Austria vs. Finland">
+    <display-name lang="en">2025 IIHF Men's World Championship: Austria vs. Finland</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Switzerland vs. Czechia">
+    <display-name lang="en">2025 IIHF Men's World Championship: Switzerland vs. Czechia</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Sweden vs. Slovakia">
+    <display-name lang="en">2025 IIHF Men's World Championship: Sweden vs. Slovakia</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Denmark vs. USA">
+    <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. USA</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Colorado Rockies">
     <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
@@ -171,22 +177,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250508000000 -0500" channel="Baltimore Orioles vs. Minnesota Twins" stop="20250508235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Texas Rangers vs. Boston Red Sox" stop="20250508235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250508000000 -0500" channel="Chicago White Sox vs. Kansas City Royals" stop="20250508235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -253,6 +243,38 @@
   </programme>
   <programme start="20250508000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250508235959 -0500">
     <title>08:30 PM 08/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="2025 IIHF Men's World Championship: Austria vs. Finland" stop="20250508235959 -0500">
+    <title>09:20 AM 09/05/25 - 2025 IIHF Men's World Championship: Austria vs. Finland</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="2025 IIHF Men's World Championship: Switzerland vs. Czechia" stop="20250508235959 -0500">
+    <title>09:20 AM 09/05/25 - 2025 IIHF Men's World Championship: Switzerland vs. Czechia</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="2025 IIHF Men's World Championship: Sweden vs. Slovakia" stop="20250508235959 -0500">
+    <title>01:20 PM 09/05/25 - 2025 IIHF Men's World Championship: Sweden vs. Slovakia</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="2025 IIHF Men's World Championship: Denmark vs. USA" stop="20250508235959 -0500">
+    <title>01:20 PM 09/05/25 - 2025 IIHF Men's World Championship: Denmark vs. USA</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
