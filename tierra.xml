@@ -3,6 +3,9 @@
   <channel id="PDC: BetMGM Premier League - Night Fourteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Fourteen</display-name>
   </channel>
+  <channel id="Carolina Hurricanes vs. Washington Capitals">
+    <display-name lang="en">Carolina Hurricanes vs. Washington Capitals</display-name>
+  </channel>
   <channel id="Detroit Tigers vs. Colorado Rockies">
     <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
   </channel>
@@ -21,9 +24,6 @@
   <channel id="Sunderland vs Coventry">
     <display-name lang="en">Sunderland vs Coventry</display-name>
   </channel>
-  <channel id="Carolina Hurricanes vs. Washington Capitals">
-    <display-name lang="en">Carolina Hurricanes vs. Washington Capitals</display-name>
-  </channel>
   <channel id="Edmonton Oilers vs. Vegas Golden Knights">
     <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
   </channel>
@@ -38,9 +38,6 @@
   </channel>
   <channel id="2025 IIHF Men's World Championship: Denmark vs. USA">
     <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. USA</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Colorado Rockies">
-    <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Tampa Bay Rays">
     <display-name lang="en">Philadelphia Phillies vs. Tampa Bay Rays</display-name>
@@ -119,6 +116,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250508000000 -0500" channel="Carolina Hurricanes vs. Washington Capitals" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250508000000 -0500" channel="Detroit Tigers vs. Colorado Rockies" stop="20250508235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -167,14 +172,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250508000000 -0500" channel="Carolina Hurricanes vs. Washington Capitals" stop="20250508235959 -0500">
-    <title>06:00 PM 08/05/25 - Carolina Hurricanes vs. Washington Capitals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250508000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250508235959 -0500">
     <title>08:30 PM 08/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
     <date>2025</date>
@@ -209,14 +206,6 @@
   </programme>
   <programme start="20250508000000 -0500" channel="2025 IIHF Men's World Championship: Denmark vs. USA" stop="20250508235959 -0500">
     <title>01:20 PM 09/05/25 - 2025 IIHF Men's World Championship: Denmark vs. USA</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Detroit Tigers vs. Colorado Rockies" stop="20250508235959 -0500">
-    <title>05:40 PM 08/05/25 - Detroit Tigers vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
