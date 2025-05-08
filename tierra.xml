@@ -27,6 +27,9 @@
   <channel id="Chicago White Sox vs. Kansas City Royals">
     <display-name lang="en">Chicago White Sox vs. Kansas City Royals</display-name>
   </channel>
+  <channel id="Detroit Tigers vs. Colorado Rockies">
+    <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Warriors at Timberwolves">
     <display-name lang="en">Warriors at Timberwolves</display-name>
   </channel>
@@ -47,9 +50,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Vegas Golden Knights">
     <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Colorado Rockies">
-    <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Colorado Rockies">
     <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
@@ -195,6 +195,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250508000000 -0500" channel="Detroit Tigers vs. Colorado Rockies" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250508000000 -0500" channel="Warriors at Timberwolves" stop="20250508235959 -0500">
     <title>07:30 PM 08/05/25 - Warriors at Timberwolves</title>
     <date>2025</date>
@@ -245,14 +253,6 @@
   </programme>
   <programme start="20250508000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250508235959 -0500">
     <title>08:30 PM 08/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Detroit Tigers vs. Colorado Rockies" stop="20250508235959 -0500">
-    <title>02:10 PM 08/05/25 - Detroit Tigers vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
