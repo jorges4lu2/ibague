@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250508 -0500">
-  <channel id="PDC: BetMGM Premier League - Night Fourteen">
-    <display-name lang="en">PDC: BetMGM Premier League - Night Fourteen</display-name>
-  </channel>
   <channel id="Carolina Hurricanes vs. Washington Capitals">
     <display-name lang="en">Carolina Hurricanes vs. Washington Capitals</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Colorado Rockies">
     <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="Philadelphia Phillies vs. Tampa Bay Rays">
+    <display-name lang="en">Philadelphia Phillies vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="Cincinnati Reds vs. Atlanta Braves">
+    <display-name lang="en">Cincinnati Reds vs. Atlanta Braves</display-name>
   </channel>
   <channel id="Warriors at Timberwolves">
     <display-name lang="en">Warriors at Timberwolves</display-name>
@@ -38,12 +41,6 @@
   </channel>
   <channel id="2025 IIHF Men's World Championship: Denmark vs. USA">
     <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. USA</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Tampa Bay Rays">
-    <display-name lang="en">Philadelphia Phillies vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Atlanta Braves">
-    <display-name lang="en">Cincinnati Reds vs. Atlanta Braves</display-name>
   </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Angels">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Angels</display-name>
@@ -108,14 +105,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250508000000 -0500" channel="PDC: BetMGM Premier League - Night Fourteen" stop="20250508235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250508000000 -0500" channel="Carolina Hurricanes vs. Washington Capitals" stop="20250508235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -125,6 +114,22 @@
     </audio>
   </programme>
   <programme start="20250508000000 -0500" channel="Detroit Tigers vs. Colorado Rockies" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="Philadelphia Phillies vs. Tampa Bay Rays" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="Cincinnati Reds vs. Atlanta Braves" stop="20250508235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -206,22 +211,6 @@
   </programme>
   <programme start="20250508000000 -0500" channel="2025 IIHF Men's World Championship: Denmark vs. USA" stop="20250508235959 -0500">
     <title>01:20 PM 09/05/25 - 2025 IIHF Men's World Championship: Denmark vs. USA</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Philadelphia Phillies vs. Tampa Bay Rays" stop="20250508235959 -0500">
-    <title>06:05 PM 08/05/25 - Philadelphia Phillies vs. Tampa Bay Rays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Cincinnati Reds vs. Atlanta Braves" stop="20250508235959 -0500">
-    <title>06:15 PM 08/05/25 - Cincinnati Reds vs. Atlanta Braves</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
