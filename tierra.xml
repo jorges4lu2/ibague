@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250509 -0500">
+  <channel id="2025 IIHF Men's World Championship: Austria vs. Finland">
+    <display-name lang="en">2025 IIHF Men's World Championship: Austria vs. Finland</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Switzerland vs. Czechia">
+    <display-name lang="en">2025 IIHF Men's World Championship: Switzerland vs. Czechia</display-name>
+  </channel>
   <channel id="Cavaliers at Pacers">
     <display-name lang="en">Cavaliers at Pacers</display-name>
   </channel>
@@ -47,12 +53,6 @@
   </channel>
   <channel id="Sunderland vs Coventry">
     <display-name lang="en">Sunderland vs Coventry</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Austria vs. Finland">
-    <display-name lang="en">2025 IIHF Men's World Championship: Austria vs. Finland</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Switzerland vs. Czechia">
-    <display-name lang="en">2025 IIHF Men's World Championship: Switzerland vs. Czechia</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Sweden vs. Slovakia">
     <display-name lang="en">2025 IIHF Men's World Championship: Sweden vs. Slovakia</display-name>
@@ -123,6 +123,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250509000000 -0500" channel="2025 IIHF Men's World Championship: Austria vs. Finland" stop="20250509235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250509000000 -0500" channel="2025 IIHF Men's World Championship: Switzerland vs. Czechia" stop="20250509235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250509000000 -0500" channel="Cavaliers at Pacers" stop="20250509235959 -0500">
     <title>06:30 PM 09/05/25 - Cavaliers at Pacers</title>
     <date>2025</date>
@@ -245,22 +261,6 @@
   </programme>
   <programme start="20250509000000 -0500" channel="Sunderland vs Coventry" stop="20250509235959 -0500">
     <title>02:00 PM 13/05/25 - Sunderland vs Coventry</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="2025 IIHF Men's World Championship: Austria vs. Finland" stop="20250509235959 -0500">
-    <title>09:20 AM 09/05/25 - 2025 IIHF Men's World Championship: Austria vs. Finland</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="2025 IIHF Men's World Championship: Switzerland vs. Czechia" stop="20250509235959 -0500">
-    <title>09:20 AM 09/05/25 - 2025 IIHF Men's World Championship: Switzerland vs. Czechia</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
