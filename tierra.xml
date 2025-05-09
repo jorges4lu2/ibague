@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250508 -0500">
+  <channel id="Warriors at Timberwolves">
+    <display-name lang="en">Warriors at Timberwolves</display-name>
+  </channel>
   <channel id="Carolina Hurricanes vs. Washington Capitals">
     <display-name lang="en">Carolina Hurricanes vs. Washington Capitals</display-name>
   </channel>
@@ -11,9 +14,6 @@
   </channel>
   <channel id="Cincinnati Reds vs. Atlanta Braves">
     <display-name lang="en">Cincinnati Reds vs. Atlanta Braves</display-name>
-  </channel>
-  <channel id="Warriors at Timberwolves">
-    <display-name lang="en">Warriors at Timberwolves</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -105,6 +105,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250508000000 -0500" channel="Warriors at Timberwolves" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250508000000 -0500" channel="Carolina Hurricanes vs. Washington Capitals" stop="20250508235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -131,14 +139,6 @@
   </programme>
   <programme start="20250508000000 -0500" channel="Cincinnati Reds vs. Atlanta Braves" stop="20250508235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Warriors at Timberwolves" stop="20250508235959 -0500">
-    <title>07:30 PM 08/05/25 - Warriors at Timberwolves</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
