@@ -1,26 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250509 -0500">
-  <channel id="Boxing: Fury vs. Hanjalic">
-    <display-name lang="en">Boxing: Fury vs. Hanjalic</display-name>
-  </channel>
-  <channel id="Coventry vs Sunderland">
-    <display-name lang="en">Coventry vs Sunderland</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Sweden vs. Slovakia">
-    <display-name lang="en">2025 IIHF Men's World Championship: Sweden vs. Slovakia</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Denmark vs. USA">
-    <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. USA</display-name>
-  </channel>
-  <channel id="Cavaliers at Pacers">
-    <display-name lang="en">Cavaliers at Pacers</display-name>
-  </channel>
-  <channel id="Thunder at Nuggets">
-    <display-name lang="en">Thunder at Nuggets</display-name>
-  </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
   <channel id="PDC: Winmau Darts Championship 2025 - Board 4">
     <display-name lang="en">PDC: Winmau Darts Championship 2025 - Board 4</display-name>
   </channel>
@@ -35,6 +14,15 @@
   </channel>
   <channel id="PDC: Winmau Darts Championship 2025 - Board 1">
     <display-name lang="en">PDC: Winmau Darts Championship 2025 - Board 1</display-name>
+  </channel>
+  <channel id="Cavaliers at Pacers">
+    <display-name lang="en">Cavaliers at Pacers</display-name>
+  </channel>
+  <channel id="Thunder at Nuggets">
+    <display-name lang="en">Thunder at Nuggets</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
   </channel>
   <channel id="PDC: Magic Darts Masters 2025 - Board 2">
     <display-name lang="en">PDC: Magic Darts Masters 2025 - Board 2</display-name>
@@ -120,7 +108,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250509000000 -0500" channel="Boxing: Fury vs. Hanjalic" stop="20250509235959 -0500">
+  <programme start="20250509000000 -0500" channel="PDC: Winmau Darts Championship 2025 - Board 4" stop="20250509235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -128,7 +116,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250509000000 -0500" channel="Coventry vs Sunderland" stop="20250509235959 -0500">
+  <programme start="20250509000000 -0500" channel="PDC: Winmau Darts Championship 2025 - Board 2" stop="20250509235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -136,7 +124,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250509000000 -0500" channel="2025 IIHF Men's World Championship: Sweden vs. Slovakia" stop="20250509235959 -0500">
+  <programme start="20250509000000 -0500" channel="PDC: Winmau Darts Championship 2025 - Board 3" stop="20250509235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -144,7 +132,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250509000000 -0500" channel="2025 IIHF Men's World Championship: Denmark vs. USA" stop="20250509235959 -0500">
+  <programme start="20250509000000 -0500" channel="PDC: Winmau Darts Championship 2025 - Board 5" stop="20250509235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250509000000 -0500" channel="PDC: Winmau Darts Championship 2025 - Board 1" stop="20250509235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -170,46 +166,6 @@
   </programme>
   <programme start="20250509000000 -0500" channel="LND Monthly" stop="20250509235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="PDC: Winmau Darts Championship 2025 - Board 4" stop="20250509235959 -0500">
-    <title>05:00 PM 09/05/25 - PDC: Winmau Darts Championship 2025 - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="PDC: Winmau Darts Championship 2025 - Board 2" stop="20250509235959 -0500">
-    <title>05:00 PM 09/05/25 - PDC: Winmau Darts Championship 2025 - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="PDC: Winmau Darts Championship 2025 - Board 3" stop="20250509235959 -0500">
-    <title>05:00 PM 09/05/25 - PDC: Winmau Darts Championship 2025 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="PDC: Winmau Darts Championship 2025 - Board 5" stop="20250509235959 -0500">
-    <title>05:00 PM 09/05/25 - PDC: Winmau Darts Championship 2025 - Board 5</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="PDC: Winmau Darts Championship 2025 - Board 1" stop="20250509235959 -0500">
-    <title>05:00 PM 09/05/25 - PDC: Winmau Darts Championship 2025 - Board 1</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
