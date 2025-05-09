@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250509 -0500">
+  <channel id="Boxing: Fury vs. Hanjalic">
+    <display-name lang="en">Boxing: Fury vs. Hanjalic</display-name>
+  </channel>
+  <channel id="Coventry vs Sunderland">
+    <display-name lang="en">Coventry vs Sunderland</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Sweden vs. Slovakia">
+    <display-name lang="en">2025 IIHF Men's World Championship: Sweden vs. Slovakia</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Denmark vs. USA">
+    <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. USA</display-name>
+  </channel>
   <channel id="Cavaliers at Pacers">
     <display-name lang="en">Cavaliers at Pacers</display-name>
   </channel>
@@ -39,20 +51,11 @@
   <channel id="PDC: Magic Darts Masters 2025 - Board 1">
     <display-name lang="en">PDC: Magic Darts Masters 2025 - Board 1</display-name>
   </channel>
-  <channel id="Coventry vs Sunderland">
-    <display-name lang="en">Coventry vs Sunderland</display-name>
-  </channel>
   <channel id="Sheffield United vs Bristol City">
     <display-name lang="en">Sheffield United vs Bristol City</display-name>
   </channel>
   <channel id="Sunderland vs Coventry">
     <display-name lang="en">Sunderland vs Coventry</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Sweden vs. Slovakia">
-    <display-name lang="en">2025 IIHF Men's World Championship: Sweden vs. Slovakia</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Denmark vs. USA">
-    <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. USA</display-name>
   </channel>
   <channel id="Toronto Maple Leafs vs. Florida Panthers">
     <display-name lang="en">Toronto Maple Leafs vs. Florida Panthers</display-name>
@@ -117,6 +120,38 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250509000000 -0500" channel="Boxing: Fury vs. Hanjalic" stop="20250509235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250509000000 -0500" channel="Coventry vs Sunderland" stop="20250509235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250509000000 -0500" channel="2025 IIHF Men's World Championship: Sweden vs. Slovakia" stop="20250509235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250509000000 -0500" channel="2025 IIHF Men's World Championship: Denmark vs. USA" stop="20250509235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250509000000 -0500" channel="Cavaliers at Pacers" stop="20250509235959 -0500">
     <title>06:30 PM 09/05/25 - Cavaliers at Pacers</title>
     <date>2025</date>
@@ -221,14 +256,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250509000000 -0500" channel="Coventry vs Sunderland" stop="20250509235959 -0500">
-    <title>02:00 PM 09/05/25 - Coventry vs Sunderland</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250509000000 -0500" channel="Sheffield United vs Bristol City" stop="20250509235959 -0500">
     <title>02:00 PM 12/05/25 - Sheffield United vs Bristol City</title>
     <date>2025</date>
@@ -239,22 +266,6 @@
   </programme>
   <programme start="20250509000000 -0500" channel="Sunderland vs Coventry" stop="20250509235959 -0500">
     <title>02:00 PM 13/05/25 - Sunderland vs Coventry</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="2025 IIHF Men's World Championship: Sweden vs. Slovakia" stop="20250509235959 -0500">
-    <title>01:20 PM 09/05/25 - 2025 IIHF Men's World Championship: Sweden vs. Slovakia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="2025 IIHF Men's World Championship: Denmark vs. USA" stop="20250509235959 -0500">
-    <title>01:20 PM 09/05/25 - 2025 IIHF Men's World Championship: Denmark vs. USA</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
