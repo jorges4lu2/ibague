@@ -3,17 +3,20 @@
   <channel id="Warriors at Timberwolves">
     <display-name lang="en">Warriors at Timberwolves</display-name>
   </channel>
-  <channel id="Carolina Hurricanes vs. Washington Capitals">
-    <display-name lang="en">Carolina Hurricanes vs. Washington Capitals</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Colorado Rockies">
-    <display-name lang="en">Detroit Tigers vs. Colorado Rockies</display-name>
+  <channel id="Edmonton Oilers vs. Vegas Golden Knights">
+    <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Tampa Bay Rays">
     <display-name lang="en">Philadelphia Phillies vs. Tampa Bay Rays</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Atlanta Braves">
     <display-name lang="en">Cincinnati Reds vs. Atlanta Braves</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. Los Angeles Angels">
+    <display-name lang="en">Toronto Blue Jays vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. Arizona Diamondbacks">
+    <display-name lang="en">Los Angeles Dodgers vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -27,9 +30,6 @@
   <channel id="Sunderland vs Coventry">
     <display-name lang="en">Sunderland vs Coventry</display-name>
   </channel>
-  <channel id="Edmonton Oilers vs. Vegas Golden Knights">
-    <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
-  </channel>
   <channel id="2025 IIHF Men's World Championship: Austria vs. Finland">
     <display-name lang="en">2025 IIHF Men's World Championship: Austria vs. Finland</display-name>
   </channel>
@@ -42,11 +42,11 @@
   <channel id="2025 IIHF Men's World Championship: Denmark vs. USA">
     <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. USA</display-name>
   </channel>
-  <channel id="Toronto Blue Jays vs. Los Angeles Angels">
-    <display-name lang="en">Toronto Blue Jays vs. Los Angeles Angels</display-name>
+  <channel id="Toronto Maple Leafs vs. Florida Panthers">
+    <display-name lang="en">Toronto Maple Leafs vs. Florida Panthers</display-name>
   </channel>
-  <channel id="Los Angeles Dodgers vs. Arizona Diamondbacks">
-    <display-name lang="en">Los Angeles Dodgers vs. Arizona Diamondbacks</display-name>
+  <channel id="Dallas Stars vs. Winnipeg Jets">
+    <display-name lang="en">Dallas Stars vs. Winnipeg Jets</display-name>
   </channel>
   <channel id="Atlanta Braves vs. Pittsburgh Pirates">
     <display-name lang="en">Atlanta Braves vs. Pittsburgh Pirates</display-name>
@@ -113,15 +113,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250508000000 -0500" channel="Carolina Hurricanes vs. Washington Capitals" stop="20250508235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250508000000 -0500" channel="Detroit Tigers vs. Colorado Rockies" stop="20250508235959 -0500">
+  <programme start="20250508000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250508235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -138,6 +130,22 @@
     </audio>
   </programme>
   <programme start="20250508000000 -0500" channel="Cincinnati Reds vs. Atlanta Braves" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Angels" stop="20250508235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250508000000 -0500" channel="Los Angeles Dodgers vs. Arizona Diamondbacks" stop="20250508235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -177,14 +185,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250508000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250508235959 -0500">
-    <title>08:30 PM 08/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250508000000 -0500" channel="2025 IIHF Men's World Championship: Austria vs. Finland" stop="20250508235959 -0500">
     <title>09:20 AM 09/05/25 - 2025 IIHF Men's World Championship: Austria vs. Finland</title>
     <date>2025</date>
@@ -217,16 +217,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250508000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Angels" stop="20250508235959 -0500">
-    <title>08:38 PM 08/05/25 - Toronto Blue Jays vs. Los Angeles Angels</title>
+  <programme start="20250508000000 -0500" channel="Toronto Maple Leafs vs. Florida Panthers" stop="20250508235959 -0500">
+    <title>06:00 PM 09/05/25 - Toronto Maple Leafs vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250508000000 -0500" channel="Los Angeles Dodgers vs. Arizona Diamondbacks" stop="20250508235959 -0500">
-    <title>08:40 PM 08/05/25 - Los Angeles Dodgers vs. Arizona Diamondbacks</title>
+  <programme start="20250508000000 -0500" channel="Dallas Stars vs. Winnipeg Jets" stop="20250508235959 -0500">
+    <title>08:30 PM 09/05/25 - Dallas Stars vs. Winnipeg Jets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
