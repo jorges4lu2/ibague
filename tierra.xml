@@ -45,6 +45,15 @@
   <channel id="Miami Marlins vs. Chicago White Sox">
     <display-name lang="en">Miami Marlins vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Cincinnati Reds vs. Houston Astros">
+    <display-name lang="en">Cincinnati Reds vs. Houston Astros</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. Minnesota Twins">
+    <display-name lang="en">San Francisco Giants vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="San Diego Padres vs. Colorado Rockies">
+    <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="WWE: Friday Night SmackDown">
     <display-name lang="en">WWE: Friday Night SmackDown</display-name>
   </channel>
@@ -92,15 +101,6 @@
   </channel>
   <channel id="Dallas Stars vs. Winnipeg Jets">
     <display-name lang="en">Dallas Stars vs. Winnipeg Jets</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Houston Astros">
-    <display-name lang="en">Cincinnati Reds vs. Houston Astros</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Minnesota Twins">
-    <display-name lang="en">San Francisco Giants vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Colorado Rockies">
-    <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Los Angeles Angels">
     <display-name lang="en">Baltimore Orioles vs. Los Angeles Angels</display-name>
@@ -246,6 +246,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250509000000 -0500" channel="Cincinnati Reds vs. Houston Astros" stop="20250509235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250509000000 -0500" channel="San Francisco Giants vs. Minnesota Twins" stop="20250509235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250509000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250509235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250509000000 -0500" channel="WWE: Friday Night SmackDown" stop="20250509235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -368,30 +392,6 @@
   </programme>
   <programme start="20250509000000 -0500" channel="Dallas Stars vs. Winnipeg Jets" stop="20250509235959 -0500">
     <title>08:30 PM 09/05/25 - Dallas Stars vs. Winnipeg Jets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="Cincinnati Reds vs. Houston Astros" stop="20250509235959 -0500">
-    <title>07:10 PM 09/05/25 - Cincinnati Reds vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="San Francisco Giants vs. Minnesota Twins" stop="20250509235959 -0500">
-    <title>07:10 PM 09/05/25 - San Francisco Giants vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250509000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250509235959 -0500">
-    <title>07:40 PM 09/05/25 - San Diego Padres vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
