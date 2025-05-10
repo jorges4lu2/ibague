@@ -3,11 +3,23 @@
   <channel id="Leyton Orient vs Stockport County">
     <display-name lang="en">Leyton Orient vs Stockport County</display-name>
   </channel>
-  <channel id="2025 IIHF Men's World Championship: Slovenia vs. Canada">
-    <display-name lang="en">2025 IIHF Men's World Championship: Slovenia vs. Canada</display-name>
+  <channel id="EPL: Goal Rush">
+    <display-name lang="en">EPL: Goal Rush</display-name>
   </channel>
-  <channel id="2025 IIHF Men's World Championship: Norway vs. Kazakhstan">
-    <display-name lang="en">2025 IIHF Men's World Championship: Norway vs. Kazakhstan</display-name>
+  <channel id="EPL: Fulham vs Everton">
+    <display-name lang="en">EPL: Fulham vs Everton</display-name>
+  </channel>
+  <channel id="EPL: Ipswich Town vs Brentford">
+    <display-name lang="en">EPL: Ipswich Town vs Brentford</display-name>
+  </channel>
+  <channel id="EPL: Southampton vs Manchester City">
+    <display-name lang="en">EPL: Southampton vs Manchester City</display-name>
+  </channel>
+  <channel id="EPL: Wolverhampton Wanderers vs Brighton and Hove Albion">
+    <display-name lang="en">EPL: Wolverhampton Wanderers vs Brighton and Hove Albion</display-name>
+  </channel>
+  <channel id="UFC 315: Muhammad vs. Della Maddalena">
+    <display-name lang="en">UFC 315: Muhammad vs. Della Maddalena</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -26,21 +38,6 @@
   </channel>
   <channel id="PDC: Magic Darts Masters 2025 - Board 1">
     <display-name lang="en">PDC: Magic Darts Masters 2025 - Board 1</display-name>
-  </channel>
-  <channel id="EPL: Goal Rush">
-    <display-name lang="en">EPL: Goal Rush</display-name>
-  </channel>
-  <channel id="EPL: Fulham vs Everton">
-    <display-name lang="en">EPL: Fulham vs Everton</display-name>
-  </channel>
-  <channel id="EPL: Ipswich Town vs Brentford">
-    <display-name lang="en">EPL: Ipswich Town vs Brentford</display-name>
-  </channel>
-  <channel id="EPL: Southampton vs Manchester City">
-    <display-name lang="en">EPL: Southampton vs Manchester City</display-name>
-  </channel>
-  <channel id="EPL: Wolverhampton Wanderers vs Brighton and Hove Albion">
-    <display-name lang="en">EPL: Wolverhampton Wanderers vs Brighton and Hove Albion</display-name>
   </channel>
   <channel id="EPL: Bournemouth vs Aston Villa">
     <display-name lang="en">EPL: Bournemouth vs Aston Villa</display-name>
@@ -137,7 +134,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Slovenia vs. Canada" stop="20250510235959 -0500">
+  <programme start="20250510000000 -0500" channel="EPL: Goal Rush" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -145,8 +142,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Norway vs. Kazakhstan" stop="20250510235959 -0500">
+  <programme start="20250510000000 -0500" channel="EPL: Fulham vs Everton" stop="20250510235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="EPL: Ipswich Town vs Brentford" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="EPL: Southampton vs Manchester City" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="EPL: Wolverhampton Wanderers vs Brighton and Hove Albion" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="UFC 315: Muhammad vs. Della Maddalena" stop="20250510235959 -0500">
+    <title>05:30 PM 10/05/25 - UFC 315: Muhammad vs. Della Maddalena</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -195,46 +224,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="PDC: Magic Darts Masters 2025 - Board 1" stop="20250510235959 -0500">
     <title>11:00 AM 10/05/25 - PDC: Magic Darts Masters 2025 - Board 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Goal Rush" stop="20250510235959 -0500">
-    <title>09:00 AM 10/05/25 - EPL: Goal Rush</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Fulham vs Everton" stop="20250510235959 -0500">
-    <title>09:00 AM 10/05/25 - EPL: Fulham vs Everton</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Ipswich Town vs Brentford" stop="20250510235959 -0500">
-    <title>09:00 AM 10/05/25 - EPL: Ipswich Town vs Brentford</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Southampton vs Manchester City" stop="20250510235959 -0500">
-    <title>09:00 AM 10/05/25 - EPL: Southampton vs Manchester City</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Wolverhampton Wanderers vs Brighton and Hove Albion" stop="20250510235959 -0500">
-    <title>09:00 AM 10/05/25 - EPL: Wolverhampton Wanderers vs Brighton and Hove Albion</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
