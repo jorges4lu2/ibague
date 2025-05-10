@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250510 -0500">
-  <channel id="Celtics at Knicks">
-    <display-name lang="en">Celtics at Knicks</display-name>
-  </channel>
-  <channel id="Celtics at Knicks (Korean)">
-    <display-name lang="en">Celtics at Knicks (Korean)</display-name>
-  </channel>
-  <channel id="PDC: Magic Darts Masters 2025 - Board 2">
-    <display-name lang="en">PDC: Magic Darts Masters 2025 - Board 2</display-name>
+  <channel id="UFC 315: Muhammad vs. Della Maddalena">
+    <display-name lang="en">UFC 315: Muhammad vs. Della Maddalena</display-name>
   </channel>
   <channel id="Washington Capitals vs. Carolina Hurricanes">
     <display-name lang="en">Washington Capitals vs. Carolina Hurricanes</display-name>
@@ -24,17 +18,20 @@
   <channel id="Milwaukee Brewers vs. Tampa Bay Rays">
     <display-name lang="en">Milwaukee Brewers vs. Tampa Bay Rays</display-name>
   </channel>
+  <channel id="Philadelphia Phillies vs. Cleveland Guardians">
+    <display-name lang="en">Philadelphia Phillies vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="Texas Rangers vs. Detroit Tigers">
+    <display-name lang="en">Texas Rangers vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="Supercross: Salt Lake City">
+    <display-name lang="en">Supercross: Salt Lake City</display-name>
+  </channel>
   <channel id="WWE: Backlash">
     <display-name lang="en">WWE: Backlash</display-name>
   </channel>
   <channel id="Timberwolves at Warriors">
     <display-name lang="en">Timberwolves at Warriors</display-name>
-  </channel>
-  <channel id="Timberwolves at Warriors (Korean)">
-    <display-name lang="en">Timberwolves at Warriors (Korean)</display-name>
-  </channel>
-  <channel id="UFC 315: Muhammad vs. Della Maddalena">
-    <display-name lang="en">UFC 315: Muhammad vs. Della Maddalena</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -50,12 +47,6 @@
   </channel>
   <channel id="Vegas Golden Knights vs. Edmonton Oilers">
     <display-name lang="en">Vegas Golden Knights vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Cleveland Guardians">
-    <display-name lang="en">Philadelphia Phillies vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Detroit Tigers">
-    <display-name lang="en">Texas Rangers vs. Detroit Tigers</display-name>
   </channel>
   <channel id="Boston Red Sox vs. Kansas City Royals">
     <display-name lang="en">Boston Red Sox vs. Kansas City Royals</display-name>
@@ -84,9 +75,6 @@
   <channel id="Toronto Blue Jays vs. Seattle Mariners">
     <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="Supercross: Salt Lake City">
-    <display-name lang="en">Supercross: Salt Lake City</display-name>
-  </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
@@ -99,23 +87,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250510000000 -0500" channel="Celtics at Knicks" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Celtics at Knicks (Korean)" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="PDC: Magic Darts Masters 2025 - Board 2" stop="20250510235959 -0500">
+  <programme start="20250510000000 -0500" channel="UFC 315: Muhammad vs. Della Maddalena" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -163,6 +135,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250510000000 -0500" channel="Philadelphia Phillies vs. Cleveland Guardians" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="Texas Rangers vs. Detroit Tigers" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="Supercross: Salt Lake City" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250510000000 -0500" channel="WWE: Backlash" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -173,22 +169,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="Timberwolves at Warriors" stop="20250510235959 -0500">
     <title>07:30 PM 10/05/25 - Timberwolves at Warriors</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Timberwolves at Warriors (Korean)" stop="20250510235959 -0500">
-    <title>07:30 PM 10/05/25 - Timberwolves at Warriors (Korean)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="UFC 315: Muhammad vs. Della Maddalena" stop="20250510235959 -0500">
-    <title>05:30 PM 10/05/25 - UFC 315: Muhammad vs. Della Maddalena</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -229,22 +209,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="Vegas Golden Knights vs. Edmonton Oilers" stop="20250510235959 -0500">
     <title>08:00 PM 10/05/25 - Vegas Golden Knights vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Philadelphia Phillies vs. Cleveland Guardians" stop="20250510235959 -0500">
-    <title>05:10 PM 10/05/25 - Philadelphia Phillies vs. Cleveland Guardians</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Texas Rangers vs. Detroit Tigers" stop="20250510235959 -0500">
-    <title>05:10 PM 10/05/25 - Texas Rangers vs. Detroit Tigers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -317,14 +281,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20250510235959 -0500">
     <title>08:40 PM 10/05/25 - Toronto Blue Jays vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Supercross: Salt Lake City" stop="20250510235959 -0500">
-    <title>05:30 PM 10/05/25 - Supercross: Salt Lake City</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
