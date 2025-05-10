@@ -3,14 +3,14 @@
   <channel id="Celtics at Knicks">
     <display-name lang="en">Celtics at Knicks</display-name>
   </channel>
+  <channel id="Celtics at Knicks (Korean)">
+    <display-name lang="en">Celtics at Knicks (Korean)</display-name>
+  </channel>
   <channel id="PDC: Magic Darts Masters 2025 - Board 2">
     <display-name lang="en">PDC: Magic Darts Masters 2025 - Board 2</display-name>
   </channel>
-  <channel id="Notts County vs AFC Wimbledon">
-    <display-name lang="en">Notts County vs AFC Wimbledon</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Denmark vs. Switzerland">
-    <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. Switzerland</display-name>
+  <channel id="Washington Capitals vs. Carolina Hurricanes">
+    <display-name lang="en">Washington Capitals vs. Carolina Hurricanes</display-name>
   </channel>
   <channel id="Atlanta Braves vs. Pittsburgh Pirates">
     <display-name lang="en">Atlanta Braves vs. Pittsburgh Pirates</display-name>
@@ -30,6 +30,9 @@
   <channel id="Timberwolves at Warriors">
     <display-name lang="en">Timberwolves at Warriors</display-name>
   </channel>
+  <channel id="Timberwolves at Warriors (Korean)">
+    <display-name lang="en">Timberwolves at Warriors (Korean)</display-name>
+  </channel>
   <channel id="UFC 315: Muhammad vs. Della Maddalena">
     <display-name lang="en">UFC 315: Muhammad vs. Della Maddalena</display-name>
   </channel>
@@ -44,9 +47,6 @@
   </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
-  </channel>
-  <channel id="Washington Capitals vs. Carolina Hurricanes">
-    <display-name lang="en">Washington Capitals vs. Carolina Hurricanes</display-name>
   </channel>
   <channel id="Vegas Golden Knights vs. Edmonton Oilers">
     <display-name lang="en">Vegas Golden Knights vs. Edmonton Oilers</display-name>
@@ -107,6 +107,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250510000000 -0500" channel="Celtics at Knicks (Korean)" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250510000000 -0500" channel="PDC: Magic Darts Masters 2025 - Board 2" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -115,15 +123,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Notts County vs AFC Wimbledon" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Denmark vs. Switzerland" stop="20250510235959 -0500">
+  <programme start="20250510000000 -0500" channel="Washington Capitals vs. Carolina Hurricanes" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -179,6 +179,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250510000000 -0500" channel="Timberwolves at Warriors (Korean)" stop="20250510235959 -0500">
+    <title>07:30 PM 10/05/25 - Timberwolves at Warriors (Korean)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250510000000 -0500" channel="UFC 315: Muhammad vs. Della Maddalena" stop="20250510235959 -0500">
     <title>05:30 PM 10/05/25 - UFC 315: Muhammad vs. Della Maddalena</title>
     <date>2025</date>
@@ -213,14 +221,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="Marseille vs Rennes" stop="20250510235959 -0500">
     <title>02:00 PM 17/05/25 - Marseille vs Rennes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Washington Capitals vs. Carolina Hurricanes" stop="20250510235959 -0500">
-    <title>05:00 PM 10/05/25 - Washington Capitals vs. Carolina Hurricanes</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
