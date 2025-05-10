@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250510 -0500">
+  <channel id="Leyton Orient vs Stockport County">
+    <display-name lang="en">Leyton Orient vs Stockport County</display-name>
+  </channel>
   <channel id="2025 IIHF Men's World Championship: Slovenia vs. Canada">
     <display-name lang="en">2025 IIHF Men's World Championship: Slovenia vs. Canada</display-name>
   </channel>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="PDC: Magic Darts Masters 2025 - Board 1">
     <display-name lang="en">PDC: Magic Darts Masters 2025 - Board 1</display-name>
-  </channel>
-  <channel id="Leyton Orient vs Stockport County">
-    <display-name lang="en">Leyton Orient vs Stockport County</display-name>
   </channel>
   <channel id="EPL: Goal Rush">
     <display-name lang="en">EPL: Goal Rush</display-name>
@@ -129,6 +129,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250510000000 -0500" channel="Leyton Orient vs Stockport County" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Slovenia vs. Canada" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -187,14 +195,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="PDC: Magic Darts Masters 2025 - Board 1" stop="20250510235959 -0500">
     <title>11:00 AM 10/05/25 - PDC: Magic Darts Masters 2025 - Board 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Leyton Orient vs Stockport County" stop="20250510235959 -0500">
-    <title>06:30 AM 10/05/25 - Leyton Orient vs Stockport County</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
