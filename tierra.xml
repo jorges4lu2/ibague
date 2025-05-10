@@ -15,26 +15,17 @@
   <channel id="PDC: Magic Darts Masters 2025 - Board 1">
     <display-name lang="en">PDC: Magic Darts Masters 2025 - Board 1</display-name>
   </channel>
-  <channel id="EPL: Goal Rush">
-    <display-name lang="en">EPL: Goal Rush</display-name>
-  </channel>
-  <channel id="EPL: Fulham vs Everton">
-    <display-name lang="en">EPL: Fulham vs Everton</display-name>
-  </channel>
-  <channel id="EPL: Ipswich Town vs Brentford">
-    <display-name lang="en">EPL: Ipswich Town vs Brentford</display-name>
-  </channel>
-  <channel id="EPL: Southampton vs Manchester City">
-    <display-name lang="en">EPL: Southampton vs Manchester City</display-name>
-  </channel>
-  <channel id="EPL: Wolverhampton Wanderers vs Brighton and Hove Albion">
-    <display-name lang="en">EPL: Wolverhampton Wanderers vs Brighton and Hove Albion</display-name>
+  <channel id="EPL: Bournemouth vs Aston Villa">
+    <display-name lang="en">EPL: Bournemouth vs Aston Villa</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Sweden vs. Austria">
     <display-name lang="en">2025 IIHF Men's World Championship: Sweden vs. Austria</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Germany vs. Hungary">
     <display-name lang="en">2025 IIHF Men's World Championship: Germany vs. Hungary</display-name>
+  </channel>
+  <channel id="Supercross: Race Day Live: Salt Lake City">
+    <display-name lang="en">Supercross: Race Day Live: Salt Lake City</display-name>
   </channel>
   <channel id="Celtics at Knicks">
     <display-name lang="en">Celtics at Knicks</display-name>
@@ -47,9 +38,6 @@
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="EPL: Bournemouth vs Aston Villa">
-    <display-name lang="en">EPL: Bournemouth vs Aston Villa</display-name>
   </channel>
   <channel id="Notts County vs AFC Wimbledon">
     <display-name lang="en">Notts County vs AFC Wimbledon</display-name>
@@ -120,9 +108,6 @@
   <channel id="Toronto Blue Jays vs. Seattle Mariners">
     <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="Supercross: Race Day Live: Salt Lake City">
-    <display-name lang="en">Supercross: Race Day Live: Salt Lake City</display-name>
-  </channel>
   <channel id="Supercross: Salt Lake City">
     <display-name lang="en">Supercross: Salt Lake City</display-name>
   </channel>
@@ -181,39 +166,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Goal Rush" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Fulham vs Everton" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Ipswich Town vs Brentford" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Southampton vs Manchester City" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Wolverhampton Wanderers vs Brighton and Hove Albion" stop="20250510235959 -0500">
+  <programme start="20250510000000 -0500" channel="EPL: Bournemouth vs Aston Villa" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -230,6 +183,14 @@
     </audio>
   </programme>
   <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Germany vs. Hungary" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="Supercross: Race Day Live: Salt Lake City" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -263,14 +224,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="LND Monthly" stop="20250510235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Bournemouth vs Aston Villa" stop="20250510235959 -0500">
-    <title>11:30 AM 10/05/25 - EPL: Bournemouth vs Aston Villa</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -455,14 +408,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20250510235959 -0500">
     <title>08:40 PM 10/05/25 - Toronto Blue Jays vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Supercross: Race Day Live: Salt Lake City" stop="20250510235959 -0500">
-    <title>12:00 PM 10/05/25 - Supercross: Race Day Live: Salt Lake City</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
