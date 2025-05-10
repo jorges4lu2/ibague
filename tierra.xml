@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250510 -0500">
-  <channel id="Leyton Orient vs Stockport County">
-    <display-name lang="en">Leyton Orient vs Stockport County</display-name>
-  </channel>
   <channel id="EPL: Goal Rush">
     <display-name lang="en">EPL: Goal Rush</display-name>
   </channel>
@@ -17,6 +14,18 @@
   </channel>
   <channel id="EPL: Wolverhampton Wanderers vs Brighton and Hove Albion">
     <display-name lang="en">EPL: Wolverhampton Wanderers vs Brighton and Hove Albion</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Sweden vs. Austria">
+    <display-name lang="en">2025 IIHF Men's World Championship: Sweden vs. Austria</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Germany vs. Hungary">
+    <display-name lang="en">2025 IIHF Men's World Championship: Germany vs. Hungary</display-name>
+  </channel>
+  <channel id="Celtics at Knicks">
+    <display-name lang="en">Celtics at Knicks</display-name>
+  </channel>
+  <channel id="Timberwolves at Warriors">
+    <display-name lang="en">Timberwolves at Warriors</display-name>
   </channel>
   <channel id="UFC 315: Muhammad vs. Della Maddalena">
     <display-name lang="en">UFC 315: Muhammad vs. Della Maddalena</display-name>
@@ -51,11 +60,8 @@
   <channel id="Sunderland vs Coventry">
     <display-name lang="en">Sunderland vs Coventry</display-name>
   </channel>
-  <channel id="2025 IIHF Men's World Championship: Sweden vs. Austria">
-    <display-name lang="en">2025 IIHF Men's World Championship: Sweden vs. Austria</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Germany vs. Hungary">
-    <display-name lang="en">2025 IIHF Men's World Championship: Germany vs. Hungary</display-name>
+  <channel id="Marseille vs Rennes">
+    <display-name lang="en">Marseille vs Rennes</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Denmark vs. Switzerland">
     <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. Switzerland</display-name>
@@ -114,6 +120,15 @@
   <channel id="Toronto Blue Jays vs. Seattle Mariners">
     <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
   </channel>
+  <channel id="Supercross: Race Day Live: Salt Lake City">
+    <display-name lang="en">Supercross: Race Day Live: Salt Lake City</display-name>
+  </channel>
+  <channel id="Supercross: Salt Lake City">
+    <display-name lang="en">Supercross: Salt Lake City</display-name>
+  </channel>
+  <channel id="WWE: Backlash">
+    <display-name lang="en">WWE: Backlash</display-name>
+  </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
@@ -126,14 +141,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250510000000 -0500" channel="Leyton Orient vs Stockport County" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250510000000 -0500" channel="EPL: Goal Rush" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -168,6 +175,38 @@
   </programme>
   <programme start="20250510000000 -0500" channel="EPL: Wolverhampton Wanderers vs Brighton and Hove Albion" stop="20250510235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Sweden vs. Austria" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Germany vs. Hungary" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="Celtics at Knicks" stop="20250510235959 -0500">
+    <title>02:30 PM 10/05/25 - Celtics at Knicks</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="Timberwolves at Warriors" stop="20250510235959 -0500">
+    <title>07:30 PM 10/05/25 - Timberwolves at Warriors</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -262,16 +301,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Sweden vs. Austria" stop="20250510235959 -0500">
-    <title>09:20 AM 10/05/25 - 2025 IIHF Men's World Championship: Sweden vs. Austria</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Germany vs. Hungary" stop="20250510235959 -0500">
-    <title>09:20 AM 10/05/25 - 2025 IIHF Men's World Championship: Germany vs. Hungary</title>
+  <programme start="20250510000000 -0500" channel="Marseille vs Rennes" stop="20250510235959 -0500">
+    <title>02:00 PM 17/05/25 - Marseille vs Rennes</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -424,6 +455,30 @@
   </programme>
   <programme start="20250510000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20250510235959 -0500">
     <title>08:40 PM 10/05/25 - Toronto Blue Jays vs. Seattle Mariners</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="Supercross: Race Day Live: Salt Lake City" stop="20250510235959 -0500">
+    <title>12:00 PM 10/05/25 - Supercross: Race Day Live: Salt Lake City</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="Supercross: Salt Lake City" stop="20250510235959 -0500">
+    <title>05:30 PM 10/05/25 - Supercross: Salt Lake City</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="WWE: Backlash" stop="20250510235959 -0500">
+    <title>04:00 PM 10/05/25 - WWE: Backlash</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
