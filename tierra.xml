@@ -18,6 +18,12 @@
   <channel id="PDC: Magic Darts Masters 2025 - Board 1">
     <display-name lang="en">PDC: Magic Darts Masters 2025 - Board 1</display-name>
   </channel>
+  <channel id="Leyton Orient vs Stockport County">
+    <display-name lang="en">Leyton Orient vs Stockport County</display-name>
+  </channel>
+  <channel id="EPL: Goal Rush">
+    <display-name lang="en">EPL: Goal Rush</display-name>
+  </channel>
   <channel id="EPL: Fulham vs Everton">
     <display-name lang="en">EPL: Fulham vs Everton</display-name>
   </channel>
@@ -32,6 +38,9 @@
   </channel>
   <channel id="EPL: Bournemouth vs Aston Villa">
     <display-name lang="en">EPL: Bournemouth vs Aston Villa</display-name>
+  </channel>
+  <channel id="Notts County vs AFC Wimbledon">
+    <display-name lang="en">Notts County vs AFC Wimbledon</display-name>
   </channel>
   <channel id="Sheffield United vs Bristol City">
     <display-name lang="en">Sheffield United vs Bristol City</display-name>
@@ -168,6 +177,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250510000000 -0500" channel="Leyton Orient vs Stockport County" stop="20250510235959 -0500">
+    <title>06:30 AM 10/05/25 - Leyton Orient vs Stockport County</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="EPL: Goal Rush" stop="20250510235959 -0500">
+    <title>09:00 AM 10/05/25 - EPL: Goal Rush</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250510000000 -0500" channel="EPL: Fulham vs Everton" stop="20250510235959 -0500">
     <title>09:00 AM 10/05/25 - EPL: Fulham vs Everton</title>
     <date>2025</date>
@@ -202,6 +227,14 @@
   </programme>
   <programme start="20250510000000 -0500" channel="EPL: Bournemouth vs Aston Villa" stop="20250510235959 -0500">
     <title>11:30 AM 10/05/25 - EPL: Bournemouth vs Aston Villa</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="Notts County vs AFC Wimbledon" stop="20250510235959 -0500">
+    <title>02:00 PM 10/05/25 - Notts County vs AFC Wimbledon</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
