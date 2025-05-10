@@ -15,8 +15,11 @@
   <channel id="PDC: Magic Darts Masters 2025 - Board 1">
     <display-name lang="en">PDC: Magic Darts Masters 2025 - Board 1</display-name>
   </channel>
-  <channel id="EPL: Bournemouth vs Aston Villa">
-    <display-name lang="en">EPL: Bournemouth vs Aston Villa</display-name>
+  <channel id="Notts County vs AFC Wimbledon">
+    <display-name lang="en">Notts County vs AFC Wimbledon</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Denmark vs. Switzerland">
+    <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. Switzerland</display-name>
   </channel>
   <channel id="Supercross: Race Day Live: Salt Lake City">
     <display-name lang="en">Supercross: Race Day Live: Salt Lake City</display-name>
@@ -33,9 +36,6 @@
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
-  <channel id="Notts County vs AFC Wimbledon">
-    <display-name lang="en">Notts County vs AFC Wimbledon</display-name>
-  </channel>
   <channel id="Sheffield United vs Bristol City">
     <display-name lang="en">Sheffield United vs Bristol City</display-name>
   </channel>
@@ -44,12 +44,6 @@
   </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Denmark vs. Switzerland">
-    <display-name lang="en">2025 IIHF Men's World Championship: Denmark vs. Switzerland</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: France vs. Latvia">
-    <display-name lang="en">2025 IIHF Men's World Championship: France vs. Latvia</display-name>
   </channel>
   <channel id="Washington Capitals vs. Carolina Hurricanes">
     <display-name lang="en">Washington Capitals vs. Carolina Hurricanes</display-name>
@@ -160,7 +154,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="EPL: Bournemouth vs Aston Villa" stop="20250510235959 -0500">
+  <programme start="20250510000000 -0500" channel="Notts County vs AFC Wimbledon" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Denmark vs. Switzerland" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -208,14 +210,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Notts County vs AFC Wimbledon" stop="20250510235959 -0500">
-    <title>02:00 PM 10/05/25 - Notts County vs AFC Wimbledon</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250510000000 -0500" channel="Sheffield United vs Bristol City" stop="20250510235959 -0500">
     <title>02:00 PM 12/05/25 - Sheffield United vs Bristol City</title>
     <date>2025</date>
@@ -234,22 +228,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="Marseille vs Rennes" stop="20250510235959 -0500">
     <title>02:00 PM 17/05/25 - Marseille vs Rennes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: Denmark vs. Switzerland" stop="20250510235959 -0500">
-    <title>01:20 PM 10/05/25 - 2025 IIHF Men's World Championship: Denmark vs. Switzerland</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="2025 IIHF Men's World Championship: France vs. Latvia" stop="20250510235959 -0500">
-    <title>01:20 PM 10/05/25 - 2025 IIHF Men's World Championship: France vs. Latvia</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
