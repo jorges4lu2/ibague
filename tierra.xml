@@ -1,19 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250510 -0500">
+<tv date="20250511 -0500">
   <channel id="UFC 315: Muhammad vs. Della Maddalena">
     <display-name lang="en">UFC 315: Muhammad vs. Della Maddalena</display-name>
   </channel>
-  <channel id="Baltimore Orioles vs. Los Angeles Angels">
-    <display-name lang="en">Baltimore Orioles vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Seattle Mariners">
-    <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="WWE: Backlash">
-    <display-name lang="en">WWE: Backlash</display-name>
-  </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 15 - Board 4">
+    <display-name lang="en">PDC: Players Championship 15 - Board 4</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 15 - Board 1">
+    <display-name lang="en">PDC: Players Championship 15 - Board 1</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 15 - Board 3">
+    <display-name lang="en">PDC: Players Championship 15 - Board 3</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 15 - Board 2">
+    <display-name lang="en">PDC: Players Championship 15 - Board 2</display-name>
   </channel>
   <channel id="Sheffield United vs Bristol City">
     <display-name lang="en">Sheffield United vs Bristol City</display-name>
@@ -87,7 +90,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250510000000 -0500" channel="UFC 315: Muhammad vs. Della Maddalena" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="UFC 315: Muhammad vs. Della Maddalena" stop="20250511235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -95,31 +98,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Baltimore Orioles vs. Los Angeles Angels" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="WWE: Backlash" stop="20250510235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="LND Monthly" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="LND Monthly" stop="20250511235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
     <date>2025</date>
     <category>Sports</category>
@@ -127,7 +106,39 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Sheffield United vs Bristol City" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="PDC: Players Championship 15 - Board 4" stop="20250511235959 -0500">
+    <title>06:00 AM 12/05/25 - PDC: Players Championship 15 - Board 4</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="PDC: Players Championship 15 - Board 1" stop="20250511235959 -0500">
+    <title>06:00 AM 12/05/25 - PDC: Players Championship 15 - Board 1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="PDC: Players Championship 15 - Board 3" stop="20250511235959 -0500">
+    <title>06:00 AM 12/05/25 - PDC: Players Championship 15 - Board 3</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="PDC: Players Championship 15 - Board 2" stop="20250511235959 -0500">
+    <title>06:00 AM 12/05/25 - PDC: Players Championship 15 - Board 2</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="Sheffield United vs Bristol City" stop="20250511235959 -0500">
     <title>02:00 PM 12/05/25 - Sheffield United vs Bristol City</title>
     <date>2025</date>
     <category>Sports</category>
@@ -135,7 +146,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Sunderland vs Coventry" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Sunderland vs Coventry" stop="20250511235959 -0500">
     <title>02:00 PM 13/05/25 - Sunderland vs Coventry</title>
     <date>2025</date>
     <category>Sports</category>
@@ -143,7 +154,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Marseille vs Rennes" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Marseille vs Rennes" stop="20250511235959 -0500">
     <title>02:00 PM 17/05/25 - Marseille vs Rennes</title>
     <date>2025</date>
     <category>Sports</category>
@@ -151,7 +162,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Winnipeg Jets vs. Dallas Stars" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Winnipeg Jets vs. Dallas Stars" stop="20250511235959 -0500">
     <title>03:30 PM 11/05/25 - Winnipeg Jets vs. Dallas Stars</title>
     <date>2025</date>
     <category>Sports</category>
@@ -159,7 +170,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Toronto Maple Leafs vs. Florida Panthers" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Toronto Maple Leafs vs. Florida Panthers" stop="20250511235959 -0500">
     <title>06:30 PM 11/05/25 - Toronto Maple Leafs vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -167,7 +178,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Chicago Cubs vs. New York Mets" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Chicago Cubs vs. New York Mets" stop="20250511235959 -0500">
     <title>11:05 AM 11/05/25 - Chicago Cubs vs. New York Mets</title>
     <date>2025</date>
     <category>Sports</category>
@@ -175,7 +186,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Atlanta Braves vs. Pittsburgh Pirates" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Atlanta Braves vs. Pittsburgh Pirates" stop="20250511235959 -0500">
     <title>12:35 PM 11/05/25 - Atlanta Braves vs. Pittsburgh Pirates</title>
     <date>2025</date>
     <category>Sports</category>
@@ -183,7 +194,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="St. Louis Cardinals vs. Washington Nationals" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="St. Louis Cardinals vs. Washington Nationals" stop="20250511235959 -0500">
     <title>12:35 PM 11/05/25 - St. Louis Cardinals vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
@@ -191,7 +202,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Milwaukee Brewers vs. Tampa Bay Rays" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Milwaukee Brewers vs. Tampa Bay Rays" stop="20250511235959 -0500">
     <title>12:40 PM 11/05/25 - Milwaukee Brewers vs. Tampa Bay Rays</title>
     <date>2025</date>
     <category>Sports</category>
@@ -199,7 +210,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Texas Rangers vs. Detroit Tigers" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Texas Rangers vs. Detroit Tigers" stop="20250511235959 -0500">
     <title>12:40 PM 11/05/25 - Texas Rangers vs. Detroit Tigers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -207,7 +218,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Boston Red Sox vs. Kansas City Royals" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Boston Red Sox vs. Kansas City Royals" stop="20250511235959 -0500">
     <title>01:10 PM 11/05/25 - Boston Red Sox vs. Kansas City Royals</title>
     <date>2025</date>
     <category>Sports</category>
@@ -215,7 +226,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Cincinnati Reds vs. Houston Astros" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Cincinnati Reds vs. Houston Astros" stop="20250511235959 -0500">
     <title>01:10 PM 11/05/25 - Cincinnati Reds vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
@@ -223,7 +234,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Miami Marlins vs. Chicago White Sox" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Miami Marlins vs. Chicago White Sox" stop="20250511235959 -0500">
     <title>01:10 PM 11/05/25 - Miami Marlins vs. Chicago White Sox</title>
     <date>2025</date>
     <category>Sports</category>
@@ -231,7 +242,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="San Francisco Giants vs. Minnesota Twins" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="San Francisco Giants vs. Minnesota Twins" stop="20250511235959 -0500">
     <title>01:10 PM 11/05/25 - San Francisco Giants vs. Minnesota Twins</title>
     <date>2025</date>
     <category>Sports</category>
@@ -239,7 +250,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250511235959 -0500">
     <title>02:10 PM 11/05/25 - San Diego Padres vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
@@ -247,7 +258,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="New York Yankees vs. Athletics" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="New York Yankees vs. Athletics" stop="20250511235959 -0500">
     <title>03:05 PM 11/05/25 - New York Yankees vs. Athletics</title>
     <date>2025</date>
     <category>Sports</category>
@@ -255,7 +266,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Baltimore Orioles vs. Los Angeles Angels" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Baltimore Orioles vs. Los Angeles Angels" stop="20250511235959 -0500">
     <title>03:07 PM 11/05/25 - Baltimore Orioles vs. Los Angeles Angels</title>
     <date>2025</date>
     <category>Sports</category>
@@ -263,7 +274,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Los Angeles Dodgers vs. Arizona Diamondbacks" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Los Angeles Dodgers vs. Arizona Diamondbacks" stop="20250511235959 -0500">
     <title>03:10 PM 11/05/25 - Los Angeles Dodgers vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
@@ -271,7 +282,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20250511235959 -0500">
     <title>03:10 PM 11/05/25 - Toronto Blue Jays vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
@@ -279,7 +290,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Philadelphia Phillies vs. Cleveland Guardians" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="Philadelphia Phillies vs. Cleveland Guardians" stop="20250511235959 -0500">
     <title>06:00 PM 11/05/25 - Philadelphia Phillies vs. Cleveland Guardians</title>
     <date>2025</date>
     <category>Sports</category>
@@ -287,7 +298,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="24/7 COWS" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="24/7 COWS" stop="20250511235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -295,7 +306,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="24/7 South Park" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="24/7 South Park" stop="20250511235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -303,7 +314,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="24/7 The Simpsons" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="24/7 The Simpsons" stop="20250511235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -311,7 +322,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="(North) Korean Central Television" stop="20250510235959 -0500">
+  <programme start="20250511000000 -0500" channel="(North) Korean Central Television" stop="20250511235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
