@@ -36,8 +36,14 @@
   <channel id="Barcelona vs Real Madrid">
     <display-name lang="en">Barcelona vs Real Madrid</display-name>
   </channel>
+  <channel id="Chesterfield vs Walsall">
+    <display-name lang="en">Chesterfield vs Walsall</display-name>
+  </channel>
   <channel id="EPL: Liverpool vs Arsenal">
     <display-name lang="en">EPL: Liverpool vs Arsenal</display-name>
+  </channel>
+  <channel id="Wycombe vs Charlton">
+    <display-name lang="en">Wycombe vs Charlton</display-name>
   </channel>
   <channel id="Sheffield United vs Bristol City">
     <display-name lang="en">Sheffield United vs Bristol City</display-name>
@@ -219,8 +225,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250511000000 -0500" channel="Chesterfield vs Walsall" stop="20250511235959 -0500">
+    <title>09:30 AM 11/05/25 - Chesterfield vs Walsall</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250511000000 -0500" channel="EPL: Liverpool vs Arsenal" stop="20250511235959 -0500">
     <title>10:30 AM 11/05/25 - EPL: Liverpool vs Arsenal</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="Wycombe vs Charlton" stop="20250511235959 -0500">
+    <title>12:30 PM 11/05/25 - Wycombe vs Charlton</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
