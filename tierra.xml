@@ -1,19 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250511 -0500">
-  <channel id="EPL: Manchester United vs West Ham United">
-    <display-name lang="en">EPL: Manchester United vs West Ham United</display-name>
-  </channel>
-  <channel id="EPL: Nottingham Forest vs Leicester City">
-    <display-name lang="en">EPL: Nottingham Forest vs Leicester City</display-name>
-  </channel>
-  <channel id="EPL: Tottenham Hotspur vs Crystal Palace">
-    <display-name lang="en">EPL: Tottenham Hotspur vs Crystal Palace</display-name>
-  </channel>
   <channel id="Barcelona vs Real Madrid">
     <display-name lang="en">Barcelona vs Real Madrid</display-name>
   </channel>
   <channel id="Chesterfield vs Walsall">
     <display-name lang="en">Chesterfield vs Walsall</display-name>
+  </channel>
+  <channel id="EPL: Liverpool vs Arsenal">
+    <display-name lang="en">EPL: Liverpool vs Arsenal</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Latvia vs. Canada">
     <display-name lang="en">2025 IIHF Men's World Championship: Latvia vs. Canada</display-name>
@@ -41,9 +35,6 @@
   </channel>
   <channel id="PDC: Players Championship 15 - Board 2">
     <display-name lang="en">PDC: Players Championship 15 - Board 2</display-name>
-  </channel>
-  <channel id="EPL: Liverpool vs Arsenal">
-    <display-name lang="en">EPL: Liverpool vs Arsenal</display-name>
   </channel>
   <channel id="Wycombe vs Charlton">
     <display-name lang="en">Wycombe vs Charlton</display-name>
@@ -126,30 +117,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250511000000 -0500" channel="EPL: Manchester United vs West Ham United" stop="20250511235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250511000000 -0500" channel="EPL: Nottingham Forest vs Leicester City" stop="20250511235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250511000000 -0500" channel="EPL: Tottenham Hotspur vs Crystal Palace" stop="20250511235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250511000000 -0500" channel="Barcelona vs Real Madrid" stop="20250511235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -159,6 +126,14 @@
     </audio>
   </programme>
   <programme start="20250511000000 -0500" channel="Chesterfield vs Walsall" stop="20250511235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="EPL: Liverpool vs Arsenal" stop="20250511235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -232,14 +207,6 @@
   </programme>
   <programme start="20250511000000 -0500" channel="PDC: Players Championship 15 - Board 2" stop="20250511235959 -0500">
     <title>06:00 AM 12/05/25 - PDC: Players Championship 15 - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250511000000 -0500" channel="EPL: Liverpool vs Arsenal" stop="20250511235959 -0500">
-    <title>10:30 AM 11/05/25 - EPL: Liverpool vs Arsenal</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
