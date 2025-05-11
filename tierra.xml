@@ -9,6 +9,24 @@
   <channel id="EPL: Tottenham Hotspur vs Crystal Palace">
     <display-name lang="en">EPL: Tottenham Hotspur vs Crystal Palace</display-name>
   </channel>
+  <channel id="Barcelona vs Real Madrid">
+    <display-name lang="en">Barcelona vs Real Madrid</display-name>
+  </channel>
+  <channel id="Chesterfield vs Walsall">
+    <display-name lang="en">Chesterfield vs Walsall</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Latvia vs. Canada">
+    <display-name lang="en">2025 IIHF Men's World Championship: Latvia vs. Canada</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Germany vs. Kazakhstan">
+    <display-name lang="en">2025 IIHF Men's World Championship: Germany vs. Kazakhstan</display-name>
+  </channel>
+  <channel id="Thunder at Nuggets">
+    <display-name lang="en">Thunder at Nuggets</display-name>
+  </channel>
+  <channel id="Cavaliers at Pacers">
+    <display-name lang="en">Cavaliers at Pacers</display-name>
+  </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
@@ -24,12 +42,6 @@
   <channel id="PDC: Players Championship 15 - Board 2">
     <display-name lang="en">PDC: Players Championship 15 - Board 2</display-name>
   </channel>
-  <channel id="Barcelona vs Real Madrid">
-    <display-name lang="en">Barcelona vs Real Madrid</display-name>
-  </channel>
-  <channel id="Chesterfield vs Walsall">
-    <display-name lang="en">Chesterfield vs Walsall</display-name>
-  </channel>
   <channel id="EPL: Liverpool vs Arsenal">
     <display-name lang="en">EPL: Liverpool vs Arsenal</display-name>
   </channel>
@@ -44,12 +56,6 @@
   </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Latvia vs. Canada">
-    <display-name lang="en">2025 IIHF Men's World Championship: Latvia vs. Canada</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Germany vs. Kazakhstan">
-    <display-name lang="en">2025 IIHF Men's World Championship: Germany vs. Kazakhstan</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Finland vs. France">
     <display-name lang="en">2025 IIHF Men's World Championship: Finland vs. France</display-name>
@@ -144,6 +150,54 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250511000000 -0500" channel="Barcelona vs Real Madrid" stop="20250511235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="Chesterfield vs Walsall" stop="20250511235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="2025 IIHF Men's World Championship: Latvia vs. Canada" stop="20250511235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="2025 IIHF Men's World Championship: Germany vs. Kazakhstan" stop="20250511235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="Thunder at Nuggets" stop="20250511235959 -0500">
+    <title>02:30 PM 11/05/25 - Thunder at Nuggets</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="Cavaliers at Pacers" stop="20250511235959 -0500">
+    <title>07:00 PM 11/05/25 - Cavaliers at Pacers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250511000000 -0500" channel="LND Monthly" stop="20250511235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
     <date>2025</date>
@@ -184,22 +238,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250511000000 -0500" channel="Barcelona vs Real Madrid" stop="20250511235959 -0500">
-    <title>09:15 AM 11/05/25 - Barcelona vs Real Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250511000000 -0500" channel="Chesterfield vs Walsall" stop="20250511235959 -0500">
-    <title>09:30 AM 11/05/25 - Chesterfield vs Walsall</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250511000000 -0500" channel="EPL: Liverpool vs Arsenal" stop="20250511235959 -0500">
     <title>10:30 AM 11/05/25 - EPL: Liverpool vs Arsenal</title>
     <date>2025</date>
@@ -234,22 +272,6 @@
   </programme>
   <programme start="20250511000000 -0500" channel="Marseille vs Rennes" stop="20250511235959 -0500">
     <title>02:00 PM 17/05/25 - Marseille vs Rennes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250511000000 -0500" channel="2025 IIHF Men's World Championship: Latvia vs. Canada" stop="20250511235959 -0500">
-    <title>09:20 AM 11/05/25 - 2025 IIHF Men's World Championship: Latvia vs. Canada</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250511000000 -0500" channel="2025 IIHF Men's World Championship: Germany vs. Kazakhstan" stop="20250511235959 -0500">
-    <title>09:20 AM 11/05/25 - 2025 IIHF Men's World Championship: Germany vs. Kazakhstan</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
