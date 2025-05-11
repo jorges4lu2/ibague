@@ -15,6 +15,9 @@
   <channel id="2025 IIHF Men's World Championship: Germany vs. Kazakhstan">
     <display-name lang="en">2025 IIHF Men's World Championship: Germany vs. Kazakhstan</display-name>
   </channel>
+  <channel id="Chicago Cubs vs. New York Mets">
+    <display-name lang="en">Chicago Cubs vs. New York Mets</display-name>
+  </channel>
   <channel id="Thunder at Nuggets">
     <display-name lang="en">Thunder at Nuggets</display-name>
   </channel>
@@ -59,9 +62,6 @@
   </channel>
   <channel id="Toronto Maple Leafs vs. Florida Panthers">
     <display-name lang="en">Toronto Maple Leafs vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. New York Mets">
-    <display-name lang="en">Chicago Cubs vs. New York Mets</display-name>
   </channel>
   <channel id="Atlanta Braves vs. Pittsburgh Pirates">
     <display-name lang="en">Atlanta Braves vs. Pittsburgh Pirates</display-name>
@@ -150,6 +150,14 @@
     </audio>
   </programme>
   <programme start="20250511000000 -0500" channel="2025 IIHF Men's World Championship: Germany vs. Kazakhstan" stop="20250511235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250511000000 -0500" channel="Chicago Cubs vs. New York Mets" stop="20250511235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -271,14 +279,6 @@
   </programme>
   <programme start="20250511000000 -0500" channel="Toronto Maple Leafs vs. Florida Panthers" stop="20250511235959 -0500">
     <title>06:30 PM 11/05/25 - Toronto Maple Leafs vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250511000000 -0500" channel="Chicago Cubs vs. New York Mets" stop="20250511235959 -0500">
-    <title>11:05 AM 11/05/25 - Chicago Cubs vs. New York Mets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
