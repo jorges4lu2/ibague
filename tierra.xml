@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250510 -0500">
+  <channel id="Timberwolves at Warriors">
+    <display-name lang="en">Timberwolves at Warriors</display-name>
+  </channel>
   <channel id="UFC 315: Muhammad vs. Della Maddalena">
     <display-name lang="en">UFC 315: Muhammad vs. Della Maddalena</display-name>
   </channel>
   <channel id="PDC: Magic Darts Masters 2025 - Board 2">
     <display-name lang="en">PDC: Magic Darts Masters 2025 - Board 2</display-name>
   </channel>
-  <channel id="Washington Capitals vs. Carolina Hurricanes">
-    <display-name lang="en">Washington Capitals vs. Carolina Hurricanes</display-name>
+  <channel id="Vegas Golden Knights vs. Edmonton Oilers">
+    <display-name lang="en">Vegas Golden Knights vs. Edmonton Oilers</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Cleveland Guardians">
     <display-name lang="en">Philadelphia Phillies vs. Cleveland Guardians</display-name>
@@ -30,14 +33,17 @@
   <channel id="San Francisco Giants vs. Minnesota Twins">
     <display-name lang="en">San Francisco Giants vs. Minnesota Twins</display-name>
   </channel>
+  <channel id="San Diego Padres vs. Colorado Rockies">
+    <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. Arizona Diamondbacks">
+    <display-name lang="en">Los Angeles Dodgers vs. Arizona Diamondbacks</display-name>
+  </channel>
   <channel id="Supercross: Salt Lake City">
     <display-name lang="en">Supercross: Salt Lake City</display-name>
   </channel>
   <channel id="WWE: Backlash">
     <display-name lang="en">WWE: Backlash</display-name>
-  </channel>
-  <channel id="Timberwolves at Warriors">
-    <display-name lang="en">Timberwolves at Warriors</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -50,15 +56,6 @@
   </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
-  </channel>
-  <channel id="Vegas Golden Knights vs. Edmonton Oilers">
-    <display-name lang="en">Vegas Golden Knights vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Colorado Rockies">
-    <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Arizona Diamondbacks">
-    <display-name lang="en">Los Angeles Dodgers vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Los Angeles Angels">
     <display-name lang="en">Baltimore Orioles vs. Los Angeles Angels</display-name>
@@ -78,6 +75,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250510000000 -0500" channel="Timberwolves at Warriors" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250510000000 -0500" channel="UFC 315: Muhammad vs. Della Maddalena" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -94,7 +99,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250510000000 -0500" channel="Washington Capitals vs. Carolina Hurricanes" stop="20250510235959 -0500">
+  <programme start="20250510000000 -0500" channel="Vegas Golden Knights vs. Edmonton Oilers" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -158,6 +163,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250510000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250510000000 -0500" channel="Los Angeles Dodgers vs. Arizona Diamondbacks" stop="20250510235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250510000000 -0500" channel="Supercross: Salt Lake City" stop="20250510235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -168,14 +189,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="WWE: Backlash" stop="20250510235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Timberwolves at Warriors" stop="20250510235959 -0500">
-    <title>07:30 PM 10/05/25 - Timberwolves at Warriors</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -208,30 +221,6 @@
   </programme>
   <programme start="20250510000000 -0500" channel="Marseille vs Rennes" stop="20250510235959 -0500">
     <title>02:00 PM 17/05/25 - Marseille vs Rennes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Vegas Golden Knights vs. Edmonton Oilers" stop="20250510235959 -0500">
-    <title>08:00 PM 10/05/25 - Vegas Golden Knights vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250510235959 -0500">
-    <title>07:10 PM 10/05/25 - San Diego Padres vs. Colorado Rockies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250510000000 -0500" channel="Los Angeles Dodgers vs. Arizona Diamondbacks" stop="20250510235959 -0500">
-    <title>07:10 PM 10/05/25 - Los Angeles Dodgers vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
