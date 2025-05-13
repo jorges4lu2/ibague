@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250513 -0500">
+  <channel id="Pacers at Cavaliers">
+    <display-name lang="en">Pacers at Cavaliers</display-name>
+  </channel>
   <channel id="PDC: Players Championship 16 - Board 4">
     <display-name lang="en">PDC: Players Championship 16 - Board 4</display-name>
   </channel>
@@ -11,21 +14,6 @@
   </channel>
   <channel id="PDC: Players Championship 16 - Board 2">
     <display-name lang="en">PDC: Players Championship 16 - Board 2</display-name>
-  </channel>
-  <channel id="Pacers at Cavaliers">
-    <display-name lang="en">Pacers at Cavaliers</display-name>
-  </channel>
-  <channel id="Nuggets at Thunder">
-    <display-name lang="en">Nuggets at Thunder</display-name>
-  </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="Marseille vs Rennes">
-    <display-name lang="en">Marseille vs Rennes</display-name>
-  </channel>
-  <channel id="Winnipeg Jets vs. Dallas Stars">
-    <display-name lang="en">Winnipeg Jets vs. Dallas Stars</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Cleveland Guardians">
     <display-name lang="en">Milwaukee Brewers vs. Cleveland Guardians</display-name>
@@ -41,6 +29,18 @@
   </channel>
   <channel id="St. Louis Cardinals vs. Philadelphia Phillies">
     <display-name lang="en">St. Louis Cardinals vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Nuggets at Thunder">
+    <display-name lang="en">Nuggets at Thunder</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
+  </channel>
+  <channel id="Marseille vs Rennes">
+    <display-name lang="en">Marseille vs Rennes</display-name>
+  </channel>
+  <channel id="Winnipeg Jets vs. Dallas Stars">
+    <display-name lang="en">Winnipeg Jets vs. Dallas Stars</display-name>
   </channel>
   <channel id="Tampa Bay Rays vs. Toronto Blue Jays">
     <display-name lang="en">Tampa Bay Rays vs. Toronto Blue Jays</display-name>
@@ -84,6 +84,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250513000000 -0500" channel="Pacers at Cavaliers" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250513000000 -0500" channel="PDC: Players Championship 16 - Board 4" stop="20250513235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -116,8 +124,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250513000000 -0500" channel="Pacers at Cavaliers" stop="20250513235959 -0500">
-    <title>06:00 PM 13/05/25 - Pacers at Cavaliers</title>
+  <programme start="20250513000000 -0500" channel="Milwaukee Brewers vs. Cleveland Guardians" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250513000000 -0500" channel="Minnesota Twins vs. Baltimore Orioles" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250513000000 -0500" channel="Boston Red Sox vs. Detroit Tigers" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250513000000 -0500" channel="Chicago White Sox vs. Cincinnati Reds" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250513000000 -0500" channel="St. Louis Cardinals vs. Philadelphia Phillies" stop="20250513235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -150,46 +190,6 @@
   </programme>
   <programme start="20250513000000 -0500" channel="Winnipeg Jets vs. Dallas Stars" stop="20250513235959 -0500">
     <title>07:00 PM 13/05/25 - Winnipeg Jets vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Milwaukee Brewers vs. Cleveland Guardians" stop="20250513235959 -0500">
-    <title>05:10 PM 13/05/25 - Milwaukee Brewers vs. Cleveland Guardians</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Minnesota Twins vs. Baltimore Orioles" stop="20250513235959 -0500">
-    <title>05:35 PM 13/05/25 - Minnesota Twins vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Boston Red Sox vs. Detroit Tigers" stop="20250513235959 -0500">
-    <title>05:40 PM 13/05/25 - Boston Red Sox vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Chicago White Sox vs. Cincinnati Reds" stop="20250513235959 -0500">
-    <title>05:40 PM 13/05/25 - Chicago White Sox vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="St. Louis Cardinals vs. Philadelphia Phillies" stop="20250513235959 -0500">
-    <title>05:45 PM 13/05/25 - St. Louis Cardinals vs. Philadelphia Phillies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
