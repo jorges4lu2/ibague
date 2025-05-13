@@ -1,16 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250512 -0500">
-  <channel id="PDC: Players Championship 15 - Board 4">
-    <display-name lang="en">PDC: Players Championship 15 - Board 4</display-name>
-  </channel>
-  <channel id="PDC: Players Championship 15 - Board 1">
-    <display-name lang="en">PDC: Players Championship 15 - Board 1</display-name>
-  </channel>
-  <channel id="PDC: Players Championship 15 - Board 3">
-    <display-name lang="en">PDC: Players Championship 15 - Board 3</display-name>
-  </channel>
-  <channel id="PDC: Players Championship 15 - Board 2">
-    <display-name lang="en">PDC: Players Championship 15 - Board 2</display-name>
+  <channel id="Celtics at Knicks">
+    <display-name lang="en">Celtics at Knicks</display-name>
   </channel>
   <channel id="Washington Capitals vs. Carolina Hurricanes">
     <display-name lang="en">Washington Capitals vs. Carolina Hurricanes</display-name>
@@ -24,8 +15,14 @@
   <channel id="St. Louis Cardinals vs. Philadelphia Phillies">
     <display-name lang="en">St. Louis Cardinals vs. Philadelphia Phillies</display-name>
   </channel>
-  <channel id="Celtics at Knicks">
-    <display-name lang="en">Celtics at Knicks</display-name>
+  <channel id="Pittsburgh Pirates vs. New York Mets">
+    <display-name lang="en">Pittsburgh Pirates vs. New York Mets</display-name>
+  </channel>
+  <channel id="Washington Nationals vs. Atlanta Braves">
+    <display-name lang="en">Washington Nationals vs. Atlanta Braves</display-name>
+  </channel>
+  <channel id="Miami Marlins vs. Chicago Cubs">
+    <display-name lang="en">Miami Marlins vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Timberwolves at Warriors">
     <display-name lang="en">Timberwolves at Warriors</display-name>
@@ -54,14 +51,17 @@
   <channel id="Vegas Golden Knights vs. Edmonton Oilers">
     <display-name lang="en">Vegas Golden Knights vs. Edmonton Oilers</display-name>
   </channel>
-  <channel id="Pittsburgh Pirates vs. New York Mets">
-    <display-name lang="en">Pittsburgh Pirates vs. New York Mets</display-name>
+  <channel id="2025 IIHF Men's World Championship: Slovenia vs. Latvia">
+    <display-name lang="en">2025 IIHF Men's World Championship: Slovenia vs. Latvia</display-name>
   </channel>
-  <channel id="Washington Nationals vs. Atlanta Braves">
-    <display-name lang="en">Washington Nationals vs. Atlanta Braves</display-name>
+  <channel id="2025 IIHF Men's World Championship: Norway vs. Germany">
+    <display-name lang="en">2025 IIHF Men's World Championship: Norway vs. Germany</display-name>
   </channel>
-  <channel id="Miami Marlins vs. Chicago Cubs">
-    <display-name lang="en">Miami Marlins vs. Chicago Cubs</display-name>
+  <channel id="2025 IIHF Men's World Championship: Canada vs. France">
+    <display-name lang="en">2025 IIHF Men's World Championship: Canada vs. France</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Kazakhstan vs. Hungary">
+    <display-name lang="en">2025 IIHF Men's World Championship: Kazakhstan vs. Hungary</display-name>
   </channel>
   <channel id="Colorado Rockies vs. Texas Rangers">
     <display-name lang="en">Colorado Rockies vs. Texas Rangers</display-name>
@@ -90,31 +90,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250512000000 -0500" channel="PDC: Players Championship 15 - Board 4" stop="20250512235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250512000000 -0500" channel="PDC: Players Championship 15 - Board 1" stop="20250512235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250512000000 -0500" channel="PDC: Players Championship 15 - Board 3" stop="20250512235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250512000000 -0500" channel="PDC: Players Championship 15 - Board 2" stop="20250512235959 -0500">
+  <programme start="20250512000000 -0500" channel="Celtics at Knicks" stop="20250512235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -154,8 +130,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250512000000 -0500" channel="Celtics at Knicks" stop="20250512235959 -0500">
-    <title>06:30 PM 12/05/25 - Celtics at Knicks</title>
+  <programme start="20250512000000 -0500" channel="Pittsburgh Pirates vs. New York Mets" stop="20250512235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250512000000 -0500" channel="Washington Nationals vs. Atlanta Braves" stop="20250512235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250512000000 -0500" channel="Miami Marlins vs. Chicago Cubs" stop="20250512235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -234,24 +226,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250512000000 -0500" channel="Pittsburgh Pirates vs. New York Mets" stop="20250512235959 -0500">
-    <title>06:10 PM 12/05/25 - Pittsburgh Pirates vs. New York Mets</title>
+  <programme start="20250512000000 -0500" channel="2025 IIHF Men's World Championship: Slovenia vs. Latvia" stop="20250512235959 -0500">
+    <title>09:20 AM 13/05/25 - 2025 IIHF Men's World Championship: Slovenia vs. Latvia</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250512000000 -0500" channel="Washington Nationals vs. Atlanta Braves" stop="20250512235959 -0500">
-    <title>06:15 PM 12/05/25 - Washington Nationals vs. Atlanta Braves</title>
+  <programme start="20250512000000 -0500" channel="2025 IIHF Men's World Championship: Norway vs. Germany" stop="20250512235959 -0500">
+    <title>09:20 AM 13/05/25 - 2025 IIHF Men's World Championship: Norway vs. Germany</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250512000000 -0500" channel="Miami Marlins vs. Chicago Cubs" stop="20250512235959 -0500">
-    <title>06:40 PM 12/05/25 - Miami Marlins vs. Chicago Cubs</title>
+  <programme start="20250512000000 -0500" channel="2025 IIHF Men's World Championship: Canada vs. France" stop="20250512235959 -0500">
+    <title>01:20 PM 13/05/25 - 2025 IIHF Men's World Championship: Canada vs. France</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250512000000 -0500" channel="2025 IIHF Men's World Championship: Kazakhstan vs. Hungary" stop="20250512235959 -0500">
+    <title>01:20 PM 13/05/25 - 2025 IIHF Men's World Championship: Kazakhstan vs. Hungary</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
