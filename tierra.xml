@@ -12,6 +12,12 @@
   <channel id="PDC: Players Championship 16 - Board 2">
     <display-name lang="en">PDC: Players Championship 16 - Board 2</display-name>
   </channel>
+  <channel id="2025 IIHF Men's World Championship: Slovenia vs. Latvia">
+    <display-name lang="en">2025 IIHF Men's World Championship: Slovenia vs. Latvia</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Norway vs. Germany">
+    <display-name lang="en">2025 IIHF Men's World Championship: Norway vs. Germany</display-name>
+  </channel>
   <channel id="Pacers at Cavaliers">
     <display-name lang="en">Pacers at Cavaliers</display-name>
   </channel>
@@ -26,12 +32,6 @@
   </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Slovenia vs. Latvia">
-    <display-name lang="en">2025 IIHF Men's World Championship: Slovenia vs. Latvia</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Norway vs. Germany">
-    <display-name lang="en">2025 IIHF Men's World Championship: Norway vs. Germany</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Canada vs. France">
     <display-name lang="en">2025 IIHF Men's World Championship: Canada vs. France</display-name>
@@ -131,6 +131,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250513000000 -0500" channel="2025 IIHF Men's World Championship: Slovenia vs. Latvia" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250513000000 -0500" channel="2025 IIHF Men's World Championship: Norway vs. Germany" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250513000000 -0500" channel="Pacers at Cavaliers" stop="20250513235959 -0500">
     <title>06:00 PM 13/05/25 - Pacers at Cavaliers</title>
     <date>2025</date>
@@ -165,22 +181,6 @@
   </programme>
   <programme start="20250513000000 -0500" channel="Marseille vs Rennes" stop="20250513235959 -0500">
     <title>02:00 PM 17/05/25 - Marseille vs Rennes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="2025 IIHF Men's World Championship: Slovenia vs. Latvia" stop="20250513235959 -0500">
-    <title>09:20 AM 13/05/25 - 2025 IIHF Men's World Championship: Slovenia vs. Latvia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="2025 IIHF Men's World Championship: Norway vs. Germany" stop="20250513235959 -0500">
-    <title>09:20 AM 13/05/25 - 2025 IIHF Men's World Championship: Norway vs. Germany</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
