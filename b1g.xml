@@ -87,11 +87,8 @@
   <channel id="02. EFL Playoff | Sunderland vs Coventry (Tue 20:00 UK)">
     <display-name lang="en">02. EFL Playoff | Sunderland vs Coventry (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="USA | NHL Game 00&#9447;: Washington Capitals vs Carolina Hurricanes | Mon May 12th 6:00 pm">
-    <display-name lang="en">USA | NHL Game 00&#9447;: Washington Capitals vs Carolina Hurricanes | Mon May 12th 6:00 pm</display-name>
-  </channel>
-  <channel id="USA | NHL Game 01&#9447;: Vegas Golden Knights vs Edmonton Oilers | Mon May 12th 9:00 pm">
-    <display-name lang="en">USA | NHL Game 01&#9447;: Vegas Golden Knights vs Edmonton Oilers | Mon May 12th 9:00 pm</display-name>
+  <channel id="USA | NHL Game 00&#9447;: Winnipeg Jets vs Dallas Stars | Tue May 13th 8:00 pm">
+    <display-name lang="en">USA | NHL Game 00&#9447;: Winnipeg Jets vs Dallas Stars | Tue May 13th 8:00 pm</display-name>
   </channel>
   <channel id="L1 Pass 01 | PSG vs Auxerre (Sat 20:00 UK)">
     <display-name lang="en">L1 Pass 01 | PSG vs Auxerre (Sat 20:00 UK)</display-name>
@@ -833,6 +830,9 @@
   </channel>
   <channel id="UFC Fight Night: Gilbert Burns vs. Michael Morales Hd (Sun 00:00 UK)">
     <display-name lang="en">UFC Fight Night: Gilbert Burns vs. Michael Morales Hd (Sun 00:00 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 01 - 6:30PM FloRacing Night Marshalltown">
+    <display-name lang="en">LIVE EVENT 01 - 6:30PM FloRacing Night Marshalltown</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 101 - Tue,13 May 12:05 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 101 - Tue,13 May 12:05 ET</display-name>
@@ -1585,16 +1585,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250513000000 -0500" channel="USA | NHL Game 00&#9447;: Washington Capitals vs Carolina Hurricanes | Mon May 12th 6:00 pm" stop="20250513235959 -0500">
-    <title>04:00 PM - USA | NHL Game 00&#9447;: Washington Capitals vs Carolina Hurricanes | Mon May 12th 6:00 pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="USA | NHL Game 01&#9447;: Vegas Golden Knights vs Edmonton Oilers | Mon May 12th 9:00 pm" stop="20250513235959 -0500">
-    <title>07:00 PM - USA | NHL Game 01&#9447;: Vegas Golden Knights vs Edmonton Oilers | Mon May 12th 9:00 pm</title>
+  <programme start="20250513000000 -0500" channel="USA | NHL Game 00&#9447;: Winnipeg Jets vs Dallas Stars | Tue May 13th 8:00 pm" stop="20250513235959 -0500">
+    <title>06:00 PM - USA | NHL Game 00&#9447;: Winnipeg Jets vs Dallas Stars | Tue May 13th 8:00 pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -3571,6 +3563,14 @@
   </programme>
   <programme start="20250513000000 -0500" channel="UFC Fight Night: Gilbert Burns vs. Michael Morales Hd (Sun 00:00 UK)" stop="20250513235959 -0500">
     <title>06:00 PM - UFC Fight Night: Gilbert Burns vs. Michael Morales Hd (Sun 00:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250513000000 -0500" channel="LIVE EVENT 01 - 6:30PM FloRacing Night Marshalltown" stop="20250513235959 -0500">
+    <title>12:30 PM - LIVE EVENT 01 - 6:30PM FloRacing Night Marshalltown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
