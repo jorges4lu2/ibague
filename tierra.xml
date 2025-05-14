@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250514 -0500">
-  <channel id="2025 IIHF Men's World Championship: Slovakia vs. France">
-    <display-name lang="en">2025 IIHF Men's World Championship: Slovakia vs. France</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: USA vs. Norway">
-    <display-name lang="en">2025 IIHF Men's World Championship: USA vs. Norway</display-name>
-  </channel>
   <channel id="Minnesota Twins vs. Baltimore Orioles">
     <display-name lang="en">Minnesota Twins vs. Baltimore Orioles</display-name>
+  </channel>
+  <channel id="St. Louis Cardinals vs. Philadelphia Phillies">
+    <display-name lang="en">St. Louis Cardinals vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Cleveland Guardians">
+    <display-name lang="en">Milwaukee Brewers vs. Cleveland Guardians</display-name>
   </channel>
   <channel id="Knicks at Celtics">
     <display-name lang="en">Knicks at Celtics</display-name>
@@ -41,12 +41,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Vegas Golden Knights">
     <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Philadelphia Phillies">
-    <display-name lang="en">St. Louis Cardinals vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Cleveland Guardians">
-    <display-name lang="en">Milwaukee Brewers vs. Cleveland Guardians</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Baltimore Orioles">
     <display-name lang="en">Minnesota Twins vs. Baltimore Orioles</display-name>
@@ -108,23 +102,23 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250514000000 -0500" channel="2025 IIHF Men's World Championship: Slovakia vs. France" stop="20250514235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250514000000 -0500" channel="2025 IIHF Men's World Championship: USA vs. Norway" stop="20250514235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250514000000 -0500" channel="Minnesota Twins vs. Baltimore Orioles" stop="20250514235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250514000000 -0500" channel="St. Louis Cardinals vs. Philadelphia Phillies" stop="20250514235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250514000000 -0500" channel="Milwaukee Brewers vs. Cleveland Guardians" stop="20250514235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -214,22 +208,6 @@
   </programme>
   <programme start="20250514000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250514235959 -0500">
     <title>08:30 PM 14/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250514000000 -0500" channel="St. Louis Cardinals vs. Philadelphia Phillies" stop="20250514235959 -0500">
-    <title>12:05 PM 14/05/25 - St. Louis Cardinals vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250514000000 -0500" channel="Milwaukee Brewers vs. Cleveland Guardians" stop="20250514235959 -0500">
-    <title>12:10 PM 14/05/25 - Milwaukee Brewers vs. Cleveland Guardians</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
