@@ -6,6 +6,9 @@
   <channel id="2025 IIHF Men's World Championship: USA vs. Norway">
     <display-name lang="en">2025 IIHF Men's World Championship: USA vs. Norway</display-name>
   </channel>
+  <channel id="Minnesota Twins vs. Baltimore Orioles">
+    <display-name lang="en">Minnesota Twins vs. Baltimore Orioles</display-name>
+  </channel>
   <channel id="Knicks at Celtics">
     <display-name lang="en">Knicks at Celtics</display-name>
   </channel>
@@ -38,9 +41,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Vegas Golden Knights">
     <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Baltimore Orioles">
-    <display-name lang="en">Minnesota Twins vs. Baltimore Orioles</display-name>
   </channel>
   <channel id="St. Louis Cardinals vs. Philadelphia Phillies">
     <display-name lang="en">St. Louis Cardinals vs. Philadelphia Phillies</display-name>
@@ -117,6 +117,14 @@
     </audio>
   </programme>
   <programme start="20250514000000 -0500" channel="2025 IIHF Men's World Championship: USA vs. Norway" stop="20250514235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250514000000 -0500" channel="Minnesota Twins vs. Baltimore Orioles" stop="20250514235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -206,14 +214,6 @@
   </programme>
   <programme start="20250514000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250514235959 -0500">
     <title>08:30 PM 14/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250514000000 -0500" channel="Minnesota Twins vs. Baltimore Orioles" stop="20250514235959 -0500">
-    <title>11:05 AM 14/05/25 - Minnesota Twins vs. Baltimore Orioles</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
