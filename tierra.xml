@@ -33,6 +33,12 @@
   <channel id="Miami Marlins vs. Chicago Cubs">
     <display-name lang="en">Miami Marlins vs. Chicago Cubs</display-name>
   </channel>
+  <channel id="Colorado Rockies vs. Texas Rangers">
+    <display-name lang="en">Colorado Rockies vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. Houston Astros">
+    <display-name lang="en">Kansas City Royals vs. Houston Astros</display-name>
+  </channel>
   <channel id="Nuggets at Thunder">
     <display-name lang="en">Nuggets at Thunder</display-name>
   </channel>
@@ -41,12 +47,6 @@
   </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Texas Rangers">
-    <display-name lang="en">Colorado Rockies vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Houston Astros">
-    <display-name lang="en">Kansas City Royals vs. Houston Astros</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. San Diego Padres">
     <display-name lang="en">Los Angeles Angels vs. San Diego Padres</display-name>
@@ -160,6 +160,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250513000000 -0500" channel="Colorado Rockies vs. Texas Rangers" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250513000000 -0500" channel="Kansas City Royals vs. Houston Astros" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250513000000 -0500" channel="Nuggets at Thunder" stop="20250513235959 -0500">
     <title>08:30 PM 13/05/25 - Nuggets at Thunder</title>
     <date>2025</date>
@@ -178,22 +194,6 @@
   </programme>
   <programme start="20250513000000 -0500" channel="Marseille vs Rennes" stop="20250513235959 -0500">
     <title>02:00 PM 17/05/25 - Marseille vs Rennes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Colorado Rockies vs. Texas Rangers" stop="20250513235959 -0500">
-    <title>07:05 PM 13/05/25 - Colorado Rockies vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Kansas City Royals vs. Houston Astros" stop="20250513235959 -0500">
-    <title>07:10 PM 13/05/25 - Kansas City Royals vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
