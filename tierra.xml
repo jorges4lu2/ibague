@@ -1,25 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250513 -0500">
-  <channel id="Pacers at Cavaliers">
-    <display-name lang="en">Pacers at Cavaliers</display-name>
+  <channel id="Nuggets at Thunder">
+    <display-name lang="en">Nuggets at Thunder</display-name>
   </channel>
   <channel id="Winnipeg Jets vs. Dallas Stars">
     <display-name lang="en">Winnipeg Jets vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Cleveland Guardians">
-    <display-name lang="en">Milwaukee Brewers vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Baltimore Orioles">
-    <display-name lang="en">Minnesota Twins vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Detroit Tigers">
-    <display-name lang="en">Boston Red Sox vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Cincinnati Reds">
-    <display-name lang="en">Chicago White Sox vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Philadelphia Phillies">
-    <display-name lang="en">St. Louis Cardinals vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Tampa Bay Rays vs. Toronto Blue Jays">
     <display-name lang="en">Tampa Bay Rays vs. Toronto Blue Jays</display-name>
@@ -39,15 +24,6 @@
   <channel id="Kansas City Royals vs. Houston Astros">
     <display-name lang="en">Kansas City Royals vs. Houston Astros</display-name>
   </channel>
-  <channel id="Nuggets at Thunder">
-    <display-name lang="en">Nuggets at Thunder</display-name>
-  </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="Marseille vs Rennes">
-    <display-name lang="en">Marseille vs Rennes</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. San Diego Padres">
     <display-name lang="en">Los Angeles Angels vs. San Diego Padres</display-name>
   </channel>
@@ -56,6 +32,12 @@
   </channel>
   <channel id="Arizona Diamondbacks vs. San Francisco Giants">
     <display-name lang="en">Arizona Diamondbacks vs. San Francisco Giants</display-name>
+  </channel>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
+  </channel>
+  <channel id="Marseille vs Rennes">
+    <display-name lang="en">Marseille vs Rennes</display-name>
   </channel>
   <channel id="Athletics vs. Los Angeles Dodgers">
     <display-name lang="en">Athletics vs. Los Angeles Dodgers</display-name>
@@ -72,7 +54,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250513000000 -0500" channel="Pacers at Cavaliers" stop="20250513235959 -0500">
+  <programme start="20250513000000 -0500" channel="Nuggets at Thunder" stop="20250513235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -81,46 +63,6 @@
     </audio>
   </programme>
   <programme start="20250513000000 -0500" channel="Winnipeg Jets vs. Dallas Stars" stop="20250513235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Milwaukee Brewers vs. Cleveland Guardians" stop="20250513235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Minnesota Twins vs. Baltimore Orioles" stop="20250513235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Boston Red Sox vs. Detroit Tigers" stop="20250513235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Chicago White Sox vs. Cincinnati Reds" stop="20250513235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="St. Louis Cardinals vs. Philadelphia Phillies" stop="20250513235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -176,8 +118,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250513000000 -0500" channel="Nuggets at Thunder" stop="20250513235959 -0500">
-    <title>08:30 PM 13/05/25 - Nuggets at Thunder</title>
+  <programme start="20250513000000 -0500" channel="Los Angeles Angels vs. San Diego Padres" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250513000000 -0500" channel="New York Yankees vs. Seattle Mariners" stop="20250513235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250513000000 -0500" channel="Arizona Diamondbacks vs. San Francisco Giants" stop="20250513235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -194,30 +152,6 @@
   </programme>
   <programme start="20250513000000 -0500" channel="Marseille vs Rennes" stop="20250513235959 -0500">
     <title>02:00 PM 17/05/25 - Marseille vs Rennes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Los Angeles Angels vs. San Diego Padres" stop="20250513235959 -0500">
-    <title>08:40 PM 13/05/25 - Los Angeles Angels vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="New York Yankees vs. Seattle Mariners" stop="20250513235959 -0500">
-    <title>08:40 PM 13/05/25 - New York Yankees vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250513000000 -0500" channel="Arizona Diamondbacks vs. San Francisco Giants" stop="20250513235959 -0500">
-    <title>08:45 PM 13/05/25 - Arizona Diamondbacks vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
