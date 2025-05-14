@@ -3,20 +3,26 @@
   <channel id="Stockport County vs Leyton Orient">
     <display-name lang="en">Stockport County vs Leyton Orient</display-name>
   </channel>
+  <channel id="Real Madrid vs Mallorca">
+    <display-name lang="en">Real Madrid vs Mallorca</display-name>
+  </channel>
   <channel id="2025 IIHF Men's World Championship: Latvia vs. Sweden">
     <display-name lang="en">2025 IIHF Men's World Championship: Latvia vs. Sweden</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Kazakhstan vs. Denmark">
     <display-name lang="en">2025 IIHF Men's World Championship: Kazakhstan vs. Denmark</display-name>
   </channel>
-  <channel id="Minnesota Twins vs. Baltimore Orioles">
-    <display-name lang="en">Minnesota Twins vs. Baltimore Orioles</display-name>
-  </channel>
   <channel id="St. Louis Cardinals vs. Philadelphia Phillies">
     <display-name lang="en">St. Louis Cardinals vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Cleveland Guardians">
     <display-name lang="en">Milwaukee Brewers vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="Minnesota Twins vs. Baltimore Orioles">
+    <display-name lang="en">Minnesota Twins vs. Baltimore Orioles</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. San Francisco Giants">
+    <display-name lang="en">Arizona Diamondbacks vs. San Francisco Giants</display-name>
   </channel>
   <channel id="Knicks at Celtics">
     <display-name lang="en">Knicks at Celtics</display-name>
@@ -30,9 +36,6 @@
   <channel id="PDC: BetMGM Premier League - Night Fifteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Fifteen</display-name>
   </channel>
-  <channel id="Real Madrid vs Mallorca">
-    <display-name lang="en">Real Madrid vs Mallorca</display-name>
-  </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
   </channel>
@@ -41,12 +44,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Vegas Golden Knights">
     <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Baltimore Orioles">
-    <display-name lang="en">Minnesota Twins vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. San Francisco Giants">
-    <display-name lang="en">Arizona Diamondbacks vs. San Francisco Giants</display-name>
   </channel>
   <channel id="New York Yankees vs. Seattle Mariners">
     <display-name lang="en">New York Yankees vs. Seattle Mariners</display-name>
@@ -110,6 +107,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250514000000 -0500" channel="Real Madrid vs Mallorca" stop="20250514235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250514000000 -0500" channel="2025 IIHF Men's World Championship: Latvia vs. Sweden" stop="20250514235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -126,14 +131,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250514000000 -0500" channel="Minnesota Twins vs. Baltimore Orioles" stop="20250514235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250514000000 -0500" channel="St. Louis Cardinals vs. Philadelphia Phillies" stop="20250514235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -143,6 +140,22 @@
     </audio>
   </programme>
   <programme start="20250514000000 -0500" channel="Milwaukee Brewers vs. Cleveland Guardians" stop="20250514235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250514000000 -0500" channel="Minnesota Twins vs. Baltimore Orioles" stop="20250514235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250514000000 -0500" channel="Arizona Diamondbacks vs. San Francisco Giants" stop="20250514235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -182,14 +195,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250514000000 -0500" channel="Real Madrid vs Mallorca" stop="20250514235959 -0500">
-    <title>02:30 PM 14/05/25 - Real Madrid vs Mallorca</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250514000000 -0500" channel="Marseille vs Rennes" stop="20250514235959 -0500">
     <title>02:00 PM 17/05/25 - Marseille vs Rennes</title>
     <date>2025</date>
@@ -208,22 +213,6 @@
   </programme>
   <programme start="20250514000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250514235959 -0500">
     <title>08:30 PM 14/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250514000000 -0500" channel="Minnesota Twins vs. Baltimore Orioles" stop="20250514235959 -0500">
-    <title>02:35 PM 14/05/25 - Minnesota Twins vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250514000000 -0500" channel="Arizona Diamondbacks vs. San Francisco Giants" stop="20250514235959 -0500">
-    <title>02:45 PM 14/05/25 - Arizona Diamondbacks vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
