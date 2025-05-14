@@ -6,6 +6,12 @@
   <channel id="PDC: BetMGM Premier League - Night Fifteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Fifteen</display-name>
   </channel>
+  <channel id="Stockport County vs Leyton Orient">
+    <display-name lang="en">Stockport County vs Leyton Orient</display-name>
+  </channel>
+  <channel id="Real Madrid vs Mallorca">
+    <display-name lang="en">Real Madrid vs Mallorca</display-name>
+  </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
   </channel>
@@ -88,6 +94,22 @@
   </programme>
   <programme start="20250514000000 -0500" channel="PDC: BetMGM Premier League - Night Fifteen" stop="20250514235959 -0500">
     <title>01:00 PM 15/05/25 - PDC: BetMGM Premier League - Night Fifteen</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250514000000 -0500" channel="Stockport County vs Leyton Orient" stop="20250514235959 -0500">
+    <title>02:00 PM 14/05/25 - Stockport County vs Leyton Orient</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250514000000 -0500" channel="Real Madrid vs Mallorca" stop="20250514235959 -0500">
+    <title>02:30 PM 14/05/25 - Real Madrid vs Mallorca</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
