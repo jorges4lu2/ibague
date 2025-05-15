@@ -27,6 +27,12 @@
   <channel id="Miami Marlins vs. Chicago Cubs">
     <display-name lang="en">Miami Marlins vs. Chicago Cubs</display-name>
   </channel>
+  <channel id="Colorado Rockies vs. Texas Rangers">
+    <display-name lang="en">Colorado Rockies vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. Houston Astros">
+    <display-name lang="en">Kansas City Royals vs. Houston Astros</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -44,12 +50,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Vegas Golden Knights">
     <display-name lang="en">Edmonton Oilers vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Texas Rangers">
-    <display-name lang="en">Colorado Rockies vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Houston Astros">
-    <display-name lang="en">Kansas City Royals vs. Houston Astros</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. San Diego Padres">
     <display-name lang="en">Los Angeles Angels vs. San Diego Padres</display-name>
@@ -141,6 +141,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250514000000 -0500" channel="Colorado Rockies vs. Texas Rangers" stop="20250514235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250514000000 -0500" channel="Kansas City Royals vs. Houston Astros" stop="20250514235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250514000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250514235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -183,22 +199,6 @@
   </programme>
   <programme start="20250514000000 -0500" channel="Edmonton Oilers vs. Vegas Golden Knights" stop="20250514235959 -0500">
     <title>08:30 PM 14/05/25 - Edmonton Oilers vs. Vegas Golden Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250514000000 -0500" channel="Colorado Rockies vs. Texas Rangers" stop="20250514235959 -0500">
-    <title>07:05 PM 14/05/25 - Colorado Rockies vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250514000000 -0500" channel="Kansas City Royals vs. Houston Astros" stop="20250514235959 -0500">
-    <title>07:10 PM 14/05/25 - Kansas City Royals vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
