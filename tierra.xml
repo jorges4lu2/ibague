@@ -6,6 +6,9 @@
   <channel id="PDC: BetMGM Premier League - Night Fifteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Fifteen</display-name>
   </channel>
+  <channel id="Espanyol vs Barcelona">
+    <display-name lang="en">Espanyol vs Barcelona</display-name>
+  </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
   </channel>
@@ -67,6 +70,14 @@
   </programme>
   <programme start="20250515000000 -0500" channel="PDC: BetMGM Premier League - Night Fifteen" stop="20250515235959 -0500">
     <title>01:00 PM 15/05/25 - PDC: BetMGM Premier League - Night Fifteen</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250515000000 -0500" channel="Espanyol vs Barcelona" stop="20250515235959 -0500">
+    <title>02:30 PM 15/05/25 - Espanyol vs Barcelona</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
