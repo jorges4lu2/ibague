@@ -6,29 +6,23 @@
   <channel id="Charlton vs Wycombe">
     <display-name lang="en">Charlton vs Wycombe</display-name>
   </channel>
+  <channel id="Espanyol vs Barcelona">
+    <display-name lang="en">Espanyol vs Barcelona</display-name>
+  </channel>
   <channel id="2025 IIHF Men's World Championship: Canada vs. Austria">
     <display-name lang="en">2025 IIHF Men's World Championship: Canada vs. Austria</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Czechia vs. Hungary">
     <display-name lang="en">2025 IIHF Men's World Championship: Czechia vs. Hungary</display-name>
   </channel>
-  <channel id="Washington Nationals vs. Atlanta Braves">
-    <display-name lang="en">Washington Nationals vs. Atlanta Braves</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Baltimore Orioles">
-    <display-name lang="en">Minnesota Twins vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Cincinnati Reds">
-    <display-name lang="en">Chicago White Sox vs. Cincinnati Reds</display-name>
+  <channel id="Tampa Bay Rays vs. Toronto Blue Jays">
+    <display-name lang="en">Tampa Bay Rays vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Thunder at Nuggets">
     <display-name lang="en">Thunder at Nuggets</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="Espanyol vs Barcelona">
-    <display-name lang="en">Espanyol vs Barcelona</display-name>
   </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
@@ -38,9 +32,6 @@
   </channel>
   <channel id="Dallas Stars vs. Winnipeg Jets">
     <display-name lang="en">Dallas Stars vs. Winnipeg Jets</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Toronto Blue Jays">
-    <display-name lang="en">Tampa Bay Rays vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Houston Astros vs. Texas Rangers">
     <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
@@ -76,6 +67,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250515000000 -0500" channel="Espanyol vs Barcelona" stop="20250515235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250515000000 -0500" channel="2025 IIHF Men's World Championship: Canada vs. Austria" stop="20250515235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -92,23 +91,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250515000000 -0500" channel="Washington Nationals vs. Atlanta Braves" stop="20250515235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250515000000 -0500" channel="Minnesota Twins vs. Baltimore Orioles" stop="20250515235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250515000000 -0500" channel="Chicago White Sox vs. Cincinnati Reds" stop="20250515235959 -0500">
+  <programme start="20250515000000 -0500" channel="Tampa Bay Rays vs. Toronto Blue Jays" stop="20250515235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -126,14 +109,6 @@
   </programme>
   <programme start="20250515000000 -0500" channel="LND Monthly" stop="20250515235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250515000000 -0500" channel="Espanyol vs Barcelona" stop="20250515235959 -0500">
-    <title>02:30 PM 15/05/25 - Espanyol vs Barcelona</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -158,14 +133,6 @@
   </programme>
   <programme start="20250515000000 -0500" channel="Dallas Stars vs. Winnipeg Jets" stop="20250515235959 -0500">
     <title>08:30 PM 15/05/25 - Dallas Stars vs. Winnipeg Jets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250515000000 -0500" channel="Tampa Bay Rays vs. Toronto Blue Jays" stop="20250515235959 -0500">
-    <title>02:07 PM 15/05/25 - Tampa Bay Rays vs. Toronto Blue Jays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
