@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250516 -0500">
+  <channel id="MF &amp;amp; DAZN: X Series 21: Till vs. Stewart">
+    <display-name lang="en">MF &amp;amp; DAZN: X Series 21: Till vs. Stewart</display-name>
+  </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
   <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1">
     <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1</display-name>
+  </channel>
+  <channel id="EPL: Aston Villa vs Tottenham Hotspur">
+    <display-name lang="en">EPL: Aston Villa vs Tottenham Hotspur</display-name>
+  </channel>
+  <channel id="EPL: Chelsea vs Manchester United">
+    <display-name lang="en">EPL: Chelsea vs Manchester United</display-name>
   </channel>
   <channel id="Marseille vs Rennes">
     <display-name lang="en">Marseille vs Rennes</display-name>
@@ -84,6 +93,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250516000000 -0500" channel="MF &amp;amp; DAZN: X Series 21: Till vs. Stewart" stop="20250516235959 -0500">
+    <title>11:30 AM 16/05/25 - MF &amp;amp; DAZN: X Series 21: Till vs. Stewart</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250516000000 -0500" channel="LND Monthly" stop="20250516235959 -0500">
     <title>07:00 PM 17/05/25 - LND Monthly</title>
     <date>2025</date>
@@ -94,6 +111,22 @@
   </programme>
   <programme start="20250516000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1" stop="20250516235959 -0500">
     <title>09:00 PM 16/05/25 - PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250516000000 -0500" channel="EPL: Aston Villa vs Tottenham Hotspur" stop="20250516235959 -0500">
+    <title>01:30 PM 16/05/25 - EPL: Aston Villa vs Tottenham Hotspur</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250516000000 -0500" channel="EPL: Chelsea vs Manchester United" stop="20250516235959 -0500">
+    <title>02:15 PM 16/05/25 - EPL: Chelsea vs Manchester United</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
