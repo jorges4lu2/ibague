@@ -1,19 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250516 -0500">
+  <channel id="MF &amp;amp; DAZN: X Series 21: Till vs. Stewart">
+    <display-name lang="en">MF &amp;amp; DAZN: X Series 21: Till vs. Stewart</display-name>
+  </channel>
   <channel id="2025 IIHF Men's World Championship: Austria vs. France">
     <display-name lang="en">2025 IIHF Men's World Championship: Austria vs. France</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Hungary vs. Denmark">
     <display-name lang="en">2025 IIHF Men's World Championship: Hungary vs. Denmark</display-name>
   </channel>
-  <channel id="F1: Emilia Romagna Grand Prix (Practice 2)">
-    <display-name lang="en">F1: Emilia Romagna Grand Prix (Practice 2)</display-name>
-  </channel>
   <channel id="Celtics at Knicks">
     <display-name lang="en">Celtics at Knicks</display-name>
-  </channel>
-  <channel id="MF &amp;amp; DAZN: X Series 21: Till vs. Stewart">
-    <display-name lang="en">MF &amp;amp; DAZN: X Series 21: Till vs. Stewart</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -23,6 +20,9 @@
   </channel>
   <channel id="EPL: Aston Villa vs Tottenham Hotspur">
     <display-name lang="en">EPL: Aston Villa vs Tottenham Hotspur</display-name>
+  </channel>
+  <channel id="Walsall vs Chesterfield">
+    <display-name lang="en">Walsall vs Chesterfield</display-name>
   </channel>
   <channel id="EPL: Chelsea vs Manchester United">
     <display-name lang="en">EPL: Chelsea vs Manchester United</display-name>
@@ -105,6 +105,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250516000000 -0500" channel="MF &amp;amp; DAZN: X Series 21: Till vs. Stewart" stop="20250516235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250516000000 -0500" channel="2025 IIHF Men's World Championship: Austria vs. France" stop="20250516235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -121,24 +129,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250516000000 -0500" channel="F1: Emilia Romagna Grand Prix (Practice 2)" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250516000000 -0500" channel="Celtics at Knicks" stop="20250516235959 -0500">
     <title>07:00 PM 16/05/25 - Celtics at Knicks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="MF &amp;amp; DAZN: X Series 21: Till vs. Stewart" stop="20250516235959 -0500">
-    <title>11:30 AM 16/05/25 - MF &amp;amp; DAZN: X Series 21: Till vs. Stewart</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -163,6 +155,14 @@
   </programme>
   <programme start="20250516000000 -0500" channel="EPL: Aston Villa vs Tottenham Hotspur" stop="20250516235959 -0500">
     <title>01:30 PM 16/05/25 - EPL: Aston Villa vs Tottenham Hotspur</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250516000000 -0500" channel="Walsall vs Chesterfield" stop="20250516235959 -0500">
+    <title>02:00 PM 16/05/25 - Walsall vs Chesterfield</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
