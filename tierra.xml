@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250515 -0500">
-  <channel id="PDC: BetMGM Premier League - Night Fifteen">
-    <display-name lang="en">PDC: BetMGM Premier League - Night Fifteen</display-name>
-  </channel>
   <channel id="Carolina Hurricanes vs. Washington Capitals">
     <display-name lang="en">Carolina Hurricanes vs. Washington Capitals</display-name>
   </channel>
@@ -24,6 +21,21 @@
   <channel id="Athletics vs. Los Angeles Dodgers">
     <display-name lang="en">Athletics vs. Los Angeles Dodgers</display-name>
   </channel>
+  <channel id="F1: Emilia Romagna Grand Prix (Practice 1)">
+    <display-name lang="en">F1: Emilia Romagna Grand Prix (Practice 1)</display-name>
+  </channel>
+  <channel id="F1: Emilia Romagna Grand Prix (Practice 2)">
+    <display-name lang="en">F1: Emilia Romagna Grand Prix (Practice 2)</display-name>
+  </channel>
+  <channel id="F1: Emilia Romagna Grand Prix (Practice 3)">
+    <display-name lang="en">F1: Emilia Romagna Grand Prix (Practice 3)</display-name>
+  </channel>
+  <channel id="F1: Emilia Romagna Grand Prix (Qualifying)">
+    <display-name lang="en">F1: Emilia Romagna Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="F1: Emilia Romagna Grand Prix (Race)">
+    <display-name lang="en">F1: Emilia Romagna Grand Prix (Race)</display-name>
+  </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
@@ -36,14 +48,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250515000000 -0500" channel="PDC: BetMGM Premier League - Night Fifteen" stop="20250515235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250515000000 -0500" channel="Carolina Hurricanes vs. Washington Capitals" stop="20250515235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -94,6 +98,46 @@
   </programme>
   <programme start="20250515000000 -0500" channel="Athletics vs. Los Angeles Dodgers" stop="20250515235959 -0500">
     <title>09:10 PM 15/05/25 - Athletics vs. Los Angeles Dodgers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250515000000 -0500" channel="F1: Emilia Romagna Grand Prix (Practice 1)" stop="20250515235959 -0500">
+    <title>06:30 AM 16/05/25 - F1: Emilia Romagna Grand Prix (Practice 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250515000000 -0500" channel="F1: Emilia Romagna Grand Prix (Practice 2)" stop="20250515235959 -0500">
+    <title>10:00 AM 16/05/25 - F1: Emilia Romagna Grand Prix (Practice 2)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250515000000 -0500" channel="F1: Emilia Romagna Grand Prix (Practice 3)" stop="20250515235959 -0500">
+    <title>05:30 AM 17/05/25 - F1: Emilia Romagna Grand Prix (Practice 3)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250515000000 -0500" channel="F1: Emilia Romagna Grand Prix (Qualifying)" stop="20250515235959 -0500">
+    <title>09:00 AM 17/05/25 - F1: Emilia Romagna Grand Prix (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250515000000 -0500" channel="F1: Emilia Romagna Grand Prix (Race)" stop="20250515235959 -0500">
+    <title>08:00 AM 18/05/25 - F1: Emilia Romagna Grand Prix (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
