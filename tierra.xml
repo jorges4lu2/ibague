@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250515 -0500">
-  <channel id="Thunder at Nuggets">
-    <display-name lang="en">Thunder at Nuggets</display-name>
-  </channel>
   <channel id="Dallas Stars vs. Winnipeg Jets">
     <display-name lang="en">Dallas Stars vs. Winnipeg Jets</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Texas Rangers">
-    <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
   </channel>
   <channel id="Athletics vs. Los Angeles Dodgers">
     <display-name lang="en">Athletics vs. Los Angeles Dodgers</display-name>
@@ -93,23 +87,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250515000000 -0500" channel="Thunder at Nuggets" stop="20250515235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250515000000 -0500" channel="Dallas Stars vs. Winnipeg Jets" stop="20250515235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250515000000 -0500" channel="Houston Astros vs. Texas Rangers" stop="20250515235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
