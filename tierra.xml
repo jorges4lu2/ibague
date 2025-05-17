@@ -9,6 +9,9 @@
   <channel id="Boxing: Fisher vs. Allen 2">
     <display-name lang="en">Boxing: Fisher vs. Allen 2</display-name>
   </channel>
+  <channel id="UFC Fight Night: Burns vs. Morales">
+    <display-name lang="en">UFC Fight Night: Burns vs. Morales</display-name>
+  </channel>
   <channel id="2025 IIHF Men's World Championship: Canada vs. Slovakia">
     <display-name lang="en">2025 IIHF Men's World Championship: Canada vs. Slovakia</display-name>
   </channel>
@@ -21,8 +24,8 @@
   <channel id="Chicago White Sox vs. Chicago Cubs">
     <display-name lang="en">Chicago White Sox vs. Chicago Cubs</display-name>
   </channel>
-  <channel id="UFC Fight Night: Burns vs. Morales">
-    <display-name lang="en">UFC Fight Night: Burns vs. Morales</display-name>
+  <channel id="Detroit Tigers vs. Toronto Blue Jays">
+    <display-name lang="en">Detroit Tigers vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
@@ -32,9 +35,6 @@
   </channel>
   <channel id="Winnipeg Jets vs. Dallas Stars">
     <display-name lang="en">Winnipeg Jets vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Toronto Blue Jays">
-    <display-name lang="en">Detroit Tigers vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Washington Nationals vs. Baltimore Orioles">
     <display-name lang="en">Washington Nationals vs. Baltimore Orioles</display-name>
@@ -111,6 +111,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250517000000 -0500" channel="UFC Fight Night: Burns vs. Morales" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: Canada vs. Slovakia" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -143,8 +151,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250517000000 -0500" channel="UFC Fight Night: Burns vs. Morales" stop="20250517235959 -0500">
-    <title>03:00 PM 17/05/25 - UFC Fight Night: Burns vs. Morales</title>
+  <programme start="20250517000000 -0500" channel="Detroit Tigers vs. Toronto Blue Jays" stop="20250517235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -169,14 +177,6 @@
   </programme>
   <programme start="20250517000000 -0500" channel="Winnipeg Jets vs. Dallas Stars" stop="20250517235959 -0500">
     <title>07:00 PM 17/05/25 - Winnipeg Jets vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Detroit Tigers vs. Toronto Blue Jays" stop="20250517235959 -0500">
-    <title>02:07 PM 17/05/25 - Detroit Tigers vs. Toronto Blue Jays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
