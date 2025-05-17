@@ -3,14 +3,11 @@
   <channel id="Celtics at Knicks">
     <display-name lang="en">Celtics at Knicks</display-name>
   </channel>
+  <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1">
+    <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1</display-name>
+  </channel>
   <channel id="Toronto Maple Leafs vs. Florida Panthers">
     <display-name lang="en">Toronto Maple Leafs vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Cincinnati Reds">
-    <display-name lang="en">Cleveland Guardians vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Philadelphia Phillies">
-    <display-name lang="en">Pittsburgh Pirates vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="New York Mets vs. New York Yankees">
     <display-name lang="en">New York Mets vs. New York Yankees</display-name>
@@ -36,6 +33,12 @@
   <channel id="Minnesota Twins vs. Milwaukee Brewers">
     <display-name lang="en">Minnesota Twins vs. Milwaukee Brewers</display-name>
   </channel>
+  <channel id="Colorado Rockies vs. Arizona Diamondbacks">
+    <display-name lang="en">Colorado Rockies vs. Arizona Diamondbacks</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. San Diego Padres">
+    <display-name lang="en">Seattle Mariners vs. San Diego Padres</display-name>
+  </channel>
   <channel id="OKTAGON 71 (English)">
     <display-name lang="en">OKTAGON 71 (English)</display-name>
   </channel>
@@ -45,20 +48,11 @@
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
-  <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1">
-    <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1</display-name>
-  </channel>
   <channel id="AFC Wimbledon vs Notts County">
     <display-name lang="en">AFC Wimbledon vs Notts County</display-name>
   </channel>
   <channel id="Crystal Palace vs Manchester City">
     <display-name lang="en">Crystal Palace vs Manchester City</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Arizona Diamondbacks">
-    <display-name lang="en">Colorado Rockies vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. San Diego Padres">
-    <display-name lang="en">Seattle Mariners vs. San Diego Padres</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. Los Angeles Dodgers">
     <display-name lang="en">Los Angeles Angels vs. Los Angeles Dodgers</display-name>
@@ -95,23 +89,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250516000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1" stop="20250516235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250516000000 -0500" channel="Toronto Maple Leafs vs. Florida Panthers" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Cleveland Guardians vs. Cincinnati Reds" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Pittsburgh Pirates vs. Philadelphia Phillies" stop="20250516235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -183,6 +169,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250516000000 -0500" channel="Colorado Rockies vs. Arizona Diamondbacks" stop="20250516235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250516000000 -0500" channel="Seattle Mariners vs. San Diego Padres" stop="20250516235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250516000000 -0500" channel="OKTAGON 71 (English)" stop="20250516235959 -0500">
     <title>11:00 AM 17/05/25 - OKTAGON 71 (English)</title>
     <date>2025</date>
@@ -207,14 +209,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250516000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1" stop="20250516235959 -0500">
-    <title>09:00 PM 16/05/25 - PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250516000000 -0500" channel="AFC Wimbledon vs Notts County" stop="20250516235959 -0500">
     <title>06:30 AM 17/05/25 - AFC Wimbledon vs Notts County</title>
     <date>2025</date>
@@ -225,22 +219,6 @@
   </programme>
   <programme start="20250516000000 -0500" channel="Crystal Palace vs Manchester City" stop="20250516235959 -0500">
     <title>10:30 AM 17/05/25 - Crystal Palace vs Manchester City</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Colorado Rockies vs. Arizona Diamondbacks" stop="20250516235959 -0500">
-    <title>08:40 PM 16/05/25 - Colorado Rockies vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Seattle Mariners vs. San Diego Padres" stop="20250516235959 -0500">
-    <title>08:40 PM 16/05/25 - Seattle Mariners vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
