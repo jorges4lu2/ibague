@@ -3,6 +3,15 @@
   <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1">
     <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1</display-name>
   </channel>
+  <channel id="2025 IIHF Men's World Championship: Finland vs. Latvia">
+    <display-name lang="en">2025 IIHF Men's World Championship: Finland vs. Latvia</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: USA vs. Germany">
+    <display-name lang="en">2025 IIHF Men's World Championship: USA vs. Germany</display-name>
+  </channel>
+  <channel id="F1: Emilia Romagna Grand Prix (Practice 3)">
+    <display-name lang="en">F1: Emilia Romagna Grand Prix (Practice 3)</display-name>
+  </channel>
   <channel id="OKTAGON 71 (English)">
     <display-name lang="en">OKTAGON 71 (English)</display-name>
   </channel>
@@ -23,12 +32,6 @@
   </channel>
   <channel id="Crystal Palace vs Manchester City">
     <display-name lang="en">Crystal Palace vs Manchester City</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Finland vs. Latvia">
-    <display-name lang="en">2025 IIHF Men's World Championship: Finland vs. Latvia</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: USA vs. Germany">
-    <display-name lang="en">2025 IIHF Men's World Championship: USA vs. Germany</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: France vs. Sweden">
     <display-name lang="en">2025 IIHF Men's World Championship: France vs. Sweden</display-name>
@@ -90,9 +93,6 @@
   <channel id="Los Angeles Angels vs. Los Angeles Dodgers">
     <display-name lang="en">Los Angeles Angels vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="F1: Emilia Romagna Grand Prix (Practice 3)">
-    <display-name lang="en">F1: Emilia Romagna Grand Prix (Practice 3)</display-name>
-  </channel>
   <channel id="F1: Emilia Romagna Grand Prix (Qualifying)">
     <display-name lang="en">F1: Emilia Romagna Grand Prix (Qualifying)</display-name>
   </channel>
@@ -112,6 +112,30 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250517000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: Finland vs. Latvia" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: USA vs. Germany" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="F1: Emilia Romagna Grand Prix (Practice 3)" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -169,22 +193,6 @@
   </programme>
   <programme start="20250517000000 -0500" channel="Crystal Palace vs Manchester City" stop="20250517235959 -0500">
     <title>10:30 AM 17/05/25 - Crystal Palace vs Manchester City</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: Finland vs. Latvia" stop="20250517235959 -0500">
-    <title>05:20 AM 17/05/25 - 2025 IIHF Men's World Championship: Finland vs. Latvia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: USA vs. Germany" stop="20250517235959 -0500">
-    <title>05:20 AM 17/05/25 - 2025 IIHF Men's World Championship: USA vs. Germany</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -345,14 +353,6 @@
   </programme>
   <programme start="20250517000000 -0500" channel="Los Angeles Angels vs. Los Angeles Dodgers" stop="20250517235959 -0500">
     <title>08:10 PM 17/05/25 - Los Angeles Angels vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="F1: Emilia Romagna Grand Prix (Practice 3)" stop="20250517235959 -0500">
-    <title>05:30 AM 17/05/25 - F1: Emilia Romagna Grand Prix (Practice 3)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
