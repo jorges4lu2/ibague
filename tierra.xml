@@ -1,31 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250516 -0500">
-  <channel id="Celtics at Knicks">
-    <display-name lang="en">Celtics at Knicks</display-name>
-  </channel>
   <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1">
     <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1</display-name>
-  </channel>
-  <channel id="Toronto Maple Leafs vs. Florida Panthers">
-    <display-name lang="en">Toronto Maple Leafs vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="New York Mets vs. New York Yankees">
-    <display-name lang="en">New York Mets vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Baltimore Orioles">
-    <display-name lang="en">Washington Nationals vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Toronto Blue Jays">
-    <display-name lang="en">Detroit Tigers vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Boston Red Sox">
-    <display-name lang="en">Atlanta Braves vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Miami Marlins">
-    <display-name lang="en">Tampa Bay Rays vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Kansas City Royals">
-    <display-name lang="en">St. Louis Cardinals vs. Kansas City Royals</display-name>
   </channel>
   <channel id="Houston Astros vs. Texas Rangers">
     <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
@@ -38,6 +14,12 @@
   </channel>
   <channel id="Seattle Mariners vs. San Diego Padres">
     <display-name lang="en">Seattle Mariners vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Los Angeles Angels vs. Los Angeles Dodgers">
+    <display-name lang="en">Los Angeles Angels vs. Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="Athletics vs. San Francisco Giants">
+    <display-name lang="en">Athletics vs. San Francisco Giants</display-name>
   </channel>
   <channel id="OKTAGON 71 (English)">
     <display-name lang="en">OKTAGON 71 (English)</display-name>
@@ -53,12 +35,6 @@
   </channel>
   <channel id="Crystal Palace vs Manchester City">
     <display-name lang="en">Crystal Palace vs Manchester City</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Los Angeles Dodgers">
-    <display-name lang="en">Los Angeles Angels vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Athletics vs. San Francisco Giants">
-    <display-name lang="en">Athletics vs. San Francisco Giants</display-name>
   </channel>
   <channel id="F1: Emilia Romagna Grand Prix (Practice 3)">
     <display-name lang="en">F1: Emilia Romagna Grand Prix (Practice 3)</display-name>
@@ -81,71 +57,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250516000000 -0500" channel="Celtics at Knicks" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250516000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Toronto Maple Leafs vs. Florida Panthers" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="New York Mets vs. New York Yankees" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Washington Nationals vs. Baltimore Orioles" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Detroit Tigers vs. Toronto Blue Jays" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Atlanta Braves vs. Boston Red Sox" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Tampa Bay Rays vs. Miami Marlins" stop="20250516235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="St. Louis Cardinals vs. Kansas City Royals" stop="20250516235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -178,6 +90,22 @@
     </audio>
   </programme>
   <programme start="20250516000000 -0500" channel="Seattle Mariners vs. San Diego Padres" stop="20250516235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250516000000 -0500" channel="Los Angeles Angels vs. Los Angeles Dodgers" stop="20250516235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250516000000 -0500" channel="Athletics vs. San Francisco Giants" stop="20250516235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -219,22 +147,6 @@
   </programme>
   <programme start="20250516000000 -0500" channel="Crystal Palace vs Manchester City" stop="20250516235959 -0500">
     <title>10:30 AM 17/05/25 - Crystal Palace vs Manchester City</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Los Angeles Angels vs. Los Angeles Dodgers" stop="20250516235959 -0500">
-    <title>09:10 PM 16/05/25 - Los Angeles Angels vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Athletics vs. San Francisco Giants" stop="20250516235959 -0500">
-    <title>09:15 PM 16/05/25 - Athletics vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
