@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250517 -0500">
+  <channel id="OKTAGON 71 (English)">
+    <display-name lang="en">OKTAGON 71 (English)</display-name>
+  </channel>
+  <channel id="OKTAGON 71 (German)">
+    <display-name lang="en">OKTAGON 71 (German)</display-name>
+  </channel>
+  <channel id="Crystal Palace vs Manchester City">
+    <display-name lang="en">Crystal Palace vs Manchester City</display-name>
+  </channel>
   <channel id="2025 IIHF Men's World Championship: Finland vs. Latvia">
     <display-name lang="en">2025 IIHF Men's World Championship: Finland vs. Latvia</display-name>
   </channel>
@@ -12,15 +21,6 @@
   <channel id="2025 IIHF Men's World Championship: Czechia vs. Kazakhstan">
     <display-name lang="en">2025 IIHF Men's World Championship: Czechia vs. Kazakhstan</display-name>
   </channel>
-  <channel id="F1: Emilia Romagna Grand Prix (Qualifying)">
-    <display-name lang="en">F1: Emilia Romagna Grand Prix (Qualifying)</display-name>
-  </channel>
-  <channel id="OKTAGON 71 (English)">
-    <display-name lang="en">OKTAGON 71 (English)</display-name>
-  </channel>
-  <channel id="OKTAGON 71 (German)">
-    <display-name lang="en">OKTAGON 71 (German)</display-name>
-  </channel>
   <channel id="Boxing: Fisher vs. Allen 2">
     <display-name lang="en">Boxing: Fisher vs. Allen 2</display-name>
   </channel>
@@ -29,9 +29,6 @@
   </channel>
   <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2">
     <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</display-name>
-  </channel>
-  <channel id="Crystal Palace vs Manchester City">
-    <display-name lang="en">Crystal Palace vs Manchester City</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Canada vs. Slovakia">
     <display-name lang="en">2025 IIHF Men's World Championship: Canada vs. Slovakia</display-name>
@@ -102,6 +99,30 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250517000000 -0500" channel="OKTAGON 71 (English)" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="OKTAGON 71 (German)" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="Crystal Palace vs Manchester City" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: Finland vs. Latvia" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -134,30 +155,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250517000000 -0500" channel="F1: Emilia Romagna Grand Prix (Qualifying)" stop="20250517235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="OKTAGON 71 (English)" stop="20250517235959 -0500">
-    <title>11:00 AM 17/05/25 - OKTAGON 71 (English)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="OKTAGON 71 (German)" stop="20250517235959 -0500">
-    <title>11:00 AM 17/05/25 - OKTAGON 71 (German)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250517000000 -0500" channel="Boxing: Fisher vs. Allen 2" stop="20250517235959 -0500">
     <title>01:00 PM 17/05/25 - Boxing: Fisher vs. Allen 2</title>
     <date>2025</date>
@@ -176,14 +173,6 @@
   </programme>
   <programme start="20250517000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2" stop="20250517235959 -0500">
     <title>09:00 PM 17/05/25 - PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Crystal Palace vs Manchester City" stop="20250517235959 -0500">
-    <title>10:30 AM 17/05/25 - Crystal Palace vs Manchester City</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
