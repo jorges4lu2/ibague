@@ -30,6 +30,12 @@
   <channel id="St. Louis Cardinals vs. Kansas City Royals">
     <display-name lang="en">St. Louis Cardinals vs. Kansas City Royals</display-name>
   </channel>
+  <channel id="Houston Astros vs. Texas Rangers">
+    <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Minnesota Twins vs. Milwaukee Brewers">
+    <display-name lang="en">Minnesota Twins vs. Milwaukee Brewers</display-name>
+  </channel>
   <channel id="OKTAGON 71 (English)">
     <display-name lang="en">OKTAGON 71 (English)</display-name>
   </channel>
@@ -47,12 +53,6 @@
   </channel>
   <channel id="Crystal Palace vs Manchester City">
     <display-name lang="en">Crystal Palace vs Manchester City</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Texas Rangers">
-    <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Milwaukee Brewers">
-    <display-name lang="en">Minnesota Twins vs. Milwaukee Brewers</display-name>
   </channel>
   <channel id="Colorado Rockies vs. Arizona Diamondbacks">
     <display-name lang="en">Colorado Rockies vs. Arizona Diamondbacks</display-name>
@@ -167,6 +167,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250516000000 -0500" channel="Houston Astros vs. Texas Rangers" stop="20250516235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250516000000 -0500" channel="Minnesota Twins vs. Milwaukee Brewers" stop="20250516235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250516000000 -0500" channel="OKTAGON 71 (English)" stop="20250516235959 -0500">
     <title>11:00 AM 17/05/25 - OKTAGON 71 (English)</title>
     <date>2025</date>
@@ -209,22 +225,6 @@
   </programme>
   <programme start="20250516000000 -0500" channel="Crystal Palace vs Manchester City" stop="20250516235959 -0500">
     <title>10:30 AM 17/05/25 - Crystal Palace vs Manchester City</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Houston Astros vs. Texas Rangers" stop="20250516235959 -0500">
-    <title>07:05 PM 16/05/25 - Houston Astros vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250516000000 -0500" channel="Minnesota Twins vs. Milwaukee Brewers" stop="20250516235959 -0500">
-    <title>07:10 PM 16/05/25 - Minnesota Twins vs. Milwaukee Brewers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
