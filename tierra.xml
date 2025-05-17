@@ -3,6 +3,9 @@
   <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1">
     <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 1</display-name>
   </channel>
+  <channel id="AFC Wimbledon vs Notts County">
+    <display-name lang="en">AFC Wimbledon vs Notts County</display-name>
+  </channel>
   <channel id="2025 IIHF Men's World Championship: Finland vs. Latvia">
     <display-name lang="en">2025 IIHF Men's World Championship: Finland vs. Latvia</display-name>
   </channel>
@@ -26,9 +29,6 @@
   </channel>
   <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2">
     <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</display-name>
-  </channel>
-  <channel id="AFC Wimbledon vs Notts County">
-    <display-name lang="en">AFC Wimbledon vs Notts County</display-name>
   </channel>
   <channel id="Crystal Palace vs Manchester City">
     <display-name lang="en">Crystal Palace vs Manchester City</display-name>
@@ -119,6 +119,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250517000000 -0500" channel="AFC Wimbledon vs Notts County" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: Finland vs. Latvia" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -177,14 +185,6 @@
   </programme>
   <programme start="20250517000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2" stop="20250517235959 -0500">
     <title>09:00 PM 17/05/25 - PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="AFC Wimbledon vs Notts County" stop="20250517235959 -0500">
-    <title>06:30 AM 17/05/25 - AFC Wimbledon vs Notts County</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
