@@ -12,14 +12,17 @@
   <channel id="UFC Fight Night: Burns vs. Morales">
     <display-name lang="en">UFC Fight Night: Burns vs. Morales</display-name>
   </channel>
-  <channel id="Detroit Tigers vs. Toronto Blue Jays">
-    <display-name lang="en">Detroit Tigers vs. Toronto Blue Jays</display-name>
-  </channel>
   <channel id="Washington Nationals vs. Baltimore Orioles">
     <display-name lang="en">Washington Nationals vs. Baltimore Orioles</display-name>
   </channel>
   <channel id="Tampa Bay Rays vs. Miami Marlins">
     <display-name lang="en">Tampa Bay Rays vs. Miami Marlins</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. Philadelphia Phillies">
+    <display-name lang="en">Pittsburgh Pirates vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Cleveland Guardians vs. Cincinnati Reds">
+    <display-name lang="en">Cleveland Guardians vs. Cincinnati Reds</display-name>
   </channel>
   <channel id="Nuggets at Thunder (Game 7)">
     <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
@@ -32,12 +35,6 @@
   </channel>
   <channel id="Winnipeg Jets vs. Dallas Stars">
     <display-name lang="en">Winnipeg Jets vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Philadelphia Phillies">
-    <display-name lang="en">Pittsburgh Pirates vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Cincinnati Reds">
-    <display-name lang="en">Cleveland Guardians vs. Cincinnati Reds</display-name>
   </channel>
   <channel id="Houston Astros vs. Texas Rangers">
     <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
@@ -110,14 +107,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250517000000 -0500" channel="Detroit Tigers vs. Toronto Blue Jays" stop="20250517235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250517000000 -0500" channel="Washington Nationals vs. Baltimore Orioles" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -127,6 +116,22 @@
     </audio>
   </programme>
   <programme start="20250517000000 -0500" channel="Tampa Bay Rays vs. Miami Marlins" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="Pittsburgh Pirates vs. Philadelphia Phillies" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="Cleveland Guardians vs. Cincinnati Reds" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -160,22 +165,6 @@
   </programme>
   <programme start="20250517000000 -0500" channel="Winnipeg Jets vs. Dallas Stars" stop="20250517235959 -0500">
     <title>07:00 PM 17/05/25 - Winnipeg Jets vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Pittsburgh Pirates vs. Philadelphia Phillies" stop="20250517235959 -0500">
-    <title>05:05 PM 17/05/25 - Pittsburgh Pirates vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Cleveland Guardians vs. Cincinnati Reds" stop="20250517235959 -0500">
-    <title>05:40 PM 17/05/25 - Cleveland Guardians vs. Cincinnati Reds</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
