@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250517 -0500">
-  <channel id="AFC Wimbledon vs Notts County">
-    <display-name lang="en">AFC Wimbledon vs Notts County</display-name>
-  </channel>
   <channel id="2025 IIHF Men's World Championship: Finland vs. Latvia">
     <display-name lang="en">2025 IIHF Men's World Championship: Finland vs. Latvia</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: USA vs. Germany">
     <display-name lang="en">2025 IIHF Men's World Championship: USA vs. Germany</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: France vs. Sweden">
+    <display-name lang="en">2025 IIHF Men's World Championship: France vs. Sweden</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Czechia vs. Kazakhstan">
+    <display-name lang="en">2025 IIHF Men's World Championship: Czechia vs. Kazakhstan</display-name>
   </channel>
   <channel id="F1: Emilia Romagna Grand Prix (Qualifying)">
     <display-name lang="en">F1: Emilia Romagna Grand Prix (Qualifying)</display-name>
@@ -29,12 +32,6 @@
   </channel>
   <channel id="Crystal Palace vs Manchester City">
     <display-name lang="en">Crystal Palace vs Manchester City</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: France vs. Sweden">
-    <display-name lang="en">2025 IIHF Men's World Championship: France vs. Sweden</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Czechia vs. Kazakhstan">
-    <display-name lang="en">2025 IIHF Men's World Championship: Czechia vs. Kazakhstan</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Canada vs. Slovakia">
     <display-name lang="en">2025 IIHF Men's World Championship: Canada vs. Slovakia</display-name>
@@ -105,14 +102,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250517000000 -0500" channel="AFC Wimbledon vs Notts County" stop="20250517235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: Finland vs. Latvia" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -122,6 +111,22 @@
     </audio>
   </programme>
   <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: USA vs. Germany" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: France vs. Sweden" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: Czechia vs. Kazakhstan" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -179,22 +184,6 @@
   </programme>
   <programme start="20250517000000 -0500" channel="Crystal Palace vs Manchester City" stop="20250517235959 -0500">
     <title>10:30 AM 17/05/25 - Crystal Palace vs Manchester City</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: France vs. Sweden" stop="20250517235959 -0500">
-    <title>09:20 AM 17/05/25 - 2025 IIHF Men's World Championship: France vs. Sweden</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="2025 IIHF Men's World Championship: Czechia vs. Kazakhstan" stop="20250517235959 -0500">
-    <title>09:20 AM 17/05/25 - 2025 IIHF Men's World Championship: Czechia vs. Kazakhstan</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
