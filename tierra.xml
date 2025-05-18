@@ -1,40 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250517 -0500">
-  <channel id="OKTAGON 71 (English)">
-    <display-name lang="en">OKTAGON 71 (English)</display-name>
-  </channel>
-  <channel id="OKTAGON 71 (German)">
-    <display-name lang="en">OKTAGON 71 (German)</display-name>
-  </channel>
   <channel id="Boxing: Fisher vs. Allen 2">
     <display-name lang="en">Boxing: Fisher vs. Allen 2</display-name>
   </channel>
   <channel id="UFC Fight Night: Burns vs. Morales">
     <display-name lang="en">UFC Fight Night: Burns vs. Morales</display-name>
   </channel>
-  <channel id="Washington Nationals vs. Baltimore Orioles">
-    <display-name lang="en">Washington Nationals vs. Baltimore Orioles</display-name>
+  <channel id="LND Monthly">
+    <display-name lang="en">LND Monthly</display-name>
   </channel>
-  <channel id="Tampa Bay Rays vs. Miami Marlins">
-    <display-name lang="en">Tampa Bay Rays vs. Miami Marlins</display-name>
+  <channel id="Winnipeg Jets vs. Dallas Stars">
+    <display-name lang="en">Winnipeg Jets vs. Dallas Stars</display-name>
   </channel>
   <channel id="Pittsburgh Pirates vs. Philadelphia Phillies">
     <display-name lang="en">Pittsburgh Pirates vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. Cincinnati Reds">
     <display-name lang="en">Cleveland Guardians vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Nuggets at Thunder (Game 7)">
-    <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
-  </channel>
-  <channel id="LND Monthly">
-    <display-name lang="en">LND Monthly</display-name>
-  </channel>
-  <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2">
-    <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</display-name>
-  </channel>
-  <channel id="Winnipeg Jets vs. Dallas Stars">
-    <display-name lang="en">Winnipeg Jets vs. Dallas Stars</display-name>
   </channel>
   <channel id="Houston Astros vs. Texas Rangers">
     <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
@@ -47,6 +29,12 @@
   </channel>
   <channel id="Minnesota Twins vs. Milwaukee Brewers">
     <display-name lang="en">Minnesota Twins vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Nuggets at Thunder (Game 7)">
+    <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
+  </channel>
+  <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2">
+    <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</display-name>
   </channel>
   <channel id="Colorado Rockies vs. Arizona Diamondbacks">
     <display-name lang="en">Colorado Rockies vs. Arizona Diamondbacks</display-name>
@@ -75,22 +63,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250517000000 -0500" channel="OKTAGON 71 (English)" stop="20250517235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="OKTAGON 71 (German)" stop="20250517235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250517000000 -0500" channel="Boxing: Fisher vs. Allen 2" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -107,7 +79,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250517000000 -0500" channel="Washington Nationals vs. Baltimore Orioles" stop="20250517235959 -0500">
+  <programme start="20250517000000 -0500" channel="LND Monthly" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -115,7 +87,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250517000000 -0500" channel="Tampa Bay Rays vs. Miami Marlins" stop="20250517235959 -0500">
+  <programme start="20250517000000 -0500" channel="Winnipeg Jets vs. Dallas Stars" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -139,6 +111,38 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250517000000 -0500" channel="Houston Astros vs. Texas Rangers" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="St. Louis Cardinals vs. Kansas City Royals" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="Atlanta Braves vs. Boston Red Sox" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="Minnesota Twins vs. Milwaukee Brewers" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250517000000 -0500" channel="Nuggets at Thunder (Game 7)" stop="20250517235959 -0500">
     <title>02:30 PM 18/05/25 - Nuggets at Thunder (Game 7)</title>
     <date>2025</date>
@@ -147,56 +151,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250517000000 -0500" channel="LND Monthly" stop="20250517235959 -0500">
-    <title>07:00 PM 17/05/25 - LND Monthly</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250517000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2" stop="20250517235959 -0500">
     <title>09:00 PM 17/05/25 - PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Winnipeg Jets vs. Dallas Stars" stop="20250517235959 -0500">
-    <title>07:00 PM 17/05/25 - Winnipeg Jets vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Houston Astros vs. Texas Rangers" stop="20250517235959 -0500">
-    <title>06:05 PM 17/05/25 - Houston Astros vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="St. Louis Cardinals vs. Kansas City Royals" stop="20250517235959 -0500">
-    <title>06:10 PM 17/05/25 - St. Louis Cardinals vs. Kansas City Royals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Atlanta Braves vs. Boston Red Sox" stop="20250517235959 -0500">
-    <title>06:15 PM 17/05/25 - Atlanta Braves vs. Boston Red Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Minnesota Twins vs. Milwaukee Brewers" stop="20250517235959 -0500">
-    <title>06:15 PM 17/05/25 - Minnesota Twins vs. Milwaukee Brewers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
