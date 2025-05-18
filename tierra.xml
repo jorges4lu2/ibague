@@ -1,34 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250518 -0500">
-  <channel id="EPL: Arsenal vs Newcastle United">
-    <display-name lang="en">EPL: Arsenal vs Newcastle United</display-name>
-  </channel>
   <channel id="Barcelona vs Villarreal">
     <display-name lang="en">Barcelona vs Villarreal</display-name>
   </channel>
   <channel id="Sevilla vs Real Madrid">
     <display-name lang="en">Sevilla vs Real Madrid</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Kazakhstan vs. USA">
-    <display-name lang="en">2025 IIHF Men's World Championship: Kazakhstan vs. USA</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Slovenia vs. Austria">
-    <display-name lang="en">2025 IIHF Men's World Championship: Slovenia vs. Austria</display-name>
-  </channel>
-  <channel id="PBA Bowling Playoffs, Semifinals">
-    <display-name lang="en">PBA Bowling Playoffs, Semifinals</display-name>
-  </channel>
-  <channel id="Nuggets at Thunder (Game 7)">
-    <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Hungary vs. Switzerland">
-    <display-name lang="en">2025 IIHF Men's World Championship: Hungary vs. Switzerland</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Slovakia vs. Latvia">
-    <display-name lang="en">2025 IIHF Men's World Championship: Slovakia vs. Latvia</display-name>
-  </channel>
-  <channel id="Florida Panthers vs. Toronto Maple Leafs">
-    <display-name lang="en">Florida Panthers vs. Toronto Maple Leafs</display-name>
   </channel>
   <channel id="Houston Astros vs. Texas Rangers">
     <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
@@ -50,6 +26,18 @@
   </channel>
   <channel id="Tampa Bay Rays vs. Miami Marlins">
     <display-name lang="en">Tampa Bay Rays vs. Miami Marlins</display-name>
+  </channel>
+  <channel id="Nuggets at Thunder (Game 7)">
+    <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Hungary vs. Switzerland">
+    <display-name lang="en">2025 IIHF Men's World Championship: Hungary vs. Switzerland</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Slovakia vs. Latvia">
+    <display-name lang="en">2025 IIHF Men's World Championship: Slovakia vs. Latvia</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Toronto Maple Leafs">
+    <display-name lang="en">Florida Panthers vs. Toronto Maple Leafs</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Milwaukee Brewers">
     <display-name lang="en">Minnesota Twins vs. Milwaukee Brewers</display-name>
@@ -87,14 +75,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250518000000 -0500" channel="EPL: Arsenal vs Newcastle United" stop="20250518235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250518000000 -0500" channel="Barcelona vs Villarreal" stop="20250518235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -111,7 +91,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250518000000 -0500" channel="2025 IIHF Men's World Championship: Kazakhstan vs. USA" stop="20250518235959 -0500">
+  <programme start="20250518000000 -0500" channel="Houston Astros vs. Texas Rangers" stop="20250518235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -119,7 +99,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250518000000 -0500" channel="2025 IIHF Men's World Championship: Slovenia vs. Austria" stop="20250518235959 -0500">
+  <programme start="20250518000000 -0500" channel="Atlanta Braves vs. Boston Red Sox" stop="20250518235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -127,7 +107,39 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250518000000 -0500" channel="PBA Bowling Playoffs, Semifinals" stop="20250518235959 -0500">
+  <programme start="20250518000000 -0500" channel="Pittsburgh Pirates vs. Philadelphia Phillies" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="Washington Nationals vs. Baltimore Orioles" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="Detroit Tigers vs. Toronto Blue Jays" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="Cleveland Guardians vs. Cincinnati Reds" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="Tampa Bay Rays vs. Miami Marlins" stop="20250518235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -161,62 +173,6 @@
   </programme>
   <programme start="20250518000000 -0500" channel="Florida Panthers vs. Toronto Maple Leafs" stop="20250518235959 -0500">
     <title>06:30 PM 18/05/25 - Florida Panthers vs. Toronto Maple Leafs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="Houston Astros vs. Texas Rangers" stop="20250518235959 -0500">
-    <title>12:05 PM 18/05/25 - Houston Astros vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="Atlanta Braves vs. Boston Red Sox" stop="20250518235959 -0500">
-    <title>12:35 PM 18/05/25 - Atlanta Braves vs. Boston Red Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="Pittsburgh Pirates vs. Philadelphia Phillies" stop="20250518235959 -0500">
-    <title>12:35 PM 18/05/25 - Pittsburgh Pirates vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="Washington Nationals vs. Baltimore Orioles" stop="20250518235959 -0500">
-    <title>12:35 PM 18/05/25 - Washington Nationals vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="Detroit Tigers vs. Toronto Blue Jays" stop="20250518235959 -0500">
-    <title>12:37 PM 18/05/25 - Detroit Tigers vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="Cleveland Guardians vs. Cincinnati Reds" stop="20250518235959 -0500">
-    <title>12:40 PM 18/05/25 - Cleveland Guardians vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="Tampa Bay Rays vs. Miami Marlins" stop="20250518235959 -0500">
-    <title>12:40 PM 18/05/25 - Tampa Bay Rays vs. Miami Marlins</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
