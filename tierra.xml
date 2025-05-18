@@ -9,6 +9,12 @@
   <channel id="EPL: Leicester City vs Ipswich Town">
     <display-name lang="en">EPL: Leicester City vs Ipswich Town</display-name>
   </channel>
+  <channel id="2025 IIHF Men's World Championship: Kazakhstan vs. USA">
+    <display-name lang="en">2025 IIHF Men's World Championship: Kazakhstan vs. USA</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Slovenia vs. Austria">
+    <display-name lang="en">2025 IIHF Men's World Championship: Slovenia vs. Austria</display-name>
+  </channel>
   <channel id="F1: Emilia Romagna Grand Prix (Race)">
     <display-name lang="en">F1: Emilia Romagna Grand Prix (Race)</display-name>
   </channel>
@@ -26,12 +32,6 @@
   </channel>
   <channel id="Sevilla vs Real Madrid">
     <display-name lang="en">Sevilla vs Real Madrid</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Kazakhstan vs. USA">
-    <display-name lang="en">2025 IIHF Men's World Championship: Kazakhstan vs. USA</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Slovenia vs. Austria">
-    <display-name lang="en">2025 IIHF Men's World Championship: Slovenia vs. Austria</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Hungary vs. Switzerland">
     <display-name lang="en">2025 IIHF Men's World Championship: Hungary vs. Switzerland</display-name>
@@ -123,6 +123,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250518000000 -0500" channel="2025 IIHF Men's World Championship: Kazakhstan vs. USA" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="2025 IIHF Men's World Championship: Slovenia vs. Austria" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250518000000 -0500" channel="F1: Emilia Romagna Grand Prix (Race)" stop="20250518235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -165,22 +181,6 @@
   </programme>
   <programme start="20250518000000 -0500" channel="Sevilla vs Real Madrid" stop="20250518235959 -0500">
     <title>12:00 PM 18/05/25 - Sevilla vs Real Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="2025 IIHF Men's World Championship: Kazakhstan vs. USA" stop="20250518235959 -0500">
-    <title>09:20 AM 18/05/25 - 2025 IIHF Men's World Championship: Kazakhstan vs. USA</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="2025 IIHF Men's World Championship: Slovenia vs. Austria" stop="20250518235959 -0500">
-    <title>09:20 AM 18/05/25 - 2025 IIHF Men's World Championship: Slovenia vs. Austria</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
