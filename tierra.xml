@@ -30,17 +30,17 @@
   <channel id="Minnesota Twins vs. Milwaukee Brewers">
     <display-name lang="en">Minnesota Twins vs. Milwaukee Brewers</display-name>
   </channel>
-  <channel id="Nuggets at Thunder (Game 7)">
-    <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
-  </channel>
-  <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2">
-    <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</display-name>
-  </channel>
   <channel id="Colorado Rockies vs. Arizona Diamondbacks">
     <display-name lang="en">Colorado Rockies vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="Seattle Mariners vs. San Diego Padres">
     <display-name lang="en">Seattle Mariners vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Nuggets at Thunder (Game 7)">
+    <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
+  </channel>
+  <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2">
+    <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</display-name>
   </channel>
   <channel id="Athletics vs. San Francisco Giants">
     <display-name lang="en">Athletics vs. San Francisco Giants</display-name>
@@ -143,6 +143,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250517000000 -0500" channel="Colorado Rockies vs. Arizona Diamondbacks" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="Seattle Mariners vs. San Diego Padres" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250517000000 -0500" channel="Nuggets at Thunder (Game 7)" stop="20250517235959 -0500">
     <title>02:30 PM 18/05/25 - Nuggets at Thunder (Game 7)</title>
     <date>2025</date>
@@ -153,22 +169,6 @@
   </programme>
   <programme start="20250517000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2" stop="20250517235959 -0500">
     <title>09:00 PM 17/05/25 - PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Colorado Rockies vs. Arizona Diamondbacks" stop="20250517235959 -0500">
-    <title>07:10 PM 17/05/25 - Colorado Rockies vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Seattle Mariners vs. San Diego Padres" stop="20250517235959 -0500">
-    <title>07:40 PM 17/05/25 - Seattle Mariners vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
