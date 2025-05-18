@@ -6,6 +6,12 @@
   <channel id="EPL: Everton vs Southampton">
     <display-name lang="en">EPL: Everton vs Southampton</display-name>
   </channel>
+  <channel id="F1: Emilia Romagna Grand Prix (Race)">
+    <display-name lang="en">F1: Emilia Romagna Grand Prix (Race)</display-name>
+  </channel>
+  <channel id="F1: Emilia Romagna Grand Prix (Race) (F1TV Feed)">
+    <display-name lang="en">F1: Emilia Romagna Grand Prix (Race) (F1TV Feed)</display-name>
+  </channel>
   <channel id="Nuggets at Thunder (Game 7)">
     <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
   </channel>
@@ -87,9 +93,6 @@
   <channel id="New York Mets vs. New York Yankees">
     <display-name lang="en">New York Mets vs. New York Yankees</display-name>
   </channel>
-  <channel id="F1: Emilia Romagna Grand Prix (Race)">
-    <display-name lang="en">F1: Emilia Romagna Grand Prix (Race)</display-name>
-  </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
@@ -111,6 +114,22 @@
     </audio>
   </programme>
   <programme start="20250518000000 -0500" channel="EPL: Everton vs Southampton" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="F1: Emilia Romagna Grand Prix (Race)" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="F1: Emilia Romagna Grand Prix (Race) (F1TV Feed)" stop="20250518235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -328,14 +347,6 @@
   </programme>
   <programme start="20250518000000 -0500" channel="New York Mets vs. New York Yankees" stop="20250518235959 -0500">
     <title>06:00 PM 18/05/25 - New York Mets vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="F1: Emilia Romagna Grand Prix (Race)" stop="20250518235959 -0500">
-    <title>08:00 AM 18/05/25 - F1: Emilia Romagna Grand Prix (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
