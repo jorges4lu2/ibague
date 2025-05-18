@@ -6,6 +6,12 @@
   <channel id="Sevilla vs Real Madrid">
     <display-name lang="en">Sevilla vs Real Madrid</display-name>
   </channel>
+  <channel id="2025 IIHF Men's World Championship: Hungary vs. Switzerland">
+    <display-name lang="en">2025 IIHF Men's World Championship: Hungary vs. Switzerland</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Slovakia vs. Latvia">
+    <display-name lang="en">2025 IIHF Men's World Championship: Slovakia vs. Latvia</display-name>
+  </channel>
   <channel id="Houston Astros vs. Texas Rangers">
     <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
   </channel>
@@ -27,18 +33,6 @@
   <channel id="Tampa Bay Rays vs. Miami Marlins">
     <display-name lang="en">Tampa Bay Rays vs. Miami Marlins</display-name>
   </channel>
-  <channel id="Nuggets at Thunder (Game 7)">
-    <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Hungary vs. Switzerland">
-    <display-name lang="en">2025 IIHF Men's World Championship: Hungary vs. Switzerland</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Slovakia vs. Latvia">
-    <display-name lang="en">2025 IIHF Men's World Championship: Slovakia vs. Latvia</display-name>
-  </channel>
-  <channel id="Florida Panthers vs. Toronto Maple Leafs">
-    <display-name lang="en">Florida Panthers vs. Toronto Maple Leafs</display-name>
-  </channel>
   <channel id="Minnesota Twins vs. Milwaukee Brewers">
     <display-name lang="en">Minnesota Twins vs. Milwaukee Brewers</display-name>
   </channel>
@@ -47,6 +41,12 @@
   </channel>
   <channel id="Chicago White Sox vs. Chicago Cubs">
     <display-name lang="en">Chicago White Sox vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Nuggets at Thunder (Game 7)">
+    <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Toronto Maple Leafs">
+    <display-name lang="en">Florida Panthers vs. Toronto Maple Leafs</display-name>
   </channel>
   <channel id="Athletics vs. San Francisco Giants">
     <display-name lang="en">Athletics vs. San Francisco Giants</display-name>
@@ -84,6 +84,22 @@
     </audio>
   </programme>
   <programme start="20250518000000 -0500" channel="Sevilla vs Real Madrid" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="2025 IIHF Men's World Championship: Hungary vs. Switzerland" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="2025 IIHF Men's World Championship: Slovakia vs. Latvia" stop="20250518235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -147,6 +163,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250518000000 -0500" channel="Minnesota Twins vs. Milwaukee Brewers" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="St. Louis Cardinals vs. Kansas City Royals" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="Chicago White Sox vs. Chicago Cubs" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250518000000 -0500" channel="Nuggets at Thunder (Game 7)" stop="20250518235959 -0500">
     <title>02:30 PM 18/05/25 - Nuggets at Thunder (Game 7)</title>
     <date>2025</date>
@@ -155,48 +195,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250518000000 -0500" channel="2025 IIHF Men's World Championship: Hungary vs. Switzerland" stop="20250518235959 -0500">
-    <title>01:20 PM 18/05/25 - 2025 IIHF Men's World Championship: Hungary vs. Switzerland</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="2025 IIHF Men's World Championship: Slovakia vs. Latvia" stop="20250518235959 -0500">
-    <title>01:20 PM 18/05/25 - 2025 IIHF Men's World Championship: Slovakia vs. Latvia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250518000000 -0500" channel="Florida Panthers vs. Toronto Maple Leafs" stop="20250518235959 -0500">
     <title>06:30 PM 18/05/25 - Florida Panthers vs. Toronto Maple Leafs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="Minnesota Twins vs. Milwaukee Brewers" stop="20250518235959 -0500">
-    <title>01:10 PM 18/05/25 - Minnesota Twins vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="St. Louis Cardinals vs. Kansas City Royals" stop="20250518235959 -0500">
-    <title>01:10 PM 18/05/25 - St. Louis Cardinals vs. Kansas City Royals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="Chicago White Sox vs. Chicago Cubs" stop="20250518235959 -0500">
-    <title>01:20 PM 18/05/25 - Chicago White Sox vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
