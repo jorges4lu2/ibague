@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250518 -0500">
-  <channel id="EPL: West Ham United vs Nottingham Forest">
-    <display-name lang="en">EPL: West Ham United vs Nottingham Forest</display-name>
-  </channel>
   <channel id="EPL: Brentford vs Fulham">
     <display-name lang="en">EPL: Brentford vs Fulham</display-name>
   </channel>
   <channel id="EPL: Leicester City vs Ipswich Town">
     <display-name lang="en">EPL: Leicester City vs Ipswich Town</display-name>
+  </channel>
+  <channel id="EPL: Arsenal vs Newcastle United">
+    <display-name lang="en">EPL: Arsenal vs Newcastle United</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Kazakhstan vs. USA">
     <display-name lang="en">2025 IIHF Men's World Championship: Kazakhstan vs. USA</display-name>
@@ -15,17 +15,8 @@
   <channel id="2025 IIHF Men's World Championship: Slovenia vs. Austria">
     <display-name lang="en">2025 IIHF Men's World Championship: Slovenia vs. Austria</display-name>
   </channel>
-  <channel id="F1: Emilia Romagna Grand Prix (Race)">
-    <display-name lang="en">F1: Emilia Romagna Grand Prix (Race)</display-name>
-  </channel>
-  <channel id="F1: Emilia Romagna Grand Prix (Race) (F1TV Feed)">
-    <display-name lang="en">F1: Emilia Romagna Grand Prix (Race) (F1TV Feed)</display-name>
-  </channel>
   <channel id="Nuggets at Thunder (Game 7)">
     <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
-  </channel>
-  <channel id="EPL: Arsenal vs Newcastle United">
-    <display-name lang="en">EPL: Arsenal vs Newcastle United</display-name>
   </channel>
   <channel id="Barcelona vs Villarreal">
     <display-name lang="en">Barcelona vs Villarreal</display-name>
@@ -99,14 +90,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250518000000 -0500" channel="EPL: West Ham United vs Nottingham Forest" stop="20250518235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250518000000 -0500" channel="EPL: Brentford vs Fulham" stop="20250518235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -116,6 +99,14 @@
     </audio>
   </programme>
   <programme start="20250518000000 -0500" channel="EPL: Leicester City vs Ipswich Town" stop="20250518235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250518000000 -0500" channel="EPL: Arsenal vs Newcastle United" stop="20250518235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -139,32 +130,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250518000000 -0500" channel="F1: Emilia Romagna Grand Prix (Race)" stop="20250518235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="F1: Emilia Romagna Grand Prix (Race) (F1TV Feed)" stop="20250518235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250518000000 -0500" channel="Nuggets at Thunder (Game 7)" stop="20250518235959 -0500">
     <title>02:30 PM 18/05/25 - Nuggets at Thunder (Game 7)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250518000000 -0500" channel="EPL: Arsenal vs Newcastle United" stop="20250518235959 -0500">
-    <title>10:30 AM 18/05/25 - EPL: Arsenal vs Newcastle United</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
