@@ -1,22 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250517 -0500">
-  <channel id="Boxing: Fisher vs. Allen 2">
-    <display-name lang="en">Boxing: Fisher vs. Allen 2</display-name>
-  </channel>
   <channel id="UFC Fight Night: Burns vs. Morales">
     <display-name lang="en">UFC Fight Night: Burns vs. Morales</display-name>
   </channel>
   <channel id="LND Monthly">
     <display-name lang="en">LND Monthly</display-name>
   </channel>
+  <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2">
+    <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</display-name>
+  </channel>
   <channel id="Winnipeg Jets vs. Dallas Stars">
     <display-name lang="en">Winnipeg Jets vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Philadelphia Phillies">
-    <display-name lang="en">Pittsburgh Pirates vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Cincinnati Reds">
-    <display-name lang="en">Cleveland Guardians vs. Cincinnati Reds</display-name>
   </channel>
   <channel id="Houston Astros vs. Texas Rangers">
     <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
@@ -36,17 +30,14 @@
   <channel id="Seattle Mariners vs. San Diego Padres">
     <display-name lang="en">Seattle Mariners vs. San Diego Padres</display-name>
   </channel>
-  <channel id="Nuggets at Thunder (Game 7)">
-    <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
-  </channel>
-  <channel id="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2">
-    <display-name lang="en">PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</display-name>
-  </channel>
   <channel id="Athletics vs. San Francisco Giants">
     <display-name lang="en">Athletics vs. San Francisco Giants</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. Los Angeles Dodgers">
     <display-name lang="en">Los Angeles Angels vs. Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="Nuggets at Thunder (Game 7)">
+    <display-name lang="en">Nuggets at Thunder (Game 7)</display-name>
   </channel>
   <channel id="F1: Emilia Romagna Grand Prix (Race)">
     <display-name lang="en">F1: Emilia Romagna Grand Prix (Race)</display-name>
@@ -63,14 +54,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250517000000 -0500" channel="Boxing: Fisher vs. Allen 2" stop="20250517235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250517000000 -0500" channel="UFC Fight Night: Burns vs. Morales" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -87,23 +70,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250517000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2" stop="20250517235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250517000000 -0500" channel="Winnipeg Jets vs. Dallas Stars" stop="20250517235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Pittsburgh Pirates vs. Philadelphia Phillies" stop="20250517235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="Cleveland Guardians vs. Cincinnati Reds" stop="20250517235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -159,24 +134,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250517000000 -0500" channel="Nuggets at Thunder (Game 7)" stop="20250517235959 -0500">
-    <title>02:30 PM 18/05/25 - Nuggets at Thunder (Game 7)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250517000000 -0500" channel="PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2" stop="20250517235959 -0500">
-    <title>09:00 PM 17/05/25 - PDC: Asian Tour 13-14 (Mongolia) 2025 - Day 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250517000000 -0500" channel="Athletics vs. San Francisco Giants" stop="20250517235959 -0500">
-    <title>08:05 PM 17/05/25 - Athletics vs. San Francisco Giants</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -184,7 +143,15 @@
     </audio>
   </programme>
   <programme start="20250517000000 -0500" channel="Los Angeles Angels vs. Los Angeles Dodgers" stop="20250517235959 -0500">
-    <title>08:10 PM 17/05/25 - Los Angeles Angels vs. Los Angeles Dodgers</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250517000000 -0500" channel="Nuggets at Thunder (Game 7)" stop="20250517235959 -0500">
+    <title>02:30 PM 18/05/25 - Nuggets at Thunder (Game 7)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
