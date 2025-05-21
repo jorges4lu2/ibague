@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250521 -0500">
+  <channel id="Cincinnati Reds vs. Pittsburgh Pirates">
+    <display-name lang="en">Cincinnati Reds vs. Pittsburgh Pirates</display-name>
+  </channel>
   <channel id="Pacers at Knicks (Game 1)">
     <display-name lang="en">Pacers at Knicks (Game 1)</display-name>
   </channel>
@@ -14,9 +17,6 @@
   </channel>
   <channel id="Florida Panthers vs. Carolina Hurricanes">
     <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Pittsburgh Pirates">
-    <display-name lang="en">Cincinnati Reds vs. Pittsburgh Pirates</display-name>
   </channel>
   <channel id="Chicago Cubs vs. Miami Marlins">
     <display-name lang="en">Chicago Cubs vs. Miami Marlins</display-name>
@@ -72,6 +72,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250521000000 -0500" channel="Cincinnati Reds vs. Pittsburgh Pirates" stop="20250521235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250521000000 -0500" channel="Pacers at Knicks (Game 1)" stop="20250521235959 -0500">
     <title>07:00 PM 21/05/25 - Pacers at Knicks (Game 1)</title>
     <date>2025</date>
@@ -106,14 +114,6 @@
   </programme>
   <programme start="20250521000000 -0500" channel="Florida Panthers vs. Carolina Hurricanes" stop="20250521235959 -0500">
     <title>07:00 PM 22/05/25 - Florida Panthers vs. Carolina Hurricanes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250521000000 -0500" channel="Cincinnati Reds vs. Pittsburgh Pirates" stop="20250521235959 -0500">
-    <title>11:35 AM 21/05/25 - Cincinnati Reds vs. Pittsburgh Pirates</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
