@@ -3,9 +3,6 @@
   <channel id="Tottenham Hotspur vs Manchester United">
     <display-name lang="en">Tottenham Hotspur vs Manchester United</display-name>
   </channel>
-  <channel id="Cincinnati Reds vs. Pittsburgh Pirates">
-    <display-name lang="en">Cincinnati Reds vs. Pittsburgh Pirates</display-name>
-  </channel>
   <channel id="Chicago Cubs vs. Miami Marlins">
     <display-name lang="en">Chicago Cubs vs. Miami Marlins</display-name>
   </channel>
@@ -24,6 +21,9 @@
   <channel id="Cleveland Guardians vs. Minnesota Twins">
     <display-name lang="en">Cleveland Guardians vs. Minnesota Twins</display-name>
   </channel>
+  <channel id="Kansas City Royals vs. San Francisco Giants">
+    <display-name lang="en">Kansas City Royals vs. San Francisco Giants</display-name>
+  </channel>
   <channel id="Pacers at Knicks (Game 1)">
     <display-name lang="en">Pacers at Knicks (Game 1)</display-name>
   </channel>
@@ -35,9 +35,6 @@
   </channel>
   <channel id="Florida Panthers vs. Carolina Hurricanes">
     <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. San Francisco Giants">
-    <display-name lang="en">Kansas City Royals vs. San Francisco Giants</display-name>
   </channel>
   <channel id="Atlanta Braves vs. Washington Nationals">
     <display-name lang="en">Atlanta Braves vs. Washington Nationals</display-name>
@@ -85,14 +82,6 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250521000000 -0500" channel="Tottenham Hotspur vs Manchester United" stop="20250521235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250521000000 -0500" channel="Cincinnati Reds vs. Pittsburgh Pirates" stop="20250521235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -148,6 +137,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250521000000 -0500" channel="Kansas City Royals vs. San Francisco Giants" stop="20250521235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250521000000 -0500" channel="Pacers at Knicks (Game 1)" stop="20250521235959 -0500">
     <title>07:00 PM 21/05/25 - Pacers at Knicks (Game 1)</title>
     <date>2025</date>
@@ -174,14 +171,6 @@
   </programme>
   <programme start="20250521000000 -0500" channel="Florida Panthers vs. Carolina Hurricanes" stop="20250521235959 -0500">
     <title>07:00 PM 22/05/25 - Florida Panthers vs. Carolina Hurricanes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250521000000 -0500" channel="Kansas City Royals vs. San Francisco Giants" stop="20250521235959 -0500">
-    <title>02:45 PM 21/05/25 - Kansas City Royals vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
