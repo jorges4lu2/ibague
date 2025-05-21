@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250520 -0500">
+  <channel id="Timberwolves at Thunder (Game 1)">
+    <display-name lang="en">Timberwolves at Thunder (Game 1)</display-name>
+  </channel>
   <channel id="Florida Panthers vs. Carolina Hurricanes">
     <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
   </channel>
@@ -36,14 +39,11 @@
   <channel id="Detroit Tigers vs. St. Louis Cardinals">
     <display-name lang="en">Detroit Tigers vs. St. Louis Cardinals</display-name>
   </channel>
-  <channel id="Timberwolves at Thunder (Game 1)">
-    <display-name lang="en">Timberwolves at Thunder (Game 1)</display-name>
+  <channel id="Philadelphia Phillies vs. Colorado Rockies">
+    <display-name lang="en">Philadelphia Phillies vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Dallas Stars">
     <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Colorado Rockies">
-    <display-name lang="en">Philadelphia Phillies vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Kansas City Royals vs. San Francisco Giants">
     <display-name lang="en">Kansas City Royals vs. San Francisco Giants</display-name>
@@ -66,6 +66,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250520000000 -0500" channel="Timberwolves at Thunder (Game 1)" stop="20250520235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250520000000 -0500" channel="Florida Panthers vs. Carolina Hurricanes" stop="20250520235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -162,8 +170,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250520000000 -0500" channel="Timberwolves at Thunder (Game 1)" stop="20250520235959 -0500">
-    <title>07:30 PM 20/05/25 - Timberwolves at Thunder (Game 1)</title>
+  <programme start="20250520000000 -0500" channel="Philadelphia Phillies vs. Colorado Rockies" stop="20250520235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -172,14 +180,6 @@
   </programme>
   <programme start="20250520000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250520235959 -0500">
     <title>07:00 PM 21/05/25 - Edmonton Oilers vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250520000000 -0500" channel="Philadelphia Phillies vs. Colorado Rockies" stop="20250520235959 -0500">
-    <title>07:40 PM 20/05/25 - Philadelphia Phillies vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
