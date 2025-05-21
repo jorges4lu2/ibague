@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250521 -0500">
+  <channel id="Pacers at Knicks (Game 1)">
+    <display-name lang="en">Pacers at Knicks (Game 1)</display-name>
+  </channel>
   <channel id="PDC: BetMGM Premier League - Night Sixteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Sixteen</display-name>
   </channel>
@@ -69,6 +72,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250521000000 -0500" channel="Pacers at Knicks (Game 1)" stop="20250521235959 -0500">
+    <title>07:00 PM 21/05/25 - Pacers at Knicks (Game 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250521000000 -0500" channel="PDC: BetMGM Premier League - Night Sixteen" stop="20250521235959 -0500">
     <title>01:00 PM 22/05/25 - PDC: BetMGM Premier League - Night Sixteen</title>
     <date>2025</date>
