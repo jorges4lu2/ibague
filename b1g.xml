@@ -768,8 +768,11 @@
   <channel id="Super League Plus | Event 3 Wigan Warriors v Warrington Wolves | Magic Weekend // UK Sun 4 May 3:10pm // ET Sun 4 May 10:10am">
     <display-name lang="en">Super League Plus | Event 3 Wigan Warriors v Warrington Wolves | Magic Weekend // UK Sun 4 May 3:10pm // ET Sun 4 May 10:10am</display-name>
   </channel>
-  <channel id="Clubber TV 1 | Tipperary vs limerick // UK Fri 18 Apr 7:00pm // ET Fri 18 Apr 2:00pm">
-    <display-name lang="en">Clubber TV 1 | Tipperary vs limerick // UK Fri 18 Apr 7:00pm // ET Fri 18 Apr 2:00pm</display-name>
+  <channel id="Clubber TV 1 | St kierans vs dr. Crokes // UK Thu 22 May 7:00pm // ET Thu 22 May 2:00pm">
+    <display-name lang="en">Clubber TV 1 | St kierans vs dr. Crokes // UK Thu 22 May 7:00pm // ET Thu 22 May 2:00pm</display-name>
+  </channel>
+  <channel id="Clubber TV 2 | Kerins orahillys vs austin stacks // UK Thu 22 May 7:00pm // ET Thu 22 May 2:00pm">
+    <display-name lang="en">Clubber TV 2 | Kerins orahillys vs austin stacks // UK Thu 22 May 7:00pm // ET Thu 22 May 2:00pm</display-name>
   </channel>
   <channel id="01. ATP Tour | Geneva Open (Thu 12:30 UK)">
     <display-name lang="en">01. ATP Tour | Geneva Open (Thu 12:30 UK)</display-name>
@@ -894,17 +897,20 @@
   <channel id="08. Womens Football | World Sevens Football (Thu 13:30 UK)">
     <display-name lang="en">08. Womens Football | World Sevens Football (Thu 13:30 UK)</display-name>
   </channel>
-  <channel id="UFC Fight Night: Gilbert Burns vs. Michael Morales FHD (Sun 00:00 UK)">
-    <display-name lang="en">UFC Fight Night: Gilbert Burns vs. Michael Morales FHD (Sun 00:00 UK)</display-name>
+  <channel id="LIVE EVENT 01 - 11:30AM 500 Sprint Car Tour">
+    <display-name lang="en">LIVE EVENT 01 - 11:30AM 500 Sprint Car Tour</display-name>
   </channel>
-  <channel id="UFC Fight Night: Gilbert Burns vs. Michael Morales HD (Sun 00:00 UK)">
-    <display-name lang="en">UFC Fight Night: Gilbert Burns vs. Michael Morales HD (Sun 00:00 UK)</display-name>
+  <channel id="LIVE EVENT 02 - 6:30PM USAC National Sprints Circle City">
+    <display-name lang="en">LIVE EVENT 02 - 6:30PM USAC National Sprints Circle City</display-name>
   </channel>
-  <channel id="BOXING: Fernando Vargas Jr vs. Gonzalo Gaston Coria (Sun 01:00 UK)">
-    <display-name lang="en">BOXING: Fernando Vargas Jr vs. Gonzalo Gaston Coria (Sun 01:00 UK)</display-name>
+  <channel id="LIVE EVENT 03 - 7:15PM Show Me 100 Lucas Oil">
+    <display-name lang="en">LIVE EVENT 03 - 7:15PM Show Me 100 Lucas Oil</display-name>
   </channel>
-  <channel id="BOXING: Johnny Fisher vs. Dave Allen 2 (Sat 16:45 UK)">
-    <display-name lang="en">BOXING: Johnny Fisher vs. Dave Allen 2 (Sat 16:45 UK)</display-name>
+  <channel id="LIVE EVENT 04 - 8:30PM 360 Sprints Silver Dollar">
+    <display-name lang="en">LIVE EVENT 04 - 8:30PM 360 Sprints Silver Dollar</display-name>
+  </channel>
+  <channel id="LIVE EVENT 07 - 10:30PM Mansour v Avalos">
+    <display-name lang="en">LIVE EVENT 07 - 10:30PM Mansour v Avalos</display-name>
   </channel>
   <channel id="UK-BBC Three FHD (From 19:00 UK)">
     <display-name lang="en">UK-BBC Three FHD (From 19:00 UK)</display-name>
@@ -3578,8 +3584,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="Clubber TV 1 | Tipperary vs limerick // UK Fri 18 Apr 7:00pm // ET Fri 18 Apr 2:00pm" stop="20250522235959 -0500">
-    <title>01:00 PM - Clubber TV 1 | Tipperary vs limerick // UK Fri 18 Apr 7:00pm // ET Fri 18 Apr 2:00pm</title>
+  <programme start="20250522000000 -0500" channel="Clubber TV 1 | St kierans vs dr. Crokes // UK Thu 22 May 7:00pm // ET Thu 22 May 2:00pm" stop="20250522235959 -0500">
+    <title>01:00 PM - Clubber TV 1 | St kierans vs dr. Crokes // UK Thu 22 May 7:00pm // ET Thu 22 May 2:00pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="Clubber TV 2 | Kerins orahillys vs austin stacks // UK Thu 22 May 7:00pm // ET Thu 22 May 2:00pm" stop="20250522235959 -0500">
+    <title>01:00 PM - Clubber TV 2 | Kerins orahillys vs austin stacks // UK Thu 22 May 7:00pm // ET Thu 22 May 2:00pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -3914,32 +3928,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="UFC Fight Night: Gilbert Burns vs. Michael Morales FHD (Sun 00:00 UK)" stop="20250522235959 -0500">
-    <title>06:00 PM - UFC Fight Night: Gilbert Burns vs. Michael Morales FHD (Sun 00:00 UK)</title>
+  <programme start="20250522000000 -0500" channel="LIVE EVENT 01 - 11:30AM 500 Sprint Car Tour" stop="20250522235959 -0500">
+    <title>05:30 AM - LIVE EVENT 01 - 11:30AM 500 Sprint Car Tour</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="UFC Fight Night: Gilbert Burns vs. Michael Morales HD (Sun 00:00 UK)" stop="20250522235959 -0500">
-    <title>06:00 PM - UFC Fight Night: Gilbert Burns vs. Michael Morales HD (Sun 00:00 UK)</title>
+  <programme start="20250522000000 -0500" channel="LIVE EVENT 02 - 6:30PM USAC National Sprints Circle City" stop="20250522235959 -0500">
+    <title>12:30 PM - LIVE EVENT 02 - 6:30PM USAC National Sprints Circle City</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="BOXING: Fernando Vargas Jr vs. Gonzalo Gaston Coria (Sun 01:00 UK)" stop="20250522235959 -0500">
-    <title>07:00 PM - BOXING: Fernando Vargas Jr vs. Gonzalo Gaston Coria (Sun 01:00 UK)</title>
+  <programme start="20250522000000 -0500" channel="LIVE EVENT 03 - 7:15PM Show Me 100 Lucas Oil" stop="20250522235959 -0500">
+    <title>01:15 PM - LIVE EVENT 03 - 7:15PM Show Me 100 Lucas Oil</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="BOXING: Johnny Fisher vs. Dave Allen 2 (Sat 16:45 UK)" stop="20250522235959 -0500">
-    <title>10:45 AM - BOXING: Johnny Fisher vs. Dave Allen 2 (Sat 16:45 UK)</title>
+  <programme start="20250522000000 -0500" channel="LIVE EVENT 04 - 8:30PM 360 Sprints Silver Dollar" stop="20250522235959 -0500">
+    <title>02:30 PM - LIVE EVENT 04 - 8:30PM 360 Sprints Silver Dollar</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="LIVE EVENT 07 - 10:30PM Mansour v Avalos" stop="20250522235959 -0500">
+    <title>04:30 PM - LIVE EVENT 07 - 10:30PM Mansour v Avalos</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
