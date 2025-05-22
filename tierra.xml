@@ -1,19 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250522 -0500">
-  <channel id="2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria">
-    <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland">
-    <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland</display-name>
+  <channel id="PDC: BetMGM Premier League - Night Sixteen">
+    <display-name lang="en">PDC: BetMGM Premier League - Night Sixteen</display-name>
   </channel>
   <channel id="Texas Rangers vs. New York Yankees">
     <display-name lang="en">Texas Rangers vs. New York Yankees</display-name>
   </channel>
+  <channel id="San Diego Padres vs. Toronto Blue Jays">
+    <display-name lang="en">San Diego Padres vs. Toronto Blue Jays</display-name>
+  </channel>
   <channel id="Timberwolves at Thunder (Game 2)">
     <display-name lang="en">Timberwolves at Thunder (Game 2)</display-name>
-  </channel>
-  <channel id="PDC: BetMGM Premier League - Night Sixteen">
-    <display-name lang="en">PDC: BetMGM Premier League - Night Sixteen</display-name>
   </channel>
   <channel id="PDC: 2025 Dutch Darts Championship Day One">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day One</display-name>
@@ -32,9 +29,6 @@
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Toronto Blue Jays">
-    <display-name lang="en">San Diego Padres vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Colorado Rockies">
     <display-name lang="en">Philadelphia Phillies vs. Colorado Rockies</display-name>
@@ -171,15 +165,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250522000000 -0500" channel="2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria" stop="20250522235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland" stop="20250522235959 -0500">
+  <programme start="20250522000000 -0500" channel="PDC: BetMGM Premier League - Night Sixteen" stop="20250522235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -195,16 +181,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="Timberwolves at Thunder (Game 2)" stop="20250522235959 -0500">
-    <title>07:30 PM 22/05/25 - Timberwolves at Thunder (Game 2)</title>
+  <programme start="20250522000000 -0500" channel="San Diego Padres vs. Toronto Blue Jays" stop="20250522235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="PDC: BetMGM Premier League - Night Sixteen" stop="20250522235959 -0500">
-    <title>01:00 PM 22/05/25 - PDC: BetMGM Premier League - Night Sixteen</title>
+  <programme start="20250522000000 -0500" channel="Timberwolves at Thunder (Game 2)" stop="20250522235959 -0500">
+    <title>07:30 PM 22/05/25 - Timberwolves at Thunder (Game 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -253,14 +239,6 @@
   </programme>
   <programme start="20250522000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250522235959 -0500">
     <title>07:00 PM 24/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="San Diego Padres vs. Toronto Blue Jays" stop="20250522235959 -0500">
-    <title>12:07 PM 22/05/25 - San Diego Padres vs. Toronto Blue Jays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
