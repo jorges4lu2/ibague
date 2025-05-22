@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250522 -0500">
+  <channel id="Timberwolves at Thunder (Game 2)">
+    <display-name lang="en">Timberwolves at Thunder (Game 2)</display-name>
+  </channel>
   <channel id="ROAD TO UFC S4: OPENING ROUND EPISODE 1">
     <display-name lang="en">ROAD TO UFC S4: OPENING ROUND EPISODE 1</display-name>
   </channel>
@@ -11,6 +14,18 @@
   </channel>
   <channel id="PDC: 2025 Dutch Darts Championship Day One">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day One</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria">
+    <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland">
+    <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Quarterfinal - Canada vs. Denmark">
+    <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - Canada vs. Denmark</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Quarterfinal - Sweden vs. Czechia">
+    <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - Sweden vs. Czechia</display-name>
   </channel>
   <channel id="Florida Panthers vs. Carolina Hurricanes">
     <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
@@ -162,6 +177,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250522000000 -0500" channel="Timberwolves at Thunder (Game 2)" stop="20250522235959 -0500">
+    <title>07:30 PM 22/05/25 - Timberwolves at Thunder (Game 2)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250522000000 -0500" channel="ROAD TO UFC S4: OPENING ROUND EPISODE 1" stop="20250522235959 -0500">
     <title>06:00 AM 22/05/25 - ROAD TO UFC S4: OPENING ROUND EPISODE 1</title>
     <date>2025</date>
@@ -188,6 +211,38 @@
   </programme>
   <programme start="20250522000000 -0500" channel="PDC: 2025 Dutch Darts Championship Day One" stop="20250522235959 -0500">
     <title>06:00 AM 23/05/25 - PDC: 2025 Dutch Darts Championship Day One</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria" stop="20250522235959 -0500">
+    <title>09:20 AM 22/05/25 - 2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland" stop="20250522235959 -0500">
+    <title>09:20 AM 22/05/25 - 2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="2025 IIHF Men's World Championship: Quarterfinal - Canada vs. Denmark" stop="20250522235959 -0500">
+    <title>01:20 PM 22/05/25 - 2025 IIHF Men's World Championship: Quarterfinal - Canada vs. Denmark</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="2025 IIHF Men's World Championship: Quarterfinal - Sweden vs. Czechia" stop="20250522235959 -0500">
+    <title>01:20 PM 22/05/25 - 2025 IIHF Men's World Championship: Quarterfinal - Sweden vs. Czechia</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
