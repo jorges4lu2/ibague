@@ -18,6 +18,9 @@
   <channel id="San Diego Padres vs. Toronto Blue Jays">
     <display-name lang="en">San Diego Padres vs. Toronto Blue Jays</display-name>
   </channel>
+  <channel id="Philadelphia Phillies vs. Colorado Rockies">
+    <display-name lang="en">Philadelphia Phillies vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -32,9 +35,6 @@
   </channel>
   <channel id="Florida Panthers vs. Carolina Hurricanes">
     <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Colorado Rockies">
-    <display-name lang="en">Philadelphia Phillies vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. Athletics">
     <display-name lang="en">Los Angeles Angels vs. Athletics</display-name>
@@ -111,6 +111,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250521000000 -0500" channel="Philadelphia Phillies vs. Colorado Rockies" stop="20250521235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250521000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250521235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -145,14 +153,6 @@
   </programme>
   <programme start="20250521000000 -0500" channel="Florida Panthers vs. Carolina Hurricanes" stop="20250521235959 -0500">
     <title>07:00 PM 22/05/25 - Florida Panthers vs. Carolina Hurricanes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250521000000 -0500" channel="Philadelphia Phillies vs. Colorado Rockies" stop="20250521235959 -0500">
-    <title>07:40 PM 21/05/25 - Philadelphia Phillies vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
