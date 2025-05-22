@@ -3,11 +3,17 @@
   <channel id="PDC: BetMGM Premier League - Night Sixteen">
     <display-name lang="en">PDC: BetMGM Premier League - Night Sixteen</display-name>
   </channel>
-  <channel id="Philadelphia Phillies vs. Colorado Rockies">
-    <display-name lang="en">Philadelphia Phillies vs. Colorado Rockies</display-name>
+  <channel id="Cleveland Guardians vs. Detroit Tigers">
+    <display-name lang="en">Cleveland Guardians vs. Detroit Tigers</display-name>
   </channel>
-  <channel id="Los Angeles Angels vs. Athletics">
-    <display-name lang="en">Los Angeles Angels vs. Athletics</display-name>
+  <channel id="Milwaukee Brewers vs. Pittsburgh Pirates">
+    <display-name lang="en">Milwaukee Brewers vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Washington Nationals">
+    <display-name lang="en">Atlanta Braves vs. Washington Nationals</display-name>
+  </channel>
+  <channel id="Baltimore Orioles vs. Boston Red Sox">
+    <display-name lang="en">Baltimore Orioles vs. Boston Red Sox</display-name>
   </channel>
   <channel id="Timberwolves at Thunder (Game 2)">
     <display-name lang="en">Timberwolves at Thunder (Game 2)</display-name>
@@ -26,18 +32,6 @@
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Detroit Tigers">
-    <display-name lang="en">Cleveland Guardians vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Pittsburgh Pirates">
-    <display-name lang="en">Milwaukee Brewers vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Washington Nationals">
-    <display-name lang="en">Atlanta Braves vs. Washington Nationals</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Boston Red Sox">
-    <display-name lang="en">Baltimore Orioles vs. Boston Red Sox</display-name>
   </channel>
   <channel id="Seattle Mariners vs. Houston Astros">
     <display-name lang="en">Seattle Mariners vs. Houston Astros</display-name>
@@ -182,7 +176,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="Philadelphia Phillies vs. Colorado Rockies" stop="20250522235959 -0500">
+  <programme start="20250522000000 -0500" channel="Cleveland Guardians vs. Detroit Tigers" stop="20250522235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -190,7 +184,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="Los Angeles Angels vs. Athletics" stop="20250522235959 -0500">
+  <programme start="20250522000000 -0500" channel="Milwaukee Brewers vs. Pittsburgh Pirates" stop="20250522235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="Atlanta Braves vs. Washington Nationals" stop="20250522235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="Baltimore Orioles vs. Boston Red Sox" stop="20250522235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -240,38 +250,6 @@
   </programme>
   <programme start="20250522000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250522235959 -0500">
     <title>07:00 PM 24/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="Cleveland Guardians vs. Detroit Tigers" stop="20250522235959 -0500">
-    <title>05:40 PM 22/05/25 - Cleveland Guardians vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="Milwaukee Brewers vs. Pittsburgh Pirates" stop="20250522235959 -0500">
-    <title>05:40 PM 22/05/25 - Milwaukee Brewers vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="Atlanta Braves vs. Washington Nationals" stop="20250522235959 -0500">
-    <title>05:45 PM 22/05/25 - Atlanta Braves vs. Washington Nationals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="Baltimore Orioles vs. Boston Red Sox" stop="20250522235959 -0500">
-    <title>05:45 PM 22/05/25 - Baltimore Orioles vs. Boston Red Sox</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
