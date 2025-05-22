@@ -9,11 +9,14 @@
   <channel id="2025 IIHF Men's World Championship: Quarterfinal - Sweden vs. Czechia">
     <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - Sweden vs. Czechia</display-name>
   </channel>
-  <channel id="Texas Rangers vs. New York Yankees">
-    <display-name lang="en">Texas Rangers vs. New York Yankees</display-name>
-  </channel>
   <channel id="San Diego Padres vs. Toronto Blue Jays">
     <display-name lang="en">San Diego Padres vs. Toronto Blue Jays</display-name>
+  </channel>
+  <channel id="Philadelphia Phillies vs. Colorado Rockies">
+    <display-name lang="en">Philadelphia Phillies vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="Los Angeles Angels vs. Athletics">
+    <display-name lang="en">Los Angeles Angels vs. Athletics</display-name>
   </channel>
   <channel id="Timberwolves at Thunder (Game 2)">
     <display-name lang="en">Timberwolves at Thunder (Game 2)</display-name>
@@ -32,12 +35,6 @@
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Colorado Rockies">
-    <display-name lang="en">Philadelphia Phillies vs. Colorado Rockies</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Athletics">
-    <display-name lang="en">Los Angeles Angels vs. Athletics</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. Detroit Tigers">
     <display-name lang="en">Cleveland Guardians vs. Detroit Tigers</display-name>
@@ -144,6 +141,24 @@
   <channel id="Miami Marlins vs. Los Angeles Angels">
     <display-name lang="en">Miami Marlins vs. Los Angeles Angels</display-name>
   </channel>
+  <channel id="F1: Monaco GP (Practice 1)">
+    <display-name lang="en">F1: Monaco GP (Practice 1)</display-name>
+  </channel>
+  <channel id="F1: Monaco GP (Practice 2)">
+    <display-name lang="en">F1: Monaco GP (Practice 2)</display-name>
+  </channel>
+  <channel id="F1: Monaco GP (Practice 3)">
+    <display-name lang="en">F1: Monaco GP (Practice 3)</display-name>
+  </channel>
+  <channel id="F1: Monaco GP (Qualifying)">
+    <display-name lang="en">F1: Monaco GP (Qualifying)</display-name>
+  </channel>
+  <channel id="F1: Monaco GP (Race)">
+    <display-name lang="en">F1: Monaco GP (Race)</display-name>
+  </channel>
+  <channel id="F1: Monaco GP (Race, F1TV Feed)">
+    <display-name lang="en">F1: Monaco GP (Race, F1TV Feed)</display-name>
+  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
@@ -192,7 +207,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="Texas Rangers vs. New York Yankees" stop="20250522235959 -0500">
+  <programme start="20250522000000 -0500" channel="San Diego Padres vs. Toronto Blue Jays" stop="20250522235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -200,7 +215,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250522000000 -0500" channel="San Diego Padres vs. Toronto Blue Jays" stop="20250522235959 -0500">
+  <programme start="20250522000000 -0500" channel="Philadelphia Phillies vs. Colorado Rockies" stop="20250522235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="Los Angeles Angels vs. Athletics" stop="20250522235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -250,22 +273,6 @@
   </programme>
   <programme start="20250522000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250522235959 -0500">
     <title>07:00 PM 24/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="Philadelphia Phillies vs. Colorado Rockies" stop="20250522235959 -0500">
-    <title>02:10 PM 22/05/25 - Philadelphia Phillies vs. Colorado Rockies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="Los Angeles Angels vs. Athletics" stop="20250522235959 -0500">
-    <title>02:35 PM 22/05/25 - Los Angeles Angels vs. Athletics</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -546,6 +553,54 @@
   </programme>
   <programme start="20250522000000 -0500" channel="Miami Marlins vs. Los Angeles Angels" stop="20250522235959 -0500">
     <title>09:07 PM 24/05/25 - Miami Marlins vs. Los Angeles Angels</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="F1: Monaco GP (Practice 1)" stop="20250522235959 -0500">
+    <title>06:30 AM 23/05/25 - F1: Monaco GP (Practice 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="F1: Monaco GP (Practice 2)" stop="20250522235959 -0500">
+    <title>10:00 AM 23/05/25 - F1: Monaco GP (Practice 2)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="F1: Monaco GP (Practice 3)" stop="20250522235959 -0500">
+    <title>05:30 AM 24/05/25 - F1: Monaco GP (Practice 3)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="F1: Monaco GP (Qualifying)" stop="20250522235959 -0500">
+    <title>10:00 AM 24/05/25 - F1: Monaco GP (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="F1: Monaco GP (Race)" stop="20250522235959 -0500">
+    <title>08:00 AM 25/05/25 - F1: Monaco GP (Race)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="F1: Monaco GP (Race, F1TV Feed)" stop="20250522235959 -0500">
+    <title>08:00 AM 25/05/25 - F1: Monaco GP (Race, F1TV Feed)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
