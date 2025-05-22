@@ -6,6 +6,9 @@
   <channel id="2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland">
     <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland</display-name>
   </channel>
+  <channel id="Texas Rangers vs. New York Yankees">
+    <display-name lang="en">Texas Rangers vs. New York Yankees</display-name>
+  </channel>
   <channel id="Timberwolves at Thunder (Game 2)">
     <display-name lang="en">Timberwolves at Thunder (Game 2)</display-name>
   </channel>
@@ -29,9 +32,6 @@
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. New York Yankees">
-    <display-name lang="en">Texas Rangers vs. New York Yankees</display-name>
   </channel>
   <channel id="San Diego Padres vs. Toronto Blue Jays">
     <display-name lang="en">San Diego Padres vs. Toronto Blue Jays</display-name>
@@ -187,6 +187,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250522000000 -0500" channel="Texas Rangers vs. New York Yankees" stop="20250522235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250522000000 -0500" channel="Timberwolves at Thunder (Game 2)" stop="20250522235959 -0500">
     <title>07:30 PM 22/05/25 - Timberwolves at Thunder (Game 2)</title>
     <date>2025</date>
@@ -245,14 +253,6 @@
   </programme>
   <programme start="20250522000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250522235959 -0500">
     <title>07:00 PM 24/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="Texas Rangers vs. New York Yankees" stop="20250522235959 -0500">
-    <title>11:35 AM 22/05/25 - Texas Rangers vs. New York Yankees</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
