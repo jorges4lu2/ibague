@@ -1,28 +1,37 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250521 -0500">
+  <channel id="Pacers at Knicks (Game 1)">
+    <display-name lang="en">Pacers at Knicks (Game 1)</display-name>
+  </channel>
+  <channel id="Edmonton Oilers vs. Dallas Stars">
+    <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
+  </channel>
   <channel id="Atlanta Braves vs. Washington Nationals">
     <display-name lang="en">Atlanta Braves vs. Washington Nationals</display-name>
   </channel>
   <channel id="New York Mets vs. Boston Red Sox">
     <display-name lang="en">New York Mets vs. Boston Red Sox</display-name>
   </channel>
-  <channel id="Pacers at Knicks (Game 1)">
-    <display-name lang="en">Pacers at Knicks (Game 1)</display-name>
-  </channel>
-  <channel id="PDC: BetMGM Premier League - Night Sixteen">
-    <display-name lang="en">PDC: BetMGM Premier League - Night Sixteen</display-name>
-  </channel>
-  <channel id="Edmonton Oilers vs. Dallas Stars">
-    <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Florida Panthers vs. Carolina Hurricanes">
-    <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
-  </channel>
   <channel id="Texas Rangers vs. New York Yankees">
     <display-name lang="en">Texas Rangers vs. New York Yankees</display-name>
   </channel>
   <channel id="San Diego Padres vs. Toronto Blue Jays">
     <display-name lang="en">San Diego Padres vs. Toronto Blue Jays</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
+  </channel>
+  <channel id="ROAD TO UFC S4: OPENING ROUND EPISODE 1">
+    <display-name lang="en">ROAD TO UFC S4: OPENING ROUND EPISODE 1</display-name>
+  </channel>
+  <channel id="ROAD TO UFC S4: OPENING ROUND EPISODE 2">
+    <display-name lang="en">ROAD TO UFC S4: OPENING ROUND EPISODE 2</display-name>
+  </channel>
+  <channel id="PDC: BetMGM Premier League - Night Sixteen">
+    <display-name lang="en">PDC: BetMGM Premier League - Night Sixteen</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Carolina Hurricanes">
+    <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Colorado Rockies">
     <display-name lang="en">Philadelphia Phillies vs. Colorado Rockies</display-name>
@@ -32,9 +41,6 @@
   </channel>
   <channel id="Arizona Diamondbacks vs. Los Angeles Dodgers">
     <display-name lang="en">Arizona Diamondbacks vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -57,6 +63,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250521000000 -0500" channel="Pacers at Knicks (Game 1)" stop="20250521235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250521000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250521235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250521000000 -0500" channel="Atlanta Braves vs. Washington Nationals" stop="20250521235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -73,8 +95,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250521000000 -0500" channel="Pacers at Knicks (Game 1)" stop="20250521235959 -0500">
-    <title>07:00 PM 21/05/25 - Pacers at Knicks (Game 1)</title>
+  <programme start="20250521000000 -0500" channel="Texas Rangers vs. New York Yankees" stop="20250521235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250521000000 -0500" channel="San Diego Padres vs. Toronto Blue Jays" stop="20250521235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250521000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250521235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250521000000 -0500" channel="ROAD TO UFC S4: OPENING ROUND EPISODE 1" stop="20250521235959 -0500">
+    <title>06:00 AM 22/05/25 - ROAD TO UFC S4: OPENING ROUND EPISODE 1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250521000000 -0500" channel="ROAD TO UFC S4: OPENING ROUND EPISODE 2" stop="20250521235959 -0500">
+    <title>08:00 AM 22/05/25 - ROAD TO UFC S4: OPENING ROUND EPISODE 2</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -89,32 +143,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250521000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250521235959 -0500">
-    <title>07:00 PM 21/05/25 - Edmonton Oilers vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250521000000 -0500" channel="Florida Panthers vs. Carolina Hurricanes" stop="20250521235959 -0500">
     <title>07:00 PM 22/05/25 - Florida Panthers vs. Carolina Hurricanes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250521000000 -0500" channel="Texas Rangers vs. New York Yankees" stop="20250521235959 -0500">
-    <title>06:05 PM 21/05/25 - Texas Rangers vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250521000000 -0500" channel="San Diego Padres vs. Toronto Blue Jays" stop="20250521235959 -0500">
-    <title>06:07 PM 21/05/25 - San Diego Padres vs. Toronto Blue Jays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -139,14 +169,6 @@
   </programme>
   <programme start="20250521000000 -0500" channel="Arizona Diamondbacks vs. Los Angeles Dodgers" stop="20250521235959 -0500">
     <title>09:10 PM 21/05/25 - Arizona Diamondbacks vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250521000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250521235959 -0500">
-    <title>07:00 PM 21/05/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
