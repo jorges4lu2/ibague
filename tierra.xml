@@ -3,6 +3,12 @@
   <channel id="ROAD TO UFC S4: OPENING ROUND EPISODE 2">
     <display-name lang="en">ROAD TO UFC S4: OPENING ROUND EPISODE 2</display-name>
   </channel>
+  <channel id="2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria">
+    <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria</display-name>
+  </channel>
+  <channel id="2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland">
+    <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland</display-name>
+  </channel>
   <channel id="Timberwolves at Thunder (Game 2)">
     <display-name lang="en">Timberwolves at Thunder (Game 2)</display-name>
   </channel>
@@ -11,12 +17,6 @@
   </channel>
   <channel id="PDC: 2025 Dutch Darts Championship Day One">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day One</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria">
-    <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria</display-name>
-  </channel>
-  <channel id="2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland">
-    <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland</display-name>
   </channel>
   <channel id="2025 IIHF Men's World Championship: Quarterfinal - Canada vs. Denmark">
     <display-name lang="en">2025 IIHF Men's World Championship: Quarterfinal - Canada vs. Denmark</display-name>
@@ -182,6 +182,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250522000000 -0500" channel="2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria" stop="20250522235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland" stop="20250522235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250522000000 -0500" channel="Timberwolves at Thunder (Game 2)" stop="20250522235959 -0500">
     <title>07:30 PM 22/05/25 - Timberwolves at Thunder (Game 2)</title>
     <date>2025</date>
@@ -200,22 +216,6 @@
   </programme>
   <programme start="20250522000000 -0500" channel="PDC: 2025 Dutch Darts Championship Day One" stop="20250522235959 -0500">
     <title>06:00 AM 23/05/25 - PDC: 2025 Dutch Darts Championship Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria" stop="20250522235959 -0500">
-    <title>09:20 AM 22/05/25 - 2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland" stop="20250522235959 -0500">
-    <title>09:20 AM 22/05/25 - 2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
