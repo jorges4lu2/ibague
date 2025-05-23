@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250523 -0500">
+  <channel id="Boxing: Harper vs Zimmermann">
+    <display-name lang="en">Boxing: Harper vs Zimmermann</display-name>
+  </channel>
   <channel id="PDC: 2025 Dutch Darts Championship Day One">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day One</display-name>
+  </channel>
+  <channel id="Baltimore Orioles vs. Boston Red Sox (Early Game)">
+    <display-name lang="en">Baltimore Orioles vs. Boston Red Sox (Early Game)</display-name>
   </channel>
   <channel id="Sun at Lynx">
     <display-name lang="en">Sun at Lynx</display-name>
@@ -153,7 +159,23 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250523000000 -0500" channel="Boxing: Harper vs Zimmermann" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250523000000 -0500" channel="PDC: 2025 Dutch Darts Championship Day One" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Baltimore Orioles vs. Boston Red Sox (Early Game)" stop="20250523235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
