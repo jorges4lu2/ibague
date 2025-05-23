@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250523 -0500">
-  <channel id="Road to UFC S4: Opening Round Episodes 3 &amp;amp; 4">
-    <display-name lang="en">Road to UFC S4: Opening Round Episodes 3 &amp;amp; 4</display-name>
-  </channel>
   <channel id="PDC: 2025 Dutch Darts Championship Day One">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day One</display-name>
   </channel>
+  <channel id="F1: Monaco GP (Practice 2)">
+    <display-name lang="en">F1: Monaco GP (Practice 2)</display-name>
+  </channel>
   <channel id="Sun at Lynx">
     <display-name lang="en">Sun at Lynx</display-name>
+  </channel>
+  <channel id="Pacers at Knicks (Game 2)">
+    <display-name lang="en">Pacers at Knicks (Game 2)</display-name>
   </channel>
   <channel id="Mystics at Aces">
     <display-name lang="en">Mystics at Aces</display-name>
@@ -120,9 +123,6 @@
   <channel id="Miami Marlins vs. Los Angeles Angels">
     <display-name lang="en">Miami Marlins vs. Los Angeles Angels</display-name>
   </channel>
-  <channel id="F1: Monaco GP (Practice 2)">
-    <display-name lang="en">F1: Monaco GP (Practice 2)</display-name>
-  </channel>
   <channel id="F1: Monaco GP (Practice 3)">
     <display-name lang="en">F1: Monaco GP (Practice 3)</display-name>
   </channel>
@@ -153,7 +153,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250523000000 -0500" channel="Road to UFC S4: Opening Round Episodes 3 &amp;amp; 4" stop="20250523235959 -0500">
+  <programme start="20250523000000 -0500" channel="PDC: 2025 Dutch Darts Championship Day One" stop="20250523235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -161,7 +161,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250523000000 -0500" channel="PDC: 2025 Dutch Darts Championship Day One" stop="20250523235959 -0500">
+  <programme start="20250523000000 -0500" channel="F1: Monaco GP (Practice 2)" stop="20250523235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -171,6 +171,14 @@
   </programme>
   <programme start="20250523000000 -0500" channel="Sun at Lynx" stop="20250523235959 -0500">
     <title>06:30 PM 23/05/25 - Sun at Lynx</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Pacers at Knicks (Game 2)" stop="20250523235959 -0500">
+    <title>07:00 PM 23/05/25 - Pacers at Knicks (Game 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -467,14 +475,6 @@
   </programme>
   <programme start="20250523000000 -0500" channel="Miami Marlins vs. Los Angeles Angels" stop="20250523235959 -0500">
     <title>09:07 PM 24/05/25 - Miami Marlins vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="F1: Monaco GP (Practice 2)" stop="20250523235959 -0500">
-    <title>10:00 AM 23/05/25 - F1: Monaco GP (Practice 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
