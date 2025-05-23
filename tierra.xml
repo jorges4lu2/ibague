@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250522 -0500">
-  <channel id="PDC: BetMGM Premier League - Night Sixteen">
-    <display-name lang="en">PDC: BetMGM Premier League - Night Sixteen</display-name>
+  <channel id="Florida Panthers vs. Carolina Hurricanes">
+    <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. Detroit Tigers">
     <display-name lang="en">Cleveland Guardians vs. Detroit Tigers</display-name>
@@ -15,6 +15,12 @@
   <channel id="Baltimore Orioles vs. Boston Red Sox">
     <display-name lang="en">Baltimore Orioles vs. Boston Red Sox</display-name>
   </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
+  </channel>
+  <channel id="AEW: Saturday Night Collision">
+    <display-name lang="en">AEW: Saturday Night Collision</display-name>
+  </channel>
   <channel id="Timberwolves at Thunder (Game 2)">
     <display-name lang="en">Timberwolves at Thunder (Game 2)</display-name>
   </channel>
@@ -23,9 +29,6 @@
   </channel>
   <channel id="PDC: 2025 Dutch Darts Championship Day One">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day One</display-name>
-  </channel>
-  <channel id="Florida Panthers vs. Carolina Hurricanes">
-    <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Dallas Stars">
     <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
@@ -144,12 +147,6 @@
   <channel id="F1: Monaco GP (Race, F1TV Feed)">
     <display-name lang="en">F1: Monaco GP (Race, F1TV Feed)</display-name>
   </channel>
-  <channel id="TNA: Impact">
-    <display-name lang="en">TNA: Impact</display-name>
-  </channel>
-  <channel id="AEW: Saturday Night Collision">
-    <display-name lang="en">AEW: Saturday Night Collision</display-name>
-  </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
@@ -168,7 +165,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250522000000 -0500" channel="PDC: BetMGM Premier League - Night Sixteen" stop="20250522235959 -0500">
+  <programme start="20250522000000 -0500" channel="Florida Panthers vs. Carolina Hurricanes" stop="20250522235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -208,6 +205,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250522000000 -0500" channel="TNA: Impact" stop="20250522235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250522000000 -0500" channel="AEW: Saturday Night Collision" stop="20250522235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250522000000 -0500" channel="Timberwolves at Thunder (Game 2)" stop="20250522235959 -0500">
     <title>07:30 PM 22/05/25 - Timberwolves at Thunder (Game 2)</title>
     <date>2025</date>
@@ -226,14 +239,6 @@
   </programme>
   <programme start="20250522000000 -0500" channel="PDC: 2025 Dutch Darts Championship Day One" stop="20250522235959 -0500">
     <title>06:00 AM 23/05/25 - PDC: 2025 Dutch Darts Championship Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="Florida Panthers vs. Carolina Hurricanes" stop="20250522235959 -0500">
-    <title>07:00 PM 22/05/25 - Florida Panthers vs. Carolina Hurricanes</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -546,22 +551,6 @@
   </programme>
   <programme start="20250522000000 -0500" channel="F1: Monaco GP (Race, F1TV Feed)" stop="20250522235959 -0500">
     <title>08:00 AM 25/05/25 - F1: Monaco GP (Race, F1TV Feed)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="TNA: Impact" stop="20250522235959 -0500">
-    <title>07:00 PM 22/05/25 - TNA: Impact</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="AEW: Saturday Night Collision" stop="20250522235959 -0500">
-    <title>07:00 PM 22/05/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
