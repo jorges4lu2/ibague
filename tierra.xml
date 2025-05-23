@@ -6,6 +6,21 @@
   <channel id="PDC: 2025 Dutch Darts Championship Day One">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day One</display-name>
   </channel>
+  <channel id="F1: Monaco GP (Practice 1)">
+    <display-name lang="en">F1: Monaco GP (Practice 1)</display-name>
+  </channel>
+  <channel id="Sun at Lynx">
+    <display-name lang="en">Sun at Lynx</display-name>
+  </channel>
+  <channel id="Mystics at Aces">
+    <display-name lang="en">Mystics at Aces</display-name>
+  </channel>
+  <channel id="Valkyries at Sparks">
+    <display-name lang="en">Valkyries at Sparks</display-name>
+  </channel>
+  <channel id="Mercury at Storm">
+    <display-name lang="en">Mercury at Storm</display-name>
+  </channel>
   <channel id="PDC: China ProTour 1-2">
     <display-name lang="en">PDC: China ProTour 1-2</display-name>
   </channel>
@@ -108,9 +123,6 @@
   <channel id="Miami Marlins vs. Los Angeles Angels">
     <display-name lang="en">Miami Marlins vs. Los Angeles Angels</display-name>
   </channel>
-  <channel id="F1: Monaco GP (Practice 1)">
-    <display-name lang="en">F1: Monaco GP (Practice 1)</display-name>
-  </channel>
   <channel id="F1: Monaco GP (Practice 2)">
     <display-name lang="en">F1: Monaco GP (Practice 2)</display-name>
   </channel>
@@ -154,6 +166,46 @@
   </programme>
   <programme start="20250523000000 -0500" channel="PDC: 2025 Dutch Darts Championship Day One" stop="20250523235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="F1: Monaco GP (Practice 1)" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Sun at Lynx" stop="20250523235959 -0500">
+    <title>06:30 PM 23/05/25 - Sun at Lynx</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Mystics at Aces" stop="20250523235959 -0500">
+    <title>09:00 PM 23/05/25 - Mystics at Aces</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Valkyries at Sparks" stop="20250523235959 -0500">
+    <title>09:00 PM 23/05/25 - Valkyries at Sparks</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Mercury at Storm" stop="20250523235959 -0500">
+    <title>09:00 PM 23/05/25 - Mercury at Storm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -426,14 +478,6 @@
   </programme>
   <programme start="20250523000000 -0500" channel="Miami Marlins vs. Los Angeles Angels" stop="20250523235959 -0500">
     <title>09:07 PM 24/05/25 - Miami Marlins vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="F1: Monaco GP (Practice 1)" stop="20250523235959 -0500">
-    <title>06:30 AM 23/05/25 - F1: Monaco GP (Practice 1)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
