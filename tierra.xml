@@ -138,6 +138,9 @@
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
+  <channel id="TNA: Under Siege 2025">
+    <display-name lang="en">TNA: Under Siege 2025</display-name>
+  </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
@@ -515,6 +518,14 @@
   </programme>
   <programme start="20250523000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250523235959 -0500">
     <title>07:00 PM 23/05/25 - WWE: Friday Night Smackdown</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="TNA: Under Siege 2025" stop="20250523235959 -0500">
+    <title>07:00 PM 23/05/25 - TNA: Under Siege 2025</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
