@@ -6,6 +6,15 @@
   <channel id="PDC: 2025 Dutch Darts Championship Day One">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day One</display-name>
   </channel>
+  <channel id="Chicago Cubs vs. Cincinnati Reds">
+    <display-name lang="en">Chicago Cubs vs. Cincinnati Reds</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Pittsburgh Pirates">
+    <display-name lang="en">Milwaukee Brewers vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. Washington Nationals">
+    <display-name lang="en">San Francisco Giants vs. Washington Nationals</display-name>
+  </channel>
   <channel id="Sun at Lynx">
     <display-name lang="en">Sun at Lynx</display-name>
   </channel>
@@ -27,20 +36,17 @@
   <channel id="PDC: 2025 Dutch Darts Championship Day Two">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day Two</display-name>
   </channel>
+  <channel id="Sheffield United vs Sunderland">
+    <display-name lang="en">Sheffield United vs Sunderland</display-name>
+  </channel>
+  <channel id="Real Madrid vs Real Sociedad">
+    <display-name lang="en">Real Madrid vs Real Sociedad</display-name>
+  </channel>
   <channel id="Edmonton Oilers vs. Dallas Stars">
     <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Cincinnati Reds">
-    <display-name lang="en">Chicago Cubs vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Pittsburgh Pirates">
-    <display-name lang="en">Milwaukee Brewers vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Washington Nationals">
-    <display-name lang="en">San Francisco Giants vs. Washington Nationals</display-name>
   </channel>
   <channel id="Toronto Blue Jays vs. Tampa Bay Rays">
     <display-name lang="en">Toronto Blue Jays vs. Tampa Bay Rays</display-name>
@@ -172,6 +178,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250523000000 -0500" channel="Chicago Cubs vs. Cincinnati Reds" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Milwaukee Brewers vs. Pittsburgh Pirates" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="San Francisco Giants vs. Washington Nationals" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250523000000 -0500" channel="Sun at Lynx" stop="20250523235959 -0500">
     <title>06:30 PM 23/05/25 - Sun at Lynx</title>
     <date>2025</date>
@@ -228,6 +258,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250523000000 -0500" channel="Sheffield United vs Sunderland" stop="20250523235959 -0500">
+    <title>09:00 AM 24/05/25 - Sheffield United vs Sunderland</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Real Madrid vs Real Sociedad" stop="20250523235959 -0500">
+    <title>09:15 AM 24/05/25 - Real Madrid vs Real Sociedad</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250523000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250523235959 -0500">
     <title>07:00 PM 23/05/25 - Edmonton Oilers vs. Dallas Stars</title>
     <date>2025</date>
@@ -238,30 +284,6 @@
   </programme>
   <programme start="20250523000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250523235959 -0500">
     <title>07:00 PM 24/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Chicago Cubs vs. Cincinnati Reds" stop="20250523235959 -0500">
-    <title>05:40 PM 23/05/25 - Chicago Cubs vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Milwaukee Brewers vs. Pittsburgh Pirates" stop="20250523235959 -0500">
-    <title>05:40 PM 23/05/25 - Milwaukee Brewers vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="San Francisco Giants vs. Washington Nationals" stop="20250523235959 -0500">
-    <title>05:45 PM 23/05/25 - San Francisco Giants vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
