@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250522 -0500">
+  <channel id="Timberwolves at Thunder (Game 2)">
+    <display-name lang="en">Timberwolves at Thunder (Game 2)</display-name>
+  </channel>
   <channel id="Florida Panthers vs. Carolina Hurricanes">
     <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
   </channel>
@@ -15,14 +18,14 @@
   <channel id="Baltimore Orioles vs. Boston Red Sox">
     <display-name lang="en">Baltimore Orioles vs. Boston Red Sox</display-name>
   </channel>
+  <channel id="Seattle Mariners vs. Houston Astros">
+    <display-name lang="en">Seattle Mariners vs. Houston Astros</display-name>
+  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
-  </channel>
-  <channel id="Timberwolves at Thunder (Game 2)">
-    <display-name lang="en">Timberwolves at Thunder (Game 2)</display-name>
   </channel>
   <channel id="Road to UFC S4: Opening Round Episodes 3 &amp;amp; 4">
     <display-name lang="en">Road to UFC S4: Opening Round Episodes 3 &amp;amp; 4</display-name>
@@ -35,9 +38,6 @@
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Houston Astros">
-    <display-name lang="en">Seattle Mariners vs. Houston Astros</display-name>
   </channel>
   <channel id="Chicago Cubs vs. Cincinnati Reds">
     <display-name lang="en">Chicago Cubs vs. Cincinnati Reds</display-name>
@@ -165,6 +165,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250522000000 -0500" channel="Timberwolves at Thunder (Game 2)" stop="20250522235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250522000000 -0500" channel="Florida Panthers vs. Carolina Hurricanes" stop="20250522235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -205,6 +213,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250522000000 -0500" channel="Seattle Mariners vs. Houston Astros" stop="20250522235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250522000000 -0500" channel="TNA: Impact" stop="20250522235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -215,14 +231,6 @@
   </programme>
   <programme start="20250522000000 -0500" channel="AEW: Saturday Night Collision" stop="20250522235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="Timberwolves at Thunder (Game 2)" stop="20250522235959 -0500">
-    <title>07:30 PM 22/05/25 - Timberwolves at Thunder (Game 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -255,14 +263,6 @@
   </programme>
   <programme start="20250522000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250522235959 -0500">
     <title>07:00 PM 24/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250522000000 -0500" channel="Seattle Mariners vs. Houston Astros" stop="20250522235959 -0500">
-    <title>07:10 PM 22/05/25 - Seattle Mariners vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
