@@ -6,6 +6,9 @@
   <channel id="Pacers at Knicks (Game 2)">
     <display-name lang="en">Pacers at Knicks (Game 2)</display-name>
   </channel>
+  <channel id="PDC: China ProTour 1-2">
+    <display-name lang="en">PDC: China ProTour 1-2</display-name>
+  </channel>
   <channel id="Edmonton Oilers vs. Dallas Stars">
     <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
   </channel>
@@ -36,6 +39,18 @@
   <channel id="Texas Rangers vs. Chicago White Sox">
     <display-name lang="en">Texas Rangers vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Kansas City Royals vs. Minnesota Twins">
+    <display-name lang="en">Kansas City Royals vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. Houston Astros">
+    <display-name lang="en">Seattle Mariners vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. St. Louis Cardinals">
+    <display-name lang="en">Arizona Diamondbacks vs. St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="New York Yankees vs. Colorado Rockies">
+    <display-name lang="en">New York Yankees vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
@@ -51,9 +66,6 @@
   <channel id="Mercury at Storm">
     <display-name lang="en">Mercury at Storm</display-name>
   </channel>
-  <channel id="PDC: China ProTour 1-2">
-    <display-name lang="en">PDC: China ProTour 1-2</display-name>
-  </channel>
   <channel id="PDC: 2025 Dutch Darts Championship Day Two">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day Two</display-name>
   </channel>
@@ -65,18 +77,6 @@
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Minnesota Twins">
-    <display-name lang="en">Kansas City Royals vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Houston Astros">
-    <display-name lang="en">Seattle Mariners vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. St. Louis Cardinals">
-    <display-name lang="en">Arizona Diamondbacks vs. St. Louis Cardinals</display-name>
-  </channel>
-  <channel id="New York Yankees vs. Colorado Rockies">
-    <display-name lang="en">New York Yankees vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Miami Marlins vs. Los Angeles Angels">
     <display-name lang="en">Miami Marlins vs. Los Angeles Angels</display-name>
@@ -172,6 +172,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250523000000 -0500" channel="PDC: China ProTour 1-2" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250523000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250523235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -252,6 +260,38 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250523000000 -0500" channel="Kansas City Royals vs. Minnesota Twins" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Seattle Mariners vs. Houston Astros" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Arizona Diamondbacks vs. St. Louis Cardinals" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="New York Yankees vs. Colorado Rockies" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250523000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250523235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -292,14 +332,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250523000000 -0500" channel="PDC: China ProTour 1-2" stop="20250523235959 -0500">
-    <title>08:00 PM 23/05/25 - PDC: China ProTour 1-2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250523000000 -0500" channel="PDC: 2025 Dutch Darts Championship Day Two" stop="20250523235959 -0500">
     <title>06:00 AM 24/05/25 - PDC: 2025 Dutch Darts Championship Day Two</title>
     <date>2025</date>
@@ -326,38 +358,6 @@
   </programme>
   <programme start="20250523000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250523235959 -0500">
     <title>07:00 PM 24/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Kansas City Royals vs. Minnesota Twins" stop="20250523235959 -0500">
-    <title>07:10 PM 23/05/25 - Kansas City Royals vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Seattle Mariners vs. Houston Astros" stop="20250523235959 -0500">
-    <title>07:10 PM 23/05/25 - Seattle Mariners vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Arizona Diamondbacks vs. St. Louis Cardinals" stop="20250523235959 -0500">
-    <title>07:15 PM 23/05/25 - Arizona Diamondbacks vs. St. Louis Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="New York Yankees vs. Colorado Rockies" stop="20250523235959 -0500">
-    <title>07:40 PM 23/05/25 - New York Yankees vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
