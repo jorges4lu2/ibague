@@ -6,20 +6,20 @@
   <channel id="Pacers at Knicks (Game 2)">
     <display-name lang="en">Pacers at Knicks (Game 2)</display-name>
   </channel>
+  <channel id="Mystics at Aces">
+    <display-name lang="en">Mystics at Aces</display-name>
+  </channel>
+  <channel id="Valkyries at Sparks">
+    <display-name lang="en">Valkyries at Sparks</display-name>
+  </channel>
+  <channel id="Mercury at Storm">
+    <display-name lang="en">Mercury at Storm</display-name>
+  </channel>
   <channel id="PDC: China ProTour 1-2">
     <display-name lang="en">PDC: China ProTour 1-2</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Dallas Stars">
     <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Cincinnati Reds">
-    <display-name lang="en">Chicago Cubs vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Pittsburgh Pirates">
-    <display-name lang="en">Milwaukee Brewers vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Washington Nationals">
-    <display-name lang="en">San Francisco Giants vs. Washington Nationals</display-name>
   </channel>
   <channel id="Toronto Blue Jays vs. Tampa Bay Rays">
     <display-name lang="en">Toronto Blue Jays vs. Tampa Bay Rays</display-name>
@@ -51,20 +51,14 @@
   <channel id="New York Yankees vs. Colorado Rockies">
     <display-name lang="en">New York Yankees vs. Colorado Rockies</display-name>
   </channel>
+  <channel id="Miami Marlins vs. Los Angeles Angels">
+    <display-name lang="en">Miami Marlins vs. Los Angeles Angels</display-name>
+  </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="TNA: Under Siege 2025">
     <display-name lang="en">TNA: Under Siege 2025</display-name>
-  </channel>
-  <channel id="Mystics at Aces">
-    <display-name lang="en">Mystics at Aces</display-name>
-  </channel>
-  <channel id="Valkyries at Sparks">
-    <display-name lang="en">Valkyries at Sparks</display-name>
-  </channel>
-  <channel id="Mercury at Storm">
-    <display-name lang="en">Mercury at Storm</display-name>
   </channel>
   <channel id="PDC: 2025 Dutch Darts Championship Day Two">
     <display-name lang="en">PDC: 2025 Dutch Darts Championship Day Two</display-name>
@@ -77,9 +71,6 @@
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Los Angeles Angels">
-    <display-name lang="en">Miami Marlins vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Athletics">
     <display-name lang="en">Philadelphia Phillies vs. Athletics</display-name>
@@ -172,6 +163,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250523000000 -0500" channel="Mystics at Aces" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Valkyries at Sparks" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Mercury at Storm" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250523000000 -0500" channel="PDC: China ProTour 1-2" stop="20250523235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -181,30 +196,6 @@
     </audio>
   </programme>
   <programme start="20250523000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250523235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Chicago Cubs vs. Cincinnati Reds" stop="20250523235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Milwaukee Brewers vs. Pittsburgh Pirates" stop="20250523235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="San Francisco Giants vs. Washington Nationals" stop="20250523235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -292,6 +283,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250523000000 -0500" channel="Miami Marlins vs. Los Angeles Angels" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250523000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250523235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -302,30 +301,6 @@
   </programme>
   <programme start="20250523000000 -0500" channel="TNA: Under Siege 2025" stop="20250523235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Mystics at Aces" stop="20250523235959 -0500">
-    <title>09:00 PM 23/05/25 - Mystics at Aces</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Valkyries at Sparks" stop="20250523235959 -0500">
-    <title>09:00 PM 23/05/25 - Valkyries at Sparks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Mercury at Storm" stop="20250523235959 -0500">
-    <title>09:00 PM 23/05/25 - Mercury at Storm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -358,14 +333,6 @@
   </programme>
   <programme start="20250523000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250523235959 -0500">
     <title>07:00 PM 24/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Miami Marlins vs. Los Angeles Angels" stop="20250523235959 -0500">
-    <title>08:38 PM 23/05/25 - Miami Marlins vs. Los Angeles Angels</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
