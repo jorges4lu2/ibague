@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250523 -0500">
-  <channel id="Boxing: Harper vs Zimmermann">
-    <display-name lang="en">Boxing: Harper vs Zimmermann</display-name>
+  <channel id="Sun at Lynx">
+    <display-name lang="en">Sun at Lynx</display-name>
   </channel>
-  <channel id="PDC: 2025 Dutch Darts Championship Day One">
-    <display-name lang="en">PDC: 2025 Dutch Darts Championship Day One</display-name>
+  <channel id="Pacers at Knicks (Game 2)">
+    <display-name lang="en">Pacers at Knicks (Game 2)</display-name>
+  </channel>
+  <channel id="Edmonton Oilers vs. Dallas Stars">
+    <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
   </channel>
   <channel id="Chicago Cubs vs. Cincinnati Reds">
     <display-name lang="en">Chicago Cubs vs. Cincinnati Reds</display-name>
@@ -15,11 +18,29 @@
   <channel id="San Francisco Giants vs. Washington Nationals">
     <display-name lang="en">San Francisco Giants vs. Washington Nationals</display-name>
   </channel>
-  <channel id="Sun at Lynx">
-    <display-name lang="en">Sun at Lynx</display-name>
+  <channel id="Toronto Blue Jays vs. Tampa Bay Rays">
+    <display-name lang="en">Toronto Blue Jays vs. Tampa Bay Rays</display-name>
   </channel>
-  <channel id="Pacers at Knicks (Game 2)">
-    <display-name lang="en">Pacers at Knicks (Game 2)</display-name>
+  <channel id="Baltimore Orioles vs. Boston Red Sox">
+    <display-name lang="en">Baltimore Orioles vs. Boston Red Sox</display-name>
+  </channel>
+  <channel id="Cleveland Guardians vs. Detroit Tigers">
+    <display-name lang="en">Cleveland Guardians vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. New York Mets">
+    <display-name lang="en">Los Angeles Dodgers vs. New York Mets</display-name>
+  </channel>
+  <channel id="San Diego Padres vs. Atlanta Braves">
+    <display-name lang="en">San Diego Padres vs. Atlanta Braves</display-name>
+  </channel>
+  <channel id="Texas Rangers vs. Chicago White Sox">
+    <display-name lang="en">Texas Rangers vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <channel id="TNA: Under Siege 2025">
+    <display-name lang="en">TNA: Under Siege 2025</display-name>
   </channel>
   <channel id="Mystics at Aces">
     <display-name lang="en">Mystics at Aces</display-name>
@@ -42,29 +63,8 @@
   <channel id="Real Madrid vs Real Sociedad">
     <display-name lang="en">Real Madrid vs Real Sociedad</display-name>
   </channel>
-  <channel id="Edmonton Oilers vs. Dallas Stars">
-    <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
-  </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Tampa Bay Rays">
-    <display-name lang="en">Toronto Blue Jays vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Boston Red Sox">
-    <display-name lang="en">Baltimore Orioles vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Detroit Tigers">
-    <display-name lang="en">Cleveland Guardians vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. New York Mets">
-    <display-name lang="en">Los Angeles Dodgers vs. New York Mets</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Atlanta Braves">
-    <display-name lang="en">San Diego Padres vs. Atlanta Braves</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Chicago White Sox">
-    <display-name lang="en">Texas Rangers vs. Chicago White Sox</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Minnesota Twins">
     <display-name lang="en">Kansas City Royals vs. Minnesota Twins</display-name>
@@ -141,12 +141,6 @@
   <channel id="F1: Monaco GP (Race, F1TV Feed)">
     <display-name lang="en">F1: Monaco GP (Race, F1TV Feed)</display-name>
   </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <channel id="TNA: Under Siege 2025">
-    <display-name lang="en">TNA: Under Siege 2025</display-name>
-  </channel>
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
@@ -162,7 +156,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250523000000 -0500" channel="Boxing: Harper vs Zimmermann" stop="20250523235959 -0500">
+  <programme start="20250523000000 -0500" channel="Sun at Lynx" stop="20250523235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -170,7 +164,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250523000000 -0500" channel="PDC: 2025 Dutch Darts Championship Day One" stop="20250523235959 -0500">
+  <programme start="20250523000000 -0500" channel="Pacers at Knicks (Game 2)" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250523235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -202,16 +204,64 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250523000000 -0500" channel="Sun at Lynx" stop="20250523235959 -0500">
-    <title>06:30 PM 23/05/25 - Sun at Lynx</title>
+  <programme start="20250523000000 -0500" channel="Toronto Blue Jays vs. Tampa Bay Rays" stop="20250523235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250523000000 -0500" channel="Pacers at Knicks (Game 2)" stop="20250523235959 -0500">
-    <title>07:00 PM 23/05/25 - Pacers at Knicks (Game 2)</title>
+  <programme start="20250523000000 -0500" channel="Baltimore Orioles vs. Boston Red Sox" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Cleveland Guardians vs. Detroit Tigers" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Los Angeles Dodgers vs. New York Mets" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="San Diego Padres vs. Atlanta Braves" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="Texas Rangers vs. Chicago White Sox" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250523235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250523000000 -0500" channel="TNA: Under Siege 2025" stop="20250523235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -274,64 +324,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250523000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250523235959 -0500">
-    <title>07:00 PM 23/05/25 - Edmonton Oilers vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250523000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250523235959 -0500">
     <title>07:00 PM 24/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Toronto Blue Jays vs. Tampa Bay Rays" stop="20250523235959 -0500">
-    <title>06:05 PM 23/05/25 - Toronto Blue Jays vs. Tampa Bay Rays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Baltimore Orioles vs. Boston Red Sox" stop="20250523235959 -0500">
-    <title>06:10 PM 23/05/25 - Baltimore Orioles vs. Boston Red Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Cleveland Guardians vs. Detroit Tigers" stop="20250523235959 -0500">
-    <title>06:10 PM 23/05/25 - Cleveland Guardians vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Los Angeles Dodgers vs. New York Mets" stop="20250523235959 -0500">
-    <title>06:10 PM 23/05/25 - Los Angeles Dodgers vs. New York Mets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="San Diego Padres vs. Atlanta Braves" stop="20250523235959 -0500">
-    <title>06:15 PM 23/05/25 - San Diego Padres vs. Atlanta Braves</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="Texas Rangers vs. Chicago White Sox" stop="20250523235959 -0500">
-    <title>06:40 PM 23/05/25 - Texas Rangers vs. Chicago White Sox</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -532,22 +526,6 @@
   </programme>
   <programme start="20250523000000 -0500" channel="F1: Monaco GP (Race, F1TV Feed)" stop="20250523235959 -0500">
     <title>08:00 AM 25/05/25 - F1: Monaco GP (Race, F1TV Feed)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250523235959 -0500">
-    <title>07:00 PM 23/05/25 - WWE: Friday Night Smackdown</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250523000000 -0500" channel="TNA: Under Siege 2025" stop="20250523235959 -0500">
-    <title>07:00 PM 23/05/25 - TNA: Under Siege 2025</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
