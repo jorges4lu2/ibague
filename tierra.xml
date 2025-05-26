@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250526 -0500">
-  <channel id="St. Louis Cardinals vs. Baltimore Orioles">
-    <display-name lang="en">St. Louis Cardinals vs. Baltimore Orioles</display-name>
-  </channel>
   <channel id="Toronto Blue Jays vs. Texas Rangers">
     <display-name lang="en">Toronto Blue Jays vs. Texas Rangers</display-name>
   </channel>
@@ -12,6 +9,9 @@
   <channel id="Cincinnati Reds vs. Kansas City Royals">
     <display-name lang="en">Cincinnati Reds vs. Kansas City Royals</display-name>
   </channel>
+  <channel id="Los Angeles Dodgers vs. Cleveland Guardians">
+    <display-name lang="en">Los Angeles Dodgers vs. Cleveland Guardians</display-name>
+  </channel>
   <channel id="Thunder at Timberwolves (Game 4)">
     <display-name lang="en">Thunder at Timberwolves (Game 4)</display-name>
   </channel>
@@ -20,9 +20,6 @@
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Cleveland Guardians">
-    <display-name lang="en">Los Angeles Dodgers vs. Cleveland Guardians</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Tampa Bay Rays">
     <display-name lang="en">Minnesota Twins vs. Tampa Bay Rays</display-name>
@@ -69,14 +66,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250526000000 -0500" channel="St. Louis Cardinals vs. Baltimore Orioles" stop="20250526235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250526000000 -0500" channel="Toronto Blue Jays vs. Texas Rangers" stop="20250526235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -94,6 +83,14 @@
     </audio>
   </programme>
   <programme start="20250526000000 -0500" channel="Cincinnati Reds vs. Kansas City Royals" stop="20250526235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250526000000 -0500" channel="Los Angeles Dodgers vs. Cleveland Guardians" stop="20250526235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -119,14 +116,6 @@
   </programme>
   <programme start="20250526000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250526235959 -0500">
     <title>07:00 PM 26/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250526000000 -0500" channel="Los Angeles Dodgers vs. Cleveland Guardians" stop="20250526235959 -0500">
-    <title>05:10 PM 26/05/25 - Los Angeles Dodgers vs. Cleveland Guardians</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
