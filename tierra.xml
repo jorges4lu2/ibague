@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250526 -0500">
+  <channel id="San Francisco Giants vs. Detroit Tigers">
+    <display-name lang="en">San Francisco Giants vs. Detroit Tigers</display-name>
+  </channel>
   <channel id="Thunder at Timberwolves (Game 4)">
     <display-name lang="en">Thunder at Timberwolves (Game 4)</display-name>
   </channel>
@@ -8,9 +11,6 @@
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Detroit Tigers">
-    <display-name lang="en">San Francisco Giants vs. Detroit Tigers</display-name>
   </channel>
   <channel id="Boston Red Sox vs. Milwaukee Brewers">
     <display-name lang="en">Boston Red Sox vs. Milwaukee Brewers</display-name>
@@ -78,6 +78,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250526000000 -0500" channel="San Francisco Giants vs. Detroit Tigers" stop="20250526235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250526000000 -0500" channel="Thunder at Timberwolves (Game 4)" stop="20250526235959 -0500">
     <title>07:30 PM 26/05/25 - Thunder at Timberwolves (Game 4)</title>
     <date>2025</date>
@@ -96,14 +104,6 @@
   </programme>
   <programme start="20250526000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250526235959 -0500">
     <title>07:00 PM 26/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250526000000 -0500" channel="San Francisco Giants vs. Detroit Tigers" stop="20250526235959 -0500">
-    <title>12:10 PM 26/05/25 - San Francisco Giants vs. Detroit Tigers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
