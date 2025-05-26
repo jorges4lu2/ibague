@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250526 -0500">
+  <channel id="AFC Wimbledon vs Walsall">
+    <display-name lang="en">AFC Wimbledon vs Walsall</display-name>
+  </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
   </channel>
@@ -39,9 +42,6 @@
   <channel id="New York Yankees vs. Los Angeles Angels">
     <display-name lang="en">New York Yankees vs. Los Angeles Angels</display-name>
   </channel>
-  <channel id="AFC Wimbledon vs Walsall">
-    <display-name lang="en">AFC Wimbledon vs Walsall</display-name>
-  </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
@@ -75,6 +75,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250526000000 -0500" channel="AFC Wimbledon vs Walsall" stop="20250526235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250526000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250526235959 -0500">
     <title>07:00 PM 26/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
     <date>2025</date>
@@ -173,14 +181,6 @@
   </programme>
   <programme start="20250526000000 -0500" channel="New York Yankees vs. Los Angeles Angels" stop="20250526235959 -0500">
     <title>08:38 PM 26/05/25 - New York Yankees vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250526000000 -0500" channel="AFC Wimbledon vs Walsall" stop="20250526235959 -0500">
-    <title>09:00 AM 26/05/25 - AFC Wimbledon vs Walsall</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
