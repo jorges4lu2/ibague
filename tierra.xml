@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250526 -0500">
-  <channel id="Boston Red Sox vs. Milwaukee Brewers">
-    <display-name lang="en">Boston Red Sox vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Chicago Cubs">
-    <display-name lang="en">Colorado Rockies vs. Chicago Cubs</display-name>
-  </channel>
   <channel id="St. Louis Cardinals vs. Baltimore Orioles">
     <display-name lang="en">St. Louis Cardinals vs. Baltimore Orioles</display-name>
   </channel>
@@ -75,22 +69,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250526000000 -0500" channel="Boston Red Sox vs. Milwaukee Brewers" stop="20250526235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250526000000 -0500" channel="Colorado Rockies vs. Chicago Cubs" stop="20250526235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250526000000 -0500" channel="St. Louis Cardinals vs. Baltimore Orioles" stop="20250526235959 -0500">
     <title>Live</title>
     <date>2025</date>
