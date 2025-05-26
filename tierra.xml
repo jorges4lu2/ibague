@@ -3,6 +3,12 @@
   <channel id="San Francisco Giants vs. Detroit Tigers">
     <display-name lang="en">San Francisco Giants vs. Detroit Tigers</display-name>
   </channel>
+  <channel id="Boston Red Sox vs. Milwaukee Brewers">
+    <display-name lang="en">Boston Red Sox vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Colorado Rockies vs. Chicago Cubs">
+    <display-name lang="en">Colorado Rockies vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Thunder at Timberwolves (Game 4)">
     <display-name lang="en">Thunder at Timberwolves (Game 4)</display-name>
   </channel>
@@ -11,12 +17,6 @@
   </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Milwaukee Brewers">
-    <display-name lang="en">Boston Red Sox vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Chicago Cubs">
-    <display-name lang="en">Colorado Rockies vs. Chicago Cubs</display-name>
   </channel>
   <channel id="St. Louis Cardinals vs. Baltimore Orioles">
     <display-name lang="en">St. Louis Cardinals vs. Baltimore Orioles</display-name>
@@ -86,6 +86,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250526000000 -0500" channel="Boston Red Sox vs. Milwaukee Brewers" stop="20250526235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250526000000 -0500" channel="Colorado Rockies vs. Chicago Cubs" stop="20250526235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250526000000 -0500" channel="Thunder at Timberwolves (Game 4)" stop="20250526235959 -0500">
     <title>07:30 PM 26/05/25 - Thunder at Timberwolves (Game 4)</title>
     <date>2025</date>
@@ -104,22 +120,6 @@
   </programme>
   <programme start="20250526000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250526235959 -0500">
     <title>07:00 PM 26/05/25 - Carolina Hurricanes vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250526000000 -0500" channel="Boston Red Sox vs. Milwaukee Brewers" stop="20250526235959 -0500">
-    <title>01:10 PM 26/05/25 - Boston Red Sox vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250526000000 -0500" channel="Colorado Rockies vs. Chicago Cubs" stop="20250526235959 -0500">
-    <title>01:20 PM 26/05/25 - Colorado Rockies vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
