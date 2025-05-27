@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250527 -0500">
+  <channel id="Wings at Sun">
+    <display-name lang="en">Wings at Sun</display-name>
+  </channel>
   <channel id="ASEAN All-Stars vs Manchester United">
     <display-name lang="en">ASEAN All-Stars vs Manchester United</display-name>
   </channel>
@@ -84,6 +87,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250527000000 -0500" channel="Wings at Sun" stop="20250527235959 -0500">
+    <title>06:00 PM 27/05/25 - Wings at Sun</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250527000000 -0500" channel="ASEAN All-Stars vs Manchester United" stop="20250527235959 -0500">
     <title>07:45 AM 28/05/25 - ASEAN All-Stars vs Manchester United</title>
     <date>2025</date>
