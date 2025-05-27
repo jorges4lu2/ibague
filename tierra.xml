@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250526 -0500">
+  <channel id="Thunder at Timberwolves (Game 4)">
+    <display-name lang="en">Thunder at Timberwolves (Game 4)</display-name>
+  </channel>
   <channel id="Carolina Hurricanes vs. Florida Panthers">
     <display-name lang="en">Carolina Hurricanes vs. Florida Panthers</display-name>
   </channel>
@@ -9,20 +12,17 @@
   <channel id="Minnesota Twins vs. Tampa Bay Rays">
     <display-name lang="en">Minnesota Twins vs. Tampa Bay Rays</display-name>
   </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
-  <channel id="Thunder at Timberwolves (Game 4)">
-    <display-name lang="en">Thunder at Timberwolves (Game 4)</display-name>
-  </channel>
-  <channel id="ASEAN All-Stars vs Manchester United">
-    <display-name lang="en">ASEAN All-Stars vs Manchester United</display-name>
-  </channel>
   <channel id="Pittsburgh Pirates vs. Arizona Diamondbacks">
     <display-name lang="en">Pittsburgh Pirates vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="Miami Marlins vs. San Diego Padres">
     <display-name lang="en">Miami Marlins vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
+  <channel id="ASEAN All-Stars vs Manchester United">
+    <display-name lang="en">ASEAN All-Stars vs Manchester United</display-name>
   </channel>
   <channel id="New York Yankees vs. Los Angeles Angels">
     <display-name lang="en">New York Yankees vs. Los Angeles Angels</display-name>
@@ -57,6 +57,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250526000000 -0500" channel="Thunder at Timberwolves (Game 4)" stop="20250526235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250526000000 -0500" channel="Carolina Hurricanes vs. Florida Panthers" stop="20250526235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -81,6 +89,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250526000000 -0500" channel="Pittsburgh Pirates vs. Arizona Diamondbacks" stop="20250526235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250526000000 -0500" channel="Miami Marlins vs. San Diego Padres" stop="20250526235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250526000000 -0500" channel="WWE: Monday Night RAW" stop="20250526235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -89,32 +113,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250526000000 -0500" channel="Thunder at Timberwolves (Game 4)" stop="20250526235959 -0500">
-    <title>07:30 PM 26/05/25 - Thunder at Timberwolves (Game 4)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250526000000 -0500" channel="ASEAN All-Stars vs Manchester United" stop="20250526235959 -0500">
     <title>07:45 AM 28/05/25 - ASEAN All-Stars vs Manchester United</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250526000000 -0500" channel="Pittsburgh Pirates vs. Arizona Diamondbacks" stop="20250526235959 -0500">
-    <title>07:10 PM 26/05/25 - Pittsburgh Pirates vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250526000000 -0500" channel="Miami Marlins vs. San Diego Padres" stop="20250526235959 -0500">
-    <title>07:40 PM 26/05/25 - Miami Marlins vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
