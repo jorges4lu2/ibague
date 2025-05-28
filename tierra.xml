@@ -6,11 +6,14 @@
   <channel id="Nacional vs Atl&#233;tico Nacional">
     <display-name lang="en">Nacional vs Atl&#233;tico Nacional</display-name>
   </channel>
-  <channel id="Pittsburgh Pirates vs. Arizona Diamondbacks">
-    <display-name lang="en">Pittsburgh Pirates vs. Arizona Diamondbacks</display-name>
-  </channel>
   <channel id="Miami Marlins vs. San Diego Padres">
     <display-name lang="en">Miami Marlins vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="St. Louis Cardinals vs. Baltimore Orioles">
+    <display-name lang="en">St. Louis Cardinals vs. Baltimore Orioles</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Philadelphia Phillies">
+    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Fever at Mystics">
     <display-name lang="en">Fever at Mystics</display-name>
@@ -41,12 +44,6 @@
   </channel>
   <channel id="Florida Panthers vs. Carolina Hurricanes">
     <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Baltimore Orioles">
-    <display-name lang="en">St. Louis Cardinals vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Philadelphia Phillies">
-    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Kansas City Royals">
     <display-name lang="en">Cincinnati Reds vs. Kansas City Royals</display-name>
@@ -106,7 +103,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250528000000 -0500" channel="Pittsburgh Pirates vs. Arizona Diamondbacks" stop="20250528235959 -0500">
+  <programme start="20250528000000 -0500" channel="Miami Marlins vs. San Diego Padres" stop="20250528235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -114,7 +111,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250528000000 -0500" channel="Miami Marlins vs. San Diego Padres" stop="20250528235959 -0500">
+  <programme start="20250528000000 -0500" channel="St. Louis Cardinals vs. Baltimore Orioles" stop="20250528235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250528235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -196,22 +201,6 @@
   </programme>
   <programme start="20250528000000 -0500" channel="Florida Panthers vs. Carolina Hurricanes" stop="20250528235959 -0500">
     <title>07:00 PM 28/05/25 - Florida Panthers vs. Carolina Hurricanes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="St. Louis Cardinals vs. Baltimore Orioles" stop="20250528235959 -0500">
-    <title>05:35 PM 28/05/25 - St. Louis Cardinals vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250528235959 -0500">
-    <title>05:45 PM 28/05/25 - Atlanta Braves vs. Philadelphia Phillies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
