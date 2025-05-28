@@ -6,11 +6,20 @@
   <channel id="Valkyries at Liberty">
     <display-name lang="en">Valkyries at Liberty</display-name>
   </channel>
+  <channel id="Storm at Lynx">
+    <display-name lang="en">Storm at Lynx</display-name>
+  </channel>
+  <channel id="Knicks at Pacers (Game 4)">
+    <display-name lang="en">Knicks at Pacers (Game 4)</display-name>
+  </channel>
   <channel id="S&#227;o Paulo vs Talleres C&#243;rdoba">
     <display-name lang="en">S&#227;o Paulo vs Talleres C&#243;rdoba</display-name>
   </channel>
   <channel id="Libertad vs Alianza Lima">
     <display-name lang="en">Libertad vs Alianza Lima</display-name>
+  </channel>
+  <channel id="Dallas Stars vs. Edmonton Oilers">
+    <display-name lang="en">Dallas Stars vs. Edmonton Oilers</display-name>
   </channel>
   <channel id="Los Angeles Dodgers vs. Cleveland Guardians">
     <display-name lang="en">Los Angeles Dodgers vs. Cleveland Guardians</display-name>
@@ -24,11 +33,20 @@
   <channel id="Atlanta Braves vs. Philadelphia Phillies">
     <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
-  <channel id="Storm at Lynx">
-    <display-name lang="en">Storm at Lynx</display-name>
+  <channel id="Minnesota Twins vs. Tampa Bay Rays">
+    <display-name lang="en">Minnesota Twins vs. Tampa Bay Rays</display-name>
   </channel>
-  <channel id="Knicks at Pacers (Game 4)">
-    <display-name lang="en">Knicks at Pacers (Game 4)</display-name>
+  <channel id="Chicago White Sox vs. New York Mets">
+    <display-name lang="en">Chicago White Sox vs. New York Mets</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Milwaukee Brewers">
+    <display-name lang="en">Boston Red Sox vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Cincinnati Reds vs. Kansas City Royals">
+    <display-name lang="en">Cincinnati Reds vs. Kansas City Royals</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="Dream at Sparks">
     <display-name lang="en">Dream at Sparks</display-name>
@@ -54,20 +72,29 @@
   <channel id="Real Betis vs Chelsea">
     <display-name lang="en">Real Betis vs Chelsea</display-name>
   </channel>
-  <channel id="Dallas Stars vs. Edmonton Oilers">
-    <display-name lang="en">Dallas Stars vs. Edmonton Oilers</display-name>
+  <channel id="Internacional vs Bahia">
+    <display-name lang="en">Internacional vs Bahia</display-name>
   </channel>
-  <channel id="Minnesota Twins vs. Tampa Bay Rays">
-    <display-name lang="en">Minnesota Twins vs. Tampa Bay Rays</display-name>
+  <channel id="Nacional vs Atl&#233;tico Nacional">
+    <display-name lang="en">Nacional vs Atl&#233;tico Nacional</display-name>
   </channel>
-  <channel id="Chicago White Sox vs. New York Mets">
-    <display-name lang="en">Chicago White Sox vs. New York Mets</display-name>
+  <channel id="LA Galaxy vs SJ Earthquakes">
+    <display-name lang="en">LA Galaxy vs SJ Earthquakes</display-name>
   </channel>
-  <channel id="Boston Red Sox vs. Milwaukee Brewers">
-    <display-name lang="en">Boston Red Sox vs. Milwaukee Brewers</display-name>
+  <channel id="Palmeiras vs Sporting Cristal">
+    <display-name lang="en">Palmeiras vs Sporting Cristal</display-name>
   </channel>
-  <channel id="Cincinnati Reds vs. Kansas City Royals">
-    <display-name lang="en">Cincinnati Reds vs. Kansas City Royals</display-name>
+  <channel id="LDU Quito vs Central C&#243;rdoba SdE">
+    <display-name lang="en">LDU Quito vs Central C&#243;rdoba SdE</display-name>
+  </channel>
+  <channel id="Flamengo vs Deportivo T&#225;chira">
+    <display-name lang="en">Flamengo vs Deportivo T&#225;chira</display-name>
+  </channel>
+  <channel id="Bol&#237;var vs Cerro Porte&#241;o">
+    <display-name lang="en">Bol&#237;var vs Cerro Porte&#241;o</display-name>
+  </channel>
+  <channel id="Columbus Crew vs Nashville SC">
+    <display-name lang="en">Columbus Crew vs Nashville SC</display-name>
   </channel>
   <channel id="Colorado Rockies vs. Chicago Cubs">
     <display-name lang="en">Colorado Rockies vs. Chicago Cubs</display-name>
@@ -89,9 +116,6 @@
   </channel>
   <channel id="Washington Nationals vs. Seattle Mariners">
     <display-name lang="en">Washington Nationals vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -136,6 +160,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250527000000 -0500" channel="Storm at Lynx" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Knicks at Pacers (Game 4)" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250527000000 -0500" channel="S&#227;o Paulo vs Talleres C&#243;rdoba" stop="20250527235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -145,6 +185,14 @@
     </audio>
   </programme>
   <programme start="20250527000000 -0500" channel="Libertad vs Alianza Lima" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Dallas Stars vs. Edmonton Oilers" stop="20250527235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -184,16 +232,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="Storm at Lynx" stop="20250527235959 -0500">
-    <title>07:00 PM 27/05/25 - Storm at Lynx</title>
+  <programme start="20250527000000 -0500" channel="Minnesota Twins vs. Tampa Bay Rays" stop="20250527235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="Knicks at Pacers (Game 4)" stop="20250527235959 -0500">
-    <title>07:00 PM 27/05/25 - Knicks at Pacers (Game 4)</title>
+  <programme start="20250527000000 -0500" channel="Chicago White Sox vs. New York Mets" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Boston Red Sox vs. Milwaukee Brewers" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Cincinnati Reds vs. Kansas City Royals" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="WWE: NXT" stop="20250527235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -264,40 +336,64 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="Dallas Stars vs. Edmonton Oilers" stop="20250527235959 -0500">
-    <title>07:00 PM 27/05/25 - Dallas Stars vs. Edmonton Oilers</title>
+  <programme start="20250527000000 -0500" channel="Internacional vs Bahia" stop="20250527235959 -0500">
+    <title>05:00 PM 28/05/25 - Internacional vs Bahia</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="Minnesota Twins vs. Tampa Bay Rays" stop="20250527235959 -0500">
-    <title>06:05 PM 27/05/25 - Minnesota Twins vs. Tampa Bay Rays</title>
+  <programme start="20250527000000 -0500" channel="Nacional vs Atl&#233;tico Nacional" stop="20250527235959 -0500">
+    <title>05:00 PM 28/05/25 - Nacional vs Atl&#233;tico Nacional</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="Chicago White Sox vs. New York Mets" stop="20250527235959 -0500">
-    <title>06:10 PM 27/05/25 - Chicago White Sox vs. New York Mets</title>
+  <programme start="20250527000000 -0500" channel="LA Galaxy vs SJ Earthquakes" stop="20250527235959 -0500">
+    <title>07:00 PM 28/05/25 - LA Galaxy vs SJ Earthquakes</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="Boston Red Sox vs. Milwaukee Brewers" stop="20250527235959 -0500">
-    <title>06:40 PM 27/05/25 - Boston Red Sox vs. Milwaukee Brewers</title>
+  <programme start="20250527000000 -0500" channel="Palmeiras vs Sporting Cristal" stop="20250527235959 -0500">
+    <title>07:30 PM 28/05/25 - Palmeiras vs Sporting Cristal</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="Cincinnati Reds vs. Kansas City Royals" stop="20250527235959 -0500">
-    <title>06:40 PM 27/05/25 - Cincinnati Reds vs. Kansas City Royals</title>
+  <programme start="20250527000000 -0500" channel="LDU Quito vs Central C&#243;rdoba SdE" stop="20250527235959 -0500">
+    <title>07:30 PM 28/05/25 - LDU Quito vs Central C&#243;rdoba SdE</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Flamengo vs Deportivo T&#225;chira" stop="20250527235959 -0500">
+    <title>07:30 PM 28/05/25 - Flamengo vs Deportivo T&#225;chira</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Bol&#237;var vs Cerro Porte&#241;o" stop="20250527235959 -0500">
+    <title>07:30 PM 28/05/25 - Bol&#237;var vs Cerro Porte&#241;o</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Columbus Crew vs Nashville SC" stop="20250527235959 -0500">
+    <title>09:00 PM 28/05/25 - Columbus Crew vs Nashville SC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -354,14 +450,6 @@
   </programme>
   <programme start="20250527000000 -0500" channel="Washington Nationals vs. Seattle Mariners" stop="20250527235959 -0500">
     <title>08:40 PM 27/05/25 - Washington Nationals vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="WWE: NXT" stop="20250527235959 -0500">
-    <title>07:00 PM 27/05/25 - WWE: NXT</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
