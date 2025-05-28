@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250528 -0500">
+  <channel id="Real Betis vs Chelsea">
+    <display-name lang="en">Real Betis vs Chelsea</display-name>
+  </channel>
   <channel id="Fever at Mystics">
     <display-name lang="en">Fever at Mystics</display-name>
   </channel>
@@ -8,9 +11,6 @@
   </channel>
   <channel id="PDC: BetMGM Premier League - Play-Offs">
     <display-name lang="en">PDC: BetMGM Premier League - Play-Offs</display-name>
-  </channel>
-  <channel id="Real Betis vs Chelsea">
-    <display-name lang="en">Real Betis vs Chelsea</display-name>
   </channel>
   <channel id="Internacional vs Bahia">
     <display-name lang="en">Internacional vs Bahia</display-name>
@@ -66,6 +66,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250528000000 -0500" channel="Real Betis vs Chelsea" stop="20250528235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250528000000 -0500" channel="Fever at Mystics" stop="20250528235959 -0500">
     <title>06:30 PM 28/05/25 - Fever at Mystics</title>
     <date>2025</date>
@@ -84,14 +92,6 @@
   </programme>
   <programme start="20250528000000 -0500" channel="PDC: BetMGM Premier League - Play-Offs" stop="20250528235959 -0500">
     <title>01:00 PM 29/05/25 - PDC: BetMGM Premier League - Play-Offs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="Real Betis vs Chelsea" stop="20250528235959 -0500">
-    <title>02:00 PM 28/05/25 - Real Betis vs Chelsea</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
