@@ -12,11 +12,17 @@
   <channel id="Knicks at Pacers (Game 4)">
     <display-name lang="en">Knicks at Pacers (Game 4)</display-name>
   </channel>
-  <channel id="S&#227;o Paulo vs Talleres C&#243;rdoba">
-    <display-name lang="en">S&#227;o Paulo vs Talleres C&#243;rdoba</display-name>
+  <channel id="Independiente del Valle vs Barcelona">
+    <display-name lang="en">Independiente del Valle vs Barcelona</display-name>
   </channel>
-  <channel id="Libertad vs Alianza Lima">
-    <display-name lang="en">Libertad vs Alianza Lima</display-name>
+  <channel id="River Plate vs Universitario">
+    <display-name lang="en">River Plate vs Universitario</display-name>
+  </channel>
+  <channel id="Estudiantes vs Carabobo">
+    <display-name lang="en">Estudiantes vs Carabobo</display-name>
+  </channel>
+  <channel id="Botafogo vs Universidad Chile">
+    <display-name lang="en">Botafogo vs Universidad Chile</display-name>
   </channel>
   <channel id="Dallas Stars vs. Edmonton Oilers">
     <display-name lang="en">Dallas Stars vs. Edmonton Oilers</display-name>
@@ -45,6 +51,15 @@
   <channel id="Cincinnati Reds vs. Kansas City Royals">
     <display-name lang="en">Cincinnati Reds vs. Kansas City Royals</display-name>
   </channel>
+  <channel id="Colorado Rockies vs. Chicago Cubs">
+    <display-name lang="en">Colorado Rockies vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. Texas Rangers">
+    <display-name lang="en">Toronto Blue Jays vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Athletics vs. Houston Astros">
+    <display-name lang="en">Athletics vs. Houston Astros</display-name>
+  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
   </channel>
@@ -53,18 +68,6 @@
   </channel>
   <channel id="Sky at Mercury">
     <display-name lang="en">Sky at Mercury</display-name>
-  </channel>
-  <channel id="Independiente del Valle vs Barcelona">
-    <display-name lang="en">Independiente del Valle vs Barcelona</display-name>
-  </channel>
-  <channel id="River Plate vs Universitario">
-    <display-name lang="en">River Plate vs Universitario</display-name>
-  </channel>
-  <channel id="Estudiantes vs Carabobo">
-    <display-name lang="en">Estudiantes vs Carabobo</display-name>
-  </channel>
-  <channel id="Botafogo vs Universidad Chile">
-    <display-name lang="en">Botafogo vs Universidad Chile</display-name>
   </channel>
   <channel id="ASEAN All-Stars vs Manchester United">
     <display-name lang="en">ASEAN All-Stars vs Manchester United</display-name>
@@ -95,15 +98,6 @@
   </channel>
   <channel id="Columbus Crew vs Nashville SC">
     <display-name lang="en">Columbus Crew vs Nashville SC</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Chicago Cubs">
-    <display-name lang="en">Colorado Rockies vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Texas Rangers">
-    <display-name lang="en">Toronto Blue Jays vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Athletics vs. Houston Astros">
-    <display-name lang="en">Athletics vs. Houston Astros</display-name>
   </channel>
   <channel id="New York Yankees vs. Los Angeles Angels">
     <display-name lang="en">New York Yankees vs. Los Angeles Angels</display-name>
@@ -176,7 +170,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="S&#227;o Paulo vs Talleres C&#243;rdoba" stop="20250527235959 -0500">
+  <programme start="20250527000000 -0500" channel="Independiente del Valle vs Barcelona" stop="20250527235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -184,7 +178,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="Libertad vs Alianza Lima" stop="20250527235959 -0500">
+  <programme start="20250527000000 -0500" channel="River Plate vs Universitario" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Estudiantes vs Carabobo" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Botafogo vs Universidad Chile" stop="20250527235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -264,6 +274,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250527000000 -0500" channel="Colorado Rockies vs. Chicago Cubs" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Toronto Blue Jays vs. Texas Rangers" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Athletics vs. Houston Astros" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250527000000 -0500" channel="WWE: NXT" stop="20250527235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -282,38 +316,6 @@
   </programme>
   <programme start="20250527000000 -0500" channel="Sky at Mercury" stop="20250527235959 -0500">
     <title>09:00 PM 27/05/25 - Sky at Mercury</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Independiente del Valle vs Barcelona" stop="20250527235959 -0500">
-    <title>07:30 PM 27/05/25 - Independiente del Valle vs Barcelona</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="River Plate vs Universitario" stop="20250527235959 -0500">
-    <title>07:30 PM 27/05/25 - River Plate vs Universitario</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Estudiantes vs Carabobo" stop="20250527235959 -0500">
-    <title>07:30 PM 27/05/25 - Estudiantes vs Carabobo</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Botafogo vs Universidad Chile" stop="20250527235959 -0500">
-    <title>07:30 PM 27/05/25 - Botafogo vs Universidad Chile</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -394,30 +396,6 @@
   </programme>
   <programme start="20250527000000 -0500" channel="Columbus Crew vs Nashville SC" stop="20250527235959 -0500">
     <title>09:00 PM 28/05/25 - Columbus Crew vs Nashville SC</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Colorado Rockies vs. Chicago Cubs" stop="20250527235959 -0500">
-    <title>07:05 PM 27/05/25 - Colorado Rockies vs. Chicago Cubs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Toronto Blue Jays vs. Texas Rangers" stop="20250527235959 -0500">
-    <title>07:05 PM 27/05/25 - Toronto Blue Jays vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Athletics vs. Houston Astros" stop="20250527235959 -0500">
-    <title>07:10 PM 27/05/25 - Athletics vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
