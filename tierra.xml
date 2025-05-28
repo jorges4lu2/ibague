@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250527 -0500">
-  <channel id="Wings at Sun">
-    <display-name lang="en">Wings at Sun</display-name>
-  </channel>
-  <channel id="Valkyries at Liberty">
-    <display-name lang="en">Valkyries at Liberty</display-name>
-  </channel>
   <channel id="Storm at Lynx">
     <display-name lang="en">Storm at Lynx</display-name>
   </channel>
   <channel id="Knicks at Pacers (Game 4)">
     <display-name lang="en">Knicks at Pacers (Game 4)</display-name>
+  </channel>
+  <channel id="Dream at Sparks">
+    <display-name lang="en">Dream at Sparks</display-name>
+  </channel>
+  <channel id="Sky at Mercury">
+    <display-name lang="en">Sky at Mercury</display-name>
   </channel>
   <channel id="Independiente del Valle vs Barcelona">
     <display-name lang="en">Independiente del Valle vs Barcelona</display-name>
@@ -26,18 +26,6 @@
   </channel>
   <channel id="Dallas Stars vs. Edmonton Oilers">
     <display-name lang="en">Dallas Stars vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Cleveland Guardians">
-    <display-name lang="en">Los Angeles Dodgers vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Baltimore Orioles">
-    <display-name lang="en">St. Louis Cardinals vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Detroit Tigers">
-    <display-name lang="en">San Francisco Giants vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Philadelphia Phillies">
-    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Tampa Bay Rays">
     <display-name lang="en">Minnesota Twins vs. Tampa Bay Rays</display-name>
@@ -60,14 +48,20 @@
   <channel id="Athletics vs. Houston Astros">
     <display-name lang="en">Athletics vs. Houston Astros</display-name>
   </channel>
+  <channel id="New York Yankees vs. Los Angeles Angels">
+    <display-name lang="en">New York Yankees vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="Miami Marlins vs. San Diego Padres">
+    <display-name lang="en">Miami Marlins vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. Arizona Diamondbacks">
+    <display-name lang="en">Pittsburgh Pirates vs. Arizona Diamondbacks</display-name>
+  </channel>
+  <channel id="Washington Nationals vs. Seattle Mariners">
+    <display-name lang="en">Washington Nationals vs. Seattle Mariners</display-name>
+  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
-  </channel>
-  <channel id="Dream at Sparks">
-    <display-name lang="en">Dream at Sparks</display-name>
-  </channel>
-  <channel id="Sky at Mercury">
-    <display-name lang="en">Sky at Mercury</display-name>
   </channel>
   <channel id="ASEAN All-Stars vs Manchester United">
     <display-name lang="en">ASEAN All-Stars vs Manchester United</display-name>
@@ -99,18 +93,6 @@
   <channel id="Columbus Crew vs Nashville SC">
     <display-name lang="en">Columbus Crew vs Nashville SC</display-name>
   </channel>
-  <channel id="New York Yankees vs. Los Angeles Angels">
-    <display-name lang="en">New York Yankees vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. San Diego Padres">
-    <display-name lang="en">Miami Marlins vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Arizona Diamondbacks">
-    <display-name lang="en">Pittsburgh Pirates vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Seattle Mariners">
-    <display-name lang="en">Washington Nationals vs. Seattle Mariners</display-name>
-  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -138,22 +120,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250527000000 -0500" channel="Wings at Sun" stop="20250527235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Valkyries at Liberty" stop="20250527235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250527000000 -0500" channel="Storm at Lynx" stop="20250527235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -163,6 +129,22 @@
     </audio>
   </programme>
   <programme start="20250527000000 -0500" channel="Knicks at Pacers (Game 4)" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Dream at Sparks" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Sky at Mercury" stop="20250527235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -203,38 +185,6 @@
     </audio>
   </programme>
   <programme start="20250527000000 -0500" channel="Dallas Stars vs. Edmonton Oilers" stop="20250527235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Los Angeles Dodgers vs. Cleveland Guardians" stop="20250527235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="St. Louis Cardinals vs. Baltimore Orioles" stop="20250527235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="San Francisco Giants vs. Detroit Tigers" stop="20250527235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250527235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -298,7 +248,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="WWE: NXT" stop="20250527235959 -0500">
+  <programme start="20250527000000 -0500" channel="New York Yankees vs. Los Angeles Angels" stop="20250527235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -306,16 +256,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="Dream at Sparks" stop="20250527235959 -0500">
-    <title>09:00 PM 27/05/25 - Dream at Sparks</title>
+  <programme start="20250527000000 -0500" channel="Miami Marlins vs. San Diego Padres" stop="20250527235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250527000000 -0500" channel="Sky at Mercury" stop="20250527235959 -0500">
-    <title>09:00 PM 27/05/25 - Sky at Mercury</title>
+  <programme start="20250527000000 -0500" channel="Pittsburgh Pirates vs. Arizona Diamondbacks" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="Washington Nationals vs. Seattle Mariners" stop="20250527235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250527000000 -0500" channel="WWE: NXT" stop="20250527235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -396,38 +362,6 @@
   </programme>
   <programme start="20250527000000 -0500" channel="Columbus Crew vs Nashville SC" stop="20250527235959 -0500">
     <title>09:00 PM 28/05/25 - Columbus Crew vs Nashville SC</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="New York Yankees vs. Los Angeles Angels" stop="20250527235959 -0500">
-    <title>08:38 PM 27/05/25 - New York Yankees vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Miami Marlins vs. San Diego Padres" stop="20250527235959 -0500">
-    <title>08:40 PM 27/05/25 - Miami Marlins vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Pittsburgh Pirates vs. Arizona Diamondbacks" stop="20250527235959 -0500">
-    <title>08:40 PM 27/05/25 - Pittsburgh Pirates vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250527000000 -0500" channel="Washington Nationals vs. Seattle Mariners" stop="20250527235959 -0500">
-    <title>08:40 PM 27/05/25 - Washington Nationals vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
