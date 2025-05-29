@@ -3,6 +3,9 @@
   <channel id="PDC: BetMGM Premier League - Play-Offs">
     <display-name lang="en">PDC: BetMGM Premier League - Play-Offs</display-name>
   </channel>
+  <channel id="Reims vs Metz">
+    <display-name lang="en">Reims vs Metz</display-name>
+  </channel>
   <channel id="Atlanta Braves vs. Philadelphia Phillies">
     <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
@@ -17,9 +20,6 @@
   </channel>
   <channel id="PDC: 2025 European Darts Open Day One">
     <display-name lang="en">PDC: 2025 European Darts Open Day One</display-name>
-  </channel>
-  <channel id="Reims vs Metz">
-    <display-name lang="en">Reims vs Metz</display-name>
   </channel>
   <channel id="Pe&#241;arol vs V&#233;lez Sarsfield">
     <display-name lang="en">Pe&#241;arol vs V&#233;lez Sarsfield</display-name>
@@ -80,6 +80,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250529000000 -0500" channel="Reims vs Metz" stop="20250529235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250529000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250529235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -114,14 +122,6 @@
   </programme>
   <programme start="20250529000000 -0500" channel="PDC: 2025 European Darts Open Day One" stop="20250529235959 -0500">
     <title>06:00 AM 30/05/25 - PDC: 2025 European Darts Open Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250529000000 -0500" channel="Reims vs Metz" stop="20250529235959 -0500">
-    <title>01:30 PM 29/05/25 - Reims vs Metz</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
