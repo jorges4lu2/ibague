@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250529 -0500">
+  <channel id="Valkyries at Liberty">
+    <display-name lang="en">Valkyries at Liberty</display-name>
+  </channel>
   <channel id="PDC: BetMGM Premier League - Play-Offs">
     <display-name lang="en">PDC: BetMGM Premier League - Play-Offs</display-name>
   </channel>
@@ -9,8 +12,8 @@
   <channel id="Olimpia vs San Antonio Bulo Bulo">
     <display-name lang="en">Olimpia vs San Antonio Bulo Bulo</display-name>
   </channel>
-  <channel id="Valkyries at Liberty">
-    <display-name lang="en">Valkyries at Liberty</display-name>
+  <channel id="Atlanta Braves vs. Philadelphia Phillies">
+    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Wings at Sky">
     <display-name lang="en">Wings at Sky</display-name>
@@ -29,9 +32,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Dallas Stars">
     <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Philadelphia Phillies">
-    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Athletics vs. Toronto Blue Jays">
     <display-name lang="en">Athletics vs. Toronto Blue Jays</display-name>
@@ -66,6 +66,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250529000000 -0500" channel="Valkyries at Liberty" stop="20250529235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250529000000 -0500" channel="PDC: BetMGM Premier League - Play-Offs" stop="20250529235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -90,8 +98,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250529000000 -0500" channel="Valkyries at Liberty" stop="20250529235959 -0500">
-    <title>06:00 PM 29/05/25 - Valkyries at Liberty</title>
+  <programme start="20250529000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250529235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -140,14 +148,6 @@
   </programme>
   <programme start="20250529000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250529235959 -0500">
     <title>07:00 PM 29/05/25 - Edmonton Oilers vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250529000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250529235959 -0500">
-    <title>05:45 PM 29/05/25 - Atlanta Braves vs. Philadelphia Phillies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
