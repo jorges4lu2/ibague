@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250529 -0500">
+  <channel id="PDC: BetMGM Premier League - Play-Offs">
+    <display-name lang="en">PDC: BetMGM Premier League - Play-Offs</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Philadelphia Phillies">
+    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
+  </channel>
   <channel id="Valkyries at Liberty">
     <display-name lang="en">Valkyries at Liberty</display-name>
   </channel>
@@ -9,11 +15,11 @@
   <channel id="Pacers at Knicks (Game 5)">
     <display-name lang="en">Pacers at Knicks (Game 5)</display-name>
   </channel>
-  <channel id="PDC: BetMGM Premier League - Play-Offs">
-    <display-name lang="en">PDC: BetMGM Premier League - Play-Offs</display-name>
-  </channel>
   <channel id="PDC: 2025 European Darts Open Day One">
     <display-name lang="en">PDC: 2025 European Darts Open Day One</display-name>
+  </channel>
+  <channel id="Reims vs Metz">
+    <display-name lang="en">Reims vs Metz</display-name>
   </channel>
   <channel id="Pe&#241;arol vs V&#233;lez Sarsfield">
     <display-name lang="en">Pe&#241;arol vs V&#233;lez Sarsfield</display-name>
@@ -24,11 +30,11 @@
   <channel id="Racing Club vs Fortaleza">
     <display-name lang="en">Racing Club vs Fortaleza</display-name>
   </channel>
+  <channel id="Colo-Colo vs Atl&#233;tico Bucaramanga">
+    <display-name lang="en">Colo-Colo vs Atl&#233;tico Bucaramanga</display-name>
+  </channel>
   <channel id="Edmonton Oilers vs. Dallas Stars">
     <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Philadelphia Phillies">
-    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Atlanta Braves vs. Philadelphia Phillies">
     <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
@@ -66,6 +72,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250529000000 -0500" channel="PDC: BetMGM Premier League - Play-Offs" stop="20250529235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250529000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250529235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250529000000 -0500" channel="Valkyries at Liberty" stop="20250529235959 -0500">
     <title>06:00 PM 29/05/25 - Valkyries at Liberty</title>
     <date>2025</date>
@@ -90,16 +112,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250529000000 -0500" channel="PDC: BetMGM Premier League - Play-Offs" stop="20250529235959 -0500">
-    <title>01:00 PM 29/05/25 - PDC: BetMGM Premier League - Play-Offs</title>
+  <programme start="20250529000000 -0500" channel="PDC: 2025 European Darts Open Day One" stop="20250529235959 -0500">
+    <title>06:00 AM 30/05/25 - PDC: 2025 European Darts Open Day One</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250529000000 -0500" channel="PDC: 2025 European Darts Open Day One" stop="20250529235959 -0500">
-    <title>06:00 AM 30/05/25 - PDC: 2025 European Darts Open Day One</title>
+  <programme start="20250529000000 -0500" channel="Reims vs Metz" stop="20250529235959 -0500">
+    <title>01:30 PM 29/05/25 - Reims vs Metz</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -130,16 +152,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250529000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250529235959 -0500">
-    <title>07:00 PM 29/05/25 - Edmonton Oilers vs. Dallas Stars</title>
+  <programme start="20250529000000 -0500" channel="Colo-Colo vs Atl&#233;tico Bucaramanga" stop="20250529235959 -0500">
+    <title>07:30 PM 29/05/25 - Colo-Colo vs Atl&#233;tico Bucaramanga</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250529000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250529235959 -0500">
-    <title>12:05 PM 29/05/25 - Atlanta Braves vs. Philadelphia Phillies</title>
+  <programme start="20250529000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250529235959 -0500">
+    <title>07:00 PM 29/05/25 - Edmonton Oilers vs. Dallas Stars</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
