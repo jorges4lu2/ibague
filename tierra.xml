@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250529 -0500">
+  <channel id="Valkyries at Liberty">
+    <display-name lang="en">Valkyries at Liberty</display-name>
+  </channel>
+  <channel id="Wings at Sky">
+    <display-name lang="en">Wings at Sky</display-name>
+  </channel>
+  <channel id="Pacers at Knicks (Game 5)">
+    <display-name lang="en">Pacers at Knicks (Game 5)</display-name>
+  </channel>
   <channel id="PDC: BetMGM Premier League - Play-Offs">
     <display-name lang="en">PDC: BetMGM Premier League - Play-Offs</display-name>
   </channel>
@@ -48,6 +57,30 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250529000000 -0500" channel="Valkyries at Liberty" stop="20250529235959 -0500">
+    <title>06:00 PM 29/05/25 - Valkyries at Liberty</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250529000000 -0500" channel="Wings at Sky" stop="20250529235959 -0500">
+    <title>07:00 PM 29/05/25 - Wings at Sky</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250529000000 -0500" channel="Pacers at Knicks (Game 5)" stop="20250529235959 -0500">
+    <title>07:00 PM 29/05/25 - Pacers at Knicks (Game 5)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250529000000 -0500" channel="PDC: BetMGM Premier League - Play-Offs" stop="20250529235959 -0500">
     <title>01:00 PM 29/05/25 - PDC: BetMGM Premier League - Play-Offs</title>
     <date>2025</date>
