@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250528 -0500">
-  <channel id="Fever at Mystics">
-    <display-name lang="en">Fever at Mystics</display-name>
-  </channel>
   <channel id="Timberwolves at Thunder (Game 5)">
     <display-name lang="en">Timberwolves at Thunder (Game 5)</display-name>
-  </channel>
-  <channel id="LA Galaxy vs SJ Earthquakes">
-    <display-name lang="en">LA Galaxy vs SJ Earthquakes</display-name>
   </channel>
   <channel id="Palmeiras vs Sporting Cristal">
     <display-name lang="en">Palmeiras vs Sporting Cristal</display-name>
@@ -24,12 +18,6 @@
   <channel id="Columbus Crew vs Nashville SC">
     <display-name lang="en">Columbus Crew vs Nashville SC</display-name>
   </channel>
-  <channel id="Florida Panthers vs. Carolina Hurricanes">
-    <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Kansas City Royals">
-    <display-name lang="en">Cincinnati Reds vs. Kansas City Royals</display-name>
-  </channel>
   <channel id="Colorado Rockies vs. Chicago Cubs">
     <display-name lang="en">Colorado Rockies vs. Chicago Cubs</display-name>
   </channel>
@@ -42,11 +30,26 @@
   <channel id="Washington Nationals vs. Seattle Mariners">
     <display-name lang="en">Washington Nationals vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
   <channel id="PDC: BetMGM Premier League - Play-Offs">
     <display-name lang="en">PDC: BetMGM Premier League - Play-Offs</display-name>
+  </channel>
+  <channel id="Edmonton Oilers vs. Dallas Stars">
+    <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Philadelphia Phillies">
+    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Philadelphia Phillies">
+    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Athletics vs. Toronto Blue Jays">
+    <display-name lang="en">Athletics vs. Toronto Blue Jays</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. Houston Astros">
+    <display-name lang="en">Tampa Bay Rays vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Washington Nationals vs. Seattle Mariners">
+    <display-name lang="en">Washington Nationals vs. Seattle Mariners</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -72,23 +75,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250528000000 -0500" channel="Fever at Mystics" stop="20250528235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250528000000 -0500" channel="Timberwolves at Thunder (Game 5)" stop="20250528235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="LA Galaxy vs SJ Earthquakes" stop="20250528235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -136,22 +123,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250528000000 -0500" channel="Florida Panthers vs. Carolina Hurricanes" stop="20250528235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="Cincinnati Reds vs. Kansas City Royals" stop="20250528235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250528000000 -0500" channel="Colorado Rockies vs. Chicago Cubs" stop="20250528235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -184,16 +155,56 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250528000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250528235959 -0500">
-    <title>Live</title>
+  <programme start="20250528000000 -0500" channel="PDC: BetMGM Premier League - Play-Offs" stop="20250528235959 -0500">
+    <title>01:00 PM 29/05/25 - PDC: BetMGM Premier League - Play-Offs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250528000000 -0500" channel="PDC: BetMGM Premier League - Play-Offs" stop="20250528235959 -0500">
-    <title>01:00 PM 29/05/25 - PDC: BetMGM Premier League - Play-Offs</title>
+  <programme start="20250528000000 -0500" channel="Edmonton Oilers vs. Dallas Stars" stop="20250528235959 -0500">
+    <title>07:00 PM 29/05/25 - Edmonton Oilers vs. Dallas Stars</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250528235959 -0500">
+    <title>12:05 PM 29/05/25 - Atlanta Braves vs. Philadelphia Phillies</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250528235959 -0500">
+    <title>05:45 PM 29/05/25 - Atlanta Braves vs. Philadelphia Phillies</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="Athletics vs. Toronto Blue Jays" stop="20250528235959 -0500">
+    <title>06:07 PM 29/05/25 - Athletics vs. Toronto Blue Jays</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="Tampa Bay Rays vs. Houston Astros" stop="20250528235959 -0500">
+    <title>07:10 PM 29/05/25 - Tampa Bay Rays vs. Houston Astros</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="Washington Nationals vs. Seattle Mariners" stop="20250528235959 -0500">
+    <title>08:40 PM 29/05/25 - Washington Nationals vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
