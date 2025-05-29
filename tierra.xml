@@ -3,8 +3,11 @@
   <channel id="PDC: BetMGM Premier League - Play-Offs">
     <display-name lang="en">PDC: BetMGM Premier League - Play-Offs</display-name>
   </channel>
-  <channel id="Reims vs Metz">
-    <display-name lang="en">Reims vs Metz</display-name>
+  <channel id="Pe&#241;arol vs V&#233;lez Sarsfield">
+    <display-name lang="en">Pe&#241;arol vs V&#233;lez Sarsfield</display-name>
+  </channel>
+  <channel id="Olimpia vs San Antonio Bulo Bulo">
+    <display-name lang="en">Olimpia vs San Antonio Bulo Bulo</display-name>
   </channel>
   <channel id="Valkyries at Liberty">
     <display-name lang="en">Valkyries at Liberty</display-name>
@@ -17,12 +20,6 @@
   </channel>
   <channel id="PDC: 2025 European Darts Open Day One">
     <display-name lang="en">PDC: 2025 European Darts Open Day One</display-name>
-  </channel>
-  <channel id="Pe&#241;arol vs V&#233;lez Sarsfield">
-    <display-name lang="en">Pe&#241;arol vs V&#233;lez Sarsfield</display-name>
-  </channel>
-  <channel id="Olimpia vs San Antonio Bulo Bulo">
-    <display-name lang="en">Olimpia vs San Antonio Bulo Bulo</display-name>
   </channel>
   <channel id="Racing Club vs Fortaleza">
     <display-name lang="en">Racing Club vs Fortaleza</display-name>
@@ -77,7 +74,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250529000000 -0500" channel="Reims vs Metz" stop="20250529235959 -0500">
+  <programme start="20250529000000 -0500" channel="Pe&#241;arol vs V&#233;lez Sarsfield" stop="20250529235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250529000000 -0500" channel="Olimpia vs San Antonio Bulo Bulo" stop="20250529235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -111,22 +116,6 @@
   </programme>
   <programme start="20250529000000 -0500" channel="PDC: 2025 European Darts Open Day One" stop="20250529235959 -0500">
     <title>06:00 AM 30/05/25 - PDC: 2025 European Darts Open Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250529000000 -0500" channel="Pe&#241;arol vs V&#233;lez Sarsfield" stop="20250529235959 -0500">
-    <title>05:00 PM 29/05/25 - Pe&#241;arol vs V&#233;lez Sarsfield</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250529000000 -0500" channel="Olimpia vs San Antonio Bulo Bulo" stop="20250529235959 -0500">
-    <title>05:00 PM 29/05/25 - Olimpia vs San Antonio Bulo Bulo</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
