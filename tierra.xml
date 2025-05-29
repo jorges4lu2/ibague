@@ -3,35 +3,11 @@
   <channel id="Fever at Mystics">
     <display-name lang="en">Fever at Mystics</display-name>
   </channel>
-  <channel id="Internacional vs Bahia">
-    <display-name lang="en">Internacional vs Bahia</display-name>
-  </channel>
-  <channel id="Nacional vs Atl&#233;tico Nacional">
-    <display-name lang="en">Nacional vs Atl&#233;tico Nacional</display-name>
-  </channel>
-  <channel id="LA Galaxy vs SJ Earthquakes">
-    <display-name lang="en">LA Galaxy vs SJ Earthquakes</display-name>
-  </channel>
-  <channel id="Florida Panthers vs. Carolina Hurricanes">
-    <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Baltimore Orioles">
-    <display-name lang="en">St. Louis Cardinals vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Philadelphia Phillies">
-    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Kansas City Royals">
-    <display-name lang="en">Cincinnati Reds vs. Kansas City Royals</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
   <channel id="Timberwolves at Thunder (Game 5)">
     <display-name lang="en">Timberwolves at Thunder (Game 5)</display-name>
   </channel>
-  <channel id="PDC: BetMGM Premier League - Play-Offs">
-    <display-name lang="en">PDC: BetMGM Premier League - Play-Offs</display-name>
+  <channel id="LA Galaxy vs SJ Earthquakes">
+    <display-name lang="en">LA Galaxy vs SJ Earthquakes</display-name>
   </channel>
   <channel id="Palmeiras vs Sporting Cristal">
     <display-name lang="en">Palmeiras vs Sporting Cristal</display-name>
@@ -45,14 +21,32 @@
   <channel id="Bol&#237;var vs Cerro Porte&#241;o">
     <display-name lang="en">Bol&#237;var vs Cerro Porte&#241;o</display-name>
   </channel>
-  <channel id="Columbus Crew vs Nashville SC">
-    <display-name lang="en">Columbus Crew vs Nashville SC</display-name>
+  <channel id="Florida Panthers vs. Carolina Hurricanes">
+    <display-name lang="en">Florida Panthers vs. Carolina Hurricanes</display-name>
+  </channel>
+  <channel id="St. Louis Cardinals vs. Baltimore Orioles">
+    <display-name lang="en">St. Louis Cardinals vs. Baltimore Orioles</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Philadelphia Phillies">
+    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Cincinnati Reds vs. Kansas City Royals">
+    <display-name lang="en">Cincinnati Reds vs. Kansas City Royals</display-name>
   </channel>
   <channel id="Colorado Rockies vs. Chicago Cubs">
     <display-name lang="en">Colorado Rockies vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Toronto Blue Jays vs. Texas Rangers">
     <display-name lang="en">Toronto Blue Jays vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
+  </channel>
+  <channel id="PDC: BetMGM Premier League - Play-Offs">
+    <display-name lang="en">PDC: BetMGM Premier League - Play-Offs</display-name>
+  </channel>
+  <channel id="Columbus Crew vs Nashville SC">
+    <display-name lang="en">Columbus Crew vs Nashville SC</display-name>
   </channel>
   <channel id="New York Yankees vs. Los Angeles Angels">
     <display-name lang="en">New York Yankees vs. Los Angeles Angels</display-name>
@@ -92,15 +86,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250528000000 -0500" channel="Internacional vs Bahia" stop="20250528235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="Nacional vs Atl&#233;tico Nacional" stop="20250528235959 -0500">
+  <programme start="20250528000000 -0500" channel="Timberwolves at Thunder (Game 5)" stop="20250528235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -109,6 +95,38 @@
     </audio>
   </programme>
   <programme start="20250528000000 -0500" channel="LA Galaxy vs SJ Earthquakes" stop="20250528235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="Palmeiras vs Sporting Cristal" stop="20250528235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="LDU Quito vs Central C&#243;rdoba SdE" stop="20250528235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="Flamengo vs Deportivo T&#225;chira" stop="20250528235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="Bol&#237;var vs Cerro Porte&#241;o" stop="20250528235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -148,7 +166,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250528000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250528235959 -0500">
+  <programme start="20250528000000 -0500" channel="Colorado Rockies vs. Chicago Cubs" stop="20250528235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -156,8 +174,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250528000000 -0500" channel="Timberwolves at Thunder (Game 5)" stop="20250528235959 -0500">
-    <title>07:30 PM 28/05/25 - Timberwolves at Thunder (Game 5)</title>
+  <programme start="20250528000000 -0500" channel="Toronto Blue Jays vs. Texas Rangers" stop="20250528235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250528000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250528235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -172,56 +198,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250528000000 -0500" channel="Palmeiras vs Sporting Cristal" stop="20250528235959 -0500">
-    <title>07:30 PM 28/05/25 - Palmeiras vs Sporting Cristal</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="LDU Quito vs Central C&#243;rdoba SdE" stop="20250528235959 -0500">
-    <title>07:30 PM 28/05/25 - LDU Quito vs Central C&#243;rdoba SdE</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="Flamengo vs Deportivo T&#225;chira" stop="20250528235959 -0500">
-    <title>07:30 PM 28/05/25 - Flamengo vs Deportivo T&#225;chira</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="Bol&#237;var vs Cerro Porte&#241;o" stop="20250528235959 -0500">
-    <title>07:30 PM 28/05/25 - Bol&#237;var vs Cerro Porte&#241;o</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250528000000 -0500" channel="Columbus Crew vs Nashville SC" stop="20250528235959 -0500">
     <title>09:00 PM 28/05/25 - Columbus Crew vs Nashville SC</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="Colorado Rockies vs. Chicago Cubs" stop="20250528235959 -0500">
-    <title>07:05 PM 28/05/25 - Colorado Rockies vs. Chicago Cubs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250528000000 -0500" channel="Toronto Blue Jays vs. Texas Rangers" stop="20250528235959 -0500">
-    <title>07:05 PM 28/05/25 - Toronto Blue Jays vs. Texas Rangers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
