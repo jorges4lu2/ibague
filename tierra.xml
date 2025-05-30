@@ -3,11 +3,14 @@
   <channel id="PDC: 2025 European Darts Open Day One">
     <display-name lang="en">PDC: 2025 European Darts Open Day One</display-name>
   </channel>
-  <channel id="PDC: 2025 European Darts Open Day Two">
-    <display-name lang="en">PDC: 2025 European Darts Open Day Two</display-name>
-  </channel>
   <channel id="Hong Kong vs Manchester United">
     <display-name lang="en">Hong Kong vs Manchester United</display-name>
+  </channel>
+  <channel id="F1: Spanish Grand Prix (Practice 1)">
+    <display-name lang="en">F1: Spanish Grand Prix (Practice 1)</display-name>
+  </channel>
+  <channel id="PDC: 2025 European Darts Open Day Two">
+    <display-name lang="en">PDC: 2025 European Darts Open Day Two</display-name>
   </channel>
   <channel id="Club WC Play In: Los Angeles FC vs Am&#233;rica">
     <display-name lang="en">Club WC Play In: Los Angeles FC vs Am&#233;rica</display-name>
@@ -60,9 +63,6 @@
   <channel id="New York Yankees vs. Los Angeles Dodgers">
     <display-name lang="en">New York Yankees vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="F1: Spanish Grand Prix (Practice 1)">
-    <display-name lang="en">F1: Spanish Grand Prix (Practice 1)</display-name>
-  </channel>
   <channel id="F1: Spanish Grand Prix (Practice 2)">
     <display-name lang="en">F1: Spanish Grand Prix (Practice 2)</display-name>
   </channel>
@@ -104,16 +104,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250530000000 -0500" channel="PDC: 2025 European Darts Open Day Two" stop="20250530235959 -0500">
-    <title>06:00 AM 31/05/25 - PDC: 2025 European Darts Open Day Two</title>
+  <programme start="20250530000000 -0500" channel="Hong Kong vs Manchester United" stop="20250530235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250530000000 -0500" channel="Hong Kong vs Manchester United" stop="20250530235959 -0500">
-    <title>07:00 AM 30/05/25 - Hong Kong vs Manchester United</title>
+  <programme start="20250530000000 -0500" channel="F1: Spanish Grand Prix (Practice 1)" stop="20250530235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250530000000 -0500" channel="PDC: 2025 European Darts Open Day Two" stop="20250530235959 -0500">
+    <title>06:00 AM 31/05/25 - PDC: 2025 European Darts Open Day Two</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -250,14 +258,6 @@
   </programme>
   <programme start="20250530000000 -0500" channel="New York Yankees vs. Los Angeles Dodgers" stop="20250530235959 -0500">
     <title>09:10 PM 30/05/25 - New York Yankees vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250530000000 -0500" channel="F1: Spanish Grand Prix (Practice 1)" stop="20250530235959 -0500">
-    <title>06:30 AM 30/05/25 - F1: Spanish Grand Prix (Practice 1)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
