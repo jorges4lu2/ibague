@@ -3,6 +3,9 @@
   <channel id="PDC: 2025 European Darts Open Day One">
     <display-name lang="en">PDC: 2025 European Darts Open Day One</display-name>
   </channel>
+  <channel id="Cincinnati Reds vs. Chicago Cubs">
+    <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Sun at Fever">
     <display-name lang="en">Sun at Fever</display-name>
   </channel>
@@ -26,9 +29,6 @@
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Chicago Cubs">
-    <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Philadelphia Phillies">
     <display-name lang="en">Milwaukee Brewers vs. Philadelphia Phillies</display-name>
@@ -110,6 +110,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250530000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250530235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250530000000 -0500" channel="Sun at Fever" stop="20250530235959 -0500">
     <title>06:30 PM 30/05/25 - Sun at Fever</title>
     <date>2025</date>
@@ -168,14 +176,6 @@
   </programme>
   <programme start="20250530000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250530235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250530000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250530235959 -0500">
-    <title>01:20 PM 30/05/25 - Cincinnati Reds vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
