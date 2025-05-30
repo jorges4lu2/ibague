@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250529 -0500">
-  <channel id="Valkyries at Liberty">
-    <display-name lang="en">Valkyries at Liberty</display-name>
-  </channel>
   <channel id="Wings at Sky">
     <display-name lang="en">Wings at Sky</display-name>
   </channel>
@@ -18,23 +15,20 @@
   <channel id="Edmonton Oilers vs. Dallas Stars">
     <display-name lang="en">Edmonton Oilers vs. Dallas Stars</display-name>
   </channel>
-  <channel id="Atlanta Braves vs. Philadelphia Phillies">
-    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
-  </channel>
   <channel id="Athletics vs. Toronto Blue Jays">
     <display-name lang="en">Athletics vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Tampa Bay Rays vs. Houston Astros">
     <display-name lang="en">Tampa Bay Rays vs. Houston Astros</display-name>
   </channel>
+  <channel id="Washington Nationals vs. Seattle Mariners">
+    <display-name lang="en">Washington Nationals vs. Seattle Mariners</display-name>
+  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="PDC: 2025 European Darts Open Day One">
     <display-name lang="en">PDC: 2025 European Darts Open Day One</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Seattle Mariners">
-    <display-name lang="en">Washington Nationals vs. Seattle Mariners</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -57,14 +51,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250529000000 -0500" channel="Valkyries at Liberty" stop="20250529235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250529000000 -0500" channel="Wings at Sky" stop="20250529235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -105,14 +91,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250529000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250529235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250529000000 -0500" channel="Athletics vs. Toronto Blue Jays" stop="20250529235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -122,6 +100,14 @@
     </audio>
   </programme>
   <programme start="20250529000000 -0500" channel="Tampa Bay Rays vs. Houston Astros" stop="20250529235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250529000000 -0500" channel="Washington Nationals vs. Seattle Mariners" stop="20250529235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -139,14 +125,6 @@
   </programme>
   <programme start="20250529000000 -0500" channel="PDC: 2025 European Darts Open Day One" stop="20250529235959 -0500">
     <title>06:00 AM 30/05/25 - PDC: 2025 European Darts Open Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250529000000 -0500" channel="Washington Nationals vs. Seattle Mariners" stop="20250529235959 -0500">
-    <title>08:40 PM 29/05/25 - Washington Nationals vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
