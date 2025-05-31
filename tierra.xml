@@ -27,6 +27,15 @@
   <channel id="Boston Red Sox vs. Atlanta Braves">
     <display-name lang="en">Boston Red Sox vs. Atlanta Braves</display-name>
   </channel>
+  <channel id="St. Louis Cardinals vs. Texas Rangers">
+    <display-name lang="en">St. Louis Cardinals vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Detroit Tigers vs. Kansas City Royals">
+    <display-name lang="en">Detroit Tigers vs. Kansas City Royals</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. Houston Astros">
+    <display-name lang="en">Tampa Bay Rays vs. Houston Astros</display-name>
+  </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
@@ -47,15 +56,6 @@
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Texas Rangers">
-    <display-name lang="en">St. Louis Cardinals vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Kansas City Royals">
-    <display-name lang="en">Detroit Tigers vs. Kansas City Royals</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Houston Astros">
-    <display-name lang="en">Tampa Bay Rays vs. Houston Astros</display-name>
   </channel>
   <channel id="Pittsburgh Pirates vs. San Diego Padres">
     <display-name lang="en">Pittsburgh Pirates vs. San Diego Padres</display-name>
@@ -168,6 +168,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250530000000 -0500" channel="St. Louis Cardinals vs. Texas Rangers" stop="20250530235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250530000000 -0500" channel="Detroit Tigers vs. Kansas City Royals" stop="20250530235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250530000000 -0500" channel="Tampa Bay Rays vs. Houston Astros" stop="20250530235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250530000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250530235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -218,30 +242,6 @@
   </programme>
   <programme start="20250530000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250530235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250530000000 -0500" channel="St. Louis Cardinals vs. Texas Rangers" stop="20250530235959 -0500">
-    <title>07:05 PM 30/05/25 - St. Louis Cardinals vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250530000000 -0500" channel="Detroit Tigers vs. Kansas City Royals" stop="20250530235959 -0500">
-    <title>07:10 PM 30/05/25 - Detroit Tigers vs. Kansas City Royals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250530000000 -0500" channel="Tampa Bay Rays vs. Houston Astros" stop="20250530235959 -0500">
-    <title>07:10 PM 30/05/25 - Tampa Bay Rays vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
