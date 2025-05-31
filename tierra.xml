@@ -12,11 +12,20 @@
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
   </channel>
+  <channel id="MXGP of Germany: Day 1">
+    <display-name lang="en">MXGP of Germany: Day 1</display-name>
+  </channel>
   <channel id="F1: Spanish Grand Prix (Practice 3)">
     <display-name lang="en">F1: Spanish Grand Prix (Practice 3)</display-name>
   </channel>
   <channel id="F1: Spanish Grand Prix (Qualifying)">
     <display-name lang="en">F1: Spanish Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="Pro Motocross: Race Day Live: Hangtown">
+    <display-name lang="en">Pro Motocross: Race Day Live: Hangtown</display-name>
+  </channel>
+  <channel id="Pro Motocross: Hangtown">
+    <display-name lang="en">Pro Motocross: Hangtown</display-name>
   </channel>
   <channel id="F1: Spanish Grand Prix (Race)">
     <display-name lang="en">F1: Spanish Grand Prix (Race)</display-name>
@@ -71,6 +80,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250531000000 -0500" channel="MXGP of Germany: Day 1" stop="20250531235959 -0500">
+    <title>05:00 AM 31/05/25 - MXGP of Germany: Day 1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250531000000 -0500" channel="F1: Spanish Grand Prix (Practice 3)" stop="20250531235959 -0500">
     <title>05:30 AM 31/05/25 - F1: Spanish Grand Prix (Practice 3)</title>
     <date>2025</date>
@@ -81,6 +98,22 @@
   </programme>
   <programme start="20250531000000 -0500" channel="F1: Spanish Grand Prix (Qualifying)" stop="20250531235959 -0500">
     <title>09:00 AM 31/05/25 - F1: Spanish Grand Prix (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250531000000 -0500" channel="Pro Motocross: Race Day Live: Hangtown" stop="20250531235959 -0500">
+    <title>12:00 PM 31/05/25 - Pro Motocross: Race Day Live: Hangtown</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250531000000 -0500" channel="Pro Motocross: Hangtown" stop="20250531235959 -0500">
+    <title>03:00 PM 31/05/25 - Pro Motocross: Hangtown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
