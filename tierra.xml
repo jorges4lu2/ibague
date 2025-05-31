@@ -3,6 +3,12 @@
   <channel id="PDC: 2025 European Darts Open Day Two">
     <display-name lang="en">PDC: 2025 European Darts Open Day Two</display-name>
   </channel>
+  <channel id="UCL: PSG vs Inter Milan">
+    <display-name lang="en">UCL: PSG vs Inter Milan</display-name>
+  </channel>
+  <channel id="Cincinnati Reds vs. Chicago Cubs">
+    <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="MXGP of Germany: Day 1">
     <display-name lang="en">MXGP of Germany: Day 1</display-name>
   </channel>
@@ -18,17 +24,11 @@
   <channel id="PDC: 2025 European Darts Open Day Three">
     <display-name lang="en">PDC: 2025 European Darts Open Day Three</display-name>
   </channel>
-  <channel id="UCL: PSG vs Inter Milan">
-    <display-name lang="en">UCL: PSG vs Inter Milan</display-name>
-  </channel>
   <channel id="Club WC Play In: Los Angeles FC vs Am&#233;rica">
     <display-name lang="en">Club WC Play In: Los Angeles FC vs Am&#233;rica</display-name>
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Chicago Cubs">
-    <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Athletics vs. Toronto Blue Jays">
     <display-name lang="en">Athletics vs. Toronto Blue Jays</display-name>
@@ -104,6 +104,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250531000000 -0500" channel="UCL: PSG vs Inter Milan" stop="20250531235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250531000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250531235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250531000000 -0500" channel="MXGP of Germany: Day 1" stop="20250531235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -144,14 +160,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250531000000 -0500" channel="UCL: PSG vs Inter Milan" stop="20250531235959 -0500">
-    <title>02:00 PM 31/05/25 - UCL: PSG vs Inter Milan</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250531000000 -0500" channel="Club WC Play In: Los Angeles FC vs Am&#233;rica" stop="20250531235959 -0500">
     <title>09:30 PM 31/05/25 - Club WC Play In: Los Angeles FC vs Am&#233;rica</title>
     <date>2025</date>
@@ -162,14 +170,6 @@
   </programme>
   <programme start="20250531000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250531235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250531000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250531235959 -0500">
-    <title>01:20 PM 31/05/25 - Cincinnati Reds vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
