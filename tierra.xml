@@ -6,14 +6,14 @@
   <channel id="MXGP of Germany: Day 1">
     <display-name lang="en">MXGP of Germany: Day 1</display-name>
   </channel>
-  <channel id="Pro Motocross: Race Day Live: Hangtown">
-    <display-name lang="en">Pro Motocross: Race Day Live: Hangtown</display-name>
-  </channel>
   <channel id="Sky at Wings">
     <display-name lang="en">Sky at Wings</display-name>
   </channel>
   <channel id="Knicks at Pacers (Game 6)">
     <display-name lang="en">Knicks at Pacers (Game 6)</display-name>
+  </channel>
+  <channel id="UFC on ESPN: Blanchfield vs. Barber">
+    <display-name lang="en">UFC on ESPN: Blanchfield vs. Barber</display-name>
   </channel>
   <channel id="PDC: 2025 European Darts Open Day Three">
     <display-name lang="en">PDC: 2025 European Darts Open Day Three</display-name>
@@ -112,14 +112,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250531000000 -0500" channel="Pro Motocross: Race Day Live: Hangtown" stop="20250531235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250531000000 -0500" channel="Sky at Wings" stop="20250531235959 -0500">
     <title>07:00 PM 31/05/25 - Sky at Wings</title>
     <date>2025</date>
@@ -130,6 +122,14 @@
   </programme>
   <programme start="20250531000000 -0500" channel="Knicks at Pacers (Game 6)" stop="20250531235959 -0500">
     <title>07:00 PM 31/05/25 - Knicks at Pacers (Game 6)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250531000000 -0500" channel="UFC on ESPN: Blanchfield vs. Barber" stop="20250531235959 -0500">
+    <title>05:30 PM 31/05/25 - UFC on ESPN: Blanchfield vs. Barber</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
