@@ -9,8 +9,14 @@
   <channel id="Cincinnati Reds vs. Chicago Cubs">
     <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
   </channel>
+  <channel id="Athletics vs. Toronto Blue Jays">
+    <display-name lang="en">Athletics vs. Toronto Blue Jays</display-name>
+  </channel>
   <channel id="MXGP of Germany: Day 1">
     <display-name lang="en">MXGP of Germany: Day 1</display-name>
+  </channel>
+  <channel id="Pro Motocross: Hangtown">
+    <display-name lang="en">Pro Motocross: Hangtown</display-name>
   </channel>
   <channel id="Sky at Wings">
     <display-name lang="en">Sky at Wings</display-name>
@@ -29,9 +35,6 @@
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Athletics vs. Toronto Blue Jays">
-    <display-name lang="en">Athletics vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Baltimore Orioles">
     <display-name lang="en">Chicago White Sox vs. Baltimore Orioles</display-name>
@@ -71,9 +74,6 @@
   </channel>
   <channel id="Washington Nationals vs. Arizona Diamondbacks">
     <display-name lang="en">Washington Nationals vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Pro Motocross: Hangtown">
-    <display-name lang="en">Pro Motocross: Hangtown</display-name>
   </channel>
   <channel id="F1: Spanish Grand Prix (Race)">
     <display-name lang="en">F1: Spanish Grand Prix (Race)</display-name>
@@ -120,7 +120,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250531000000 -0500" channel="Athletics vs. Toronto Blue Jays" stop="20250531235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250531000000 -0500" channel="MXGP of Germany: Day 1" stop="20250531235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250531000000 -0500" channel="Pro Motocross: Hangtown" stop="20250531235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -170,14 +186,6 @@
   </programme>
   <programme start="20250531000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250531235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250531000000 -0500" channel="Athletics vs. Toronto Blue Jays" stop="20250531235959 -0500">
-    <title>02:07 PM 31/05/25 - Athletics vs. Toronto Blue Jays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -282,14 +290,6 @@
   </programme>
   <programme start="20250531000000 -0500" channel="Washington Nationals vs. Arizona Diamondbacks" stop="20250531235959 -0500">
     <title>09:10 PM 31/05/25 - Washington Nationals vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250531000000 -0500" channel="Pro Motocross: Hangtown" stop="20250531235959 -0500">
-    <title>03:00 PM 31/05/25 - Pro Motocross: Hangtown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
