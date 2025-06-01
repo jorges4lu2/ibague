@@ -3,6 +3,9 @@
   <channel id="PDC: 2025 European Darts Open Day Three">
     <display-name lang="en">PDC: 2025 European Darts Open Day Three</display-name>
   </channel>
+  <channel id="F1: Spanish Grand Prix (Race)">
+    <display-name lang="en">F1: Spanish Grand Prix (Race)</display-name>
+  </channel>
   <channel id="UEFA Nations League: Germany vs Portugal">
     <display-name lang="en">UEFA Nations League: Germany vs Portugal</display-name>
   </channel>
@@ -11,9 +14,6 @@
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="F1: Spanish Grand Prix (Race)">
-    <display-name lang="en">F1: Spanish Grand Prix (Race)</display-name>
   </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
@@ -31,6 +31,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250601000000 -0500" channel="PDC: 2025 European Darts Open Day Three" stop="20250601235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250601000000 -0500" channel="F1: Spanish Grand Prix (Race)" stop="20250601235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -56,14 +64,6 @@
   </programme>
   <programme start="20250601000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250601235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="F1: Spanish Grand Prix (Race)" stop="20250601235959 -0500">
-    <title>08:00 AM 01/06/25 - F1: Spanish Grand Prix (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
