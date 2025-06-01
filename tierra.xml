@@ -6,6 +6,9 @@
   <channel id="F1: Spanish Grand Prix (Race)">
     <display-name lang="en">F1: Spanish Grand Prix (Race)</display-name>
   </channel>
+  <channel id="Sun at Liberty">
+    <display-name lang="en">Sun at Liberty</display-name>
+  </channel>
   <channel id="UEFA Nations League: Germany vs Portugal">
     <display-name lang="en">UEFA Nations League: Germany vs Portugal</display-name>
   </channel>
@@ -40,6 +43,14 @@
   </programme>
   <programme start="20250601000000 -0500" channel="F1: Spanish Grand Prix (Race)" stop="20250601235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250601000000 -0500" channel="Sun at Liberty" stop="20250601235959 -0500">
+    <title>02:00 PM 01/06/25 - Sun at Liberty</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
