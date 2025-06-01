@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250601 -0500">
+  <channel id="Sun at Liberty">
+    <display-name lang="en">Sun at Liberty</display-name>
+  </channel>
   <channel id="PDC: 2025 European Darts Open Day Three">
     <display-name lang="en">PDC: 2025 European Darts Open Day Three</display-name>
   </channel>
@@ -30,11 +33,17 @@
   <channel id="San Francisco Giants vs. Miami Marlins">
     <display-name lang="en">San Francisco Giants vs. Miami Marlins</display-name>
   </channel>
+  <channel id="Detroit Tigers vs. Kansas City Royals">
+    <display-name lang="en">Detroit Tigers vs. Kansas City Royals</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. Houston Astros">
+    <display-name lang="en">Tampa Bay Rays vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Cincinnati Reds vs. Chicago Cubs">
+    <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Chevrolet Detroit Grand Prix">
     <display-name lang="en">Chevrolet Detroit Grand Prix</display-name>
-  </channel>
-  <channel id="Sun at Liberty">
-    <display-name lang="en">Sun at Liberty</display-name>
   </channel>
   <channel id="Mercury at Sparks">
     <display-name lang="en">Mercury at Sparks</display-name>
@@ -56,15 +65,6 @@
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Kansas City Royals">
-    <display-name lang="en">Detroit Tigers vs. Kansas City Royals</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Houston Astros">
-    <display-name lang="en">Tampa Bay Rays vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Chicago Cubs">
-    <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Seattle Mariners">
     <display-name lang="en">Minnesota Twins vs. Seattle Mariners</display-name>
@@ -93,6 +93,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250601000000 -0500" channel="Sun at Liberty" stop="20250601235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250601000000 -0500" channel="PDC: 2025 European Darts Open Day Three" stop="20250601235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -173,7 +181,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250601000000 -0500" channel="Chevrolet Detroit Grand Prix" stop="20250601235959 -0500">
+  <programme start="20250601000000 -0500" channel="Detroit Tigers vs. Kansas City Royals" stop="20250601235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -181,8 +189,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250601000000 -0500" channel="Sun at Liberty" stop="20250601235959 -0500">
-    <title>02:00 PM 01/06/25 - Sun at Liberty</title>
+  <programme start="20250601000000 -0500" channel="Tampa Bay Rays vs. Houston Astros" stop="20250601235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250601000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250601235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250601000000 -0500" channel="Chevrolet Detroit Grand Prix" stop="20250601235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -239,30 +263,6 @@
   </programme>
   <programme start="20250601000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250601235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Detroit Tigers vs. Kansas City Royals" stop="20250601235959 -0500">
-    <title>01:10 PM 01/06/25 - Detroit Tigers vs. Kansas City Royals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Tampa Bay Rays vs. Houston Astros" stop="20250601235959 -0500">
-    <title>01:10 PM 01/06/25 - Tampa Bay Rays vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250601235959 -0500">
-    <title>01:20 PM 01/06/25 - Cincinnati Reds vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
