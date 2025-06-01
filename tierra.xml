@@ -1,37 +1,31 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250531 -0500">
-  <channel id="Sky at Wings">
-    <display-name lang="en">Sky at Wings</display-name>
-  </channel>
-  <channel id="Knicks at Pacers (Game 6)">
-    <display-name lang="en">Knicks at Pacers (Game 6)</display-name>
-  </channel>
   <channel id="UFC on ESPN: Blanchfield vs. Barber">
     <display-name lang="en">UFC on ESPN: Blanchfield vs. Barber</display-name>
   </channel>
   <channel id="Plant vs. Resendiz &amp;amp; Charlo vs. LaManna">
     <display-name lang="en">Plant vs. Resendiz &amp;amp; Charlo vs. LaManna</display-name>
   </channel>
-  <channel id="Minnesota Twins vs. Seattle Mariners">
-    <display-name lang="en">Minnesota Twins vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="New York Yankees vs. Los Angeles Dodgers">
-    <display-name lang="en">New York Yankees vs. Los Angeles Dodgers</display-name>
+  <channel id="Club WC Play In: Los Angeles FC vs Am&#233;rica">
+    <display-name lang="en">Club WC Play In: Los Angeles FC vs Am&#233;rica</display-name>
   </channel>
   <channel id="Pittsburgh Pirates vs. San Diego Padres">
     <display-name lang="en">Pittsburgh Pirates vs. San Diego Padres</display-name>
   </channel>
+  <channel id="Washington Nationals vs. Arizona Diamondbacks">
+    <display-name lang="en">Washington Nationals vs. Arizona Diamondbacks</display-name>
+  </channel>
   <channel id="PDC: 2025 European Darts Open Day Three">
     <display-name lang="en">PDC: 2025 European Darts Open Day Three</display-name>
   </channel>
-  <channel id="Club WC Play In: Los Angeles FC vs Am&#233;rica">
-    <display-name lang="en">Club WC Play In: Los Angeles FC vs Am&#233;rica</display-name>
+  <channel id="UEFA Nations League: Germany vs Portugal">
+    <display-name lang="en">UEFA Nations League: Germany vs Portugal</display-name>
+  </channel>
+  <channel id="UEFA Nations League: Spain vs France">
+    <display-name lang="en">UEFA Nations League: Spain vs France</display-name>
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Arizona Diamondbacks">
-    <display-name lang="en">Washington Nationals vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="F1: Spanish Grand Prix (Race)">
     <display-name lang="en">F1: Spanish Grand Prix (Race)</display-name>
@@ -51,22 +45,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250531000000 -0500" channel="Sky at Wings" stop="20250531235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250531000000 -0500" channel="Knicks at Pacers (Game 6)" stop="20250531235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250531000000 -0500" channel="UFC on ESPN: Blanchfield vs. Barber" stop="20250531235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -83,15 +61,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250531000000 -0500" channel="Minnesota Twins vs. Seattle Mariners" stop="20250531235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250531000000 -0500" channel="New York Yankees vs. Los Angeles Dodgers" stop="20250531235959 -0500">
+  <programme start="20250531000000 -0500" channel="Club WC Play In: Los Angeles FC vs Am&#233;rica" stop="20250531235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -107,6 +77,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250531000000 -0500" channel="Washington Nationals vs. Arizona Diamondbacks" stop="20250531235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250531000000 -0500" channel="PDC: 2025 European Darts Open Day Three" stop="20250531235959 -0500">
     <title>06:00 AM 01/06/25 - PDC: 2025 European Darts Open Day Three</title>
     <date>2025</date>
@@ -115,8 +93,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250531000000 -0500" channel="Club WC Play In: Los Angeles FC vs Am&#233;rica" stop="20250531235959 -0500">
-    <title>09:30 PM 31/05/25 - Club WC Play In: Los Angeles FC vs Am&#233;rica</title>
+  <programme start="20250531000000 -0500" channel="UEFA Nations League: Germany vs Portugal" stop="20250531235959 -0500">
+    <title>02:00 PM 04/06/25 - UEFA Nations League: Germany vs Portugal</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250531000000 -0500" channel="UEFA Nations League: Spain vs France" stop="20250531235959 -0500">
+    <title>02:00 PM 05/06/25 - UEFA Nations League: Spain vs France</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -125,14 +111,6 @@
   </programme>
   <programme start="20250531000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250531235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250531000000 -0500" channel="Washington Nationals vs. Arizona Diamondbacks" stop="20250531235959 -0500">
-    <title>09:10 PM 31/05/25 - Washington Nationals vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
