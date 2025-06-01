@@ -3,11 +3,17 @@
   <channel id="PDC: 2025 European Darts Open Day Three">
     <display-name lang="en">PDC: 2025 European Darts Open Day Three</display-name>
   </channel>
-  <channel id="F1: Spanish Grand Prix (Race)">
-    <display-name lang="en">F1: Spanish Grand Prix (Race)</display-name>
-  </channel>
   <channel id="Sun at Liberty">
     <display-name lang="en">Sun at Liberty</display-name>
+  </channel>
+  <channel id="Mercury at Sparks">
+    <display-name lang="en">Mercury at Sparks</display-name>
+  </channel>
+  <channel id="Aces at Storm">
+    <display-name lang="en">Aces at Storm</display-name>
+  </channel>
+  <channel id="Lynx at Valkyries">
+    <display-name lang="en">Lynx at Valkyries</display-name>
   </channel>
   <channel id="UEFA Nations League: Germany vs Portugal">
     <display-name lang="en">UEFA Nations League: Germany vs Portugal</display-name>
@@ -41,16 +47,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250601000000 -0500" channel="F1: Spanish Grand Prix (Race)" stop="20250601235959 -0500">
-    <title>Live</title>
+  <programme start="20250601000000 -0500" channel="Sun at Liberty" stop="20250601235959 -0500">
+    <title>02:00 PM 01/06/25 - Sun at Liberty</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250601000000 -0500" channel="Sun at Liberty" stop="20250601235959 -0500">
-    <title>02:00 PM 01/06/25 - Sun at Liberty</title>
+  <programme start="20250601000000 -0500" channel="Mercury at Sparks" stop="20250601235959 -0500">
+    <title>05:00 PM 01/06/25 - Mercury at Sparks</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250601000000 -0500" channel="Aces at Storm" stop="20250601235959 -0500">
+    <title>05:00 PM 01/06/25 - Aces at Storm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250601000000 -0500" channel="Lynx at Valkyries" stop="20250601235959 -0500">
+    <title>07:30 PM 01/06/25 - Lynx at Valkyries</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
