@@ -6,30 +6,6 @@
   <channel id="PDC: 2025 European Darts Open Day Three">
     <display-name lang="en">PDC: 2025 European Darts Open Day Three</display-name>
   </channel>
-  <channel id="St. Louis Cardinals vs. Texas Rangers">
-    <display-name lang="en">St. Louis Cardinals vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Atlanta Braves">
-    <display-name lang="en">Boston Red Sox vs. Atlanta Braves</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Baltimore Orioles">
-    <display-name lang="en">Chicago White Sox vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Philadelphia Phillies">
-    <display-name lang="en">Milwaukee Brewers vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Athletics vs. Toronto Blue Jays">
-    <display-name lang="en">Athletics vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Cleveland Guardians">
-    <display-name lang="en">Los Angeles Angels vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. New York Mets">
-    <display-name lang="en">Colorado Rockies vs. New York Mets</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Miami Marlins">
-    <display-name lang="en">San Francisco Giants vs. Miami Marlins</display-name>
-  </channel>
   <channel id="Detroit Tigers vs. Kansas City Royals">
     <display-name lang="en">Detroit Tigers vs. Kansas City Royals</display-name>
   </channel>
@@ -38,6 +14,12 @@
   </channel>
   <channel id="Cincinnati Reds vs. Chicago Cubs">
     <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Minnesota Twins vs. Seattle Mariners">
+    <display-name lang="en">Minnesota Twins vs. Seattle Mariners</display-name>
+  </channel>
+  <channel id="Washington Nationals vs. Arizona Diamondbacks">
+    <display-name lang="en">Washington Nationals vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="Mercury at Sparks">
     <display-name lang="en">Mercury at Sparks</display-name>
@@ -59,12 +41,6 @@
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Seattle Mariners">
-    <display-name lang="en">Minnesota Twins vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Arizona Diamondbacks">
-    <display-name lang="en">Washington Nationals vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="Pittsburgh Pirates vs. San Diego Padres">
     <display-name lang="en">Pittsburgh Pirates vs. San Diego Padres</display-name>
@@ -103,70 +79,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250601000000 -0500" channel="St. Louis Cardinals vs. Texas Rangers" stop="20250601235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Boston Red Sox vs. Atlanta Braves" stop="20250601235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Chicago White Sox vs. Baltimore Orioles" stop="20250601235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Milwaukee Brewers vs. Philadelphia Phillies" stop="20250601235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Athletics vs. Toronto Blue Jays" stop="20250601235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Los Angeles Angels vs. Cleveland Guardians" stop="20250601235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Colorado Rockies vs. New York Mets" stop="20250601235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="San Francisco Giants vs. Miami Marlins" stop="20250601235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250601000000 -0500" channel="Detroit Tigers vs. Kansas City Royals" stop="20250601235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -184,6 +96,22 @@
     </audio>
   </programme>
   <programme start="20250601000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250601235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250601000000 -0500" channel="Minnesota Twins vs. Seattle Mariners" stop="20250601235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250601000000 -0500" channel="Washington Nationals vs. Arizona Diamondbacks" stop="20250601235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -241,22 +169,6 @@
   </programme>
   <programme start="20250601000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250601235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Minnesota Twins vs. Seattle Mariners" stop="20250601235959 -0500">
-    <title>03:10 PM 01/06/25 - Minnesota Twins vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Washington Nationals vs. Arizona Diamondbacks" stop="20250601235959 -0500">
-    <title>03:10 PM 01/06/25 - Washington Nationals vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
