@@ -15,23 +15,20 @@
   <channel id="Louisville vs. Wright State">
     <display-name lang="en">Louisville vs. Wright State</display-name>
   </channel>
-  <channel id="UCLA vs. TBD">
-    <display-name lang="en">UCLA vs. TBD</display-name>
+  <channel id="Arizona vs. Cal Poly">
+    <display-name lang="en">Arizona vs. Cal Poly</display-name>
+  </channel>
+  <channel id="Oregon State vs. USC">
+    <display-name lang="en">Oregon State vs. USC</display-name>
+  </channel>
+  <channel id="UCLA vs. UC Irvine">
+    <display-name lang="en">UCLA vs. UC Irvine</display-name>
   </channel>
   <channel id="Lynx at Valkyries">
     <display-name lang="en">Lynx at Valkyries</display-name>
   </channel>
   <channel id="Cruz Azul vs Vancouver Whitecaps">
     <display-name lang="en">Cruz Azul vs Vancouver Whitecaps</display-name>
-  </channel>
-  <channel id="Nashville Superspeedway">
-    <display-name lang="en">Nashville Superspeedway</display-name>
-  </channel>
-  <channel id="Arizona vs. TBD">
-    <display-name lang="en">Arizona vs. TBD</display-name>
-  </channel>
-  <channel id="TBD vs. USC">
-    <display-name lang="en">TBD vs. USC</display-name>
   </channel>
   <channel id="UEFA Nations League: Germany vs Portugal">
     <display-name lang="en">UEFA Nations League: Germany vs Portugal</display-name>
@@ -97,7 +94,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250601000000 -0500" channel="UCLA vs. TBD" stop="20250601235959 -0500">
+  <programme start="20250601000000 -0500" channel="Arizona vs. Cal Poly" stop="20250601235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250601000000 -0500" channel="Oregon State vs. USC" stop="20250601235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250601000000 -0500" channel="UCLA vs. UC Irvine" stop="20250601235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -115,30 +128,6 @@
   </programme>
   <programme start="20250601000000 -0500" channel="Cruz Azul vs Vancouver Whitecaps" stop="20250601235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Nashville Superspeedway" stop="20250601235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="Arizona vs. TBD" stop="20250601235959 -0500">
-    <title>09:30 PM 01/06/25 - Arizona vs. TBD</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250601000000 -0500" channel="TBD vs. USC" stop="20250601235959 -0500">
-    <title>09:30 PM 01/06/25 - TBD vs. USC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
