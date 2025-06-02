@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250602 -0500">
+  <channel id="Roland-Garros">
+    <display-name lang="en">Roland-Garros</display-name>
+  </channel>
+  <channel id="North Carolina vs. Oklahoma">
+    <display-name lang="en">North Carolina vs. Oklahoma</display-name>
+  </channel>
+  <channel id="USC vs. Oregon State">
+    <display-name lang="en">USC vs. Oregon State</display-name>
+  </channel>
+  <channel id="Murray State vs. Ole Miss">
+    <display-name lang="en">Murray State vs. Ole Miss</display-name>
+  </channel>
+  <channel id="Wake Forest vs. Tennessee">
+    <display-name lang="en">Wake Forest vs. Tennessee</display-name>
+  </channel>
   <channel id="Colorado Rockies vs. Miami Marlins">
     <display-name lang="en">Colorado Rockies vs. Miami Marlins</display-name>
   </channel>
@@ -11,6 +26,12 @@
   </channel>
   <channel id="Detroit Tigers vs. Chicago White Sox">
     <display-name lang="en">Detroit Tigers vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="LSU vs. Arkansas Little Rock">
+    <display-name lang="en">LSU vs. Arkansas Little Rock</display-name>
+  </channel>
+  <channel id="Miami vs. Southern Miss">
+    <display-name lang="en">Miami vs. Southern Miss</display-name>
   </channel>
   <channel id="San Diego Padres vs. San Francisco Giants">
     <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
@@ -45,6 +66,46 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250602000000 -0500" channel="Roland-Garros" stop="20250602235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="North Carolina vs. Oklahoma" stop="20250602235959 -0500">
+    <title>02:00 PM 02/06/25 - North Carolina vs. Oklahoma</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="USC vs. Oregon State" stop="20250602235959 -0500">
+    <title>05:00 PM 02/06/25 - USC vs. Oregon State</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="Murray State vs. Ole Miss" stop="20250602235959 -0500">
+    <title>05:00 PM 02/06/25 - Murray State vs. Ole Miss</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="Wake Forest vs. Tennessee" stop="20250602235959 -0500">
+    <title>05:00 PM 02/06/25 - Wake Forest vs. Tennessee</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250602000000 -0500" channel="Colorado Rockies vs. Miami Marlins" stop="20250602235959 -0500">
     <title>05:40 PM 02/06/25 - Colorado Rockies vs. Miami Marlins</title>
     <date>2025</date>
@@ -71,6 +132,22 @@
   </programme>
   <programme start="20250602000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250602235959 -0500">
     <title>06:40 PM 02/06/25 - Detroit Tigers vs. Chicago White Sox</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="LSU vs. Arkansas Little Rock" stop="20250602235959 -0500">
+    <title>08:00 PM 02/06/25 - LSU vs. Arkansas Little Rock</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="Miami vs. Southern Miss" stop="20250602235959 -0500">
+    <title>08:00 PM 02/06/25 - Miami vs. Southern Miss</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
