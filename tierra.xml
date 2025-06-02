@@ -3,9 +3,6 @@
   <channel id="North Carolina vs. Oklahoma">
     <display-name lang="en">North Carolina vs. Oklahoma</display-name>
   </channel>
-  <channel id="Roland-Garros">
-    <display-name lang="en">Roland-Garros</display-name>
-  </channel>
   <channel id="USC vs. Oregon State">
     <display-name lang="en">USC vs. Oregon State</display-name>
   </channel>
@@ -51,6 +48,24 @@
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
   </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
+  </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <channel id="AEW: Saturday Night Collision">
+    <display-name lang="en">AEW: Saturday Night Collision</display-name>
+  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -74,7 +89,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="Roland-Garros" stop="20250602235959 -0500">
+  <programme start="20250602000000 -0500" channel="USC vs. Oregon State" stop="20250602235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -82,16 +97,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="USC vs. Oregon State" stop="20250602235959 -0500">
-    <title>05:00 PM 02/06/25 - USC vs. Oregon State</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250602000000 -0500" channel="Murray State vs. Ole Miss" stop="20250602235959 -0500">
-    <title>05:00 PM 02/06/25 - Murray State vs. Ole Miss</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -99,7 +106,7 @@
     </audio>
   </programme>
   <programme start="20250602000000 -0500" channel="Wake Forest vs. Tennessee" stop="20250602235959 -0500">
-    <title>05:00 PM 02/06/25 - Wake Forest vs. Tennessee</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -196,6 +203,54 @@
   </programme>
   <programme start="20250602000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250602235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="WWE: Monday Night RAW" stop="20250602235959 -0500">
+    <title>07:00 PM 02/06/25 - WWE: Monday Night RAW</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="WWE: NXT" stop="20250602235959 -0500">
+    <title>07:00 PM 03/06/25 - WWE: NXT</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250602235959 -0500">
+    <title>07:00 PM 04/06/25 - AEW: Wednesday Night Dynamite</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="TNA: Impact" stop="20250602235959 -0500">
+    <title>07:00 PM 05/06/25 - TNA: Impact</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250602235959 -0500">
+    <title>07:00 PM 06/06/25 - WWE: Friday Night Smackdown</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="AEW: Saturday Night Collision" stop="20250602235959 -0500">
+    <title>07:00 PM 07/06/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
