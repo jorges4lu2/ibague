@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250602 -0500">
-  <channel id="Roland-Garros">
-    <display-name lang="en">Roland-Garros</display-name>
-  </channel>
   <channel id="North Carolina vs. Oklahoma">
     <display-name lang="en">North Carolina vs. Oklahoma</display-name>
+  </channel>
+  <channel id="Roland-Garros">
+    <display-name lang="en">Roland-Garros</display-name>
   </channel>
   <channel id="USC vs. Oregon State">
     <display-name lang="en">USC vs. Oregon State</display-name>
@@ -66,7 +66,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250602000000 -0500" channel="Roland-Garros" stop="20250602235959 -0500">
+  <programme start="20250602000000 -0500" channel="North Carolina vs. Oklahoma" stop="20250602235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -74,8 +74,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="North Carolina vs. Oklahoma" stop="20250602235959 -0500">
-    <title>02:00 PM 02/06/25 - North Carolina vs. Oklahoma</title>
+  <programme start="20250602000000 -0500" channel="Roland-Garros" stop="20250602235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
