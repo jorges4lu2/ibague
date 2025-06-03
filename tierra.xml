@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250602 -0500">
-  <channel id="Colorado Rockies vs. Miami Marlins">
-    <display-name lang="en">Colorado Rockies vs. Miami Marlins</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. Boston Red Sox">
     <display-name lang="en">Los Angeles Angels vs. Boston Red Sox</display-name>
   </channel>
@@ -18,11 +15,11 @@
   <channel id="Miami vs. Southern Miss">
     <display-name lang="en">Miami vs. Southern Miss</display-name>
   </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
   <channel id="San Diego Padres vs. San Francisco Giants">
     <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Athletics">
     <display-name lang="en">Minnesota Twins vs. Athletics</display-name>
@@ -69,14 +66,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250602000000 -0500" channel="Colorado Rockies vs. Miami Marlins" stop="20250602235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250602000000 -0500" channel="Los Angeles Angels vs. Boston Red Sox" stop="20250602235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -117,7 +106,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="WWE: Monday Night RAW" stop="20250602235959 -0500">
+  <programme start="20250602000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250602235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -125,8 +114,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250602235959 -0500">
-    <title>08:45 PM 02/06/25 - San Diego Padres vs. San Francisco Giants</title>
+  <programme start="20250602000000 -0500" channel="WWE: Monday Night RAW" stop="20250602235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
