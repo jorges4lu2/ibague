@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250602 -0500">
-  <channel id="San Diego Padres vs. San Francisco Giants">
-    <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
-  </channel>
+<tv date="20250603 -0500">
   <channel id="Minnesota Twins vs. Athletics">
     <display-name lang="en">Minnesota Twins vs. Athletics</display-name>
   </channel>
@@ -14,6 +11,9 @@
   </channel>
   <channel id="UEFA Nations League: Spain vs France">
     <display-name lang="en">UEFA Nations League: Spain vs France</display-name>
+  </channel>
+  <channel id="Chile vs Argentina">
+    <display-name lang="en">Chile vs Argentina</display-name>
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
@@ -48,7 +48,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250602000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="Minnesota Twins vs. Athletics" stop="20250603235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -56,7 +56,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="Minnesota Twins vs. Athletics" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="New York Mets vs. Los Angeles Dodgers" stop="20250603235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -64,15 +64,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="New York Mets vs. Los Angeles Dodgers" stop="20250602235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250602000000 -0500" channel="UEFA Nations League: Germany vs Portugal" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="UEFA Nations League: Germany vs Portugal" stop="20250603235959 -0500">
     <title>02:00 PM 04/06/25 - UEFA Nations League: Germany vs Portugal</title>
     <date>2025</date>
     <category>Sports</category>
@@ -80,7 +72,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="UEFA Nations League: Spain vs France" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="UEFA Nations League: Spain vs France" stop="20250603235959 -0500">
     <title>02:00 PM 05/06/25 - UEFA Nations League: Spain vs France</title>
     <date>2025</date>
     <category>Sports</category>
@@ -88,7 +80,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="Chile vs Argentina" stop="20250603235959 -0500">
+    <title>08:00 PM 05/06/25 - Chile vs Argentina</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250603000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250603235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -96,7 +96,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="WWE: NXT" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="WWE: NXT" stop="20250603235959 -0500">
     <title>07:00 PM 03/06/25 - WWE: NXT</title>
     <date>2025</date>
     <category>Sports</category>
@@ -104,7 +104,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250603235959 -0500">
     <title>07:00 PM 04/06/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
@@ -112,7 +112,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="TNA: Impact" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="TNA: Impact" stop="20250603235959 -0500">
     <title>07:00 PM 05/06/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
@@ -120,7 +120,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250603235959 -0500">
     <title>07:00 PM 06/06/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
@@ -128,7 +128,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="AEW: Saturday Night Collision" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="AEW: Saturday Night Collision" stop="20250603235959 -0500">
     <title>07:00 PM 07/06/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -136,7 +136,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="24/7 South Park" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="24/7 South Park" stop="20250603235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -144,7 +144,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="24/7 COWS" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="24/7 COWS" stop="20250603235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -152,7 +152,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="24/7 Family Guy" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="24/7 Family Guy" stop="20250603235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -160,7 +160,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="24/7 The Simpsons" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="24/7 The Simpsons" stop="20250603235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -168,7 +168,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="(North) Korean Central Television" stop="20250602235959 -0500">
+  <programme start="20250603000000 -0500" channel="(North) Korean Central Television" stop="20250603235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
