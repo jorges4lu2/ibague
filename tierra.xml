@@ -21,6 +21,9 @@
   <channel id="Detroit Tigers vs. Chicago White Sox">
     <display-name lang="en">Detroit Tigers vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
   <channel id="LSU vs. Arkansas Little Rock">
     <display-name lang="en">LSU vs. Arkansas Little Rock</display-name>
   </channel>
@@ -44,9 +47,6 @@
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -111,7 +111,7 @@
     </audio>
   </programme>
   <programme start="20250602000000 -0500" channel="Los Angeles Angels vs. Boston Red Sox" stop="20250602235959 -0500">
-    <title>06:10 PM 02/06/25 - Los Angeles Angels vs. Boston Red Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -119,7 +119,7 @@
     </audio>
   </programme>
   <programme start="20250602000000 -0500" channel="Milwaukee Brewers vs. Cincinnati Reds" stop="20250602235959 -0500">
-    <title>06:10 PM 02/06/25 - Milwaukee Brewers vs. Cincinnati Reds</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -127,7 +127,15 @@
     </audio>
   </programme>
   <programme start="20250602000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250602235959 -0500">
-    <title>06:40 PM 02/06/25 - Detroit Tigers vs. Chicago White Sox</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250602000000 -0500" channel="WWE: Monday Night RAW" stop="20250602235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -192,14 +200,6 @@
   </programme>
   <programme start="20250602000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250602235959 -0500">
     <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250602000000 -0500" channel="WWE: Monday Night RAW" stop="20250602235959 -0500">
-    <title>07:00 PM 02/06/25 - WWE: Monday Night RAW</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
