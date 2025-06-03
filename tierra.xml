@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250603 -0500">
-  <channel id="Roland-Garros">
-    <display-name lang="en">Roland-Garros</display-name>
-  </channel>
-  <channel id="Roland-Garros Live Scores">
-    <display-name lang="en">Roland-Garros Live Scores</display-name>
-  </channel>
   <channel id="Colorado Rockies vs. Miami Marlins">
     <display-name lang="en">Colorado Rockies vs. Miami Marlins</display-name>
   </channel>
@@ -117,22 +111,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250603000000 -0500" channel="Roland-Garros" stop="20250603235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250603000000 -0500" channel="Roland-Garros Live Scores" stop="20250603235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250603000000 -0500" channel="Colorado Rockies vs. Miami Marlins" stop="20250603235959 -0500">
     <title>05:40 PM 03/06/25 - Colorado Rockies vs. Miami Marlins</title>
     <date>2025</date>
