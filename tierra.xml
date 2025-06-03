@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250602 -0500">
-  <channel id="Los Angeles Angels vs. Boston Red Sox">
-    <display-name lang="en">Los Angeles Angels vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Cincinnati Reds">
-    <display-name lang="en">Milwaukee Brewers vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Chicago White Sox">
-    <display-name lang="en">Detroit Tigers vs. Chicago White Sox</display-name>
-  </channel>
   <channel id="LSU vs. Arkansas Little Rock">
     <display-name lang="en">LSU vs. Arkansas Little Rock</display-name>
   </channel>
@@ -17,9 +8,6 @@
   </channel>
   <channel id="San Diego Padres vs. San Francisco Giants">
     <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Athletics">
     <display-name lang="en">Minnesota Twins vs. Athletics</display-name>
@@ -66,30 +54,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250602000000 -0500" channel="Los Angeles Angels vs. Boston Red Sox" stop="20250602235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250602000000 -0500" channel="Milwaukee Brewers vs. Cincinnati Reds" stop="20250602235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250602000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250602235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250602000000 -0500" channel="LSU vs. Arkansas Little Rock" stop="20250602235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -114,7 +78,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="WWE: Monday Night RAW" stop="20250602235959 -0500">
+  <programme start="20250602000000 -0500" channel="Minnesota Twins vs. Athletics" stop="20250602235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -122,16 +86,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="Minnesota Twins vs. Athletics" stop="20250602235959 -0500">
-    <title>09:05 PM 02/06/25 - Minnesota Twins vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250602000000 -0500" channel="New York Mets vs. Los Angeles Dodgers" stop="20250602235959 -0500">
-    <title>09:10 PM 02/06/25 - New York Mets vs. Los Angeles Dodgers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
