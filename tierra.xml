@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250603 -0500">
+  <channel id="Mystics at Fever">
+    <display-name lang="en">Mystics at Fever</display-name>
+  </channel>
+  <channel id="Mercury at Lynx">
+    <display-name lang="en">Mercury at Lynx</display-name>
+  </channel>
+  <channel id="Wings at Storm">
+    <display-name lang="en">Wings at Storm</display-name>
+  </channel>
   <channel id="UEFA Nations League: Germany vs Portugal">
     <display-name lang="en">UEFA Nations League: Germany vs Portugal</display-name>
   </channel>
@@ -42,6 +51,30 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250603000000 -0500" channel="Mystics at Fever" stop="20250603235959 -0500">
+    <title>06:00 PM 03/06/25 - Mystics at Fever</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250603000000 -0500" channel="Mercury at Lynx" stop="20250603235959 -0500">
+    <title>07:00 PM 03/06/25 - Mercury at Lynx</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250603000000 -0500" channel="Wings at Storm" stop="20250603235959 -0500">
+    <title>08:30 PM 03/06/25 - Wings at Storm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250603000000 -0500" channel="UEFA Nations League: Germany vs Portugal" stop="20250603235959 -0500">
     <title>02:00 PM 04/06/25 - UEFA Nations League: Germany vs Portugal</title>
     <date>2025</date>
