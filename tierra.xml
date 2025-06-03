@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250602 -0500">
-  <channel id="USC vs. Oregon State">
-    <display-name lang="en">USC vs. Oregon State</display-name>
-  </channel>
-  <channel id="Murray State vs. Ole Miss">
-    <display-name lang="en">Murray State vs. Ole Miss</display-name>
-  </channel>
-  <channel id="Wake Forest vs. Tennessee">
-    <display-name lang="en">Wake Forest vs. Tennessee</display-name>
-  </channel>
   <channel id="Colorado Rockies vs. Miami Marlins">
     <display-name lang="en">Colorado Rockies vs. Miami Marlins</display-name>
   </channel>
@@ -21,14 +12,14 @@
   <channel id="Detroit Tigers vs. Chicago White Sox">
     <display-name lang="en">Detroit Tigers vs. Chicago White Sox</display-name>
   </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
   <channel id="LSU vs. Arkansas Little Rock">
     <display-name lang="en">LSU vs. Arkansas Little Rock</display-name>
   </channel>
   <channel id="Miami vs. Southern Miss">
     <display-name lang="en">Miami vs. Southern Miss</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="San Diego Padres vs. San Francisco Giants">
     <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
@@ -78,30 +69,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250602000000 -0500" channel="USC vs. Oregon State" stop="20250602235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250602000000 -0500" channel="Murray State vs. Ole Miss" stop="20250602235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250602000000 -0500" channel="Wake Forest vs. Tennessee" stop="20250602235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250602000000 -0500" channel="Colorado Rockies vs. Miami Marlins" stop="20250602235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -134,7 +101,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="WWE: Monday Night RAW" stop="20250602235959 -0500">
+  <programme start="20250602000000 -0500" channel="LSU vs. Arkansas Little Rock" stop="20250602235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -142,16 +109,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="LSU vs. Arkansas Little Rock" stop="20250602235959 -0500">
-    <title>08:00 PM 02/06/25 - LSU vs. Arkansas Little Rock</title>
+  <programme start="20250602000000 -0500" channel="Miami vs. Southern Miss" stop="20250602235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250602000000 -0500" channel="Miami vs. Southern Miss" stop="20250602235959 -0500">
-    <title>08:00 PM 02/06/25 - Miami vs. Southern Miss</title>
+  <programme start="20250602000000 -0500" channel="WWE: Monday Night RAW" stop="20250602235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
