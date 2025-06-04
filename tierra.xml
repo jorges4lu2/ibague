@@ -9,9 +9,6 @@
   <channel id="Chicago Cubs vs. Washington Nationals">
     <display-name lang="en">Chicago Cubs vs. Washington Nationals</display-name>
   </channel>
-  <channel id="Mystics at Fever">
-    <display-name lang="en">Mystics at Fever</display-name>
-  </channel>
   <channel id="Cleveland Guardians vs. New York Yankees">
     <display-name lang="en">Cleveland Guardians vs. New York Yankees</display-name>
   </channel>
@@ -36,6 +33,9 @@
   <channel id="Kansas City Royals vs. St. Louis Cardinals">
     <display-name lang="en">Kansas City Royals vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
+  </channel>
   <channel id="Baltimore Orioles vs. Seattle Mariners">
     <display-name lang="en">Baltimore Orioles vs. Seattle Mariners</display-name>
   </channel>
@@ -47,12 +47,6 @@
   </channel>
   <channel id="New York Mets vs. Los Angeles Dodgers">
     <display-name lang="en">New York Mets vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Mercury at Lynx">
-    <display-name lang="en">Mercury at Lynx</display-name>
-  </channel>
-  <channel id="Wings at Storm">
-    <display-name lang="en">Wings at Storm</display-name>
   </channel>
   <channel id="UEFA Nations League: Germany vs Portugal">
     <display-name lang="en">UEFA Nations League: Germany vs Portugal</display-name>
@@ -80,9 +74,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -135,7 +126,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250603000000 -0500" channel="Mystics at Fever" stop="20250603235959 -0500">
+  <programme start="20250603000000 -0500" channel="Cleveland Guardians vs. New York Yankees" stop="20250603235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -143,16 +134,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250603000000 -0500" channel="Cleveland Guardians vs. New York Yankees" stop="20250603235959 -0500">
-    <title>06:05 PM 03/06/25 - Cleveland Guardians vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250603000000 -0500" channel="Philadelphia Phillies vs. Toronto Blue Jays" stop="20250603235959 -0500">
-    <title>06:07 PM 03/06/25 - Philadelphia Phillies vs. Toronto Blue Jays</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -160,7 +143,7 @@
     </audio>
   </programme>
   <programme start="20250603000000 -0500" channel="Los Angeles Angels vs. Boston Red Sox" stop="20250603235959 -0500">
-    <title>06:10 PM 03/06/25 - Los Angeles Angels vs. Boston Red Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -168,7 +151,7 @@
     </audio>
   </programme>
   <programme start="20250603000000 -0500" channel="Milwaukee Brewers vs. Cincinnati Reds" stop="20250603235959 -0500">
-    <title>06:10 PM 03/06/25 - Milwaukee Brewers vs. Cincinnati Reds</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -176,7 +159,7 @@
     </audio>
   </programme>
   <programme start="20250603000000 -0500" channel="Arizona Diamondbacks vs. Atlanta Braves" stop="20250603235959 -0500">
-    <title>06:15 PM 03/06/25 - Arizona Diamondbacks vs. Atlanta Braves</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -184,7 +167,7 @@
     </audio>
   </programme>
   <programme start="20250603000000 -0500" channel="Texas Rangers vs. Tampa Bay Rays" stop="20250603235959 -0500">
-    <title>06:35 PM 03/06/25 - Texas Rangers vs. Tampa Bay Rays</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -192,7 +175,7 @@
     </audio>
   </programme>
   <programme start="20250603000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250603235959 -0500">
-    <title>06:40 PM 03/06/25 - Detroit Tigers vs. Chicago White Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -200,7 +183,15 @@
     </audio>
   </programme>
   <programme start="20250603000000 -0500" channel="Kansas City Royals vs. St. Louis Cardinals" stop="20250603235959 -0500">
-    <title>06:45 PM 03/06/25 - Kansas City Royals vs. St. Louis Cardinals</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250603000000 -0500" channel="WWE: NXT" stop="20250603235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -233,22 +224,6 @@
   </programme>
   <programme start="20250603000000 -0500" channel="New York Mets vs. Los Angeles Dodgers" stop="20250603235959 -0500">
     <title>09:10 PM 03/06/25 - New York Mets vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250603000000 -0500" channel="Mercury at Lynx" stop="20250603235959 -0500">
-    <title>07:00 PM 03/06/25 - Mercury at Lynx</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250603000000 -0500" channel="Wings at Storm" stop="20250603235959 -0500">
-    <title>08:30 PM 03/06/25 - Wings at Storm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -321,14 +296,6 @@
   </programme>
   <programme start="20250603000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250603235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250603000000 -0500" channel="WWE: NXT" stop="20250603235959 -0500">
-    <title>07:00 PM 03/06/25 - WWE: NXT</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
