@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250604 -0500">
-  <channel id="Colorado Rockies vs. Miami Marlins">
-    <display-name lang="en">Colorado Rockies vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Cincinnati Reds">
-    <display-name lang="en">Milwaukee Brewers vs. Cincinnati Reds</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. Boston Red Sox">
     <display-name lang="en">Los Angeles Angels vs. Boston Red Sox</display-name>
   </channel>
@@ -56,6 +50,12 @@
   </channel>
   <channel id="Barbados vs Aruba">
     <display-name lang="en">Barbados vs Aruba</display-name>
+  </channel>
+  <channel id="Montserrat vs Belize">
+    <display-name lang="en">Montserrat vs Belize</display-name>
+  </channel>
+  <channel id="Bermuda vs Cayman Islands">
+    <display-name lang="en">Bermuda vs Cayman Islands</display-name>
   </channel>
   <channel id="UEFA Nations League: Spain vs France">
     <display-name lang="en">UEFA Nations League: Spain vs France</display-name>
@@ -108,22 +108,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250604000000 -0500" channel="Colorado Rockies vs. Miami Marlins" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Milwaukee Brewers vs. Cincinnati Reds" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250604000000 -0500" channel="Los Angeles Angels vs. Boston Red Sox" stop="20250604235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -254,6 +238,22 @@
   </programme>
   <programme start="20250604000000 -0500" channel="Barbados vs Aruba" stop="20250604235959 -0500">
     <title>04:00 PM 04/06/25 - Barbados vs Aruba</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250604000000 -0500" channel="Montserrat vs Belize" stop="20250604235959 -0500">
+    <title>04:00 PM 04/06/25 - Montserrat vs Belize</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250604000000 -0500" channel="Bermuda vs Cayman Islands" stop="20250604235959 -0500">
+    <title>06:00 PM 04/06/25 - Bermuda vs Cayman Islands</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
