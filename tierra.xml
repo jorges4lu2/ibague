@@ -6,9 +6,6 @@
   <channel id="Milwaukee Brewers vs. Cincinnati Reds">
     <display-name lang="en">Milwaukee Brewers vs. Cincinnati Reds</display-name>
   </channel>
-  <channel id="Roland-Garros (Mixed Doubles) D. Krawczyk/N. Skupski vs E. King/T. Townsend">
-    <display-name lang="en">Roland-Garros (Mixed Doubles) D. Krawczyk/N. Skupski vs E. King/T. Townsend</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. Boston Red Sox">
     <display-name lang="en">Los Angeles Angels vs. Boston Red Sox</display-name>
   </channel>
@@ -50,6 +47,12 @@
   </channel>
   <channel id="UEFA Nations League: Germany vs Portugal">
     <display-name lang="en">UEFA Nations League: Germany vs Portugal</display-name>
+  </channel>
+  <channel id="Dominica vs British Virgin Islands">
+    <display-name lang="en">Dominica vs British Virgin Islands</display-name>
+  </channel>
+  <channel id="Barbados vs Aruba">
+    <display-name lang="en">Barbados vs Aruba</display-name>
   </channel>
   <channel id="UEFA Nations League: Spain vs France">
     <display-name lang="en">UEFA Nations League: Spain vs France</display-name>
@@ -121,16 +124,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Roland-Garros (Mixed Doubles) D. Krawczyk/N. Skupski vs E. King/T. Townsend" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250604000000 -0500" channel="Los Angeles Angels vs. Boston Red Sox" stop="20250604235959 -0500">
-    <title>12:35 PM 04/06/25 - Los Angeles Angels vs. Boston Red Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -235,6 +230,22 @@
   </programme>
   <programme start="20250604000000 -0500" channel="UEFA Nations League: Germany vs Portugal" stop="20250604235959 -0500">
     <title>02:00 PM 04/06/25 - UEFA Nations League: Germany vs Portugal</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250604000000 -0500" channel="Dominica vs British Virgin Islands" stop="20250604235959 -0500">
+    <title>02:00 PM 04/06/25 - Dominica vs British Virgin Islands</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250604000000 -0500" channel="Barbados vs Aruba" stop="20250604235959 -0500">
+    <title>04:00 PM 04/06/25 - Barbados vs Aruba</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
