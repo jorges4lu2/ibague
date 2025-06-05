@@ -6,6 +6,9 @@
   <channel id="Kansas City Royals vs. St. Louis Cardinals">
     <display-name lang="en">Kansas City Royals vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Detroit Tigers vs. Chicago White Sox">
+    <display-name lang="en">Detroit Tigers vs. Chicago White Sox</display-name>
+  </channel>
   <channel id="Saudi Arabia vs. Bahrain">
     <display-name lang="en">Saudi Arabia vs. Bahrain</display-name>
   </channel>
@@ -15,11 +18,23 @@
   <channel id="Uzbekistan vs. United Arab Emirates">
     <display-name lang="en">Uzbekistan vs. United Arab Emirates</display-name>
   </channel>
+  <channel id="South Korea vs. Iraq">
+    <display-name lang="en">South Korea vs. Iraq</display-name>
+  </channel>
+  <channel id="Palestine vs. Kuwait">
+    <display-name lang="en">Palestine vs. Kuwait</display-name>
+  </channel>
+  <channel id="Kyrgyz Republic vs. North Korea">
+    <display-name lang="en">Kyrgyz Republic vs. North Korea</display-name>
+  </channel>
+  <channel id="Iran vs. Qatar">
+    <display-name lang="en">Iran vs. Qatar</display-name>
+  </channel>
+  <channel id="UEFA Nations League: Spain vs France">
+    <display-name lang="en">UEFA Nations League: Spain vs France</display-name>
+  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Chicago White Sox">
-    <display-name lang="en">Detroit Tigers vs. Chicago White Sox</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Toronto Blue Jays">
     <display-name lang="en">Philadelphia Phillies vs. Toronto Blue Jays</display-name>
@@ -74,21 +89,6 @@
   </channel>
   <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
     <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
-  </channel>
-  <channel id="South Korea vs. Iraq">
-    <display-name lang="en">South Korea vs. Iraq</display-name>
-  </channel>
-  <channel id="Palestine vs. Kuwait">
-    <display-name lang="en">Palestine vs. Kuwait</display-name>
-  </channel>
-  <channel id="Kyrgyz Republic vs. North Korea">
-    <display-name lang="en">Kyrgyz Republic vs. North Korea</display-name>
-  </channel>
-  <channel id="Iran vs. Qatar">
-    <display-name lang="en">Iran vs. Qatar</display-name>
-  </channel>
-  <channel id="UEFA Nations League: Spain vs France">
-    <display-name lang="en">UEFA Nations League: Spain vs France</display-name>
   </channel>
   <channel id="Brazil vs. Ecuador">
     <display-name lang="en">Brazil vs. Ecuador</display-name>
@@ -157,6 +157,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250605000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250605235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250605000000 -0500" channel="Saudi Arabia vs. Bahrain" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -181,16 +189,48 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250605000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250605235959 -0500">
-    <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
+  <programme start="20250605000000 -0500" channel="South Korea vs. Iraq" stop="20250605235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250605000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250605235959 -0500">
-    <title>01:10 PM 05/06/25 - Detroit Tigers vs. Chicago White Sox</title>
+  <programme start="20250605000000 -0500" channel="Palestine vs. Kuwait" stop="20250605235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250605000000 -0500" channel="Kyrgyz Republic vs. North Korea" stop="20250605235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250605000000 -0500" channel="Iran vs. Qatar" stop="20250605235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250605000000 -0500" channel="UEFA Nations League: Spain vs France" stop="20250605235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250605000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250605235959 -0500">
+    <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -335,46 +375,6 @@
   </programme>
   <programme start="20250605000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day One" stop="20250605235959 -0500">
     <title>12:00 PM 06/06/25 - PDC: Mr Vegas Nordic Darts Masters - Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="South Korea vs. Iraq" stop="20250605235959 -0500">
-    <title>01:15 PM 05/06/25 - South Korea vs. Iraq</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="Palestine vs. Kuwait" stop="20250605235959 -0500">
-    <title>01:15 PM 05/06/25 - Palestine vs. Kuwait</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="Kyrgyz Republic vs. North Korea" stop="20250605235959 -0500">
-    <title>01:15 PM 05/06/25 - Kyrgyz Republic vs. North Korea</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="Iran vs. Qatar" stop="20250605235959 -0500">
-    <title>01:15 PM 05/06/25 - Iran vs. Qatar</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="UEFA Nations League: Spain vs France" stop="20250605235959 -0500">
-    <title>02:00 PM 05/06/25 - UEFA Nations League: Spain vs France</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
