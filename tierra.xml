@@ -57,8 +57,11 @@
   <channel id="Uruguay vs. Paraguay">
     <display-name lang="en">Uruguay vs. Paraguay</display-name>
   </channel>
-  <channel id="Chile vs Argentina">
-    <display-name lang="en">Chile vs Argentina</display-name>
+  <channel id="Chile vs Argentina (Spanish)">
+    <display-name lang="en">Chile vs Argentina (Spanish)</display-name>
+  </channel>
+  <channel id="Chile vs Argentina (English)">
+    <display-name lang="en">Chile vs Argentina (English)</display-name>
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
@@ -251,8 +254,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250605000000 -0500" channel="Chile vs Argentina" stop="20250605235959 -0500">
-    <title>08:00 PM 05/06/25 - Chile vs Argentina</title>
+  <programme start="20250605000000 -0500" channel="Chile vs Argentina (Spanish)" stop="20250605235959 -0500">
+    <title>08:00 PM 05/06/25 - Chile vs Argentina (Spanish)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250605000000 -0500" channel="Chile vs Argentina (English)" stop="20250605235959 -0500">
+    <title>08:00 PM 05/06/25 - Chile vs Argentina (English)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
