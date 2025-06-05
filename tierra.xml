@@ -1,43 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250604 -0500">
-  <channel id="Cleveland Guardians vs. New York Yankees">
-    <display-name lang="en">Cleveland Guardians vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Toronto Blue Jays">
-    <display-name lang="en">Philadelphia Phillies vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Atlanta Braves">
-    <display-name lang="en">Arizona Diamondbacks vs. Atlanta Braves</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Tampa Bay Rays">
-    <display-name lang="en">Texas Rangers vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Chicago White Sox">
-    <display-name lang="en">Detroit Tigers vs. Chicago White Sox</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. St. Louis Cardinals">
-    <display-name lang="en">Kansas City Royals vs. St. Louis Cardinals</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. Seattle Mariners">
     <display-name lang="en">Baltimore Orioles vs. Seattle Mariners</display-name>
   </channel>
   <channel id="San Diego Padres vs. San Francisco Giants">
     <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="Florida Panthers vs. Edmonton Oilers">
-    <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
-  <channel id="ArmSports Entertainment: Arizona State Championship 2025">
-    <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
   <channel id="Minnesota Twins vs. Athletics">
     <display-name lang="en">Minnesota Twins vs. Athletics</display-name>
   </channel>
   <channel id="New York Mets vs. Los Angeles Dodgers">
     <display-name lang="en">New York Mets vs. Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="ArmSports Entertainment: Arizona State Championship 2025">
+    <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
   <channel id="Arizona vs. North Carolina">
     <display-name lang="en">Arizona vs. North Carolina</display-name>
@@ -129,54 +105,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250604000000 -0500" channel="Cleveland Guardians vs. New York Yankees" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Philadelphia Phillies vs. Toronto Blue Jays" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Arizona Diamondbacks vs. Atlanta Braves" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Texas Rangers vs. Tampa Bay Rays" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Kansas City Royals vs. St. Louis Cardinals" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250604000000 -0500" channel="Baltimore Orioles vs. Seattle Mariners" stop="20250604235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -193,7 +121,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250604235959 -0500">
+  <programme start="20250604000000 -0500" channel="Minnesota Twins vs. Athletics" stop="20250604235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -201,7 +129,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250604235959 -0500">
+  <programme start="20250604000000 -0500" channel="New York Mets vs. Los Angeles Dodgers" stop="20250604235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -211,22 +139,6 @@
   </programme>
   <programme start="20250604000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250604235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Minnesota Twins vs. Athletics" stop="20250604235959 -0500">
-    <title>09:05 PM 04/06/25 - Minnesota Twins vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="New York Mets vs. Los Angeles Dodgers" stop="20250604235959 -0500">
-    <title>09:10 PM 04/06/25 - New York Mets vs. Los Angeles Dodgers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
