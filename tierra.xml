@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250604 -0500">
-  <channel id="Baltimore Orioles vs. Seattle Mariners">
-    <display-name lang="en">Baltimore Orioles vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. San Francisco Giants">
-    <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
-  </channel>
+<tv date="20250605 -0500">
   <channel id="Minnesota Twins vs. Athletics">
     <display-name lang="en">Minnesota Twins vs. Athletics</display-name>
   </channel>
@@ -26,6 +20,9 @@
   </channel>
   <channel id="Coastal Carolina vs. Auburn">
     <display-name lang="en">Coastal Carolina vs. Auburn</display-name>
+  </channel>
+  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
+    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
   </channel>
   <channel id="Japan vs. Australia">
     <display-name lang="en">Japan vs. Australia</display-name>
@@ -105,7 +102,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250604000000 -0500" channel="Baltimore Orioles vs. Seattle Mariners" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Minnesota Twins vs. Athletics" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -113,7 +110,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="New York Mets vs. Los Angeles Dodgers" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -121,23 +118,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Minnesota Twins vs. Athletics" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="New York Mets vs. Los Angeles Dodgers" stop="20250604235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250605235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
     <date>2025</date>
     <category>Sports</category>
@@ -145,7 +126,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Arizona vs. North Carolina" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Arizona vs. North Carolina" stop="20250605235959 -0500">
     <title>11:00 AM 06/06/25 - Arizona vs. North Carolina</title>
     <date>2025</date>
     <category>Sports</category>
@@ -153,7 +134,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Miami vs. Louisville" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Miami vs. Louisville" stop="20250605235959 -0500">
     <title>02:00 PM 06/06/25 - Miami vs. Louisville</title>
     <date>2025</date>
     <category>Sports</category>
@@ -161,7 +142,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Florida State vs. Oregon State" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Florida State vs. Oregon State" stop="20250605235959 -0500">
     <title>05:00 PM 06/06/25 - Florida State vs. Oregon State</title>
     <date>2025</date>
     <category>Sports</category>
@@ -169,7 +150,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Coastal Carolina vs. Auburn" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Coastal Carolina vs. Auburn" stop="20250605235959 -0500">
     <title>08:00 PM 06/06/25 - Coastal Carolina vs. Auburn</title>
     <date>2025</date>
     <category>Sports</category>
@@ -177,7 +158,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Japan vs. Australia" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day One" stop="20250605235959 -0500">
+    <title>12:00 PM 06/06/25 - PDC: Mr Vegas Nordic Darts Masters - Day One</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250605000000 -0500" channel="Japan vs. Australia" stop="20250605235959 -0500">
     <title>06:10 AM 05/06/25 - Japan vs. Australia</title>
     <date>2025</date>
     <category>Sports</category>
@@ -185,7 +174,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="China vs. Indonesia" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="China vs. Indonesia" stop="20250605235959 -0500">
     <title>08:45 AM 05/06/25 - China vs. Indonesia</title>
     <date>2025</date>
     <category>Sports</category>
@@ -193,7 +182,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Saudi Arabia vs. Bahrain" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Saudi Arabia vs. Bahrain" stop="20250605235959 -0500">
     <title>11:00 AM 05/06/25 - Saudi Arabia vs. Bahrain</title>
     <date>2025</date>
     <category>Sports</category>
@@ -201,7 +190,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Jordan vs. Oman" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Jordan vs. Oman" stop="20250605235959 -0500">
     <title>11:00 AM 05/06/25 - Jordan vs. Oman</title>
     <date>2025</date>
     <category>Sports</category>
@@ -209,7 +198,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Uzbekistan vs. United Arab Emirates" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Uzbekistan vs. United Arab Emirates" stop="20250605235959 -0500">
     <title>11:00 AM 05/06/25 - Uzbekistan vs. United Arab Emirates</title>
     <date>2025</date>
     <category>Sports</category>
@@ -217,7 +206,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="South Korea vs. Iraq" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="South Korea vs. Iraq" stop="20250605235959 -0500">
     <title>01:15 PM 05/06/25 - South Korea vs. Iraq</title>
     <date>2025</date>
     <category>Sports</category>
@@ -225,7 +214,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Palestine vs. Kuwait" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Palestine vs. Kuwait" stop="20250605235959 -0500">
     <title>01:15 PM 05/06/25 - Palestine vs. Kuwait</title>
     <date>2025</date>
     <category>Sports</category>
@@ -233,7 +222,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Kyrgyz Republic vs. North Korea" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Kyrgyz Republic vs. North Korea" stop="20250605235959 -0500">
     <title>01:15 PM 05/06/25 - Kyrgyz Republic vs. North Korea</title>
     <date>2025</date>
     <category>Sports</category>
@@ -241,7 +230,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Iran vs. Qatar" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Iran vs. Qatar" stop="20250605235959 -0500">
     <title>01:15 PM 05/06/25 - Iran vs. Qatar</title>
     <date>2025</date>
     <category>Sports</category>
@@ -249,7 +238,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="UEFA Nations League: Spain vs France" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="UEFA Nations League: Spain vs France" stop="20250605235959 -0500">
     <title>02:00 PM 05/06/25 - UEFA Nations League: Spain vs France</title>
     <date>2025</date>
     <category>Sports</category>
@@ -257,7 +246,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Brazil vs. Ecuador" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Brazil vs. Ecuador" stop="20250605235959 -0500">
     <title>06:00 PM 05/06/25 - Brazil vs. Ecuador</title>
     <date>2025</date>
     <category>Sports</category>
@@ -265,7 +254,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Uruguay vs. Paraguay" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Uruguay vs. Paraguay" stop="20250605235959 -0500">
     <title>06:00 PM 05/06/25 - Uruguay vs. Paraguay</title>
     <date>2025</date>
     <category>Sports</category>
@@ -273,7 +262,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Chile vs Argentina" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Chile vs Argentina" stop="20250605235959 -0500">
     <title>08:00 PM 05/06/25 - Chile vs Argentina</title>
     <date>2025</date>
     <category>Sports</category>
@@ -281,7 +270,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250605235959 -0500">
     <title>07:00 PM 06/06/25 - Florida Panthers vs. Edmonton Oilers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -289,7 +278,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250605235959 -0500">
     <title>07:00 PM 09/06/25 - Edmonton Oilers vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -297,7 +286,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250605235959 -0500">
     <title>07:00 PM 12/06/25 - Edmonton Oilers vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -305,7 +294,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250605235959 -0500">
     <title>07:00 PM 14/06/25 - Florida Panthers vs. Edmonton Oilers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -313,7 +302,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250605235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -321,7 +310,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="TNA: Impact" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="TNA: Impact" stop="20250605235959 -0500">
     <title>07:00 PM 05/06/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
@@ -329,7 +318,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250605235959 -0500">
     <title>07:00 PM 06/06/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
@@ -337,7 +326,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="AEW: Saturday Night Collision" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="AEW: Saturday Night Collision" stop="20250605235959 -0500">
     <title>07:00 PM 07/06/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -345,7 +334,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="24/7 South Park" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="24/7 South Park" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -353,7 +342,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="24/7 COWS" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="24/7 COWS" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -361,7 +350,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="24/7 Family Guy" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="24/7 Family Guy" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -369,7 +358,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="24/7 The Simpsons" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="24/7 The Simpsons" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -377,7 +366,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250604000000 -0500" channel="(North) Korean Central Television" stop="20250604235959 -0500">
+  <programme start="20250605000000 -0500" channel="(North) Korean Central Television" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
