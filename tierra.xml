@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250605 -0500">
-  <channel id="China vs. Indonesia">
-    <display-name lang="en">China vs. Indonesia</display-name>
+  <channel id="Saudi Arabia vs. Bahrain">
+    <display-name lang="en">Saudi Arabia vs. Bahrain</display-name>
+  </channel>
+  <channel id="Jordan vs. Oman">
+    <display-name lang="en">Jordan vs. Oman</display-name>
+  </channel>
+  <channel id="Uzbekistan vs. United Arab Emirates">
+    <display-name lang="en">Uzbekistan vs. United Arab Emirates</display-name>
   </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
@@ -29,15 +35,6 @@
   </channel>
   <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
     <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
-  </channel>
-  <channel id="Saudi Arabia vs. Bahrain">
-    <display-name lang="en">Saudi Arabia vs. Bahrain</display-name>
-  </channel>
-  <channel id="Jordan vs. Oman">
-    <display-name lang="en">Jordan vs. Oman</display-name>
-  </channel>
-  <channel id="Uzbekistan vs. United Arab Emirates">
-    <display-name lang="en">Uzbekistan vs. United Arab Emirates</display-name>
   </channel>
   <channel id="South Korea vs. Iraq">
     <display-name lang="en">South Korea vs. Iraq</display-name>
@@ -102,7 +99,23 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250605000000 -0500" channel="China vs. Indonesia" stop="20250605235959 -0500">
+  <programme start="20250605000000 -0500" channel="Saudi Arabia vs. Bahrain" stop="20250605235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250605000000 -0500" channel="Jordan vs. Oman" stop="20250605235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250605000000 -0500" channel="Uzbekistan vs. United Arab Emirates" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -176,30 +189,6 @@
   </programme>
   <programme start="20250605000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day One" stop="20250605235959 -0500">
     <title>12:00 PM 06/06/25 - PDC: Mr Vegas Nordic Darts Masters - Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="Saudi Arabia vs. Bahrain" stop="20250605235959 -0500">
-    <title>11:00 AM 05/06/25 - Saudi Arabia vs. Bahrain</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="Jordan vs. Oman" stop="20250605235959 -0500">
-    <title>11:00 AM 05/06/25 - Jordan vs. Oman</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="Uzbekistan vs. United Arab Emirates" stop="20250605235959 -0500">
-    <title>11:00 AM 05/06/25 - Uzbekistan vs. United Arab Emirates</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
