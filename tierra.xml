@@ -6,18 +6,6 @@
   <channel id="Chicago Cubs vs. Washington Nationals">
     <display-name lang="en">Chicago Cubs vs. Washington Nationals</display-name>
   </channel>
-  <channel id="Bermuda vs Cayman Islands">
-    <display-name lang="en">Bermuda vs Cayman Islands</display-name>
-  </channel>
-  <channel id="Grenada vs Bahamas">
-    <display-name lang="en">Grenada vs Bahamas</display-name>
-  </channel>
-  <channel id="Saint Vincent and the Grenadines vs Anguilla">
-    <display-name lang="en">Saint Vincent and the Grenadines vs Anguilla</display-name>
-  </channel>
-  <channel id="ArmSports Entertainment: Arizona State Championship 2025">
-    <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
   <channel id="Cleveland Guardians vs. New York Yankees">
     <display-name lang="en">Cleveland Guardians vs. New York Yankees</display-name>
   </channel>
@@ -35,6 +23,24 @@
   </channel>
   <channel id="Kansas City Royals vs. St. Louis Cardinals">
     <display-name lang="en">Kansas City Royals vs. St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="Bermuda vs Cayman Islands">
+    <display-name lang="en">Bermuda vs Cayman Islands</display-name>
+  </channel>
+  <channel id="Grenada vs Bahamas">
+    <display-name lang="en">Grenada vs Bahamas</display-name>
+  </channel>
+  <channel id="Saint Vincent and the Grenadines vs Anguilla">
+    <display-name lang="en">Saint Vincent and the Grenadines vs Anguilla</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Edmonton Oilers">
+    <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
+  </channel>
+  <channel id="ArmSports Entertainment: Arizona State Championship 2025">
+    <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Seattle Mariners">
     <display-name lang="en">Baltimore Orioles vs. Seattle Mariners</display-name>
@@ -102,9 +108,6 @@
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
   </channel>
-  <channel id="Florida Panthers vs. Edmonton Oilers">
-    <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
@@ -116,9 +119,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -160,6 +160,54 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250604000000 -0500" channel="Cleveland Guardians vs. New York Yankees" stop="20250604235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250604000000 -0500" channel="Philadelphia Phillies vs. Toronto Blue Jays" stop="20250604235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250604000000 -0500" channel="Arizona Diamondbacks vs. Atlanta Braves" stop="20250604235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250604000000 -0500" channel="Texas Rangers vs. Tampa Bay Rays" stop="20250604235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250604000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250604235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250604000000 -0500" channel="Kansas City Royals vs. St. Louis Cardinals" stop="20250604235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250604000000 -0500" channel="Bermuda vs Cayman Islands" stop="20250604235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -184,56 +232,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250604000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250604235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250604000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250604235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250604000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250604235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Cleveland Guardians vs. New York Yankees" stop="20250604235959 -0500">
-    <title>06:05 PM 04/06/25 - Cleveland Guardians vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Philadelphia Phillies vs. Toronto Blue Jays" stop="20250604235959 -0500">
-    <title>06:07 PM 04/06/25 - Philadelphia Phillies vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Arizona Diamondbacks vs. Atlanta Braves" stop="20250604235959 -0500">
-    <title>06:15 PM 04/06/25 - Arizona Diamondbacks vs. Atlanta Braves</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Texas Rangers vs. Tampa Bay Rays" stop="20250604235959 -0500">
-    <title>06:35 PM 04/06/25 - Texas Rangers vs. Tampa Bay Rays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250604235959 -0500">
-    <title>06:40 PM 04/06/25 - Detroit Tigers vs. Chicago White Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Kansas City Royals vs. St. Louis Cardinals" stop="20250604235959 -0500">
-    <title>06:45 PM 04/06/25 - Kansas City Royals vs. St. Louis Cardinals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -409,14 +425,6 @@
     </audio>
   </programme>
   <programme start="20250604000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250604235959 -0500">
-    <title>07:00 PM 04/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250604235959 -0500">
     <title>07:00 PM 06/06/25 - Florida Panthers vs. Edmonton Oilers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -450,14 +458,6 @@
   </programme>
   <programme start="20250604000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250604235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250604000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250604235959 -0500">
-    <title>07:00 PM 04/06/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
