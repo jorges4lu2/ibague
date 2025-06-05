@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250605 -0500">
-  <channel id="Arizona Diamondbacks vs. Atlanta Braves">
-    <display-name lang="en">Arizona Diamondbacks vs. Atlanta Braves</display-name>
-  </channel>
   <channel id="Kansas City Royals vs. St. Louis Cardinals">
     <display-name lang="en">Kansas City Royals vs. St. Louis Cardinals</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Chicago White Sox">
     <display-name lang="en">Detroit Tigers vs. Chicago White Sox</display-name>
   </channel>
-  <channel id="Saudi Arabia vs. Bahrain">
-    <display-name lang="en">Saudi Arabia vs. Bahrain</display-name>
+  <channel id="Philadelphia Phillies vs. Toronto Blue Jays">
+    <display-name lang="en">Philadelphia Phillies vs. Toronto Blue Jays</display-name>
   </channel>
-  <channel id="Jordan vs. Oman">
-    <display-name lang="en">Jordan vs. Oman</display-name>
+  <channel id="Minnesota Twins vs. Athletics">
+    <display-name lang="en">Minnesota Twins vs. Athletics</display-name>
   </channel>
-  <channel id="Uzbekistan vs. United Arab Emirates">
-    <display-name lang="en">Uzbekistan vs. United Arab Emirates</display-name>
+  <channel id="Baltimore Orioles vs. Seattle Mariners">
+    <display-name lang="en">Baltimore Orioles vs. Seattle Mariners</display-name>
+  </channel>
+  <channel id="San Diego Padres vs. San Francisco Giants">
+    <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
   </channel>
   <channel id="South Korea vs. Iraq">
     <display-name lang="en">South Korea vs. Iraq</display-name>
@@ -33,20 +33,11 @@
   <channel id="UEFA Nations League: Spain vs France">
     <display-name lang="en">UEFA Nations League: Spain vs France</display-name>
   </channel>
+  <channel id="UEFA Nations League: Spain vs France">
+    <display-name lang="en">UEFA Nations League: Spain vs France</display-name>
+  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Toronto Blue Jays">
-    <display-name lang="en">Philadelphia Phillies vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Athletics">
-    <display-name lang="en">Minnesota Twins vs. Athletics</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Seattle Mariners">
-    <display-name lang="en">Baltimore Orioles vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. San Francisco Giants">
-    <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
   </channel>
   <channel id="New York Mets vs. Los Angeles Dodgers">
     <display-name lang="en">New York Mets vs. Los Angeles Dodgers</display-name>
@@ -141,14 +132,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250605000000 -0500" channel="Arizona Diamondbacks vs. Atlanta Braves" stop="20250605235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250605000000 -0500" channel="Kansas City Royals vs. St. Louis Cardinals" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -165,7 +148,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250605000000 -0500" channel="Saudi Arabia vs. Bahrain" stop="20250605235959 -0500">
+  <programme start="20250605000000 -0500" channel="Philadelphia Phillies vs. Toronto Blue Jays" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -173,7 +156,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250605000000 -0500" channel="Jordan vs. Oman" stop="20250605235959 -0500">
+  <programme start="20250605000000 -0500" channel="Minnesota Twins vs. Athletics" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -181,7 +164,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250605000000 -0500" channel="Uzbekistan vs. United Arab Emirates" stop="20250605235959 -0500">
+  <programme start="20250605000000 -0500" channel="Baltimore Orioles vs. Seattle Mariners" stop="20250605235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250605000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250605235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -229,40 +220,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250605000000 -0500" channel="UEFA Nations League: Spain vs France" stop="20250605235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250605000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250605235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="Philadelphia Phillies vs. Toronto Blue Jays" stop="20250605235959 -0500">
-    <title>02:07 PM 05/06/25 - Philadelphia Phillies vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="Minnesota Twins vs. Athletics" stop="20250605235959 -0500">
-    <title>02:35 PM 05/06/25 - Minnesota Twins vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="Baltimore Orioles vs. Seattle Mariners" stop="20250605235959 -0500">
-    <title>02:40 PM 05/06/25 - Baltimore Orioles vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250605235959 -0500">
-    <title>02:45 PM 05/06/25 - San Diego Padres vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
