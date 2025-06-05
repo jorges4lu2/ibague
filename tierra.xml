@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250605 -0500">
+  <channel id="Japan vs. Australia">
+    <display-name lang="en">Japan vs. Australia</display-name>
+  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
@@ -17,9 +20,6 @@
   </channel>
   <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
     <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
-  </channel>
-  <channel id="Japan vs. Australia">
-    <display-name lang="en">Japan vs. Australia</display-name>
   </channel>
   <channel id="China vs. Indonesia">
     <display-name lang="en">China vs. Indonesia</display-name>
@@ -96,6 +96,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250605000000 -0500" channel="Japan vs. Australia" stop="20250605235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250605000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250605235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
     <date>2025</date>
@@ -138,14 +146,6 @@
   </programme>
   <programme start="20250605000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day One" stop="20250605235959 -0500">
     <title>12:00 PM 06/06/25 - PDC: Mr Vegas Nordic Darts Masters - Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250605000000 -0500" channel="Japan vs. Australia" stop="20250605235959 -0500">
-    <title>06:10 AM 05/06/25 - Japan vs. Australia</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
