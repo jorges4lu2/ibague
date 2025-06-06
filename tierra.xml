@@ -3,38 +3,23 @@
   <channel id="Miami vs. Louisville">
     <display-name lang="en">Miami vs. Louisville</display-name>
   </channel>
+  <channel id="Florida State vs. Oregon State">
+    <display-name lang="en">Florida State vs. Oregon State</display-name>
+  </channel>
   <channel id="TNC 02 - Stephenson vs Beasley">
     <display-name lang="en">TNC 02 - Stephenson vs Beasley</display-name>
   </channel>
   <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
     <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
   </channel>
-  <channel id="Montenegro vs. Czechia">
-    <display-name lang="en">Montenegro vs. Czechia</display-name>
-  </channel>
-  <channel id="Israel vs. Estonia">
-    <display-name lang="en">Israel vs. Estonia</display-name>
-  </channel>
-  <channel id="Croatia vs. Gibraltar">
-    <display-name lang="en">Croatia vs. Gibraltar</display-name>
-  </channel>
-  <channel id="Belgium vs. North Macedonia">
-    <display-name lang="en">Belgium vs. North Macedonia</display-name>
-  </channel>
-  <channel id="Italy vs. Norway">
-    <display-name lang="en">Italy vs. Norway</display-name>
-  </channel>
-  <channel id="Liechtenstein vs. Wales">
-    <display-name lang="en">Liechtenstein vs. Wales</display-name>
-  </channel>
   <channel id="Peru vs. Colombia">
     <display-name lang="en">Peru vs. Colombia</display-name>
   </channel>
+  <channel id="Bolivia vs. Venezuela">
+    <display-name lang="en">Bolivia vs. Venezuela</display-name>
+  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Florida State vs. Oregon State">
-    <display-name lang="en">Florida State vs. Oregon State</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Pittsburgh Pirates">
     <display-name lang="en">Philadelphia Phillies vs. Pittsburgh Pirates</display-name>
@@ -108,9 +93,6 @@
   <channel id="PDC: Mr Vegas Nordic Darts Masters - Day Two">
     <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
   </channel>
-  <channel id="Bolivia vs. Venezuela">
-    <display-name lang="en">Bolivia vs. Venezuela</display-name>
-  </channel>
   <channel id="UEFA Nations League: Portugal vs Spain">
     <display-name lang="en">UEFA Nations League: Portugal vs Spain</display-name>
   </channel>
@@ -161,6 +143,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250606000000 -0500" channel="Florida State vs. Oregon State" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250606000000 -0500" channel="TNC 02 - Stephenson vs Beasley" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -177,55 +167,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250606000000 -0500" channel="Montenegro vs. Czechia" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Israel vs. Estonia" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Croatia vs. Gibraltar" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Belgium vs. North Macedonia" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Italy vs. Norway" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Liechtenstein vs. Wales" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250606000000 -0500" channel="Peru vs. Colombia" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Bolivia vs. Venezuela" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -235,14 +185,6 @@
   </programme>
   <programme start="20250606000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250606235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Florida State vs. Oregon State" stop="20250606235959 -0500">
-    <title>05:00 PM 06/06/25 - Florida State vs. Oregon State</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -435,14 +377,6 @@
   </programme>
   <programme start="20250606000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day Two" stop="20250606235959 -0500">
     <title>01:00 PM 07/06/25 - PDC: Mr Vegas Nordic Darts Masters - Day Two</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Bolivia vs. Venezuela" stop="20250606235959 -0500">
-    <title>05:00 PM 06/06/25 - Bolivia vs. Venezuela</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
