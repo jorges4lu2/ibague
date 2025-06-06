@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250606 -0500">
+  <channel id="Roland-Garros Feed 1">
+    <display-name lang="en">Roland-Garros Feed 1</display-name>
+  </channel>
+  <channel id="Roland-Garros Feed 2">
+    <display-name lang="en">Roland-Garros Feed 2</display-name>
+  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
@@ -14,6 +20,12 @@
   </channel>
   <channel id="Coastal Carolina vs. Auburn">
     <display-name lang="en">Coastal Carolina vs. Auburn</display-name>
+  </channel>
+  <channel id="Dream at Sun">
+    <display-name lang="en">Dream at Sun</display-name>
+  </channel>
+  <channel id="Sparks at Wings">
+    <display-name lang="en">Sparks at Wings</display-name>
   </channel>
   <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
     <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
@@ -99,6 +111,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250606000000 -0500" channel="Roland-Garros Feed 1" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Roland-Garros Feed 2" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250606000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250606235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
     <date>2025</date>
@@ -133,6 +161,22 @@
   </programme>
   <programme start="20250606000000 -0500" channel="Coastal Carolina vs. Auburn" stop="20250606235959 -0500">
     <title>08:00 PM 06/06/25 - Coastal Carolina vs. Auburn</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Dream at Sun" stop="20250606235959 -0500">
+    <title>06:30 PM 06/06/25 - Dream at Sun</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Sparks at Wings" stop="20250606235959 -0500">
+    <title>08:30 PM 06/06/25 - Sparks at Wings</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
