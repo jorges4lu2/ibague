@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250606 -0500">
+  <channel id="Arizona vs. North Carolina">
+    <display-name lang="en">Arizona vs. North Carolina</display-name>
+  </channel>
   <channel id="Roland-Garros Feed 1">
     <display-name lang="en">Roland-Garros Feed 1</display-name>
   </channel>
@@ -8,9 +11,6 @@
   </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Arizona vs. North Carolina">
-    <display-name lang="en">Arizona vs. North Carolina</display-name>
   </channel>
   <channel id="Miami vs. Louisville">
     <display-name lang="en">Miami vs. Louisville</display-name>
@@ -111,6 +111,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250606000000 -0500" channel="Arizona vs. North Carolina" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250606000000 -0500" channel="Roland-Garros Feed 1" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -129,14 +137,6 @@
   </programme>
   <programme start="20250606000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250606235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Arizona vs. North Carolina" stop="20250606235959 -0500">
-    <title>11:00 AM 06/06/25 - Arizona vs. North Carolina</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
