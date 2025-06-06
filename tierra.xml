@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250606 -0500">
-  <channel id="Miami vs. Louisville">
-    <display-name lang="en">Miami vs. Louisville</display-name>
-  </channel>
   <channel id="Florida State vs. Oregon State">
     <display-name lang="en">Florida State vs. Oregon State</display-name>
+  </channel>
+  <channel id="Philadelphia Phillies vs. Pittsburgh Pirates">
+    <display-name lang="en">Philadelphia Phillies vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="Texas Rangers vs. Washington Nationals">
+    <display-name lang="en">Texas Rangers vs. Washington Nationals</display-name>
   </channel>
   <channel id="TNC 02 - Stephenson vs Beasley">
     <display-name lang="en">TNC 02 - Stephenson vs Beasley</display-name>
@@ -12,20 +15,11 @@
   <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
     <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
   </channel>
-  <channel id="Peru vs. Colombia">
-    <display-name lang="en">Peru vs. Colombia</display-name>
-  </channel>
   <channel id="Bolivia vs. Venezuela">
     <display-name lang="en">Bolivia vs. Venezuela</display-name>
   </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Pittsburgh Pirates">
-    <display-name lang="en">Philadelphia Phillies vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Washington Nationals">
-    <display-name lang="en">Texas Rangers vs. Washington Nationals</display-name>
   </channel>
   <channel id="Boston Red Sox vs. New York Yankees">
     <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
@@ -117,6 +111,9 @@
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
+  <channel id="TNA: Against All Odds">
+    <display-name lang="en">TNA: Against All Odds</display-name>
+  </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
@@ -135,7 +132,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250606000000 -0500" channel="Miami vs. Louisville" stop="20250606235959 -0500">
+  <programme start="20250606000000 -0500" channel="Florida State vs. Oregon State" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -143,7 +140,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250606000000 -0500" channel="Florida State vs. Oregon State" stop="20250606235959 -0500">
+  <programme start="20250606000000 -0500" channel="Philadelphia Phillies vs. Pittsburgh Pirates" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Texas Rangers vs. Washington Nationals" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -167,14 +172,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250606000000 -0500" channel="Peru vs. Colombia" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250606000000 -0500" channel="Bolivia vs. Venezuela" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -185,22 +182,6 @@
   </programme>
   <programme start="20250606000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250606235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Philadelphia Phillies vs. Pittsburgh Pirates" stop="20250606235959 -0500">
-    <title>05:40 PM 06/06/25 - Philadelphia Phillies vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Texas Rangers vs. Washington Nationals" stop="20250606235959 -0500">
-    <title>05:45 PM 06/06/25 - Texas Rangers vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -441,6 +422,14 @@
   </programme>
   <programme start="20250606000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250606235959 -0500">
     <title>07:00 PM 06/06/25 - WWE: Friday Night Smackdown</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="TNA: Against All Odds" stop="20250606235959 -0500">
+    <title>09:00 PM 06/06/25 - TNA: Against All Odds</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
