@@ -3,6 +3,9 @@
   <channel id="Arizona vs. North Carolina">
     <display-name lang="en">Arizona vs. North Carolina</display-name>
   </channel>
+  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
+    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
+  </channel>
   <channel id="Roland-Garros Feed 1">
     <display-name lang="en">Roland-Garros Feed 1</display-name>
   </channel>
@@ -26,9 +29,6 @@
   </channel>
   <channel id="Sparks at Wings">
     <display-name lang="en">Sparks at Wings</display-name>
-  </channel>
-  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
-    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
   </channel>
   <channel id="PDC: Women's Series 13-14">
     <display-name lang="en">PDC: Women's Series 13-14</display-name>
@@ -119,6 +119,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250606000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day One" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250606000000 -0500" channel="Roland-Garros Feed 1" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -177,14 +185,6 @@
   </programme>
   <programme start="20250606000000 -0500" channel="Sparks at Wings" stop="20250606235959 -0500">
     <title>08:30 PM 06/06/25 - Sparks at Wings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day One" stop="20250606235959 -0500">
-    <title>12:00 PM 06/06/25 - PDC: Mr Vegas Nordic Darts Masters - Day One</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
