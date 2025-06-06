@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250606 -0500">
-  <channel id="Arizona vs. North Carolina">
-    <display-name lang="en">Arizona vs. North Carolina</display-name>
-  </channel>
   <channel id="Miami Marlins vs. Tampa Bay Rays">
     <display-name lang="en">Miami Marlins vs. Tampa Bay Rays</display-name>
   </channel>
   <channel id="Miami vs. Louisville">
     <display-name lang="en">Miami vs. Louisville</display-name>
+  </channel>
+  <channel id="TNC 02 - Stephenson vs Beasley">
+    <display-name lang="en">TNC 02 - Stephenson vs Beasley</display-name>
   </channel>
   <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
     <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
@@ -114,8 +114,8 @@
   <channel id="Bolivia vs. Venezuela">
     <display-name lang="en">Bolivia vs. Venezuela</display-name>
   </channel>
-  <channel id="UEFA Nations League: Germany vs France">
-    <display-name lang="en">UEFA Nations League: Germany vs France</display-name>
+  <channel id="UEFA Nations League: Portugal vs Spain">
+    <display-name lang="en">UEFA Nations League: Portugal vs Spain</display-name>
   </channel>
   <channel id="UEFA Nations League: Germany vs France">
     <display-name lang="en">UEFA Nations League: Germany vs France</display-name>
@@ -156,14 +156,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250606000000 -0500" channel="Arizona vs. North Carolina" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250606000000 -0500" channel="Miami Marlins vs. Tampa Bay Rays" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -173,6 +165,14 @@
     </audio>
   </programme>
   <programme start="20250606000000 -0500" channel="Miami vs. Louisville" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="TNC 02 - Stephenson vs Beasley" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -460,8 +460,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250606000000 -0500" channel="UEFA Nations League: Germany vs France" stop="20250606235959 -0500">
-    <title>08:00 AM 08/06/25 - UEFA Nations League: Germany vs France</title>
+  <programme start="20250606000000 -0500" channel="UEFA Nations League: Portugal vs Spain" stop="20250606235959 -0500">
+    <title>08:00 AM 08/06/25 - UEFA Nations League: Portugal vs Spain</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
