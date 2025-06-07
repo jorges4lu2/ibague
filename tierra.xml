@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250607 -0500">
-  <channel id="West Virginia vs. LSU">
-    <display-name lang="en">West Virginia vs. LSU</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Minnesota Twins">
-    <display-name lang="en">Toronto Blue Jays vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. St. Louis Cardinals">
-    <display-name lang="en">Los Angeles Dodgers vs. St. Louis Cardinals</display-name>
-  </channel>
   <channel id="Auburn vs. Coastal Carolina">
     <display-name lang="en">Auburn vs. Coastal Carolina</display-name>
   </channel>
@@ -36,26 +27,11 @@
   <channel id="Tennessee vs. Arkansas">
     <display-name lang="en">Tennessee vs. Arkansas</display-name>
   </channel>
-  <channel id="Aces at Valkyries">
-    <display-name lang="en">Aces at Valkyries</display-name>
-  </channel>
   <channel id="Boxing: Fabio Wardley vs Justis Huni">
     <display-name lang="en">Boxing: Fabio Wardley vs Justis Huni</display-name>
   </channel>
-  <channel id="PDC: Women's Series 13-14">
-    <display-name lang="en">PDC: Women's Series 13-14</display-name>
-  </channel>
-  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day Two">
-    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
-  </channel>
-  <channel id="Serbia vs. Albania">
-    <display-name lang="en">Serbia vs. Albania</display-name>
-  </channel>
-  <channel id="Romania vs. Austria">
-    <display-name lang="en">Romania vs. Austria</display-name>
-  </channel>
-  <channel id="Netherlands vs. Finland">
-    <display-name lang="en">Netherlands vs. Finland</display-name>
+  <channel id="UFC 316: Dvalishvili vs O'Malley 2">
+    <display-name lang="en">UFC 316: Dvalishvili vs O'Malley 2</display-name>
   </channel>
   <channel id="Pro Motocross: Thunder Valley">
     <display-name lang="en">Pro Motocross: Thunder Valley</display-name>
@@ -89,9 +65,6 @@
   </channel>
   <channel id="Storm at Mercury">
     <display-name lang="en">Storm at Mercury</display-name>
-  </channel>
-  <channel id="UFC 316: Dvalishvili vs O'Malley 2">
-    <display-name lang="en">UFC 316: Dvalishvili vs O'Malley 2</display-name>
   </channel>
   <channel id="PDC: Women's Series 15-16">
     <display-name lang="en">PDC: Women's Series 15-16</display-name>
@@ -153,30 +126,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250607000000 -0500" channel="West Virginia vs. LSU" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Toronto Blue Jays vs. Minnesota Twins" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Los Angeles Dodgers vs. St. Louis Cardinals" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="Auburn vs. Coastal Carolina" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -249,14 +198,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="Aces at Valkyries" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="Boxing: Fabio Wardley vs Justis Huni" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -265,39 +206,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="PDC: Women's Series 13-14" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day Two" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Serbia vs. Albania" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Romania vs. Austria" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Netherlands vs. Finland" stop="20250607235959 -0500">
+  <programme start="20250607000000 -0500" channel="UFC 316: Dvalishvili vs O'Malley 2" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -387,14 +296,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="Storm at Mercury" stop="20250607235959 -0500">
     <title>09:00 PM 07/06/25 - Storm at Mercury</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="UFC 316: Dvalishvili vs O'Malley 2" stop="20250607235959 -0500">
-    <title>05:00 PM 07/06/25 - UFC 316: Dvalishvili vs O'Malley 2</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
