@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250607 -0500">
-  <channel id="Murray State vs. Duke">
-    <display-name lang="en">Murray State vs. Duke</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Detroit Tigers">
-    <display-name lang="en">Chicago Cubs vs. Detroit Tigers</display-name>
-  </channel>
   <channel id="West Virginia vs. LSU">
     <display-name lang="en">West Virginia vs. LSU</display-name>
   </channel>
@@ -17,36 +11,6 @@
   </channel>
   <channel id="Auburn vs. Coastal Carolina">
     <display-name lang="en">Auburn vs. Coastal Carolina</display-name>
-  </channel>
-  <channel id="Aces at Valkyries">
-    <display-name lang="en">Aces at Valkyries</display-name>
-  </channel>
-  <channel id="Boxing: Fabio Wardley vs Justis Huni">
-    <display-name lang="en">Boxing: Fabio Wardley vs Justis Huni</display-name>
-  </channel>
-  <channel id="PDC: Women's Series 13-14">
-    <display-name lang="en">PDC: Women's Series 13-14</display-name>
-  </channel>
-  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day Two">
-    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
-  </channel>
-  <channel id="Serbia vs. Albania">
-    <display-name lang="en">Serbia vs. Albania</display-name>
-  </channel>
-  <channel id="Romania vs. Austria">
-    <display-name lang="en">Romania vs. Austria</display-name>
-  </channel>
-  <channel id="Netherlands vs. Finland">
-    <display-name lang="en">Netherlands vs. Finland</display-name>
-  </channel>
-  <channel id="MXGP of Latvia (Day 1)">
-    <display-name lang="en">MXGP of Latvia (Day 1)</display-name>
-  </channel>
-  <channel id="Pro Motocross: Thunder Valley">
-    <display-name lang="en">Pro Motocross: Thunder Valley</display-name>
-  </channel>
-  <channel id="ArmSports Entertainment: Arizona State Championship 2025">
-    <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Pittsburgh Pirates">
     <display-name lang="en">Philadelphia Phillies vs. Pittsburgh Pirates</display-name>
@@ -71,6 +35,33 @@
   </channel>
   <channel id="Tennessee vs. Arkansas">
     <display-name lang="en">Tennessee vs. Arkansas</display-name>
+  </channel>
+  <channel id="Aces at Valkyries">
+    <display-name lang="en">Aces at Valkyries</display-name>
+  </channel>
+  <channel id="Boxing: Fabio Wardley vs Justis Huni">
+    <display-name lang="en">Boxing: Fabio Wardley vs Justis Huni</display-name>
+  </channel>
+  <channel id="PDC: Women's Series 13-14">
+    <display-name lang="en">PDC: Women's Series 13-14</display-name>
+  </channel>
+  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day Two">
+    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
+  </channel>
+  <channel id="Serbia vs. Albania">
+    <display-name lang="en">Serbia vs. Albania</display-name>
+  </channel>
+  <channel id="Romania vs. Austria">
+    <display-name lang="en">Romania vs. Austria</display-name>
+  </channel>
+  <channel id="Netherlands vs. Finland">
+    <display-name lang="en">Netherlands vs. Finland</display-name>
+  </channel>
+  <channel id="Pro Motocross: Thunder Valley">
+    <display-name lang="en">Pro Motocross: Thunder Valley</display-name>
+  </channel>
+  <channel id="ArmSports Entertainment: Arizona State Championship 2025">
+    <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
   <channel id="UTSA vs. UCLA">
     <display-name lang="en">UTSA vs. UCLA</display-name>
@@ -162,22 +153,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250607000000 -0500" channel="Murray State vs. Duke" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Chicago Cubs vs. Detroit Tigers" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="West Virginia vs. LSU" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -203,6 +178,70 @@
     </audio>
   </programme>
   <programme start="20250607000000 -0500" channel="Auburn vs. Coastal Carolina" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Philadelphia Phillies vs. Pittsburgh Pirates" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Texas Rangers vs. Washington Nationals" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Atlanta Braves vs. San Francisco Giants" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Arizona Diamondbacks vs. Cincinnati Reds" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Houston Astros vs. Cleveland Guardians" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Miami Marlins vs. Tampa Bay Rays" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Kansas City Royals vs. Chicago White Sox" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Tennessee vs. Arkansas" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -266,14 +305,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="MXGP of Latvia (Day 1)" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="Pro Motocross: Thunder Valley" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -284,70 +315,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250607235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Philadelphia Phillies vs. Pittsburgh Pirates" stop="20250607235959 -0500">
-    <title>03:05 PM 07/06/25 - Philadelphia Phillies vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Texas Rangers vs. Washington Nationals" stop="20250607235959 -0500">
-    <title>03:05 PM 07/06/25 - Texas Rangers vs. Washington Nationals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Atlanta Braves vs. San Francisco Giants" stop="20250607235959 -0500">
-    <title>03:05 PM 07/06/25 - Atlanta Braves vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Arizona Diamondbacks vs. Cincinnati Reds" stop="20250607235959 -0500">
-    <title>03:10 PM 07/06/25 - Arizona Diamondbacks vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Houston Astros vs. Cleveland Guardians" stop="20250607235959 -0500">
-    <title>03:10 PM 07/06/25 - Houston Astros vs. Cleveland Guardians</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Miami Marlins vs. Tampa Bay Rays" stop="20250607235959 -0500">
-    <title>03:10 PM 07/06/25 - Miami Marlins vs. Tampa Bay Rays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Kansas City Royals vs. Chicago White Sox" stop="20250607235959 -0500">
-    <title>03:10 PM 07/06/25 - Kansas City Royals vs. Chicago White Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Tennessee vs. Arkansas" stop="20250607235959 -0500">
-    <title>04:00 PM 07/06/25 - Tennessee vs. Arkansas</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
