@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250606 -0500">
-  <channel id="Florida State vs. Oregon State">
-    <display-name lang="en">Florida State vs. Oregon State</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Pittsburgh Pirates">
-    <display-name lang="en">Philadelphia Phillies vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Washington Nationals">
-    <display-name lang="en">Texas Rangers vs. Washington Nationals</display-name>
-  </channel>
   <channel id="Boston Red Sox vs. New York Yankees">
     <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
   </channel>
@@ -39,11 +30,17 @@
   <channel id="Coastal Carolina vs. Auburn">
     <display-name lang="en">Coastal Carolina vs. Auburn</display-name>
   </channel>
-  <channel id="TNC 02 - Stephenson vs Beasley">
-    <display-name lang="en">TNC 02 - Stephenson vs Beasley</display-name>
+  <channel id="Seattle Mariners vs. Los Angeles Angels">
+    <display-name lang="en">Seattle Mariners vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="Dream at Sun">
     <display-name lang="en">Dream at Sun</display-name>
+  </channel>
+  <channel id="Sparks at Wings">
+    <display-name lang="en">Sparks at Wings</display-name>
+  </channel>
+  <channel id="Guatemala vs Dominican">
+    <display-name lang="en">Guatemala vs Dominican</display-name>
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
@@ -51,11 +48,11 @@
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
+  <channel id="TNA: Against All Odds">
+    <display-name lang="en">TNA: Against All Odds</display-name>
+  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Los Angeles Angels">
-    <display-name lang="en">Seattle Mariners vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Athletics">
     <display-name lang="en">Baltimore Orioles vs. Athletics</display-name>
@@ -63,8 +60,8 @@
   <channel id="Atlanta Braves vs. San Francisco Giants">
     <display-name lang="en">Atlanta Braves vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="Sparks at Wings">
-    <display-name lang="en">Sparks at Wings</display-name>
+  <channel id="UFC 316: Dvalishvili vs O'Malley 2">
+    <display-name lang="en">UFC 316: Dvalishvili vs O'Malley 2</display-name>
   </channel>
   <channel id="PDC: Women's Series 13-14">
     <display-name lang="en">PDC: Women's Series 13-14</display-name>
@@ -105,9 +102,6 @@
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
-  <channel id="TNA: Against All Odds">
-    <display-name lang="en">TNA: Against All Odds</display-name>
-  </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
@@ -126,30 +120,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250606000000 -0500" channel="Florida State vs. Oregon State" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Philadelphia Phillies vs. Pittsburgh Pirates" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Texas Rangers vs. Washington Nationals" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250606000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -230,7 +200,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250606000000 -0500" channel="TNC 02 - Stephenson vs Beasley" stop="20250606235959 -0500">
+  <programme start="20250606000000 -0500" channel="Seattle Mariners vs. Los Angeles Angels" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -239,6 +209,22 @@
     </audio>
   </programme>
   <programme start="20250606000000 -0500" channel="Dream at Sun" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Sparks at Wings" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Guatemala vs Dominican" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -262,16 +248,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250606000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250606235959 -0500">
-    <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
+  <programme start="20250606000000 -0500" channel="TNA: Against All Odds" stop="20250606235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250606000000 -0500" channel="Seattle Mariners vs. Los Angeles Angels" stop="20250606235959 -0500">
-    <title>08:38 PM 06/06/25 - Seattle Mariners vs. Los Angeles Angels</title>
+  <programme start="20250606000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250606235959 -0500">
+    <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -294,8 +280,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250606000000 -0500" channel="Sparks at Wings" stop="20250606235959 -0500">
-    <title>08:30 PM 06/06/25 - Sparks at Wings</title>
+  <programme start="20250606000000 -0500" channel="UFC 316: Dvalishvili vs O'Malley 2" stop="20250606235959 -0500">
+    <title>05:00 PM 07/06/25 - UFC 316: Dvalishvili vs O'Malley 2</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -400,14 +386,6 @@
   </programme>
   <programme start="20250606000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250606235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="TNA: Against All Odds" stop="20250606235959 -0500">
-    <title>09:00 PM 06/06/25 - TNA: Against All Odds</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
