@@ -9,18 +9,6 @@
   <channel id="Texas Rangers vs. Washington Nationals">
     <display-name lang="en">Texas Rangers vs. Washington Nationals</display-name>
   </channel>
-  <channel id="TNC 02 - Stephenson vs Beasley">
-    <display-name lang="en">TNC 02 - Stephenson vs Beasley</display-name>
-  </channel>
-  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day One">
-    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
-  </channel>
-  <channel id="Bolivia vs. Venezuela">
-    <display-name lang="en">Bolivia vs. Venezuela</display-name>
-  </channel>
-  <channel id="ArmSports Entertainment: Arizona State Championship 2025">
-    <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
   <channel id="Boston Red Sox vs. New York Yankees">
     <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
   </channel>
@@ -35,6 +23,24 @@
   </channel>
   <channel id="Kansas City Royals vs. Chicago White Sox">
     <display-name lang="en">Kansas City Royals vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="TNC 02 - Stephenson vs Beasley">
+    <display-name lang="en">TNC 02 - Stephenson vs Beasley</display-name>
+  </channel>
+  <channel id="Dream at Sun">
+    <display-name lang="en">Dream at Sun</display-name>
+  </channel>
+  <channel id="Bolivia vs. Venezuela">
+    <display-name lang="en">Bolivia vs. Venezuela</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Edmonton Oilers">
+    <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <channel id="ArmSports Entertainment: Arizona State Championship 2025">
+    <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
   <channel id="San Diego Padres vs. Milwaukee Brewers">
     <display-name lang="en">San Diego Padres vs. Milwaukee Brewers</display-name>
@@ -59,9 +65,6 @@
   </channel>
   <channel id="Atlanta Braves vs. San Francisco Giants">
     <display-name lang="en">Atlanta Braves vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Dream at Sun">
-    <display-name lang="en">Dream at Sun</display-name>
   </channel>
   <channel id="Sparks at Wings">
     <display-name lang="en">Sparks at Wings</display-name>
@@ -93,9 +96,6 @@
   <channel id="UEFA Nations League: Germany vs France">
     <display-name lang="en">UEFA Nations League: Germany vs France</display-name>
   </channel>
-  <channel id="Florida Panthers vs. Edmonton Oilers">
-    <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
@@ -107,9 +107,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="TNA: Against All Odds">
     <display-name lang="en">TNA: Against All Odds</display-name>
@@ -156,6 +153,46 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250606000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Arizona Diamondbacks vs. Cincinnati Reds" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Chicago Cubs vs. Detroit Tigers" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Houston Astros vs. Cleveland Guardians" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Kansas City Royals vs. Chicago White Sox" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250606000000 -0500" channel="TNC 02 - Stephenson vs Beasley" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -164,7 +201,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250606000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day One" stop="20250606235959 -0500">
+  <programme start="20250606000000 -0500" channel="Dream at Sun" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -180,48 +217,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250606000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250606000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250606235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250606235959 -0500">
-    <title>06:05 PM 06/06/25 - Boston Red Sox vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Arizona Diamondbacks vs. Cincinnati Reds" stop="20250606235959 -0500">
-    <title>06:10 PM 06/06/25 - Arizona Diamondbacks vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Chicago Cubs vs. Detroit Tigers" stop="20250606235959 -0500">
-    <title>06:10 PM 06/06/25 - Chicago Cubs vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Houston Astros vs. Cleveland Guardians" stop="20250606235959 -0500">
-    <title>06:10 PM 06/06/25 - Houston Astros vs. Cleveland Guardians</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Kansas City Royals vs. Chicago White Sox" stop="20250606235959 -0500">
-    <title>06:40 PM 06/06/25 - Kansas City Royals vs. Chicago White Sox</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -286,14 +299,6 @@
   </programme>
   <programme start="20250606000000 -0500" channel="Atlanta Braves vs. San Francisco Giants" stop="20250606235959 -0500">
     <title>09:15 PM 06/06/25 - Atlanta Braves vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Dream at Sun" stop="20250606235959 -0500">
-    <title>06:30 PM 06/06/25 - Dream at Sun</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -380,14 +385,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250606000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250606235959 -0500">
-    <title>07:00 PM 06/06/25 - Florida Panthers vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250606000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250606235959 -0500">
     <title>07:00 PM 09/06/25 - Edmonton Oilers vs. Florida Panthers</title>
     <date>2025</date>
@@ -414,14 +411,6 @@
   </programme>
   <programme start="20250606000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250606235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250606235959 -0500">
-    <title>07:00 PM 06/06/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
