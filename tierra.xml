@@ -24,24 +24,6 @@
   <channel id="Kansas City Royals vs. Chicago White Sox">
     <display-name lang="en">Kansas City Royals vs. Chicago White Sox</display-name>
   </channel>
-  <channel id="TNC 02 - Stephenson vs Beasley">
-    <display-name lang="en">TNC 02 - Stephenson vs Beasley</display-name>
-  </channel>
-  <channel id="Dream at Sun">
-    <display-name lang="en">Dream at Sun</display-name>
-  </channel>
-  <channel id="Bolivia vs. Venezuela">
-    <display-name lang="en">Bolivia vs. Venezuela</display-name>
-  </channel>
-  <channel id="Florida Panthers vs. Edmonton Oilers">
-    <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <channel id="ArmSports Entertainment: Arizona State Championship 2025">
-    <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
   <channel id="San Diego Padres vs. Milwaukee Brewers">
     <display-name lang="en">San Diego Padres vs. Milwaukee Brewers</display-name>
   </channel>
@@ -56,6 +38,21 @@
   </channel>
   <channel id="Coastal Carolina vs. Auburn">
     <display-name lang="en">Coastal Carolina vs. Auburn</display-name>
+  </channel>
+  <channel id="TNC 02 - Stephenson vs Beasley">
+    <display-name lang="en">TNC 02 - Stephenson vs Beasley</display-name>
+  </channel>
+  <channel id="Dream at Sun">
+    <display-name lang="en">Dream at Sun</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Edmonton Oilers">
+    <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <channel id="ArmSports Entertainment: Arizona State Championship 2025">
+    <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
   <channel id="Seattle Mariners vs. Los Angeles Angels">
     <display-name lang="en">Seattle Mariners vs. Los Angeles Angels</display-name>
@@ -193,6 +190,46 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250606000000 -0500" channel="San Diego Padres vs. Milwaukee Brewers" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Toronto Blue Jays vs. Minnesota Twins" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Los Angeles Dodgers vs. St. Louis Cardinals" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="New York Mets vs. Colorado Rockies" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250606000000 -0500" channel="Coastal Carolina vs. Auburn" stop="20250606235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250606000000 -0500" channel="TNC 02 - Stephenson vs Beasley" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -202,14 +239,6 @@
     </audio>
   </programme>
   <programme start="20250606000000 -0500" channel="Dream at Sun" stop="20250606235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Bolivia vs. Venezuela" stop="20250606235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -235,46 +264,6 @@
   </programme>
   <programme start="20250606000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250606235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="San Diego Padres vs. Milwaukee Brewers" stop="20250606235959 -0500">
-    <title>07:10 PM 06/06/25 - San Diego Padres vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Toronto Blue Jays vs. Minnesota Twins" stop="20250606235959 -0500">
-    <title>07:10 PM 06/06/25 - Toronto Blue Jays vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Los Angeles Dodgers vs. St. Louis Cardinals" stop="20250606235959 -0500">
-    <title>07:15 PM 06/06/25 - Los Angeles Dodgers vs. St. Louis Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="New York Mets vs. Colorado Rockies" stop="20250606235959 -0500">
-    <title>07:40 PM 06/06/25 - New York Mets vs. Colorado Rockies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250606000000 -0500" channel="Coastal Carolina vs. Auburn" stop="20250606235959 -0500">
-    <title>08:00 PM 06/06/25 - Coastal Carolina vs. Auburn</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
