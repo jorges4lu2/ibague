@@ -9,6 +9,15 @@
   <channel id="Murray State vs. Duke">
     <display-name lang="en">Murray State vs. Duke</display-name>
   </channel>
+  <channel id="Chicago Cubs vs. Detroit Tigers">
+    <display-name lang="en">Chicago Cubs vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="West Virginia vs. LSU">
+    <display-name lang="en">West Virginia vs. LSU</display-name>
+  </channel>
+  <channel id="Boxing: Fabio Wardley vs Justis Huni">
+    <display-name lang="en">Boxing: Fabio Wardley vs Justis Huni</display-name>
+  </channel>
   <channel id="PDC: Women's Series 13-14">
     <display-name lang="en">PDC: Women's Series 13-14</display-name>
   </channel>
@@ -27,6 +36,9 @@
   <channel id="PDC: Cosmo Darts Classic - Board 2">
     <display-name lang="en">PDC: Cosmo Darts Classic - Board 2</display-name>
   </channel>
+  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day Two">
+    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
+  </channel>
   <channel id="England vs. Andorra">
     <display-name lang="en">England vs. Andorra</display-name>
   </channel>
@@ -38,12 +50,6 @@
   </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Detroit Tigers">
-    <display-name lang="en">Chicago Cubs vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="West Virginia vs. LSU">
-    <display-name lang="en">West Virginia vs. LSU</display-name>
   </channel>
   <channel id="Toronto Blue Jays vs. Minnesota Twins">
     <display-name lang="en">Toronto Blue Jays vs. Minnesota Twins</display-name>
@@ -108,14 +114,8 @@
   <channel id="Storm at Mercury">
     <display-name lang="en">Storm at Mercury</display-name>
   </channel>
-  <channel id="Boxing: Fabio Wardley vs Justis Huni">
-    <display-name lang="en">Boxing: Fabio Wardley vs Justis Huni</display-name>
-  </channel>
   <channel id="UFC 316: Dvalishvili vs O'Malley 2">
     <display-name lang="en">UFC 316: Dvalishvili vs O'Malley 2</display-name>
-  </channel>
-  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day Two">
-    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
   </channel>
   <channel id="PDC: Women's Series 15-16">
     <display-name lang="en">PDC: Women's Series 15-16</display-name>
@@ -213,6 +213,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250607000000 -0500" channel="Chicago Cubs vs. Detroit Tigers" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="West Virginia vs. LSU" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Boxing: Fabio Wardley vs Justis Huni" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250607000000 -0500" channel="PDC: Women's Series 13-14" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -261,6 +285,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250607000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day Two" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250607000000 -0500" channel="England vs. Andorra" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -287,22 +319,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250607235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Chicago Cubs vs. Detroit Tigers" stop="20250607235959 -0500">
-    <title>12:10 PM 07/06/25 - Chicago Cubs vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="West Virginia vs. LSU" stop="20250607235959 -0500">
-    <title>01:00 PM 07/06/25 - West Virginia vs. LSU</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -477,24 +493,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="Boxing: Fabio Wardley vs Justis Huni" stop="20250607235959 -0500">
-    <title>12:30 PM 07/06/25 - Boxing: Fabio Wardley vs Justis Huni</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="UFC 316: Dvalishvili vs O'Malley 2" stop="20250607235959 -0500">
     <title>05:00 PM 07/06/25 - UFC 316: Dvalishvili vs O'Malley 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day Two" stop="20250607235959 -0500">
-    <title>01:00 PM 07/06/25 - PDC: Mr Vegas Nordic Darts Masters - Day Two</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
