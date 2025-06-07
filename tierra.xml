@@ -3,6 +3,9 @@
   <channel id="PDC: Women's Series 13-14">
     <display-name lang="en">PDC: Women's Series 13-14</display-name>
   </channel>
+  <channel id="MXGP of Latvia (Day 1)">
+    <display-name lang="en">MXGP of Latvia (Day 1)</display-name>
+  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
@@ -74,6 +77,9 @@
   </channel>
   <channel id="Baltimore Orioles vs. Athletics">
     <display-name lang="en">Baltimore Orioles vs. Athletics</display-name>
+  </channel>
+  <channel id="Boxing: Fabio Wardley vs Justis Huni">
+    <display-name lang="en">Boxing: Fabio Wardley vs Justis Huni</display-name>
   </channel>
   <channel id="UFC 316: Dvalishvili vs O'Malley 2">
     <display-name lang="en">UFC 316: Dvalishvili vs O'Malley 2</display-name>
@@ -150,6 +156,18 @@
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
+  <channel id="Pro Motocross: Thunder Valley (Qualifying)">
+    <display-name lang="en">Pro Motocross: Thunder Valley (Qualifying)</display-name>
+  </channel>
+  <channel id="Pro Motocross: Thunder Valley">
+    <display-name lang="en">Pro Motocross: Thunder Valley</display-name>
+  </channel>
+  <channel id="MXGP of Latvia (Day 2)">
+    <display-name lang="en">MXGP of Latvia (Day 2)</display-name>
+  </channel>
+  <channel id="WWE: Money in the Bank 2025">
+    <display-name lang="en">WWE: Money in the Bank 2025</display-name>
+  </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
@@ -169,6 +187,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250607000000 -0500" channel="PDC: Women's Series 13-14" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="MXGP of Latvia (Day 1)" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -362,6 +388,14 @@
   </programme>
   <programme start="20250607000000 -0500" channel="Baltimore Orioles vs. Athletics" stop="20250607235959 -0500">
     <title>09:05 PM 07/06/25 - Baltimore Orioles vs. Athletics</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Boxing: Fabio Wardley vs Justis Huni" stop="20250607235959 -0500">
+    <title>12:30 PM 07/06/25 - Boxing: Fabio Wardley vs Justis Huni</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -562,6 +596,38 @@
   </programme>
   <programme start="20250607000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250607235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Pro Motocross: Thunder Valley (Qualifying)" stop="20250607235959 -0500">
+    <title>11:00 AM 07/06/25 - Pro Motocross: Thunder Valley (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Pro Motocross: Thunder Valley" stop="20250607235959 -0500">
+    <title>02:00 PM 07/06/25 - Pro Motocross: Thunder Valley</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="MXGP of Latvia (Day 2)" stop="20250607235959 -0500">
+    <title>01:35 AM 08/06/25 - MXGP of Latvia (Day 2)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="WWE: Money in the Bank 2025" stop="20250607235959 -0500">
+    <title>06:00 PM 07/06/25 - WWE: Money in the Bank 2025</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
