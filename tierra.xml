@@ -3,20 +3,41 @@
   <channel id="Louisville vs. Miami">
     <display-name lang="en">Louisville vs. Miami</display-name>
   </channel>
+  <channel id="North Carolina vs. Arizona">
+    <display-name lang="en">North Carolina vs. Arizona</display-name>
+  </channel>
   <channel id="PDC: Women's Series 13-14">
     <display-name lang="en">PDC: Women's Series 13-14</display-name>
   </channel>
-  <channel id="San Marino vs. Bosnia and Herzegovina">
-    <display-name lang="en">San Marino vs. Bosnia and Herzegovina</display-name>
+  <channel id="PDC: Cosmo Darts Classic - Board 5">
+    <display-name lang="en">PDC: Cosmo Darts Classic - Board 5</display-name>
+  </channel>
+  <channel id="PDC: Cosmo Darts Classic - Board 3">
+    <display-name lang="en">PDC: Cosmo Darts Classic - Board 3</display-name>
+  </channel>
+  <channel id="PDC: Cosmo Darts Classic 2025">
+    <display-name lang="en">PDC: Cosmo Darts Classic 2025</display-name>
+  </channel>
+  <channel id="PDC: Cosmo Darts Classic - Board 4">
+    <display-name lang="en">PDC: Cosmo Darts Classic - Board 4</display-name>
+  </channel>
+  <channel id="PDC: Cosmo Darts Classic - Board 2">
+    <display-name lang="en">PDC: Cosmo Darts Classic - Board 2</display-name>
+  </channel>
+  <channel id="England vs. Andorra">
+    <display-name lang="en">England vs. Andorra</display-name>
+  </channel>
+  <channel id="Lithuania vs. Malta">
+    <display-name lang="en">Lithuania vs. Malta</display-name>
   </channel>
   <channel id="MXGP of Latvia (Day 1)">
     <display-name lang="en">MXGP of Latvia (Day 1)</display-name>
   </channel>
+  <channel id="Pro Motocross: Thunder Valley (Qualifying)">
+    <display-name lang="en">Pro Motocross: Thunder Valley (Qualifying)</display-name>
+  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="North Carolina vs. Arizona">
-    <display-name lang="en">North Carolina vs. Arizona</display-name>
   </channel>
   <channel id="Murray State vs. Duke">
     <display-name lang="en">Murray State vs. Duke</display-name>
@@ -96,21 +117,6 @@
   <channel id="UFC 316: Dvalishvili vs O'Malley 2">
     <display-name lang="en">UFC 316: Dvalishvili vs O'Malley 2</display-name>
   </channel>
-  <channel id="PDC: Cosmo Darts Classic - Board 5">
-    <display-name lang="en">PDC: Cosmo Darts Classic - Board 5</display-name>
-  </channel>
-  <channel id="PDC: Cosmo Darts Classic - Board 3">
-    <display-name lang="en">PDC: Cosmo Darts Classic - Board 3</display-name>
-  </channel>
-  <channel id="PDC: Cosmo Darts Classic 2025">
-    <display-name lang="en">PDC: Cosmo Darts Classic 2025</display-name>
-  </channel>
-  <channel id="PDC: Cosmo Darts Classic - Board 4">
-    <display-name lang="en">PDC: Cosmo Darts Classic - Board 4</display-name>
-  </channel>
-  <channel id="PDC: Cosmo Darts Classic - Board 2">
-    <display-name lang="en">PDC: Cosmo Darts Classic - Board 2</display-name>
-  </channel>
   <channel id="PDC: Mr Vegas Nordic Darts Masters - Day Two">
     <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
   </channel>
@@ -131,12 +137,6 @@
   </channel>
   <channel id="PDC: DJD Masters  - Board 4">
     <display-name lang="en">PDC: DJD Masters  - Board 4</display-name>
-  </channel>
-  <channel id="England vs. Andorra">
-    <display-name lang="en">England vs. Andorra</display-name>
-  </channel>
-  <channel id="Lithuania vs. Malta">
-    <display-name lang="en">Lithuania vs. Malta</display-name>
   </channel>
   <channel id="Serbia vs. Albania">
     <display-name lang="en">Serbia vs. Albania</display-name>
@@ -164,9 +164,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Pro Motocross: Thunder Valley (Qualifying)">
-    <display-name lang="en">Pro Motocross: Thunder Valley (Qualifying)</display-name>
   </channel>
   <channel id="Pro Motocross: Thunder Valley">
     <display-name lang="en">Pro Motocross: Thunder Valley</display-name>
@@ -203,6 +200,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250607000000 -0500" channel="North Carolina vs. Arizona" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250607000000 -0500" channel="PDC: Women's Series 13-14" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -211,7 +216,55 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="San Marino vs. Bosnia and Herzegovina" stop="20250607235959 -0500">
+  <programme start="20250607000000 -0500" channel="PDC: Cosmo Darts Classic - Board 5" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="PDC: Cosmo Darts Classic - Board 3" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="PDC: Cosmo Darts Classic 2025" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="PDC: Cosmo Darts Classic - Board 4" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="PDC: Cosmo Darts Classic - Board 2" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="England vs. Andorra" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Lithuania vs. Malta" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -227,16 +280,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250607235959 -0500">
-    <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
+  <programme start="20250607000000 -0500" channel="Pro Motocross: Thunder Valley (Qualifying)" stop="20250607235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="North Carolina vs. Arizona" stop="20250607235959 -0500">
-    <title>11:00 AM 07/06/25 - North Carolina vs. Arizona</title>
+  <programme start="20250607000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250607235959 -0500">
+    <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -451,46 +504,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="PDC: Cosmo Darts Classic - Board 5" stop="20250607235959 -0500">
-    <title>11:00 AM 07/06/25 - PDC: Cosmo Darts Classic - Board 5</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="PDC: Cosmo Darts Classic - Board 3" stop="20250607235959 -0500">
-    <title>11:00 AM 07/06/25 - PDC: Cosmo Darts Classic - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="PDC: Cosmo Darts Classic 2025" stop="20250607235959 -0500">
-    <title>11:00 AM 07/06/25 - PDC: Cosmo Darts Classic 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="PDC: Cosmo Darts Classic - Board 4" stop="20250607235959 -0500">
-    <title>11:00 AM 07/06/25 - PDC: Cosmo Darts Classic - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="PDC: Cosmo Darts Classic - Board 2" stop="20250607235959 -0500">
-    <title>11:00 AM 07/06/25 - PDC: Cosmo Darts Classic - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day Two" stop="20250607235959 -0500">
     <title>01:00 PM 07/06/25 - PDC: Mr Vegas Nordic Darts Masters - Day Two</title>
     <date>2025</date>
@@ -541,22 +554,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="PDC: DJD Masters  - Board 4" stop="20250607235959 -0500">
     <title>10:00 AM 08/06/25 - PDC: DJD Masters  - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="England vs. Andorra" stop="20250607235959 -0500">
-    <title>11:00 AM 07/06/25 - England vs. Andorra</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Lithuania vs. Malta" stop="20250607235959 -0500">
-    <title>11:00 AM 07/06/25 - Lithuania vs. Malta</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -629,14 +626,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250607235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Pro Motocross: Thunder Valley (Qualifying)" stop="20250607235959 -0500">
-    <title>11:00 AM 07/06/25 - Pro Motocross: Thunder Valley (Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
