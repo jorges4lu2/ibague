@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250607 -0500">
-  <channel id="Auburn vs. Coastal Carolina">
-    <display-name lang="en">Auburn vs. Coastal Carolina</display-name>
-  </channel>
   <channel id="Philadelphia Phillies vs. Pittsburgh Pirates">
     <display-name lang="en">Philadelphia Phillies vs. Pittsburgh Pirates</display-name>
   </channel>
@@ -27,20 +24,26 @@
   <channel id="Tennessee vs. Arkansas">
     <display-name lang="en">Tennessee vs. Arkansas</display-name>
   </channel>
+  <channel id="UTSA vs. UCLA">
+    <display-name lang="en">UTSA vs. UCLA</display-name>
+  </channel>
   <channel id="Boxing: Fabio Wardley vs Justis Huni">
     <display-name lang="en">Boxing: Fabio Wardley vs Justis Huni</display-name>
   </channel>
   <channel id="UFC 316: Dvalishvili vs O'Malley 2">
     <display-name lang="en">UFC 316: Dvalishvili vs O'Malley 2</display-name>
   </channel>
+  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day Two">
+    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
+  </channel>
   <channel id="Pro Motocross: Thunder Valley">
     <display-name lang="en">Pro Motocross: Thunder Valley</display-name>
   </channel>
+  <channel id="WWE: Money in the Bank 2025">
+    <display-name lang="en">WWE: Money in the Bank 2025</display-name>
+  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="UTSA vs. UCLA">
-    <display-name lang="en">UTSA vs. UCLA</display-name>
   </channel>
   <channel id="Boston Red Sox vs. New York Yankees">
     <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
@@ -105,12 +108,6 @@
   <channel id="MXGP of Latvia (Day 2)">
     <display-name lang="en">MXGP of Latvia (Day 2)</display-name>
   </channel>
-  <channel id="WWE: Money in the Bank 2025">
-    <display-name lang="en">WWE: Money in the Bank 2025</display-name>
-  </channel>
-  <channel id="AEW: Saturday Night Collision">
-    <display-name lang="en">AEW: Saturday Night Collision</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -126,14 +123,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250607000000 -0500" channel="Auburn vs. Coastal Carolina" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="Philadelphia Phillies vs. Pittsburgh Pirates" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -198,6 +187,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250607000000 -0500" channel="UTSA vs. UCLA" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250607000000 -0500" channel="Boxing: Fabio Wardley vs Justis Huni" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -214,7 +211,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250607000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day Two" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250607000000 -0500" channel="Pro Motocross: Thunder Valley" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="WWE: Money in the Bank 2025" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -224,14 +237,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250607235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="UTSA vs. UCLA" stop="20250607235959 -0500">
-    <title>06:00 PM 07/06/25 - UTSA vs. UCLA</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -400,22 +405,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="MXGP of Latvia (Day 2)" stop="20250607235959 -0500">
     <title>01:35 AM 08/06/25 - MXGP of Latvia (Day 2)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="WWE: Money in the Bank 2025" stop="20250607235959 -0500">
-    <title>06:00 PM 07/06/25 - WWE: Money in the Bank 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="AEW: Saturday Night Collision" stop="20250607235959 -0500">
-    <title>07:00 PM 07/06/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
