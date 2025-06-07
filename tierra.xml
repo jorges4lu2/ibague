@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250607 -0500">
-  <channel id="Louisville vs. Miami">
-    <display-name lang="en">Louisville vs. Miami</display-name>
-  </channel>
   <channel id="North Carolina vs. Arizona">
     <display-name lang="en">North Carolina vs. Arizona</display-name>
   </channel>
@@ -14,6 +11,18 @@
   </channel>
   <channel id="West Virginia vs. LSU">
     <display-name lang="en">West Virginia vs. LSU</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. Minnesota Twins">
+    <display-name lang="en">Toronto Blue Jays vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. St. Louis Cardinals">
+    <display-name lang="en">Los Angeles Dodgers vs. St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="Auburn vs. Coastal Carolina">
+    <display-name lang="en">Auburn vs. Coastal Carolina</display-name>
+  </channel>
+  <channel id="Aces at Valkyries">
+    <display-name lang="en">Aces at Valkyries</display-name>
   </channel>
   <channel id="Boxing: Fabio Wardley vs Justis Huni">
     <display-name lang="en">Boxing: Fabio Wardley vs Justis Huni</display-name>
@@ -39,26 +48,23 @@
   <channel id="PDC: Mr Vegas Nordic Darts Masters - Day Two">
     <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
   </channel>
-  <channel id="England vs. Andorra">
-    <display-name lang="en">England vs. Andorra</display-name>
+  <channel id="Serbia vs. Albania">
+    <display-name lang="en">Serbia vs. Albania</display-name>
   </channel>
-  <channel id="Lithuania vs. Malta">
-    <display-name lang="en">Lithuania vs. Malta</display-name>
+  <channel id="Romania vs. Austria">
+    <display-name lang="en">Romania vs. Austria</display-name>
+  </channel>
+  <channel id="Netherlands vs. Finland">
+    <display-name lang="en">Netherlands vs. Finland</display-name>
   </channel>
   <channel id="MXGP of Latvia (Day 1)">
     <display-name lang="en">MXGP of Latvia (Day 1)</display-name>
   </channel>
+  <channel id="Pro Motocross: Thunder Valley">
+    <display-name lang="en">Pro Motocross: Thunder Valley</display-name>
+  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Minnesota Twins">
-    <display-name lang="en">Toronto Blue Jays vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. St. Louis Cardinals">
-    <display-name lang="en">Los Angeles Dodgers vs. St. Louis Cardinals</display-name>
-  </channel>
-  <channel id="Auburn vs. Coastal Carolina">
-    <display-name lang="en">Auburn vs. Coastal Carolina</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Pittsburgh Pirates">
     <display-name lang="en">Philadelphia Phillies vs. Pittsburgh Pirates</display-name>
@@ -105,9 +111,6 @@
   <channel id="Baltimore Orioles vs. Athletics">
     <display-name lang="en">Baltimore Orioles vs. Athletics</display-name>
   </channel>
-  <channel id="Aces at Valkyries">
-    <display-name lang="en">Aces at Valkyries</display-name>
-  </channel>
   <channel id="Fever at Sky">
     <display-name lang="en">Fever at Sky</display-name>
   </channel>
@@ -135,15 +138,6 @@
   <channel id="PDC: DJD Masters  - Board 4">
     <display-name lang="en">PDC: DJD Masters  - Board 4</display-name>
   </channel>
-  <channel id="Serbia vs. Albania">
-    <display-name lang="en">Serbia vs. Albania</display-name>
-  </channel>
-  <channel id="Romania vs. Austria">
-    <display-name lang="en">Romania vs. Austria</display-name>
-  </channel>
-  <channel id="Netherlands vs. Finland">
-    <display-name lang="en">Netherlands vs. Finland</display-name>
-  </channel>
   <channel id="UEFA Nations League: Portugal vs Spain">
     <display-name lang="en">UEFA Nations League: Portugal vs Spain</display-name>
   </channel>
@@ -161,9 +155,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Pro Motocross: Thunder Valley">
-    <display-name lang="en">Pro Motocross: Thunder Valley</display-name>
   </channel>
   <channel id="MXGP of Latvia (Day 2)">
     <display-name lang="en">MXGP of Latvia (Day 2)</display-name>
@@ -189,14 +180,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250607000000 -0500" channel="Louisville vs. Miami" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="North Carolina vs. Arizona" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -222,6 +205,38 @@
     </audio>
   </programme>
   <programme start="20250607000000 -0500" channel="West Virginia vs. LSU" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Toronto Blue Jays vs. Minnesota Twins" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Los Angeles Dodgers vs. St. Louis Cardinals" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Auburn vs. Coastal Carolina" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Aces at Valkyries" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -293,7 +308,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="England vs. Andorra" stop="20250607235959 -0500">
+  <programme start="20250607000000 -0500" channel="Serbia vs. Albania" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -301,7 +316,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="Lithuania vs. Malta" stop="20250607235959 -0500">
+  <programme start="20250607000000 -0500" channel="Romania vs. Austria" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Netherlands vs. Finland" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -317,32 +340,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250607000000 -0500" channel="Pro Motocross: Thunder Valley" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250607000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250607235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Toronto Blue Jays vs. Minnesota Twins" stop="20250607235959 -0500">
-    <title>01:10 PM 07/06/25 - Toronto Blue Jays vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Los Angeles Dodgers vs. St. Louis Cardinals" stop="20250607235959 -0500">
-    <title>01:15 PM 07/06/25 - Los Angeles Dodgers vs. St. Louis Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Auburn vs. Coastal Carolina" stop="20250607235959 -0500">
-    <title>02:00 PM 07/06/25 - Auburn vs. Coastal Carolina</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -469,14 +476,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="Aces at Valkyries" stop="20250607235959 -0500">
-    <title>02:00 PM 07/06/25 - Aces at Valkyries</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="Fever at Sky" stop="20250607235959 -0500">
     <title>07:00 PM 07/06/25 - Fever at Sky</title>
     <date>2025</date>
@@ -549,30 +548,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="Serbia vs. Albania" stop="20250607235959 -0500">
-    <title>01:45 PM 07/06/25 - Serbia vs. Albania</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Romania vs. Austria" stop="20250607235959 -0500">
-    <title>01:45 PM 07/06/25 - Romania vs. Austria</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Netherlands vs. Finland" stop="20250607235959 -0500">
-    <title>01:45 PM 07/06/25 - Netherlands vs. Finland</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="UEFA Nations League: Portugal vs Spain" stop="20250607235959 -0500">
     <title>08:00 AM 08/06/25 - UEFA Nations League: Portugal vs Spain</title>
     <date>2025</date>
@@ -615,14 +590,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250607235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Pro Motocross: Thunder Valley" stop="20250607235959 -0500">
-    <title>02:00 PM 07/06/25 - Pro Motocross: Thunder Valley</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
