@@ -6,6 +6,9 @@
   <channel id="North Carolina vs. Arizona">
     <display-name lang="en">North Carolina vs. Arizona</display-name>
   </channel>
+  <channel id="Murray State vs. Duke">
+    <display-name lang="en">Murray State vs. Duke</display-name>
+  </channel>
   <channel id="PDC: Women's Series 13-14">
     <display-name lang="en">PDC: Women's Series 13-14</display-name>
   </channel>
@@ -33,14 +36,8 @@
   <channel id="MXGP of Latvia (Day 1)">
     <display-name lang="en">MXGP of Latvia (Day 1)</display-name>
   </channel>
-  <channel id="Pro Motocross: Thunder Valley (Qualifying)">
-    <display-name lang="en">Pro Motocross: Thunder Valley (Qualifying)</display-name>
-  </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Murray State vs. Duke">
-    <display-name lang="en">Murray State vs. Duke</display-name>
   </channel>
   <channel id="Chicago Cubs vs. Detroit Tigers">
     <display-name lang="en">Chicago Cubs vs. Detroit Tigers</display-name>
@@ -208,6 +205,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250607000000 -0500" channel="Murray State vs. Duke" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250607000000 -0500" channel="PDC: Women's Series 13-14" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -280,24 +285,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="Pro Motocross: Thunder Valley (Qualifying)" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250607235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Murray State vs. Duke" stop="20250607235959 -0500">
-    <title>12:00 PM 07/06/25 - Murray State vs. Duke</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
