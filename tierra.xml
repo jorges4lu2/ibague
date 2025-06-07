@@ -3,6 +3,9 @@
   <channel id="PDC: Women's Series 13-14">
     <display-name lang="en">PDC: Women's Series 13-14</display-name>
   </channel>
+  <channel id="San Marino vs. Bosnia and Herzegovina">
+    <display-name lang="en">San Marino vs. Bosnia and Herzegovina</display-name>
+  </channel>
   <channel id="MXGP of Latvia (Day 1)">
     <display-name lang="en">MXGP of Latvia (Day 1)</display-name>
   </channel>
@@ -120,9 +123,6 @@
   <channel id="PDC: DJD Masters  - Board 4">
     <display-name lang="en">PDC: DJD Masters  - Board 4</display-name>
   </channel>
-  <channel id="San Marino vs. Bosnia and Herzegovina">
-    <display-name lang="en">San Marino vs. Bosnia and Herzegovina</display-name>
-  </channel>
   <channel id="England vs. Andorra">
     <display-name lang="en">England vs. Andorra</display-name>
   </channel>
@@ -187,6 +187,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250607000000 -0500" channel="PDC: Women's Series 13-14" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="San Marino vs. Bosnia and Herzegovina" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -500,14 +508,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="PDC: DJD Masters  - Board 4" stop="20250607235959 -0500">
     <title>10:00 AM 08/06/25 - PDC: DJD Masters  - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="San Marino vs. Bosnia and Herzegovina" stop="20250607235959 -0500">
-    <title>08:00 AM 07/06/25 - San Marino vs. Bosnia and Herzegovina</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
