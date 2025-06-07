@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250607 -0500">
+  <channel id="Louisville vs. Miami">
+    <display-name lang="en">Louisville vs. Miami</display-name>
+  </channel>
   <channel id="PDC: Women's Series 13-14">
     <display-name lang="en">PDC: Women's Series 13-14</display-name>
   </channel>
@@ -11,9 +14,6 @@
   </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Louisville vs. Miami">
-    <display-name lang="en">Louisville vs. Miami</display-name>
   </channel>
   <channel id="North Carolina vs. Arizona">
     <display-name lang="en">North Carolina vs. Arizona</display-name>
@@ -83,6 +83,12 @@
   </channel>
   <channel id="Aces at Valkyries">
     <display-name lang="en">Aces at Valkyries</display-name>
+  </channel>
+  <channel id="Fever at Sky">
+    <display-name lang="en">Fever at Sky</display-name>
+  </channel>
+  <channel id="Storm at Mercury">
+    <display-name lang="en">Storm at Mercury</display-name>
   </channel>
   <channel id="Boxing: Fabio Wardley vs Justis Huni">
     <display-name lang="en">Boxing: Fabio Wardley vs Justis Huni</display-name>
@@ -189,6 +195,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250607000000 -0500" channel="Louisville vs. Miami" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250607000000 -0500" channel="PDC: Women's Series 13-14" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -215,14 +229,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250607235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Louisville vs. Miami" stop="20250607235959 -0500">
-    <title>10:00 AM 07/06/25 - Louisville vs. Miami</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -407,6 +413,22 @@
   </programme>
   <programme start="20250607000000 -0500" channel="Aces at Valkyries" stop="20250607235959 -0500">
     <title>02:00 PM 07/06/25 - Aces at Valkyries</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Fever at Sky" stop="20250607235959 -0500">
+    <title>07:00 PM 07/06/25 - Fever at Sky</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Storm at Mercury" stop="20250607235959 -0500">
+    <title>09:00 PM 07/06/25 - Storm at Mercury</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
