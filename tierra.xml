@@ -21,6 +21,18 @@
   <channel id="Houston Astros vs. Cleveland Guardians">
     <display-name lang="en">Houston Astros vs. Cleveland Guardians</display-name>
   </channel>
+  <channel id="Kansas City Royals vs. Chicago White Sox">
+    <display-name lang="en">Kansas City Royals vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. Minnesota Twins">
+    <display-name lang="en">Toronto Blue Jays vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. St. Louis Cardinals">
+    <display-name lang="en">Los Angeles Dodgers vs. St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="Sun at Mystics">
+    <display-name lang="en">Sun at Mystics</display-name>
+  </channel>
   <channel id="PDC: Women's Series 15-16">
     <display-name lang="en">PDC: Women's Series 15-16</display-name>
   </channel>
@@ -39,17 +51,8 @@
   <channel id="PDC: DJD Masters  - Board 4">
     <display-name lang="en">PDC: DJD Masters  - Board 4</display-name>
   </channel>
-  <channel id="MXGP of Latvia (Day 2)">
-    <display-name lang="en">MXGP of Latvia (Day 2)</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Chicago White Sox">
-    <display-name lang="en">Kansas City Royals vs. Chicago White Sox</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Minnesota Twins">
-    <display-name lang="en">Toronto Blue Jays vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. St. Louis Cardinals">
-    <display-name lang="en">Los Angeles Dodgers vs. St. Louis Cardinals</display-name>
+  <channel id="UEFA Nations League: Portugal vs Spain">
+    <display-name lang="en">UEFA Nations League: Portugal vs Spain</display-name>
   </channel>
   <channel id="New York Mets vs. Colorado Rockies">
     <display-name lang="en">New York Mets vs. Colorado Rockies</display-name>
@@ -66,17 +69,11 @@
   <channel id="Boston Red Sox vs. New York Yankees">
     <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
   </channel>
-  <channel id="Sun at Mystics">
-    <display-name lang="en">Sun at Mystics</display-name>
-  </channel>
   <channel id="Lynx at Wings">
     <display-name lang="en">Lynx at Wings</display-name>
   </channel>
   <channel id="Pacers at Thunder (Game 2)">
     <display-name lang="en">Pacers at Thunder (Game 2)</display-name>
-  </channel>
-  <channel id="UEFA Nations League: Portugal vs Spain">
-    <display-name lang="en">UEFA Nations League: Portugal vs Spain</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
@@ -161,6 +158,38 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250608000000 -0500" channel="Kansas City Royals vs. Chicago White Sox" stop="20250608235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250608000000 -0500" channel="Toronto Blue Jays vs. Minnesota Twins" stop="20250608235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250608000000 -0500" channel="Los Angeles Dodgers vs. St. Louis Cardinals" stop="20250608235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250608000000 -0500" channel="Sun at Mystics" stop="20250608235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250608000000 -0500" channel="PDC: Women's Series 15-16" stop="20250608235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -209,32 +238,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250608000000 -0500" channel="MXGP of Latvia (Day 2)" stop="20250608235959 -0500">
+  <programme start="20250608000000 -0500" channel="UEFA Nations League: Portugal vs Spain" stop="20250608235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250608000000 -0500" channel="Kansas City Royals vs. Chicago White Sox" stop="20250608235959 -0500">
-    <title>01:10 PM 08/06/25 - Kansas City Royals vs. Chicago White Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250608000000 -0500" channel="Toronto Blue Jays vs. Minnesota Twins" stop="20250608235959 -0500">
-    <title>01:10 PM 08/06/25 - Toronto Blue Jays vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250608000000 -0500" channel="Los Angeles Dodgers vs. St. Louis Cardinals" stop="20250608235959 -0500">
-    <title>01:15 PM 08/06/25 - Los Angeles Dodgers vs. St. Louis Cardinals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -281,14 +286,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250608000000 -0500" channel="Sun at Mystics" stop="20250608235959 -0500">
-    <title>02:00 PM 08/06/25 - Sun at Mystics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250608000000 -0500" channel="Lynx at Wings" stop="20250608235959 -0500">
     <title>03:00 PM 08/06/25 - Lynx at Wings</title>
     <date>2025</date>
@@ -299,14 +296,6 @@
   </programme>
   <programme start="20250608000000 -0500" channel="Pacers at Thunder (Game 2)" stop="20250608235959 -0500">
     <title>07:00 PM 08/06/25 - Pacers at Thunder (Game 2)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250608000000 -0500" channel="UEFA Nations League: Portugal vs Spain" stop="20250608235959 -0500">
-    <title>02:00 PM 08/06/25 - UEFA Nations League: Portugal vs Spain</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
