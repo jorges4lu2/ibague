@@ -3,6 +3,9 @@
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
+  <channel id="PDC: Women's Series 15-16">
+    <display-name lang="en">PDC: Women's Series 15-16</display-name>
+  </channel>
   <channel id="MXGP of Latvia (Day 2)">
     <display-name lang="en">MXGP of Latvia (Day 2)</display-name>
   </channel>
@@ -50,9 +53,6 @@
   </channel>
   <channel id="Boston Red Sox vs. New York Yankees">
     <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
-  </channel>
-  <channel id="PDC: Women's Series 15-16">
-    <display-name lang="en">PDC: Women's Series 15-16</display-name>
   </channel>
   <channel id="PDC: DJD Masters  - Board 5">
     <display-name lang="en">PDC: DJD Masters  - Board 5</display-name>
@@ -103,6 +103,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250608000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250608235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250608000000 -0500" channel="PDC: Women's Series 15-16" stop="20250608235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -232,14 +240,6 @@
   </programme>
   <programme start="20250608000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250608235959 -0500">
     <title>06:00 PM 08/06/25 - Boston Red Sox vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250608000000 -0500" channel="PDC: Women's Series 15-16" stop="20250608235959 -0500">
-    <title>04:00 AM 08/06/25 - PDC: Women's Series 15-16</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
