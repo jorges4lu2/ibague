@@ -1,40 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250607 -0500">
-  <channel id="Philadelphia Phillies vs. Pittsburgh Pirates">
-    <display-name lang="en">Philadelphia Phillies vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Washington Nationals">
-    <display-name lang="en">Texas Rangers vs. Washington Nationals</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. San Francisco Giants">
-    <display-name lang="en">Atlanta Braves vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Cincinnati Reds">
-    <display-name lang="en">Arizona Diamondbacks vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Cleveland Guardians">
-    <display-name lang="en">Houston Astros vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Tampa Bay Rays">
-    <display-name lang="en">Miami Marlins vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Chicago White Sox">
-    <display-name lang="en">Kansas City Royals vs. Chicago White Sox</display-name>
-  </channel>
   <channel id="Tennessee vs. Arkansas">
     <display-name lang="en">Tennessee vs. Arkansas</display-name>
   </channel>
   <channel id="UTSA vs. UCLA">
     <display-name lang="en">UTSA vs. UCLA</display-name>
   </channel>
-  <channel id="Boxing: Fabio Wardley vs Justis Huni">
-    <display-name lang="en">Boxing: Fabio Wardley vs Justis Huni</display-name>
+  <channel id="Boston Red Sox vs. New York Yankees">
+    <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
+  </channel>
+  <channel id="San Diego Padres vs. Milwaukee Brewers">
+    <display-name lang="en">San Diego Padres vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Fever at Sky">
+    <display-name lang="en">Fever at Sky</display-name>
   </channel>
   <channel id="UFC 316: Dvalishvili vs O'Malley 2">
     <display-name lang="en">UFC 316: Dvalishvili vs O'Malley 2</display-name>
-  </channel>
-  <channel id="PDC: Mr Vegas Nordic Darts Masters - Day Two">
-    <display-name lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
   </channel>
   <channel id="Pro Motocross: Thunder Valley">
     <display-name lang="en">Pro Motocross: Thunder Valley</display-name>
@@ -44,12 +26,6 @@
   </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. New York Yankees">
-    <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Milwaukee Brewers">
-    <display-name lang="en">San Diego Padres vs. Milwaukee Brewers</display-name>
   </channel>
   <channel id="Oregon State vs. Florida State">
     <display-name lang="en">Oregon State vs. Florida State</display-name>
@@ -62,9 +38,6 @@
   </channel>
   <channel id="Baltimore Orioles vs. Athletics">
     <display-name lang="en">Baltimore Orioles vs. Athletics</display-name>
-  </channel>
-  <channel id="Fever at Sky">
-    <display-name lang="en">Fever at Sky</display-name>
   </channel>
   <channel id="Storm at Mercury">
     <display-name lang="en">Storm at Mercury</display-name>
@@ -123,62 +96,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250607000000 -0500" channel="Philadelphia Phillies vs. Pittsburgh Pirates" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Texas Rangers vs. Washington Nationals" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Atlanta Braves vs. San Francisco Giants" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Arizona Diamondbacks vs. Cincinnati Reds" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Houston Astros vs. Cleveland Guardians" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Miami Marlins vs. Tampa Bay Rays" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Kansas City Royals vs. Chicago White Sox" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="Tennessee vs. Arkansas" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -195,7 +112,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250607000000 -0500" channel="Boxing: Fabio Wardley vs Justis Huni" stop="20250607235959 -0500">
+  <programme start="20250607000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="San Diego Padres vs. Milwaukee Brewers" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250607000000 -0500" channel="Fever at Sky" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -204,14 +137,6 @@
     </audio>
   </programme>
   <programme start="20250607000000 -0500" channel="UFC 316: Dvalishvili vs O'Malley 2" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="PDC: Mr Vegas Nordic Darts Masters - Day Two" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -237,22 +162,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250607235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250607235959 -0500">
-    <title>06:35 PM 07/06/25 - Boston Red Sox vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="San Diego Padres vs. Milwaukee Brewers" stop="20250607235959 -0500">
-    <title>06:35 PM 07/06/25 - San Diego Padres vs. Milwaukee Brewers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -285,14 +194,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="Baltimore Orioles vs. Athletics" stop="20250607235959 -0500">
     <title>09:05 PM 07/06/25 - Baltimore Orioles vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Fever at Sky" stop="20250607235959 -0500">
-    <title>07:00 PM 07/06/25 - Fever at Sky</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
