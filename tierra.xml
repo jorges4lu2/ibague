@@ -3,6 +3,9 @@
   <channel id="PDC: Women's Series 15-16">
     <display-name lang="en">PDC: Women's Series 15-16</display-name>
   </channel>
+  <channel id="UEFA Nations League: Germany vs France">
+    <display-name lang="en">UEFA Nations League: Germany vs France</display-name>
+  </channel>
   <channel id="MXGP of Latvia (Day 2)">
     <display-name lang="en">MXGP of Latvia (Day 2)</display-name>
   </channel>
@@ -66,9 +69,6 @@
   <channel id="PDC: DJD Masters  - Board 4">
     <display-name lang="en">PDC: DJD Masters  - Board 4</display-name>
   </channel>
-  <channel id="UEFA Nations League: Germany vs France">
-    <display-name lang="en">UEFA Nations League: Germany vs France</display-name>
-  </channel>
   <channel id="UEFA Nations League: Portugal vs Spain">
     <display-name lang="en">UEFA Nations League: Portugal vs Spain</display-name>
   </channel>
@@ -100,6 +100,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250608000000 -0500" channel="PDC: Women's Series 15-16" stop="20250608235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250608000000 -0500" channel="UEFA Nations League: Germany vs France" stop="20250608235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -269,14 +277,6 @@
   </programme>
   <programme start="20250608000000 -0500" channel="PDC: DJD Masters  - Board 4" stop="20250608235959 -0500">
     <title>10:00 AM 08/06/25 - PDC: DJD Masters  - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250608000000 -0500" channel="UEFA Nations League: Germany vs France" stop="20250608235959 -0500">
-    <title>08:00 AM 08/06/25 - UEFA Nations League: Germany vs France</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
