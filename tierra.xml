@@ -3,6 +3,9 @@
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
   </channel>
+  <channel id="MXGP of Latvia (Day 2)">
+    <display-name lang="en">MXGP of Latvia (Day 2)</display-name>
+  </channel>
   <channel id="Miami Marlins vs. Tampa Bay Rays">
     <display-name lang="en">Miami Marlins vs. Tampa Bay Rays</display-name>
   </channel>
@@ -84,9 +87,6 @@
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
-  <channel id="MXGP of Latvia (Day 2)">
-    <display-name lang="en">MXGP of Latvia (Day 2)</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -103,6 +103,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250608000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250608235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250608000000 -0500" channel="MXGP of Latvia (Day 2)" stop="20250608235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -320,14 +328,6 @@
   </programme>
   <programme start="20250608000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250608235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250608000000 -0500" channel="MXGP of Latvia (Day 2)" stop="20250608235959 -0500">
-    <title>01:35 AM 08/06/25 - MXGP of Latvia (Day 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
