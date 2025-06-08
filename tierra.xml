@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250607 -0500">
-  <channel id="Tennessee vs. Arkansas">
-    <display-name lang="en">Tennessee vs. Arkansas</display-name>
-  </channel>
   <channel id="UTSA vs. UCLA">
     <display-name lang="en">UTSA vs. UCLA</display-name>
   </channel>
@@ -12,23 +9,20 @@
   <channel id="San Diego Padres vs. Milwaukee Brewers">
     <display-name lang="en">San Diego Padres vs. Milwaukee Brewers</display-name>
   </channel>
+  <channel id="Oregon State vs. Florida State">
+    <display-name lang="en">Oregon State vs. Florida State</display-name>
+  </channel>
   <channel id="Fever at Sky">
     <display-name lang="en">Fever at Sky</display-name>
   </channel>
   <channel id="UFC 316: Dvalishvili vs O'Malley 2">
     <display-name lang="en">UFC 316: Dvalishvili vs O'Malley 2</display-name>
   </channel>
-  <channel id="Pro Motocross: Thunder Valley">
-    <display-name lang="en">Pro Motocross: Thunder Valley</display-name>
-  </channel>
   <channel id="WWE: Money in the Bank 2025">
     <display-name lang="en">WWE: Money in the Bank 2025</display-name>
   </channel>
   <channel id="ArmSports Entertainment: Arizona State Championship 2025">
     <display-name lang="en">ArmSports Entertainment: Arizona State Championship 2025</display-name>
-  </channel>
-  <channel id="Oregon State vs. Florida State">
-    <display-name lang="en">Oregon State vs. Florida State</display-name>
   </channel>
   <channel id="Seattle Mariners vs. Los Angeles Angels">
     <display-name lang="en">Seattle Mariners vs. Los Angeles Angels</display-name>
@@ -96,14 +90,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250607000000 -0500" channel="Tennessee vs. Arkansas" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250607000000 -0500" channel="UTSA vs. UCLA" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -128,6 +114,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250607000000 -0500" channel="Oregon State vs. Florida State" stop="20250607235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250607000000 -0500" channel="Fever at Sky" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -137,14 +131,6 @@
     </audio>
   </programme>
   <programme start="20250607000000 -0500" channel="UFC 316: Dvalishvili vs O'Malley 2" stop="20250607235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Pro Motocross: Thunder Valley" stop="20250607235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -162,14 +148,6 @@
   </programme>
   <programme start="20250607000000 -0500" channel="ArmSports Entertainment: Arizona State Championship 2025" stop="20250607235959 -0500">
     <title>09:00 PM 07/06/25 - ArmSports Entertainment: Arizona State Championship 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250607000000 -0500" channel="Oregon State vs. Florida State" stop="20250607235959 -0500">
-    <title>08:00 PM 07/06/25 - Oregon State vs. Florida State</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
