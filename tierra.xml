@@ -3,6 +3,9 @@
   <channel id="Kazakhstan vs North Macedonia">
     <display-name lang="en">Kazakhstan vs North Macedonia</display-name>
   </channel>
+  <channel id="Valkyries at Sparks">
+    <display-name lang="en">Valkyries at Sparks</display-name>
+  </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
@@ -32,6 +35,14 @@
   </channel>
   <programme start="20250609000000 -0500" channel="Kazakhstan vs North Macedonia" stop="20250609235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250609000000 -0500" channel="Valkyries at Sparks" stop="20250609235959 -0500">
+    <title>09:00 PM 09/06/25 - Valkyries at Sparks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
