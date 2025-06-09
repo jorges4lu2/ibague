@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250609 -0500">
+  <channel id="Wales vs. Belgium">
+    <display-name lang="en">Wales vs. Belgium</display-name>
+  </channel>
+  <channel id="Czechia vs. Croatia">
+    <display-name lang="en">Czechia vs. Croatia</display-name>
+  </channel>
+  <channel id="Norway vs. Estonia">
+    <display-name lang="en">Norway vs. Estonia</display-name>
+  </channel>
+  <channel id="Gibraltar vs. Faroe Islands">
+    <display-name lang="en">Gibraltar vs. Faroe Islands</display-name>
+  </channel>
+  <channel id="Moldova vs. Italy">
+    <display-name lang="en">Moldova vs. Italy</display-name>
+  </channel>
   <channel id="Cincinnati Reds vs. Cleveland Guardians">
     <display-name lang="en">Cincinnati Reds vs. Cleveland Guardians</display-name>
   </channel>
@@ -29,21 +44,6 @@
   </channel>
   <channel id="Valkyries at Sparks">
     <display-name lang="en">Valkyries at Sparks</display-name>
-  </channel>
-  <channel id="Wales vs. Belgium">
-    <display-name lang="en">Wales vs. Belgium</display-name>
-  </channel>
-  <channel id="Czechia vs. Croatia">
-    <display-name lang="en">Czechia vs. Croatia</display-name>
-  </channel>
-  <channel id="Norway vs. Estonia">
-    <display-name lang="en">Norway vs. Estonia</display-name>
-  </channel>
-  <channel id="Gibraltar vs. Faroe Islands">
-    <display-name lang="en">Gibraltar vs. Faroe Islands</display-name>
-  </channel>
-  <channel id="Moldova vs. Italy">
-    <display-name lang="en">Moldova vs. Italy</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
@@ -90,6 +90,46 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250609000000 -0500" channel="Wales vs. Belgium" stop="20250609235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250609000000 -0500" channel="Czechia vs. Croatia" stop="20250609235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250609000000 -0500" channel="Norway vs. Estonia" stop="20250609235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250609000000 -0500" channel="Gibraltar vs. Faroe Islands" stop="20250609235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250609000000 -0500" channel="Moldova vs. Italy" stop="20250609235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250609000000 -0500" channel="Cincinnati Reds vs. Cleveland Guardians" stop="20250609235959 -0500">
     <title>05:40 PM 09/06/25 - Cincinnati Reds vs. Cleveland Guardians</title>
     <date>2025</date>
@@ -164,46 +204,6 @@
   </programme>
   <programme start="20250609000000 -0500" channel="Valkyries at Sparks" stop="20250609235959 -0500">
     <title>09:00 PM 09/06/25 - Valkyries at Sparks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250609000000 -0500" channel="Wales vs. Belgium" stop="20250609235959 -0500">
-    <title>01:45 PM 09/06/25 - Wales vs. Belgium</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250609000000 -0500" channel="Czechia vs. Croatia" stop="20250609235959 -0500">
-    <title>01:45 PM 09/06/25 - Czechia vs. Croatia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250609000000 -0500" channel="Norway vs. Estonia" stop="20250609235959 -0500">
-    <title>01:45 PM 09/06/25 - Norway vs. Estonia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250609000000 -0500" channel="Gibraltar vs. Faroe Islands" stop="20250609235959 -0500">
-    <title>01:45 PM 09/06/25 - Gibraltar vs. Faroe Islands</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250609000000 -0500" channel="Moldova vs. Italy" stop="20250609235959 -0500">
-    <title>01:45 PM 09/06/25 - Moldova vs. Italy</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
