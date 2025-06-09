@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250609 -0500">
+  <channel id="Kazakhstan vs North Macedonia">
+    <display-name lang="en">Kazakhstan vs North Macedonia</display-name>
+  </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
@@ -27,6 +30,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250609000000 -0500" channel="Kazakhstan vs North Macedonia" stop="20250609235959 -0500">
+    <title>09:00 AM 09/06/25 - Kazakhstan vs North Macedonia</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250609000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250609235959 -0500">
     <title>07:00 PM 09/06/25 - Edmonton Oilers vs. Florida Panthers</title>
     <date>2025</date>
