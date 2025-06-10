@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250610 -0500">
+  <channel id="Bangladesh vs Singapore">
+    <display-name lang="en">Bangladesh vs Singapore</display-name>
+  </channel>
   <channel id="Poland vs. Finland">
     <display-name lang="en">Poland vs. Finland</display-name>
   </channel>
@@ -72,6 +75,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250610000000 -0500" channel="Bangladesh vs Singapore" stop="20250610235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250610000000 -0500" channel="Poland vs. Finland" stop="20250610235959 -0500">
     <title>01:45 PM 10/06/25 - Poland vs. Finland</title>
     <date>2025</date>
