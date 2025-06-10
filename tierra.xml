@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250610 -0500">
-  <channel id="Bangladesh vs Singapore">
-    <display-name lang="en">Bangladesh vs Singapore</display-name>
+  <channel id="Fever at Dream">
+    <display-name lang="en">Fever at Dream</display-name>
+  </channel>
+  <channel id="Sky at Liberty">
+    <display-name lang="en">Sky at Liberty</display-name>
   </channel>
   <channel id="Poland vs. Finland">
     <display-name lang="en">Poland vs. Finland</display-name>
@@ -75,8 +78,16 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250610000000 -0500" channel="Bangladesh vs Singapore" stop="20250610235959 -0500">
-    <title>Live</title>
+  <programme start="20250610000000 -0500" channel="Fever at Dream" stop="20250610235959 -0500">
+    <title>06:30 PM 10/06/25 - Fever at Dream</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250610000000 -0500" channel="Sky at Liberty" stop="20250610235959 -0500">
+    <title>07:00 PM 10/06/25 - Sky at Liberty</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
