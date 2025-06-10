@@ -18,6 +18,12 @@
   <channel id="Toronto Blue Jays vs. St. Louis Cardinals">
     <display-name lang="en">Toronto Blue Jays vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Edmonton Oilers vs. Florida Panthers">
+    <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
   <channel id="Athletics vs. Los Angeles Angels">
     <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
   </channel>
@@ -33,17 +39,11 @@
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
-  <channel id="Edmonton Oilers vs. Florida Panthers">
-    <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
-  </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -100,7 +100,7 @@
     </audio>
   </programme>
   <programme start="20250609000000 -0500" channel="Tampa Bay Rays vs. Boston Red Sox" stop="20250609235959 -0500">
-    <title>06:10 PM 09/06/25 - Tampa Bay Rays vs. Boston Red Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -108,7 +108,7 @@
     </audio>
   </programme>
   <programme start="20250609000000 -0500" channel="Atlanta Braves vs. Milwaukee Brewers" stop="20250609235959 -0500">
-    <title>06:40 PM 09/06/25 - Atlanta Braves vs. Milwaukee Brewers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -116,7 +116,23 @@
     </audio>
   </programme>
   <programme start="20250609000000 -0500" channel="Toronto Blue Jays vs. St. Louis Cardinals" stop="20250609235959 -0500">
-    <title>06:45 PM 09/06/25 - Toronto Blue Jays vs. St. Louis Cardinals</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250609000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250609235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250609000000 -0500" channel="WWE: Monday Night RAW" stop="20250609235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -156,14 +172,6 @@
     </audio>
   </programme>
   <programme start="20250609000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250609235959 -0500">
-    <title>07:00 PM 09/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250609000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250609235959 -0500">
     <title>07:00 PM 12/06/25 - Edmonton Oilers vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -181,14 +189,6 @@
   </programme>
   <programme start="20250609000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250609235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250609000000 -0500" channel="WWE: Monday Night RAW" stop="20250609235959 -0500">
-    <title>07:00 PM 09/06/25 - WWE: Monday Night RAW</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
