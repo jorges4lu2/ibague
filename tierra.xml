@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250611 -0500">
-  <channel id="Miami Marlins vs. Pittsburgh Pirates">
-    <display-name lang="en">Miami Marlins vs. Pittsburgh Pirates</display-name>
-  </channel>
   <channel id="Chicago Cubs vs. Philadelphia Phillies">
     <display-name lang="en">Chicago Cubs vs. Philadelphia Phillies</display-name>
   </channel>
@@ -96,14 +93,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250611000000 -0500" channel="Miami Marlins vs. Pittsburgh Pirates" stop="20250611235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250611000000 -0500" channel="Chicago Cubs vs. Philadelphia Phillies" stop="20250611235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -137,7 +126,7 @@
     </audio>
   </programme>
   <programme start="20250611000000 -0500" channel="Seattle Mariners vs. Arizona Diamondbacks" stop="20250611235959 -0500">
-    <title>02:40 PM 11/06/25 - Seattle Mariners vs. Arizona Diamondbacks</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
