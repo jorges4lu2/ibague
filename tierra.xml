@@ -30,6 +30,12 @@
   <channel id="Toronto Blue Jays vs. St. Louis Cardinals">
     <display-name lang="en">Toronto Blue Jays vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Chicago White Sox vs. Houston Astros">
+    <display-name lang="en">Chicago White Sox vs. Houston Astros</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. Colorado Rockies">
+    <display-name lang="en">San Francisco Giants vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Fever at Dream">
     <display-name lang="en">Fever at Dream</display-name>
   </channel>
@@ -39,17 +45,20 @@
   <channel id="Venezuela vs. Uruguay">
     <display-name lang="en">Venezuela vs. Uruguay</display-name>
   </channel>
+  <channel id="Colombia vs. Argentina (Spanish)">
+    <display-name lang="en">Colombia vs. Argentina (Spanish)</display-name>
+  </channel>
   <channel id="Colombia vs. Argentina">
     <display-name lang="en">Colombia vs. Argentina</display-name>
   </channel>
+  <channel id="Paraguay vs. Brazil">
+    <display-name lang="en">Paraguay vs. Brazil</display-name>
+  </channel>
+  <channel id="Mexico vs Turkey">
+    <display-name lang="en">Mexico vs Turkey</display-name>
+  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Houston Astros">
-    <display-name lang="en">Chicago White Sox vs. Houston Astros</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Colorado Rockies">
-    <display-name lang="en">San Francisco Giants vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Athletics vs. Los Angeles Angels">
     <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
@@ -59,9 +68,6 @@
   </channel>
   <channel id="Seattle Mariners vs. Arizona Diamondbacks">
     <display-name lang="en">Seattle Mariners vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Paraguay vs. Brazil">
-    <display-name lang="en">Paraguay vs. Brazil</display-name>
   </channel>
   <channel id="Ecuador vs. Peru">
     <display-name lang="en">Ecuador vs. Peru</display-name>
@@ -182,6 +188,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250610000000 -0500" channel="Chicago White Sox vs. Houston Astros" stop="20250610235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250610000000 -0500" channel="San Francisco Giants vs. Colorado Rockies" stop="20250610235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250610000000 -0500" channel="Fever at Dream" stop="20250610235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -206,7 +228,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250610000000 -0500" channel="Colombia vs. Argentina (Spanish)" stop="20250610235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250610000000 -0500" channel="Colombia vs. Argentina" stop="20250610235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250610000000 -0500" channel="Paraguay vs. Brazil" stop="20250610235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250610000000 -0500" channel="Mexico vs Turkey" stop="20250610235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -216,22 +262,6 @@
   </programme>
   <programme start="20250610000000 -0500" channel="WWE: NXT" stop="20250610235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="Chicago White Sox vs. Houston Astros" stop="20250610235959 -0500">
-    <title>07:10 PM 10/06/25 - Chicago White Sox vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="San Francisco Giants vs. Colorado Rockies" stop="20250610235959 -0500">
-    <title>07:40 PM 10/06/25 - San Francisco Giants vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -256,14 +286,6 @@
   </programme>
   <programme start="20250610000000 -0500" channel="Seattle Mariners vs. Arizona Diamondbacks" stop="20250610235959 -0500">
     <title>08:40 PM 10/06/25 - Seattle Mariners vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="Paraguay vs. Brazil" stop="20250610235959 -0500">
-    <title>07:45 PM 10/06/25 - Paraguay vs. Brazil</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
