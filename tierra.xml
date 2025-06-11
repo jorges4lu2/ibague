@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250610 -0500">
-  <channel id="Detroit Tigers vs. Baltimore Orioles">
-    <display-name lang="en">Detroit Tigers vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Cleveland Guardians">
-    <display-name lang="en">Cincinnati Reds vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Pittsburgh Pirates">
-    <display-name lang="en">Miami Marlins vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Philadelphia Phillies">
-    <display-name lang="en">Chicago Cubs vs. Philadelphia Phillies</display-name>
-  </channel>
   <channel id="Tampa Bay Rays vs. Boston Red Sox">
     <display-name lang="en">Tampa Bay Rays vs. Boston Red Sox</display-name>
   </channel>
@@ -36,17 +24,20 @@
   <channel id="San Francisco Giants vs. Colorado Rockies">
     <display-name lang="en">San Francisco Giants vs. Colorado Rockies</display-name>
   </channel>
+  <channel id="Athletics vs. Los Angeles Angels">
+    <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. San Diego Padres">
+    <display-name lang="en">Los Angeles Dodgers vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. Arizona Diamondbacks">
+    <display-name lang="en">Seattle Mariners vs. Arizona Diamondbacks</display-name>
+  </channel>
   <channel id="Fever at Dream">
     <display-name lang="en">Fever at Dream</display-name>
   </channel>
   <channel id="Sky at Liberty">
     <display-name lang="en">Sky at Liberty</display-name>
-  </channel>
-  <channel id="Venezuela vs. Uruguay">
-    <display-name lang="en">Venezuela vs. Uruguay</display-name>
-  </channel>
-  <channel id="Colombia vs. Argentina (Spanish)">
-    <display-name lang="en">Colombia vs. Argentina (Spanish)</display-name>
   </channel>
   <channel id="Colombia vs. Argentina">
     <display-name lang="en">Colombia vs. Argentina</display-name>
@@ -57,20 +48,11 @@
   <channel id="Mexico vs Turkey">
     <display-name lang="en">Mexico vs Turkey</display-name>
   </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
-  </channel>
-  <channel id="Athletics vs. Los Angeles Angels">
-    <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. San Diego Padres">
-    <display-name lang="en">Los Angeles Dodgers vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Arizona Diamondbacks">
-    <display-name lang="en">Seattle Mariners vs. Arizona Diamondbacks</display-name>
-  </channel>
   <channel id="Ecuador vs. Peru">
     <display-name lang="en">Ecuador vs. Peru</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
@@ -108,38 +90,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250610000000 -0500" channel="Detroit Tigers vs. Baltimore Orioles" stop="20250610235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="Cincinnati Reds vs. Cleveland Guardians" stop="20250610235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="Miami Marlins vs. Pittsburgh Pirates" stop="20250610235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="Chicago Cubs vs. Philadelphia Phillies" stop="20250610235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250610000000 -0500" channel="Tampa Bay Rays vs. Boston Red Sox" stop="20250610235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -204,6 +154,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250610000000 -0500" channel="Athletics vs. Los Angeles Angels" stop="20250610235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250610000000 -0500" channel="Los Angeles Dodgers vs. San Diego Padres" stop="20250610235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250610000000 -0500" channel="Seattle Mariners vs. Arizona Diamondbacks" stop="20250610235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250610000000 -0500" channel="Fever at Dream" stop="20250610235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -213,22 +187,6 @@
     </audio>
   </programme>
   <programme start="20250610000000 -0500" channel="Sky at Liberty" stop="20250610235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="Venezuela vs. Uruguay" stop="20250610235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="Colombia vs. Argentina (Spanish)" stop="20250610235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -260,7 +218,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250610000000 -0500" channel="WWE: NXT" stop="20250610235959 -0500">
+  <programme start="20250610000000 -0500" channel="Ecuador vs. Peru" stop="20250610235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -268,32 +226,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250610000000 -0500" channel="Athletics vs. Los Angeles Angels" stop="20250610235959 -0500">
-    <title>08:38 PM 10/06/25 - Athletics vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="Los Angeles Dodgers vs. San Diego Padres" stop="20250610235959 -0500">
-    <title>08:40 PM 10/06/25 - Los Angeles Dodgers vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="Seattle Mariners vs. Arizona Diamondbacks" stop="20250610235959 -0500">
-    <title>08:40 PM 10/06/25 - Seattle Mariners vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="Ecuador vs. Peru" stop="20250610235959 -0500">
-    <title>08:30 PM 10/06/25 - Ecuador vs. Peru</title>
+  <programme start="20250610000000 -0500" channel="WWE: NXT" stop="20250610235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
