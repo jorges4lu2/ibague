@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250610 -0500">
-  <channel id="Chicago White Sox vs. Houston Astros">
-    <display-name lang="en">Chicago White Sox vs. Houston Astros</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Colorado Rockies">
-    <display-name lang="en">San Francisco Giants vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="Athletics vs. Los Angeles Angels">
     <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
   </channel>
@@ -15,11 +9,20 @@
   <channel id="Seattle Mariners vs. Arizona Diamondbacks">
     <display-name lang="en">Seattle Mariners vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="Paraguay vs. Brazil">
-    <display-name lang="en">Paraguay vs. Brazil</display-name>
+  <channel id="PDC: Players Championship 17 - Board 3">
+    <display-name lang="en">PDC: Players Championship 17 - Board 3</display-name>
   </channel>
-  <channel id="Mexico vs Turkey">
-    <display-name lang="en">Mexico vs Turkey</display-name>
+  <channel id="PDC: Players Championship 17 - Board 2">
+    <display-name lang="en">PDC: Players Championship 17 - Board 2</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 17 - Board 4">
+    <display-name lang="en">PDC: Players Championship 17 - Board 4</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 17 - Board 1">
+    <display-name lang="en">PDC: Players Championship 17 - Board 1</display-name>
+  </channel>
+  <channel id="PDC: BetVictor World Cup of Darts - Day One">
+    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day One</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
@@ -57,22 +60,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250610000000 -0500" channel="Chicago White Sox vs. Houston Astros" stop="20250610235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250610000000 -0500" channel="San Francisco Giants vs. Colorado Rockies" stop="20250610235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250610000000 -0500" channel="Athletics vs. Los Angeles Angels" stop="20250610235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -97,16 +84,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250610000000 -0500" channel="Paraguay vs. Brazil" stop="20250610235959 -0500">
-    <title>Live</title>
+  <programme start="20250610000000 -0500" channel="PDC: Players Championship 17 - Board 3" stop="20250610235959 -0500">
+    <title>07:00 AM 12/06/25 - PDC: Players Championship 17 - Board 3</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250610000000 -0500" channel="Mexico vs Turkey" stop="20250610235959 -0500">
-    <title>Live</title>
+  <programme start="20250610000000 -0500" channel="PDC: Players Championship 17 - Board 2" stop="20250610235959 -0500">
+    <title>07:00 AM 12/06/25 - PDC: Players Championship 17 - Board 2</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250610000000 -0500" channel="PDC: Players Championship 17 - Board 4" stop="20250610235959 -0500">
+    <title>07:00 AM 12/06/25 - PDC: Players Championship 17 - Board 4</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250610000000 -0500" channel="PDC: Players Championship 17 - Board 1" stop="20250610235959 -0500">
+    <title>07:00 AM 12/06/25 - PDC: Players Championship 17 - Board 1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250610000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day One" stop="20250610235959 -0500">
+    <title>12:00 PM 12/06/25 - PDC: BetVictor World Cup of Darts - Day One</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
