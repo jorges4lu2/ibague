@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250612 -0500">
+  <channel id="PDC: BetVictor World Cup of Darts - Day One">
+    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day One</display-name>
+  </channel>
   <channel id="Washington Nationals vs. New York Mets">
     <display-name lang="en">Washington Nationals vs. New York Mets</display-name>
   </channel>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="Chicago White Sox vs. Houston Astros">
     <display-name lang="en">Chicago White Sox vs. Houston Astros</display-name>
-  </channel>
-  <channel id="PDC: BetVictor World Cup of Darts - Day One">
-    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day One</display-name>
   </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Two">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Two</display-name>
@@ -75,6 +75,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250612000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day One" stop="20250612235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250612000000 -0500" channel="Washington Nationals vs. New York Mets" stop="20250612235959 -0500">
     <title>12:10 PM 12/06/25 - Washington Nationals vs. New York Mets</title>
     <date>2025</date>
@@ -133,14 +141,6 @@
   </programme>
   <programme start="20250612000000 -0500" channel="Chicago White Sox vs. Houston Astros" stop="20250612235959 -0500">
     <title>07:10 PM 12/06/25 - Chicago White Sox vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250612000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day One" stop="20250612235959 -0500">
-    <title>12:00 PM 12/06/25 - PDC: BetVictor World Cup of Darts - Day One</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
