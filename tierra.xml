@@ -15,9 +15,6 @@
   <channel id="Texas Rangers vs. Minnesota Twins">
     <display-name lang="en">Texas Rangers vs. Minnesota Twins</display-name>
   </channel>
-  <channel id="AEW: Wednesday Night Dynamite &amp;amp; Collision">
-    <display-name lang="en">AEW: Wednesday Night Dynamite &amp;amp; Collision</display-name>
-  </channel>
   <channel id="Chicago White Sox vs. Houston Astros">
     <display-name lang="en">Chicago White Sox vs. Houston Astros</display-name>
   </channel>
@@ -26,6 +23,9 @@
   </channel>
   <channel id="Thunder at Pacers (Game 3)">
     <display-name lang="en">Thunder at Pacers (Game 3)</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite &amp;amp; Collision">
+    <display-name lang="en">AEW: Wednesday Night Dynamite &amp;amp; Collision</display-name>
   </channel>
   <channel id="Sparks at Aces">
     <display-name lang="en">Sparks at Aces</display-name>
@@ -121,7 +121,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="AEW: Wednesday Night Dynamite &amp;amp; Collision" stop="20250611235959 -0500">
+  <programme start="20250611000000 -0500" channel="Chicago White Sox vs. Houston Astros" stop="20250611235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -129,16 +129,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="Chicago White Sox vs. Houston Astros" stop="20250611235959 -0500">
-    <title>07:10 PM 11/06/25 - Chicago White Sox vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250611000000 -0500" channel="San Francisco Giants vs. Colorado Rockies" stop="20250611235959 -0500">
-    <title>07:40 PM 11/06/25 - San Francisco Giants vs. Colorado Rockies</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -146,7 +138,15 @@
     </audio>
   </programme>
   <programme start="20250611000000 -0500" channel="Thunder at Pacers (Game 3)" stop="20250611235959 -0500">
-    <title>07:30 PM 11/06/25 - Thunder at Pacers (Game 3)</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250611000000 -0500" channel="AEW: Wednesday Night Dynamite &amp;amp; Collision" stop="20250611235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
