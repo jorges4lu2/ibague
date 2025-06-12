@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250611 -0500">
-  <channel id="Detroit Tigers vs. Baltimore Orioles">
-    <display-name lang="en">Detroit Tigers vs. Baltimore Orioles</display-name>
-  </channel>
   <channel id="Tampa Bay Rays vs. Boston Red Sox">
     <display-name lang="en">Tampa Bay Rays vs. Boston Red Sox</display-name>
   </channel>
@@ -24,9 +21,6 @@
   <channel id="Thunder at Pacers (Game 3)">
     <display-name lang="en">Thunder at Pacers (Game 3)</display-name>
   </channel>
-  <channel id="AEW: Wednesday Night Dynamite &amp;amp; Collision">
-    <display-name lang="en">AEW: Wednesday Night Dynamite &amp;amp; Collision</display-name>
-  </channel>
   <channel id="Sparks at Aces">
     <display-name lang="en">Sparks at Aces</display-name>
   </channel>
@@ -35,6 +29,9 @@
   </channel>
   <channel id="Lynx at Storm">
     <display-name lang="en">Lynx at Storm</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite &amp;amp; Collision">
+    <display-name lang="en">AEW: Wednesday Night Dynamite &amp;amp; Collision</display-name>
   </channel>
   <channel id="PDC: Players Championship 17 - Board 3">
     <display-name lang="en">PDC: Players Championship 17 - Board 3</display-name>
@@ -81,14 +78,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250611000000 -0500" channel="Detroit Tigers vs. Baltimore Orioles" stop="20250611235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250611000000 -0500" channel="Tampa Bay Rays vs. Boston Red Sox" stop="20250611235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -145,7 +134,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="AEW: Wednesday Night Dynamite &amp;amp; Collision" stop="20250611235959 -0500">
+  <programme start="20250611000000 -0500" channel="Sparks at Aces" stop="20250611235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -153,16 +142,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="Sparks at Aces" stop="20250611235959 -0500">
-    <title>09:00 PM 11/06/25 - Sparks at Aces</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250611000000 -0500" channel="Wings at Mercury" stop="20250611235959 -0500">
-    <title>09:00 PM 11/06/25 - Wings at Mercury</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -170,7 +151,15 @@
     </audio>
   </programme>
   <programme start="20250611000000 -0500" channel="Lynx at Storm" stop="20250611235959 -0500">
-    <title>09:00 PM 11/06/25 - Lynx at Storm</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250611000000 -0500" channel="AEW: Wednesday Night Dynamite &amp;amp; Collision" stop="20250611235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
