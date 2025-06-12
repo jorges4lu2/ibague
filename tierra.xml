@@ -6,11 +6,11 @@
   <channel id="Texas Rangers vs. Minnesota Twins">
     <display-name lang="en">Texas Rangers vs. Minnesota Twins</display-name>
   </channel>
-  <channel id="PDC: BetVictor World Cup of Darts - Day One">
-    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day One</display-name>
-  </channel>
   <channel id="San Francisco Giants vs. Colorado Rockies">
     <display-name lang="en">San Francisco Giants vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="PDC: BetVictor World Cup of Darts - Day One">
+    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day One</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Baltimore Orioles">
     <display-name lang="en">Detroit Tigers vs. Baltimore Orioles</display-name>
@@ -91,7 +91,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day One" stop="20250612235959 -0500">
+  <programme start="20250612000000 -0500" channel="San Francisco Giants vs. Colorado Rockies" stop="20250612235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -99,8 +99,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="San Francisco Giants vs. Colorado Rockies" stop="20250612235959 -0500">
-    <title>02:10 PM 12/06/25 - San Francisco Giants vs. Colorado Rockies</title>
+  <programme start="20250612000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day One" stop="20250612235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
