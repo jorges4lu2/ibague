@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250611 -0500">
-  <channel id="Sparks at Aces">
-    <display-name lang="en">Sparks at Aces</display-name>
-  </channel>
-  <channel id="Wings at Mercury">
-    <display-name lang="en">Wings at Mercury</display-name>
-  </channel>
-  <channel id="Lynx at Storm">
-    <display-name lang="en">Lynx at Storm</display-name>
-  </channel>
+<tv date="20250612 -0500">
   <channel id="PDC: Players Championship 17 - Board 3">
     <display-name lang="en">PDC: Players Championship 17 - Board 3</display-name>
   </channel>
@@ -23,6 +14,9 @@
   </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day One">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day One</display-name>
+  </channel>
+  <channel id="PDC: BetVictor World Cup of Darts - Day Two">
+    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Two</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
@@ -54,31 +48,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250611000000 -0500" channel="Sparks at Aces" stop="20250611235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250611000000 -0500" channel="Wings at Mercury" stop="20250611235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250611000000 -0500" channel="Lynx at Storm" stop="20250611235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250611000000 -0500" channel="PDC: Players Championship 17 - Board 3" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="PDC: Players Championship 17 - Board 3" stop="20250612235959 -0500">
     <title>07:00 AM 12/06/25 - PDC: Players Championship 17 - Board 3</title>
     <date>2025</date>
     <category>Sports</category>
@@ -86,7 +56,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="PDC: Players Championship 17 - Board 2" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="PDC: Players Championship 17 - Board 2" stop="20250612235959 -0500">
     <title>07:00 AM 12/06/25 - PDC: Players Championship 17 - Board 2</title>
     <date>2025</date>
     <category>Sports</category>
@@ -94,7 +64,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="PDC: Players Championship 17 - Board 4" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="PDC: Players Championship 17 - Board 4" stop="20250612235959 -0500">
     <title>07:00 AM 12/06/25 - PDC: Players Championship 17 - Board 4</title>
     <date>2025</date>
     <category>Sports</category>
@@ -102,7 +72,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="PDC: Players Championship 17 - Board 1" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="PDC: Players Championship 17 - Board 1" stop="20250612235959 -0500">
     <title>07:00 AM 12/06/25 - PDC: Players Championship 17 - Board 1</title>
     <date>2025</date>
     <category>Sports</category>
@@ -110,7 +80,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day One" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day One" stop="20250612235959 -0500">
     <title>12:00 PM 12/06/25 - PDC: BetVictor World Cup of Darts - Day One</title>
     <date>2025</date>
     <category>Sports</category>
@@ -118,7 +88,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Two" stop="20250612235959 -0500">
+    <title>05:00 AM 13/06/25 - PDC: BetVictor World Cup of Darts - Day Two</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250612000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250612235959 -0500">
     <title>07:00 PM 12/06/25 - Edmonton Oilers vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -126,7 +104,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250612235959 -0500">
     <title>07:00 PM 14/06/25 - Florida Panthers vs. Edmonton Oilers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -134,7 +112,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250612235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -142,7 +120,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="TNA: Impact" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="TNA: Impact" stop="20250612235959 -0500">
     <title>07:00 PM 12/06/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
@@ -150,7 +128,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250612235959 -0500">
     <title>07:00 PM 13/06/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
@@ -158,7 +136,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="24/7 South Park" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="24/7 South Park" stop="20250612235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -166,7 +144,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="24/7 COWS" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="24/7 COWS" stop="20250612235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -174,7 +152,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="24/7 Family Guy" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="24/7 Family Guy" stop="20250612235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -182,7 +160,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="24/7 The Simpsons" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="24/7 The Simpsons" stop="20250612235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -190,7 +168,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="(North) Korean Central Television" stop="20250611235959 -0500">
+  <programme start="20250612000000 -0500" channel="(North) Korean Central Television" stop="20250612235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
