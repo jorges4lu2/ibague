@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250611 -0500">
-  <channel id="Athletics vs. Los Angeles Angels">
-    <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. San Diego Padres">
-    <display-name lang="en">Los Angeles Dodgers vs. San Diego Padres</display-name>
-  </channel>
   <channel id="Detroit Tigers vs. Baltimore Orioles">
     <display-name lang="en">Detroit Tigers vs. Baltimore Orioles</display-name>
   </channel>
@@ -20,6 +14,9 @@
   </channel>
   <channel id="Texas Rangers vs. Minnesota Twins">
     <display-name lang="en">Texas Rangers vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite &amp;amp; Collision">
+    <display-name lang="en">AEW: Wednesday Night Dynamite &amp;amp; Collision</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Houston Astros">
     <display-name lang="en">Chicago White Sox vs. Houston Astros</display-name>
@@ -63,17 +60,11 @@
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <channel id="AEW: Saturday Night Collision">
-    <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
@@ -90,22 +81,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250611000000 -0500" channel="Athletics vs. Los Angeles Angels" stop="20250611235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250611000000 -0500" channel="Los Angeles Dodgers vs. San Diego Padres" stop="20250611235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250611000000 -0500" channel="Detroit Tigers vs. Baltimore Orioles" stop="20250611235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -115,7 +90,7 @@
     </audio>
   </programme>
   <programme start="20250611000000 -0500" channel="Tampa Bay Rays vs. Boston Red Sox" stop="20250611235959 -0500">
-    <title>06:10 PM 11/06/25 - Tampa Bay Rays vs. Boston Red Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -123,7 +98,7 @@
     </audio>
   </programme>
   <programme start="20250611000000 -0500" channel="Washington Nationals vs. New York Mets" stop="20250611235959 -0500">
-    <title>06:10 PM 11/06/25 - Washington Nationals vs. New York Mets</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -131,7 +106,7 @@
     </audio>
   </programme>
   <programme start="20250611000000 -0500" channel="New York Yankees vs. Kansas City Royals" stop="20250611235959 -0500">
-    <title>06:40 PM 11/06/25 - New York Yankees vs. Kansas City Royals</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -139,7 +114,15 @@
     </audio>
   </programme>
   <programme start="20250611000000 -0500" channel="Texas Rangers vs. Minnesota Twins" stop="20250611235959 -0500">
-    <title>06:40 PM 11/06/25 - Texas Rangers vs. Minnesota Twins</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250611000000 -0500" channel="AEW: Wednesday Night Dynamite &amp;amp; Collision" stop="20250611235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -258,14 +241,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250611000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250611235959 -0500">
-    <title>07:00 PM 11/06/25 - AEW: Wednesday Night Dynamite</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250611000000 -0500" channel="TNA: Impact" stop="20250611235959 -0500">
     <title>07:00 PM 12/06/25 - TNA: Impact</title>
     <date>2025</date>
@@ -276,14 +251,6 @@
   </programme>
   <programme start="20250611000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250611235959 -0500">
     <title>07:00 PM 13/06/25 - WWE: Friday Night Smackdown</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250611000000 -0500" channel="AEW: Saturday Night Collision" stop="20250611235959 -0500">
-    <title>07:00 PM 14/06/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
