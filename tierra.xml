@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250612 -0500">
-  <channel id="2025 U.S. Open Golf Championship - First Round">
-    <display-name lang="en">2025 U.S. Open Golf Championship - First Round</display-name>
-  </channel>
   <channel id="Washington Nationals vs. New York Mets">
     <display-name lang="en">Washington Nationals vs. New York Mets</display-name>
   </channel>
@@ -32,6 +29,21 @@
   </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Two">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Two</display-name>
+  </channel>
+  <channel id="Inter Miami CF vs. Al Ahly">
+    <display-name lang="en">Inter Miami CF vs. Al Ahly</display-name>
+  </channel>
+  <channel id="Auckland City vs. Bayern Munich">
+    <display-name lang="en">Auckland City vs. Bayern Munich</display-name>
+  </channel>
+  <channel id="Atl&#233;tico Madrid vs. Paris Saint-Germain">
+    <display-name lang="en">Atl&#233;tico Madrid vs. Paris Saint-Germain</display-name>
+  </channel>
+  <channel id="FC Porto vs. Palmeiras">
+    <display-name lang="en">FC Porto vs. Palmeiras</display-name>
+  </channel>
+  <channel id="Seattle Sounders FC vs. Botafogo">
+    <display-name lang="en">Seattle Sounders FC vs. Botafogo</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
@@ -63,14 +75,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250612000000 -0500" channel="2025 U.S. Open Golf Championship - First Round" stop="20250612235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250612000000 -0500" channel="Washington Nationals vs. New York Mets" stop="20250612235959 -0500">
     <title>12:10 PM 12/06/25 - Washington Nationals vs. New York Mets</title>
     <date>2025</date>
@@ -145,6 +149,46 @@
   </programme>
   <programme start="20250612000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Two" stop="20250612235959 -0500">
     <title>05:00 AM 13/06/25 - PDC: BetVictor World Cup of Darts - Day Two</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250612000000 -0500" channel="Inter Miami CF vs. Al Ahly" stop="20250612235959 -0500">
+    <title>07:00 PM 14/06/25 - Inter Miami CF vs. Al Ahly</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250612000000 -0500" channel="Auckland City vs. Bayern Munich" stop="20250612235959 -0500">
+    <title>11:00 AM 15/06/25 - Auckland City vs. Bayern Munich</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250612000000 -0500" channel="Atl&#233;tico Madrid vs. Paris Saint-Germain" stop="20250612235959 -0500">
+    <title>02:00 PM 15/06/25 - Atl&#233;tico Madrid vs. Paris Saint-Germain</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250612000000 -0500" channel="FC Porto vs. Palmeiras" stop="20250612235959 -0500">
+    <title>05:00 PM 15/06/25 - FC Porto vs. Palmeiras</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250612000000 -0500" channel="Seattle Sounders FC vs. Botafogo" stop="20250612235959 -0500">
+    <title>09:00 PM 15/06/25 - Seattle Sounders FC vs. Botafogo</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
