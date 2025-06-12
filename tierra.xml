@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250612 -0500">
+  <channel id="2025 U.S. Open Golf Championship - First Round">
+    <display-name lang="en">2025 U.S. Open Golf Championship - First Round</display-name>
+  </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day One">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day One</display-name>
   </channel>
@@ -36,6 +39,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250612000000 -0500" channel="2025 U.S. Open Golf Championship - First Round" stop="20250612235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250612000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day One" stop="20250612235959 -0500">
     <title>12:00 PM 12/06/25 - PDC: BetVictor World Cup of Darts - Day One</title>
     <date>2025</date>
