@@ -3,23 +3,26 @@
   <channel id="Detroit Tigers vs. Baltimore Orioles">
     <display-name lang="en">Detroit Tigers vs. Baltimore Orioles</display-name>
   </channel>
-  <channel id="PDC: BetVictor World Cup of Darts - Day One">
-    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day One</display-name>
-  </channel>
   <channel id="New York Yankees vs. Kansas City Royals">
     <display-name lang="en">New York Yankees vs. Kansas City Royals</display-name>
   </channel>
   <channel id="St. Louis Cardinals vs. Milwaukee Brewers">
     <display-name lang="en">St. Louis Cardinals vs. Milwaukee Brewers</display-name>
   </channel>
+  <channel id="PFL World Tournament 5: Semifinals">
+    <display-name lang="en">PFL World Tournament 5: Semifinals</display-name>
+  </channel>
+  <channel id="Edmonton Oilers vs. Florida Panthers">
+    <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
+  </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
+  </channel>
   <channel id="Pittsburgh Pirates vs. Chicago Cubs">
     <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Houston Astros">
     <display-name lang="en">Chicago White Sox vs. Houston Astros</display-name>
-  </channel>
-  <channel id="PFL World Tournament 5: Semifinals">
-    <display-name lang="en">PFL World Tournament 5: Semifinals</display-name>
   </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Two">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Two</display-name>
@@ -38,9 +41,6 @@
   </channel>
   <channel id="Seattle Sounders FC vs. Botafogo">
     <display-name lang="en">Seattle Sounders FC vs. Botafogo</display-name>
-  </channel>
-  <channel id="Edmonton Oilers vs. Florida Panthers">
-    <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
   <channel id="Florida Panthers vs. Edmonton Oilers">
     <display-name lang="en">Florida Panthers vs. Edmonton Oilers</display-name>
@@ -62,9 +62,6 @@
   </channel>
   <channel id="F1: Canada GP (Race)">
     <display-name lang="en">F1: Canada GP (Race)</display-name>
-  </channel>
-  <channel id="TNA: Impact">
-    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -92,7 +89,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day One" stop="20250612235959 -0500">
+  <programme start="20250612000000 -0500" channel="New York Yankees vs. Kansas City Royals" stop="20250612235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -100,16 +97,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="New York Yankees vs. Kansas City Royals" stop="20250612235959 -0500">
-    <title>06:40 PM 12/06/25 - New York Yankees vs. Kansas City Royals</title>
+  <programme start="20250612000000 -0500" channel="St. Louis Cardinals vs. Milwaukee Brewers" stop="20250612235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="St. Louis Cardinals vs. Milwaukee Brewers" stop="20250612235959 -0500">
-    <title>06:40 PM 12/06/25 - St. Louis Cardinals vs. Milwaukee Brewers</title>
+  <programme start="20250612000000 -0500" channel="PFL World Tournament 5: Semifinals" stop="20250612235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250612000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250612235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250612000000 -0500" channel="TNA: Impact" stop="20250612235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -126,14 +139,6 @@
   </programme>
   <programme start="20250612000000 -0500" channel="Chicago White Sox vs. Houston Astros" stop="20250612235959 -0500">
     <title>07:10 PM 12/06/25 - Chicago White Sox vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250612000000 -0500" channel="PFL World Tournament 5: Semifinals" stop="20250612235959 -0500">
-    <title>07:00 PM 12/06/25 - PFL World Tournament 5: Semifinals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -182,14 +187,6 @@
   </programme>
   <programme start="20250612000000 -0500" channel="Seattle Sounders FC vs. Botafogo" stop="20250612235959 -0500">
     <title>09:00 PM 15/06/25 - Seattle Sounders FC vs. Botafogo</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250612000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250612235959 -0500">
-    <title>07:00 PM 12/06/25 - Edmonton Oilers vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -246,14 +243,6 @@
   </programme>
   <programme start="20250612000000 -0500" channel="F1: Canada GP (Race)" stop="20250612235959 -0500">
     <title>01:00 PM 15/06/25 - F1: Canada GP (Race)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250612000000 -0500" channel="TNA: Impact" stop="20250612235959 -0500">
-    <title>07:00 PM 12/06/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
