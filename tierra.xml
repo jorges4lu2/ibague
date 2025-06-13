@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250612 -0500">
+<tv date="20250613 -0500">
   <channel id="PFL World Tournament 5: Semifinals">
     <display-name lang="en">PFL World Tournament 5: Semifinals</display-name>
   </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Two">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Two</display-name>
+  </channel>
+  <channel id="PDC: BetVictor World Cup of Darts - Day Three">
+    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Three</display-name>
   </channel>
   <channel id="Inter Miami CF vs. Al Ahly">
     <display-name lang="en">Inter Miami CF vs. Al Ahly</display-name>
@@ -60,7 +63,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250612000000 -0500" channel="PFL World Tournament 5: Semifinals" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="PFL World Tournament 5: Semifinals" stop="20250613235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -68,7 +71,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Two" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Two" stop="20250613235959 -0500">
     <title>05:00 AM 13/06/25 - PDC: BetVictor World Cup of Darts - Day Two</title>
     <date>2025</date>
     <category>Sports</category>
@@ -76,7 +79,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="Inter Miami CF vs. Al Ahly" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Three" stop="20250613235959 -0500">
+    <title>06:00 AM 14/06/25 - PDC: BetVictor World Cup of Darts - Day Three</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250613000000 -0500" channel="Inter Miami CF vs. Al Ahly" stop="20250613235959 -0500">
     <title>07:00 PM 14/06/25 - Inter Miami CF vs. Al Ahly</title>
     <date>2025</date>
     <category>Sports</category>
@@ -84,7 +95,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="Auckland City vs. Bayern Munich" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="Auckland City vs. Bayern Munich" stop="20250613235959 -0500">
     <title>11:00 AM 15/06/25 - Auckland City vs. Bayern Munich</title>
     <date>2025</date>
     <category>Sports</category>
@@ -92,7 +103,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="Atl&#233;tico Madrid vs. Paris Saint-Germain" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="Atl&#233;tico Madrid vs. Paris Saint-Germain" stop="20250613235959 -0500">
     <title>02:00 PM 15/06/25 - Atl&#233;tico Madrid vs. Paris Saint-Germain</title>
     <date>2025</date>
     <category>Sports</category>
@@ -100,7 +111,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="FC Porto vs. Palmeiras" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="FC Porto vs. Palmeiras" stop="20250613235959 -0500">
     <title>05:00 PM 15/06/25 - FC Porto vs. Palmeiras</title>
     <date>2025</date>
     <category>Sports</category>
@@ -108,7 +119,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="Seattle Sounders FC vs. Botafogo" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="Seattle Sounders FC vs. Botafogo" stop="20250613235959 -0500">
     <title>09:00 PM 15/06/25 - Seattle Sounders FC vs. Botafogo</title>
     <date>2025</date>
     <category>Sports</category>
@@ -116,7 +127,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="Florida Panthers vs. Edmonton Oilers" stop="20250613235959 -0500">
     <title>07:00 PM 14/06/25 - Florida Panthers vs. Edmonton Oilers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -124,7 +135,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250613235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -132,7 +143,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="F1: Canada GP (Practice 1)" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="F1: Canada GP (Practice 1)" stop="20250613235959 -0500">
     <title>12:30 PM 13/06/25 - F1: Canada GP (Practice 1)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -140,7 +151,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="F1: Canada GP (Practice 2)" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="F1: Canada GP (Practice 2)" stop="20250613235959 -0500">
     <title>04:00 PM 13/06/25 - F1: Canada GP (Practice 2)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -148,7 +159,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="F1: Canada GP (Practice 3)" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="F1: Canada GP (Practice 3)" stop="20250613235959 -0500">
     <title>11:30 AM 14/06/25 - F1: Canada GP (Practice 3)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -156,7 +167,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="F1: Canada GP (Qualifying)" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="F1: Canada GP (Qualifying)" stop="20250613235959 -0500">
     <title>03:00 PM 14/06/25 - F1: Canada GP (Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -164,7 +175,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="F1: Canada GP (Race)" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="F1: Canada GP (Race)" stop="20250613235959 -0500">
     <title>01:00 PM 15/06/25 - F1: Canada GP (Race)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -172,7 +183,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250613235959 -0500">
     <title>07:00 PM 13/06/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
@@ -180,7 +191,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="24/7 South Park" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="24/7 South Park" stop="20250613235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -188,7 +199,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="24/7 COWS" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="24/7 COWS" stop="20250613235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -196,7 +207,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="24/7 Family Guy" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="24/7 Family Guy" stop="20250613235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -204,7 +215,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="24/7 The Simpsons" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="24/7 The Simpsons" stop="20250613235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -212,7 +223,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250612000000 -0500" channel="(North) Korean Central Television" stop="20250612235959 -0500">
+  <programme start="20250613000000 -0500" channel="(North) Korean Central Television" stop="20250613235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
