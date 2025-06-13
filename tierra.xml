@@ -3,6 +3,15 @@
   <channel id="PDC: BetVictor World Cup of Darts - Day Two">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Two</display-name>
   </channel>
+  <channel id="Sky at Dream">
+    <display-name lang="en">Sky at Dream</display-name>
+  </channel>
+  <channel id="Thunder at Pacers (Game 4)">
+    <display-name lang="en">Thunder at Pacers (Game 4)</display-name>
+  </channel>
+  <channel id="Wings at Aces">
+    <display-name lang="en">Wings at Aces</display-name>
+  </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Three">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Three</display-name>
   </channel>
@@ -62,6 +71,30 @@
   </channel>
   <programme start="20250613000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Two" stop="20250613235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250613000000 -0500" channel="Sky at Dream" stop="20250613235959 -0500">
+    <title>06:30 PM 13/06/25 - Sky at Dream</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250613000000 -0500" channel="Thunder at Pacers (Game 4)" stop="20250613235959 -0500">
+    <title>07:30 PM 13/06/25 - Thunder at Pacers (Game 4)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250613000000 -0500" channel="Wings at Aces" stop="20250613235959 -0500">
+    <title>09:00 PM 13/06/25 - Wings at Aces</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
