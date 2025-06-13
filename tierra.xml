@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250613 -0500">
+  <channel id="Pittsburgh Pirates vs. Chicago Cubs">
+    <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Two">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Two</display-name>
   </channel>
   <channel id="F1: Canada GP (Practice 1)">
     <display-name lang="en">F1: Canada GP (Practice 1)</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Chicago Cubs">
-    <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Miami Marlins vs. Washington Nationals">
     <display-name lang="en">Miami Marlins vs. Washington Nationals</display-name>
@@ -117,6 +117,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250613000000 -0500" channel="Pittsburgh Pirates vs. Chicago Cubs" stop="20250613235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250613000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Two" stop="20250613235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -127,14 +135,6 @@
   </programme>
   <programme start="20250613000000 -0500" channel="F1: Canada GP (Practice 1)" stop="20250613235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250613000000 -0500" channel="Pittsburgh Pirates vs. Chicago Cubs" stop="20250613235959 -0500">
-    <title>01:20 PM 13/06/25 - Pittsburgh Pirates vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
