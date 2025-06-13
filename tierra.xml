@@ -9,6 +9,12 @@
   <channel id="St. Louis Cardinals vs. Milwaukee Brewers">
     <display-name lang="en">St. Louis Cardinals vs. Milwaukee Brewers</display-name>
   </channel>
+  <channel id="Pittsburgh Pirates vs. Chicago Cubs">
+    <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Chicago White Sox vs. Houston Astros">
+    <display-name lang="en">Chicago White Sox vs. Houston Astros</display-name>
+  </channel>
   <channel id="PFL World Tournament 5: Semifinals">
     <display-name lang="en">PFL World Tournament 5: Semifinals</display-name>
   </channel>
@@ -17,12 +23,6 @@
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Chicago Cubs">
-    <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Houston Astros">
-    <display-name lang="en">Chicago White Sox vs. Houston Astros</display-name>
   </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Two">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Two</display-name>
@@ -105,6 +105,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250612000000 -0500" channel="Pittsburgh Pirates vs. Chicago Cubs" stop="20250612235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250612000000 -0500" channel="Chicago White Sox vs. Houston Astros" stop="20250612235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250612000000 -0500" channel="PFL World Tournament 5: Semifinals" stop="20250612235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -123,22 +139,6 @@
   </programme>
   <programme start="20250612000000 -0500" channel="TNA: Impact" stop="20250612235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250612000000 -0500" channel="Pittsburgh Pirates vs. Chicago Cubs" stop="20250612235959 -0500">
-    <title>07:05 PM 12/06/25 - Pittsburgh Pirates vs. Chicago Cubs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250612000000 -0500" channel="Chicago White Sox vs. Houston Astros" stop="20250612235959 -0500">
-    <title>07:10 PM 12/06/25 - Chicago White Sox vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
