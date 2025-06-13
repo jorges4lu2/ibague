@@ -3,6 +3,9 @@
   <channel id="PDC: BetVictor World Cup of Darts - Day Two">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Two</display-name>
   </channel>
+  <channel id="F1: Canada GP (Practice 1)">
+    <display-name lang="en">F1: Canada GP (Practice 1)</display-name>
+  </channel>
   <channel id="Pittsburgh Pirates vs. Chicago Cubs">
     <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
   </channel>
@@ -81,9 +84,6 @@
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
-  <channel id="F1: Canada GP (Practice 1)">
-    <display-name lang="en">F1: Canada GP (Practice 1)</display-name>
-  </channel>
   <channel id="F1: Canada GP (Practice 2)">
     <display-name lang="en">F1: Canada GP (Practice 2)</display-name>
   </channel>
@@ -118,6 +118,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250613000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Two" stop="20250613235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250613000000 -0500" channel="F1: Canada GP (Practice 1)" stop="20250613235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -327,14 +335,6 @@
   </programme>
   <programme start="20250613000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250613235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250613000000 -0500" channel="F1: Canada GP (Practice 1)" stop="20250613235959 -0500">
-    <title>12:30 PM 13/06/25 - F1: Canada GP (Practice 1)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
