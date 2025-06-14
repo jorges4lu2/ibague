@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250614 -0500">
+  <channel id="OKTAGON 72 (English)">
+    <display-name lang="en">OKTAGON 72 (English)</display-name>
+  </channel>
+  <channel id="OKTAGON 72 (German)">
+    <display-name lang="en">OKTAGON 72 (German)</display-name>
+  </channel>
+  <channel id="GLORY 100 (Main Card)">
+    <display-name lang="en">GLORY 100 (Main Card)</display-name>
+  </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Three">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Three</display-name>
   </channel>
@@ -56,15 +65,6 @@
   </channel>
   <channel id="Storm at Valkyries">
     <display-name lang="en">Storm at Valkyries</display-name>
-  </channel>
-  <channel id="OKTAGON 72 (English)">
-    <display-name lang="en">OKTAGON 72 (English)</display-name>
-  </channel>
-  <channel id="OKTAGON 72 (German)">
-    <display-name lang="en">OKTAGON 72 (German)</display-name>
-  </channel>
-  <channel id="GLORY 100 (Main Card)">
-    <display-name lang="en">GLORY 100 (Main Card)</display-name>
   </channel>
   <channel id="UFC Fight Night: Usman vs. Buckley">
     <display-name lang="en">UFC Fight Night: Usman vs. Buckley</display-name>
@@ -123,6 +123,30 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250614000000 -0500" channel="OKTAGON 72 (English)" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="OKTAGON 72 (German)" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="GLORY 100 (Main Card)" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250614000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Three" stop="20250614235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -269,30 +293,6 @@
   </programme>
   <programme start="20250614000000 -0500" channel="Storm at Valkyries" stop="20250614235959 -0500">
     <title>07:30 PM 14/06/25 - Storm at Valkyries</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="OKTAGON 72 (English)" stop="20250614235959 -0500">
-    <title>11:00 AM 14/06/25 - OKTAGON 72 (English)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="OKTAGON 72 (German)" stop="20250614235959 -0500">
-    <title>11:00 AM 14/06/25 - OKTAGON 72 (German)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="GLORY 100 (Main Card)" stop="20250614235959 -0500">
-    <title>11:00 AM 14/06/25 - GLORY 100 (Main Card)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
