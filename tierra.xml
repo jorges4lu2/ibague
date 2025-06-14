@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250614 -0500">
+  <channel id="Cincinnati Reds vs. Detroit Tigers">
+    <display-name lang="en">Cincinnati Reds vs. Detroit Tigers</display-name>
+  </channel>
   <channel id="Sparks at Lynx">
     <display-name lang="en">Sparks at Lynx</display-name>
   </channel>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="Pro Motocross: High Point">
     <display-name lang="en">Pro Motocross: High Point</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Detroit Tigers">
-    <display-name lang="en">Cincinnati Reds vs. Detroit Tigers</display-name>
   </channel>
   <channel id="Pittsburgh Pirates vs. Chicago Cubs">
     <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
@@ -123,6 +123,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250614000000 -0500" channel="Cincinnati Reds vs. Detroit Tigers" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250614000000 -0500" channel="Sparks at Lynx" stop="20250614235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -181,14 +189,6 @@
   </programme>
   <programme start="20250614000000 -0500" channel="Pro Motocross: High Point" stop="20250614235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="Cincinnati Reds vs. Detroit Tigers" stop="20250614235959 -0500">
-    <title>12:10 PM 14/06/25 - Cincinnati Reds vs. Detroit Tigers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
