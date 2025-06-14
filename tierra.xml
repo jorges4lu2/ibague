@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250614 -0500">
+  <channel id="Sparks at Lynx">
+    <display-name lang="en">Sparks at Lynx</display-name>
+  </channel>
   <channel id="OKTAGON 72 (English)">
     <display-name lang="en">OKTAGON 72 (English)</display-name>
   </channel>
@@ -14,6 +17,12 @@
   </channel>
   <channel id="24 Hours of Le Mans">
     <display-name lang="en">24 Hours of Le Mans</display-name>
+  </channel>
+  <channel id="F1: Canada GP (Practice 3)">
+    <display-name lang="en">F1: Canada GP (Practice 3)</display-name>
+  </channel>
+  <channel id="Pro Motocross: High Point">
+    <display-name lang="en">Pro Motocross: High Point</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Detroit Tigers">
     <display-name lang="en">Cincinnati Reds vs. Detroit Tigers</display-name>
@@ -57,9 +66,6 @@
   <channel id="San Francisco Giants vs. Los Angeles Dodgers">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="Sparks at Lynx">
-    <display-name lang="en">Sparks at Lynx</display-name>
-  </channel>
   <channel id="Liberty at Fever">
     <display-name lang="en">Liberty at Fever</display-name>
   </channel>
@@ -96,12 +102,6 @@
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
-  <channel id="F1: Canada GP (Practice 3)">
-    <display-name lang="en">F1: Canada GP (Practice 3)</display-name>
-  </channel>
-  <channel id="Pro Motocross: High Point">
-    <display-name lang="en">Pro Motocross: High Point</display-name>
-  </channel>
   <channel id="F1: Canada GP (Qualifying)">
     <display-name lang="en">F1: Canada GP (Qualifying)</display-name>
   </channel>
@@ -123,6 +123,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250614000000 -0500" channel="Sparks at Lynx" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250614000000 -0500" channel="OKTAGON 72 (English)" stop="20250614235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -156,6 +164,22 @@
     </audio>
   </programme>
   <programme start="20250614000000 -0500" channel="24 Hours of Le Mans" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="F1: Canada GP (Practice 3)" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="Pro Motocross: High Point" stop="20250614235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -275,14 +299,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250614000000 -0500" channel="Sparks at Lynx" stop="20250614235959 -0500">
-    <title>12:00 PM 14/06/25 - Sparks at Lynx</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250614000000 -0500" channel="Liberty at Fever" stop="20250614235959 -0500">
     <title>02:00 PM 14/06/25 - Liberty at Fever</title>
     <date>2025</date>
@@ -373,22 +389,6 @@
   </programme>
   <programme start="20250614000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250614235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="F1: Canada GP (Practice 3)" stop="20250614235959 -0500">
-    <title>11:30 AM 14/06/25 - F1: Canada GP (Practice 3)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="Pro Motocross: High Point" stop="20250614235959 -0500">
-    <title>12:00 PM 14/06/25 - Pro Motocross: High Point</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
