@@ -3,6 +3,9 @@
   <channel id="PDC: BetVictor World Cup of Darts - Day Three">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Three</display-name>
   </channel>
+  <channel id="24 Hours of Le Mans">
+    <display-name lang="en">24 Hours of Le Mans</display-name>
+  </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Four">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Four</display-name>
   </channel>
@@ -26,9 +29,6 @@
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="24 Hours of Le Mans">
-    <display-name lang="en">24 Hours of Le Mans</display-name>
   </channel>
   <channel id="F1: Canada GP (Practice 3)">
     <display-name lang="en">F1: Canada GP (Practice 3)</display-name>
@@ -55,6 +55,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250614000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Three" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="24 Hours of Le Mans" stop="20250614235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -120,14 +128,6 @@
   </programme>
   <programme start="20250614000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250614235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="24 Hours of Le Mans" stop="20250614235959 -0500">
-    <title>08:00 AM 14/06/25 - 24 Hours of Le Mans</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
