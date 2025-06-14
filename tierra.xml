@@ -6,6 +6,18 @@
   <channel id="24 Hours of Le Mans">
     <display-name lang="en">24 Hours of Le Mans</display-name>
   </channel>
+  <channel id="Sparks at Lynx">
+    <display-name lang="en">Sparks at Lynx</display-name>
+  </channel>
+  <channel id="Liberty at Fever">
+    <display-name lang="en">Liberty at Fever</display-name>
+  </channel>
+  <channel id="OKTAGON 72 (English)">
+    <display-name lang="en">OKTAGON 72 (English)</display-name>
+  </channel>
+  <channel id="OKTAGON 72 (German)">
+    <display-name lang="en">OKTAGON 72 (German)</display-name>
+  </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Four">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Four</display-name>
   </channel>
@@ -64,6 +76,38 @@
   </programme>
   <programme start="20250614000000 -0500" channel="24 Hours of Le Mans" stop="20250614235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="Sparks at Lynx" stop="20250614235959 -0500">
+    <title>12:00 PM 14/06/25 - Sparks at Lynx</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="Liberty at Fever" stop="20250614235959 -0500">
+    <title>02:00 PM 14/06/25 - Liberty at Fever</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="OKTAGON 72 (English)" stop="20250614235959 -0500">
+    <title>11:00 AM 14/06/25 - OKTAGON 72 (English)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="OKTAGON 72 (German)" stop="20250614235959 -0500">
+    <title>11:00 AM 14/06/25 - OKTAGON 72 (German)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
