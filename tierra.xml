@@ -6,9 +6,6 @@
   <channel id="Toronto Blue Jays vs. Philadelphia Phillies">
     <display-name lang="en">Toronto Blue Jays vs. Philadelphia Phillies</display-name>
   </channel>
-  <channel id="PDC: BetVictor World Cup of Darts - Day Two">
-    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Two</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. Baltimore Orioles">
     <display-name lang="en">Los Angeles Angels vs. Baltimore Orioles</display-name>
   </channel>
@@ -23,6 +20,12 @@
   </channel>
   <channel id="Colorado Rockies vs. Atlanta Braves">
     <display-name lang="en">Colorado Rockies vs. Atlanta Braves</display-name>
+  </channel>
+  <channel id="Sky at Dream">
+    <display-name lang="en">Sky at Dream</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Texas Rangers">
     <display-name lang="en">Chicago White Sox vs. Texas Rangers</display-name>
@@ -44,9 +47,6 @@
   </channel>
   <channel id="San Francisco Giants vs. Los Angeles Dodgers">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Sky at Dream">
-    <display-name lang="en">Sky at Dream</display-name>
   </channel>
   <channel id="Thunder at Pacers (Game 4)">
     <display-name lang="en">Thunder at Pacers (Game 4)</display-name>
@@ -90,9 +90,6 @@
   <channel id="F1: Canada GP (Race)">
     <display-name lang="en">F1: Canada GP (Race)</display-name>
   </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -124,7 +121,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250613000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Two" stop="20250613235959 -0500">
+  <programme start="20250613000000 -0500" channel="Los Angeles Angels vs. Baltimore Orioles" stop="20250613235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -132,16 +129,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250613000000 -0500" channel="Los Angeles Angels vs. Baltimore Orioles" stop="20250613235959 -0500">
-    <title>06:05 PM 13/06/25 - Los Angeles Angels vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250613000000 -0500" channel="Cincinnati Reds vs. Detroit Tigers" stop="20250613235959 -0500">
-    <title>06:10 PM 13/06/25 - Cincinnati Reds vs. Detroit Tigers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -149,7 +138,7 @@
     </audio>
   </programme>
   <programme start="20250613000000 -0500" channel="New York Yankees vs. Boston Red Sox" stop="20250613235959 -0500">
-    <title>06:10 PM 13/06/25 - New York Yankees vs. Boston Red Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -157,7 +146,7 @@
     </audio>
   </programme>
   <programme start="20250613000000 -0500" channel="Tampa Bay Rays vs. New York Mets" stop="20250613235959 -0500">
-    <title>06:10 PM 13/06/25 - Tampa Bay Rays vs. New York Mets</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -165,7 +154,23 @@
     </audio>
   </programme>
   <programme start="20250613000000 -0500" channel="Colorado Rockies vs. Atlanta Braves" stop="20250613235959 -0500">
-    <title>06:15 PM 13/06/25 - Colorado Rockies vs. Atlanta Braves</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250613000000 -0500" channel="Sky at Dream" stop="20250613235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250613000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250613235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -222,14 +227,6 @@
   </programme>
   <programme start="20250613000000 -0500" channel="San Francisco Giants vs. Los Angeles Dodgers" stop="20250613235959 -0500">
     <title>09:10 PM 13/06/25 - San Francisco Giants vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250613000000 -0500" channel="Sky at Dream" stop="20250613235959 -0500">
-    <title>06:30 PM 13/06/25 - Sky at Dream</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -342,14 +339,6 @@
   </programme>
   <programme start="20250613000000 -0500" channel="F1: Canada GP (Race)" stop="20250613235959 -0500">
     <title>01:00 PM 15/06/25 - F1: Canada GP (Race)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250613000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250613235959 -0500">
-    <title>07:00 PM 13/06/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
