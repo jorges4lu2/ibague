@@ -3,8 +3,14 @@
   <channel id="Cincinnati Reds vs. Detroit Tigers">
     <display-name lang="en">Cincinnati Reds vs. Detroit Tigers</display-name>
   </channel>
+  <channel id="Pittsburgh Pirates vs. Chicago Cubs">
+    <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Sparks at Lynx">
     <display-name lang="en">Sparks at Lynx</display-name>
+  </channel>
+  <channel id="Liberty at Fever">
+    <display-name lang="en">Liberty at Fever</display-name>
   </channel>
   <channel id="OKTAGON 72 (English)">
     <display-name lang="en">OKTAGON 72 (English)</display-name>
@@ -21,14 +27,8 @@
   <channel id="24 Hours of Le Mans">
     <display-name lang="en">24 Hours of Le Mans</display-name>
   </channel>
-  <channel id="F1: Canada GP (Practice 3)">
-    <display-name lang="en">F1: Canada GP (Practice 3)</display-name>
-  </channel>
   <channel id="Pro Motocross: High Point">
     <display-name lang="en">Pro Motocross: High Point</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Chicago Cubs">
-    <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. Baltimore Orioles">
     <display-name lang="en">Los Angeles Angels vs. Baltimore Orioles</display-name>
@@ -65,9 +65,6 @@
   </channel>
   <channel id="San Francisco Giants vs. Los Angeles Dodgers">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Liberty at Fever">
-    <display-name lang="en">Liberty at Fever</display-name>
   </channel>
   <channel id="Storm at Valkyries">
     <display-name lang="en">Storm at Valkyries</display-name>
@@ -131,7 +128,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250614000000 -0500" channel="Pittsburgh Pirates vs. Chicago Cubs" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250614000000 -0500" channel="Sparks at Lynx" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="Liberty at Fever" stop="20250614235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -179,24 +192,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250614000000 -0500" channel="F1: Canada GP (Practice 3)" stop="20250614235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250614000000 -0500" channel="Pro Motocross: High Point" stop="20250614235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="Pittsburgh Pirates vs. Chicago Cubs" stop="20250614235959 -0500">
-    <title>01:20 PM 14/06/25 - Pittsburgh Pirates vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -293,14 +290,6 @@
   </programme>
   <programme start="20250614000000 -0500" channel="San Francisco Giants vs. Los Angeles Dodgers" stop="20250614235959 -0500">
     <title>09:10 PM 14/06/25 - San Francisco Giants vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="Liberty at Fever" stop="20250614235959 -0500">
-    <title>02:00 PM 14/06/25 - Liberty at Fever</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
