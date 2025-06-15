@@ -6,6 +6,9 @@
   <channel id="San Diego Padres vs. Arizona Diamondbacks">
     <display-name lang="en">San Diego Padres vs. Arizona Diamondbacks</display-name>
   </channel>
+  <channel id="Cleveland Guardians vs. Seattle Mariners">
+    <display-name lang="en">Cleveland Guardians vs. Seattle Mariners</display-name>
+  </channel>
   <channel id="Storm at Valkyries">
     <display-name lang="en">Storm at Valkyries</display-name>
   </channel>
@@ -20,9 +23,6 @@
   </channel>
   <channel id="24 Hours of Le Mans">
     <display-name lang="en">24 Hours of Le Mans</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Seattle Mariners">
-    <display-name lang="en">Cleveland Guardians vs. Seattle Mariners</display-name>
   </channel>
   <channel id="San Francisco Giants vs. Los Angeles Dodgers">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Dodgers</display-name>
@@ -82,6 +82,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250614000000 -0500" channel="Cleveland Guardians vs. Seattle Mariners" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250614000000 -0500" channel="Storm at Valkyries" stop="20250614235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -116,14 +124,6 @@
   </programme>
   <programme start="20250614000000 -0500" channel="24 Hours of Le Mans" stop="20250614235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="Cleveland Guardians vs. Seattle Mariners" stop="20250614235959 -0500">
-    <title>08:40 PM 14/06/25 - Cleveland Guardians vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
