@@ -6,6 +6,9 @@
   <channel id="San Diego Padres vs. Arizona Diamondbacks">
     <display-name lang="en">San Diego Padres vs. Arizona Diamondbacks</display-name>
   </channel>
+  <channel id="Storm at Valkyries">
+    <display-name lang="en">Storm at Valkyries</display-name>
+  </channel>
   <channel id="UFC Fight Night: Usman vs. Buckley">
     <display-name lang="en">UFC Fight Night: Usman vs. Buckley</display-name>
   </channel>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="San Francisco Giants vs. Los Angeles Dodgers">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Storm at Valkyries">
-    <display-name lang="en">Storm at Valkyries</display-name>
   </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Four">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Four</display-name>
@@ -82,6 +82,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250614000000 -0500" channel="Storm at Valkyries" stop="20250614235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250614000000 -0500" channel="UFC Fight Night: Usman vs. Buckley" stop="20250614235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -124,14 +132,6 @@
   </programme>
   <programme start="20250614000000 -0500" channel="San Francisco Giants vs. Los Angeles Dodgers" stop="20250614235959 -0500">
     <title>09:10 PM 14/06/25 - San Francisco Giants vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="Storm at Valkyries" stop="20250614235959 -0500">
-    <title>07:30 PM 14/06/25 - Storm at Valkyries</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
