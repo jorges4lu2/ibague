@@ -3,15 +3,6 @@
   <channel id="Cincinnati Reds vs. Detroit Tigers">
     <display-name lang="en">Cincinnati Reds vs. Detroit Tigers</display-name>
   </channel>
-  <channel id="Sky at Sun">
-    <display-name lang="en">Sky at Sun</display-name>
-  </channel>
-  <channel id="PDC: BetVictor World Cup of Darts - Day Four">
-    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Four</display-name>
-  </channel>
-  <channel id="Auckland City vs. Bayern Munich">
-    <display-name lang="en">Auckland City vs. Bayern Munich</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. Baltimore Orioles">
     <display-name lang="en">Los Angeles Angels vs. Baltimore Orioles</display-name>
   </channel>
@@ -29,6 +20,21 @@
   </channel>
   <channel id="Tampa Bay Rays vs. New York Mets">
     <display-name lang="en">Tampa Bay Rays vs. New York Mets</display-name>
+  </channel>
+  <channel id="Sky at Sun">
+    <display-name lang="en">Sky at Sun</display-name>
+  </channel>
+  <channel id="Dream at Mystics">
+    <display-name lang="en">Dream at Mystics</display-name>
+  </channel>
+  <channel id="PDC: BetVictor World Cup of Darts - Day Four">
+    <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Four</display-name>
+  </channel>
+  <channel id="Auckland City vs. Bayern Munich">
+    <display-name lang="en">Auckland City vs. Bayern Munich</display-name>
+  </channel>
+  <channel id="F1: Canada GP (Race)">
+    <display-name lang="en">F1: Canada GP (Race)</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Houston Astros">
     <display-name lang="en">Minnesota Twins vs. Houston Astros</display-name>
@@ -54,9 +60,6 @@
   <channel id="San Francisco Giants vs. Los Angeles Dodgers">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="Dream at Mystics">
-    <display-name lang="en">Dream at Mystics</display-name>
-  </channel>
   <channel id="Mercury at Aces">
     <display-name lang="en">Mercury at Aces</display-name>
   </channel>
@@ -81,9 +84,6 @@
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
-  <channel id="F1: Canada GP (Race)">
-    <display-name lang="en">F1: Canada GP (Race)</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -107,7 +107,63 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250615000000 -0500" channel="Los Angeles Angels vs. Baltimore Orioles" stop="20250615235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250615000000 -0500" channel="Colorado Rockies vs. Atlanta Braves" stop="20250615235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250615000000 -0500" channel="Miami Marlins vs. Washington Nationals" stop="20250615235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250615000000 -0500" channel="New York Yankees vs. Boston Red Sox" stop="20250615235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250615000000 -0500" channel="Toronto Blue Jays vs. Philadelphia Phillies" stop="20250615235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250615000000 -0500" channel="Tampa Bay Rays vs. New York Mets" stop="20250615235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250615000000 -0500" channel="Sky at Sun" stop="20250615235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250615000000 -0500" channel="Dream at Mystics" stop="20250615235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -131,48 +187,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250615000000 -0500" channel="Los Angeles Angels vs. Baltimore Orioles" stop="20250615235959 -0500">
-    <title>12:35 PM 15/06/25 - Los Angeles Angels vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250615000000 -0500" channel="Colorado Rockies vs. Atlanta Braves" stop="20250615235959 -0500">
-    <title>12:35 PM 15/06/25 - Colorado Rockies vs. Atlanta Braves</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250615000000 -0500" channel="Miami Marlins vs. Washington Nationals" stop="20250615235959 -0500">
-    <title>12:35 PM 15/06/25 - Miami Marlins vs. Washington Nationals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250615000000 -0500" channel="New York Yankees vs. Boston Red Sox" stop="20250615235959 -0500">
-    <title>12:35 PM 15/06/25 - New York Yankees vs. Boston Red Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250615000000 -0500" channel="Toronto Blue Jays vs. Philadelphia Phillies" stop="20250615235959 -0500">
-    <title>12:35 PM 15/06/25 - Toronto Blue Jays vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250615000000 -0500" channel="Tampa Bay Rays vs. New York Mets" stop="20250615235959 -0500">
-    <title>12:40 PM 15/06/25 - Tampa Bay Rays vs. New York Mets</title>
+  <programme start="20250615000000 -0500" channel="F1: Canada GP (Race)" stop="20250615235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -243,14 +259,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250615000000 -0500" channel="Dream at Mystics" stop="20250615235959 -0500">
-    <title>01:00 PM 15/06/25 - Dream at Mystics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250615000000 -0500" channel="Mercury at Aces" stop="20250615235959 -0500">
     <title>05:00 PM 15/06/25 - Mercury at Aces</title>
     <date>2025</date>
@@ -309,14 +317,6 @@
   </programme>
   <programme start="20250615000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250615235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250615000000 -0500" channel="F1: Canada GP (Race)" stop="20250615235959 -0500">
-    <title>01:00 PM 15/06/25 - F1: Canada GP (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
