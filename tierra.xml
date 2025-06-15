@@ -6,6 +6,15 @@
   <channel id="24 Hours of Le Mans">
     <display-name lang="en">24 Hours of Le Mans</display-name>
   </channel>
+  <channel id="Sky at Sun">
+    <display-name lang="en">Sky at Sun</display-name>
+  </channel>
+  <channel id="Dream at Mystics">
+    <display-name lang="en">Dream at Mystics</display-name>
+  </channel>
+  <channel id="Mercury at Aces">
+    <display-name lang="en">Mercury at Aces</display-name>
+  </channel>
   <channel id="Auckland City vs. Bayern Munich">
     <display-name lang="en">Auckland City vs. Bayern Munich</display-name>
   </channel>
@@ -58,6 +67,30 @@
   </programme>
   <programme start="20250615000000 -0500" channel="24 Hours of Le Mans" stop="20250615235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250615000000 -0500" channel="Sky at Sun" stop="20250615235959 -0500">
+    <title>11:00 AM 15/06/25 - Sky at Sun</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250615000000 -0500" channel="Dream at Mystics" stop="20250615235959 -0500">
+    <title>01:00 PM 15/06/25 - Dream at Mystics</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250615000000 -0500" channel="Mercury at Aces" stop="20250615235959 -0500">
+    <title>05:00 PM 15/06/25 - Mercury at Aces</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
