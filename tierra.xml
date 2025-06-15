@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250615 -0500">
-  <channel id="24 Hours of Le Mans">
-    <display-name lang="en">24 Hours of Le Mans</display-name>
-  </channel>
   <channel id="PDC: BetVictor World Cup of Darts - Day Four">
     <display-name lang="en">PDC: BetVictor World Cup of Darts - Day Four</display-name>
+  </channel>
+  <channel id="24 Hours of Le Mans">
+    <display-name lang="en">24 Hours of Le Mans</display-name>
   </channel>
   <channel id="Auckland City vs. Bayern Munich">
     <display-name lang="en">Auckland City vs. Bayern Munich</display-name>
@@ -48,7 +48,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250615000000 -0500" channel="24 Hours of Le Mans" stop="20250615235959 -0500">
+  <programme start="20250615000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Four" stop="20250615235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -56,8 +56,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250615000000 -0500" channel="PDC: BetVictor World Cup of Darts - Day Four" stop="20250615235959 -0500">
-    <title>06:00 AM 15/06/25 - PDC: BetVictor World Cup of Darts - Day Four</title>
+  <programme start="20250615000000 -0500" channel="24 Hours of Le Mans" stop="20250615235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
