@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250615 -0500">
-  <channel id="San Francisco Giants vs. Los Angeles Dodgers">
-    <display-name lang="en">San Francisco Giants vs. Los Angeles Dodgers</display-name>
-  </channel>
   <channel id="UFC Fight Night: Usman vs. Buckley">
     <display-name lang="en">UFC Fight Night: Usman vs. Buckley</display-name>
-  </channel>
-  <channel id="Mexico vs Dominican Republic">
-    <display-name lang="en">Mexico vs Dominican Republic</display-name>
   </channel>
   <channel id="24 Hours of Le Mans">
     <display-name lang="en">24 Hours of Le Mans</display-name>
@@ -57,23 +51,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250615000000 -0500" channel="San Francisco Giants vs. Los Angeles Dodgers" stop="20250615235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250615000000 -0500" channel="UFC Fight Night: Usman vs. Buckley" stop="20250615235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250615000000 -0500" channel="Mexico vs Dominican Republic" stop="20250615235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
