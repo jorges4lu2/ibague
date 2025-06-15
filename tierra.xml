@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250615 -0500">
+  <channel id="Cincinnati Reds vs. Detroit Tigers">
+    <display-name lang="en">Cincinnati Reds vs. Detroit Tigers</display-name>
+  </channel>
   <channel id="Sky at Sun">
     <display-name lang="en">Sky at Sun</display-name>
   </channel>
@@ -8,9 +11,6 @@
   </channel>
   <channel id="Auckland City vs. Bayern Munich">
     <display-name lang="en">Auckland City vs. Bayern Munich</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Detroit Tigers">
-    <display-name lang="en">Cincinnati Reds vs. Detroit Tigers</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. Baltimore Orioles">
     <display-name lang="en">Los Angeles Angels vs. Baltimore Orioles</display-name>
@@ -99,6 +99,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250615000000 -0500" channel="Cincinnati Reds vs. Detroit Tigers" stop="20250615235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250615000000 -0500" channel="Sky at Sun" stop="20250615235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -117,14 +125,6 @@
   </programme>
   <programme start="20250615000000 -0500" channel="Auckland City vs. Bayern Munich" stop="20250615235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250615000000 -0500" channel="Cincinnati Reds vs. Detroit Tigers" stop="20250615235959 -0500">
-    <title>11:05 AM 15/06/25 - Cincinnati Reds vs. Detroit Tigers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
