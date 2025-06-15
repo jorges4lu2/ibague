@@ -6,9 +6,6 @@
   <channel id="San Francisco Giants vs. Los Angeles Dodgers">
     <display-name lang="en">San Francisco Giants vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="Storm at Valkyries">
-    <display-name lang="en">Storm at Valkyries</display-name>
-  </channel>
   <channel id="UFC Fight Night: Usman vs. Buckley">
     <display-name lang="en">UFC Fight Night: Usman vs. Buckley</display-name>
   </channel>
@@ -33,8 +30,17 @@
   <channel id="FC Porto vs. Palmeiras">
     <display-name lang="en">FC Porto vs. Palmeiras</display-name>
   </channel>
+  <channel id="Trinidad and Tobago vs. United States">
+    <display-name lang="en">Trinidad and Tobago vs. United States</display-name>
+  </channel>
+  <channel id="Saudi Arabia vs. Haiti">
+    <display-name lang="en">Saudi Arabia vs. Haiti</display-name>
+  </channel>
   <channel id="Seattle Sounders FC vs. Botafogo">
     <display-name lang="en">Seattle Sounders FC vs. Botafogo</display-name>
+  </channel>
+  <channel id="Suriname vs. Costa Rica">
+    <display-name lang="en">Suriname vs. Costa Rica</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
@@ -66,14 +72,6 @@
     </audio>
   </programme>
   <programme start="20250614000000 -0500" channel="San Francisco Giants vs. Los Angeles Dodgers" stop="20250614235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250614000000 -0500" channel="Storm at Valkyries" stop="20250614235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -145,8 +143,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250614000000 -0500" channel="Trinidad and Tobago vs. United States" stop="20250614235959 -0500">
+    <title>05:00 PM 15/06/25 - Trinidad and Tobago vs. United States</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="Saudi Arabia vs. Haiti" stop="20250614235959 -0500">
+    <title>07:15 PM 15/06/25 - Saudi Arabia vs. Haiti</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250614000000 -0500" channel="Seattle Sounders FC vs. Botafogo" stop="20250614235959 -0500">
     <title>09:00 PM 15/06/25 - Seattle Sounders FC vs. Botafogo</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250614000000 -0500" channel="Suriname vs. Costa Rica" stop="20250614235959 -0500">
+    <title>10:00 PM 15/06/25 - Suriname vs. Costa Rica</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
