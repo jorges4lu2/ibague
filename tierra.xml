@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250616 -0500">
-  <channel id="Philadelphia Phillies vs. Miami Marlins">
-    <display-name lang="en">Philadelphia Phillies vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Washington Nationals">
-    <display-name lang="en">Colorado Rockies vs. Washington Nationals</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. New York Yankees">
     <display-name lang="en">Los Angeles Angels vs. New York Yankees</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Tampa Bay Rays">
     <display-name lang="en">Baltimore Orioles vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Seattle Mariners">
+    <display-name lang="en">Boston Red Sox vs. Seattle Mariners</display-name>
   </channel>
   <channel id="Pacers at Thunder (Game 5)">
     <display-name lang="en">Pacers at Thunder (Game 5)</display-name>
@@ -20,9 +17,6 @@
   </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Seattle Mariners">
-    <display-name lang="en">Boston Red Sox vs. Seattle Mariners</display-name>
   </channel>
   <channel id="Houston Astros vs. Athletics">
     <display-name lang="en">Houston Astros vs. Athletics</display-name>
@@ -99,22 +93,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250616000000 -0500" channel="Philadelphia Phillies vs. Miami Marlins" stop="20250616235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250616000000 -0500" channel="Colorado Rockies vs. Washington Nationals" stop="20250616235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250616000000 -0500" channel="Los Angeles Angels vs. New York Yankees" stop="20250616235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -124,6 +102,14 @@
     </audio>
   </programme>
   <programme start="20250616000000 -0500" channel="Baltimore Orioles vs. Tampa Bay Rays" stop="20250616235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250616000000 -0500" channel="Boston Red Sox vs. Seattle Mariners" stop="20250616235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -149,14 +135,6 @@
   </programme>
   <programme start="20250616000000 -0500" channel="WWE: Monday Night RAW" stop="20250616235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250616000000 -0500" channel="Boston Red Sox vs. Seattle Mariners" stop="20250616235959 -0500">
-    <title>08:40 PM 16/06/25 - Boston Red Sox vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
