@@ -12,8 +12,11 @@
   <channel id="Baltimore Orioles vs. Tampa Bay Rays">
     <display-name lang="en">Baltimore Orioles vs. Tampa Bay Rays</display-name>
   </channel>
-  <channel id="Benfica vs. Boca Juniors">
-    <display-name lang="en">Benfica vs. Boca Juniors</display-name>
+  <channel id="Pacers at Thunder (Game 5)">
+    <display-name lang="en">Pacers at Thunder (Game 5)</display-name>
+  </channel>
+  <channel id="Esperance Sportive de Tunis vs. Flamengo">
+    <display-name lang="en">Esperance Sportive de Tunis vs. Flamengo</display-name>
   </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
@@ -27,9 +30,6 @@
   <channel id="San Diego Padres vs. Los Angeles Dodgers">
     <display-name lang="en">San Diego Padres vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="Pacers at Thunder (Game 5)">
-    <display-name lang="en">Pacers at Thunder (Game 5)</display-name>
-  </channel>
   <channel id="PDC: Players Championship 17 - Board 3">
     <display-name lang="en">PDC: Players Championship 17 - Board 3</display-name>
   </channel>
@@ -41,9 +41,6 @@
   </channel>
   <channel id="PDC: Players Championship 17 - Board 1">
     <display-name lang="en">PDC: Players Championship 17 - Board 1</display-name>
-  </channel>
-  <channel id="Esperance Sportive de Tunis vs. Flamengo">
-    <display-name lang="en">Esperance Sportive de Tunis vs. Flamengo</display-name>
   </channel>
   <channel id="Borussia Dortmund vs. Fluminense">
     <display-name lang="en">Borussia Dortmund vs. Fluminense</display-name>
@@ -134,7 +131,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250616000000 -0500" channel="Benfica vs. Boca Juniors" stop="20250616235959 -0500">
+  <programme start="20250616000000 -0500" channel="Pacers at Thunder (Game 5)" stop="20250616235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250616000000 -0500" channel="Esperance Sportive de Tunis vs. Flamengo" stop="20250616235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -174,14 +179,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250616000000 -0500" channel="Pacers at Thunder (Game 5)" stop="20250616235959 -0500">
-    <title>07:30 PM 16/06/25 - Pacers at Thunder (Game 5)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250616000000 -0500" channel="PDC: Players Championship 17 - Board 3" stop="20250616235959 -0500">
     <title>07:00 AM 17/06/25 - PDC: Players Championship 17 - Board 3</title>
     <date>2025</date>
@@ -208,14 +205,6 @@
   </programme>
   <programme start="20250616000000 -0500" channel="PDC: Players Championship 17 - Board 1" stop="20250616235959 -0500">
     <title>07:00 AM 17/06/25 - PDC: Players Championship 17 - Board 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250616000000 -0500" channel="Esperance Sportive de Tunis vs. Flamengo" stop="20250616235959 -0500">
-    <title>08:00 PM 16/06/25 - Esperance Sportive de Tunis vs. Flamengo</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
