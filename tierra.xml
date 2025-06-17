@@ -1,28 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250616 -0500">
-  <channel id="Los Angeles Angels vs. New York Yankees">
-    <display-name lang="en">Los Angeles Angels vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Tampa Bay Rays">
-    <display-name lang="en">Baltimore Orioles vs. Tampa Bay Rays</display-name>
-  </channel>
   <channel id="Boston Red Sox vs. Seattle Mariners">
     <display-name lang="en">Boston Red Sox vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Pacers at Thunder (Game 5)">
-    <display-name lang="en">Pacers at Thunder (Game 5)</display-name>
-  </channel>
-  <channel id="Esperance Sportive de Tunis vs. Flamengo">
-    <display-name lang="en">Esperance Sportive de Tunis vs. Flamengo</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="Houston Astros vs. Athletics">
     <display-name lang="en">Houston Astros vs. Athletics</display-name>
   </channel>
   <channel id="San Diego Padres vs. Los Angeles Dodgers">
     <display-name lang="en">San Diego Padres vs. Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="Pacers at Thunder (Game 5)">
+    <display-name lang="en">Pacers at Thunder (Game 5)</display-name>
+  </channel>
+  <channel id="Esperance Sportive de Tunis vs. Flamengo">
+    <display-name lang="en">Esperance Sportive de Tunis vs. Flamengo</display-name>
   </channel>
   <channel id="PDC: Players Championship 17 - Board 3">
     <display-name lang="en">PDC: Players Championship 17 - Board 3</display-name>
@@ -93,23 +84,23 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250616000000 -0500" channel="Los Angeles Angels vs. New York Yankees" stop="20250616235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250616000000 -0500" channel="Baltimore Orioles vs. Tampa Bay Rays" stop="20250616235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250616000000 -0500" channel="Boston Red Sox vs. Seattle Mariners" stop="20250616235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250616000000 -0500" channel="Houston Astros vs. Athletics" stop="20250616235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250616000000 -0500" channel="San Diego Padres vs. Los Angeles Dodgers" stop="20250616235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -127,30 +118,6 @@
   </programme>
   <programme start="20250616000000 -0500" channel="Esperance Sportive de Tunis vs. Flamengo" stop="20250616235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250616000000 -0500" channel="WWE: Monday Night RAW" stop="20250616235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250616000000 -0500" channel="Houston Astros vs. Athletics" stop="20250616235959 -0500">
-    <title>09:05 PM 16/06/25 - Houston Astros vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250616000000 -0500" channel="San Diego Padres vs. Los Angeles Dodgers" stop="20250616235959 -0500">
-    <title>09:10 PM 16/06/25 - San Diego Padres vs. Los Angeles Dodgers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
