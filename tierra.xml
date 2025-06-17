@@ -6,14 +6,17 @@
   <channel id="Colorado Rockies vs. Washington Nationals">
     <display-name lang="en">Colorado Rockies vs. Washington Nationals</display-name>
   </channel>
-  <channel id="Benfica vs. Boca Juniors">
-    <display-name lang="en">Benfica vs. Boca Juniors</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. New York Yankees">
     <display-name lang="en">Los Angeles Angels vs. New York Yankees</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Tampa Bay Rays">
     <display-name lang="en">Baltimore Orioles vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="Benfica vs. Boca Juniors">
+    <display-name lang="en">Benfica vs. Boca Juniors</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="Boston Red Sox vs. Seattle Mariners">
     <display-name lang="en">Boston Red Sox vs. Seattle Mariners</display-name>
@@ -69,9 +72,6 @@
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
   </channel>
@@ -118,6 +118,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250616000000 -0500" channel="Los Angeles Angels vs. New York Yankees" stop="20250616235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250616000000 -0500" channel="Baltimore Orioles vs. Tampa Bay Rays" stop="20250616235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250616000000 -0500" channel="Benfica vs. Boca Juniors" stop="20250616235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -126,16 +142,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250616000000 -0500" channel="Los Angeles Angels vs. New York Yankees" stop="20250616235959 -0500">
-    <title>06:05 PM 16/06/25 - Los Angeles Angels vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250616000000 -0500" channel="Baltimore Orioles vs. Tampa Bay Rays" stop="20250616235959 -0500">
-    <title>06:35 PM 16/06/25 - Baltimore Orioles vs. Tampa Bay Rays</title>
+  <programme start="20250616000000 -0500" channel="WWE: Monday Night RAW" stop="20250616235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -280,14 +288,6 @@
   </programme>
   <programme start="20250616000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250616235959 -0500">
     <title>07:00 PM 17/06/25 - Edmonton Oilers vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250616000000 -0500" channel="WWE: Monday Night RAW" stop="20250616235959 -0500">
-    <title>07:00 PM 16/06/25 - WWE: Monday Night RAW</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
