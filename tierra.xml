@@ -12,6 +12,12 @@
   <channel id="PDC: Players Championship 17 - Board 1">
     <display-name lang="en">PDC: Players Championship 17 - Board 1</display-name>
   </channel>
+  <channel id="Sun at Fever">
+    <display-name lang="en">Sun at Fever</display-name>
+  </channel>
+  <channel id="Dream at Liberty">
+    <display-name lang="en">Dream at Liberty</display-name>
+  </channel>
   <channel id="PDC: Players Championship 18 - Board 1">
     <display-name lang="en">PDC: Players Championship 18 - Board 1</display-name>
   </channel>
@@ -107,6 +113,22 @@
   </programme>
   <programme start="20250617000000 -0500" channel="PDC: Players Championship 17 - Board 1" stop="20250617235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250617000000 -0500" channel="Sun at Fever" stop="20250617235959 -0500">
+    <title>06:00 PM 17/06/25 - Sun at Fever</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250617000000 -0500" channel="Dream at Liberty" stop="20250617235959 -0500">
+    <title>06:00 PM 17/06/25 - Dream at Liberty</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
