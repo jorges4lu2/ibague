@@ -12,6 +12,9 @@
   <channel id="PDC: Players Championship 18 - Board 4">
     <display-name lang="en">PDC: Players Championship 18 - Board 4</display-name>
   </channel>
+  <channel id="Wydad AC vs. Manchester City">
+    <display-name lang="en">Wydad AC vs. Manchester City</display-name>
+  </channel>
   <channel id="Boston Red Sox vs. Seattle Mariners">
     <display-name lang="en">Boston Red Sox vs. Seattle Mariners</display-name>
   </channel>
@@ -68,9 +71,6 @@
   </channel>
   <channel id="PDC: Players Championship 19 - Board 1">
     <display-name lang="en">PDC: Players Championship 19 - Board 1</display-name>
-  </channel>
-  <channel id="Wydad AC vs. Manchester City">
-    <display-name lang="en">Wydad AC vs. Manchester City</display-name>
   </channel>
   <channel id="Al Hilal vs. Real Madrid">
     <display-name lang="en">Al Hilal vs. Real Madrid</display-name>
@@ -133,6 +133,14 @@
     </audio>
   </programme>
   <programme start="20250618000000 -0500" channel="PDC: Players Championship 18 - Board 4" stop="20250618235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="Wydad AC vs. Manchester City" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -286,14 +294,6 @@
   </programme>
   <programme start="20250618000000 -0500" channel="PDC: Players Championship 19 - Board 1" stop="20250618235959 -0500">
     <title>07:00 AM 19/06/25 - PDC: Players Championship 19 - Board 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250618000000 -0500" channel="Wydad AC vs. Manchester City" stop="20250618235959 -0500">
-    <title>11:00 AM 18/06/25 - Wydad AC vs. Manchester City</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
