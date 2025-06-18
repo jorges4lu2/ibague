@@ -12,6 +12,9 @@
   <channel id="PDC: Players Championship 18 - Board 4">
     <display-name lang="en">PDC: Players Championship 18 - Board 4</display-name>
   </channel>
+  <channel id="Mercury at Sun">
+    <display-name lang="en">Mercury at Sun</display-name>
+  </channel>
   <channel id="PDC: Players Championship 19 - Board 2">
     <display-name lang="en">PDC: Players Championship 19 - Board 2</display-name>
   </channel>
@@ -86,6 +89,14 @@
   </programme>
   <programme start="20250618000000 -0500" channel="PDC: Players Championship 18 - Board 4" stop="20250618235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="Mercury at Sun" stop="20250618235959 -0500">
+    <title>06:00 PM 18/06/25 - Mercury at Sun</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
