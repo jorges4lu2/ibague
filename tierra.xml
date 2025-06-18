@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250618 -0500">
+  <channel id="Boston Red Sox vs. Seattle Mariners">
+    <display-name lang="en">Boston Red Sox vs. Seattle Mariners</display-name>
+  </channel>
   <channel id="PDC: Players Championship 18 - Board 1">
     <display-name lang="en">PDC: Players Championship 18 - Board 1</display-name>
   </channel>
@@ -14,9 +17,6 @@
   </channel>
   <channel id="Al Hilal vs. Real Madrid">
     <display-name lang="en">Al Hilal vs. Real Madrid</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Seattle Mariners">
-    <display-name lang="en">Boston Red Sox vs. Seattle Mariners</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Miami Marlins">
     <display-name lang="en">Philadelphia Phillies vs. Miami Marlins</display-name>
@@ -105,6 +105,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250618000000 -0500" channel="Boston Red Sox vs. Seattle Mariners" stop="20250618235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250618000000 -0500" channel="PDC: Players Championship 18 - Board 1" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -139,14 +147,6 @@
   </programme>
   <programme start="20250618000000 -0500" channel="Al Hilal vs. Real Madrid" stop="20250618235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250618000000 -0500" channel="Boston Red Sox vs. Seattle Mariners" stop="20250618235959 -0500">
-    <title>03:10 PM 18/06/25 - Boston Red Sox vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
