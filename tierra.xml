@@ -1,19 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250617 -0500">
-  <channel id="Boston Red Sox vs. Seattle Mariners">
-    <display-name lang="en">Boston Red Sox vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. San Francisco Giants">
-    <display-name lang="en">Cleveland Guardians vs. San Francisco Giants</display-name>
-  </channel>
+<tv date="20250618 -0500">
   <channel id="Houston Astros vs. Athletics">
     <display-name lang="en">Houston Astros vs. Athletics</display-name>
   </channel>
   <channel id="San Diego Padres vs. Los Angeles Dodgers">
     <display-name lang="en">San Diego Padres vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Storm at Sparks">
-    <display-name lang="en">Storm at Sparks</display-name>
   </channel>
   <channel id="PDC: Players Championship 18 - Board 1">
     <display-name lang="en">PDC: Players Championship 18 - Board 1</display-name>
@@ -26,6 +17,15 @@
   </channel>
   <channel id="PDC: Players Championship 18 - Board 4">
     <display-name lang="en">PDC: Players Championship 18 - Board 4</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 19 - Board 2">
+    <display-name lang="en">PDC: Players Championship 19 - Board 2</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 19 - Board 3">
+    <display-name lang="en">PDC: Players Championship 19 - Board 3</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 19 - Board 1">
+    <display-name lang="en">PDC: Players Championship 19 - Board 1</display-name>
   </channel>
   <channel id="Wydad AC vs. Manchester City">
     <display-name lang="en">Wydad AC vs. Manchester City</display-name>
@@ -66,7 +66,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250617000000 -0500" channel="Boston Red Sox vs. Seattle Mariners" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="Houston Astros vs. Athletics" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -74,7 +74,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="Cleveland Guardians vs. San Francisco Giants" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="San Diego Padres vs. Los Angeles Dodgers" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -82,31 +82,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="Houston Astros vs. Athletics" stop="20250617235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250617000000 -0500" channel="San Diego Padres vs. Los Angeles Dodgers" stop="20250617235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250617000000 -0500" channel="Storm at Sparks" stop="20250617235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250617000000 -0500" channel="PDC: Players Championship 18 - Board 1" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="PDC: Players Championship 18 - Board 1" stop="20250618235959 -0500">
     <title>07:00 AM 18/06/25 - PDC: Players Championship 18 - Board 1</title>
     <date>2025</date>
     <category>Sports</category>
@@ -114,7 +90,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="PDC: Players Championship 18 - Board 2" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="PDC: Players Championship 18 - Board 2" stop="20250618235959 -0500">
     <title>07:00 AM 18/06/25 - PDC: Players Championship 18 - Board 2</title>
     <date>2025</date>
     <category>Sports</category>
@@ -122,7 +98,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="PDC: Players Championship 18 - Board 3" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="PDC: Players Championship 18 - Board 3" stop="20250618235959 -0500">
     <title>07:00 AM 18/06/25 - PDC: Players Championship 18 - Board 3</title>
     <date>2025</date>
     <category>Sports</category>
@@ -130,7 +106,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="PDC: Players Championship 18 - Board 4" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="PDC: Players Championship 18 - Board 4" stop="20250618235959 -0500">
     <title>07:00 AM 18/06/25 - PDC: Players Championship 18 - Board 4</title>
     <date>2025</date>
     <category>Sports</category>
@@ -138,7 +114,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="Wydad AC vs. Manchester City" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="PDC: Players Championship 19 - Board 2" stop="20250618235959 -0500">
+    <title>07:00 AM 19/06/25 - PDC: Players Championship 19 - Board 2</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="PDC: Players Championship 19 - Board 3" stop="20250618235959 -0500">
+    <title>07:00 AM 19/06/25 - PDC: Players Championship 19 - Board 3</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="PDC: Players Championship 19 - Board 1" stop="20250618235959 -0500">
+    <title>07:00 AM 19/06/25 - PDC: Players Championship 19 - Board 1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="Wydad AC vs. Manchester City" stop="20250618235959 -0500">
     <title>11:00 AM 18/06/25 - Wydad AC vs. Manchester City</title>
     <date>2025</date>
     <category>Sports</category>
@@ -146,7 +146,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="Al Hilal vs. Real Madrid" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="Al Hilal vs. Real Madrid" stop="20250618235959 -0500">
     <title>02:00 PM 18/06/25 - Al Hilal vs. Real Madrid</title>
     <date>2025</date>
     <category>Sports</category>
@@ -154,7 +154,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="RB Salzburg vs. Pachuca" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="RB Salzburg vs. Pachuca" stop="20250618235959 -0500">
     <title>05:00 PM 18/06/25 - RB Salzburg vs. Pachuca</title>
     <date>2025</date>
     <category>Sports</category>
@@ -162,7 +162,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="Juventus vs. Al Ain" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="Juventus vs. Al Ain" stop="20250618235959 -0500">
     <title>08:00 PM 18/06/25 - Juventus vs. Al Ain</title>
     <date>2025</date>
     <category>Sports</category>
@@ -170,7 +170,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250618235959 -0500">
     <title>07:00 PM 18/06/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
@@ -178,7 +178,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="TNA: Impact" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="TNA: Impact" stop="20250618235959 -0500">
     <title>07:00 PM 19/06/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
@@ -186,7 +186,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250618235959 -0500">
     <title>07:00 PM 20/06/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
@@ -194,7 +194,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="AEW: Saturday Night Collision" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="AEW: Saturday Night Collision" stop="20250618235959 -0500">
     <title>07:00 PM 21/06/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -202,7 +202,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="24/7 South Park" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="24/7 South Park" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -210,7 +210,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="24/7 COWS" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="24/7 COWS" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -218,7 +218,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="24/7 Family Guy" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="24/7 Family Guy" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -226,7 +226,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="24/7 The Simpsons" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="24/7 The Simpsons" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -234,7 +234,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250617000000 -0500" channel="(North) Korean Central Television" stop="20250617235959 -0500">
+  <programme start="20250618000000 -0500" channel="(North) Korean Central Television" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
