@@ -27,6 +27,12 @@
   <channel id="St. Louis Cardinals vs. Chicago White Sox">
     <display-name lang="en">St. Louis Cardinals vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Kansas City Royals vs. Texas Rangers">
+    <display-name lang="en">Kansas City Royals vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Chicago Cubs">
+    <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Sun at Fever">
     <display-name lang="en">Sun at Fever</display-name>
   </channel>
@@ -45,17 +51,14 @@
   <channel id="Mamelodi Sundowns vs. Ulsan Hyundai">
     <display-name lang="en">Mamelodi Sundowns vs. Ulsan Hyundai</display-name>
   </channel>
+  <channel id="Internazionale vs. Monterrey">
+    <display-name lang="en">Internazionale vs. Monterrey</display-name>
+  </channel>
   <channel id="Edmonton Oilers vs. Florida Panthers">
     <display-name lang="en">Edmonton Oilers vs. Florida Panthers</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Texas Rangers">
-    <display-name lang="en">Kansas City Royals vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Chicago Cubs">
-    <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Boston Red Sox vs. Seattle Mariners">
     <display-name lang="en">Boston Red Sox vs. Seattle Mariners</display-name>
@@ -83,9 +86,6 @@
   </channel>
   <channel id="PDC: Players Championship 18 - Board 4">
     <display-name lang="en">PDC: Players Championship 18 - Board 4</display-name>
-  </channel>
-  <channel id="Internazionale vs. Monterrey">
-    <display-name lang="en">Internazionale vs. Monterrey</display-name>
   </channel>
   <channel id="Wydad AC vs. Manchester City">
     <display-name lang="en">Wydad AC vs. Manchester City</display-name>
@@ -198,6 +198,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250617000000 -0500" channel="Kansas City Royals vs. Texas Rangers" stop="20250617235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250617000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250617235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250617000000 -0500" channel="Sun at Fever" stop="20250617235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -246,6 +262,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250617000000 -0500" channel="Internazionale vs. Monterrey" stop="20250617235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250617000000 -0500" channel="Edmonton Oilers vs. Florida Panthers" stop="20250617235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -256,22 +280,6 @@
   </programme>
   <programme start="20250617000000 -0500" channel="WWE: NXT" stop="20250617235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250617000000 -0500" channel="Kansas City Royals vs. Texas Rangers" stop="20250617235959 -0500">
-    <title>07:05 PM 17/06/25 - Kansas City Royals vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250617000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250617235959 -0500">
-    <title>07:05 PM 17/06/25 - Milwaukee Brewers vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -344,14 +352,6 @@
   </programme>
   <programme start="20250617000000 -0500" channel="PDC: Players Championship 18 - Board 4" stop="20250617235959 -0500">
     <title>07:00 AM 18/06/25 - PDC: Players Championship 18 - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250617000000 -0500" channel="Internazionale vs. Monterrey" stop="20250617235959 -0500">
-    <title>08:00 PM 17/06/25 - Internazionale vs. Monterrey</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
