@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250619 -0500">
-  <channel id="Atl&#233;tico Madrid vs. Seattle Sounders FC">
-    <display-name lang="en">Atl&#233;tico Madrid vs. Seattle Sounders FC</display-name>
-  </channel>
   <channel id="Mercury at Liberty">
     <display-name lang="en">Mercury at Liberty</display-name>
+  </channel>
+  <channel id="Atl&#233;tico Madrid vs. Seattle Sounders FC">
+    <display-name lang="en">Atl&#233;tico Madrid vs. Seattle Sounders FC</display-name>
   </channel>
   <channel id="Thunder at Pacers (Game 6)">
     <display-name lang="en">Thunder at Pacers (Game 6)</display-name>
@@ -51,7 +51,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250619000000 -0500" channel="Atl&#233;tico Madrid vs. Seattle Sounders FC" stop="20250619235959 -0500">
+  <programme start="20250619000000 -0500" channel="Mercury at Liberty" stop="20250619235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -59,8 +59,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250619000000 -0500" channel="Mercury at Liberty" stop="20250619235959 -0500">
-    <title>06:00 PM 19/06/25 - Mercury at Liberty</title>
+  <programme start="20250619000000 -0500" channel="Atl&#233;tico Madrid vs. Seattle Sounders FC" stop="20250619235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
