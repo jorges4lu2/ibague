@@ -27,20 +27,23 @@
   <channel id="St. Louis Cardinals vs. Chicago White Sox">
     <display-name lang="en">St. Louis Cardinals vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Kansas City Royals vs. Texas Rangers">
+    <display-name lang="en">Kansas City Royals vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Chicago Cubs">
+    <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Mercury at Sun">
     <display-name lang="en">Mercury at Sun</display-name>
   </channel>
   <channel id="RB Salzburg vs. Pachuca">
     <display-name lang="en">RB Salzburg vs. Pachuca</display-name>
   </channel>
+  <channel id="Juventus vs. Al Ain">
+    <display-name lang="en">Juventus vs. Al Ain</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Texas Rangers">
-    <display-name lang="en">Kansas City Royals vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Chicago Cubs">
-    <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. San Francisco Giants">
     <display-name lang="en">Cleveland Guardians vs. San Francisco Giants</display-name>
@@ -59,9 +62,6 @@
   </channel>
   <channel id="PDC: Players Championship 19 - Board 1">
     <display-name lang="en">PDC: Players Championship 19 - Board 1</display-name>
-  </channel>
-  <channel id="Juventus vs. Al Ain">
-    <display-name lang="en">Juventus vs. Al Ain</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -159,6 +159,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250618000000 -0500" channel="Kansas City Royals vs. Texas Rangers" stop="20250618235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250618235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250618000000 -0500" channel="Mercury at Sun" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -175,7 +191,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250618000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250618235959 -0500">
+  <programme start="20250618000000 -0500" channel="Juventus vs. Al Ain" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -183,16 +199,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250618000000 -0500" channel="Kansas City Royals vs. Texas Rangers" stop="20250618235959 -0500">
-    <title>07:05 PM 18/06/25 - Kansas City Royals vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250618000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250618235959 -0500">
-    <title>07:05 PM 18/06/25 - Milwaukee Brewers vs. Chicago Cubs</title>
+  <programme start="20250618000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250618235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -241,14 +249,6 @@
   </programme>
   <programme start="20250618000000 -0500" channel="PDC: Players Championship 19 - Board 1" stop="20250618235959 -0500">
     <title>07:00 AM 19/06/25 - PDC: Players Championship 19 - Board 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250618000000 -0500" channel="Juventus vs. Al Ain" stop="20250618235959 -0500">
-    <title>08:00 PM 18/06/25 - Juventus vs. Al Ain</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
