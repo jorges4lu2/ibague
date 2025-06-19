@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250618 -0500">
-  <channel id="Boston Red Sox vs. Seattle Mariners">
-    <display-name lang="en">Boston Red Sox vs. Seattle Mariners</display-name>
-  </channel>
   <channel id="Philadelphia Phillies vs. Miami Marlins">
     <display-name lang="en">Philadelphia Phillies vs. Miami Marlins</display-name>
   </channel>
@@ -11,12 +8,6 @@
   </channel>
   <channel id="Colorado Rockies vs. Washington Nationals">
     <display-name lang="en">Colorado Rockies vs. Washington Nationals</display-name>
-  </channel>
-  <channel id="Mercury at Sun">
-    <display-name lang="en">Mercury at Sun</display-name>
-  </channel>
-  <channel id="RB Salzburg vs. Pachuca">
-    <display-name lang="en">RB Salzburg vs. Pachuca</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. New York Yankees">
     <display-name lang="en">Los Angeles Angels vs. New York Yankees</display-name>
@@ -35,6 +26,15 @@
   </channel>
   <channel id="St. Louis Cardinals vs. Chicago White Sox">
     <display-name lang="en">St. Louis Cardinals vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="Mercury at Sun">
+    <display-name lang="en">Mercury at Sun</display-name>
+  </channel>
+  <channel id="RB Salzburg vs. Pachuca">
+    <display-name lang="en">RB Salzburg vs. Pachuca</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Texas Rangers">
     <display-name lang="en">Kansas City Royals vs. Texas Rangers</display-name>
@@ -63,9 +63,6 @@
   <channel id="Juventus vs. Al Ain">
     <display-name lang="en">Juventus vs. Al Ain</display-name>
   </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
@@ -90,14 +87,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250618000000 -0500" channel="Boston Red Sox vs. Seattle Mariners" stop="20250618235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250618000000 -0500" channel="Philadelphia Phillies vs. Miami Marlins" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -122,6 +111,54 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250618000000 -0500" channel="Los Angeles Angels vs. New York Yankees" stop="20250618235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="Arizona Diamondbacks vs. Toronto Blue Jays" stop="20250618235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="Minnesota Twins vs. Cincinnati Reds" stop="20250618235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="New York Mets vs. Atlanta Braves" stop="20250618235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="Baltimore Orioles vs. Tampa Bay Rays" stop="20250618235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250618000000 -0500" channel="St. Louis Cardinals vs. Chicago White Sox" stop="20250618235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250618000000 -0500" channel="Mercury at Sun" stop="20250618235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -138,48 +175,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250618000000 -0500" channel="Los Angeles Angels vs. New York Yankees" stop="20250618235959 -0500">
-    <title>06:05 PM 18/06/25 - Los Angeles Angels vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250618000000 -0500" channel="Arizona Diamondbacks vs. Toronto Blue Jays" stop="20250618235959 -0500">
-    <title>06:07 PM 18/06/25 - Arizona Diamondbacks vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250618000000 -0500" channel="Minnesota Twins vs. Cincinnati Reds" stop="20250618235959 -0500">
-    <title>06:10 PM 18/06/25 - Minnesota Twins vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250618000000 -0500" channel="New York Mets vs. Atlanta Braves" stop="20250618235959 -0500">
-    <title>06:15 PM 18/06/25 - New York Mets vs. Atlanta Braves</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250618000000 -0500" channel="Baltimore Orioles vs. Tampa Bay Rays" stop="20250618235959 -0500">
-    <title>06:35 PM 18/06/25 - Baltimore Orioles vs. Tampa Bay Rays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250618000000 -0500" channel="St. Louis Cardinals vs. Chicago White Sox" stop="20250618235959 -0500">
-    <title>06:40 PM 18/06/25 - St. Louis Cardinals vs. Chicago White Sox</title>
+  <programme start="20250618000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250618235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -252,14 +249,6 @@
   </programme>
   <programme start="20250618000000 -0500" channel="Juventus vs. Al Ain" stop="20250618235959 -0500">
     <title>08:00 PM 18/06/25 - Juventus vs. Al Ain</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250618000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250618235959 -0500">
-    <title>07:00 PM 18/06/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
