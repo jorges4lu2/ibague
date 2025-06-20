@@ -1,19 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250619 -0500">
-  <channel id="Mercury at Liberty">
-    <display-name lang="en">Mercury at Liberty</display-name>
-  </channel>
   <channel id="Thunder at Pacers (Game 6)">
     <display-name lang="en">Thunder at Pacers (Game 6)</display-name>
+  </channel>
+  <channel id="Fever at Valkyries">
+    <display-name lang="en">Fever at Valkyries</display-name>
   </channel>
   <channel id="Botafogo vs. Paris Saint-Germain">
     <display-name lang="en">Botafogo vs. Paris Saint-Germain</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
-  </channel>
-  <channel id="Fever at Valkyries">
-    <display-name lang="en">Fever at Valkyries</display-name>
   </channel>
   <channel id="Auckland City vs. Benfica">
     <display-name lang="en">Auckland City vs. Benfica</display-name>
@@ -48,7 +45,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250619000000 -0500" channel="Mercury at Liberty" stop="20250619235959 -0500">
+  <programme start="20250619000000 -0500" channel="Thunder at Pacers (Game 6)" stop="20250619235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -56,7 +53,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250619000000 -0500" channel="Thunder at Pacers (Game 6)" stop="20250619235959 -0500">
+  <programme start="20250619000000 -0500" channel="Fever at Valkyries" stop="20250619235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -74,14 +71,6 @@
   </programme>
   <programme start="20250619000000 -0500" channel="TNA: Impact" stop="20250619235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250619000000 -0500" channel="Fever at Valkyries" stop="20250619235959 -0500">
-    <title>09:00 PM 19/06/25 - Fever at Valkyries</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
