@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250620 -0500">
+  <channel id="Auckland City vs. Benfica">
+    <display-name lang="en">Auckland City vs. Benfica</display-name>
+  </channel>
   <channel id="Mystics at Dream">
     <display-name lang="en">Mystics at Dream</display-name>
   </channel>
@@ -8,9 +11,6 @@
   </channel>
   <channel id="Storm at Aces">
     <display-name lang="en">Storm at Aces</display-name>
-  </channel>
-  <channel id="Auckland City vs. Benfica">
-    <display-name lang="en">Auckland City vs. Benfica</display-name>
   </channel>
   <channel id="Chelsea vs. Flamengo">
     <display-name lang="en">Chelsea vs. Flamengo</display-name>
@@ -42,6 +42,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250620000000 -0500" channel="Auckland City vs. Benfica" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250620000000 -0500" channel="Mystics at Dream" stop="20250620235959 -0500">
     <title>06:30 PM 20/06/25 - Mystics at Dream</title>
     <date>2025</date>
@@ -60,14 +68,6 @@
   </programme>
   <programme start="20250620000000 -0500" channel="Storm at Aces" stop="20250620235959 -0500">
     <title>09:00 PM 20/06/25 - Storm at Aces</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Auckland City vs. Benfica" stop="20250620235959 -0500">
-    <title>11:00 AM 20/06/25 - Auckland City vs. Benfica</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
