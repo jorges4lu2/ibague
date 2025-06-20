@@ -6,6 +6,9 @@
   <channel id="Atl&#233;tico Madrid vs. Seattle Sounders FC">
     <display-name lang="en">Atl&#233;tico Madrid vs. Seattle Sounders FC</display-name>
   </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
+  </channel>
   <channel id="Thunder at Pacers (Game 6)">
     <display-name lang="en">Thunder at Pacers (Game 6)</display-name>
   </channel>
@@ -26,9 +29,6 @@
   </channel>
   <channel id="Boca Juniors vs. Bayern Munich">
     <display-name lang="en">Boca Juniors vs. Bayern Munich</display-name>
-  </channel>
-  <channel id="TNA: Impact">
-    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -60,6 +60,14 @@
     </audio>
   </programme>
   <programme start="20250619000000 -0500" channel="Atl&#233;tico Madrid vs. Seattle Sounders FC" stop="20250619235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250619000000 -0500" channel="TNA: Impact" stop="20250619235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -117,14 +125,6 @@
   </programme>
   <programme start="20250619000000 -0500" channel="Boca Juniors vs. Bayern Munich" stop="20250619235959 -0500">
     <title>08:00 PM 20/06/25 - Boca Juniors vs. Bayern Munich</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250619000000 -0500" channel="TNA: Impact" stop="20250619235959 -0500">
-    <title>07:00 PM 19/06/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
