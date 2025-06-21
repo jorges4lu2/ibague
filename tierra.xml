@@ -3,9 +3,6 @@
   <channel id="Texas Rangers vs. Pittsburgh Pirates">
     <display-name lang="en">Texas Rangers vs. Pittsburgh Pirates</display-name>
   </channel>
-  <channel id="Esperance Sportive de Tunis vs. LAFC">
-    <display-name lang="en">Esperance Sportive de Tunis vs. LAFC</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. New York Yankees">
     <display-name lang="en">Baltimore Orioles vs. New York Yankees</display-name>
   </channel>
@@ -23,6 +20,18 @@
   </channel>
   <channel id="Cincinnati Reds vs. St. Louis Cardinals">
     <display-name lang="en">Cincinnati Reds vs. St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="Mystics at Dream">
+    <display-name lang="en">Mystics at Dream</display-name>
+  </channel>
+  <channel id="Wings at Sun">
+    <display-name lang="en">Wings at Sun</display-name>
+  </channel>
+  <channel id="Esperance Sportive de Tunis vs. LAFC">
+    <display-name lang="en">Esperance Sportive de Tunis vs. LAFC</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Minnesota Twins">
     <display-name lang="en">Milwaukee Brewers vs. Minnesota Twins</display-name>
@@ -45,20 +54,11 @@
   <channel id="Boston Red Sox vs. San Francisco Giants">
     <display-name lang="en">Boston Red Sox vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="Mystics at Dream">
-    <display-name lang="en">Mystics at Dream</display-name>
-  </channel>
-  <channel id="Wings at Sun">
-    <display-name lang="en">Wings at Sun</display-name>
-  </channel>
   <channel id="Storm at Aces">
     <display-name lang="en">Storm at Aces</display-name>
   </channel>
   <channel id="Boca Juniors vs. Bayern Munich">
     <display-name lang="en">Boca Juniors vs. Bayern Munich</display-name>
-  </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -86,6 +86,70 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250620000000 -0500" channel="Baltimore Orioles vs. New York Yankees" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250620000000 -0500" channel="Detroit Tigers vs. Tampa Bay Rays" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250620000000 -0500" channel="Chicago White Sox vs. Toronto Blue Jays" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250620000000 -0500" channel="Atlanta Braves vs. Miami Marlins" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250620000000 -0500" channel="New York Mets vs. Philadelphia Phillies" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250620000000 -0500" channel="Cincinnati Reds vs. St. Louis Cardinals" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250620000000 -0500" channel="Mystics at Dream" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250620000000 -0500" channel="Wings at Sun" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250620000000 -0500" channel="Esperance Sportive de Tunis vs. LAFC" stop="20250620235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -94,48 +158,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="Baltimore Orioles vs. New York Yankees" stop="20250620235959 -0500">
-    <title>06:05 PM 20/06/25 - Baltimore Orioles vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Detroit Tigers vs. Tampa Bay Rays" stop="20250620235959 -0500">
-    <title>06:05 PM 20/06/25 - Detroit Tigers vs. Tampa Bay Rays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Chicago White Sox vs. Toronto Blue Jays" stop="20250620235959 -0500">
-    <title>06:07 PM 20/06/25 - Chicago White Sox vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Atlanta Braves vs. Miami Marlins" stop="20250620235959 -0500">
-    <title>06:10 PM 20/06/25 - Atlanta Braves vs. Miami Marlins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="New York Mets vs. Philadelphia Phillies" stop="20250620235959 -0500">
-    <title>06:15 PM 20/06/25 - New York Mets vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Cincinnati Reds vs. St. Louis Cardinals" stop="20250620235959 -0500">
-    <title>06:15 PM 20/06/25 - Cincinnati Reds vs. St. Louis Cardinals</title>
+  <programme start="20250620000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250620235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -198,22 +222,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="Mystics at Dream" stop="20250620235959 -0500">
-    <title>06:30 PM 20/06/25 - Mystics at Dream</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Wings at Sun" stop="20250620235959 -0500">
-    <title>06:30 PM 20/06/25 - Wings at Sun</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250620000000 -0500" channel="Storm at Aces" stop="20250620235959 -0500">
     <title>09:00 PM 20/06/25 - Storm at Aces</title>
     <date>2025</date>
@@ -224,14 +232,6 @@
   </programme>
   <programme start="20250620000000 -0500" channel="Boca Juniors vs. Bayern Munich" stop="20250620235959 -0500">
     <title>08:00 PM 20/06/25 - Boca Juniors vs. Bayern Munich</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250620235959 -0500">
-    <title>07:00 PM 20/06/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
