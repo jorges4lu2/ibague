@@ -3,6 +3,9 @@
   <channel id="MXGP of Great Britain (Day 1)">
     <display-name lang="en">MXGP of Great Britain (Day 1)</display-name>
   </channel>
+  <channel id="UFC Fight Night: Hill vs. Rountree Jr.">
+    <display-name lang="en">UFC Fight Night: Hill vs. Rountree Jr.</display-name>
+  </channel>
   <channel id="Borussia Dortmund vs. Mamelodi Sundowns">
     <display-name lang="en">Borussia Dortmund vs. Mamelodi Sundowns</display-name>
   </channel>
@@ -38,6 +41,14 @@
   </channel>
   <programme start="20250621000000 -0500" channel="MXGP of Great Britain (Day 1)" stop="20250621235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250621000000 -0500" channel="UFC Fight Night: Hill vs. Rountree Jr." stop="20250621235959 -0500">
+    <title>11:00 AM 21/06/25 - UFC Fight Night: Hill vs. Rountree Jr.</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
