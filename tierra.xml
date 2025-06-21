@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250621 -0500">
+  <channel id="MXGP of Great Britain (Day 1)">
+    <display-name lang="en">MXGP of Great Britain (Day 1)</display-name>
+  </channel>
   <channel id="Borussia Dortmund vs. Mamelodi Sundowns">
     <display-name lang="en">Borussia Dortmund vs. Mamelodi Sundowns</display-name>
   </channel>
@@ -11,6 +14,9 @@
   </channel>
   <channel id="Monterrey vs. River Plate">
     <display-name lang="en">Monterrey vs. River Plate</display-name>
+  </channel>
+  <channel id="MXGP of Great Britain (Day 2)">
+    <display-name lang="en">MXGP of Great Britain (Day 2)</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -30,6 +36,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250621000000 -0500" channel="MXGP of Great Britain (Day 1)" stop="20250621235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250621000000 -0500" channel="Borussia Dortmund vs. Mamelodi Sundowns" stop="20250621235959 -0500">
     <title>11:00 AM 21/06/25 - Borussia Dortmund vs. Mamelodi Sundowns</title>
     <date>2025</date>
@@ -56,6 +70,14 @@
   </programme>
   <programme start="20250621000000 -0500" channel="Monterrey vs. River Plate" stop="20250621235959 -0500">
     <title>08:00 PM 21/06/25 - Monterrey vs. River Plate</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250621000000 -0500" channel="MXGP of Great Britain (Day 2)" stop="20250621235959 -0500">
+    <title>03:35 AM 22/06/25 - MXGP of Great Britain (Day 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
