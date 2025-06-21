@@ -21,23 +21,23 @@
   <channel id="Cincinnati Reds vs. St. Louis Cardinals">
     <display-name lang="en">Cincinnati Reds vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Milwaukee Brewers vs. Minnesota Twins">
+    <display-name lang="en">Milwaukee Brewers vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. Colorado Rockies">
+    <display-name lang="en">Arizona Diamondbacks vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Mystics at Dream">
     <display-name lang="en">Mystics at Dream</display-name>
   </channel>
   <channel id="Wings at Sun">
     <display-name lang="en">Wings at Sun</display-name>
   </channel>
-  <channel id="Esperance Sportive de Tunis vs. LAFC">
-    <display-name lang="en">Esperance Sportive de Tunis vs. LAFC</display-name>
+  <channel id="Boca Juniors vs. Bayern Munich">
+    <display-name lang="en">Boca Juniors vs. Bayern Munich</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Minnesota Twins">
-    <display-name lang="en">Milwaukee Brewers vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Colorado Rockies">
-    <display-name lang="en">Arizona Diamondbacks vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Houston Astros vs. Los Angeles Angels">
     <display-name lang="en">Houston Astros vs. Los Angeles Angels</display-name>
@@ -56,9 +56,6 @@
   </channel>
   <channel id="Storm at Aces">
     <display-name lang="en">Storm at Aces</display-name>
-  </channel>
-  <channel id="Boca Juniors vs. Bayern Munich">
-    <display-name lang="en">Boca Juniors vs. Bayern Munich</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -134,6 +131,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250620000000 -0500" channel="Milwaukee Brewers vs. Minnesota Twins" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250620000000 -0500" channel="Arizona Diamondbacks vs. Colorado Rockies" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250620000000 -0500" channel="Mystics at Dream" stop="20250620235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -150,7 +163,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="Esperance Sportive de Tunis vs. LAFC" stop="20250620235959 -0500">
+  <programme start="20250620000000 -0500" channel="Boca Juniors vs. Bayern Munich" stop="20250620235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -160,22 +173,6 @@
   </programme>
   <programme start="20250620000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250620235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Milwaukee Brewers vs. Minnesota Twins" stop="20250620235959 -0500">
-    <title>07:10 PM 20/06/25 - Milwaukee Brewers vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Arizona Diamondbacks vs. Colorado Rockies" stop="20250620235959 -0500">
-    <title>07:40 PM 20/06/25 - Arizona Diamondbacks vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -224,14 +221,6 @@
   </programme>
   <programme start="20250620000000 -0500" channel="Storm at Aces" stop="20250620235959 -0500">
     <title>09:00 PM 20/06/25 - Storm at Aces</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Boca Juniors vs. Bayern Munich" stop="20250620235959 -0500">
-    <title>08:00 PM 20/06/25 - Boca Juniors vs. Bayern Munich</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
