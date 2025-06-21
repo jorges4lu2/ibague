@@ -3,20 +3,23 @@
   <channel id="Detroit Tigers vs. Tampa Bay Rays">
     <display-name lang="en">Detroit Tigers vs. Tampa Bay Rays</display-name>
   </channel>
+  <channel id="Baltimore Orioles vs. New York Yankees">
+    <display-name lang="en">Baltimore Orioles vs. New York Yankees</display-name>
+  </channel>
   <channel id="Mercury at Sky">
     <display-name lang="en">Mercury at Sky</display-name>
   </channel>
   <channel id="UFC Fight Night: Hill vs. Rountree Jr.">
     <display-name lang="en">UFC Fight Night: Hill vs. Rountree Jr.</display-name>
   </channel>
+  <channel id="Yafai vs. Rodriguez">
+    <display-name lang="en">Yafai vs. Rodriguez</display-name>
+  </channel>
   <channel id="Borussia Dortmund vs. Mamelodi Sundowns">
     <display-name lang="en">Borussia Dortmund vs. Mamelodi Sundowns</display-name>
   </channel>
   <channel id="MXGP of Great Britain (Day 1)">
     <display-name lang="en">MXGP of Great Britain (Day 1)</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. New York Yankees">
-    <display-name lang="en">Baltimore Orioles vs. New York Yankees</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Minnesota Twins">
     <display-name lang="en">Milwaukee Brewers vs. Minnesota Twins</display-name>
@@ -60,9 +63,6 @@
   <channel id="Sparks at Lynx">
     <display-name lang="en">Sparks at Lynx</display-name>
   </channel>
-  <channel id="Yafai vs. Rodriguez">
-    <display-name lang="en">Yafai vs. Rodriguez</display-name>
-  </channel>
   <channel id="Top Rank Boxing on ESPN: Mielnicki Jr. vs. Gardzielik">
     <display-name lang="en">Top Rank Boxing on ESPN: Mielnicki Jr. vs. Gardzielik</display-name>
   </channel>
@@ -104,6 +104,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250621000000 -0500" channel="Baltimore Orioles vs. New York Yankees" stop="20250621235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250621000000 -0500" channel="Mercury at Sky" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -113,6 +121,14 @@
     </audio>
   </programme>
   <programme start="20250621000000 -0500" channel="UFC Fight Night: Hill vs. Rountree Jr." stop="20250621235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250621000000 -0500" channel="Yafai vs. Rodriguez" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -130,14 +146,6 @@
   </programme>
   <programme start="20250621000000 -0500" channel="MXGP of Great Britain (Day 1)" stop="20250621235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250621000000 -0500" channel="Baltimore Orioles vs. New York Yankees" stop="20250621235959 -0500">
-    <title>12:05 PM 21/06/25 - Baltimore Orioles vs. New York Yankees</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -250,14 +258,6 @@
   </programme>
   <programme start="20250621000000 -0500" channel="Sparks at Lynx" stop="20250621235959 -0500">
     <title>07:00 PM 21/06/25 - Sparks at Lynx</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250621000000 -0500" channel="Yafai vs. Rodriguez" stop="20250621235959 -0500">
-    <title>01:00 PM 21/06/25 - Yafai vs. Rodriguez</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
