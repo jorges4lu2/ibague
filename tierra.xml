@@ -6,6 +6,15 @@
   <channel id="Baltimore Orioles vs. New York Yankees">
     <display-name lang="en">Baltimore Orioles vs. New York Yankees</display-name>
   </channel>
+  <channel id="Milwaukee Brewers vs. Minnesota Twins">
+    <display-name lang="en">Milwaukee Brewers vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Cincinnati Reds vs. St. Louis Cardinals">
+    <display-name lang="en">Cincinnati Reds vs. St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. Chicago Cubs">
+    <display-name lang="en">Seattle Mariners vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Mercury at Sky">
     <display-name lang="en">Mercury at Sky</display-name>
   </channel>
@@ -15,20 +24,8 @@
   <channel id="Yafai vs. Rodriguez">
     <display-name lang="en">Yafai vs. Rodriguez</display-name>
   </channel>
-  <channel id="Borussia Dortmund vs. Mamelodi Sundowns">
-    <display-name lang="en">Borussia Dortmund vs. Mamelodi Sundowns</display-name>
-  </channel>
-  <channel id="MXGP of Great Britain (Day 1)">
-    <display-name lang="en">MXGP of Great Britain (Day 1)</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Minnesota Twins">
-    <display-name lang="en">Milwaukee Brewers vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. St. Louis Cardinals">
-    <display-name lang="en">Cincinnati Reds vs. St. Louis Cardinals</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Chicago Cubs">
-    <display-name lang="en">Seattle Mariners vs. Chicago Cubs</display-name>
+  <channel id="Urawa Red Diamonds vs. Internazionale">
+    <display-name lang="en">Urawa Red Diamonds vs. Internazionale</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Toronto Blue Jays">
     <display-name lang="en">Chicago White Sox vs. Toronto Blue Jays</display-name>
@@ -65,9 +62,6 @@
   </channel>
   <channel id="Top Rank Boxing on ESPN: Mielnicki Jr. vs. Gardzielik">
     <display-name lang="en">Top Rank Boxing on ESPN: Mielnicki Jr. vs. Gardzielik</display-name>
-  </channel>
-  <channel id="Urawa Red Diamonds vs. Internazionale">
-    <display-name lang="en">Urawa Red Diamonds vs. Internazionale</display-name>
   </channel>
   <channel id="Ulsan Hyundai vs. Fluminense">
     <display-name lang="en">Ulsan Hyundai vs. Fluminense</display-name>
@@ -112,6 +106,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250621000000 -0500" channel="Milwaukee Brewers vs. Minnesota Twins" stop="20250621235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250621000000 -0500" channel="Cincinnati Reds vs. St. Louis Cardinals" stop="20250621235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250621000000 -0500" channel="Seattle Mariners vs. Chicago Cubs" stop="20250621235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250621000000 -0500" channel="Mercury at Sky" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -136,40 +154,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250621000000 -0500" channel="Borussia Dortmund vs. Mamelodi Sundowns" stop="20250621235959 -0500">
+  <programme start="20250621000000 -0500" channel="Urawa Red Diamonds vs. Internazionale" stop="20250621235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250621000000 -0500" channel="MXGP of Great Britain (Day 1)" stop="20250621235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250621000000 -0500" channel="Milwaukee Brewers vs. Minnesota Twins" stop="20250621235959 -0500">
-    <title>01:10 PM 21/06/25 - Milwaukee Brewers vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250621000000 -0500" channel="Cincinnati Reds vs. St. Louis Cardinals" stop="20250621235959 -0500">
-    <title>01:15 PM 21/06/25 - Cincinnati Reds vs. St. Louis Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250621000000 -0500" channel="Seattle Mariners vs. Chicago Cubs" stop="20250621235959 -0500">
-    <title>01:20 PM 21/06/25 - Seattle Mariners vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -266,14 +252,6 @@
   </programme>
   <programme start="20250621000000 -0500" channel="Top Rank Boxing on ESPN: Mielnicki Jr. vs. Gardzielik" stop="20250621235959 -0500">
     <title>04:30 PM 21/06/25 - Top Rank Boxing on ESPN: Mielnicki Jr. vs. Gardzielik</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250621000000 -0500" channel="Urawa Red Diamonds vs. Internazionale" stop="20250621235959 -0500">
-    <title>02:00 PM 21/06/25 - Urawa Red Diamonds vs. Internazionale</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
