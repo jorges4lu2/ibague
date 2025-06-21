@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250620 -0500">
-  <channel id="Houston Astros vs. Los Angeles Angels">
-    <display-name lang="en">Houston Astros vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. San Diego Padres">
-    <display-name lang="en">Kansas City Royals vs. San Diego Padres</display-name>
-  </channel>
+<tv date="20250621 -0500">
   <channel id="Cleveland Guardians vs. Athletics">
     <display-name lang="en">Cleveland Guardians vs. Athletics</display-name>
   </channel>
@@ -15,8 +9,17 @@
   <channel id="Boston Red Sox vs. San Francisco Giants">
     <display-name lang="en">Boston Red Sox vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="Storm at Aces">
-    <display-name lang="en">Storm at Aces</display-name>
+  <channel id="Borussia Dortmund vs. Mamelodi Sundowns">
+    <display-name lang="en">Borussia Dortmund vs. Mamelodi Sundowns</display-name>
+  </channel>
+  <channel id="Urawa Red Diamonds vs. Internazionale">
+    <display-name lang="en">Urawa Red Diamonds vs. Internazionale</display-name>
+  </channel>
+  <channel id="Ulsan Hyundai vs. Fluminense">
+    <display-name lang="en">Ulsan Hyundai vs. Fluminense</display-name>
+  </channel>
+  <channel id="Monterrey vs. River Plate">
+    <display-name lang="en">Monterrey vs. River Plate</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -36,7 +39,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250620000000 -0500" channel="Houston Astros vs. Los Angeles Angels" stop="20250620235959 -0500">
+  <programme start="20250621000000 -0500" channel="Cleveland Guardians vs. Athletics" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -44,7 +47,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="Kansas City Royals vs. San Diego Padres" stop="20250620235959 -0500">
+  <programme start="20250621000000 -0500" channel="Washington Nationals vs. Los Angeles Dodgers" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -52,7 +55,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="Cleveland Guardians vs. Athletics" stop="20250620235959 -0500">
+  <programme start="20250621000000 -0500" channel="Boston Red Sox vs. San Francisco Giants" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -60,31 +63,39 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="Washington Nationals vs. Los Angeles Dodgers" stop="20250620235959 -0500">
-    <title>Live</title>
+  <programme start="20250621000000 -0500" channel="Borussia Dortmund vs. Mamelodi Sundowns" stop="20250621235959 -0500">
+    <title>11:00 AM 21/06/25 - Borussia Dortmund vs. Mamelodi Sundowns</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="Boston Red Sox vs. San Francisco Giants" stop="20250620235959 -0500">
-    <title>Live</title>
+  <programme start="20250621000000 -0500" channel="Urawa Red Diamonds vs. Internazionale" stop="20250621235959 -0500">
+    <title>02:00 PM 21/06/25 - Urawa Red Diamonds vs. Internazionale</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="Storm at Aces" stop="20250620235959 -0500">
-    <title>Live</title>
+  <programme start="20250621000000 -0500" channel="Ulsan Hyundai vs. Fluminense" stop="20250621235959 -0500">
+    <title>05:00 PM 21/06/25 - Ulsan Hyundai vs. Fluminense</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="AEW: Saturday Night Collision" stop="20250620235959 -0500">
+  <programme start="20250621000000 -0500" channel="Monterrey vs. River Plate" stop="20250621235959 -0500">
+    <title>08:00 PM 21/06/25 - Monterrey vs. River Plate</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250621000000 -0500" channel="AEW: Saturday Night Collision" stop="20250621235959 -0500">
     <title>07:00 PM 21/06/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -92,7 +103,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="24/7 South Park" stop="20250620235959 -0500">
+  <programme start="20250621000000 -0500" channel="24/7 South Park" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -100,7 +111,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="24/7 COWS" stop="20250620235959 -0500">
+  <programme start="20250621000000 -0500" channel="24/7 COWS" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -108,7 +119,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="24/7 Family Guy" stop="20250620235959 -0500">
+  <programme start="20250621000000 -0500" channel="24/7 Family Guy" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -116,7 +127,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="24/7 The Simpsons" stop="20250620235959 -0500">
+  <programme start="20250621000000 -0500" channel="24/7 The Simpsons" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -124,7 +135,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250620000000 -0500" channel="(North) Korean Central Television" stop="20250620235959 -0500">
+  <programme start="20250621000000 -0500" channel="(North) Korean Central Television" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
