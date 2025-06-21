@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250620 -0500">
-  <channel id="Texas Rangers vs. Pittsburgh Pirates">
-    <display-name lang="en">Texas Rangers vs. Pittsburgh Pirates</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. New York Yankees">
     <display-name lang="en">Baltimore Orioles vs. New York Yankees</display-name>
   </channel>
@@ -27,23 +24,26 @@
   <channel id="Arizona Diamondbacks vs. Colorado Rockies">
     <display-name lang="en">Arizona Diamondbacks vs. Colorado Rockies</display-name>
   </channel>
+  <channel id="Houston Astros vs. Los Angeles Angels">
+    <display-name lang="en">Houston Astros vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. San Diego Padres">
+    <display-name lang="en">Kansas City Royals vs. San Diego Padres</display-name>
+  </channel>
   <channel id="Mystics at Dream">
     <display-name lang="en">Mystics at Dream</display-name>
   </channel>
   <channel id="Wings at Sun">
     <display-name lang="en">Wings at Sun</display-name>
   </channel>
+  <channel id="Storm at Aces">
+    <display-name lang="en">Storm at Aces</display-name>
+  </channel>
   <channel id="Boca Juniors vs. Bayern Munich">
     <display-name lang="en">Boca Juniors vs. Bayern Munich</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Los Angeles Angels">
-    <display-name lang="en">Houston Astros vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. San Diego Padres">
-    <display-name lang="en">Kansas City Royals vs. San Diego Padres</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. Athletics">
     <display-name lang="en">Cleveland Guardians vs. Athletics</display-name>
@@ -53,9 +53,6 @@
   </channel>
   <channel id="Boston Red Sox vs. San Francisco Giants">
     <display-name lang="en">Boston Red Sox vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Storm at Aces">
-    <display-name lang="en">Storm at Aces</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -75,14 +72,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250620000000 -0500" channel="Texas Rangers vs. Pittsburgh Pirates" stop="20250620235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250620000000 -0500" channel="Baltimore Orioles vs. New York Yankees" stop="20250620235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -147,6 +136,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250620000000 -0500" channel="Houston Astros vs. Los Angeles Angels" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250620000000 -0500" channel="Kansas City Royals vs. San Diego Padres" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250620000000 -0500" channel="Mystics at Dream" stop="20250620235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -156,6 +161,14 @@
     </audio>
   </programme>
   <programme start="20250620000000 -0500" channel="Wings at Sun" stop="20250620235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250620000000 -0500" channel="Storm at Aces" stop="20250620235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -173,22 +186,6 @@
   </programme>
   <programme start="20250620000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250620235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Houston Astros vs. Los Angeles Angels" stop="20250620235959 -0500">
-    <title>08:38 PM 20/06/25 - Houston Astros vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Kansas City Royals vs. San Diego Padres" stop="20250620235959 -0500">
-    <title>08:40 PM 20/06/25 - Kansas City Royals vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -213,14 +210,6 @@
   </programme>
   <programme start="20250620000000 -0500" channel="Boston Red Sox vs. San Francisco Giants" stop="20250620235959 -0500">
     <title>09:15 PM 20/06/25 - Boston Red Sox vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250620000000 -0500" channel="Storm at Aces" stop="20250620235959 -0500">
-    <title>09:00 PM 20/06/25 - Storm at Aces</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
