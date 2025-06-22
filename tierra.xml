@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250622 -0500">
+  <channel id="Wydad AC vs. Juventus">
+    <display-name lang="en">Wydad AC vs. Juventus</display-name>
+  </channel>
   <channel id="MXGP of Great Britain (Day 2)">
     <display-name lang="en">MXGP of Great Britain (Day 2)</display-name>
   </channel>
@@ -21,6 +24,15 @@
   <channel id="Sun at Valkyries">
     <display-name lang="en">Sun at Valkyries</display-name>
   </channel>
+  <channel id="Pachuca vs. Real Madrid">
+    <display-name lang="en">Pachuca vs. Real Madrid</display-name>
+  </channel>
+  <channel id="Al Hilal vs. RB Salzburg">
+    <display-name lang="en">Al Hilal vs. RB Salzburg</display-name>
+  </channel>
+  <channel id="Al Ain vs. Manchester City">
+    <display-name lang="en">Al Ain vs. Manchester City</display-name>
+  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -36,6 +48,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250622000000 -0500" channel="Wydad AC vs. Juventus" stop="20250622235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250622000000 -0500" channel="MXGP of Great Britain (Day 2)" stop="20250622235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -86,6 +106,30 @@
   </programme>
   <programme start="20250622000000 -0500" channel="Sun at Valkyries" stop="20250622235959 -0500">
     <title>07:30 PM 22/06/25 - Sun at Valkyries</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250622000000 -0500" channel="Pachuca vs. Real Madrid" stop="20250622235959 -0500">
+    <title>02:00 PM 22/06/25 - Pachuca vs. Real Madrid</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250622000000 -0500" channel="Al Hilal vs. RB Salzburg" stop="20250622235959 -0500">
+    <title>05:00 PM 22/06/25 - Al Hilal vs. RB Salzburg</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250622000000 -0500" channel="Al Ain vs. Manchester City" stop="20250622235959 -0500">
+    <title>08:00 PM 22/06/25 - Al Ain vs. Manchester City</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
