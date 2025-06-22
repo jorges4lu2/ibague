@@ -6,6 +6,12 @@
   <channel id="Kansas City Royals vs. San Diego Padres">
     <display-name lang="en">Kansas City Royals vs. San Diego Padres</display-name>
   </channel>
+  <channel id="Arizona Diamondbacks vs. Colorado Rockies">
+    <display-name lang="en">Arizona Diamondbacks vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="Houston Astros vs. Los Angeles Angels">
+    <display-name lang="en">Houston Astros vs. Los Angeles Angels</display-name>
+  </channel>
   <channel id="Sparks at Lynx">
     <display-name lang="en">Sparks at Lynx</display-name>
   </channel>
@@ -17,12 +23,6 @@
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Colorado Rockies">
-    <display-name lang="en">Arizona Diamondbacks vs. Colorado Rockies</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Los Angeles Angels">
-    <display-name lang="en">Houston Astros vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. Athletics">
     <display-name lang="en">Cleveland Guardians vs. Athletics</display-name>
@@ -64,6 +64,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250621000000 -0500" channel="Arizona Diamondbacks vs. Colorado Rockies" stop="20250621235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250621000000 -0500" channel="Houston Astros vs. Los Angeles Angels" stop="20250621235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250621000000 -0500" channel="Sparks at Lynx" stop="20250621235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -90,22 +106,6 @@
   </programme>
   <programme start="20250621000000 -0500" channel="AEW: Saturday Night Collision" stop="20250621235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250621000000 -0500" channel="Arizona Diamondbacks vs. Colorado Rockies" stop="20250621235959 -0500">
-    <title>08:10 PM 21/06/25 - Arizona Diamondbacks vs. Colorado Rockies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250621000000 -0500" channel="Houston Astros vs. Los Angeles Angels" stop="20250621235959 -0500">
-    <title>08:38 PM 21/06/25 - Houston Astros vs. Los Angeles Angels</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
