@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250623 -0500">
+  <channel id="Botafogo vs. Atl&#233;tico Madrid">
+    <display-name lang="en">Botafogo vs. Atl&#233;tico Madrid</display-name>
+  </channel>
+  <channel id="Paris Saint-Germain vs. Seattle Sounders FC">
+    <display-name lang="en">Paris Saint-Germain vs. Seattle Sounders FC</display-name>
+  </channel>
   <channel id="Texas Rangers vs. Baltimore Orioles">
     <display-name lang="en">Texas Rangers vs. Baltimore Orioles</display-name>
   </channel>
@@ -26,12 +32,6 @@
   </channel>
   <channel id="Washington Nationals vs. San Diego Padres">
     <display-name lang="en">Washington Nationals vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="Botafogo vs. Atl&#233;tico Madrid">
-    <display-name lang="en">Botafogo vs. Atl&#233;tico Madrid</display-name>
-  </channel>
-  <channel id="Paris Saint-Germain vs. Seattle Sounders FC">
-    <display-name lang="en">Paris Saint-Germain vs. Seattle Sounders FC</display-name>
   </channel>
   <channel id="Al Ahly vs. FC Porto">
     <display-name lang="en">Al Ahly vs. FC Porto</display-name>
@@ -84,6 +84,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250623000000 -0500" channel="Botafogo vs. Atl&#233;tico Madrid" stop="20250623235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250623000000 -0500" channel="Paris Saint-Germain vs. Seattle Sounders FC" stop="20250623235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250623000000 -0500" channel="Texas Rangers vs. Baltimore Orioles" stop="20250623235959 -0500">
     <title>05:35 PM 23/06/25 - Texas Rangers vs. Baltimore Orioles</title>
     <date>2025</date>
@@ -150,22 +166,6 @@
   </programme>
   <programme start="20250623000000 -0500" channel="Washington Nationals vs. San Diego Padres" stop="20250623235959 -0500">
     <title>08:40 PM 23/06/25 - Washington Nationals vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250623000000 -0500" channel="Botafogo vs. Atl&#233;tico Madrid" stop="20250623235959 -0500">
-    <title>02:00 PM 23/06/25 - Botafogo vs. Atl&#233;tico Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250623000000 -0500" channel="Paris Saint-Germain vs. Seattle Sounders FC" stop="20250623235959 -0500">
-    <title>02:00 PM 23/06/25 - Paris Saint-Germain vs. Seattle Sounders FC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
