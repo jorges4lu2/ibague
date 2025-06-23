@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250622 -0500">
+<tv date="20250623 -0500">
+  <channel id="Botafogo vs. Atl&#233;tico Madrid">
+    <display-name lang="en">Botafogo vs. Atl&#233;tico Madrid</display-name>
+  </channel>
+  <channel id="Paris Saint-Germain vs. Seattle Sounders FC">
+    <display-name lang="en">Paris Saint-Germain vs. Seattle Sounders FC</display-name>
+  </channel>
+  <channel id="Al Ahly vs. FC Porto">
+    <display-name lang="en">Al Ahly vs. FC Porto</display-name>
+  </channel>
+  <channel id="Palmeiras vs. Inter Miami CF">
+    <display-name lang="en">Palmeiras vs. Inter Miami CF</display-name>
+  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -15,7 +27,39 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250622000000 -0500" channel="24/7 South Park" stop="20250622235959 -0500">
+  <programme start="20250623000000 -0500" channel="Botafogo vs. Atl&#233;tico Madrid" stop="20250623235959 -0500">
+    <title>02:00 PM 23/06/25 - Botafogo vs. Atl&#233;tico Madrid</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250623000000 -0500" channel="Paris Saint-Germain vs. Seattle Sounders FC" stop="20250623235959 -0500">
+    <title>02:00 PM 23/06/25 - Paris Saint-Germain vs. Seattle Sounders FC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250623000000 -0500" channel="Al Ahly vs. FC Porto" stop="20250623235959 -0500">
+    <title>08:00 PM 23/06/25 - Al Ahly vs. FC Porto</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250623000000 -0500" channel="Palmeiras vs. Inter Miami CF" stop="20250623235959 -0500">
+    <title>08:00 PM 23/06/25 - Palmeiras vs. Inter Miami CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250623000000 -0500" channel="24/7 South Park" stop="20250623235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -23,7 +67,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250622000000 -0500" channel="24/7 COWS" stop="20250622235959 -0500">
+  <programme start="20250623000000 -0500" channel="24/7 COWS" stop="20250623235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -31,7 +75,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250622000000 -0500" channel="24/7 Family Guy" stop="20250622235959 -0500">
+  <programme start="20250623000000 -0500" channel="24/7 Family Guy" stop="20250623235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -39,7 +83,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250622000000 -0500" channel="24/7 The Simpsons" stop="20250622235959 -0500">
+  <programme start="20250623000000 -0500" channel="24/7 The Simpsons" stop="20250623235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -47,7 +91,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250622000000 -0500" channel="(North) Korean Central Television" stop="20250622235959 -0500">
+  <programme start="20250623000000 -0500" channel="(North) Korean Central Television" stop="20250623235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
