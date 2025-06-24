@@ -21,6 +21,9 @@
   <channel id="Chicago Cubs vs. St. Louis Cardinals">
     <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
   <channel id="Boston Red Sox vs. Los Angeles Angels">
     <display-name lang="en">Boston Red Sox vs. Los Angeles Angels</display-name>
   </channel>
@@ -44,9 +47,6 @@
   </channel>
   <channel id="Flamengo vs. LAFC">
     <display-name lang="en">Flamengo vs. LAFC</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -87,7 +87,7 @@
     </audio>
   </programme>
   <programme start="20250623000000 -0500" channel="Atlanta Braves vs. New York Mets" stop="20250623235959 -0500">
-    <title>06:10 PM 23/06/25 - Atlanta Braves vs. New York Mets</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -95,7 +95,7 @@
     </audio>
   </programme>
   <programme start="20250623000000 -0500" channel="New York Yankees vs. Cincinnati Reds" stop="20250623235959 -0500">
-    <title>06:10 PM 23/06/25 - New York Yankees vs. Cincinnati Reds</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -103,7 +103,7 @@
     </audio>
   </programme>
   <programme start="20250623000000 -0500" channel="Arizona Diamondbacks vs. Chicago White Sox" stop="20250623235959 -0500">
-    <title>06:40 PM 23/06/25 - Arizona Diamondbacks vs. Chicago White Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -111,7 +111,7 @@
     </audio>
   </programme>
   <programme start="20250623000000 -0500" channel="Pittsburgh Pirates vs. Milwaukee Brewers" stop="20250623235959 -0500">
-    <title>06:40 PM 23/06/25 - Pittsburgh Pirates vs. Milwaukee Brewers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -119,7 +119,7 @@
     </audio>
   </programme>
   <programme start="20250623000000 -0500" channel="Seattle Mariners vs. Minnesota Twins" stop="20250623235959 -0500">
-    <title>06:40 PM 23/06/25 - Seattle Mariners vs. Minnesota Twins</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -127,7 +127,15 @@
     </audio>
   </programme>
   <programme start="20250623000000 -0500" channel="Chicago Cubs vs. St. Louis Cardinals" stop="20250623235959 -0500">
-    <title>06:45 PM 23/06/25 - Chicago Cubs vs. St. Louis Cardinals</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250623000000 -0500" channel="WWE: Monday Night RAW" stop="20250623235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -192,14 +200,6 @@
   </programme>
   <programme start="20250623000000 -0500" channel="Flamengo vs. LAFC" stop="20250623235959 -0500">
     <title>08:00 PM 24/06/25 - Flamengo vs. LAFC</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250623000000 -0500" channel="WWE: Monday Night RAW" stop="20250623235959 -0500">
-    <title>07:00 PM 23/06/25 - WWE: Monday Night RAW</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
