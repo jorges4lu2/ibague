@@ -3,6 +3,12 @@
   <channel id="PDC: Live Test">
     <display-name lang="en">PDC: Live Test</display-name>
   </channel>
+  <channel id="Boca Juniors vs. Auckland City">
+    <display-name lang="en">Boca Juniors vs. Auckland City</display-name>
+  </channel>
+  <channel id="Bayern Munich vs. Benfica">
+    <display-name lang="en">Bayern Munich vs. Benfica</display-name>
+  </channel>
   <channel id="Texas Rangers vs. Baltimore Orioles">
     <display-name lang="en">Texas Rangers vs. Baltimore Orioles</display-name>
   </channel>
@@ -60,12 +66,6 @@
   <channel id="Fever at Storm">
     <display-name lang="en">Fever at Storm</display-name>
   </channel>
-  <channel id="Boca Juniors vs. Auckland City">
-    <display-name lang="en">Boca Juniors vs. Auckland City</display-name>
-  </channel>
-  <channel id="Bayern Munich vs. Benfica">
-    <display-name lang="en">Bayern Munich vs. Benfica</display-name>
-  </channel>
   <channel id="Chelsea vs. Esperance Sportive de Tunis">
     <display-name lang="en">Chelsea vs. Esperance Sportive de Tunis</display-name>
   </channel>
@@ -103,6 +103,22 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250624000000 -0500" channel="PDC: Live Test" stop="20250624235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Boca Juniors vs. Auckland City" stop="20250624235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Bayern Munich vs. Benfica" stop="20250624235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -256,22 +272,6 @@
   </programme>
   <programme start="20250624000000 -0500" channel="Fever at Storm" stop="20250624235959 -0500">
     <title>09:00 PM 24/06/25 - Fever at Storm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Boca Juniors vs. Auckland City" stop="20250624235959 -0500">
-    <title>02:00 PM 24/06/25 - Boca Juniors vs. Auckland City</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Bayern Munich vs. Benfica" stop="20250624235959 -0500">
-    <title>02:00 PM 24/06/25 - Bayern Munich vs. Benfica</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
