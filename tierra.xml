@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250623 -0500">
-  <channel id="Texas Rangers vs. Baltimore Orioles">
-    <display-name lang="en">Texas Rangers vs. Baltimore Orioles</display-name>
-  </channel>
   <channel id="Atlanta Braves vs. New York Mets">
     <display-name lang="en">Atlanta Braves vs. New York Mets</display-name>
   </channel>
@@ -21,6 +18,12 @@
   <channel id="Chicago Cubs vs. St. Louis Cardinals">
     <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Boston Red Sox vs. Los Angeles Angels">
+    <display-name lang="en">Boston Red Sox vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="Washington Nationals vs. San Diego Padres">
+    <display-name lang="en">Washington Nationals vs. San Diego Padres</display-name>
+  </channel>
   <channel id="Al Ahly vs. FC Porto">
     <display-name lang="en">Al Ahly vs. FC Porto</display-name>
   </channel>
@@ -29,12 +32,6 @@
   </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Los Angeles Angels">
-    <display-name lang="en">Boston Red Sox vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. San Diego Padres">
-    <display-name lang="en">Washington Nationals vs. San Diego Padres</display-name>
   </channel>
   <channel id="Boca Juniors vs. Auckland City">
     <display-name lang="en">Boca Juniors vs. Auckland City</display-name>
@@ -78,14 +75,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250623000000 -0500" channel="Texas Rangers vs. Baltimore Orioles" stop="20250623235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250623000000 -0500" channel="Atlanta Braves vs. New York Mets" stop="20250623235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -134,6 +123,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250623000000 -0500" channel="Boston Red Sox vs. Los Angeles Angels" stop="20250623235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250623000000 -0500" channel="Washington Nationals vs. San Diego Padres" stop="20250623235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250623000000 -0500" channel="Al Ahly vs. FC Porto" stop="20250623235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -152,22 +157,6 @@
   </programme>
   <programme start="20250623000000 -0500" channel="WWE: Monday Night RAW" stop="20250623235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250623000000 -0500" channel="Boston Red Sox vs. Los Angeles Angels" stop="20250623235959 -0500">
-    <title>08:38 PM 23/06/25 - Boston Red Sox vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250623000000 -0500" channel="Washington Nationals vs. San Diego Padres" stop="20250623235959 -0500">
-    <title>08:40 PM 23/06/25 - Washington Nationals vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
