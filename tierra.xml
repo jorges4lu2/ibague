@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250624 -0500">
+  <channel id="Lynx at Mystics">
+    <display-name lang="en">Lynx at Mystics</display-name>
+  </channel>
+  <channel id="Sparks at Sky">
+    <display-name lang="en">Sparks at Sky</display-name>
+  </channel>
+  <channel id="Dream at Wings">
+    <display-name lang="en">Dream at Wings</display-name>
+  </channel>
+  <channel id="Fever at Storm">
+    <display-name lang="en">Fever at Storm</display-name>
+  </channel>
   <channel id="Boca Juniors vs. Auckland City">
     <display-name lang="en">Boca Juniors vs. Auckland City</display-name>
   </channel>
@@ -42,6 +54,38 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250624000000 -0500" channel="Lynx at Mystics" stop="20250624235959 -0500">
+    <title>07:00 PM 24/06/25 - Lynx at Mystics</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Sparks at Sky" stop="20250624235959 -0500">
+    <title>07:00 PM 24/06/25 - Sparks at Sky</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Dream at Wings" stop="20250624235959 -0500">
+    <title>07:00 PM 24/06/25 - Dream at Wings</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Fever at Storm" stop="20250624235959 -0500">
+    <title>09:00 PM 24/06/25 - Fever at Storm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250624000000 -0500" channel="Boca Juniors vs. Auckland City" stop="20250624235959 -0500">
     <title>02:00 PM 24/06/25 - Boca Juniors vs. Auckland City</title>
     <date>2025</date>
