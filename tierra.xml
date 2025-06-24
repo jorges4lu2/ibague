@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250624 -0500">
-  <channel id="PDC: Live Test">
-    <display-name lang="en">PDC: Live Test</display-name>
-  </channel>
-  <channel id="Boca Juniors vs. Auckland City">
-    <display-name lang="en">Boca Juniors vs. Auckland City</display-name>
-  </channel>
-  <channel id="Bayern Munich vs. Benfica">
-    <display-name lang="en">Bayern Munich vs. Benfica</display-name>
-  </channel>
   <channel id="Texas Rangers vs. Baltimore Orioles">
     <display-name lang="en">Texas Rangers vs. Baltimore Orioles</display-name>
   </channel>
@@ -72,6 +63,21 @@
   <channel id="Flamengo vs. LAFC">
     <display-name lang="en">Flamengo vs. LAFC</display-name>
   </channel>
+  <channel id="F1: Austrian Grand Prix (Practice 1)">
+    <display-name lang="en">F1: Austrian Grand Prix (Practice 1)</display-name>
+  </channel>
+  <channel id="F1: Austrian Grand Prix (Practice 2)">
+    <display-name lang="en">F1: Austrian Grand Prix (Practice 2)</display-name>
+  </channel>
+  <channel id="F1: Austrian Grand Prix (Practice 3)">
+    <display-name lang="en">F1: Austrian Grand Prix (Practice 3)</display-name>
+  </channel>
+  <channel id="F1: Austrian Grand Prix (Qualifying)">
+    <display-name lang="en">F1: Austrian Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="F1: Austrian Grand Prix (Race)">
+    <display-name lang="en">F1: Austrian Grand Prix (Race)</display-name>
+  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
   </channel>
@@ -102,30 +108,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250624000000 -0500" channel="PDC: Live Test" stop="20250624235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Boca Juniors vs. Auckland City" stop="20250624235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Bayern Munich vs. Benfica" stop="20250624235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250624000000 -0500" channel="Texas Rangers vs. Baltimore Orioles" stop="20250624235959 -0500">
     <title>05:35 PM 24/06/25 - Texas Rangers vs. Baltimore Orioles</title>
     <date>2025</date>
@@ -288,6 +270,46 @@
   </programme>
   <programme start="20250624000000 -0500" channel="Flamengo vs. LAFC" stop="20250624235959 -0500">
     <title>08:00 PM 24/06/25 - Flamengo vs. LAFC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="F1: Austrian Grand Prix (Practice 1)" stop="20250624235959 -0500">
+    <title>06:30 AM 27/06/25 - F1: Austrian Grand Prix (Practice 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="F1: Austrian Grand Prix (Practice 2)" stop="20250624235959 -0500">
+    <title>10:00 AM 27/06/25 - F1: Austrian Grand Prix (Practice 2)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="F1: Austrian Grand Prix (Practice 3)" stop="20250624235959 -0500">
+    <title>05:30 AM 28/06/25 - F1: Austrian Grand Prix (Practice 3)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="F1: Austrian Grand Prix (Qualifying)" stop="20250624235959 -0500">
+    <title>09:00 AM 28/06/25 - F1: Austrian Grand Prix (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="F1: Austrian Grand Prix (Race)" stop="20250624235959 -0500">
+    <title>08:00 AM 29/06/25 - F1: Austrian Grand Prix (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
