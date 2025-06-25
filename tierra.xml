@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250625 -0500">
+  <channel id="Liberty at Valkyries">
+    <display-name lang="en">Liberty at Valkyries</display-name>
+  </channel>
   <channel id="Ulsan HD vs. Borussia Dortmund">
     <display-name lang="en">Ulsan HD vs. Borussia Dortmund</display-name>
   </channel>
@@ -54,6 +57,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250625000000 -0500" channel="Liberty at Valkyries" stop="20250625235959 -0500">
+    <title>09:00 PM 25/06/25 - Liberty at Valkyries</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250625000000 -0500" channel="Ulsan HD vs. Borussia Dortmund" stop="20250625235959 -0500">
     <title>02:00 PM 25/06/25 - Ulsan HD vs. Borussia Dortmund</title>
     <date>2025</date>
