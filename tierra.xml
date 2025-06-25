@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250624 -0500">
-  <channel id="Philadelphia Phillies vs. Houston Astros">
-    <display-name lang="en">Philadelphia Phillies vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Colorado Rockies">
-    <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="Boston Red Sox vs. Los Angeles Angels">
     <display-name lang="en">Boston Red Sox vs. Los Angeles Angels</display-name>
   </channel>
@@ -18,11 +12,17 @@
   <channel id="Fever at Storm">
     <display-name lang="en">Fever at Storm</display-name>
   </channel>
-  <channel id="Chelsea vs. Esperance Sportive de Tunis">
-    <display-name lang="en">Chelsea vs. Esperance Sportive de Tunis</display-name>
+  <channel id="Ulsan HD vs. Borussia Dortmund">
+    <display-name lang="en">Ulsan HD vs. Borussia Dortmund</display-name>
   </channel>
-  <channel id="Flamengo vs. LAFC">
-    <display-name lang="en">Flamengo vs. LAFC</display-name>
+  <channel id="Fluminense vs. Mamelodi Sundowns">
+    <display-name lang="en">Fluminense vs. Mamelodi Sundowns</display-name>
+  </channel>
+  <channel id="River Plate vs. Internazionale">
+    <display-name lang="en">River Plate vs. Internazionale</display-name>
+  </channel>
+  <channel id="Monterrey vs. Urawa Red Diamonds">
+    <display-name lang="en">Monterrey vs. Urawa Red Diamonds</display-name>
   </channel>
   <channel id="F1: Austrian Grand Prix (Practice 1)">
     <display-name lang="en">F1: Austrian Grand Prix (Practice 1)</display-name>
@@ -66,22 +66,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250624000000 -0500" channel="Philadelphia Phillies vs. Houston Astros" stop="20250624235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Los Angeles Dodgers vs. Colorado Rockies" stop="20250624235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250624000000 -0500" channel="Boston Red Sox vs. Los Angeles Angels" stop="20250624235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -114,16 +98,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250624000000 -0500" channel="Chelsea vs. Esperance Sportive de Tunis" stop="20250624235959 -0500">
-    <title>Live</title>
+  <programme start="20250624000000 -0500" channel="Ulsan HD vs. Borussia Dortmund" stop="20250624235959 -0500">
+    <title>02:00 PM 25/06/25 - Ulsan HD vs. Borussia Dortmund</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250624000000 -0500" channel="Flamengo vs. LAFC" stop="20250624235959 -0500">
-    <title>Live</title>
+  <programme start="20250624000000 -0500" channel="Fluminense vs. Mamelodi Sundowns" stop="20250624235959 -0500">
+    <title>02:00 PM 25/06/25 - Fluminense vs. Mamelodi Sundowns</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="River Plate vs. Internazionale" stop="20250624235959 -0500">
+    <title>08:00 PM 25/06/25 - River Plate vs. Internazionale</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Monterrey vs. Urawa Red Diamonds" stop="20250624235959 -0500">
+    <title>08:00 PM 25/06/25 - Monterrey vs. Urawa Red Diamonds</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
