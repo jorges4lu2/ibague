@@ -30,6 +30,18 @@
   <channel id="Chicago Cubs vs. St. Louis Cardinals">
     <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Lynx at Mystics">
+    <display-name lang="en">Lynx at Mystics</display-name>
+  </channel>
+  <channel id="Sparks at Sky">
+    <display-name lang="en">Sparks at Sky</display-name>
+  </channel>
+  <channel id="Dream at Wings">
+    <display-name lang="en">Dream at Wings</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
+  </channel>
   <channel id="Philadelphia Phillies vs. Houston Astros">
     <display-name lang="en">Philadelphia Phillies vs. Houston Astros</display-name>
   </channel>
@@ -44,15 +56,6 @@
   </channel>
   <channel id="Miami Marlins vs. San Francisco Giants">
     <display-name lang="en">Miami Marlins vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Lynx at Mystics">
-    <display-name lang="en">Lynx at Mystics</display-name>
-  </channel>
-  <channel id="Sparks at Sky">
-    <display-name lang="en">Sparks at Sky</display-name>
-  </channel>
-  <channel id="Dream at Wings">
-    <display-name lang="en">Dream at Wings</display-name>
   </channel>
   <channel id="Fever at Storm">
     <display-name lang="en">Fever at Storm</display-name>
@@ -77,9 +80,6 @@
   </channel>
   <channel id="F1: Austrian Grand Prix (Race)">
     <display-name lang="en">F1: Austrian Grand Prix (Race)</display-name>
-  </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -133,7 +133,7 @@
     </audio>
   </programme>
   <programme start="20250624000000 -0500" channel="Atlanta Braves vs. New York Mets" stop="20250624235959 -0500">
-    <title>06:10 PM 24/06/25 - Atlanta Braves vs. New York Mets</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -141,7 +141,7 @@
     </audio>
   </programme>
   <programme start="20250624000000 -0500" channel="New York Yankees vs. Cincinnati Reds" stop="20250624235959 -0500">
-    <title>06:10 PM 24/06/25 - New York Yankees vs. Cincinnati Reds</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -149,7 +149,7 @@
     </audio>
   </programme>
   <programme start="20250624000000 -0500" channel="Arizona Diamondbacks vs. Chicago White Sox" stop="20250624235959 -0500">
-    <title>06:40 PM 24/06/25 - Arizona Diamondbacks vs. Chicago White Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -157,7 +157,7 @@
     </audio>
   </programme>
   <programme start="20250624000000 -0500" channel="Pittsburgh Pirates vs. Milwaukee Brewers" stop="20250624235959 -0500">
-    <title>06:40 PM 24/06/25 - Pittsburgh Pirates vs. Milwaukee Brewers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -165,7 +165,7 @@
     </audio>
   </programme>
   <programme start="20250624000000 -0500" channel="Seattle Mariners vs. Minnesota Twins" stop="20250624235959 -0500">
-    <title>06:40 PM 24/06/25 - Seattle Mariners vs. Minnesota Twins</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -173,7 +173,7 @@
     </audio>
   </programme>
   <programme start="20250624000000 -0500" channel="Tampa Bay Rays vs. Kansas City Royals" stop="20250624235959 -0500">
-    <title>06:40 PM 24/06/25 - Tampa Bay Rays vs. Kansas City Royals</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -181,7 +181,39 @@
     </audio>
   </programme>
   <programme start="20250624000000 -0500" channel="Chicago Cubs vs. St. Louis Cardinals" stop="20250624235959 -0500">
-    <title>06:45 PM 24/06/25 - Chicago Cubs vs. St. Louis Cardinals</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Lynx at Mystics" stop="20250624235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Sparks at Sky" stop="20250624235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Dream at Wings" stop="20250624235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="WWE: NXT" stop="20250624235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -222,30 +254,6 @@
   </programme>
   <programme start="20250624000000 -0500" channel="Miami Marlins vs. San Francisco Giants" stop="20250624235959 -0500">
     <title>08:45 PM 24/06/25 - Miami Marlins vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Lynx at Mystics" stop="20250624235959 -0500">
-    <title>07:00 PM 24/06/25 - Lynx at Mystics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Sparks at Sky" stop="20250624235959 -0500">
-    <title>07:00 PM 24/06/25 - Sparks at Sky</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Dream at Wings" stop="20250624235959 -0500">
-    <title>07:00 PM 24/06/25 - Dream at Wings</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -310,14 +318,6 @@
   </programme>
   <programme start="20250624000000 -0500" channel="F1: Austrian Grand Prix (Race)" stop="20250624235959 -0500">
     <title>08:00 AM 29/06/25 - F1: Austrian Grand Prix (Race)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="WWE: NXT" stop="20250624235959 -0500">
-    <title>07:00 PM 24/06/25 - WWE: NXT</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
