@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250624 -0500">
-  <channel id="Texas Rangers vs. Baltimore Orioles">
-    <display-name lang="en">Texas Rangers vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Athletics vs. Detroit Tigers">
-    <display-name lang="en">Athletics vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Cleveland Guardians">
-    <display-name lang="en">Toronto Blue Jays vs. Cleveland Guardians</display-name>
-  </channel>
   <channel id="Atlanta Braves vs. New York Mets">
     <display-name lang="en">Atlanta Braves vs. New York Mets</display-name>
   </channel>
@@ -36,24 +27,6 @@
   <channel id="Los Angeles Dodgers vs. Colorado Rockies">
     <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
   </channel>
-  <channel id="Lynx at Mystics">
-    <display-name lang="en">Lynx at Mystics</display-name>
-  </channel>
-  <channel id="Sparks at Sky">
-    <display-name lang="en">Sparks at Sky</display-name>
-  </channel>
-  <channel id="Dream at Wings">
-    <display-name lang="en">Dream at Wings</display-name>
-  </channel>
-  <channel id="Chelsea vs. Esperance Sportive de Tunis">
-    <display-name lang="en">Chelsea vs. Esperance Sportive de Tunis</display-name>
-  </channel>
-  <channel id="Flamengo vs. LAFC">
-    <display-name lang="en">Flamengo vs. LAFC</display-name>
-  </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
-  </channel>
   <channel id="Boston Red Sox vs. Los Angeles Angels">
     <display-name lang="en">Boston Red Sox vs. Los Angeles Angels</display-name>
   </channel>
@@ -63,8 +36,26 @@
   <channel id="Miami Marlins vs. San Francisco Giants">
     <display-name lang="en">Miami Marlins vs. San Francisco Giants</display-name>
   </channel>
+  <channel id="Lynx at Mystics">
+    <display-name lang="en">Lynx at Mystics</display-name>
+  </channel>
+  <channel id="Sparks at Sky">
+    <display-name lang="en">Sparks at Sky</display-name>
+  </channel>
+  <channel id="Dream at Wings">
+    <display-name lang="en">Dream at Wings</display-name>
+  </channel>
   <channel id="Fever at Storm">
     <display-name lang="en">Fever at Storm</display-name>
+  </channel>
+  <channel id="Chelsea vs. Esperance Sportive de Tunis">
+    <display-name lang="en">Chelsea vs. Esperance Sportive de Tunis</display-name>
+  </channel>
+  <channel id="Flamengo vs. LAFC">
+    <display-name lang="en">Flamengo vs. LAFC</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="F1: Austrian Grand Prix (Practice 1)">
     <display-name lang="en">F1: Austrian Grand Prix (Practice 1)</display-name>
@@ -108,30 +99,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250624000000 -0500" channel="Texas Rangers vs. Baltimore Orioles" stop="20250624235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Athletics vs. Detroit Tigers" stop="20250624235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Toronto Blue Jays vs. Cleveland Guardians" stop="20250624235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250624000000 -0500" channel="Atlanta Braves vs. New York Mets" stop="20250624235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -204,6 +171,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250624000000 -0500" channel="Boston Red Sox vs. Los Angeles Angels" stop="20250624235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Washington Nationals vs. San Diego Padres" stop="20250624235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Miami Marlins vs. San Francisco Giants" stop="20250624235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250624000000 -0500" channel="Lynx at Mystics" stop="20250624235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -221,6 +212,14 @@
     </audio>
   </programme>
   <programme start="20250624000000 -0500" channel="Dream at Wings" stop="20250624235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250624000000 -0500" channel="Fever at Storm" stop="20250624235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -246,38 +245,6 @@
   </programme>
   <programme start="20250624000000 -0500" channel="WWE: NXT" stop="20250624235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Boston Red Sox vs. Los Angeles Angels" stop="20250624235959 -0500">
-    <title>08:38 PM 24/06/25 - Boston Red Sox vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Washington Nationals vs. San Diego Padres" stop="20250624235959 -0500">
-    <title>08:40 PM 24/06/25 - Washington Nationals vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Miami Marlins vs. San Francisco Giants" stop="20250624235959 -0500">
-    <title>08:45 PM 24/06/25 - Miami Marlins vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250624000000 -0500" channel="Fever at Storm" stop="20250624235959 -0500">
-    <title>09:00 PM 24/06/25 - Fever at Storm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
