@@ -6,17 +6,17 @@
   <channel id="Pittsburgh Pirates vs. Milwaukee Brewers">
     <display-name lang="en">Pittsburgh Pirates vs. Milwaukee Brewers</display-name>
   </channel>
-  <channel id="Ulsan HD vs. Borussia Dortmund">
-    <display-name lang="en">Ulsan HD vs. Borussia Dortmund</display-name>
-  </channel>
-  <channel id="Fluminense vs. Mamelodi Sundowns">
-    <display-name lang="en">Fluminense vs. Mamelodi Sundowns</display-name>
-  </channel>
   <channel id="Boston Red Sox vs. Los Angeles Angels">
     <display-name lang="en">Boston Red Sox vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="Washington Nationals vs. San Diego Padres">
     <display-name lang="en">Washington Nationals vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Ulsan HD vs. Borussia Dortmund">
+    <display-name lang="en">Ulsan HD vs. Borussia Dortmund</display-name>
+  </channel>
+  <channel id="Fluminense vs. Mamelodi Sundowns">
+    <display-name lang="en">Fluminense vs. Mamelodi Sundowns</display-name>
   </channel>
   <channel id="Texas Rangers vs. Baltimore Orioles">
     <display-name lang="en">Texas Rangers vs. Baltimore Orioles</display-name>
@@ -127,6 +127,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250625000000 -0500" channel="Boston Red Sox vs. Los Angeles Angels" stop="20250625235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Washington Nationals vs. San Diego Padres" stop="20250625235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250625000000 -0500" channel="Ulsan HD vs. Borussia Dortmund" stop="20250625235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -137,22 +153,6 @@
   </programme>
   <programme start="20250625000000 -0500" channel="Fluminense vs. Mamelodi Sundowns" stop="20250625235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250625000000 -0500" channel="Boston Red Sox vs. Los Angeles Angels" stop="20250625235959 -0500">
-    <title>03:07 PM 25/06/25 - Boston Red Sox vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250625000000 -0500" channel="Washington Nationals vs. San Diego Padres" stop="20250625235959 -0500">
-    <title>03:10 PM 25/06/25 - Washington Nationals vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
