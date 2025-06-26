@@ -18,6 +18,12 @@
   <channel id="Chicago Cubs vs. St. Louis Cardinals">
     <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Manchester City vs. Juventus">
+    <display-name lang="en">Manchester City vs. Juventus</display-name>
+  </channel>
+  <channel id="Al Ain vs. Wydad AC">
+    <display-name lang="en">Al Ain vs. Wydad AC</display-name>
+  </channel>
   <channel id="Los Angeles Dodgers vs. Colorado Rockies">
     <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
   </channel>
@@ -41,12 +47,6 @@
   </channel>
   <channel id="PDC: ADA Tour Weekend 1 - Event 1">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 1</display-name>
-  </channel>
-  <channel id="Manchester City vs. Juventus">
-    <display-name lang="en">Manchester City vs. Juventus</display-name>
-  </channel>
-  <channel id="Al Ain vs. Wydad AC">
-    <display-name lang="en">Al Ain vs. Wydad AC</display-name>
   </channel>
   <channel id="Pachuca vs. Al Hilal">
     <display-name lang="en">Pachuca vs. Al Hilal</display-name>
@@ -118,7 +118,7 @@
     </audio>
   </programme>
   <programme start="20250626000000 -0500" channel="Philadelphia Phillies vs. Houston Astros" stop="20250626235959 -0500">
-    <title>01:10 PM 26/06/25 - Philadelphia Phillies vs. Houston Astros</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -126,7 +126,7 @@
     </audio>
   </programme>
   <programme start="20250626000000 -0500" channel="Tampa Bay Rays vs. Kansas City Royals" stop="20250626235959 -0500">
-    <title>01:10 PM 26/06/25 - Tampa Bay Rays vs. Kansas City Royals</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -134,7 +134,23 @@
     </audio>
   </programme>
   <programme start="20250626000000 -0500" channel="Chicago Cubs vs. St. Louis Cardinals" stop="20250626235959 -0500">
-    <title>01:15 PM 26/06/25 - Chicago Cubs vs. St. Louis Cardinals</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250626000000 -0500" channel="Manchester City vs. Juventus" stop="20250626235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250626000000 -0500" channel="Al Ain vs. Wydad AC" stop="20250626235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -199,22 +215,6 @@
   </programme>
   <programme start="20250626000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 1" stop="20250626235959 -0500">
     <title>03:00 AM 27/06/25 - PDC: ADA Tour Weekend 1 - Event 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250626000000 -0500" channel="Manchester City vs. Juventus" stop="20250626235959 -0500">
-    <title>02:00 PM 26/06/25 - Manchester City vs. Juventus</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250626000000 -0500" channel="Al Ain vs. Wydad AC" stop="20250626235959 -0500">
-    <title>02:00 PM 26/06/25 - Al Ain vs. Wydad AC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
