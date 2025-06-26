@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250625 -0500">
-  <channel id="Philadelphia Phillies vs. Houston Astros">
-    <display-name lang="en">Philadelphia Phillies vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Colorado Rockies">
-    <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="Miami Marlins vs. San Francisco Giants">
     <display-name lang="en">Miami Marlins vs. San Francisco Giants</display-name>
   </channel>
@@ -15,14 +9,47 @@
   <channel id="Sun at Aces">
     <display-name lang="en">Sun at Aces</display-name>
   </channel>
-  <channel id="River Plate vs. Internazionale">
-    <display-name lang="en">River Plate vs. Internazionale</display-name>
+  <channel id="Athletics vs. Detroit Tigers">
+    <display-name lang="en">Athletics vs. Detroit Tigers</display-name>
   </channel>
-  <channel id="Monterrey vs. Urawa Red Diamonds">
-    <display-name lang="en">Monterrey vs. Urawa Red Diamonds</display-name>
+  <channel id="Toronto Blue Jays vs. Cleveland Guardians">
+    <display-name lang="en">Toronto Blue Jays vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. Minnesota Twins">
+    <display-name lang="en">Seattle Mariners vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Philadelphia Phillies vs. Houston Astros">
+    <display-name lang="en">Philadelphia Phillies vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. Kansas City Royals">
+    <display-name lang="en">Tampa Bay Rays vs. Kansas City Royals</display-name>
+  </channel>
+  <channel id="Chicago Cubs vs. St. Louis Cardinals">
+    <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. Colorado Rockies">
+    <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="Miami Marlins vs. San Francisco Giants">
+    <display-name lang="en">Miami Marlins vs. San Francisco Giants</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. New York Mets">
+    <display-name lang="en">Atlanta Braves vs. New York Mets</display-name>
   </channel>
   <channel id="2025 NBA Draft">
     <display-name lang="en">2025 NBA Draft</display-name>
+  </channel>
+  <channel id="Manchester City vs. Juventus">
+    <display-name lang="en">Manchester City vs. Juventus</display-name>
+  </channel>
+  <channel id="Al Ain vs. Wydad AC">
+    <display-name lang="en">Al Ain vs. Wydad AC</display-name>
+  </channel>
+  <channel id="Pachuca vs. Al Hilal">
+    <display-name lang="en">Pachuca vs. Al Hilal</display-name>
+  </channel>
+  <channel id="Real Madrid vs. RB Salzburg">
+    <display-name lang="en">Real Madrid vs. RB Salzburg</display-name>
   </channel>
   <channel id="F1: Austrian Grand Prix (Practice 1)">
     <display-name lang="en">F1: Austrian Grand Prix (Practice 1)</display-name>
@@ -63,22 +90,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250625000000 -0500" channel="Philadelphia Phillies vs. Houston Astros" stop="20250625235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250625000000 -0500" channel="Los Angeles Dodgers vs. Colorado Rockies" stop="20250625235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250625000000 -0500" channel="Miami Marlins vs. San Francisco Giants" stop="20250625235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -103,16 +114,72 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250625000000 -0500" channel="River Plate vs. Internazionale" stop="20250625235959 -0500">
-    <title>Live</title>
+  <programme start="20250625000000 -0500" channel="Athletics vs. Detroit Tigers" stop="20250625235959 -0500">
+    <title>12:10 PM 26/06/25 - Athletics vs. Detroit Tigers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250625000000 -0500" channel="Monterrey vs. Urawa Red Diamonds" stop="20250625235959 -0500">
-    <title>Live</title>
+  <programme start="20250625000000 -0500" channel="Toronto Blue Jays vs. Cleveland Guardians" stop="20250625235959 -0500">
+    <title>12:10 PM 26/06/25 - Toronto Blue Jays vs. Cleveland Guardians</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Seattle Mariners vs. Minnesota Twins" stop="20250625235959 -0500">
+    <title>12:10 PM 26/06/25 - Seattle Mariners vs. Minnesota Twins</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Philadelphia Phillies vs. Houston Astros" stop="20250625235959 -0500">
+    <title>01:10 PM 26/06/25 - Philadelphia Phillies vs. Houston Astros</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Tampa Bay Rays vs. Kansas City Royals" stop="20250625235959 -0500">
+    <title>01:10 PM 26/06/25 - Tampa Bay Rays vs. Kansas City Royals</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Chicago Cubs vs. St. Louis Cardinals" stop="20250625235959 -0500">
+    <title>01:15 PM 26/06/25 - Chicago Cubs vs. St. Louis Cardinals</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Los Angeles Dodgers vs. Colorado Rockies" stop="20250625235959 -0500">
+    <title>02:10 PM 26/06/25 - Los Angeles Dodgers vs. Colorado Rockies</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Miami Marlins vs. San Francisco Giants" stop="20250625235959 -0500">
+    <title>02:45 PM 26/06/25 - Miami Marlins vs. San Francisco Giants</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Atlanta Braves vs. New York Mets" stop="20250625235959 -0500">
+    <title>06:10 PM 26/06/25 - Atlanta Braves vs. New York Mets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -121,6 +188,38 @@
   </programme>
   <programme start="20250625000000 -0500" channel="2025 NBA Draft" stop="20250625235959 -0500">
     <title>07:00 PM 26/06/25 - 2025 NBA Draft</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Manchester City vs. Juventus" stop="20250625235959 -0500">
+    <title>02:00 PM 26/06/25 - Manchester City vs. Juventus</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Al Ain vs. Wydad AC" stop="20250625235959 -0500">
+    <title>02:00 PM 26/06/25 - Al Ain vs. Wydad AC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Pachuca vs. Al Hilal" stop="20250625235959 -0500">
+    <title>08:00 PM 26/06/25 - Pachuca vs. Al Hilal</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Real Madrid vs. RB Salzburg" stop="20250625235959 -0500">
+    <title>08:00 PM 26/06/25 - Real Madrid vs. RB Salzburg</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
