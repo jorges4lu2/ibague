@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250625 -0500">
-  <channel id="Boston Red Sox vs. Los Angeles Angels">
-    <display-name lang="en">Boston Red Sox vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. San Diego Padres">
-    <display-name lang="en">Washington Nationals vs. San Diego Padres</display-name>
-  </channel>
   <channel id="Texas Rangers vs. Baltimore Orioles">
     <display-name lang="en">Texas Rangers vs. Baltimore Orioles</display-name>
   </channel>
@@ -30,6 +24,12 @@
   <channel id="Chicago Cubs vs. St. Louis Cardinals">
     <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="2025 NBA Draft First Round">
+    <display-name lang="en">2025 NBA Draft First Round</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
+  </channel>
   <channel id="Philadelphia Phillies vs. Houston Astros">
     <display-name lang="en">Philadelphia Phillies vs. Houston Astros</display-name>
   </channel>
@@ -38,9 +38,6 @@
   </channel>
   <channel id="Miami Marlins vs. San Francisco Giants">
     <display-name lang="en">Miami Marlins vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="2025 NBA Draft First Round">
-    <display-name lang="en">2025 NBA Draft First Round</display-name>
   </channel>
   <channel id="Liberty at Valkyries">
     <display-name lang="en">Liberty at Valkyries</display-name>
@@ -72,9 +69,6 @@
   <channel id="F1: Austrian Grand Prix (Race)">
     <display-name lang="en">F1: Austrian Grand Prix (Race)</display-name>
   </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
@@ -99,22 +93,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250625000000 -0500" channel="Boston Red Sox vs. Los Angeles Angels" stop="20250625235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250625000000 -0500" channel="Washington Nationals vs. San Diego Padres" stop="20250625235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250625000000 -0500" channel="Texas Rangers vs. Baltimore Orioles" stop="20250625235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -140,7 +118,7 @@
     </audio>
   </programme>
   <programme start="20250625000000 -0500" channel="Atlanta Braves vs. New York Mets" stop="20250625235959 -0500">
-    <title>06:10 PM 25/06/25 - Atlanta Braves vs. New York Mets</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -148,7 +126,7 @@
     </audio>
   </programme>
   <programme start="20250625000000 -0500" channel="New York Yankees vs. Cincinnati Reds" stop="20250625235959 -0500">
-    <title>06:10 PM 25/06/25 - New York Yankees vs. Cincinnati Reds</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -156,7 +134,7 @@
     </audio>
   </programme>
   <programme start="20250625000000 -0500" channel="Seattle Mariners vs. Minnesota Twins" stop="20250625235959 -0500">
-    <title>06:40 PM 25/06/25 - Seattle Mariners vs. Minnesota Twins</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -164,7 +142,7 @@
     </audio>
   </programme>
   <programme start="20250625000000 -0500" channel="Tampa Bay Rays vs. Kansas City Royals" stop="20250625235959 -0500">
-    <title>06:40 PM 25/06/25 - Tampa Bay Rays vs. Kansas City Royals</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -172,7 +150,23 @@
     </audio>
   </programme>
   <programme start="20250625000000 -0500" channel="Chicago Cubs vs. St. Louis Cardinals" stop="20250625235959 -0500">
-    <title>06:45 PM 25/06/25 - Chicago Cubs vs. St. Louis Cardinals</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="2025 NBA Draft First Round" stop="20250625235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250625235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -197,14 +191,6 @@
   </programme>
   <programme start="20250625000000 -0500" channel="Miami Marlins vs. San Francisco Giants" stop="20250625235959 -0500">
     <title>08:45 PM 25/06/25 - Miami Marlins vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250625000000 -0500" channel="2025 NBA Draft First Round" stop="20250625235959 -0500">
-    <title>07:00 PM 25/06/25 - 2025 NBA Draft First Round</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -285,14 +271,6 @@
   </programme>
   <programme start="20250625000000 -0500" channel="F1: Austrian Grand Prix (Race)" stop="20250625235959 -0500">
     <title>08:00 AM 29/06/25 - F1: Austrian Grand Prix (Race)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250625000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250625235959 -0500">
-    <title>07:00 PM 25/06/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
