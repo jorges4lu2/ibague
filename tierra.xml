@@ -33,6 +33,9 @@
   <channel id="PDC: ADA Tour Weekend 1 - Day 1">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Day 1</display-name>
   </channel>
+  <channel id="PDC: ADA Tour Weekend 1 - Event 1">
+    <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 1</display-name>
+  </channel>
   <channel id="Manchester City vs. Juventus">
     <display-name lang="en">Manchester City vs. Juventus</display-name>
   </channel>
@@ -166,6 +169,14 @@
   </programme>
   <programme start="20250626000000 -0500" channel="PDC: ADA Tour Weekend 1 - Day 1" stop="20250626235959 -0500">
     <title>03:00 AM 27/06/25 - PDC: ADA Tour Weekend 1 - Day 1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250626000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 1" stop="20250626235959 -0500">
+    <title>03:00 AM 27/06/25 - PDC: ADA Tour Weekend 1 - Event 1</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
