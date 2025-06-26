@@ -27,8 +27,14 @@
   <channel id="Atlanta Braves vs. New York Mets">
     <display-name lang="en">Atlanta Braves vs. New York Mets</display-name>
   </channel>
+  <channel id="Sparks at Fever">
+    <display-name lang="en">Sparks at Fever</display-name>
+  </channel>
   <channel id="2025 NBA Draft">
     <display-name lang="en">2025 NBA Draft</display-name>
+  </channel>
+  <channel id="Mystics at Aces">
+    <display-name lang="en">Mystics at Aces</display-name>
   </channel>
   <channel id="PDC: ADA Tour Weekend 1 - Day 1">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Day 1</display-name>
@@ -159,8 +165,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250626000000 -0500" channel="Sparks at Fever" stop="20250626235959 -0500">
+    <title>06:00 PM 26/06/25 - Sparks at Fever</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250626000000 -0500" channel="2025 NBA Draft" stop="20250626235959 -0500">
     <title>07:00 PM 26/06/25 - 2025 NBA Draft</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250626000000 -0500" channel="Mystics at Aces" stop="20250626235959 -0500">
+    <title>09:00 PM 26/06/25 - Mystics at Aces</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
