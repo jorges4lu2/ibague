@@ -24,17 +24,23 @@
   <channel id="Chicago Cubs vs. St. Louis Cardinals">
     <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
   </channel>
-  <channel id="2025 NBA Draft First Round">
-    <display-name lang="en">2025 NBA Draft First Round</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
   <channel id="Philadelphia Phillies vs. Houston Astros">
     <display-name lang="en">Philadelphia Phillies vs. Houston Astros</display-name>
   </channel>
   <channel id="Los Angeles Dodgers vs. Colorado Rockies">
     <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="2025 NBA Draft First Round">
+    <display-name lang="en">2025 NBA Draft First Round</display-name>
+  </channel>
+  <channel id="River Plate vs. Internazionale">
+    <display-name lang="en">River Plate vs. Internazionale</display-name>
+  </channel>
+  <channel id="Monterrey vs. Urawa Red Diamonds">
+    <display-name lang="en">Monterrey vs. Urawa Red Diamonds</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="Miami Marlins vs. San Francisco Giants">
     <display-name lang="en">Miami Marlins vs. San Francisco Giants</display-name>
@@ -47,12 +53,6 @@
   </channel>
   <channel id="2025 NBA Draft">
     <display-name lang="en">2025 NBA Draft</display-name>
-  </channel>
-  <channel id="River Plate vs. Internazionale">
-    <display-name lang="en">River Plate vs. Internazionale</display-name>
-  </channel>
-  <channel id="Monterrey vs. Urawa Red Diamonds">
-    <display-name lang="en">Monterrey vs. Urawa Red Diamonds</display-name>
   </channel>
   <channel id="F1: Austrian Grand Prix (Practice 1)">
     <display-name lang="en">F1: Austrian Grand Prix (Practice 1)</display-name>
@@ -157,7 +157,39 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250625000000 -0500" channel="Philadelphia Phillies vs. Houston Astros" stop="20250625235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Los Angeles Dodgers vs. Colorado Rockies" stop="20250625235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250625000000 -0500" channel="2025 NBA Draft First Round" stop="20250625235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="River Plate vs. Internazionale" stop="20250625235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250625000000 -0500" channel="Monterrey vs. Urawa Red Diamonds" stop="20250625235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -167,22 +199,6 @@
   </programme>
   <programme start="20250625000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250625235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250625000000 -0500" channel="Philadelphia Phillies vs. Houston Astros" stop="20250625235959 -0500">
-    <title>07:10 PM 25/06/25 - Philadelphia Phillies vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250625000000 -0500" channel="Los Angeles Dodgers vs. Colorado Rockies" stop="20250625235959 -0500">
-    <title>07:40 PM 25/06/25 - Los Angeles Dodgers vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -215,22 +231,6 @@
   </programme>
   <programme start="20250625000000 -0500" channel="2025 NBA Draft" stop="20250625235959 -0500">
     <title>07:00 PM 26/06/25 - 2025 NBA Draft</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250625000000 -0500" channel="River Plate vs. Internazionale" stop="20250625235959 -0500">
-    <title>08:00 PM 25/06/25 - River Plate vs. Internazionale</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250625000000 -0500" channel="Monterrey vs. Urawa Red Diamonds" stop="20250625235959 -0500">
-    <title>08:00 PM 25/06/25 - Monterrey vs. Urawa Red Diamonds</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
