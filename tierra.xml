@@ -63,6 +63,9 @@
   <channel id="Sun at Storm">
     <display-name lang="en">Sun at Storm</display-name>
   </channel>
+  <channel id="UFC 317: Topuria vs. Oliveira">
+    <display-name lang="en">UFC 317: Topuria vs. Oliveira</display-name>
+  </channel>
   <channel id="PDC: Bet365 US Darts Masters - Day One">
     <display-name lang="en">PDC: Bet365 US Darts Masters - Day One</display-name>
   </channel>
@@ -77,6 +80,9 @@
   </channel>
   <channel id="F1: Austrian Grand Prix (Race)">
     <display-name lang="en">F1: Austrian Grand Prix (Race)</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown (USA Re-Run)">
+    <display-name lang="en">WWE: Friday Night Smackdown (USA Re-Run)</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -264,6 +270,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250627000000 -0500" channel="UFC 317: Topuria vs. Oliveira" stop="20250627235959 -0500">
+    <title>06:00 PM 28/06/25 - UFC 317: Topuria vs. Oliveira</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250627000000 -0500" channel="PDC: Bet365 US Darts Masters - Day One" stop="20250627235959 -0500">
     <title>06:00 PM 27/06/25 - PDC: Bet365 US Darts Masters - Day One</title>
     <date>2025</date>
@@ -298,6 +312,14 @@
   </programme>
   <programme start="20250627000000 -0500" channel="F1: Austrian Grand Prix (Race)" stop="20250627235959 -0500">
     <title>08:00 AM 29/06/25 - F1: Austrian Grand Prix (Race)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250627000000 -0500" channel="WWE: Friday Night Smackdown (USA Re-Run)" stop="20250627235959 -0500">
+    <title>07:00 PM 27/06/25 - WWE: Friday Night Smackdown (USA Re-Run)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
