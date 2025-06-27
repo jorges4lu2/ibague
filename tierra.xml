@@ -3,6 +3,9 @@
   <channel id="PDC: ADA Tour Weekend 1 - Event 1">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 1</display-name>
   </channel>
+  <channel id="F1: Austrian Grand Prix (Practice 2)">
+    <display-name lang="en">F1: Austrian Grand Prix (Practice 2)</display-name>
+  </channel>
   <channel id="New York Mets vs. Pittsburgh Pirates">
     <display-name lang="en">New York Mets vs. Pittsburgh Pirates</display-name>
   </channel>
@@ -48,14 +51,26 @@
   <channel id="Miami Marlins vs. Arizona Diamondbacks">
     <display-name lang="en">Miami Marlins vs. Arizona Diamondbacks</display-name>
   </channel>
+  <channel id="Lynx at Dream">
+    <display-name lang="en">Lynx at Dream</display-name>
+  </channel>
+  <channel id="Fever at Wings">
+    <display-name lang="en">Fever at Wings</display-name>
+  </channel>
+  <channel id="Sky at Valkyries">
+    <display-name lang="en">Sky at Valkyries</display-name>
+  </channel>
+  <channel id="Liberty at Mercury">
+    <display-name lang="en">Liberty at Mercury</display-name>
+  </channel>
+  <channel id="Sun at Storm">
+    <display-name lang="en">Sun at Storm</display-name>
+  </channel>
   <channel id="PDC: Bet365 US Darts Masters - Day One">
     <display-name lang="en">PDC: Bet365 US Darts Masters - Day One</display-name>
   </channel>
   <channel id="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3</display-name>
-  </channel>
-  <channel id="F1: Austrian Grand Prix (Practice 2)">
-    <display-name lang="en">F1: Austrian Grand Prix (Practice 2)</display-name>
   </channel>
   <channel id="F1: Austrian Grand Prix (Practice 3)">
     <display-name lang="en">F1: Austrian Grand Prix (Practice 3)</display-name>
@@ -88,6 +103,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250627000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 1" stop="20250627235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250627000000 -0500" channel="F1: Austrian Grand Prix (Practice 2)" stop="20250627235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -215,6 +238,46 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250627000000 -0500" channel="Lynx at Dream" stop="20250627235959 -0500">
+    <title>06:30 PM 27/06/25 - Lynx at Dream</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250627000000 -0500" channel="Fever at Wings" stop="20250627235959 -0500">
+    <title>06:30 PM 27/06/25 - Fever at Wings</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250627000000 -0500" channel="Sky at Valkyries" stop="20250627235959 -0500">
+    <title>09:00 PM 27/06/25 - Sky at Valkyries</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250627000000 -0500" channel="Liberty at Mercury" stop="20250627235959 -0500">
+    <title>09:00 PM 27/06/25 - Liberty at Mercury</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250627000000 -0500" channel="Sun at Storm" stop="20250627235959 -0500">
+    <title>09:00 PM 27/06/25 - Sun at Storm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250627000000 -0500" channel="PDC: Bet365 US Darts Masters - Day One" stop="20250627235959 -0500">
     <title>06:00 PM 27/06/25 - PDC: Bet365 US Darts Masters - Day One</title>
     <date>2025</date>
@@ -225,14 +288,6 @@
   </programme>
   <programme start="20250627000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3" stop="20250627235959 -0500">
     <title>06:30 PM 27/06/25 - PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250627000000 -0500" channel="F1: Austrian Grand Prix (Practice 2)" stop="20250627235959 -0500">
-    <title>10:00 AM 27/06/25 - F1: Austrian Grand Prix (Practice 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
