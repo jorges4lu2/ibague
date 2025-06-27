@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250627 -0500">
-  <channel id="PDC: ADA Tour Weekend 1 - Day 1">
-    <display-name lang="en">PDC: ADA Tour Weekend 1 - Day 1</display-name>
-  </channel>
   <channel id="PDC: ADA Tour Weekend 1 - Event 1">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 1</display-name>
+  </channel>
+  <channel id="PDC: ADA Tour Weekend 1 - Event 1 (Test)">
+    <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 1 (Test)</display-name>
   </channel>
   <channel id="New York Mets vs. Pittsburgh Pirates">
     <display-name lang="en">New York Mets vs. Pittsburgh Pirates</display-name>
@@ -93,7 +93,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250627000000 -0500" channel="PDC: ADA Tour Weekend 1 - Day 1" stop="20250627235959 -0500">
+  <programme start="20250627000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 1" stop="20250627235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -101,7 +101,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 1" stop="20250627235959 -0500">
+  <programme start="20250627000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 1 (Test)" stop="20250627235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
