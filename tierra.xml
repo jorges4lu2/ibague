@@ -3,17 +3,14 @@
   <channel id="Mystics at Aces">
     <display-name lang="en">Mystics at Aces</display-name>
   </channel>
-  <channel id="Pachuca vs. Al Hilal">
-    <display-name lang="en">Pachuca vs. Al Hilal</display-name>
-  </channel>
-  <channel id="Real Madrid vs. RB Salzburg">
-    <display-name lang="en">Real Madrid vs. RB Salzburg</display-name>
-  </channel>
   <channel id="PDC: ADA Tour Weekend 1 - Day 1">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Day 1</display-name>
   </channel>
   <channel id="PDC: ADA Tour Weekend 1 - Event 1">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 1</display-name>
+  </channel>
+  <channel id="PDC: Bet365 US Darts Masters - Day One">
+    <display-name lang="en">PDC: Bet365 US Darts Masters - Day One</display-name>
   </channel>
   <channel id="F1: Austrian Grand Prix (Practice 1)">
     <display-name lang="en">F1: Austrian Grand Prix (Practice 1)</display-name>
@@ -59,22 +56,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250626000000 -0500" channel="Pachuca vs. Al Hilal" stop="20250626235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250626000000 -0500" channel="Real Madrid vs. RB Salzburg" stop="20250626235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250626000000 -0500" channel="PDC: ADA Tour Weekend 1 - Day 1" stop="20250626235959 -0500">
     <title>03:00 AM 27/06/25 - PDC: ADA Tour Weekend 1 - Day 1</title>
     <date>2025</date>
@@ -85,6 +66,14 @@
   </programme>
   <programme start="20250626000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 1" stop="20250626235959 -0500">
     <title>03:00 AM 27/06/25 - PDC: ADA Tour Weekend 1 - Event 1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250626000000 -0500" channel="PDC: Bet365 US Darts Masters - Day One" stop="20250626235959 -0500">
+    <title>06:00 PM 27/06/25 - PDC: Bet365 US Darts Masters - Day One</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
