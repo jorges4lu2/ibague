@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250628 -0500">
+  <channel id="OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)">
+    <display-name lang="en">OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)</display-name>
+  </channel>
+  <channel id="OKTAGON 73: Eckerlin vs. Puka&#269; (English)">
+    <display-name lang="en">OKTAGON 73: Eckerlin vs. Puka&#269; (English)</display-name>
+  </channel>
   <channel id="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3</display-name>
   </channel>
-  <channel id="F1: Austrian Grand Prix (Qualifying)">
-    <display-name lang="en">F1: Austrian Grand Prix (Qualifying)</display-name>
+  <channel id="Palmeiras vs Botafogo">
+    <display-name lang="en">Palmeiras vs Botafogo</display-name>
   </channel>
   <channel id="Athletics vs. New York Yankees">
     <display-name lang="en">Athletics vs. New York Yankees</display-name>
@@ -54,12 +60,6 @@
   <channel id="Mystics at Wings">
     <display-name lang="en">Mystics at Wings</display-name>
   </channel>
-  <channel id="OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)">
-    <display-name lang="en">OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)</display-name>
-  </channel>
-  <channel id="OKTAGON 73: Eckerlin vs. Puka&#269; (English)">
-    <display-name lang="en">OKTAGON 73: Eckerlin vs. Puka&#269; (English)</display-name>
-  </channel>
   <channel id="UFC 317: Topuria vs. Oliveira">
     <display-name lang="en">UFC 317: Topuria vs. Oliveira</display-name>
   </channel>
@@ -74,9 +74,6 @@
   </channel>
   <channel id="PDC: ADA Tour Weekend 1 - Event 4">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 4</display-name>
-  </channel>
-  <channel id="Palmeiras vs Botafogo">
-    <display-name lang="en">Palmeiras vs Botafogo</display-name>
   </channel>
   <channel id="Benfica vs Chelsea">
     <display-name lang="en">Benfica vs Chelsea</display-name>
@@ -108,6 +105,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250628000000 -0500" channel="OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)" stop="20250628235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250628000000 -0500" channel="OKTAGON 73: Eckerlin vs. Puka&#269; (English)" stop="20250628235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250628000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -116,7 +129,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250628000000 -0500" channel="F1: Austrian Grand Prix (Qualifying)" stop="20250628235959 -0500">
+  <programme start="20250628000000 -0500" channel="Palmeiras vs Botafogo" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -252,22 +265,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250628000000 -0500" channel="OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)" stop="20250628235959 -0500">
-    <title>11:00 AM 28/06/25 - OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250628000000 -0500" channel="OKTAGON 73: Eckerlin vs. Puka&#269; (English)" stop="20250628235959 -0500">
-    <title>11:00 AM 28/06/25 - OKTAGON 73: Eckerlin vs. Puka&#269; (English)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250628000000 -0500" channel="UFC 317: Topuria vs. Oliveira" stop="20250628235959 -0500">
     <title>06:00 PM 28/06/25 - UFC 317: Topuria vs. Oliveira</title>
     <date>2025</date>
@@ -302,14 +299,6 @@
   </programme>
   <programme start="20250628000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 4" stop="20250628235959 -0500">
     <title>06:30 PM 28/06/25 - PDC: ADA Tour Weekend 1 - Event 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250628000000 -0500" channel="Palmeiras vs Botafogo" stop="20250628235959 -0500">
-    <title>11:00 AM 28/06/25 - Palmeiras vs Botafogo</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
