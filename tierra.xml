@@ -27,6 +27,18 @@
   <channel id="San Francisco Giants vs. Chicago White Sox">
     <display-name lang="en">San Francisco Giants vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Seattle Mariners vs. Texas Rangers">
+    <display-name lang="en">Seattle Mariners vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Chicago Cubs vs. Houston Astros">
+    <display-name lang="en">Chicago Cubs vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Colorado Rockies vs. Milwaukee Brewers">
+    <display-name lang="en">Colorado Rockies vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. Kansas City Royals">
+    <display-name lang="en">Los Angeles Dodgers vs. Kansas City Royals</display-name>
+  </channel>
   <channel id="Lynx at Dream">
     <display-name lang="en">Lynx at Dream</display-name>
   </channel>
@@ -41,18 +53,6 @@
   </channel>
   <channel id="WWE: Friday Night Smackdown (USA Re-Run)">
     <display-name lang="en">WWE: Friday Night Smackdown (USA Re-Run)</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Texas Rangers">
-    <display-name lang="en">Seattle Mariners vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Houston Astros">
-    <display-name lang="en">Chicago Cubs vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Milwaukee Brewers">
-    <display-name lang="en">Colorado Rockies vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Kansas City Royals">
-    <display-name lang="en">Los Angeles Dodgers vs. Kansas City Royals</display-name>
   </channel>
   <channel id="Washington Nationals vs. Los Angeles Angels">
     <display-name lang="en">Washington Nationals vs. Los Angeles Angels</display-name>
@@ -171,6 +171,38 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250627000000 -0500" channel="Seattle Mariners vs. Texas Rangers" stop="20250627235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250627000000 -0500" channel="Chicago Cubs vs. Houston Astros" stop="20250627235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250627000000 -0500" channel="Colorado Rockies vs. Milwaukee Brewers" stop="20250627235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250627000000 -0500" channel="Los Angeles Dodgers vs. Kansas City Royals" stop="20250627235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250627000000 -0500" channel="Lynx at Dream" stop="20250627235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -205,38 +237,6 @@
   </programme>
   <programme start="20250627000000 -0500" channel="WWE: Friday Night Smackdown (USA Re-Run)" stop="20250627235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250627000000 -0500" channel="Seattle Mariners vs. Texas Rangers" stop="20250627235959 -0500">
-    <title>07:05 PM 27/06/25 - Seattle Mariners vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250627000000 -0500" channel="Chicago Cubs vs. Houston Astros" stop="20250627235959 -0500">
-    <title>07:10 PM 27/06/25 - Chicago Cubs vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250627000000 -0500" channel="Colorado Rockies vs. Milwaukee Brewers" stop="20250627235959 -0500">
-    <title>07:10 PM 27/06/25 - Colorado Rockies vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250627000000 -0500" channel="Los Angeles Dodgers vs. Kansas City Royals" stop="20250627235959 -0500">
-    <title>07:10 PM 27/06/25 - Los Angeles Dodgers vs. Kansas City Royals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
