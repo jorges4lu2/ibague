@@ -3,6 +3,9 @@
   <channel id="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3</display-name>
   </channel>
+  <channel id="F1: Austrian Grand Prix (Practice 3)">
+    <display-name lang="en">F1: Austrian Grand Prix (Practice 3)</display-name>
+  </channel>
   <channel id="UFC 317: Topuria vs. Oliveira">
     <display-name lang="en">UFC 317: Topuria vs. Oliveira</display-name>
   </channel>
@@ -17,9 +20,6 @@
   </channel>
   <channel id="PDC: ADA Tour Weekend 1 - Event 4">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 4</display-name>
-  </channel>
-  <channel id="F1: Austrian Grand Prix (Practice 3)">
-    <display-name lang="en">F1: Austrian Grand Prix (Practice 3)</display-name>
   </channel>
   <channel id="F1: Austrian Grand Prix (Qualifying)">
     <display-name lang="en">F1: Austrian Grand Prix (Qualifying)</display-name>
@@ -46,6 +46,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250628000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3" stop="20250628235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250628000000 -0500" channel="F1: Austrian Grand Prix (Practice 3)" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -87,14 +95,6 @@
   </programme>
   <programme start="20250628000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 4" stop="20250628235959 -0500">
     <title>06:30 PM 28/06/25 - PDC: ADA Tour Weekend 1 - Event 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250628000000 -0500" channel="F1: Austrian Grand Prix (Practice 3)" stop="20250628235959 -0500">
-    <title>05:30 AM 28/06/25 - F1: Austrian Grand Prix (Practice 3)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
