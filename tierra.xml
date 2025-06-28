@@ -1,20 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250627 -0500">
-  <channel id="Washington Nationals vs. Los Angeles Angels">
-    <display-name lang="en">Washington Nationals vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Arizona Diamondbacks">
-    <display-name lang="en">Miami Marlins vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Sky at Valkyries">
-    <display-name lang="en">Sky at Valkyries</display-name>
-  </channel>
-  <channel id="Liberty at Mercury">
-    <display-name lang="en">Liberty at Mercury</display-name>
-  </channel>
-  <channel id="Sun at Storm">
-    <display-name lang="en">Sun at Storm</display-name>
-  </channel>
+<tv date="20250628 -0500">
   <channel id="PDC: Bet365 US Darts Masters - Day One">
     <display-name lang="en">PDC: Bet365 US Darts Masters - Day One</display-name>
   </channel>
@@ -23,6 +8,15 @@
   </channel>
   <channel id="UFC 317: Topuria vs. Oliveira">
     <display-name lang="en">UFC 317: Topuria vs. Oliveira</display-name>
+  </channel>
+  <channel id="PDC: Bet365 North American Darts Championship">
+    <display-name lang="en">PDC: Bet365 North American Darts Championship</display-name>
+  </channel>
+  <channel id="PDC: Bet365 US Darts Masters - Day Two">
+    <display-name lang="en">PDC: Bet365 US Darts Masters - Day Two</display-name>
+  </channel>
+  <channel id="PDC: ADA Tour Weekend 1 - Event 4">
+    <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 4</display-name>
   </channel>
   <channel id="F1: Austrian Grand Prix (Practice 3)">
     <display-name lang="en">F1: Austrian Grand Prix (Practice 3)</display-name>
@@ -51,7 +45,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250627000000 -0500" channel="Washington Nationals vs. Los Angeles Angels" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="PDC: Bet365 US Darts Masters - Day One" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -59,7 +53,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="Miami Marlins vs. Arizona Diamondbacks" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -67,47 +61,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="Sky at Valkyries" stop="20250627235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250627000000 -0500" channel="Liberty at Mercury" stop="20250627235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250627000000 -0500" channel="Sun at Storm" stop="20250627235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250627000000 -0500" channel="PDC: Bet365 US Darts Masters - Day One" stop="20250627235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250627000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3" stop="20250627235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250627000000 -0500" channel="UFC 317: Topuria vs. Oliveira" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="UFC 317: Topuria vs. Oliveira" stop="20250628235959 -0500">
     <title>06:00 PM 28/06/25 - UFC 317: Topuria vs. Oliveira</title>
     <date>2025</date>
     <category>Sports</category>
@@ -115,7 +69,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="F1: Austrian Grand Prix (Practice 3)" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="PDC: Bet365 North American Darts Championship" stop="20250628235959 -0500">
+    <title>12:00 PM 28/06/25 - PDC: Bet365 North American Darts Championship</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250628000000 -0500" channel="PDC: Bet365 US Darts Masters - Day Two" stop="20250628235959 -0500">
+    <title>06:30 PM 28/06/25 - PDC: Bet365 US Darts Masters - Day Two</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250628000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 4" stop="20250628235959 -0500">
+    <title>06:30 PM 28/06/25 - PDC: ADA Tour Weekend 1 - Event 4</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250628000000 -0500" channel="F1: Austrian Grand Prix (Practice 3)" stop="20250628235959 -0500">
     <title>05:30 AM 28/06/25 - F1: Austrian Grand Prix (Practice 3)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -123,7 +101,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="F1: Austrian Grand Prix (Qualifying)" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="F1: Austrian Grand Prix (Qualifying)" stop="20250628235959 -0500">
     <title>09:00 AM 28/06/25 - F1: Austrian Grand Prix (Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -131,7 +109,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="F1: Austrian Grand Prix (Race)" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="F1: Austrian Grand Prix (Race)" stop="20250628235959 -0500">
     <title>08:00 AM 29/06/25 - F1: Austrian Grand Prix (Race)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -139,7 +117,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="AEW: Saturday Night Collision" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="AEW: Saturday Night Collision" stop="20250628235959 -0500">
     <title>07:00 PM 28/06/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -147,7 +125,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="24/7 South Park" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="24/7 South Park" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -155,7 +133,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="24/7 COWS" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="24/7 COWS" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -163,7 +141,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="24/7 Family Guy" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="24/7 Family Guy" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -171,7 +149,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="24/7 The Simpsons" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="24/7 The Simpsons" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -179,7 +157,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250627000000 -0500" channel="(North) Korean Central Television" stop="20250627235959 -0500">
+  <programme start="20250628000000 -0500" channel="(North) Korean Central Television" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
