@@ -3,6 +3,12 @@
   <channel id="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3</display-name>
   </channel>
+  <channel id="F1: Austrian Grand Prix (Qualifying)">
+    <display-name lang="en">F1: Austrian Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="Pro Motocross: Southwick (Qualifying)">
+    <display-name lang="en">Pro Motocross: Southwick (Qualifying)</display-name>
+  </channel>
   <channel id="Athletics vs. New York Yankees">
     <display-name lang="en">Athletics vs. New York Yankees</display-name>
   </channel>
@@ -48,6 +54,9 @@
   <channel id="Washington Nationals vs. Los Angeles Angels">
     <display-name lang="en">Washington Nationals vs. Los Angeles Angels</display-name>
   </channel>
+  <channel id="Mystics at Wings">
+    <display-name lang="en">Mystics at Wings</display-name>
+  </channel>
   <channel id="OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)">
     <display-name lang="en">OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)</display-name>
   </channel>
@@ -74,12 +83,6 @@
   </channel>
   <channel id="Benfica vs Chelsea">
     <display-name lang="en">Benfica vs Chelsea</display-name>
-  </channel>
-  <channel id="F1: Austrian Grand Prix (Qualifying)">
-    <display-name lang="en">F1: Austrian Grand Prix (Qualifying)</display-name>
-  </channel>
-  <channel id="Pro Motocross: Southwick (Qualifying)">
-    <display-name lang="en">Pro Motocross: Southwick (Qualifying)</display-name>
   </channel>
   <channel id="Pro Motocross: Southwick">
     <display-name lang="en">Pro Motocross: Southwick</display-name>
@@ -109,6 +112,22 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250628000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3" stop="20250628235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250628000000 -0500" channel="F1: Austrian Grand Prix (Qualifying)" stop="20250628235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250628000000 -0500" channel="Pro Motocross: Southwick (Qualifying)" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -236,6 +255,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250628000000 -0500" channel="Mystics at Wings" stop="20250628235959 -0500">
+    <title>07:00 PM 28/06/25 - Mystics at Wings</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250628000000 -0500" channel="OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)" stop="20250628235959 -0500">
     <title>11:00 AM 28/06/25 - OKTAGON 73: Eckerlin vs. Puka&#269; (Deutsch)</title>
     <date>2025</date>
@@ -302,22 +329,6 @@
   </programme>
   <programme start="20250628000000 -0500" channel="Benfica vs Chelsea" stop="20250628235959 -0500">
     <title>03:00 PM 28/06/25 - Benfica vs Chelsea</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250628000000 -0500" channel="F1: Austrian Grand Prix (Qualifying)" stop="20250628235959 -0500">
-    <title>09:00 AM 28/06/25 - F1: Austrian Grand Prix (Qualifying)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250628000000 -0500" channel="Pro Motocross: Southwick (Qualifying)" stop="20250628235959 -0500">
-    <title>09:00 AM 28/06/25 - Pro Motocross: Southwick (Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
