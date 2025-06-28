@@ -9,8 +9,17 @@
   <channel id="PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 2 &amp;amp; 3</display-name>
   </channel>
+  <channel id="PDC: Bet365 North American Darts Championship">
+    <display-name lang="en">PDC: Bet365 North American Darts Championship</display-name>
+  </channel>
   <channel id="Palmeiras vs Botafogo">
     <display-name lang="en">Palmeiras vs Botafogo</display-name>
+  </channel>
+  <channel id="Pro Motocross: Southwick">
+    <display-name lang="en">Pro Motocross: Southwick</display-name>
+  </channel>
+  <channel id="WWE: Night of Champions 2025">
+    <display-name lang="en">WWE: Night of Champions 2025</display-name>
   </channel>
   <channel id="Athletics vs. New York Yankees">
     <display-name lang="en">Athletics vs. New York Yankees</display-name>
@@ -66,9 +75,6 @@
   <channel id="Jake Paul vs. Chavez Jr.">
     <display-name lang="en">Jake Paul vs. Chavez Jr.</display-name>
   </channel>
-  <channel id="PDC: Bet365 North American Darts Championship">
-    <display-name lang="en">PDC: Bet365 North American Darts Championship</display-name>
-  </channel>
   <channel id="PDC: Bet365 US Darts Masters - Day Two">
     <display-name lang="en">PDC: Bet365 US Darts Masters - Day Two</display-name>
   </channel>
@@ -78,14 +84,8 @@
   <channel id="Benfica vs Chelsea">
     <display-name lang="en">Benfica vs Chelsea</display-name>
   </channel>
-  <channel id="Pro Motocross: Southwick">
-    <display-name lang="en">Pro Motocross: Southwick</display-name>
-  </channel>
   <channel id="F1: Austrian Grand Prix (Race)">
     <display-name lang="en">F1: Austrian Grand Prix (Race)</display-name>
-  </channel>
-  <channel id="WWE: Night of Champions 2025">
-    <display-name lang="en">WWE: Night of Champions 2025</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -129,7 +129,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250628000000 -0500" channel="PDC: Bet365 North American Darts Championship" stop="20250628235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250628000000 -0500" channel="Palmeiras vs Botafogo" stop="20250628235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250628000000 -0500" channel="Pro Motocross: Southwick" stop="20250628235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250628000000 -0500" channel="WWE: Night of Champions 2025" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -281,14 +305,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250628000000 -0500" channel="PDC: Bet365 North American Darts Championship" stop="20250628235959 -0500">
-    <title>12:00 PM 28/06/25 - PDC: Bet365 North American Darts Championship</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250628000000 -0500" channel="PDC: Bet365 US Darts Masters - Day Two" stop="20250628235959 -0500">
     <title>06:30 PM 28/06/25 - PDC: Bet365 US Darts Masters - Day Two</title>
     <date>2025</date>
@@ -313,24 +329,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250628000000 -0500" channel="Pro Motocross: Southwick" stop="20250628235959 -0500">
-    <title>12:00 PM 28/06/25 - Pro Motocross: Southwick</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250628000000 -0500" channel="F1: Austrian Grand Prix (Race)" stop="20250628235959 -0500">
     <title>08:00 AM 29/06/25 - F1: Austrian Grand Prix (Race)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250628000000 -0500" channel="WWE: Night of Champions 2025" stop="20250628235959 -0500">
-    <title>12:00 PM 28/06/25 - WWE: Night of Champions 2025</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
