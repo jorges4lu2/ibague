@@ -3,6 +3,9 @@
   <channel id="PDC: ADA Tour Weekend 1 - Event 4">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 4</display-name>
   </channel>
+  <channel id="F1: Austrian Grand Prix (Race)">
+    <display-name lang="en">F1: Austrian Grand Prix (Race)</display-name>
+  </channel>
   <channel id="St. Louis Cardinals vs. Cleveland Guardians">
     <display-name lang="en">St. Louis Cardinals vs. Cleveland Guardians</display-name>
   </channel>
@@ -54,9 +57,6 @@
   <channel id="CR Flamengo vs FC Bayern M&#252;nchen">
     <display-name lang="en">CR Flamengo vs FC Bayern M&#252;nchen</display-name>
   </channel>
-  <channel id="F1: Austrian Grand Prix (Race)">
-    <display-name lang="en">F1: Austrian Grand Prix (Race)</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -73,6 +73,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250629000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 4" stop="20250629235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250629000000 -0500" channel="F1: Austrian Grand Prix (Race)" stop="20250629235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -210,14 +218,6 @@
   </programme>
   <programme start="20250629000000 -0500" channel="CR Flamengo vs FC Bayern M&#252;nchen" stop="20250629235959 -0500">
     <title>03:00 PM 29/06/25 - CR Flamengo vs FC Bayern M&#252;nchen</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250629000000 -0500" channel="F1: Austrian Grand Prix (Race)" stop="20250629235959 -0500">
-    <title>08:00 AM 29/06/25 - F1: Austrian Grand Prix (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
