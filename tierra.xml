@@ -6,6 +6,9 @@
   <channel id="Chicago Cubs vs. Houston Astros">
     <display-name lang="en">Chicago Cubs vs. Houston Astros</display-name>
   </channel>
+  <channel id="Washington Nationals vs. Los Angeles Angels">
+    <display-name lang="en">Washington Nationals vs. Los Angeles Angels</display-name>
+  </channel>
   <channel id="Mystics at Wings">
     <display-name lang="en">Mystics at Wings</display-name>
   </channel>
@@ -20,12 +23,6 @@
   </channel>
   <channel id="PDC: ADA Tour Weekend 1 - Event 4">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 4</display-name>
-  </channel>
-  <channel id="Benfica vs Chelsea">
-    <display-name lang="en">Benfica vs Chelsea</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Los Angeles Angels">
-    <display-name lang="en">Washington Nationals vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="F1: Austrian Grand Prix (Race)">
     <display-name lang="en">F1: Austrian Grand Prix (Race)</display-name>
@@ -54,6 +51,14 @@
     </audio>
   </programme>
   <programme start="20250628000000 -0500" channel="Chicago Cubs vs. Houston Astros" stop="20250628235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250628000000 -0500" channel="Washington Nationals vs. Los Angeles Angels" stop="20250628235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -95,22 +100,6 @@
   </programme>
   <programme start="20250628000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 4" stop="20250628235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250628000000 -0500" channel="Benfica vs Chelsea" stop="20250628235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250628000000 -0500" channel="Washington Nationals vs. Los Angeles Angels" stop="20250628235959 -0500">
-    <title>08:38 PM 28/06/25 - Washington Nationals vs. Los Angeles Angels</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
