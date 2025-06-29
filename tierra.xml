@@ -3,6 +3,9 @@
   <channel id="PDC: ADA Tour Weekend 1 - Event 4">
     <display-name lang="en">PDC: ADA Tour Weekend 1 - Event 4</display-name>
   </channel>
+  <channel id="Paris Saint-Germain vs Inter Miami CF">
+    <display-name lang="en">Paris Saint-Germain vs Inter Miami CF</display-name>
+  </channel>
   <channel id="F1: Austrian Grand Prix (Race)">
     <display-name lang="en">F1: Austrian Grand Prix (Race)</display-name>
   </channel>
@@ -66,9 +69,6 @@
   <channel id="Storm at Valkyries">
     <display-name lang="en">Storm at Valkyries</display-name>
   </channel>
-  <channel id="Paris Saint-Germain vs Inter Miami CF">
-    <display-name lang="en">Paris Saint-Germain vs Inter Miami CF</display-name>
-  </channel>
   <channel id="CR Flamengo vs FC Bayern M&#252;nchen">
     <display-name lang="en">CR Flamengo vs FC Bayern M&#252;nchen</display-name>
   </channel>
@@ -88,6 +88,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250629000000 -0500" channel="PDC: ADA Tour Weekend 1 - Event 4" stop="20250629235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250629000000 -0500" channel="Paris Saint-Germain vs Inter Miami CF" stop="20250629235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -257,14 +265,6 @@
   </programme>
   <programme start="20250629000000 -0500" channel="Storm at Valkyries" stop="20250629235959 -0500">
     <title>07:30 PM 29/06/25 - Storm at Valkyries</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250629000000 -0500" channel="Paris Saint-Germain vs Inter Miami CF" stop="20250629235959 -0500">
-    <title>11:00 AM 29/06/25 - Paris Saint-Germain vs Inter Miami CF</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
