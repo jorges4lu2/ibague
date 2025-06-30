@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250630 -0500">
+  <channel id="FC Internazionale Milano vs Fluminense FC">
+    <display-name lang="en">FC Internazionale Milano vs Fluminense FC</display-name>
+  </channel>
   <channel id="San Diego Padres vs. Philadelphia Phillies">
     <display-name lang="en">San Diego Padres vs. Philadelphia Phillies</display-name>
   </channel>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="San Francisco Giants vs. Arizona Diamondbacks">
     <display-name lang="en">San Francisco Giants vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="FC Internazionale Milano vs Fluminense FC">
-    <display-name lang="en">FC Internazionale Milano vs Fluminense FC</display-name>
   </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
@@ -60,6 +60,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250630000000 -0500" channel="FC Internazionale Milano vs Fluminense FC" stop="20250630235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250630000000 -0500" channel="San Diego Padres vs. Philadelphia Phillies" stop="20250630235959 -0500">
     <title>05:35 PM 30/06/25 - San Diego Padres vs. Philadelphia Phillies</title>
     <date>2025</date>
@@ -118,14 +126,6 @@
   </programme>
   <programme start="20250630000000 -0500" channel="San Francisco Giants vs. Arizona Diamondbacks" stop="20250630235959 -0500">
     <title>08:40 PM 30/06/25 - San Francisco Giants vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250630000000 -0500" channel="FC Internazionale Milano vs Fluminense FC" stop="20250630235959 -0500">
-    <title>02:00 PM 30/06/25 - FC Internazionale Milano vs Fluminense FC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
