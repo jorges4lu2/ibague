@@ -3,9 +3,6 @@
   <channel id="Minnesota Twins vs. Detroit Tigers">
     <display-name lang="en">Minnesota Twins vs. Detroit Tigers</display-name>
   </channel>
-  <channel id="Aces at Mercury">
-    <display-name lang="en">Aces at Mercury</display-name>
-  </channel>
   <channel id="Sun at Lynx">
     <display-name lang="en">Sun at Lynx</display-name>
   </channel>
@@ -35,14 +32,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250629000000 -0500" channel="Aces at Mercury" stop="20250629235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250629000000 -0500" channel="Sun at Lynx" stop="20250629235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -52,7 +41,7 @@
     </audio>
   </programme>
   <programme start="20250629000000 -0500" channel="Storm at Valkyries" stop="20250629235959 -0500">
-    <title>07:30 PM 29/06/25 - Storm at Valkyries</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
