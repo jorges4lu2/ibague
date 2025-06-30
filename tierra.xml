@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250629 -0500">
-  <channel id="Washington Nationals vs. Los Angeles Angels">
-    <display-name lang="en">Washington Nationals vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Arizona Diamondbacks">
-    <display-name lang="en">Miami Marlins vs. Arizona Diamondbacks</display-name>
-  </channel>
   <channel id="Minnesota Twins vs. Detroit Tigers">
     <display-name lang="en">Minnesota Twins vs. Detroit Tigers</display-name>
   </channel>
@@ -14,9 +8,6 @@
   </channel>
   <channel id="Sun at Lynx">
     <display-name lang="en">Sun at Lynx</display-name>
-  </channel>
-  <channel id="CR Flamengo vs FC Bayern M&#252;nchen">
-    <display-name lang="en">CR Flamengo vs FC Bayern M&#252;nchen</display-name>
   </channel>
   <channel id="Storm at Valkyries">
     <display-name lang="en">Storm at Valkyries</display-name>
@@ -36,22 +27,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250629000000 -0500" channel="Washington Nationals vs. Los Angeles Angels" stop="20250629235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250629000000 -0500" channel="Miami Marlins vs. Arizona Diamondbacks" stop="20250629235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250629000000 -0500" channel="Minnesota Twins vs. Detroit Tigers" stop="20250629235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -69,14 +44,6 @@
     </audio>
   </programme>
   <programme start="20250629000000 -0500" channel="Sun at Lynx" stop="20250629235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250629000000 -0500" channel="CR Flamengo vs FC Bayern M&#252;nchen" stop="20250629235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
