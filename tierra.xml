@@ -6,9 +6,6 @@
   <channel id="St. Louis Cardinals vs. Pittsburgh Pirates">
     <display-name lang="en">St. Louis Cardinals vs. Pittsburgh Pirates</display-name>
   </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
   <channel id="New York Yankees vs. Toronto Blue Jays">
     <display-name lang="en">New York Yankees vs. Toronto Blue Jays</display-name>
   </channel>
@@ -17,6 +14,9 @@
   </channel>
   <channel id="Athletics vs. Tampa Bay Rays">
     <display-name lang="en">Athletics vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Texas Rangers">
     <display-name lang="en">Baltimore Orioles vs. Texas Rangers</display-name>
@@ -73,7 +73,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250630000000 -0500" channel="WWE: Monday Night RAW" stop="20250630235959 -0500">
+  <programme start="20250630000000 -0500" channel="New York Yankees vs. Toronto Blue Jays" stop="20250630235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -81,16 +81,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250630000000 -0500" channel="New York Yankees vs. Toronto Blue Jays" stop="20250630235959 -0500">
-    <title>06:07 PM 30/06/25 - New York Yankees vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250630000000 -0500" channel="Cincinnati Reds vs. Boston Red Sox" stop="20250630235959 -0500">
-    <title>06:10 PM 30/06/25 - Cincinnati Reds vs. Boston Red Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -98,7 +90,15 @@
     </audio>
   </programme>
   <programme start="20250630000000 -0500" channel="Athletics vs. Tampa Bay Rays" stop="20250630235959 -0500">
-    <title>06:35 PM 30/06/25 - Athletics vs. Tampa Bay Rays</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250630000000 -0500" channel="WWE: Monday Night RAW" stop="20250630235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
