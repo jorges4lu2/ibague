@@ -15,9 +15,6 @@
   <channel id="Athletics vs. Tampa Bay Rays">
     <display-name lang="en">Athletics vs. Tampa Bay Rays</display-name>
   </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. Texas Rangers">
     <display-name lang="en">Baltimore Orioles vs. Texas Rangers</display-name>
   </channel>
@@ -97,16 +94,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250630000000 -0500" channel="WWE: Monday Night RAW" stop="20250630235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250630000000 -0500" channel="Baltimore Orioles vs. Texas Rangers" stop="20250630235959 -0500">
-    <title>07:05 PM 30/06/25 - Baltimore Orioles vs. Texas Rangers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
