@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250701 -0500">
+  <channel id="Real Madrid C. F. vs Juventus FC">
+    <display-name lang="en">Real Madrid C. F. vs Juventus FC</display-name>
+  </channel>
   <channel id="New York Yankees vs. Toronto Blue Jays">
     <display-name lang="en">New York Yankees vs. Toronto Blue Jays</display-name>
   </channel>
@@ -48,9 +51,6 @@
   <channel id="Fever at Lynx (Championship)">
     <display-name lang="en">Fever at Lynx (Championship)</display-name>
   </channel>
-  <channel id="Real Madrid C. F. vs Juventus FC">
-    <display-name lang="en">Real Madrid C. F. vs Juventus FC</display-name>
-  </channel>
   <channel id="Borussia Dortmund vs CF Monterrey">
     <display-name lang="en">Borussia Dortmund vs CF Monterrey</display-name>
   </channel>
@@ -84,6 +84,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250701000000 -0500" channel="Real Madrid C. F. vs Juventus FC" stop="20250701235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250701000000 -0500" channel="New York Yankees vs. Toronto Blue Jays" stop="20250701235959 -0500">
     <title>02:07 PM 01/07/25 - New York Yankees vs. Toronto Blue Jays</title>
     <date>2025</date>
@@ -206,14 +214,6 @@
   </programme>
   <programme start="20250701000000 -0500" channel="Fever at Lynx (Championship)" stop="20250701235959 -0500">
     <title>07:00 PM 01/07/25 - Fever at Lynx (Championship)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250701000000 -0500" channel="Real Madrid C. F. vs Juventus FC" stop="20250701235959 -0500">
-    <title>02:00 PM 01/07/25 - Real Madrid C. F. vs Juventus FC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
