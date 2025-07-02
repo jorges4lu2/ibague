@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250701 -0500">
-  <channel id="San Diego Padres vs. Philadelphia Phillies">
-    <display-name lang="en">San Diego Padres vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Miami Marlins">
-    <display-name lang="en">Minnesota Twins vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Pittsburgh Pirates">
-    <display-name lang="en">St. Louis Cardinals vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Washington Nationals">
-    <display-name lang="en">Detroit Tigers vs. Washington Nationals</display-name>
-  </channel>
   <channel id="Athletics vs. Tampa Bay Rays">
     <display-name lang="en">Athletics vs. Tampa Bay Rays</display-name>
   </channel>
@@ -33,17 +21,17 @@
   <channel id="Houston Astros vs. Colorado Rockies">
     <display-name lang="en">Houston Astros vs. Colorado Rockies</display-name>
   </channel>
-  <channel id="Fever at Lynx (Championship)">
-    <display-name lang="en">Fever at Lynx (Championship)</display-name>
-  </channel>
-  <channel id="Borussia Dortmund vs CF Monterrey">
-    <display-name lang="en">Borussia Dortmund vs CF Monterrey</display-name>
-  </channel>
   <channel id="Kansas City Royals vs. Seattle Mariners">
     <display-name lang="en">Kansas City Royals vs. Seattle Mariners</display-name>
   </channel>
   <channel id="San Francisco Giants vs. Arizona Diamondbacks">
     <display-name lang="en">San Francisco Giants vs. Arizona Diamondbacks</display-name>
+  </channel>
+  <channel id="Fever at Lynx (Championship)">
+    <display-name lang="en">Fever at Lynx (Championship)</display-name>
+  </channel>
+  <channel id="Borussia Dortmund vs CF Monterrey">
+    <display-name lang="en">Borussia Dortmund vs CF Monterrey</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Los Angeles Dodgers">
     <display-name lang="en">Chicago White Sox vs. Los Angeles Dodgers</display-name>
@@ -75,38 +63,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250701000000 -0500" channel="San Diego Padres vs. Philadelphia Phillies" stop="20250701235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250701000000 -0500" channel="Minnesota Twins vs. Miami Marlins" stop="20250701235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250701000000 -0500" channel="St. Louis Cardinals vs. Pittsburgh Pirates" stop="20250701235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250701000000 -0500" channel="Detroit Tigers vs. Washington Nationals" stop="20250701235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250701000000 -0500" channel="Athletics vs. Tampa Bay Rays" stop="20250701235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -163,6 +119,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250701000000 -0500" channel="Kansas City Royals vs. Seattle Mariners" stop="20250701235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250701000000 -0500" channel="San Francisco Giants vs. Arizona Diamondbacks" stop="20250701235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250701000000 -0500" channel="Fever at Lynx (Championship)" stop="20250701235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -173,22 +145,6 @@
   </programme>
   <programme start="20250701000000 -0500" channel="Borussia Dortmund vs CF Monterrey" stop="20250701235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250701000000 -0500" channel="Kansas City Royals vs. Seattle Mariners" stop="20250701235959 -0500">
-    <title>08:40 PM 01/07/25 - Kansas City Royals vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250701000000 -0500" channel="San Francisco Giants vs. Arizona Diamondbacks" stop="20250701235959 -0500">
-    <title>08:40 PM 01/07/25 - San Francisco Giants vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
