@@ -24,9 +24,6 @@
   <channel id="Los Angeles Angels vs. Atlanta Braves">
     <display-name lang="en">Los Angeles Angels vs. Atlanta Braves</display-name>
   </channel>
-  <channel id="Fever at Lynx (Championship)">
-    <display-name lang="en">Fever at Lynx (Championship)</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. Texas Rangers">
     <display-name lang="en">Baltimore Orioles vs. Texas Rangers</display-name>
   </channel>
@@ -36,6 +33,12 @@
   <channel id="Houston Astros vs. Colorado Rockies">
     <display-name lang="en">Houston Astros vs. Colorado Rockies</display-name>
   </channel>
+  <channel id="Fever at Lynx (Championship)">
+    <display-name lang="en">Fever at Lynx (Championship)</display-name>
+  </channel>
+  <channel id="Borussia Dortmund vs CF Monterrey">
+    <display-name lang="en">Borussia Dortmund vs CF Monterrey</display-name>
+  </channel>
   <channel id="Kansas City Royals vs. Seattle Mariners">
     <display-name lang="en">Kansas City Royals vs. Seattle Mariners</display-name>
   </channel>
@@ -44,9 +47,6 @@
   </channel>
   <channel id="Chicago White Sox vs. Los Angeles Dodgers">
     <display-name lang="en">Chicago White Sox vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Borussia Dortmund vs CF Monterrey">
-    <display-name lang="en">Borussia Dortmund vs CF Monterrey</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -139,6 +139,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250701000000 -0500" channel="Baltimore Orioles vs. Texas Rangers" stop="20250701235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250701000000 -0500" channel="Cleveland Guardians vs. Chicago Cubs" stop="20250701235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250701000000 -0500" channel="Houston Astros vs. Colorado Rockies" stop="20250701235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250701000000 -0500" channel="Fever at Lynx (Championship)" stop="20250701235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -147,24 +171,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250701000000 -0500" channel="Baltimore Orioles vs. Texas Rangers" stop="20250701235959 -0500">
-    <title>07:05 PM 01/07/25 - Baltimore Orioles vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250701000000 -0500" channel="Cleveland Guardians vs. Chicago Cubs" stop="20250701235959 -0500">
-    <title>07:05 PM 01/07/25 - Cleveland Guardians vs. Chicago Cubs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250701000000 -0500" channel="Houston Astros vs. Colorado Rockies" stop="20250701235959 -0500">
-    <title>07:40 PM 01/07/25 - Houston Astros vs. Colorado Rockies</title>
+  <programme start="20250701000000 -0500" channel="Borussia Dortmund vs CF Monterrey" stop="20250701235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -189,14 +197,6 @@
   </programme>
   <programme start="20250701000000 -0500" channel="Chicago White Sox vs. Los Angeles Dodgers" stop="20250701235959 -0500">
     <title>09:10 PM 01/07/25 - Chicago White Sox vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250701000000 -0500" channel="Borussia Dortmund vs CF Monterrey" stop="20250701235959 -0500">
-    <title>08:00 PM 01/07/25 - Borussia Dortmund vs CF Monterrey</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
