@@ -24,6 +24,9 @@
   <channel id="Cleveland Guardians vs. Chicago Cubs">
     <display-name lang="en">Cleveland Guardians vs. Chicago Cubs</display-name>
   </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
+  </channel>
   <channel id="Baltimore Orioles vs. Texas Rangers">
     <display-name lang="en">Baltimore Orioles vs. Texas Rangers</display-name>
   </channel>
@@ -38,9 +41,6 @@
   </channel>
   <channel id="Chicago White Sox vs. Los Angeles Dodgers">
     <display-name lang="en">Chicago White Sox vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -91,7 +91,7 @@
     </audio>
   </programme>
   <programme start="20250702000000 -0500" channel="New York Yankees vs. Toronto Blue Jays" stop="20250702235959 -0500">
-    <title>06:07 PM 02/07/25 - New York Yankees vs. Toronto Blue Jays</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -99,7 +99,7 @@
     </audio>
   </programme>
   <programme start="20250702000000 -0500" channel="Cincinnati Reds vs. Boston Red Sox" stop="20250702235959 -0500">
-    <title>06:10 PM 02/07/25 - Cincinnati Reds vs. Boston Red Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -107,7 +107,7 @@
     </audio>
   </programme>
   <programme start="20250702000000 -0500" channel="Milwaukee Brewers vs. New York Mets" stop="20250702235959 -0500">
-    <title>06:10 PM 02/07/25 - Milwaukee Brewers vs. New York Mets</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -115,7 +115,7 @@
     </audio>
   </programme>
   <programme start="20250702000000 -0500" channel="Los Angeles Angels vs. Atlanta Braves" stop="20250702235959 -0500">
-    <title>06:15 PM 02/07/25 - Los Angeles Angels vs. Atlanta Braves</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -123,7 +123,15 @@
     </audio>
   </programme>
   <programme start="20250702000000 -0500" channel="Cleveland Guardians vs. Chicago Cubs" stop="20250702235959 -0500">
-    <title>07:00 PM 02/07/25 - Cleveland Guardians vs. Chicago Cubs</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250702000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250702235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -164,14 +172,6 @@
   </programme>
   <programme start="20250702000000 -0500" channel="Chicago White Sox vs. Los Angeles Dodgers" stop="20250702235959 -0500">
     <title>09:10 PM 02/07/25 - Chicago White Sox vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250702000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250702235959 -0500">
-    <title>07:00 PM 02/07/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
