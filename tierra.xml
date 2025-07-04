@@ -3,12 +3,6 @@
   <channel id="Detroit Tigers vs. Washington Nationals">
     <display-name lang="en">Detroit Tigers vs. Washington Nationals</display-name>
   </channel>
-  <channel id="Aces at Fever">
-    <display-name lang="en">Aces at Fever</display-name>
-  </channel>
-  <channel id="Sparks at Liberty">
-    <display-name lang="en">Sparks at Liberty</display-name>
-  </channel>
   <channel id="New York Yankees vs. Toronto Blue Jays">
     <display-name lang="en">New York Yankees vs. Toronto Blue Jays</display-name>
   </channel>
@@ -17,6 +11,24 @@
   </channel>
   <channel id="Los Angeles Angels vs. Atlanta Braves">
     <display-name lang="en">Los Angeles Angels vs. Atlanta Braves</display-name>
+  </channel>
+  <channel id="Aces at Fever">
+    <display-name lang="en">Aces at Fever</display-name>
+  </channel>
+  <channel id="Sparks at Liberty">
+    <display-name lang="en">Sparks at Liberty</display-name>
+  </channel>
+  <channel id="Storm at Dream">
+    <display-name lang="en">Storm at Dream</display-name>
+  </channel>
+  <channel id="Mercury at Wings">
+    <display-name lang="en">Mercury at Wings</display-name>
+  </channel>
+  <channel id="Mystics at Lynx">
+    <display-name lang="en">Mystics at Lynx</display-name>
+  </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. Chicago Cubs">
     <display-name lang="en">Cleveland Guardians vs. Chicago Cubs</display-name>
@@ -29,15 +41,6 @@
   </channel>
   <channel id="Kansas City Royals vs. Seattle Mariners">
     <display-name lang="en">Kansas City Royals vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Storm at Dream">
-    <display-name lang="en">Storm at Dream</display-name>
-  </channel>
-  <channel id="Mercury at Wings">
-    <display-name lang="en">Mercury at Wings</display-name>
-  </channel>
-  <channel id="Mystics at Lynx">
-    <display-name lang="en">Mystics at Lynx</display-name>
   </channel>
   <channel id="PDC: Superbet Poland Darts Masters - Day One">
     <display-name lang="en">PDC: Superbet Poland Darts Masters - Day One</display-name>
@@ -56,9 +59,6 @@
   </channel>
   <channel id="F1: British Grand Prix (Race)">
     <display-name lang="en">F1: British Grand Prix (Race)</display-name>
-  </channel>
-  <channel id="TNA: Impact">
-    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -89,6 +89,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250703000000 -0500" channel="New York Yankees vs. Toronto Blue Jays" stop="20250703235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250703000000 -0500" channel="Milwaukee Brewers vs. New York Mets" stop="20250703235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250703000000 -0500" channel="Los Angeles Angels vs. Atlanta Braves" stop="20250703235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250703000000 -0500" channel="Aces at Fever" stop="20250703235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -105,24 +129,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250703000000 -0500" channel="New York Yankees vs. Toronto Blue Jays" stop="20250703235959 -0500">
-    <title>06:07 PM 03/07/25 - New York Yankees vs. Toronto Blue Jays</title>
+  <programme start="20250703000000 -0500" channel="Storm at Dream" stop="20250703235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250703000000 -0500" channel="Milwaukee Brewers vs. New York Mets" stop="20250703235959 -0500">
-    <title>06:10 PM 03/07/25 - Milwaukee Brewers vs. New York Mets</title>
+  <programme start="20250703000000 -0500" channel="Mercury at Wings" stop="20250703235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250703000000 -0500" channel="Los Angeles Angels vs. Atlanta Braves" stop="20250703235959 -0500">
-    <title>06:15 PM 03/07/25 - Los Angeles Angels vs. Atlanta Braves</title>
+  <programme start="20250703000000 -0500" channel="Mystics at Lynx" stop="20250703235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250703000000 -0500" channel="TNA: Impact" stop="20250703235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -155,30 +187,6 @@
   </programme>
   <programme start="20250703000000 -0500" channel="Kansas City Royals vs. Seattle Mariners" stop="20250703235959 -0500">
     <title>09:10 PM 03/07/25 - Kansas City Royals vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250703000000 -0500" channel="Storm at Dream" stop="20250703235959 -0500">
-    <title>06:30 PM 03/07/25 - Storm at Dream</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250703000000 -0500" channel="Mercury at Wings" stop="20250703235959 -0500">
-    <title>07:00 PM 03/07/25 - Mercury at Wings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250703000000 -0500" channel="Mystics at Lynx" stop="20250703235959 -0500">
-    <title>07:00 PM 03/07/25 - Mystics at Lynx</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -227,14 +235,6 @@
   </programme>
   <programme start="20250703000000 -0500" channel="F1: British Grand Prix (Race)" stop="20250703235959 -0500">
     <title>09:00 AM 06/07/25 - F1: British Grand Prix (Race)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250703000000 -0500" channel="TNA: Impact" stop="20250703235959 -0500">
-    <title>07:00 PM 03/07/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
