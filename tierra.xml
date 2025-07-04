@@ -12,6 +12,9 @@
   <channel id="Los Angeles Angels vs. Atlanta Braves">
     <display-name lang="en">Los Angeles Angels vs. Atlanta Braves</display-name>
   </channel>
+  <channel id="Cleveland Guardians vs. Chicago Cubs">
+    <display-name lang="en">Cleveland Guardians vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Aces at Fever">
     <display-name lang="en">Aces at Fever</display-name>
   </channel>
@@ -29,9 +32,6 @@
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Chicago Cubs">
-    <display-name lang="en">Cleveland Guardians vs. Chicago Cubs</display-name>
   </channel>
   <channel id="San Francisco Giants vs. Arizona Diamondbacks">
     <display-name lang="en">San Francisco Giants vs. Arizona Diamondbacks</display-name>
@@ -113,6 +113,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250703000000 -0500" channel="Cleveland Guardians vs. Chicago Cubs" stop="20250703235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250703000000 -0500" channel="Aces at Fever" stop="20250703235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -155,14 +163,6 @@
   </programme>
   <programme start="20250703000000 -0500" channel="TNA: Impact" stop="20250703235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250703000000 -0500" channel="Cleveland Guardians vs. Chicago Cubs" stop="20250703235959 -0500">
-    <title>07:05 PM 03/07/25 - Cleveland Guardians vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
