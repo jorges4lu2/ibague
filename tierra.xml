@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250704 -0500">
+  <channel id="F1: British Grand Prix (Practice 2)">
+    <display-name lang="en">F1: British Grand Prix (Practice 2)</display-name>
+  </channel>
   <channel id="Boston Red Sox vs. Washington Nationals">
     <display-name lang="en">Boston Red Sox vs. Washington Nationals</display-name>
   </channel>
@@ -60,9 +63,6 @@
   <channel id="Palmeiras vs Chelsea FC">
     <display-name lang="en">Palmeiras vs Chelsea FC</display-name>
   </channel>
-  <channel id="F1: British Grand Prix (Practice 2)">
-    <display-name lang="en">F1: British Grand Prix (Practice 2)</display-name>
-  </channel>
   <channel id="F1: British Grand Prix (Practice 3)">
     <display-name lang="en">F1: British Grand Prix (Practice 3)</display-name>
   </channel>
@@ -93,6 +93,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250704000000 -0500" channel="F1: British Grand Prix (Practice 2)" stop="20250704235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250704000000 -0500" channel="Boston Red Sox vs. Washington Nationals" stop="20250704235959 -0500">
     <title>10:05 AM 04/07/25 - Boston Red Sox vs. Washington Nationals</title>
     <date>2025</date>
@@ -247,14 +255,6 @@
   </programme>
   <programme start="20250704000000 -0500" channel="Palmeiras vs Chelsea FC" stop="20250704235959 -0500">
     <title>08:00 PM 04/07/25 - Palmeiras vs Chelsea FC</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250704000000 -0500" channel="F1: British Grand Prix (Practice 2)" stop="20250704235959 -0500">
-    <title>10:00 AM 04/07/25 - F1: British Grand Prix (Practice 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
