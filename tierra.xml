@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250705 -0500">
+  <channel id="PDC: Superbet Poland Darts Masters - Day Two">
+    <display-name lang="en">PDC: Superbet Poland Darts Masters - Day Two</display-name>
+  </channel>
   <channel id="Paris Saint-Germain vs FC Bayern M&#252;nchen">
     <display-name lang="en">Paris Saint-Germain vs FC Bayern M&#252;nchen</display-name>
   </channel>
@@ -9,8 +12,8 @@
   <channel id="Giants Live: The Strongman Classic 2025">
     <display-name lang="en">Giants Live: The Strongman Classic 2025</display-name>
   </channel>
-  <channel id="F1: British Grand Prix (Qualifying)">
-    <display-name lang="en">F1: British Grand Prix (Qualifying)</display-name>
+  <channel id="Pro Motocross: RedBud">
+    <display-name lang="en">Pro Motocross: RedBud</display-name>
   </channel>
   <channel id="Tampa Bay Rays vs. Minnesota Twins">
     <display-name lang="en">Tampa Bay Rays vs. Minnesota Twins</display-name>
@@ -63,17 +66,11 @@
   <channel id="Boxing: Catterall vs. Eubank (Main Card)">
     <display-name lang="en">Boxing: Catterall vs. Eubank (Main Card)</display-name>
   </channel>
-  <channel id="PDC: Superbet Poland Darts Masters - Day Two">
-    <display-name lang="en">PDC: Superbet Poland Darts Masters - Day Two</display-name>
-  </channel>
   <channel id="PDC: Asian Tour 19-20 (Singapore)">
     <display-name lang="en">PDC: Asian Tour 19-20 (Singapore)</display-name>
   </channel>
   <channel id="Real Madrid C. F. vs Borussia Dortmund">
     <display-name lang="en">Real Madrid C. F. vs Borussia Dortmund</display-name>
-  </channel>
-  <channel id="Pro Motocross: RedBud">
-    <display-name lang="en">Pro Motocross: RedBud</display-name>
   </channel>
   <channel id="F1: British Grand Prix (Race)">
     <display-name lang="en">F1: British Grand Prix (Race)</display-name>
@@ -96,6 +93,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250705000000 -0500" channel="PDC: Superbet Poland Darts Masters - Day Two" stop="20250705235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250705000000 -0500" channel="Paris Saint-Germain vs FC Bayern M&#252;nchen" stop="20250705235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -120,7 +125,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="F1: British Grand Prix (Qualifying)" stop="20250705235959 -0500">
+  <programme start="20250705000000 -0500" channel="Pro Motocross: RedBud" stop="20250705235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -264,14 +269,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="PDC: Superbet Poland Darts Masters - Day Two" stop="20250705235959 -0500">
-    <title>12:00 PM 05/07/25 - PDC: Superbet Poland Darts Masters - Day Two</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250705000000 -0500" channel="PDC: Asian Tour 19-20 (Singapore)" stop="20250705235959 -0500">
     <title>09:00 PM 05/07/25 - PDC: Asian Tour 19-20 (Singapore)</title>
     <date>2025</date>
@@ -282,14 +279,6 @@
   </programme>
   <programme start="20250705000000 -0500" channel="Real Madrid C. F. vs Borussia Dortmund" stop="20250705235959 -0500">
     <title>03:00 PM 05/07/25 - Real Madrid C. F. vs Borussia Dortmund</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250705000000 -0500" channel="Pro Motocross: RedBud" stop="20250705235959 -0500">
-    <title>12:00 PM 05/07/25 - Pro Motocross: RedBud</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
