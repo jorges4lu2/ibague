@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250705 -0500">
+  <channel id="Paris Saint-Germain vs FC Bayern M&#252;nchen">
+    <display-name lang="en">Paris Saint-Germain vs FC Bayern M&#252;nchen</display-name>
+  </channel>
   <channel id="Back to the Beginning">
     <display-name lang="en">Back to the Beginning</display-name>
+  </channel>
+  <channel id="Giants Live: The Strongman Classic 2025">
+    <display-name lang="en">Giants Live: The Strongman Classic 2025</display-name>
   </channel>
   <channel id="F1: British Grand Prix (Qualifying)">
     <display-name lang="en">F1: British Grand Prix (Qualifying)</display-name>
@@ -63,9 +69,6 @@
   <channel id="PDC: Asian Tour 19-20 (Singapore)">
     <display-name lang="en">PDC: Asian Tour 19-20 (Singapore)</display-name>
   </channel>
-  <channel id="Paris Saint-Germain vs FC Bayern M&#252;nchen">
-    <display-name lang="en">Paris Saint-Germain vs FC Bayern M&#252;nchen</display-name>
-  </channel>
   <channel id="Real Madrid C. F. vs Borussia Dortmund">
     <display-name lang="en">Real Madrid C. F. vs Borussia Dortmund</display-name>
   </channel>
@@ -93,7 +96,23 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250705000000 -0500" channel="Paris Saint-Germain vs FC Bayern M&#252;nchen" stop="20250705235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250705000000 -0500" channel="Back to the Beginning" stop="20250705235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250705000000 -0500" channel="Giants Live: The Strongman Classic 2025" stop="20250705235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -255,14 +274,6 @@
   </programme>
   <programme start="20250705000000 -0500" channel="PDC: Asian Tour 19-20 (Singapore)" stop="20250705235959 -0500">
     <title>09:00 PM 05/07/25 - PDC: Asian Tour 19-20 (Singapore)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250705000000 -0500" channel="Paris Saint-Germain vs FC Bayern M&#252;nchen" stop="20250705235959 -0500">
-    <title>11:00 AM 05/07/25 - Paris Saint-Germain vs FC Bayern M&#252;nchen</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
