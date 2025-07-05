@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250705 -0500">
+  <channel id="Tampa Bay Rays vs. Minnesota Twins">
+    <display-name lang="en">Tampa Bay Rays vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="St. Louis Cardinals vs. Chicago Cubs">
+    <display-name lang="en">St. Louis Cardinals vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Boxing: Catterall vs. Eubank (Main Card)">
+    <display-name lang="en">Boxing: Catterall vs. Eubank (Main Card)</display-name>
+  </channel>
   <channel id="PDC: Superbet Poland Darts Masters - Day Two">
     <display-name lang="en">PDC: Superbet Poland Darts Masters - Day Two</display-name>
   </channel>
@@ -14,12 +23,6 @@
   </channel>
   <channel id="Pro Motocross: RedBud">
     <display-name lang="en">Pro Motocross: RedBud</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Minnesota Twins">
-    <display-name lang="en">Tampa Bay Rays vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Chicago Cubs">
-    <display-name lang="en">St. Louis Cardinals vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. Toronto Blue Jays">
     <display-name lang="en">Los Angeles Angels vs. Toronto Blue Jays</display-name>
@@ -63,9 +66,6 @@
   <channel id="Valkyries at Lynx">
     <display-name lang="en">Valkyries at Lynx</display-name>
   </channel>
-  <channel id="Boxing: Catterall vs. Eubank (Main Card)">
-    <display-name lang="en">Boxing: Catterall vs. Eubank (Main Card)</display-name>
-  </channel>
   <channel id="PDC: Asian Tour 19-20 (Singapore)">
     <display-name lang="en">PDC: Asian Tour 19-20 (Singapore)</display-name>
   </channel>
@@ -93,6 +93,30 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250705000000 -0500" channel="Tampa Bay Rays vs. Minnesota Twins" stop="20250705235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250705000000 -0500" channel="St. Louis Cardinals vs. Chicago Cubs" stop="20250705235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250705000000 -0500" channel="Boxing: Catterall vs. Eubank (Main Card)" stop="20250705235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250705000000 -0500" channel="PDC: Superbet Poland Darts Masters - Day Two" stop="20250705235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -127,22 +151,6 @@
   </programme>
   <programme start="20250705000000 -0500" channel="Pro Motocross: RedBud" stop="20250705235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250705000000 -0500" channel="Tampa Bay Rays vs. Minnesota Twins" stop="20250705235959 -0500">
-    <title>01:10 PM 05/07/25 - Tampa Bay Rays vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250705000000 -0500" channel="St. Louis Cardinals vs. Chicago Cubs" stop="20250705235959 -0500">
-    <title>01:20 PM 05/07/25 - St. Louis Cardinals vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -255,14 +263,6 @@
   </programme>
   <programme start="20250705000000 -0500" channel="Valkyries at Lynx" stop="20250705235959 -0500">
     <title>07:00 PM 05/07/25 - Valkyries at Lynx</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250705000000 -0500" channel="Boxing: Catterall vs. Eubank (Main Card)" stop="20250705235959 -0500">
-    <title>01:30 PM 05/07/25 - Boxing: Catterall vs. Eubank (Main Card)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
