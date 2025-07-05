@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250705 -0500">
+  <channel id="Back to the Beginning">
+    <display-name lang="en">Back to the Beginning</display-name>
+  </channel>
   <channel id="F1: British Grand Prix (Qualifying)">
     <display-name lang="en">F1: British Grand Prix (Qualifying)</display-name>
-  </channel>
-  <channel id="Pro Motocross: RedBud (Qualifying)">
-    <display-name lang="en">Pro Motocross: RedBud (Qualifying)</display-name>
   </channel>
   <channel id="Tampa Bay Rays vs. Minnesota Twins">
     <display-name lang="en">Tampa Bay Rays vs. Minnesota Twins</display-name>
@@ -48,6 +48,15 @@
   <channel id="Pittsburgh Pirates vs. Seattle Mariners">
     <display-name lang="en">Pittsburgh Pirates vs. Seattle Mariners</display-name>
   </channel>
+  <channel id="Sparks at Fever">
+    <display-name lang="en">Sparks at Fever</display-name>
+  </channel>
+  <channel id="Valkyries at Lynx">
+    <display-name lang="en">Valkyries at Lynx</display-name>
+  </channel>
+  <channel id="Boxing: Catterall vs. Eubank (Main Card)">
+    <display-name lang="en">Boxing: Catterall vs. Eubank (Main Card)</display-name>
+  </channel>
   <channel id="PDC: Superbet Poland Darts Masters - Day Two">
     <display-name lang="en">PDC: Superbet Poland Darts Masters - Day Two</display-name>
   </channel>
@@ -84,7 +93,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250705000000 -0500" channel="F1: British Grand Prix (Qualifying)" stop="20250705235959 -0500">
+  <programme start="20250705000000 -0500" channel="Back to the Beginning" stop="20250705235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -92,7 +101,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="Pro Motocross: RedBud (Qualifying)" stop="20250705235959 -0500">
+  <programme start="20250705000000 -0500" channel="F1: British Grand Prix (Qualifying)" stop="20250705235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -206,6 +215,30 @@
   </programme>
   <programme start="20250705000000 -0500" channel="Pittsburgh Pirates vs. Seattle Mariners" stop="20250705235959 -0500">
     <title>09:10 PM 05/07/25 - Pittsburgh Pirates vs. Seattle Mariners</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250705000000 -0500" channel="Sparks at Fever" stop="20250705235959 -0500">
+    <title>06:00 PM 05/07/25 - Sparks at Fever</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250705000000 -0500" channel="Valkyries at Lynx" stop="20250705235959 -0500">
+    <title>07:00 PM 05/07/25 - Valkyries at Lynx</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250705000000 -0500" channel="Boxing: Catterall vs. Eubank (Main Card)" stop="20250705235959 -0500">
+    <title>01:30 PM 05/07/25 - Boxing: Catterall vs. Eubank (Main Card)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
