@@ -15,11 +15,14 @@
   <channel id="Baltimore Orioles vs. Atlanta Braves">
     <display-name lang="en">Baltimore Orioles vs. Atlanta Braves</display-name>
   </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
   <channel id="Chicago White Sox vs. Colorado Rockies">
     <display-name lang="en">Chicago White Sox vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="Palmeiras vs Chelsea FC">
+    <display-name lang="en">Palmeiras vs Chelsea FC</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="Houston Astros vs. Los Angeles Dodgers">
     <display-name lang="en">Houston Astros vs. Los Angeles Dodgers</display-name>
@@ -35,9 +38,6 @@
   </channel>
   <channel id="PDC: Superbet Poland Darts Masters - Day Two">
     <display-name lang="en">PDC: Superbet Poland Darts Masters - Day Two</display-name>
-  </channel>
-  <channel id="Palmeiras vs Chelsea FC">
-    <display-name lang="en">Palmeiras vs Chelsea FC</display-name>
   </channel>
   <channel id="F1: British Grand Prix (Practice 3)">
     <display-name lang="en">F1: British Grand Prix (Practice 3)</display-name>
@@ -106,7 +106,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250704000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250704235959 -0500">
+  <programme start="20250704000000 -0500" channel="Chicago White Sox vs. Colorado Rockies" stop="20250704235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -114,8 +114,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250704000000 -0500" channel="Chicago White Sox vs. Colorado Rockies" stop="20250704235959 -0500">
-    <title>07:10 PM 04/07/25 - Chicago White Sox vs. Colorado Rockies</title>
+  <programme start="20250704000000 -0500" channel="Palmeiras vs Chelsea FC" stop="20250704235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250704000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250704235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -156,14 +164,6 @@
   </programme>
   <programme start="20250704000000 -0500" channel="PDC: Superbet Poland Darts Masters - Day Two" stop="20250704235959 -0500">
     <title>12:00 PM 05/07/25 - PDC: Superbet Poland Darts Masters - Day Two</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250704000000 -0500" channel="Palmeiras vs Chelsea FC" stop="20250704235959 -0500">
-    <title>08:00 PM 04/07/25 - Palmeiras vs Chelsea FC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
