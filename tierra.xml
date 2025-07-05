@@ -3,17 +3,23 @@
   <channel id="PDC: Asian Tour 17-18 (Singapore) ">
     <display-name lang="en">PDC: Asian Tour 17-18 (Singapore) </display-name>
   </channel>
+  <channel id="F1: British Grand Prix (Practice 3)">
+    <display-name lang="en">F1: British Grand Prix (Practice 3)</display-name>
+  </channel>
   <channel id="PDC: Superbet Poland Darts Masters - Day Two">
     <display-name lang="en">PDC: Superbet Poland Darts Masters - Day Two</display-name>
   </channel>
   <channel id="PDC: Asian Tour 19-20 (Singapore)">
     <display-name lang="en">PDC: Asian Tour 19-20 (Singapore)</display-name>
   </channel>
-  <channel id="F1: British Grand Prix (Practice 3)">
-    <display-name lang="en">F1: British Grand Prix (Practice 3)</display-name>
-  </channel>
   <channel id="F1: British Grand Prix (Qualifying)">
     <display-name lang="en">F1: British Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="Pro Motocross: RedBud (Qualifying)">
+    <display-name lang="en">Pro Motocross: RedBud (Qualifying)</display-name>
+  </channel>
+  <channel id="Pro Motocross: RedBud">
+    <display-name lang="en">Pro Motocross: RedBud</display-name>
   </channel>
   <channel id="F1: British Grand Prix (Race)">
     <display-name lang="en">F1: British Grand Prix (Race)</display-name>
@@ -44,6 +50,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250705000000 -0500" channel="F1: British Grand Prix (Practice 3)" stop="20250705235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250705000000 -0500" channel="PDC: Superbet Poland Darts Masters - Day Two" stop="20250705235959 -0500">
     <title>12:00 PM 05/07/25 - PDC: Superbet Poland Darts Masters - Day Two</title>
     <date>2025</date>
@@ -60,16 +74,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="F1: British Grand Prix (Practice 3)" stop="20250705235959 -0500">
-    <title>05:30 AM 05/07/25 - F1: British Grand Prix (Practice 3)</title>
+  <programme start="20250705000000 -0500" channel="F1: British Grand Prix (Qualifying)" stop="20250705235959 -0500">
+    <title>09:00 AM 05/07/25 - F1: British Grand Prix (Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="F1: British Grand Prix (Qualifying)" stop="20250705235959 -0500">
-    <title>09:00 AM 05/07/25 - F1: British Grand Prix (Qualifying)</title>
+  <programme start="20250705000000 -0500" channel="Pro Motocross: RedBud (Qualifying)" stop="20250705235959 -0500">
+    <title>09:00 AM 05/07/25 - Pro Motocross: RedBud (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250705000000 -0500" channel="Pro Motocross: RedBud" stop="20250705235959 -0500">
+    <title>12:00 PM 05/07/25 - Pro Motocross: RedBud</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
