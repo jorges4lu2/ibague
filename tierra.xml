@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250706 -0500">
+  <channel id="F1: British Grand Prix (Race, Sky Sports Feed)">
+    <display-name lang="en">F1: British Grand Prix (Race, Sky Sports Feed)</display-name>
+  </channel>
+  <channel id="F1: British Grand Prix (Race, F1TV Feed)">
+    <display-name lang="en">F1: British Grand Prix (Race, F1TV Feed)</display-name>
+  </channel>
   <channel id="Baltimore Orioles vs. Atlanta Braves">
     <display-name lang="en">Baltimore Orioles vs. Atlanta Braves</display-name>
   </channel>
@@ -42,14 +48,17 @@
   <channel id="San Francisco Giants vs. Athletics">
     <display-name lang="en">San Francisco Giants vs. Athletics</display-name>
   </channel>
+  <channel id="Aces at Sun">
+    <display-name lang="en">Aces at Sun</display-name>
+  </channel>
+  <channel id="Lakers at Heat">
+    <display-name lang="en">Lakers at Heat</display-name>
+  </channel>
   <channel id="USA vs Mexico">
     <display-name lang="en">USA vs Mexico</display-name>
   </channel>
-  <channel id="F1: British Grand Prix (Race, Sky Sports Feed)">
-    <display-name lang="en">F1: British Grand Prix (Race, Sky Sports Feed)</display-name>
-  </channel>
-  <channel id="F1: British Grand Prix (Race, F1TV Feed)">
-    <display-name lang="en">F1: British Grand Prix (Race, F1TV Feed)</display-name>
+  <channel id="USA vs Mexico">
+    <display-name lang="en">USA vs Mexico</display-name>
   </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
@@ -66,6 +75,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250706000000 -0500" channel="F1: British Grand Prix (Race, Sky Sports Feed)" stop="20250706235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="F1: British Grand Prix (Race, F1TV Feed)" stop="20250706235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250706000000 -0500" channel="Baltimore Orioles vs. Atlanta Braves" stop="20250706235959 -0500">
     <title>10:35 AM 06/07/25 - Baltimore Orioles vs. Atlanta Braves</title>
     <date>2025</date>
@@ -178,6 +203,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250706000000 -0500" channel="Aces at Sun" stop="20250706235959 -0500">
+    <title>03:00 PM 06/07/25 - Aces at Sun</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="Lakers at Heat" stop="20250706235959 -0500">
+    <title>03:30 PM 06/07/25 - Lakers at Heat</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250706000000 -0500" channel="USA vs Mexico" stop="20250706235959 -0500">
     <title>06:00 PM 06/07/25 - USA vs Mexico</title>
     <date>2025</date>
@@ -186,16 +227,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="F1: British Grand Prix (Race, Sky Sports Feed)" stop="20250706235959 -0500">
-    <title>09:00 AM 06/07/25 - F1: British Grand Prix (Race, Sky Sports Feed)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="F1: British Grand Prix (Race, F1TV Feed)" stop="20250706235959 -0500">
-    <title>09:00 AM 06/07/25 - F1: British Grand Prix (Race, F1TV Feed)</title>
+  <programme start="20250706000000 -0500" channel="USA vs Mexico" stop="20250706235959 -0500">
+    <title>06:00 PM 06/07/25 - USA vs Mexico</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
