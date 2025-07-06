@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250706 -0500">
+  <channel id="Baltimore Orioles vs. Atlanta Braves">
+    <display-name lang="en">Baltimore Orioles vs. Atlanta Braves</display-name>
+  </channel>
   <channel id="F1: British Grand Prix (Race, Sky Sports Feed)">
     <display-name lang="en">F1: British Grand Prix (Race, Sky Sports Feed)</display-name>
   </channel>
   <channel id="F1: British Grand Prix (Race, F1TV Feed)">
     <display-name lang="en">F1: British Grand Prix (Race, F1TV Feed)</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Atlanta Braves">
-    <display-name lang="en">Baltimore Orioles vs. Atlanta Braves</display-name>
   </channel>
   <channel id="Boston Red Sox vs. Washington Nationals">
     <display-name lang="en">Boston Red Sox vs. Washington Nationals</display-name>
@@ -84,6 +84,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250706000000 -0500" channel="Baltimore Orioles vs. Atlanta Braves" stop="20250706235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250706000000 -0500" channel="F1: British Grand Prix (Race, Sky Sports Feed)" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -94,14 +102,6 @@
   </programme>
   <programme start="20250706000000 -0500" channel="F1: British Grand Prix (Race, F1TV Feed)" stop="20250706235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Baltimore Orioles vs. Atlanta Braves" stop="20250706235959 -0500">
-    <title>10:35 AM 06/07/25 - Baltimore Orioles vs. Atlanta Braves</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
