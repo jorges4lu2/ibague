@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250705 -0500">
-  <channel id="Chicago White Sox vs. Colorado Rockies">
-    <display-name lang="en">Chicago White Sox vs. Colorado Rockies</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. San Diego Padres">
-    <display-name lang="en">Texas Rangers vs. San Diego Padres</display-name>
-  </channel>
+<tv date="20250706 -0500">
   <channel id="San Francisco Giants vs. Athletics">
     <display-name lang="en">San Francisco Giants vs. Athletics</display-name>
   </channel>
@@ -14,6 +8,9 @@
   </channel>
   <channel id="PDC: Asian Tour 19-20 (Singapore)">
     <display-name lang="en">PDC: Asian Tour 19-20 (Singapore)</display-name>
+  </channel>
+  <channel id="USA vs Mexico">
+    <display-name lang="en">USA vs Mexico</display-name>
   </channel>
   <channel id="F1: British Grand Prix (Race)">
     <display-name lang="en">F1: British Grand Prix (Race)</display-name>
@@ -33,7 +30,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250705000000 -0500" channel="Chicago White Sox vs. Colorado Rockies" stop="20250705235959 -0500">
+  <programme start="20250706000000 -0500" channel="San Francisco Giants vs. Athletics" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -41,7 +38,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="Texas Rangers vs. San Diego Padres" stop="20250705235959 -0500">
+  <programme start="20250706000000 -0500" channel="Pittsburgh Pirates vs. Seattle Mariners" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -49,7 +46,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="San Francisco Giants vs. Athletics" stop="20250705235959 -0500">
+  <programme start="20250706000000 -0500" channel="PDC: Asian Tour 19-20 (Singapore)" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -57,23 +54,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="Pittsburgh Pirates vs. Seattle Mariners" stop="20250705235959 -0500">
-    <title>Live</title>
+  <programme start="20250706000000 -0500" channel="USA vs Mexico" stop="20250706235959 -0500">
+    <title>06:00 PM 06/07/25 - USA vs Mexico</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="PDC: Asian Tour 19-20 (Singapore)" stop="20250705235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250705000000 -0500" channel="F1: British Grand Prix (Race)" stop="20250705235959 -0500">
+  <programme start="20250706000000 -0500" channel="F1: British Grand Prix (Race)" stop="20250706235959 -0500">
     <title>09:00 AM 06/07/25 - F1: British Grand Prix (Race)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -81,7 +70,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="24/7 South Park" stop="20250705235959 -0500">
+  <programme start="20250706000000 -0500" channel="24/7 South Park" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -89,7 +78,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="24/7 COWS" stop="20250705235959 -0500">
+  <programme start="20250706000000 -0500" channel="24/7 COWS" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -97,7 +86,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="24/7 Family Guy" stop="20250705235959 -0500">
+  <programme start="20250706000000 -0500" channel="24/7 Family Guy" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -105,7 +94,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="24/7 The Simpsons" stop="20250705235959 -0500">
+  <programme start="20250706000000 -0500" channel="24/7 The Simpsons" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -113,7 +102,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250705000000 -0500" channel="(North) Korean Central Television" stop="20250705235959 -0500">
+  <programme start="20250706000000 -0500" channel="(North) Korean Central Television" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
