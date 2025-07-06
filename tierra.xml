@@ -1,28 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250706 -0500">
-  <channel id="Boston Red Sox vs. Washington Nationals">
-    <display-name lang="en">Boston Red Sox vs. Washington Nationals</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Philadelphia Phillies">
-    <display-name lang="en">Cincinnati Reds vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Toronto Blue Jays">
-    <display-name lang="en">Los Angeles Angels vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Cleveland Guardians">
-    <display-name lang="en">Detroit Tigers vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Miami Marlins">
-    <display-name lang="en">Milwaukee Brewers vs. Miami Marlins</display-name>
-  </channel>
   <channel id="Tampa Bay Rays vs. Minnesota Twins">
     <display-name lang="en">Tampa Bay Rays vs. Minnesota Twins</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Colorado Rockies">
     <display-name lang="en">Chicago White Sox vs. Colorado Rockies</display-name>
-  </channel>
-  <channel id="Aces at Sun">
-    <display-name lang="en">Aces at Sun</display-name>
   </channel>
   <channel id="Houston Astros vs. Los Angeles Dodgers">
     <display-name lang="en">Houston Astros vs. Los Angeles Dodgers</display-name>
@@ -33,6 +15,12 @@
   <channel id="Pittsburgh Pirates vs. Seattle Mariners">
     <display-name lang="en">Pittsburgh Pirates vs. Seattle Mariners</display-name>
   </channel>
+  <channel id="Aces at Sun">
+    <display-name lang="en">Aces at Sun</display-name>
+  </channel>
+  <channel id="Lakers at Heat">
+    <display-name lang="en">Lakers at Heat</display-name>
+  </channel>
   <channel id="St. Louis Cardinals vs. Chicago Cubs">
     <display-name lang="en">St. Louis Cardinals vs. Chicago Cubs</display-name>
   </channel>
@@ -41,9 +29,6 @@
   </channel>
   <channel id="San Francisco Giants vs. Athletics">
     <display-name lang="en">San Francisco Giants vs. Athletics</display-name>
-  </channel>
-  <channel id="Lakers at Heat">
-    <display-name lang="en">Lakers at Heat</display-name>
   </channel>
   <channel id="Spurs at Warriors">
     <display-name lang="en">Spurs at Warriors</display-name>
@@ -72,46 +57,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250706000000 -0500" channel="Boston Red Sox vs. Washington Nationals" stop="20250706235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Cincinnati Reds vs. Philadelphia Phillies" stop="20250706235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Los Angeles Angels vs. Toronto Blue Jays" stop="20250706235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Detroit Tigers vs. Cleveland Guardians" stop="20250706235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Milwaukee Brewers vs. Miami Marlins" stop="20250706235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250706000000 -0500" channel="Tampa Bay Rays vs. Minnesota Twins" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -128,6 +73,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250706000000 -0500" channel="Houston Astros vs. Los Angeles Dodgers" stop="20250706235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="Kansas City Royals vs. Arizona Diamondbacks" stop="20250706235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="Pittsburgh Pirates vs. Seattle Mariners" stop="20250706235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250706000000 -0500" channel="Aces at Sun" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -136,24 +105,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="Houston Astros vs. Los Angeles Dodgers" stop="20250706235959 -0500">
-    <title>03:10 PM 06/07/25 - Houston Astros vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Kansas City Royals vs. Arizona Diamondbacks" stop="20250706235959 -0500">
-    <title>03:10 PM 06/07/25 - Kansas City Royals vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Pittsburgh Pirates vs. Seattle Mariners" stop="20250706235959 -0500">
-    <title>03:10 PM 06/07/25 - Pittsburgh Pirates vs. Seattle Mariners</title>
+  <programme start="20250706000000 -0500" channel="Lakers at Heat" stop="20250706235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -178,14 +131,6 @@
   </programme>
   <programme start="20250706000000 -0500" channel="San Francisco Giants vs. Athletics" stop="20250706235959 -0500">
     <title>09:05 PM 06/07/25 - San Francisco Giants vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Lakers at Heat" stop="20250706235959 -0500">
-    <title>03:30 PM 06/07/25 - Lakers at Heat</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
