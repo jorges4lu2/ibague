@@ -3,15 +3,6 @@
   <channel id="Baltimore Orioles vs. Atlanta Braves">
     <display-name lang="en">Baltimore Orioles vs. Atlanta Braves</display-name>
   </channel>
-  <channel id="Storm at Liberty">
-    <display-name lang="en">Storm at Liberty</display-name>
-  </channel>
-  <channel id="F1: British Grand Prix (Race, Sky Sports Feed)">
-    <display-name lang="en">F1: British Grand Prix (Race, Sky Sports Feed)</display-name>
-  </channel>
-  <channel id="F1: British Grand Prix (Race, F1TV Feed)">
-    <display-name lang="en">F1: British Grand Prix (Race, F1TV Feed)</display-name>
-  </channel>
   <channel id="Boston Red Sox vs. Washington Nationals">
     <display-name lang="en">Boston Red Sox vs. Washington Nationals</display-name>
   </channel>
@@ -26,6 +17,9 @@
   </channel>
   <channel id="Milwaukee Brewers vs. Miami Marlins">
     <display-name lang="en">Milwaukee Brewers vs. Miami Marlins</display-name>
+  </channel>
+  <channel id="Storm at Liberty">
+    <display-name lang="en">Storm at Liberty</display-name>
   </channel>
   <channel id="Tampa Bay Rays vs. Minnesota Twins">
     <display-name lang="en">Tampa Bay Rays vs. Minnesota Twins</display-name>
@@ -92,32 +86,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="Storm at Liberty" stop="20250706235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="F1: British Grand Prix (Race, Sky Sports Feed)" stop="20250706235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="F1: British Grand Prix (Race, F1TV Feed)" stop="20250706235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250706000000 -0500" channel="Boston Red Sox vs. Washington Nationals" stop="20250706235959 -0500">
-    <title>12:35 PM 06/07/25 - Boston Red Sox vs. Washington Nationals</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -125,7 +95,7 @@
     </audio>
   </programme>
   <programme start="20250706000000 -0500" channel="Cincinnati Reds vs. Philadelphia Phillies" stop="20250706235959 -0500">
-    <title>12:35 PM 06/07/25 - Cincinnati Reds vs. Philadelphia Phillies</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -133,7 +103,7 @@
     </audio>
   </programme>
   <programme start="20250706000000 -0500" channel="Los Angeles Angels vs. Toronto Blue Jays" stop="20250706235959 -0500">
-    <title>12:37 PM 06/07/25 - Los Angeles Angels vs. Toronto Blue Jays</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -141,7 +111,7 @@
     </audio>
   </programme>
   <programme start="20250706000000 -0500" channel="Detroit Tigers vs. Cleveland Guardians" stop="20250706235959 -0500">
-    <title>12:40 PM 06/07/25 - Detroit Tigers vs. Cleveland Guardians</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -149,7 +119,15 @@
     </audio>
   </programme>
   <programme start="20250706000000 -0500" channel="Milwaukee Brewers vs. Miami Marlins" stop="20250706235959 -0500">
-    <title>12:40 PM 06/07/25 - Milwaukee Brewers vs. Miami Marlins</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="Storm at Liberty" stop="20250706235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
