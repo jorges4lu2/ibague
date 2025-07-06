@@ -48,11 +48,20 @@
   <channel id="San Francisco Giants vs. Athletics">
     <display-name lang="en">San Francisco Giants vs. Athletics</display-name>
   </channel>
+  <channel id="Storm at Liberty">
+    <display-name lang="en">Storm at Liberty</display-name>
+  </channel>
   <channel id="Aces at Sun">
     <display-name lang="en">Aces at Sun</display-name>
   </channel>
   <channel id="Lakers at Heat">
     <display-name lang="en">Lakers at Heat</display-name>
+  </channel>
+  <channel id="Spurs at Warriors">
+    <display-name lang="en">Spurs at Warriors</display-name>
+  </channel>
+  <channel id="Sky at Lynx">
+    <display-name lang="en">Sky at Lynx</display-name>
   </channel>
   <channel id="USA vs Mexico">
     <display-name lang="en">USA vs Mexico</display-name>
@@ -203,6 +212,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250706000000 -0500" channel="Storm at Liberty" stop="20250706235959 -0500">
+    <title>12:00 PM 06/07/25 - Storm at Liberty</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250706000000 -0500" channel="Aces at Sun" stop="20250706235959 -0500">
     <title>03:00 PM 06/07/25 - Aces at Sun</title>
     <date>2025</date>
@@ -213,6 +230,22 @@
   </programme>
   <programme start="20250706000000 -0500" channel="Lakers at Heat" stop="20250706235959 -0500">
     <title>03:30 PM 06/07/25 - Lakers at Heat</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="Spurs at Warriors" stop="20250706235959 -0500">
+    <title>05:30 PM 06/07/25 - Spurs at Warriors</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="Sky at Lynx" stop="20250706235959 -0500">
+    <title>06:00 PM 06/07/25 - Sky at Lynx</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
