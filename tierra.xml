@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250706 -0500">
-  <channel id="Chicago White Sox vs. Colorado Rockies">
-    <display-name lang="en">Chicago White Sox vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="Houston Astros vs. Los Angeles Dodgers">
     <display-name lang="en">Houston Astros vs. Los Angeles Dodgers</display-name>
   </channel>
@@ -12,20 +9,11 @@
   <channel id="Pittsburgh Pirates vs. Seattle Mariners">
     <display-name lang="en">Pittsburgh Pirates vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="Aces at Sun">
-    <display-name lang="en">Aces at Sun</display-name>
-  </channel>
-  <channel id="Lakers at Heat">
-    <display-name lang="en">Lakers at Heat</display-name>
-  </channel>
   <channel id="St. Louis Cardinals vs. Chicago Cubs">
     <display-name lang="en">St. Louis Cardinals vs. Chicago Cubs</display-name>
   </channel>
-  <channel id="Texas Rangers vs. San Diego Padres">
-    <display-name lang="en">Texas Rangers vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Athletics">
-    <display-name lang="en">San Francisco Giants vs. Athletics</display-name>
+  <channel id="Lakers at Heat">
+    <display-name lang="en">Lakers at Heat</display-name>
   </channel>
   <channel id="Spurs at Warriors">
     <display-name lang="en">Spurs at Warriors</display-name>
@@ -38,6 +26,12 @@
   </channel>
   <channel id="USA vs Mexico">
     <display-name lang="en">USA vs Mexico</display-name>
+  </channel>
+  <channel id="Texas Rangers vs. San Diego Padres">
+    <display-name lang="en">Texas Rangers vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. Athletics">
+    <display-name lang="en">San Francisco Giants vs. Athletics</display-name>
   </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
@@ -54,14 +48,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250706000000 -0500" channel="Chicago White Sox vs. Colorado Rockies" stop="20250706235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250706000000 -0500" channel="Houston Astros vs. Los Angeles Dodgers" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -86,7 +72,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="Aces at Sun" stop="20250706235959 -0500">
+  <programme start="20250706000000 -0500" channel="St. Louis Cardinals vs. Chicago Cubs" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -102,8 +88,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="St. Louis Cardinals vs. Chicago Cubs" stop="20250706235959 -0500">
-    <title>05:10 PM 06/07/25 - St. Louis Cardinals vs. Chicago Cubs</title>
+  <programme start="20250706000000 -0500" channel="Spurs at Warriors" stop="20250706235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="Sky at Lynx" stop="20250706235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="USA vs Mexico" stop="20250706235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="USA vs Mexico" stop="20250706235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -120,38 +130,6 @@
   </programme>
   <programme start="20250706000000 -0500" channel="San Francisco Giants vs. Athletics" stop="20250706235959 -0500">
     <title>09:05 PM 06/07/25 - San Francisco Giants vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Spurs at Warriors" stop="20250706235959 -0500">
-    <title>05:30 PM 06/07/25 - Spurs at Warriors</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Sky at Lynx" stop="20250706235959 -0500">
-    <title>06:00 PM 06/07/25 - Sky at Lynx</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="USA vs Mexico" stop="20250706235959 -0500">
-    <title>06:00 PM 06/07/25 - USA vs Mexico</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="USA vs Mexico" stop="20250706235959 -0500">
-    <title>06:00 PM 06/07/25 - USA vs Mexico</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
