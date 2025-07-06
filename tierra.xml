@@ -18,11 +18,11 @@
   <channel id="Tampa Bay Rays vs. Minnesota Twins">
     <display-name lang="en">Tampa Bay Rays vs. Minnesota Twins</display-name>
   </channel>
-  <channel id="Storm at Liberty">
-    <display-name lang="en">Storm at Liberty</display-name>
-  </channel>
   <channel id="Chicago White Sox vs. Colorado Rockies">
     <display-name lang="en">Chicago White Sox vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="Aces at Sun">
+    <display-name lang="en">Aces at Sun</display-name>
   </channel>
   <channel id="Houston Astros vs. Los Angeles Dodgers">
     <display-name lang="en">Houston Astros vs. Los Angeles Dodgers</display-name>
@@ -41,9 +41,6 @@
   </channel>
   <channel id="San Francisco Giants vs. Athletics">
     <display-name lang="en">San Francisco Giants vs. Athletics</display-name>
-  </channel>
-  <channel id="Aces at Sun">
-    <display-name lang="en">Aces at Sun</display-name>
   </channel>
   <channel id="Lakers at Heat">
     <display-name lang="en">Lakers at Heat</display-name>
@@ -123,7 +120,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="Storm at Liberty" stop="20250706235959 -0500">
+  <programme start="20250706000000 -0500" channel="Chicago White Sox vs. Colorado Rockies" stop="20250706235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -131,8 +128,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="Chicago White Sox vs. Colorado Rockies" stop="20250706235959 -0500">
-    <title>02:10 PM 06/07/25 - Chicago White Sox vs. Colorado Rockies</title>
+  <programme start="20250706000000 -0500" channel="Aces at Sun" stop="20250706235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -181,14 +178,6 @@
   </programme>
   <programme start="20250706000000 -0500" channel="San Francisco Giants vs. Athletics" stop="20250706235959 -0500">
     <title>09:05 PM 06/07/25 - San Francisco Giants vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250706000000 -0500" channel="Aces at Sun" stop="20250706235959 -0500">
-    <title>03:00 PM 06/07/25 - Aces at Sun</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
