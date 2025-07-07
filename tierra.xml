@@ -6,6 +6,15 @@
   <channel id="San Francisco Giants vs. Athletics">
     <display-name lang="en">San Francisco Giants vs. Athletics</display-name>
   </channel>
+  <channel id="Chelsea vs. Fluminense">
+    <display-name lang="en">Chelsea vs. Fluminense</display-name>
+  </channel>
+  <channel id="Real Madrid vs. Paris Saint-Germain">
+    <display-name lang="en">Real Madrid vs. Paris Saint-Germain</display-name>
+  </channel>
+  <channel id="Inter Miami CF vs. New England Revolution">
+    <display-name lang="en">Inter Miami CF vs. New England Revolution</display-name>
+  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -31,6 +40,30 @@
   </programme>
   <programme start="20250706000000 -0500" channel="San Francisco Giants vs. Athletics" stop="20250706235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="Chelsea vs. Fluminense" stop="20250706235959 -0500">
+    <title>02:00 PM 08/07/25 - Chelsea vs. Fluminense</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="Real Madrid vs. Paris Saint-Germain" stop="20250706235959 -0500">
+    <title>02:00 PM 09/07/25 - Real Madrid vs. Paris Saint-Germain</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250706000000 -0500" channel="Inter Miami CF vs. New England Revolution" stop="20250706235959 -0500">
+    <title>06:30 PM 09/07/25 - Inter Miami CF vs. New England Revolution</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
