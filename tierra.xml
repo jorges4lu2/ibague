@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250706 -0500">
-  <channel id="Texas Rangers vs. San Diego Padres">
-    <display-name lang="en">Texas Rangers vs. San Diego Padres</display-name>
-  </channel>
+<tv date="20250707 -0500">
   <channel id="San Francisco Giants vs. Athletics">
     <display-name lang="en">San Francisco Giants vs. Athletics</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 20 - Board 1">
+    <display-name lang="en">PDC: Players Championship 20 - Board 1</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 20 - Board 2">
+    <display-name lang="en">PDC: Players Championship 20 - Board 2</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 20 - Board 3">
+    <display-name lang="en">PDC: Players Championship 20 - Board 3</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 20 - Board 4">
+    <display-name lang="en">PDC: Players Championship 20 - Board 4</display-name>
   </channel>
   <channel id="Chelsea vs. Fluminense">
     <display-name lang="en">Chelsea vs. Fluminense</display-name>
@@ -30,7 +39,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250706000000 -0500" channel="Texas Rangers vs. San Diego Padres" stop="20250706235959 -0500">
+  <programme start="20250707000000 -0500" channel="San Francisco Giants vs. Athletics" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -38,15 +47,39 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="San Francisco Giants vs. Athletics" stop="20250706235959 -0500">
-    <title>Live</title>
+  <programme start="20250707000000 -0500" channel="PDC: Players Championship 20 - Board 1" stop="20250707235959 -0500">
+    <title>07:00 AM 08/07/25 - PDC: Players Championship 20 - Board 1</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="Chelsea vs. Fluminense" stop="20250706235959 -0500">
+  <programme start="20250707000000 -0500" channel="PDC: Players Championship 20 - Board 2" stop="20250707235959 -0500">
+    <title>07:00 AM 08/07/25 - PDC: Players Championship 20 - Board 2</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250707000000 -0500" channel="PDC: Players Championship 20 - Board 3" stop="20250707235959 -0500">
+    <title>07:00 AM 08/07/25 - PDC: Players Championship 20 - Board 3</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250707000000 -0500" channel="PDC: Players Championship 20 - Board 4" stop="20250707235959 -0500">
+    <title>07:00 AM 08/07/25 - PDC: Players Championship 20 - Board 4</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250707000000 -0500" channel="Chelsea vs. Fluminense" stop="20250707235959 -0500">
     <title>02:00 PM 08/07/25 - Chelsea vs. Fluminense</title>
     <date>2025</date>
     <category>Sports</category>
@@ -54,7 +87,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="Real Madrid vs. Paris Saint-Germain" stop="20250706235959 -0500">
+  <programme start="20250707000000 -0500" channel="Real Madrid vs. Paris Saint-Germain" stop="20250707235959 -0500">
     <title>02:00 PM 09/07/25 - Real Madrid vs. Paris Saint-Germain</title>
     <date>2025</date>
     <category>Sports</category>
@@ -62,7 +95,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="Inter Miami CF vs. New England Revolution" stop="20250706235959 -0500">
+  <programme start="20250707000000 -0500" channel="Inter Miami CF vs. New England Revolution" stop="20250707235959 -0500">
     <title>06:30 PM 09/07/25 - Inter Miami CF vs. New England Revolution</title>
     <date>2025</date>
     <category>Sports</category>
@@ -70,7 +103,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="24/7 South Park" stop="20250706235959 -0500">
+  <programme start="20250707000000 -0500" channel="24/7 South Park" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -78,7 +111,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="24/7 COWS" stop="20250706235959 -0500">
+  <programme start="20250707000000 -0500" channel="24/7 COWS" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -86,7 +119,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="24/7 Family Guy" stop="20250706235959 -0500">
+  <programme start="20250707000000 -0500" channel="24/7 Family Guy" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -94,7 +127,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="24/7 The Simpsons" stop="20250706235959 -0500">
+  <programme start="20250707000000 -0500" channel="24/7 The Simpsons" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -102,7 +135,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250706000000 -0500" channel="(North) Korean Central Television" stop="20250706235959 -0500">
+  <programme start="20250707000000 -0500" channel="(North) Korean Central Television" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
