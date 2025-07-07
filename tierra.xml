@@ -3,6 +3,9 @@
   <channel id="Tampa Bay Rays vs. Detroit Tigers">
     <display-name lang="en">Tampa Bay Rays vs. Detroit Tigers</display-name>
   </channel>
+  <channel id="Thunder at 76ers">
+    <display-name lang="en">Thunder at 76ers</display-name>
+  </channel>
   <channel id="Colorado Rockies vs. Boston Red Sox">
     <display-name lang="en">Colorado Rockies vs. Boston Red Sox</display-name>
   </channel>
@@ -29,9 +32,6 @@
   </channel>
   <channel id="Philadelphia Phillies vs. San Francisco Giants">
     <display-name lang="en">Philadelphia Phillies vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Thunder at 76ers">
-    <display-name lang="en">Thunder at 76ers</display-name>
   </channel>
   <channel id="Valkyries at Dream">
     <display-name lang="en">Valkyries at Dream</display-name>
@@ -97,7 +97,15 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250707000000 -0500" channel="Tampa Bay Rays vs. Detroit Tigers" stop="20250707235959 -0500">
-    <title>05:40 PM 07/07/25 - Tampa Bay Rays vs. Detroit Tigers</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250707000000 -0500" channel="Thunder at 76ers" stop="20250707235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -170,14 +178,6 @@
   </programme>
   <programme start="20250707000000 -0500" channel="Philadelphia Phillies vs. San Francisco Giants" stop="20250707235959 -0500">
     <title>08:45 PM 07/07/25 - Philadelphia Phillies vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250707000000 -0500" channel="Thunder at 76ers" stop="20250707235959 -0500">
-    <title>06:00 PM 07/07/25 - Thunder at 76ers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
