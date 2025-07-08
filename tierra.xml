@@ -12,9 +12,6 @@
   <channel id="PDC: Players Championship 20 - Board 4">
     <display-name lang="en">PDC: Players Championship 20 - Board 4</display-name>
   </channel>
-  <channel id="Chelsea vs. Fluminense">
-    <display-name lang="en">Chelsea vs. Fluminense</display-name>
-  </channel>
   <channel id="New York Mets vs. Baltimore Orioles">
     <display-name lang="en">New York Mets vs. Baltimore Orioles</display-name>
   </channel>
@@ -59,6 +56,9 @@
   </channel>
   <channel id="Atlanta Braves vs. Athletics">
     <display-name lang="en">Atlanta Braves vs. Athletics</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Grizzlies at 76ers">
     <display-name lang="en">Grizzlies at 76ers</display-name>
@@ -148,14 +148,6 @@
     </audio>
   </programme>
   <programme start="20250708000000 -0500" channel="PDC: Players Championship 20 - Board 4" stop="20250708235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250708000000 -0500" channel="Chelsea vs. Fluminense" stop="20250708235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -277,6 +269,14 @@
   </programme>
   <programme start="20250708000000 -0500" channel="Atlanta Braves vs. Athletics" stop="20250708235959 -0500">
     <title>09:05 PM 08/07/25 - Atlanta Braves vs. Athletics</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250708000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250708235959 -0500">
+    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
