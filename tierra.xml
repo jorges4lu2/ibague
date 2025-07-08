@@ -18,17 +18,20 @@
   <channel id="Toronto Blue Jays vs. Chicago White Sox">
     <display-name lang="en">Toronto Blue Jays vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Cleveland Guardians vs. Houston Astros">
+    <display-name lang="en">Cleveland Guardians vs. Houston Astros</display-name>
+  </channel>
   <channel id="Thunder at 76ers">
     <display-name lang="en">Thunder at 76ers</display-name>
   </channel>
   <channel id="Valkyries at Dream">
     <display-name lang="en">Valkyries at Dream</display-name>
   </channel>
+  <channel id="Grizzlies at Jazz">
+    <display-name lang="en">Grizzlies at Jazz</display-name>
+  </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Houston Astros">
-    <display-name lang="en">Cleveland Guardians vs. Houston Astros</display-name>
   </channel>
   <channel id="Texas Rangers vs. Los Angeles Angels">
     <display-name lang="en">Texas Rangers vs. Los Angeles Angels</display-name>
@@ -38,9 +41,6 @@
   </channel>
   <channel id="Philadelphia Phillies vs. San Francisco Giants">
     <display-name lang="en">Philadelphia Phillies vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Grizzlies at Jazz">
-    <display-name lang="en">Grizzlies at Jazz</display-name>
   </channel>
   <channel id="Wings at Mercury">
     <display-name lang="en">Wings at Mercury</display-name>
@@ -144,6 +144,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250707000000 -0500" channel="Cleveland Guardians vs. Houston Astros" stop="20250707235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250707000000 -0500" channel="Thunder at 76ers" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -160,7 +168,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250707000000 -0500" channel="WWE: Monday Night RAW" stop="20250707235959 -0500">
+  <programme start="20250707000000 -0500" channel="Grizzlies at Jazz" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -168,8 +176,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250707000000 -0500" channel="Cleveland Guardians vs. Houston Astros" stop="20250707235959 -0500">
-    <title>07:10 PM 07/07/25 - Cleveland Guardians vs. Houston Astros</title>
+  <programme start="20250707000000 -0500" channel="WWE: Monday Night RAW" stop="20250707235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -194,14 +202,6 @@
   </programme>
   <programme start="20250707000000 -0500" channel="Philadelphia Phillies vs. San Francisco Giants" stop="20250707235959 -0500">
     <title>08:45 PM 07/07/25 - Philadelphia Phillies vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250707000000 -0500" channel="Grizzlies at Jazz" stop="20250707235959 -0500">
-    <title>08:00 PM 07/07/25 - Grizzlies at Jazz</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
