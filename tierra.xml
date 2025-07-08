@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250707 -0500">
-  <channel id="Tampa Bay Rays vs. Detroit Tigers">
-    <display-name lang="en">Tampa Bay Rays vs. Detroit Tigers</display-name>
-  </channel>
   <channel id="Colorado Rockies vs. Boston Red Sox">
     <display-name lang="en">Colorado Rockies vs. Boston Red Sox</display-name>
   </channel>
@@ -21,18 +18,6 @@
   <channel id="Cleveland Guardians vs. Houston Astros">
     <display-name lang="en">Cleveland Guardians vs. Houston Astros</display-name>
   </channel>
-  <channel id="Thunder at 76ers">
-    <display-name lang="en">Thunder at 76ers</display-name>
-  </channel>
-  <channel id="Valkyries at Dream">
-    <display-name lang="en">Valkyries at Dream</display-name>
-  </channel>
-  <channel id="Grizzlies at Jazz">
-    <display-name lang="en">Grizzlies at Jazz</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
   <channel id="Texas Rangers vs. Los Angeles Angels">
     <display-name lang="en">Texas Rangers vs. Los Angeles Angels</display-name>
   </channel>
@@ -42,8 +27,17 @@
   <channel id="Philadelphia Phillies vs. San Francisco Giants">
     <display-name lang="en">Philadelphia Phillies vs. San Francisco Giants</display-name>
   </channel>
+  <channel id="Valkyries at Dream">
+    <display-name lang="en">Valkyries at Dream</display-name>
+  </channel>
+  <channel id="Grizzlies at Jazz">
+    <display-name lang="en">Grizzlies at Jazz</display-name>
+  </channel>
   <channel id="Wings at Mercury">
     <display-name lang="en">Wings at Mercury</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="PDC: Players Championship 20 - Board 1">
     <display-name lang="en">PDC: Players Championship 20 - Board 1</display-name>
@@ -96,14 +90,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250707000000 -0500" channel="Tampa Bay Rays vs. Detroit Tigers" stop="20250707235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250707000000 -0500" channel="Colorado Rockies vs. Boston Red Sox" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -152,7 +138,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250707000000 -0500" channel="Thunder at 76ers" stop="20250707235959 -0500">
+  <programme start="20250707000000 -0500" channel="Texas Rangers vs. Los Angeles Angels" stop="20250707235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250707000000 -0500" channel="Arizona Diamondbacks vs. San Diego Padres" stop="20250707235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250707000000 -0500" channel="Philadelphia Phillies vs. San Francisco Giants" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -176,7 +178,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250707000000 -0500" channel="WWE: Monday Night RAW" stop="20250707235959 -0500">
+  <programme start="20250707000000 -0500" channel="Wings at Mercury" stop="20250707235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -184,32 +186,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250707000000 -0500" channel="Texas Rangers vs. Los Angeles Angels" stop="20250707235959 -0500">
-    <title>08:38 PM 07/07/25 - Texas Rangers vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250707000000 -0500" channel="Arizona Diamondbacks vs. San Diego Padres" stop="20250707235959 -0500">
-    <title>08:40 PM 07/07/25 - Arizona Diamondbacks vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250707000000 -0500" channel="Philadelphia Phillies vs. San Francisco Giants" stop="20250707235959 -0500">
-    <title>08:45 PM 07/07/25 - Philadelphia Phillies vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250707000000 -0500" channel="Wings at Mercury" stop="20250707235959 -0500">
-    <title>09:00 PM 07/07/25 - Wings at Mercury</title>
+  <programme start="20250707000000 -0500" channel="WWE: Monday Night RAW" stop="20250707235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
