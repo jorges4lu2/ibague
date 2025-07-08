@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250708 -0500">
+  <channel id="Sky at Mystics">
+    <display-name lang="en">Sky at Mystics</display-name>
+  </channel>
   <channel id="PDC: Players Championship 20 - Board 1">
     <display-name lang="en">PDC: Players Championship 20 - Board 1</display-name>
   </channel>
@@ -56,9 +59,6 @@
   </channel>
   <channel id="Atlanta Braves vs. Athletics">
     <display-name lang="en">Atlanta Braves vs. Athletics</display-name>
-  </channel>
-  <channel id="Sky at Mystics">
-    <display-name lang="en">Sky at Mystics</display-name>
   </channel>
   <channel id="Grizzlies at 76ers">
     <display-name lang="en">Grizzlies at 76ers</display-name>
@@ -126,6 +126,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250708000000 -0500" channel="Sky at Mystics" stop="20250708235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250708000000 -0500" channel="PDC: Players Championship 20 - Board 1" stop="20250708235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -272,14 +280,6 @@
   </programme>
   <programme start="20250708000000 -0500" channel="Atlanta Braves vs. Athletics" stop="20250708235959 -0500">
     <title>09:05 PM 08/07/25 - Atlanta Braves vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250708000000 -0500" channel="Sky at Mystics" stop="20250708235959 -0500">
-    <title>10:30 AM 08/07/25 - Sky at Mystics</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
