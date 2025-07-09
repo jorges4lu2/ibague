@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250709 -0500">
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Lynx at Mercury">
     <display-name lang="en">Lynx at Mercury</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Wings at Sky">
     <display-name lang="en">Wings at Sky</display-name>
@@ -39,16 +39,16 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250709000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250709235959 -0500">
-    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
+  <programme start="20250709000000 -0500" channel="Lynx at Mercury" stop="20250709235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250709000000 -0500" channel="Lynx at Mercury" stop="20250709235959 -0500">
-    <title>02:30 PM 09/07/25 - Lynx at Mercury</title>
+  <programme start="20250709000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250709235959 -0500">
+    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
