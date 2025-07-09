@@ -30,6 +30,9 @@
   <channel id="Washington Nationals vs. St. Louis Cardinals">
     <display-name lang="en">Washington Nationals vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Cleveland Guardians vs. Houston Astros">
+    <display-name lang="en">Cleveland Guardians vs. Houston Astros</display-name>
+  </channel>
   <channel id="Grizzlies at 76ers">
     <display-name lang="en">Grizzlies at 76ers</display-name>
   </channel>
@@ -39,14 +42,14 @@
   <channel id="Aces at Liberty">
     <display-name lang="en">Aces at Liberty</display-name>
   </channel>
+  <channel id="Thunder at Jazz">
+    <display-name lang="en">Thunder at Jazz</display-name>
+  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Houston Astros">
-    <display-name lang="en">Cleveland Guardians vs. Houston Astros</display-name>
   </channel>
   <channel id="Texas Rangers vs. Los Angeles Angels">
     <display-name lang="en">Texas Rangers vs. Los Angeles Angels</display-name>
@@ -59,9 +62,6 @@
   </channel>
   <channel id="Atlanta Braves vs. Athletics">
     <display-name lang="en">Atlanta Braves vs. Athletics</display-name>
-  </channel>
-  <channel id="Thunder at Jazz">
-    <display-name lang="en">Thunder at Jazz</display-name>
   </channel>
   <channel id="Lakers at Spurs">
     <display-name lang="en">Lakers at Spurs</display-name>
@@ -191,6 +191,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250708000000 -0500" channel="Cleveland Guardians vs. Houston Astros" stop="20250708235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250708000000 -0500" channel="Grizzlies at 76ers" stop="20250708235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -215,6 +223,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250708000000 -0500" channel="Thunder at Jazz" stop="20250708235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250708000000 -0500" channel="WWE: NXT" stop="20250708235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -225,14 +241,6 @@
   </programme>
   <programme start="20250708000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250708235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250708000000 -0500" channel="Cleveland Guardians vs. Houston Astros" stop="20250708235959 -0500">
-    <title>07:10 PM 08/07/25 - Cleveland Guardians vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -265,14 +273,6 @@
   </programme>
   <programme start="20250708000000 -0500" channel="Atlanta Braves vs. Athletics" stop="20250708235959 -0500">
     <title>09:05 PM 08/07/25 - Atlanta Braves vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250708000000 -0500" channel="Thunder at Jazz" stop="20250708235959 -0500">
-    <title>08:00 PM 08/07/25 - Thunder at Jazz</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
