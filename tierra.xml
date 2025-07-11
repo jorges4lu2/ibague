@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250711 -0500">
-  <channel id="Cleveland Guardians vs. Chicago White Sox">
-    <display-name lang="en">Cleveland Guardians vs. Chicago White Sox</display-name>
-  </channel>
-  <channel id="Grizzlies at Celtics">
-    <display-name lang="en">Grizzlies at Celtics</display-name>
-  </channel>
   <channel id="Hawks at Heat">
     <display-name lang="en">Hawks at Heat</display-name>
   </channel>
   <channel id="Knicks at Pistons">
     <display-name lang="en">Knicks at Pistons</display-name>
+  </channel>
+  <channel id="Jazz at Hornets">
+    <display-name lang="en">Jazz at Hornets</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
@@ -60,9 +57,6 @@
   <channel id="Los Angeles Dodgers vs. San Francisco Giants">
     <display-name lang="en">Los Angeles Dodgers vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="Jazz at Hornets">
-    <display-name lang="en">Jazz at Hornets</display-name>
-  </channel>
   <channel id="Dream at Fever">
     <display-name lang="en">Dream at Fever</display-name>
   </channel>
@@ -80,6 +74,9 @@
   </channel>
   <channel id="Trail Blazers at Warriors">
     <display-name lang="en">Trail Blazers at Warriors</display-name>
+  </channel>
+  <channel id="Katie Taylor vs. Amanda Serrano 3">
+    <display-name lang="en">Katie Taylor vs. Amanda Serrano 3</display-name>
   </channel>
   <channel id="PDC: Boomerang Tours Bash 2025 - Board 3">
     <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 3</display-name>
@@ -120,22 +117,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250711000000 -0500" channel="Cleveland Guardians vs. Chicago White Sox" stop="20250711235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Grizzlies at Celtics" stop="20250711235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250711000000 -0500" channel="Hawks at Heat" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -145,6 +126,14 @@
     </audio>
   </programme>
   <programme start="20250711000000 -0500" channel="Knicks at Pistons" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Jazz at Hornets" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -280,14 +269,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250711000000 -0500" channel="Jazz at Hornets" stop="20250711235959 -0500">
-    <title>06:00 PM 11/07/25 - Jazz at Hornets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250711000000 -0500" channel="Dream at Fever" stop="20250711235959 -0500">
     <title>06:30 PM 11/07/25 - Dream at Fever</title>
     <date>2025</date>
@@ -330,6 +311,14 @@
   </programme>
   <programme start="20250711000000 -0500" channel="Trail Blazers at Warriors" stop="20250711235959 -0500">
     <title>10:00 PM 11/07/25 - Trail Blazers at Warriors</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Katie Taylor vs. Amanda Serrano 3" stop="20250711235959 -0500">
+    <title>07:00 PM 11/07/25 - Katie Taylor vs. Amanda Serrano 3</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
