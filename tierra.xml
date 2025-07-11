@@ -6,6 +6,9 @@
   <channel id="Grizzlies at Celtics">
     <display-name lang="en">Grizzlies at Celtics</display-name>
   </channel>
+  <channel id="Hawks at Heat">
+    <display-name lang="en">Hawks at Heat</display-name>
+  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
@@ -53,9 +56,6 @@
   </channel>
   <channel id="Los Angeles Dodgers vs. San Francisco Giants">
     <display-name lang="en">Los Angeles Dodgers vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Hawks at Heat">
-    <display-name lang="en">Hawks at Heat</display-name>
   </channel>
   <channel id="Knicks at Pistons">
     <display-name lang="en">Knicks at Pistons</display-name>
@@ -129,6 +129,14 @@
     </audio>
   </programme>
   <programme start="20250711000000 -0500" channel="Grizzlies at Celtics" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Hawks at Heat" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -258,14 +266,6 @@
   </programme>
   <programme start="20250711000000 -0500" channel="Los Angeles Dodgers vs. San Francisco Giants" stop="20250711235959 -0500">
     <title>09:15 PM 11/07/25 - Los Angeles Dodgers vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Hawks at Heat" stop="20250711235959 -0500">
-    <title>03:30 PM 11/07/25 - Hawks at Heat</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
