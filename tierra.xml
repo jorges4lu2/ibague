@@ -1,10 +1,28 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250710 -0500">
+<tv date="20250711 -0500">
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="PDC: 2025 Baltic Sea Darts Open - Day One">
     <display-name lang="en">PDC: 2025 Baltic Sea Darts Open - Day One</display-name>
+  </channel>
+  <channel id="PDC: 2025 Baltic Sea Darts Open - Day Two">
+    <display-name lang="en">PDC: 2025 Baltic Sea Darts Open - Day Two</display-name>
+  </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025 - Board 3">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 3</display-name>
+  </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025 - Board 4">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 4</display-name>
+  </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025 - Board 2">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 2</display-name>
+  </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025</display-name>
+  </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025 - Board 5">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 5</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -27,7 +45,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250710000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250710235959 -0500">
+  <programme start="20250711000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250711235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
@@ -35,7 +53,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250710000000 -0500" channel="PDC: 2025 Baltic Sea Darts Open - Day One" stop="20250710235959 -0500">
+  <programme start="20250711000000 -0500" channel="PDC: 2025 Baltic Sea Darts Open - Day One" stop="20250711235959 -0500">
     <title>07:00 AM 11/07/25 - PDC: 2025 Baltic Sea Darts Open - Day One</title>
     <date>2025</date>
     <category>Sports</category>
@@ -43,7 +61,55 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250710000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250710235959 -0500">
+  <programme start="20250711000000 -0500" channel="PDC: 2025 Baltic Sea Darts Open - Day Two" stop="20250711235959 -0500">
+    <title>07:00 AM 12/07/25 - PDC: 2025 Baltic Sea Darts Open - Day Two</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 3" stop="20250711235959 -0500">
+    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025 - Board 3</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 4" stop="20250711235959 -0500">
+    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025 - Board 4</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 2" stop="20250711235959 -0500">
+    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025 - Board 2</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="PDC: Boomerang Tours Bash 2025" stop="20250711235959 -0500">
+    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 5" stop="20250711235959 -0500">
+    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025 - Board 5</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250711235959 -0500">
     <title>07:00 PM 11/07/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
@@ -51,7 +117,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250710000000 -0500" channel="AEW: Saturday Night Collision" stop="20250710235959 -0500">
+  <programme start="20250711000000 -0500" channel="AEW: Saturday Night Collision" stop="20250711235959 -0500">
     <title>07:00 PM 12/07/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -59,7 +125,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250710000000 -0500" channel="24/7 South Park" stop="20250710235959 -0500">
+  <programme start="20250711000000 -0500" channel="24/7 South Park" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -67,7 +133,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250710000000 -0500" channel="24/7 COWS" stop="20250710235959 -0500">
+  <programme start="20250711000000 -0500" channel="24/7 COWS" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -75,7 +141,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250710000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204; Guy" stop="20250710235959 -0500">
+  <programme start="20250711000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204; Guy" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -83,7 +149,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250710000000 -0500" channel="24/7 The Simpsons" stop="20250710235959 -0500">
+  <programme start="20250711000000 -0500" channel="24/7 The Simpsons" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -91,7 +157,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250710000000 -0500" channel="(North) Korean Central Television" stop="20250710235959 -0500">
+  <programme start="20250711000000 -0500" channel="(North) Korean Central Television" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
