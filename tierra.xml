@@ -1,13 +1,31 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250712 -0500">
+  <channel id="Lynx at Sky">
+    <display-name lang="en">Lynx at Sky</display-name>
+  </channel>
   <channel id="PDC: 2025 Baltic Sea Darts Open - Day Two">
     <display-name lang="en">PDC: 2025 Baltic Sea Darts Open - Day Two</display-name>
   </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025 - Board 3">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 3</display-name>
+  </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025 - Board 4">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 4</display-name>
+  </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025 - Board 2">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 2</display-name>
+  </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025</display-name>
+  </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025 - Board 5">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 5</display-name>
+  </channel>
+  <channel id="PDC: Boomerang Tours Bash 2025 - Board 1">
+    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 1</display-name>
+  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Lynx at Sky">
-    <display-name lang="en">Lynx at Sky</display-name>
   </channel>
   <channel id="Cavaliers at Bucks">
     <display-name lang="en">Cavaliers at Bucks</display-name>
@@ -36,23 +54,8 @@
   <channel id="Grizzlies at Trail Blazers">
     <display-name lang="en">Grizzlies at Trail Blazers</display-name>
   </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025 - Board 3">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 3</display-name>
-  </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025 - Board 4">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 4</display-name>
-  </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025 - Board 2">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 2</display-name>
-  </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025</display-name>
-  </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025 - Board 5">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 5</display-name>
-  </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025 - Board 1">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 1</display-name>
+  <channel id="Boxing: Berlanga vs Sheeraz">
+    <display-name lang="en">Boxing: Berlanga vs Sheeraz</display-name>
   </channel>
   <channel id="PDC: CDC Classic 2025 - Board 3">
     <display-name lang="en">PDC: CDC Classic 2025 - Board 3</display-name>
@@ -87,8 +90,17 @@
   <channel id="PDC: The DartConnect Challenge 2025 - Board 1">
     <display-name lang="en">PDC: The DartConnect Challenge 2025 - Board 1</display-name>
   </channel>
-  <channel id="AEW: Saturday Night Collision">
-    <display-name lang="en">AEW: Saturday Night Collision</display-name>
+  <channel id="Pro Motocross: Spring Creek">
+    <display-name lang="en">Pro Motocross: Spring Creek</display-name>
+  </channel>
+  <channel id="WWE: Great American Bash 2025">
+    <display-name lang="en">WWE: Great American Bash 2025</display-name>
+  </channel>
+  <channel id="AEW: All In Texas 2025">
+    <display-name lang="en">AEW: All In Texas 2025</display-name>
+  </channel>
+  <channel id="WWE: Saturday Night's Main Event">
+    <display-name lang="en">WWE: Saturday Night's Main Event</display-name>
   </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
@@ -105,7 +117,63 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250712000000 -0500" channel="Lynx at Sky" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250712000000 -0500" channel="PDC: 2025 Baltic Sea Darts Open - Day Two" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 3" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 4" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 2" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 5" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 1" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -115,14 +183,6 @@
   </programme>
   <programme start="20250712000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250712235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Lynx at Sky" stop="20250712235959 -0500">
-    <title>12:00 PM 12/07/25 - Lynx at Sky</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -201,48 +261,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 3" stop="20250712235959 -0500">
-    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 4" stop="20250712235959 -0500">
-    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025 - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 2" stop="20250712235959 -0500">
-    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025 - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025" stop="20250712235959 -0500">
-    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 5" stop="20250712235959 -0500">
-    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025 - Board 5</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 1" stop="20250712235959 -0500">
-    <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025 - Board 1</title>
+  <programme start="20250712000000 -0500" channel="Boxing: Berlanga vs Sheeraz" stop="20250712235959 -0500">
+    <title>05:00 PM 12/07/25 - Boxing: Berlanga vs Sheeraz</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -337,8 +357,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="AEW: Saturday Night Collision" stop="20250712235959 -0500">
-    <title>07:00 PM 12/07/25 - AEW: Saturday Night Collision</title>
+  <programme start="20250712000000 -0500" channel="Pro Motocross: Spring Creek" stop="20250712235959 -0500">
+    <title>01:00 PM 12/07/25 - Pro Motocross: Spring Creek</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="WWE: Great American Bash 2025" stop="20250712235959 -0500">
+    <title>02:00 PM 12/07/25 - WWE: Great American Bash 2025</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="AEW: All In Texas 2025" stop="20250712235959 -0500">
+    <title>02:00 PM 12/07/25 - AEW: All In Texas 2025</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="WWE: Saturday Night's Main Event" stop="20250712235959 -0500">
+    <title>07:00 PM 12/07/25 - WWE: Saturday Night's Main Event</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
