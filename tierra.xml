@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250711 -0500">
-  <channel id="Hawks at Heat">
-    <display-name lang="en">Hawks at Heat</display-name>
-  </channel>
-  <channel id="Knicks at Pistons">
-    <display-name lang="en">Knicks at Pistons</display-name>
-  </channel>
-  <channel id="Jazz at Hornets">
-    <display-name lang="en">Jazz at Hornets</display-name>
-  </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Chicago Cubs vs. New York Yankees">
     <display-name lang="en">Chicago Cubs vs. New York Yankees</display-name>
   </channel>
@@ -26,6 +14,27 @@
   </channel>
   <channel id="Tampa Bay Rays vs. Boston Red Sox">
     <display-name lang="en">Tampa Bay Rays vs. Boston Red Sox</display-name>
+  </channel>
+  <channel id="Knicks at Pistons">
+    <display-name lang="en">Knicks at Pistons</display-name>
+  </channel>
+  <channel id="Jazz at Hornets">
+    <display-name lang="en">Jazz at Hornets</display-name>
+  </channel>
+  <channel id="Dream at Fever">
+    <display-name lang="en">Dream at Fever</display-name>
+  </channel>
+  <channel id="Bulls at Raptors">
+    <display-name lang="en">Bulls at Raptors</display-name>
+  </channel>
+  <channel id="Katie Taylor vs. Amanda Serrano 3">
+    <display-name lang="en">Katie Taylor vs. Amanda Serrano 3</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. Chicago White Sox">
     <display-name lang="en">Cleveland Guardians vs. Chicago White Sox</display-name>
@@ -57,12 +66,6 @@
   <channel id="Los Angeles Dodgers vs. San Francisco Giants">
     <display-name lang="en">Los Angeles Dodgers vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="Dream at Fever">
-    <display-name lang="en">Dream at Fever</display-name>
-  </channel>
-  <channel id="Bulls at Raptors">
-    <display-name lang="en">Bulls at Raptors</display-name>
-  </channel>
   <channel id="Wizards at Suns">
     <display-name lang="en">Wizards at Suns</display-name>
   </channel>
@@ -74,9 +77,6 @@
   </channel>
   <channel id="Trail Blazers at Warriors">
     <display-name lang="en">Trail Blazers at Warriors</display-name>
-  </channel>
-  <channel id="Katie Taylor vs. Amanda Serrano 3">
-    <display-name lang="en">Katie Taylor vs. Amanda Serrano 3</display-name>
   </channel>
   <channel id="PDC: Boomerang Tours Bash 2025 - Board 3">
     <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 3</display-name>
@@ -96,9 +96,6 @@
   <channel id="PDC: Boomerang Tours Bash 2025 - Board 1">
     <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 1</display-name>
   </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
@@ -117,7 +114,39 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250711000000 -0500" channel="Hawks at Heat" stop="20250711235959 -0500">
+  <programme start="20250711000000 -0500" channel="Chicago Cubs vs. New York Yankees" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Miami Marlins vs. Baltimore Orioles" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Colorado Rockies vs. Cincinnati Reds" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Seattle Mariners vs. Detroit Tigers" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Tampa Bay Rays vs. Boston Red Sox" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -141,48 +170,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250711000000 -0500" channel="Dream at Fever" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Bulls at Raptors" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Katie Taylor vs. Amanda Serrano 3" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250711000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250711235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Chicago Cubs vs. New York Yankees" stop="20250711235959 -0500">
-    <title>06:05 PM 11/07/25 - Chicago Cubs vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Miami Marlins vs. Baltimore Orioles" stop="20250711235959 -0500">
-    <title>06:05 PM 11/07/25 - Miami Marlins vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Colorado Rockies vs. Cincinnati Reds" stop="20250711235959 -0500">
-    <title>06:10 PM 11/07/25 - Colorado Rockies vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Seattle Mariners vs. Detroit Tigers" stop="20250711235959 -0500">
-    <title>06:10 PM 11/07/25 - Seattle Mariners vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Tampa Bay Rays vs. Boston Red Sox" stop="20250711235959 -0500">
-    <title>06:10 PM 11/07/25 - Tampa Bay Rays vs. Boston Red Sox</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -269,22 +290,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250711000000 -0500" channel="Dream at Fever" stop="20250711235959 -0500">
-    <title>06:30 PM 11/07/25 - Dream at Fever</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Bulls at Raptors" stop="20250711235959 -0500">
-    <title>07:00 PM 11/07/25 - Bulls at Raptors</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250711000000 -0500" channel="Wizards at Suns" stop="20250711235959 -0500">
     <title>08:00 PM 11/07/25 - Wizards at Suns</title>
     <date>2025</date>
@@ -311,14 +316,6 @@
   </programme>
   <programme start="20250711000000 -0500" channel="Trail Blazers at Warriors" stop="20250711235959 -0500">
     <title>10:00 PM 11/07/25 - Trail Blazers at Warriors</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Katie Taylor vs. Amanda Serrano 3" stop="20250711235959 -0500">
-    <title>07:00 PM 11/07/25 - Katie Taylor vs. Amanda Serrano 3</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -367,14 +364,6 @@
   </programme>
   <programme start="20250711000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 1" stop="20250711235959 -0500">
     <title>12:00 PM 12/07/25 - PDC: Boomerang Tours Bash 2025 - Board 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250711235959 -0500">
-    <title>07:00 PM 11/07/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
