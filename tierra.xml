@@ -33,8 +33,11 @@
   <channel id="Atlanta Braves vs. St. Louis Cardinals">
     <display-name lang="en">Atlanta Braves vs. St. Louis Cardinals</display-name>
   </channel>
-  <channel id="Jazz at Hornets">
-    <display-name lang="en">Jazz at Hornets</display-name>
+  <channel id="Arizona Diamondbacks vs. Los Angeles Angels">
+    <display-name lang="en">Arizona Diamondbacks vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="Philadelphia Phillies vs. San Diego Padres">
+    <display-name lang="en">Philadelphia Phillies vs. San Diego Padres</display-name>
   </channel>
   <channel id="Dream at Fever">
     <display-name lang="en">Dream at Fever</display-name>
@@ -45,6 +48,12 @@
   <channel id="Wizards at Suns">
     <display-name lang="en">Wizards at Suns</display-name>
   </channel>
+  <channel id="Sun at Storm">
+    <display-name lang="en">Sun at Storm</display-name>
+  </channel>
+  <channel id="Clippers at Rockets">
+    <display-name lang="en">Clippers at Rockets</display-name>
+  </channel>
   <channel id="Katie Taylor vs. Amanda Serrano 3">
     <display-name lang="en">Katie Taylor vs. Amanda Serrano 3</display-name>
   </channel>
@@ -54,23 +63,11 @@
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
-  <channel id="Arizona Diamondbacks vs. Los Angeles Angels">
-    <display-name lang="en">Arizona Diamondbacks vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. San Diego Padres">
-    <display-name lang="en">Philadelphia Phillies vs. San Diego Padres</display-name>
-  </channel>
   <channel id="Toronto Blue Jays vs. Athletics">
     <display-name lang="en">Toronto Blue Jays vs. Athletics</display-name>
   </channel>
   <channel id="Los Angeles Dodgers vs. San Francisco Giants">
     <display-name lang="en">Los Angeles Dodgers vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Sun at Storm">
-    <display-name lang="en">Sun at Storm</display-name>
-  </channel>
-  <channel id="Clippers at Rockets">
-    <display-name lang="en">Clippers at Rockets</display-name>
   </channel>
   <channel id="Trail Blazers at Warriors">
     <display-name lang="en">Trail Blazers at Warriors</display-name>
@@ -199,7 +196,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250711000000 -0500" channel="Jazz at Hornets" stop="20250711235959 -0500">
+  <programme start="20250711000000 -0500" channel="Arizona Diamondbacks vs. Los Angeles Angels" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Philadelphia Phillies vs. San Diego Padres" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -231,6 +236,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250711000000 -0500" channel="Sun at Storm" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Clippers at Rockets" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250711000000 -0500" channel="Katie Taylor vs. Amanda Serrano 3" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -255,22 +276,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250711000000 -0500" channel="Arizona Diamondbacks vs. Los Angeles Angels" stop="20250711235959 -0500">
-    <title>08:38 PM 11/07/25 - Arizona Diamondbacks vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Philadelphia Phillies vs. San Diego Padres" stop="20250711235959 -0500">
-    <title>08:40 PM 11/07/25 - Philadelphia Phillies vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250711000000 -0500" channel="Toronto Blue Jays vs. Athletics" stop="20250711235959 -0500">
     <title>09:05 PM 11/07/25 - Toronto Blue Jays vs. Athletics</title>
     <date>2025</date>
@@ -281,22 +286,6 @@
   </programme>
   <programme start="20250711000000 -0500" channel="Los Angeles Dodgers vs. San Francisco Giants" stop="20250711235959 -0500">
     <title>09:15 PM 11/07/25 - Los Angeles Dodgers vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Sun at Storm" stop="20250711235959 -0500">
-    <title>09:00 PM 11/07/25 - Sun at Storm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Clippers at Rockets" stop="20250711235959 -0500">
-    <title>09:00 PM 11/07/25 - Clippers at Rockets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
