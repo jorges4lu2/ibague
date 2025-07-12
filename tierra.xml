@@ -12,8 +12,14 @@
   <channel id="Atlanta Braves vs. St. Louis Cardinals">
     <display-name lang="en">Atlanta Braves vs. St. Louis Cardinals</display-name>
   </channel>
-  <channel id="Lynx at Sky">
-    <display-name lang="en">Lynx at Sky</display-name>
+  <channel id="Cavaliers at Bucks">
+    <display-name lang="en">Cavaliers at Bucks</display-name>
+  </channel>
+  <channel id="Valkyries at Aces">
+    <display-name lang="en">Valkyries at Aces</display-name>
+  </channel>
+  <channel id="Mavericks at Spurs">
+    <display-name lang="en">Mavericks at Spurs</display-name>
   </channel>
   <channel id="PDC: 2025 Baltic Sea Darts Open - Day Two">
     <display-name lang="en">PDC: 2025 Baltic Sea Darts Open - Day Two</display-name>
@@ -77,15 +83,6 @@
   </channel>
   <channel id="Toronto Blue Jays vs. Athletics">
     <display-name lang="en">Toronto Blue Jays vs. Athletics</display-name>
-  </channel>
-  <channel id="Cavaliers at Bucks">
-    <display-name lang="en">Cavaliers at Bucks</display-name>
-  </channel>
-  <channel id="Valkyries at Aces">
-    <display-name lang="en">Valkyries at Aces</display-name>
-  </channel>
-  <channel id="Mavericks at Spurs">
-    <display-name lang="en">Mavericks at Spurs</display-name>
   </channel>
   <channel id="Pacers at Thunder">
     <display-name lang="en">Pacers at Thunder</display-name>
@@ -191,7 +188,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="Lynx at Sky" stop="20250712235959 -0500">
+  <programme start="20250712000000 -0500" channel="Cavaliers at Bucks" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="Valkyries at Aces" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="Mavericks at Spurs" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -361,30 +374,6 @@
   </programme>
   <programme start="20250712000000 -0500" channel="Toronto Blue Jays vs. Athletics" stop="20250712235959 -0500">
     <title>09:05 PM 12/07/25 - Toronto Blue Jays vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Cavaliers at Bucks" stop="20250712235959 -0500">
-    <title>02:30 PM 12/07/25 - Cavaliers at Bucks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Valkyries at Aces" stop="20250712235959 -0500">
-    <title>03:00 PM 12/07/25 - Valkyries at Aces</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Mavericks at Spurs" stop="20250712235959 -0500">
-    <title>03:00 PM 12/07/25 - Mavericks at Spurs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
