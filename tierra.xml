@@ -15,27 +15,6 @@
   <channel id="Tampa Bay Rays vs. Boston Red Sox">
     <display-name lang="en">Tampa Bay Rays vs. Boston Red Sox</display-name>
   </channel>
-  <channel id="Knicks at Pistons">
-    <display-name lang="en">Knicks at Pistons</display-name>
-  </channel>
-  <channel id="Jazz at Hornets">
-    <display-name lang="en">Jazz at Hornets</display-name>
-  </channel>
-  <channel id="Dream at Fever">
-    <display-name lang="en">Dream at Fever</display-name>
-  </channel>
-  <channel id="Bulls at Raptors">
-    <display-name lang="en">Bulls at Raptors</display-name>
-  </channel>
-  <channel id="Katie Taylor vs. Amanda Serrano 3">
-    <display-name lang="en">Katie Taylor vs. Amanda Serrano 3</display-name>
-  </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Cleveland Guardians vs. Chicago White Sox">
     <display-name lang="en">Cleveland Guardians vs. Chicago White Sox</display-name>
   </channel>
@@ -54,6 +33,27 @@
   <channel id="Atlanta Braves vs. St. Louis Cardinals">
     <display-name lang="en">Atlanta Braves vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Jazz at Hornets">
+    <display-name lang="en">Jazz at Hornets</display-name>
+  </channel>
+  <channel id="Dream at Fever">
+    <display-name lang="en">Dream at Fever</display-name>
+  </channel>
+  <channel id="Bulls at Raptors">
+    <display-name lang="en">Bulls at Raptors</display-name>
+  </channel>
+  <channel id="Wizards at Suns">
+    <display-name lang="en">Wizards at Suns</display-name>
+  </channel>
+  <channel id="Katie Taylor vs. Amanda Serrano 3">
+    <display-name lang="en">Katie Taylor vs. Amanda Serrano 3</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
+  </channel>
   <channel id="Arizona Diamondbacks vs. Los Angeles Angels">
     <display-name lang="en">Arizona Diamondbacks vs. Los Angeles Angels</display-name>
   </channel>
@@ -65,9 +65,6 @@
   </channel>
   <channel id="Los Angeles Dodgers vs. San Francisco Giants">
     <display-name lang="en">Los Angeles Dodgers vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Wizards at Suns">
-    <display-name lang="en">Wizards at Suns</display-name>
   </channel>
   <channel id="Sun at Storm">
     <display-name lang="en">Sun at Storm</display-name>
@@ -154,7 +151,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250711000000 -0500" channel="Knicks at Pistons" stop="20250711235959 -0500">
+  <programme start="20250711000000 -0500" channel="Cleveland Guardians vs. Chicago White Sox" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="New York Mets vs. Kansas City Royals" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Pittsburgh Pirates vs. Minnesota Twins" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Texas Rangers vs. Houston Astros" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Washington Nationals vs. Milwaukee Brewers" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250711000000 -0500" channel="Atlanta Braves vs. St. Louis Cardinals" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -186,6 +223,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250711000000 -0500" channel="Wizards at Suns" stop="20250711235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250711000000 -0500" channel="Katie Taylor vs. Amanda Serrano 3" stop="20250711235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -204,54 +249,6 @@
   </programme>
   <programme start="20250711000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250711235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Cleveland Guardians vs. Chicago White Sox" stop="20250711235959 -0500">
-    <title>07:10 PM 11/07/25 - Cleveland Guardians vs. Chicago White Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="New York Mets vs. Kansas City Royals" stop="20250711235959 -0500">
-    <title>07:10 PM 11/07/25 - New York Mets vs. Kansas City Royals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Pittsburgh Pirates vs. Minnesota Twins" stop="20250711235959 -0500">
-    <title>07:10 PM 11/07/25 - Pittsburgh Pirates vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Texas Rangers vs. Houston Astros" stop="20250711235959 -0500">
-    <title>07:10 PM 11/07/25 - Texas Rangers vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Washington Nationals vs. Milwaukee Brewers" stop="20250711235959 -0500">
-    <title>07:10 PM 11/07/25 - Washington Nationals vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Atlanta Braves vs. St. Louis Cardinals" stop="20250711235959 -0500">
-    <title>07:15 PM 11/07/25 - Atlanta Braves vs. St. Louis Cardinals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -284,14 +281,6 @@
   </programme>
   <programme start="20250711000000 -0500" channel="Los Angeles Dodgers vs. San Francisco Giants" stop="20250711235959 -0500">
     <title>09:15 PM 11/07/25 - Los Angeles Dodgers vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250711000000 -0500" channel="Wizards at Suns" stop="20250711235959 -0500">
-    <title>08:00 PM 11/07/25 - Wizards at Suns</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
