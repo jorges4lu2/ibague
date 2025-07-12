@@ -21,17 +21,11 @@
   <channel id="Washington Nationals vs. Milwaukee Brewers">
     <display-name lang="en">Washington Nationals vs. Milwaukee Brewers</display-name>
   </channel>
-  <channel id="Cavaliers at Bucks">
-    <display-name lang="en">Cavaliers at Bucks</display-name>
-  </channel>
-  <channel id="Valkyries at Aces">
-    <display-name lang="en">Valkyries at Aces</display-name>
-  </channel>
-  <channel id="Mavericks at Spurs">
-    <display-name lang="en">Mavericks at Spurs</display-name>
-  </channel>
   <channel id="Pacers at Thunder">
     <display-name lang="en">Pacers at Thunder</display-name>
+  </channel>
+  <channel id="Hornets at 76ers">
+    <display-name lang="en">Hornets at 76ers</display-name>
   </channel>
   <channel id="Boxing: Berlanga vs Sheeraz">
     <display-name lang="en">Boxing: Berlanga vs Sheeraz</display-name>
@@ -42,26 +36,20 @@
   <channel id="PDC: 2025 Baltic Sea Darts Open - Day Two">
     <display-name lang="en">PDC: 2025 Baltic Sea Darts Open - Day Two</display-name>
   </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025 - Board 3">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 3</display-name>
+  <channel id="PDC: CDC Classic 2025 - Board 3">
+    <display-name lang="en">PDC: CDC Classic 2025 - Board 3</display-name>
   </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025 - Board 4">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 4</display-name>
+  <channel id="PDC: CDC Classic 2025 - Board 2">
+    <display-name lang="en">PDC: CDC Classic 2025 - Board 2</display-name>
   </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025 - Board 2">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 2</display-name>
+  <channel id="PDC: CDC Classic 2025 - Board 4">
+    <display-name lang="en">PDC: CDC Classic 2025 - Board 4</display-name>
   </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025 - Board 5">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 5</display-name>
+  <channel id="PDC: CDC Classic 2025 - Board 5">
+    <display-name lang="en">PDC: CDC Classic 2025 - Board 5</display-name>
   </channel>
-  <channel id="PDC: Boomerang Tours Bash 2025 - Board 1">
-    <display-name lang="en">PDC: Boomerang Tours Bash 2025 - Board 1</display-name>
-  </channel>
-  <channel id="Pro Motocross: Spring Creek">
-    <display-name lang="en">Pro Motocross: Spring Creek</display-name>
-  </channel>
-  <channel id="WWE: Great American Bash 2025">
-    <display-name lang="en">WWE: Great American Bash 2025</display-name>
+  <channel id="PDC: CDC Classic 2025 - Board 1">
+    <display-name lang="en">PDC: CDC Classic 2025 - Board 1</display-name>
   </channel>
   <channel id="AEW: All In Texas 2025">
     <display-name lang="en">AEW: All In Texas 2025</display-name>
@@ -81,9 +69,6 @@
   <channel id="Toronto Blue Jays vs. Athletics">
     <display-name lang="en">Toronto Blue Jays vs. Athletics</display-name>
   </channel>
-  <channel id="Hornets at 76ers">
-    <display-name lang="en">Hornets at 76ers</display-name>
-  </channel>
   <channel id="Kings at Bulls">
     <display-name lang="en">Kings at Bulls</display-name>
   </channel>
@@ -95,21 +80,6 @@
   </channel>
   <channel id="Grizzlies at Trail Blazers">
     <display-name lang="en">Grizzlies at Trail Blazers</display-name>
-  </channel>
-  <channel id="PDC: CDC Classic 2025 - Board 3">
-    <display-name lang="en">PDC: CDC Classic 2025 - Board 3</display-name>
-  </channel>
-  <channel id="PDC: CDC Classic 2025 - Board 2">
-    <display-name lang="en">PDC: CDC Classic 2025 - Board 2</display-name>
-  </channel>
-  <channel id="PDC: CDC Classic 2025 - Board 4">
-    <display-name lang="en">PDC: CDC Classic 2025 - Board 4</display-name>
-  </channel>
-  <channel id="PDC: CDC Classic 2025 - Board 5">
-    <display-name lang="en">PDC: CDC Classic 2025 - Board 5</display-name>
-  </channel>
-  <channel id="PDC: CDC Classic 2025 - Board 1">
-    <display-name lang="en">PDC: CDC Classic 2025 - Board 1</display-name>
   </channel>
   <channel id="PDC: 2025 Baltic Sea Darts Open - Day Three">
     <display-name lang="en">PDC: 2025 Baltic Sea Darts Open - Day Three</display-name>
@@ -203,31 +173,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="Cavaliers at Bucks" stop="20250712235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Valkyries at Aces" stop="20250712235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Mavericks at Spurs" stop="20250712235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250712000000 -0500" channel="Pacers at Thunder" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="Hornets at 76ers" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -259,7 +213,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 3" stop="20250712235959 -0500">
+  <programme start="20250712000000 -0500" channel="PDC: CDC Classic 2025 - Board 3" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -267,7 +221,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 4" stop="20250712235959 -0500">
+  <programme start="20250712000000 -0500" channel="PDC: CDC Classic 2025 - Board 2" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -275,7 +229,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 2" stop="20250712235959 -0500">
+  <programme start="20250712000000 -0500" channel="PDC: CDC Classic 2025 - Board 4" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -283,7 +237,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 5" stop="20250712235959 -0500">
+  <programme start="20250712000000 -0500" channel="PDC: CDC Classic 2025 - Board 5" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -291,23 +245,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="PDC: Boomerang Tours Bash 2025 - Board 1" stop="20250712235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Pro Motocross: Spring Creek" stop="20250712235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="WWE: Great American Bash 2025" stop="20250712235959 -0500">
+  <programme start="20250712000000 -0500" channel="PDC: CDC Classic 2025 - Board 1" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -363,14 +301,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="Hornets at 76ers" stop="20250712235959 -0500">
-    <title>05:30 PM 12/07/25 - Hornets at 76ers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250712000000 -0500" channel="Kings at Bulls" stop="20250712235959 -0500">
     <title>07:00 PM 12/07/25 - Kings at Bulls</title>
     <date>2025</date>
@@ -397,46 +327,6 @@
   </programme>
   <programme start="20250712000000 -0500" channel="Grizzlies at Trail Blazers" stop="20250712235959 -0500">
     <title>09:30 PM 12/07/25 - Grizzlies at Trail Blazers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="PDC: CDC Classic 2025 - Board 3" stop="20250712235959 -0500">
-    <title>06:00 PM 12/07/25 - PDC: CDC Classic 2025 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="PDC: CDC Classic 2025 - Board 2" stop="20250712235959 -0500">
-    <title>06:00 PM 12/07/25 - PDC: CDC Classic 2025 - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="PDC: CDC Classic 2025 - Board 4" stop="20250712235959 -0500">
-    <title>06:00 PM 12/07/25 - PDC: CDC Classic 2025 - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="PDC: CDC Classic 2025 - Board 5" stop="20250712235959 -0500">
-    <title>06:00 PM 12/07/25 - PDC: CDC Classic 2025 - Board 5</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="PDC: CDC Classic 2025 - Board 1" stop="20250712235959 -0500">
-    <title>06:00 PM 12/07/25 - PDC: CDC Classic 2025 - Board 1</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
