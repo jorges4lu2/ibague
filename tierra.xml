@@ -1,22 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250712 -0500">
-  <channel id="Texas Rangers vs. Houston Astros">
-    <display-name lang="en">Texas Rangers vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. San Diego Padres">
-    <display-name lang="en">Philadelphia Phillies vs. San Diego Padres</display-name>
-  </channel>
   <channel id="Arizona Diamondbacks vs. Los Angeles Angels">
     <display-name lang="en">Arizona Diamondbacks vs. Los Angeles Angels</display-name>
   </channel>
-  <channel id="Kings at Bulls">
-    <display-name lang="en">Kings at Bulls</display-name>
+  <channel id="Toronto Blue Jays vs. Athletics">
+    <display-name lang="en">Toronto Blue Jays vs. Athletics</display-name>
   </channel>
   <channel id="Lakers at Pelicans">
     <display-name lang="en">Lakers at Pelicans</display-name>
   </channel>
   <channel id="Timberwolves at Nuggets">
     <display-name lang="en">Timberwolves at Nuggets</display-name>
+  </channel>
+  <channel id="Grizzlies at Trail Blazers">
+    <display-name lang="en">Grizzlies at Trail Blazers</display-name>
   </channel>
   <channel id="Boxing: Berlanga vs Sheeraz">
     <display-name lang="en">Boxing: Berlanga vs Sheeraz</display-name>
@@ -39,17 +36,8 @@
   <channel id="PDC: CDC Classic 2025 - Board 1">
     <display-name lang="en">PDC: CDC Classic 2025 - Board 1</display-name>
   </channel>
-  <channel id="WWE: Saturday Night's Main Event">
-    <display-name lang="en">WWE: Saturday Night's Main Event</display-name>
-  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Athletics">
-    <display-name lang="en">Toronto Blue Jays vs. Athletics</display-name>
-  </channel>
-  <channel id="Grizzlies at Trail Blazers">
-    <display-name lang="en">Grizzlies at Trail Blazers</display-name>
   </channel>
   <channel id="PDC: 2025 Baltic Sea Darts Open - Day Three">
     <display-name lang="en">PDC: 2025 Baltic Sea Darts Open - Day Three</display-name>
@@ -84,22 +72,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250712000000 -0500" channel="Texas Rangers vs. Houston Astros" stop="20250712235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Philadelphia Phillies vs. San Diego Padres" stop="20250712235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250712000000 -0500" channel="Arizona Diamondbacks vs. Los Angeles Angels" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -108,7 +80,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="Kings at Bulls" stop="20250712235959 -0500">
+  <programme start="20250712000000 -0500" channel="Toronto Blue Jays vs. Athletics" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -125,6 +97,14 @@
     </audio>
   </programme>
   <programme start="20250712000000 -0500" channel="Timberwolves at Nuggets" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="Grizzlies at Trail Blazers" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -188,32 +168,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="WWE: Saturday Night's Main Event" stop="20250712235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250712000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250712235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Toronto Blue Jays vs. Athletics" stop="20250712235959 -0500">
-    <title>09:05 PM 12/07/25 - Toronto Blue Jays vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Grizzlies at Trail Blazers" stop="20250712235959 -0500">
-    <title>09:30 PM 12/07/25 - Grizzlies at Trail Blazers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
