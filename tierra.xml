@@ -6,14 +6,14 @@
   <channel id="Philadelphia Phillies vs. San Diego Padres">
     <display-name lang="en">Philadelphia Phillies vs. San Diego Padres</display-name>
   </channel>
-  <channel id="Pacers at Thunder">
-    <display-name lang="en">Pacers at Thunder</display-name>
-  </channel>
   <channel id="Hornets at 76ers">
     <display-name lang="en">Hornets at 76ers</display-name>
   </channel>
   <channel id="Kings at Bulls">
     <display-name lang="en">Kings at Bulls</display-name>
+  </channel>
+  <channel id="Lakers at Pelicans">
+    <display-name lang="en">Lakers at Pelicans</display-name>
   </channel>
   <channel id="Boxing: Berlanga vs Sheeraz">
     <display-name lang="en">Boxing: Berlanga vs Sheeraz</display-name>
@@ -47,9 +47,6 @@
   </channel>
   <channel id="Toronto Blue Jays vs. Athletics">
     <display-name lang="en">Toronto Blue Jays vs. Athletics</display-name>
-  </channel>
-  <channel id="Lakers at Pelicans">
-    <display-name lang="en">Lakers at Pelicans</display-name>
   </channel>
   <channel id="Timberwolves at Nuggets">
     <display-name lang="en">Timberwolves at Nuggets</display-name>
@@ -106,14 +103,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="Pacers at Thunder" stop="20250712235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250712000000 -0500" channel="Hornets at 76ers" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -123,6 +112,14 @@
     </audio>
   </programme>
   <programme start="20250712000000 -0500" channel="Kings at Bulls" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="Lakers at Pelicans" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -212,14 +209,6 @@
   </programme>
   <programme start="20250712000000 -0500" channel="Toronto Blue Jays vs. Athletics" stop="20250712235959 -0500">
     <title>09:05 PM 12/07/25 - Toronto Blue Jays vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Lakers at Pelicans" stop="20250712235959 -0500">
-    <title>07:30 PM 12/07/25 - Lakers at Pelicans</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
