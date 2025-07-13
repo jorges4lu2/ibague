@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250713 -0500">
+  <channel id="Wings at Fever">
+    <display-name lang="en">Wings at Fever</display-name>
+  </channel>
   <channel id="PDC: 2025 Baltic Sea Darts Open - Day Three">
     <display-name lang="en">PDC: 2025 Baltic Sea Darts Open - Day Three</display-name>
   </channel>
@@ -66,9 +69,6 @@
   <channel id="Philadelphia Phillies vs. San Diego Padres">
     <display-name lang="en">Philadelphia Phillies vs. San Diego Padres</display-name>
   </channel>
-  <channel id="Wings at Fever">
-    <display-name lang="en">Wings at Fever</display-name>
-  </channel>
   <channel id="Dream at Liberty">
     <display-name lang="en">Dream at Liberty</display-name>
   </channel>
@@ -120,6 +120,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250713000000 -0500" channel="Wings at Fever" stop="20250713235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250713000000 -0500" channel="PDC: 2025 Baltic Sea Darts Open - Day Three" stop="20250713235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -290,14 +298,6 @@
   </programme>
   <programme start="20250713000000 -0500" channel="Philadelphia Phillies vs. San Diego Padres" stop="20250713235959 -0500">
     <title>03:10 PM 13/07/25 - Philadelphia Phillies vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Wings at Fever" stop="20250713235959 -0500">
-    <title>12:00 PM 13/07/25 - Wings at Fever</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
