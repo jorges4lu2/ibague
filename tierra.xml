@@ -6,14 +6,17 @@
   <channel id="Philadelphia Phillies vs. San Diego Padres">
     <display-name lang="en">Philadelphia Phillies vs. San Diego Padres</display-name>
   </channel>
-  <channel id="Hornets at 76ers">
-    <display-name lang="en">Hornets at 76ers</display-name>
+  <channel id="Arizona Diamondbacks vs. Los Angeles Angels">
+    <display-name lang="en">Arizona Diamondbacks vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="Kings at Bulls">
     <display-name lang="en">Kings at Bulls</display-name>
   </channel>
   <channel id="Lakers at Pelicans">
     <display-name lang="en">Lakers at Pelicans</display-name>
+  </channel>
+  <channel id="Timberwolves at Nuggets">
+    <display-name lang="en">Timberwolves at Nuggets</display-name>
   </channel>
   <channel id="Boxing: Berlanga vs Sheeraz">
     <display-name lang="en">Boxing: Berlanga vs Sheeraz</display-name>
@@ -42,14 +45,8 @@
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
-  <channel id="Arizona Diamondbacks vs. Los Angeles Angels">
-    <display-name lang="en">Arizona Diamondbacks vs. Los Angeles Angels</display-name>
-  </channel>
   <channel id="Toronto Blue Jays vs. Athletics">
     <display-name lang="en">Toronto Blue Jays vs. Athletics</display-name>
-  </channel>
-  <channel id="Timberwolves at Nuggets">
-    <display-name lang="en">Timberwolves at Nuggets</display-name>
   </channel>
   <channel id="Grizzlies at Trail Blazers">
     <display-name lang="en">Grizzlies at Trail Blazers</display-name>
@@ -103,7 +100,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="Hornets at 76ers" stop="20250712235959 -0500">
+  <programme start="20250712000000 -0500" channel="Arizona Diamondbacks vs. Los Angeles Angels" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -120,6 +117,14 @@
     </audio>
   </programme>
   <programme start="20250712000000 -0500" channel="Lakers at Pelicans" stop="20250712235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="Timberwolves at Nuggets" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -199,24 +204,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250712000000 -0500" channel="Arizona Diamondbacks vs. Los Angeles Angels" stop="20250712235959 -0500">
-    <title>08:38 PM 12/07/25 - Arizona Diamondbacks vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250712000000 -0500" channel="Toronto Blue Jays vs. Athletics" stop="20250712235959 -0500">
     <title>09:05 PM 12/07/25 - Toronto Blue Jays vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Timberwolves at Nuggets" stop="20250712235959 -0500">
-    <title>09:00 PM 12/07/25 - Timberwolves at Nuggets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
