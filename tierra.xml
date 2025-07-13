@@ -6,9 +6,6 @@
   <channel id="Toronto Blue Jays vs. Athletics">
     <display-name lang="en">Toronto Blue Jays vs. Athletics</display-name>
   </channel>
-  <channel id="Lakers at Pelicans">
-    <display-name lang="en">Lakers at Pelicans</display-name>
-  </channel>
   <channel id="Timberwolves at Nuggets">
     <display-name lang="en">Timberwolves at Nuggets</display-name>
   </channel>
@@ -57,6 +54,9 @@
   <channel id="PDC: The DartConnect Challenge 2025 - Board 1">
     <display-name lang="en">PDC: The DartConnect Challenge 2025 - Board 1</display-name>
   </channel>
+  <channel id="Paris Saint-Germain vs. Chelsea">
+    <display-name lang="en">Paris Saint-Germain vs. Chelsea</display-name>
+  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -81,14 +81,6 @@
     </audio>
   </programme>
   <programme start="20250712000000 -0500" channel="Toronto Blue Jays vs. Athletics" stop="20250712235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250712000000 -0500" channel="Lakers at Pelicans" stop="20250712235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -218,6 +210,14 @@
   </programme>
   <programme start="20250712000000 -0500" channel="PDC: The DartConnect Challenge 2025 - Board 1" stop="20250712235959 -0500">
     <title>11:00 AM 13/07/25 - PDC: The DartConnect Challenge 2025 - Board 1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250712000000 -0500" channel="Paris Saint-Germain vs. Chelsea" stop="20250712235959 -0500">
+    <title>02:00 PM 13/07/25 - Paris Saint-Germain vs. Chelsea</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
