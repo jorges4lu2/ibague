@@ -6,17 +6,17 @@
   <channel id="Nets at Wizards">
     <display-name lang="en">Nets at Wizards</display-name>
   </channel>
-  <channel id="WWE: Evolution 2025">
-    <display-name lang="en">WWE: Evolution 2025</display-name>
-  </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Bucks at Clippers">
     <display-name lang="en">Bucks at Clippers</display-name>
   </channel>
   <channel id="Warriors at Jazz">
     <display-name lang="en">Warriors at Jazz</display-name>
+  </channel>
+  <channel id="WWE: Evolution 2025">
+    <display-name lang="en">WWE: Evolution 2025</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
@@ -49,6 +49,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250713000000 -0500" channel="Bucks at Clippers" stop="20250713235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250713000000 -0500" channel="Warriors at Jazz" stop="20250713235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250713000000 -0500" channel="WWE: Evolution 2025" stop="20250713235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -59,22 +75,6 @@
   </programme>
   <programme start="20250713000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250713235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Bucks at Clippers" stop="20250713235959 -0500">
-    <title>08:30 PM 13/07/25 - Bucks at Clippers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Warriors at Jazz" stop="20250713235959 -0500">
-    <title>09:00 PM 13/07/25 - Warriors at Jazz</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
