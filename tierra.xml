@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250713 -0500">
-  <channel id="Los Angeles Dodgers vs. San Francisco Giants">
-    <display-name lang="en">Los Angeles Dodgers vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Athletics">
-    <display-name lang="en">Toronto Blue Jays vs. Athletics</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Los Angeles Angels">
-    <display-name lang="en">Arizona Diamondbacks vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. San Diego Padres">
-    <display-name lang="en">Philadelphia Phillies vs. San Diego Padres</display-name>
-  </channel>
   <channel id="Knicks at Celtics">
     <display-name lang="en">Knicks at Celtics</display-name>
   </channel>
@@ -24,20 +12,17 @@
   <channel id="Raptors at Magic">
     <display-name lang="en">Raptors at Magic</display-name>
   </channel>
-  <channel id="PDC: 2025 Baltic Sea Darts Open - Day Three">
-    <display-name lang="en">PDC: 2025 Baltic Sea Darts Open - Day Three</display-name>
+  <channel id="Heat at Cavaliers">
+    <display-name lang="en">Heat at Cavaliers</display-name>
+  </channel>
+  <channel id="Nets at Wizards">
+    <display-name lang="en">Nets at Wizards</display-name>
   </channel>
   <channel id="WWE: Evolution 2025">
     <display-name lang="en">WWE: Evolution 2025</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Heat at Cavaliers">
-    <display-name lang="en">Heat at Cavaliers</display-name>
-  </channel>
-  <channel id="Nets at Wizards">
-    <display-name lang="en">Nets at Wizards</display-name>
   </channel>
   <channel id="Bucks at Clippers">
     <display-name lang="en">Bucks at Clippers</display-name>
@@ -60,38 +45,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250713000000 -0500" channel="Los Angeles Dodgers vs. San Francisco Giants" stop="20250713235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Toronto Blue Jays vs. Athletics" stop="20250713235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Arizona Diamondbacks vs. Los Angeles Angels" stop="20250713235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Philadelphia Phillies vs. San Diego Padres" stop="20250713235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250713000000 -0500" channel="Knicks at Celtics" stop="20250713235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -124,7 +77,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250713000000 -0500" channel="PDC: 2025 Baltic Sea Darts Open - Day Three" stop="20250713235959 -0500">
+  <programme start="20250713000000 -0500" channel="Heat at Cavaliers" stop="20250713235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250713000000 -0500" channel="Nets at Wizards" stop="20250713235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -142,22 +103,6 @@
   </programme>
   <programme start="20250713000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250713235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Heat at Cavaliers" stop="20250713235959 -0500">
-    <title>06:30 PM 13/07/25 - Heat at Cavaliers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Nets at Wizards" stop="20250713235959 -0500">
-    <title>07:00 PM 13/07/25 - Nets at Wizards</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
