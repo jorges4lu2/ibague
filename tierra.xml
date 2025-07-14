@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250713 -0500">
-  <channel id="Knicks at Celtics">
-    <display-name lang="en">Knicks at Celtics</display-name>
-  </channel>
-  <channel id="Sun at Sparks">
-    <display-name lang="en">Sun at Sparks</display-name>
-  </channel>
-  <channel id="Mystics at Storm">
-    <display-name lang="en">Mystics at Storm</display-name>
-  </channel>
-  <channel id="Raptors at Magic">
-    <display-name lang="en">Raptors at Magic</display-name>
-  </channel>
   <channel id="Heat at Cavaliers">
     <display-name lang="en">Heat at Cavaliers</display-name>
   </channel>
@@ -45,38 +33,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250713000000 -0500" channel="Knicks at Celtics" stop="20250713235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Sun at Sparks" stop="20250713235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Mystics at Storm" stop="20250713235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250713000000 -0500" channel="Raptors at Magic" stop="20250713235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250713000000 -0500" channel="Heat at Cavaliers" stop="20250713235959 -0500">
     <title>Live</title>
     <date>2025</date>
