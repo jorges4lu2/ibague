@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250714 -0500">
+  <channel id="Hawks at Rockets">
+    <display-name lang="en">Hawks at Rockets</display-name>
+  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="T-Mobile Home Run Derby">
     <display-name lang="en">T-Mobile Home Run Derby</display-name>
-  </channel>
-  <channel id="Hawks at Rockets">
-    <display-name lang="en">Hawks at Rockets</display-name>
   </channel>
   <channel id="Bulls at Pacers">
     <display-name lang="en">Bulls at Pacers</display-name>
@@ -66,6 +66,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250714000000 -0500" channel="Hawks at Rockets" stop="20250714235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250714000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250714235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
@@ -76,14 +84,6 @@
   </programme>
   <programme start="20250714000000 -0500" channel="T-Mobile Home Run Derby" stop="20250714235959 -0500">
     <title>07:00 PM 14/07/25 - T-Mobile Home Run Derby</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250714000000 -0500" channel="Hawks at Rockets" stop="20250714235959 -0500">
-    <title>03:30 PM 14/07/25 - Hawks at Rockets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
