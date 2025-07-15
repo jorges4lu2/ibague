@@ -90,6 +90,18 @@
   <channel id="Tennis 30 :Kichenok N, Ninomiya M vs Noha Akugue N, Schunk N @ Jul 15 16:00 PM - WTA Hamburg">
     <display-name lang="en">Tennis 30 :Kichenok N, Ninomiya M vs Noha Akugue N, Schunk N @ Jul 15 16:00 PM - WTA Hamburg</display-name>
   </channel>
+  <channel id="Tennis 31 :Korpatsch, Tamara vs Serban, Raluka @ Jul 15 17:00 PM - WTA Hamburg">
+    <display-name lang="en">Tennis 31 :Korpatsch, Tamara vs Serban, Raluka @ Jul 15 17:00 PM - WTA Hamburg</display-name>
+  </channel>
+  <channel id="Tennis 32 :Buzarnescu, Mihaela vs Cirstea, Sorana @ Jul 15 17:30 PM - WTA Iasi">
+    <display-name lang="en">Tennis 32 :Buzarnescu, Mihaela vs Cirstea, Sorana @ Jul 15 17:30 PM - WTA Iasi</display-name>
+  </channel>
+  <channel id="Tennis 33 :Shevchenko, Alexander vs Wawrinka, Stan @ Jul 15 17:30 PM - ATP Gstaad">
+    <display-name lang="en">Tennis 33 :Shevchenko, Alexander vs Wawrinka, Stan @ Jul 15 17:30 PM - ATP Gstaad</display-name>
+  </channel>
+  <channel id="Tennis 34 :Steiner, Valentina vs Werner, Caroline @ Jul 15 18:10 PM - WTA Hamburg">
+    <display-name lang="en">Tennis 34 :Steiner, Valentina vs Werner, Caroline @ Jul 15 18:10 PM - WTA Hamburg</display-name>
+  </channel>
   <channel id="AFL 01 | Carlton vs Brisbane (Thu 10:30 UK)">
     <display-name lang="en">AFL 01 | Carlton vs Brisbane (Thu 10:30 UK)</display-name>
   </channel>
@@ -615,8 +627,8 @@
   <channel id="WNBA 1 Connecticut Sun @ Indiana Fever start:2025-05-31 00:30:00 stop:2025-05-31 02:30:00">
     <display-name lang="en">WNBA 1 Connecticut Sun @ Indiana Fever start:2025-05-31 00:30:00 stop:2025-05-31 02:30:00</display-name>
   </channel>
-  <channel id="WNBA 2 Phoenix Mercury @ Golden State Valkyries start:2025-07-15 03:00:00 stop:2025-07-15 05:00:00">
-    <display-name lang="en">WNBA 2 Phoenix Mercury @ Golden State Valkyries start:2025-07-15 03:00:00 stop:2025-07-15 05:00:00</display-name>
+  <channel id="WNBA 2 Washington Mystics @ Los Angeles Sparks start:2025-07-16 03:00:00 stop:2025-07-16 05:00:00">
+    <display-name lang="en">WNBA 2 Washington Mystics @ Los Angeles Sparks start:2025-07-16 03:00:00 stop:2025-07-16 05:00:00</display-name>
   </channel>
   <channel id="WNBA 3 Atlanta Dream @ New York Liberty start:2025-07-13 20:00:00 stop:2025-07-13 22:00:00">
     <display-name lang="en">WNBA 3 Atlanta Dream @ New York Liberty start:2025-07-13 20:00:00 stop:2025-07-13 22:00:00</display-name>
@@ -890,6 +902,9 @@
   </channel>
   <channel id="10. Pre-Season | Accrington vs Everton (Tue 19:45 UK)">
     <display-name lang="en">10. Pre-Season | Accrington vs Everton (Tue 19:45 UK)</display-name>
+  </channel>
+  <channel id="11. Pre-Season | York City vs Sheffield United (Tue 19:00 UK)">
+    <display-name lang="en">11. Pre-Season | York City vs Sheffield United (Tue 19:00 UK)</display-name>
   </channel>
   <channel id="UFC: Derrick Lewis vs. Tallison Teixeira (Sun 02:00 UK)">
     <display-name lang="en">UFC: Derrick Lewis vs. Tallison Teixeira (Sun 02:00 UK)</display-name>
@@ -1563,6 +1578,38 @@
   </programme>
   <programme start="20250715000000 -0500" channel="Tennis 30 :Kichenok N, Ninomiya M vs Noha Akugue N, Schunk N @ Jul 15 16:00 PM - WTA Hamburg" stop="20250715235959 -0500">
     <title>04:00 PM - Tennis 30 :Kichenok N, Ninomiya M vs Noha Akugue N, Schunk N @ Jul 15 16:00 PM - WTA Hamburg</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250715000000 -0500" channel="Tennis 31 :Korpatsch, Tamara vs Serban, Raluka @ Jul 15 17:00 PM - WTA Hamburg" stop="20250715235959 -0500">
+    <title>05:00 PM - Tennis 31 :Korpatsch, Tamara vs Serban, Raluka @ Jul 15 17:00 PM - WTA Hamburg</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250715000000 -0500" channel="Tennis 32 :Buzarnescu, Mihaela vs Cirstea, Sorana @ Jul 15 17:30 PM - WTA Iasi" stop="20250715235959 -0500">
+    <title>05:30 PM - Tennis 32 :Buzarnescu, Mihaela vs Cirstea, Sorana @ Jul 15 17:30 PM - WTA Iasi</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250715000000 -0500" channel="Tennis 33 :Shevchenko, Alexander vs Wawrinka, Stan @ Jul 15 17:30 PM - ATP Gstaad" stop="20250715235959 -0500">
+    <title>05:30 PM - Tennis 33 :Shevchenko, Alexander vs Wawrinka, Stan @ Jul 15 17:30 PM - ATP Gstaad</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250715000000 -0500" channel="Tennis 34 :Steiner, Valentina vs Werner, Caroline @ Jul 15 18:10 PM - WTA Hamburg" stop="20250715235959 -0500">
+    <title>06:10 PM - Tennis 34 :Steiner, Valentina vs Werner, Caroline @ Jul 15 18:10 PM - WTA Hamburg</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -2969,8 +3016,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250715000000 -0500" channel="WNBA 2 Phoenix Mercury @ Golden State Valkyries start:2025-07-15 03:00:00 stop:2025-07-15 05:00:00" stop="20250715235959 -0500">
-    <title>09:00 PM - WNBA 2 Phoenix Mercury @ Golden State Valkyries start:2025-07-15 03:00:00 stop:2025-07-15 05:00:00</title>
+  <programme start="20250715000000 -0500" channel="WNBA 2 Washington Mystics @ Los Angeles Sparks start:2025-07-16 03:00:00 stop:2025-07-16 05:00:00" stop="20250715235959 -0500">
+    <title>09:00 PM - WNBA 2 Washington Mystics @ Los Angeles Sparks start:2025-07-16 03:00:00 stop:2025-07-16 05:00:00</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -3699,6 +3746,14 @@
   </programme>
   <programme start="20250715000000 -0500" channel="10. Pre-Season | Accrington vs Everton (Tue 19:45 UK)" stop="20250715235959 -0500">
     <title>01:45 PM - 10. Pre-Season | Accrington vs Everton (Tue 19:45 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250715000000 -0500" channel="11. Pre-Season | York City vs Sheffield United (Tue 19:00 UK)" stop="20250715235959 -0500">
+    <title>01:00 PM - 11. Pre-Season | York City vs Sheffield United (Tue 19:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
