@@ -3,9 +3,6 @@
   <channel id="T-Mobile Home Run Derby">
     <display-name lang="en">T-Mobile Home Run Derby</display-name>
   </channel>
-  <channel id="Bulls at Pacers">
-    <display-name lang="en">Bulls at Pacers</display-name>
-  </channel>
   <channel id="Hornets at Mavericks">
     <display-name lang="en">Hornets at Mavericks</display-name>
   </channel>
@@ -15,14 +12,14 @@
   <channel id="Celtics at Heat">
     <display-name lang="en">Celtics at Heat</display-name>
   </channel>
+  <channel id="Jazz at Spurs">
+    <display-name lang="en">Jazz at Spurs</display-name>
+  </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Jazz at Spurs">
-    <display-name lang="en">Jazz at Spurs</display-name>
   </channel>
   <channel id="Mercury at Valkyries">
     <display-name lang="en">Mercury at Valkyries</display-name>
@@ -71,14 +68,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250714000000 -0500" channel="Bulls at Pacers" stop="20250714235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250714000000 -0500" channel="Hornets at Mavericks" stop="20250714235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -103,6 +92,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250714000000 -0500" channel="Jazz at Spurs" stop="20250714235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250714000000 -0500" channel="WWE: Monday Night RAW" stop="20250714235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -113,14 +110,6 @@
   </programme>
   <programme start="20250714000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250714235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250714000000 -0500" channel="Jazz at Spurs" stop="20250714235959 -0500">
-    <title>07:30 PM 14/07/25 - Jazz at Spurs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
