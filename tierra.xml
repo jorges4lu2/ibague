@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250715 -0500">
-  <channel id="Timberwolves at Pistons">
-    <display-name lang="en">Timberwolves at Pistons</display-name>
-  </channel>
   <channel id="Nets at Knicks">
     <display-name lang="en">Nets at Knicks</display-name>
   </channel>
   <channel id="Thunder at Magic">
     <display-name lang="en">Thunder at Magic</display-name>
   </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Fever at Sun">
     <display-name lang="en">Fever at Sun</display-name>
   </channel>
   <channel id="Raptors at Nuggets">
     <display-name lang="en">Raptors at Nuggets</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="76ers at Wizards">
     <display-name lang="en">76ers at Wizards</display-name>
@@ -29,9 +29,6 @@
   </channel>
   <channel id="Warriors at Grizzlies">
     <display-name lang="en">Warriors at Grizzlies</display-name>
-  </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -63,14 +60,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250715000000 -0500" channel="Timberwolves at Pistons" stop="20250715235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250715000000 -0500" channel="Nets at Knicks" stop="20250715235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -87,16 +76,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250715000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250715235959 -0500">
-    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250715000000 -0500" channel="Fever at Sun" stop="20250715235959 -0500">
-    <title>07:00 PM 15/07/25 - Fever at Sun</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -104,7 +85,23 @@
     </audio>
   </programme>
   <programme start="20250715000000 -0500" channel="Raptors at Nuggets" stop="20250715235959 -0500">
-    <title>07:00 PM 15/07/25 - Raptors at Nuggets</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250715000000 -0500" channel="WWE: NXT" stop="20250715235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250715000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250715235959 -0500">
+    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -137,14 +134,6 @@
   </programme>
   <programme start="20250715000000 -0500" channel="Warriors at Grizzlies" stop="20250715235959 -0500">
     <title>09:30 PM 15/07/25 - Warriors at Grizzlies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250715000000 -0500" channel="WWE: NXT" stop="20250715235959 -0500">
-    <title>07:00 PM 15/07/25 - WWE: NXT</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
