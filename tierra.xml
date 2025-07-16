@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250715 -0500">
-  <channel id="Thunder at Magic">
-    <display-name lang="en">Thunder at Magic</display-name>
+  <channel id="American All-Stars vs. National All-Stars">
+    <display-name lang="en">American All-Stars vs. National All-Stars</display-name>
   </channel>
   <channel id="Fever at Sun">
     <display-name lang="en">Fever at Sun</display-name>
@@ -12,17 +12,14 @@
   <channel id="76ers at Wizards">
     <display-name lang="en">76ers at Wizards</display-name>
   </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
-  </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Mystics at Sparks">
     <display-name lang="en">Mystics at Sparks</display-name>
   </channel>
   <channel id="Trail Blazers at Pelicans">
     <display-name lang="en">Trail Blazers at Pelicans</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Warriors at Grizzlies">
     <display-name lang="en">Warriors at Grizzlies</display-name>
@@ -57,7 +54,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250715000000 -0500" channel="Thunder at Magic" stop="20250715235959 -0500">
+  <programme start="20250715000000 -0500" channel="American All-Stars vs. National All-Stars" stop="20250715235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -89,7 +86,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250715000000 -0500" channel="WWE: NXT" stop="20250715235959 -0500">
+  <programme start="20250715000000 -0500" channel="Mystics at Sparks" stop="20250715235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250715000000 -0500" channel="Trail Blazers at Pelicans" stop="20250715235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -99,22 +104,6 @@
   </programme>
   <programme start="20250715000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250715235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250715000000 -0500" channel="Mystics at Sparks" stop="20250715235959 -0500">
-    <title>09:00 PM 15/07/25 - Mystics at Sparks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250715000000 -0500" channel="Trail Blazers at Pelicans" stop="20250715235959 -0500">
-    <title>09:00 PM 15/07/25 - Trail Blazers at Pelicans</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
