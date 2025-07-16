@@ -1,19 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250716 -0500">
-  <channel id="Valkyries at Storm">
-    <display-name lang="en">Valkyries at Storm</display-name>
-  </channel>
   <channel id="Kings at Cavaliers">
     <display-name lang="en">Kings at Cavaliers</display-name>
   </channel>
   <channel id="Suns at Timberwolves">
     <display-name lang="en">Suns at Timberwolves</display-name>
   </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Bucks at Bulls">
     <display-name lang="en">Bucks at Bulls</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Fever at Liberty">
     <display-name lang="en">Fever at Liberty</display-name>
@@ -63,14 +60,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250716000000 -0500" channel="Valkyries at Storm" stop="20250716235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250716000000 -0500" channel="Kings at Cavaliers" stop="20250716235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -87,16 +76,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250716000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250716235959 -0500">
-    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
+  <programme start="20250716000000 -0500" channel="Bucks at Bulls" stop="20250716235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250716000000 -0500" channel="Bucks at Bulls" stop="20250716235959 -0500">
-    <title>04:30 PM 16/07/25 - Bucks at Bulls</title>
+  <programme start="20250716000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250716235959 -0500">
+    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
