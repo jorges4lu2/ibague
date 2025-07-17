@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250717 -0500">
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Pistons at Heat">
     <display-name lang="en">Pistons at Heat</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Pacers at Knicks">
     <display-name lang="en">Pacers at Knicks</display-name>
@@ -54,16 +54,16 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250717000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250717235959 -0500">
-    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
+  <programme start="20250717000000 -0500" channel="Pistons at Heat" stop="20250717235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250717000000 -0500" channel="Pistons at Heat" stop="20250717235959 -0500">
-    <title>03:00 PM 17/07/25 - Pistons at Heat</title>
+  <programme start="20250717000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250717235959 -0500">
+    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
