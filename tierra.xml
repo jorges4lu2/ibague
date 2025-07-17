@@ -12,17 +12,17 @@
   <channel id="Mavericks at 76ers">
     <display-name lang="en">Mavericks at 76ers</display-name>
   </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Pelicans at Thunder">
     <display-name lang="en">Pelicans at Thunder</display-name>
   </channel>
   <channel id="Wizards at Jazz">
     <display-name lang="en">Wizards at Jazz</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -83,6 +83,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250716000000 -0500" channel="Pelicans at Thunder" stop="20250716235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250716000000 -0500" channel="Wizards at Jazz" stop="20250716235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250716000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250716235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -93,22 +109,6 @@
   </programme>
   <programme start="20250716000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250716235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250716000000 -0500" channel="Pelicans at Thunder" stop="20250716235959 -0500">
-    <title>08:30 PM 16/07/25 - Pelicans at Thunder</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250716000000 -0500" channel="Wizards at Jazz" stop="20250716235959 -0500">
-    <title>09:00 PM 16/07/25 - Wizards at Jazz</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
