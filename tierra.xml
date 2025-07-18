@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250718 -0500">
-  <channel id="Mavericks at Magic (Consolation)">
-    <display-name lang="en">Mavericks at Magic (Consolation)</display-name>
-  </channel>
   <channel id="76ers at Nets (Consolation)">
     <display-name lang="en">76ers at Nets (Consolation)</display-name>
   </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Heat at Bucks (Consolation)">
     <display-name lang="en">Heat at Bucks (Consolation)</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Jazz at Bulls (Consolation)">
     <display-name lang="en">Jazz at Bulls (Consolation)</display-name>
@@ -57,7 +54,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250718000000 -0500" channel="Mavericks at Magic (Consolation)" stop="20250718235959 -0500">
+  <programme start="20250718000000 -0500" channel="76ers at Nets (Consolation)" stop="20250718235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -65,7 +62,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250718000000 -0500" channel="76ers at Nets (Consolation)" stop="20250718235959 -0500">
+  <programme start="20250718000000 -0500" channel="Heat at Bucks (Consolation)" stop="20250718235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -75,14 +72,6 @@
   </programme>
   <programme start="20250718000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250718235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250718000000 -0500" channel="Heat at Bucks (Consolation)" stop="20250718235959 -0500">
-    <title>06:00 PM 18/07/25 - Heat at Bucks (Consolation)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
