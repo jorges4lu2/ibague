@@ -1,22 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250717 -0500">
-  <channel id="Spurs at Hornets">
-    <display-name lang="en">Spurs at Hornets</display-name>
-  </channel>
   <channel id="Rockets at Trail Blazers">
     <display-name lang="en">Rockets at Trail Blazers</display-name>
   </channel>
   <channel id="Celtics at Lakers">
     <display-name lang="en">Celtics at Lakers</display-name>
   </channel>
+  <channel id="Warriors at Raptors">
+    <display-name lang="en">Warriors at Raptors</display-name>
+  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Warriors at Raptors">
-    <display-name lang="en">Warriors at Raptors</display-name>
   </channel>
   <channel id="Nuggets at Clippers">
     <display-name lang="en">Nuggets at Clippers</display-name>
@@ -45,14 +42,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250717000000 -0500" channel="Spurs at Hornets" stop="20250717235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250717000000 -0500" channel="Rockets at Trail Blazers" stop="20250717235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -62,6 +51,14 @@
     </audio>
   </programme>
   <programme start="20250717000000 -0500" channel="Celtics at Lakers" stop="20250717235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250717000000 -0500" channel="Warriors at Raptors" stop="20250717235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -79,14 +76,6 @@
   </programme>
   <programme start="20250717000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250717235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250717000000 -0500" channel="Warriors at Raptors" stop="20250717235959 -0500">
-    <title>09:00 PM 17/07/25 - Warriors at Raptors</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
