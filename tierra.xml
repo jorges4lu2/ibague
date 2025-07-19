@@ -15,6 +15,12 @@
   <channel id="PDC: Betfred World Matchplay - Day One">
     <display-name lang="en">PDC: Betfred World Matchplay - Day One</display-name>
   </channel>
+  <channel id="PDC: China ProTour 6">
+    <display-name lang="en">PDC: China ProTour 6</display-name>
+  </channel>
+  <channel id="PDC: Betfred World Matchplay - Day Two">
+    <display-name lang="en">PDC: Betfred World Matchplay - Day Two</display-name>
+  </channel>
   <channel id="Manchester United vs Leeds United">
     <display-name lang="en">Manchester United vs Leeds United</display-name>
   </channel>
@@ -79,6 +85,22 @@
   </programme>
   <programme start="20250719000000 -0500" channel="PDC: Betfred World Matchplay - Day One" stop="20250719235959 -0500">
     <title>01:00 PM 19/07/25 - PDC: Betfred World Matchplay - Day One</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="PDC: China ProTour 6" stop="20250719235959 -0500">
+    <title>09:00 PM 19/07/25 - PDC: China ProTour 6</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="PDC: Betfred World Matchplay - Day Two" stop="20250719235959 -0500">
+    <title>07:00 AM 20/07/25 - PDC: Betfred World Matchplay - Day Two</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
