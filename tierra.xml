@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250719 -0500">
+  <channel id="Wizards at Knicks (Consolation)">
+    <display-name lang="en">Wizards at Knicks (Consolation)</display-name>
+  </channel>
+  <channel id="Kings at Raptors (Semifinals)">
+    <display-name lang="en">Kings at Raptors (Semifinals)</display-name>
+  </channel>
   <channel id="Oleksandr Usyk vs. Daniel Dubois 2">
     <display-name lang="en">Oleksandr Usyk vs. Daniel Dubois 2</display-name>
   </channel>
@@ -11,12 +17,6 @@
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Wizards at Knicks (Consolation)">
-    <display-name lang="en">Wizards at Knicks (Consolation)</display-name>
-  </channel>
-  <channel id="Kings at Raptors (Semifinals)">
-    <display-name lang="en">Kings at Raptors (Semifinals)</display-name>
   </channel>
   <channel id="Rockets at Timberwolves (Consolation)">
     <display-name lang="en">Rockets at Timberwolves (Consolation)</display-name>
@@ -66,6 +66,22 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250719000000 -0500" channel="Wizards at Knicks (Consolation)" stop="20250719235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="Kings at Raptors (Semifinals)" stop="20250719235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250719000000 -0500" channel="Oleksandr Usyk vs. Daniel Dubois 2" stop="20250719235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -92,22 +108,6 @@
   </programme>
   <programme start="20250719000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250719235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250719000000 -0500" channel="Wizards at Knicks (Consolation)" stop="20250719235959 -0500">
-    <title>02:30 PM 19/07/25 - Wizards at Knicks (Consolation)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250719000000 -0500" channel="Kings at Raptors (Semifinals)" stop="20250719235959 -0500">
-    <title>03:00 PM 19/07/25 - Kings at Raptors (Semifinals)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
