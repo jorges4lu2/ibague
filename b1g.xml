@@ -999,17 +999,26 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 - Williams Grove Speedway 7:30 pm">
-    <display-name lang="en">DIRTVISION 01 - Williams Grove Speedway 7:30 pm</display-name>
+  <channel id="DIRTVISION 01 - Eldora Speedway 5:30 pm">
+    <display-name lang="en">DIRTVISION 01 - Eldora Speedway 5:30 pm</display-name>
   </channel>
-  <channel id="DIRTVISION 02 - Spoon River Speedway 7:15 pm">
-    <display-name lang="en">DIRTVISION 02 - Spoon River Speedway 7:15 pm</display-name>
+  <channel id="DIRTVISION 02 - Eldora Speedway 5:30 pm BACKUP">
+    <display-name lang="en">DIRTVISION 02 - Eldora Speedway 5:30 pm BACKUP</display-name>
   </channel>
-  <channel id="DIRTVISION 03 - Eldora Speedway 6:15pm">
-    <display-name lang="en">DIRTVISION 03 - Eldora Speedway 6:15pm</display-name>
+  <channel id="DIRTVISION 03 - Land of Legends Raceway 6:15pm">
+    <display-name lang="en">DIRTVISION 03 - Land of Legends Raceway 6:15pm</display-name>
   </channel>
-  <channel id="Dirtvision 05: Creek County Speedway 8:00 pm">
-    <display-name lang="en">Dirtvision 05: Creek County Speedway 8:00 pm</display-name>
+  <channel id="Dirtvision 05: Sharon Speedway 6:30 pm">
+    <display-name lang="en">Dirtvision 05: Sharon Speedway 6:30 pm</display-name>
+  </channel>
+  <channel id="Dirtvision 06: Knoxville Raceway 7:00PM">
+    <display-name lang="en">Dirtvision 06: Knoxville Raceway 7:00PM</display-name>
+  </channel>
+  <channel id="Dirtvision 07: Spoon River Speedway 7:15PM">
+    <display-name lang="en">Dirtvision 07: Spoon River Speedway 7:15PM</display-name>
+  </channel>
+  <channel id="Dirtvision 08: DIRT Zone 7:30 PM">
+    <display-name lang="en">Dirtvision 08: DIRT Zone 7:30 PM</display-name>
   </channel>
   <channel id="Super League Plus | Event 1 Wigan Warriors v Hull FC | Betfred Super League Round 19 // UK Sat 19 Jul 2:55pm // ET Sat 19 Jul 9:55am">
     <display-name lang="en">Super League Plus | Event 1 Wigan Warriors v Hull FC | Betfred Super League Round 19 // UK Sat 19 Jul 2:55pm // ET Sat 19 Jul 9:55am</display-name>
@@ -1197,6 +1206,9 @@
   <channel id="26. Premier Sports Cup | Stirling Albion vs Hearts (Sat 17:15 UK)">
     <display-name lang="en">26. Premier Sports Cup | Stirling Albion vs Hearts (Sat 17:15 UK)</display-name>
   </channel>
+  <channel id="27. Pre-Season | Nottingham Forest vs Monaco  (Sat 15:00 UK)">
+    <display-name lang="en">27. Pre-Season | Nottingham Forest vs Monaco  (Sat 15:00 UK)</display-name>
+  </channel>
   <channel id="UFC 318: Max Holloway vs. Dustin Poirier FHD (Sun 03:00 UK)">
     <display-name lang="en">UFC 318: Max Holloway vs. Dustin Poirier FHD (Sun 03:00 UK)</display-name>
   </channel>
@@ -1212,8 +1224,20 @@
   <channel id="LIVE EVENT 04 - 12:30PM Usyk v Dubois 2">
     <display-name lang="en">LIVE EVENT 04 - 12:30PM Usyk v Dubois 2</display-name>
   </channel>
-  <channel id="LIVE EVENT 11 - 11:35AM/12PM wXw Broken Rules">
-    <display-name lang="en">LIVE EVENT 11 - 11:35AM/12PM wXw Broken Rules</display-name>
+  <channel id="LIVE EVENT 17 - 5:15PM Supermodified 50 Oswego">
+    <display-name lang="en">LIVE EVENT 17 - 5:15PM Supermodified 50 Oswego</display-name>
+  </channel>
+  <channel id="LIVE EVENT 20 - 6:15PM World of Outlaws Sprint Cars Eldora">
+    <display-name lang="en">LIVE EVENT 20 - 6:15PM World of Outlaws Sprint Cars Eldora</display-name>
+  </channel>
+  <channel id="LIVE EVENT 23 - 7:15PM Xtreme Outlaw Midgets Spoon River">
+    <display-name lang="en">LIVE EVENT 23 - 7:15PM Xtreme Outlaw Midgets Spoon River</display-name>
+  </channel>
+  <channel id="LIVE EVENT 24 - 7:15PM Silver Dollar Nationals Husets">
+    <display-name lang="en">LIVE EVENT 24 - 7:15PM Silver Dollar Nationals Husets</display-name>
+  </channel>
+  <channel id="LIVE EVENT 25 - 7:45PM American Sprint Car Series Tri State">
+    <display-name lang="en">LIVE EVENT 25 - 7:45PM American Sprint Car Series Tri State</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-wXw wXw Broken Rules 2025: Fight Forever - PreShow - Sat,19 Jul 11:35 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-wXw wXw Broken Rules 2025: Fight Forever - PreShow - Sat,19 Jul 11:35 ET</display-name>
@@ -4377,32 +4401,56 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250719000000 -0500" channel="DIRTVISION 01 - Williams Grove Speedway 7:30 pm" stop="20250719235959 -0500">
-    <title>05:30 PM - DIRTVISION 01 - Williams Grove Speedway 7:30 pm</title>
+  <programme start="20250719000000 -0500" channel="DIRTVISION 01 - Eldora Speedway 5:30 pm" stop="20250719235959 -0500">
+    <title>03:30 PM - DIRTVISION 01 - Eldora Speedway 5:30 pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250719000000 -0500" channel="DIRTVISION 02 - Spoon River Speedway 7:15 pm" stop="20250719235959 -0500">
-    <title>05:15 PM - DIRTVISION 02 - Spoon River Speedway 7:15 pm</title>
+  <programme start="20250719000000 -0500" channel="DIRTVISION 02 - Eldora Speedway 5:30 pm BACKUP" stop="20250719235959 -0500">
+    <title>03:30 PM - DIRTVISION 02 - Eldora Speedway 5:30 pm BACKUP</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250719000000 -0500" channel="DIRTVISION 03 - Eldora Speedway 6:15pm" stop="20250719235959 -0500">
-    <title>12:15 PM - DIRTVISION 03 - Eldora Speedway 6:15pm</title>
+  <programme start="20250719000000 -0500" channel="DIRTVISION 03 - Land of Legends Raceway 6:15pm" stop="20250719235959 -0500">
+    <title>12:15 PM - DIRTVISION 03 - Land of Legends Raceway 6:15pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250719000000 -0500" channel="Dirtvision 05: Creek County Speedway 8:00 pm" stop="20250719235959 -0500">
-    <title>06:00 PM - Dirtvision 05: Creek County Speedway 8:00 pm</title>
+  <programme start="20250719000000 -0500" channel="Dirtvision 05: Sharon Speedway 6:30 pm" stop="20250719235959 -0500">
+    <title>04:30 PM - Dirtvision 05: Sharon Speedway 6:30 pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="Dirtvision 06: Knoxville Raceway 7:00PM" stop="20250719235959 -0500">
+    <title>01:00 PM - Dirtvision 06: Knoxville Raceway 7:00PM</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="Dirtvision 07: Spoon River Speedway 7:15PM" stop="20250719235959 -0500">
+    <title>01:15 PM - Dirtvision 07: Spoon River Speedway 7:15PM</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="Dirtvision 08: DIRT Zone 7:30 PM" stop="20250719235959 -0500">
+    <title>05:30 PM - Dirtvision 08: DIRT Zone 7:30 PM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -4905,6 +4953,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250719000000 -0500" channel="27. Pre-Season | Nottingham Forest vs Monaco  (Sat 15:00 UK)" stop="20250719235959 -0500">
+    <title>09:00 AM - 27. Pre-Season | Nottingham Forest vs Monaco  (Sat 15:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250719000000 -0500" channel="UFC 318: Max Holloway vs. Dustin Poirier FHD (Sun 03:00 UK)" stop="20250719235959 -0500">
     <title>09:00 PM - UFC 318: Max Holloway vs. Dustin Poirier FHD (Sun 03:00 UK)</title>
     <date>2025</date>
@@ -4945,8 +5001,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250719000000 -0500" channel="LIVE EVENT 11 - 11:35AM/12PM wXw Broken Rules" stop="20250719235959 -0500">
-    <title>05:35 AM - LIVE EVENT 11 - 11:35AM/12PM wXw Broken Rules</title>
+  <programme start="20250719000000 -0500" channel="LIVE EVENT 17 - 5:15PM Supermodified 50 Oswego" stop="20250719235959 -0500">
+    <title>11:15 AM - LIVE EVENT 17 - 5:15PM Supermodified 50 Oswego</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="LIVE EVENT 20 - 6:15PM World of Outlaws Sprint Cars Eldora" stop="20250719235959 -0500">
+    <title>12:15 PM - LIVE EVENT 20 - 6:15PM World of Outlaws Sprint Cars Eldora</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="LIVE EVENT 23 - 7:15PM Xtreme Outlaw Midgets Spoon River" stop="20250719235959 -0500">
+    <title>01:15 PM - LIVE EVENT 23 - 7:15PM Xtreme Outlaw Midgets Spoon River</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="LIVE EVENT 24 - 7:15PM Silver Dollar Nationals Husets" stop="20250719235959 -0500">
+    <title>01:15 PM - LIVE EVENT 24 - 7:15PM Silver Dollar Nationals Husets</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="LIVE EVENT 25 - 7:45PM American Sprint Car Series Tri State" stop="20250719235959 -0500">
+    <title>01:45 PM - LIVE EVENT 25 - 7:45PM American Sprint Car Series Tri State</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
