@@ -6,11 +6,14 @@
   <channel id="Heat at Bucks (Consolation)">
     <display-name lang="en">Heat at Bucks (Consolation)</display-name>
   </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Jazz at Bulls (Consolation)">
     <display-name lang="en">Jazz at Bulls (Consolation)</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Pacers at Pelicans (Consolation)">
     <display-name lang="en">Pacers at Pelicans (Consolation)</display-name>
@@ -29,9 +32,6 @@
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day One">
     <display-name lang="en">PDC: Betfred World Matchplay - Day One</display-name>
-  </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -70,16 +70,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250718000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250718235959 -0500">
-    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
+  <programme start="20250718000000 -0500" channel="Jazz at Bulls (Consolation)" stop="20250718235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250718000000 -0500" channel="Jazz at Bulls (Consolation)" stop="20250718235959 -0500">
-    <title>07:00 PM 18/07/25 - Jazz at Bulls (Consolation)</title>
+  <programme start="20250718000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250718235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250718000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250718235959 -0500">
+    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -128,14 +136,6 @@
   </programme>
   <programme start="20250718000000 -0500" channel="PDC: Betfred World Matchplay - Day One" stop="20250718235959 -0500">
     <title>01:00 PM 19/07/25 - PDC: Betfred World Matchplay - Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250718000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250718235959 -0500">
-    <title>07:00 PM 18/07/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
