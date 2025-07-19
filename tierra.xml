@@ -6,6 +6,9 @@
   <channel id="Manchester United vs Leeds United">
     <display-name lang="en">Manchester United vs Leeds United</display-name>
   </channel>
+  <channel id="Reading vs Tottenham Hotspur">
+    <display-name lang="en">Reading vs Tottenham Hotspur</display-name>
+  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Two">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Two</display-name>
-  </channel>
-  <channel id="Reading vs Tottenham Hotspur">
-    <display-name lang="en">Reading vs Tottenham Hotspur</display-name>
   </channel>
   <channel id="Motocross Rd. 25: Washougal">
     <display-name lang="en">Motocross Rd. 25: Washougal</display-name>
@@ -60,6 +60,14 @@
     </audio>
   </programme>
   <programme start="20250719000000 -0500" channel="Manchester United vs Leeds United" stop="20250719235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="Reading vs Tottenham Hotspur" stop="20250719235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -109,14 +117,6 @@
   </programme>
   <programme start="20250719000000 -0500" channel="PDC: Betfred World Matchplay - Day Two" stop="20250719235959 -0500">
     <title>07:00 AM 20/07/25 - PDC: Betfred World Matchplay - Day Two</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250719000000 -0500" channel="Reading vs Tottenham Hotspur" stop="20250719235959 -0500">
-    <title>09:00 AM 19/07/25 - Reading vs Tottenham Hotspur</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
