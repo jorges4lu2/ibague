@@ -6,6 +6,15 @@
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
+  <channel id="Hawks at Celtics (Consolation)">
+    <display-name lang="en">Hawks at Celtics (Consolation)</display-name>
+  </channel>
+  <channel id="Grizzlies at Clippers (Consolation)">
+    <display-name lang="en">Grizzlies at Clippers (Consolation)</display-name>
+  </channel>
+  <channel id="Kings at Hornets (Championship)">
+    <display-name lang="en">Kings at Hornets (Championship)</display-name>
+  </channel>
   <channel id="PDC: Betfred World Matchplay - Day Three">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Three</display-name>
   </channel>
@@ -37,6 +46,30 @@
   </programme>
   <programme start="20250720000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250720235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250720000000 -0500" channel="Hawks at Celtics (Consolation)" stop="20250720235959 -0500">
+    <title>05:00 PM 20/07/25 - Hawks at Celtics (Consolation)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250720000000 -0500" channel="Grizzlies at Clippers (Consolation)" stop="20250720235959 -0500">
+    <title>07:00 PM 20/07/25 - Grizzlies at Clippers (Consolation)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250720000000 -0500" channel="Kings at Hornets (Championship)" stop="20250720235959 -0500">
+    <title>09:00 PM 20/07/25 - Kings at Hornets (Championship)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
