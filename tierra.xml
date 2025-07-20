@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250720 -0500">
-  <channel id="UFC 318: Holloway vs. Poirier 3">
-    <display-name lang="en">UFC 318: Holloway vs. Poirier 3</display-name>
-  </channel>
-  <channel id="PBC PPV: Pacquiao vs. Barrios">
-    <display-name lang="en">PBC PPV: Pacquiao vs. Barrios</display-name>
-  </channel>
   <channel id="PDC: China ProTour 6">
     <display-name lang="en">PDC: China ProTour 6</display-name>
   </channel>
@@ -33,22 +27,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250720000000 -0500" channel="UFC 318: Holloway vs. Poirier 3" stop="20250720235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250720000000 -0500" channel="PBC PPV: Pacquiao vs. Barrios" stop="20250720235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250720000000 -0500" channel="PDC: China ProTour 6" stop="20250720235959 -0500">
     <title>Live</title>
     <date>2025</date>
