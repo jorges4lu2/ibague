@@ -9,6 +9,9 @@
   <channel id="PDC: Betfred World Matchplay - Day Two">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Two</display-name>
   </channel>
+  <channel id="PDC: Betfred World Matchplay - Day Three">
+    <display-name lang="en">PDC: Betfred World Matchplay - Day Three</display-name>
+  </channel>
   <channel id="ESPN">
     <display-name lang="en">ESPN</display-name>
   </channel>
@@ -45,6 +48,14 @@
   </programme>
   <programme start="20250720000000 -0500" channel="PDC: Betfred World Matchplay - Day Two" stop="20250720235959 -0500">
     <title>07:00 AM 20/07/25 - PDC: Betfred World Matchplay - Day Two</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250720000000 -0500" channel="PDC: Betfred World Matchplay - Day Three" stop="20250720235959 -0500">
+    <title>01:00 PM 21/07/25 - PDC: Betfred World Matchplay - Day Three</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
