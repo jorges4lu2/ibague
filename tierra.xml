@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250720 -0500">
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="PDC: Betfred World Matchplay - Day Two">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Two</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Three">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Three</display-name>
@@ -27,16 +27,16 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250720000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250720235959 -0500">
-    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
+  <programme start="20250720000000 -0500" channel="PDC: Betfred World Matchplay - Day Two" stop="20250720235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250720000000 -0500" channel="PDC: Betfred World Matchplay - Day Two" stop="20250720235959 -0500">
-    <title>07:00 AM 20/07/25 - PDC: Betfred World Matchplay - Day Two</title>
+  <programme start="20250720000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250720235959 -0500">
+    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
