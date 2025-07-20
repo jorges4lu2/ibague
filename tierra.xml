@@ -6,23 +6,26 @@
   <channel id="Hornets at Thunder (Semifinals)">
     <display-name lang="en">Hornets at Thunder (Semifinals)</display-name>
   </channel>
+  <channel id="Cavaliers at Warriors (Consolation)">
+    <display-name lang="en">Cavaliers at Warriors (Consolation)</display-name>
+  </channel>
+  <channel id="Pistons at Spurs (Consolation)">
+    <display-name lang="en">Pistons at Spurs (Consolation)</display-name>
+  </channel>
   <channel id="Oleksandr Usyk vs. Daniel Dubois 2">
     <display-name lang="en">Oleksandr Usyk vs. Daniel Dubois 2</display-name>
   </channel>
   <channel id="UFC 318: Holloway vs. Poirier 3">
     <display-name lang="en">UFC 318: Holloway vs. Poirier 3</display-name>
   </channel>
-  <channel id="Motocross Rd. 25: Washougal">
-    <display-name lang="en">Motocross Rd. 25: Washougal</display-name>
+  <channel id="PBC PPV: Pacquiao vs. Barrios">
+    <display-name lang="en">PBC PPV: Pacquiao vs. Barrios</display-name>
+  </channel>
+  <channel id="AEW: Saturday Night Collision">
+    <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Cavaliers at Warriors (Consolation)">
-    <display-name lang="en">Cavaliers at Warriors (Consolation)</display-name>
-  </channel>
-  <channel id="Pistons at Spurs (Consolation)">
-    <display-name lang="en">Pistons at Spurs (Consolation)</display-name>
   </channel>
   <channel id="Collier at Clark">
     <display-name lang="en">Collier at Clark</display-name>
@@ -35,9 +38,6 @@
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Two">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Two</display-name>
-  </channel>
-  <channel id="AEW: Saturday Night Collision">
-    <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
   <channel id="ESPN">
     <display-name lang="en">ESPN</display-name>
@@ -73,6 +73,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250719000000 -0500" channel="Cavaliers at Warriors (Consolation)" stop="20250719235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="Pistons at Spurs (Consolation)" stop="20250719235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250719000000 -0500" channel="Oleksandr Usyk vs. Daniel Dubois 2" stop="20250719235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -89,7 +105,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250719000000 -0500" channel="Motocross Rd. 25: Washougal" stop="20250719235959 -0500">
+  <programme start="20250719000000 -0500" channel="PBC PPV: Pacquiao vs. Barrios" stop="20250719235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="AEW: Saturday Night Collision" stop="20250719235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -99,22 +123,6 @@
   </programme>
   <programme start="20250719000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250719235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250719000000 -0500" channel="Cavaliers at Warriors (Consolation)" stop="20250719235959 -0500">
-    <title>06:30 PM 19/07/25 - Cavaliers at Warriors (Consolation)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250719000000 -0500" channel="Pistons at Spurs (Consolation)" stop="20250719235959 -0500">
-    <title>07:00 PM 19/07/25 - Pistons at Spurs (Consolation)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -147,14 +155,6 @@
   </programme>
   <programme start="20250719000000 -0500" channel="PDC: Betfred World Matchplay - Day Two" stop="20250719235959 -0500">
     <title>07:00 AM 20/07/25 - PDC: Betfred World Matchplay - Day Two</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250719000000 -0500" channel="AEW: Saturday Night Collision" stop="20250719235959 -0500">
-    <title>07:00 PM 19/07/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
