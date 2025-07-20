@@ -9,23 +9,23 @@
   <channel id="Collier at Clark">
     <display-name lang="en">Collier at Clark</display-name>
   </channel>
+  <channel id="Trail Blazers at Suns (Consolation)">
+    <display-name lang="en">Trail Blazers at Suns (Consolation)</display-name>
+  </channel>
   <channel id="UFC 318: Holloway vs. Poirier 3">
     <display-name lang="en">UFC 318: Holloway vs. Poirier 3</display-name>
   </channel>
   <channel id="PBC PPV: Pacquiao vs. Barrios">
     <display-name lang="en">PBC PPV: Pacquiao vs. Barrios</display-name>
   </channel>
+  <channel id="PDC: China ProTour 6">
+    <display-name lang="en">PDC: China ProTour 6</display-name>
+  </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Trail Blazers at Suns (Consolation)">
-    <display-name lang="en">Trail Blazers at Suns (Consolation)</display-name>
-  </channel>
-  <channel id="PDC: China ProTour 6">
-    <display-name lang="en">PDC: China ProTour 6</display-name>
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Two">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Two</display-name>
@@ -72,6 +72,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250719000000 -0500" channel="Trail Blazers at Suns (Consolation)" stop="20250719235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250719000000 -0500" channel="UFC 318: Holloway vs. Poirier 3" stop="20250719235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -81,6 +89,14 @@
     </audio>
   </programme>
   <programme start="20250719000000 -0500" channel="PBC PPV: Pacquiao vs. Barrios" stop="20250719235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250719000000 -0500" channel="PDC: China ProTour 6" stop="20250719235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -98,22 +114,6 @@
   </programme>
   <programme start="20250719000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250719235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250719000000 -0500" channel="Trail Blazers at Suns (Consolation)" stop="20250719235959 -0500">
-    <title>08:30 PM 19/07/25 - Trail Blazers at Suns (Consolation)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250719000000 -0500" channel="PDC: China ProTour 6" stop="20250719235959 -0500">
-    <title>09:00 PM 19/07/25 - PDC: China ProTour 6</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
