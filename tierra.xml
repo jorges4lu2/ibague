@@ -1,19 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250720 -0500">
-  <channel id="Detroit Tigers vs. Texas Rangers">
-    <display-name lang="en">Detroit Tigers vs. Texas Rangers</display-name>
-  </channel>
   <channel id="Grizzlies at Clippers (Consolation)">
     <display-name lang="en">Grizzlies at Clippers (Consolation)</display-name>
+  </channel>
+  <channel id="Kings at Hornets (Championship)">
+    <display-name lang="en">Kings at Hornets (Championship)</display-name>
   </channel>
   <channel id="TNA: Slammiversary 2025">
     <display-name lang="en">TNA: Slammiversary 2025</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Kings at Hornets (Championship)">
-    <display-name lang="en">Kings at Hornets (Championship)</display-name>
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Three">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Three</display-name>
@@ -36,7 +33,7 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250720000000 -0500" channel="Detroit Tigers vs. Texas Rangers" stop="20250720235959 -0500">
+  <programme start="20250720000000 -0500" channel="Grizzlies at Clippers (Consolation)" stop="20250720235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -44,7 +41,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250720000000 -0500" channel="Grizzlies at Clippers (Consolation)" stop="20250720235959 -0500">
+  <programme start="20250720000000 -0500" channel="Kings at Hornets (Championship)" stop="20250720235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -62,14 +59,6 @@
   </programme>
   <programme start="20250720000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250720235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250720000000 -0500" channel="Kings at Hornets (Championship)" stop="20250720235959 -0500">
-    <title>09:00 PM 20/07/25 - Kings at Hornets (Championship)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
