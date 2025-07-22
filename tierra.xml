@@ -3,6 +3,9 @@
   <channel id="PDC: Betfred World Matchplay - Day Four">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Four</display-name>
   </channel>
+  <channel id="Rangers vs Panathinaikos">
+    <display-name lang="en">Rangers vs Panathinaikos</display-name>
+  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
@@ -69,9 +72,6 @@
   <channel id="PDC: Betfred World Matchplay - Day Five">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Five</display-name>
   </channel>
-  <channel id="Rangers vs Panathinaikos">
-    <display-name lang="en">Rangers vs Panathinaikos</display-name>
-  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
   </channel>
@@ -106,6 +106,14 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250722000000 -0500" channel="PDC: Betfred World Matchplay - Day Four" stop="20250722235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="Rangers vs Panathinaikos" stop="20250722235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -283,14 +291,6 @@
   </programme>
   <programme start="20250722000000 -0500" channel="PDC: Betfred World Matchplay - Day Five" stop="20250722235959 -0500">
     <title>01:00 PM 23/07/25 - PDC: Betfred World Matchplay - Day Five</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="Rangers vs Panathinaikos" stop="20250722235959 -0500">
-    <title>01:45 PM 22/07/25 - Rangers vs Panathinaikos</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
