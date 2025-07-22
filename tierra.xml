@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250722 -0500">
-  <channel id="PDC: Betfred World Matchplay - Day Four">
-    <display-name lang="en">PDC: Betfred World Matchplay - Day Four</display-name>
-  </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. Cleveland Guardians">
     <display-name lang="en">Baltimore Orioles vs. Cleveland Guardians</display-name>
   </channel>
@@ -20,6 +14,9 @@
   </channel>
   <channel id="Cincinnati Reds vs. Washington Nationals">
     <display-name lang="en">Cincinnati Reds vs. Washington Nationals</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="New York Yankees vs. Toronto Blue Jays">
     <display-name lang="en">New York Yankees vs. Toronto Blue Jays</display-name>
@@ -102,7 +99,39 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250722000000 -0500" channel="PDC: Betfred World Matchplay - Day Four" stop="20250722235959 -0500">
+  <programme start="20250722000000 -0500" channel="Baltimore Orioles vs. Cleveland Guardians" stop="20250722235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="Detroit Tigers vs. Pittsburgh Pirates" stop="20250722235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="San Diego Padres vs. Miami Marlins" stop="20250722235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="Boston Red Sox vs. Philadelphia Phillies" stop="20250722235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="Cincinnati Reds vs. Washington Nationals" stop="20250722235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -112,46 +141,6 @@
   </programme>
   <programme start="20250722000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250722235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="Baltimore Orioles vs. Cleveland Guardians" stop="20250722235959 -0500">
-    <title>05:40 PM 22/07/25 - Baltimore Orioles vs. Cleveland Guardians</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="Detroit Tigers vs. Pittsburgh Pirates" stop="20250722235959 -0500">
-    <title>05:40 PM 22/07/25 - Detroit Tigers vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="San Diego Padres vs. Miami Marlins" stop="20250722235959 -0500">
-    <title>05:40 PM 22/07/25 - San Diego Padres vs. Miami Marlins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="Boston Red Sox vs. Philadelphia Phillies" stop="20250722235959 -0500">
-    <title>05:45 PM 22/07/25 - Boston Red Sox vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="Cincinnati Reds vs. Washington Nationals" stop="20250722235959 -0500">
-    <title>05:45 PM 22/07/25 - Cincinnati Reds vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
