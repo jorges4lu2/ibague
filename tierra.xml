@@ -15,9 +15,6 @@
   <channel id="Cincinnati Reds vs. Washington Nationals">
     <display-name lang="en">Cincinnati Reds vs. Washington Nationals</display-name>
   </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="New York Yankees vs. Toronto Blue Jays">
     <display-name lang="en">New York Yankees vs. Toronto Blue Jays</display-name>
   </channel>
@@ -29,6 +26,12 @@
   </channel>
   <channel id="Chicago White Sox vs. Tampa Bay Rays">
     <display-name lang="en">Chicago White Sox vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Chicago Cubs">
     <display-name lang="en">Kansas City Royals vs. Chicago Cubs</display-name>
@@ -50,9 +53,6 @@
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Four">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Four</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -127,16 +127,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250721000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250721235959 -0500">
-    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250721000000 -0500" channel="New York Yankees vs. Toronto Blue Jays" stop="20250721235959 -0500">
-    <title>06:07 PM 21/07/25 - New York Yankees vs. Toronto Blue Jays</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -144,7 +136,7 @@
     </audio>
   </programme>
   <programme start="20250721000000 -0500" channel="Los Angeles Angels vs. New York Mets" stop="20250721235959 -0500">
-    <title>06:10 PM 21/07/25 - Los Angeles Angels vs. New York Mets</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -152,7 +144,7 @@
     </audio>
   </programme>
   <programme start="20250721000000 -0500" channel="San Francisco Giants vs. Atlanta Braves" stop="20250721235959 -0500">
-    <title>06:15 PM 21/07/25 - San Francisco Giants vs. Atlanta Braves</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -160,7 +152,23 @@
     </audio>
   </programme>
   <programme start="20250721000000 -0500" channel="Chicago White Sox vs. Tampa Bay Rays" stop="20250721235959 -0500">
-    <title>06:35 PM 21/07/25 - Chicago White Sox vs. Tampa Bay Rays</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250721000000 -0500" channel="WWE: Monday Night RAW" stop="20250721235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250721000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250721235959 -0500">
+    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -217,14 +225,6 @@
   </programme>
   <programme start="20250721000000 -0500" channel="PDC: Betfred World Matchplay - Day Four" stop="20250721235959 -0500">
     <title>01:00 PM 22/07/25 - PDC: Betfred World Matchplay - Day Four</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250721000000 -0500" channel="WWE: Monday Night RAW" stop="20250721235959 -0500">
-    <title>07:00 PM 21/07/25 - WWE: Monday Night RAW</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
