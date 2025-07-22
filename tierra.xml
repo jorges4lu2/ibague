@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250722 -0500">
+  <channel id="PDC: Betfred World Matchplay - Day Four">
+    <display-name lang="en">PDC: Betfred World Matchplay - Day Four</display-name>
+  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
@@ -63,9 +66,6 @@
   <channel id="Wings at Storm">
     <display-name lang="en">Wings at Storm</display-name>
   </channel>
-  <channel id="PDC: Betfred World Matchplay - Day Four">
-    <display-name lang="en">PDC: Betfred World Matchplay - Day Four</display-name>
-  </channel>
   <channel id="PDC: Betfred World Matchplay - Day Five">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Five</display-name>
   </channel>
@@ -105,6 +105,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250722000000 -0500" channel="PDC: Betfred World Matchplay - Day Four" stop="20250722235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250722000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250722235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
@@ -267,14 +275,6 @@
   </programme>
   <programme start="20250722000000 -0500" channel="Wings at Storm" stop="20250722235959 -0500">
     <title>09:00 PM 22/07/25 - Wings at Storm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="PDC: Betfred World Matchplay - Day Four" stop="20250722235959 -0500">
-    <title>01:00 PM 22/07/25 - PDC: Betfred World Matchplay - Day Four</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
