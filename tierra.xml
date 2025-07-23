@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250722 -0500">
-  <channel id="Kansas City Royals vs. Chicago Cubs">
-    <display-name lang="en">Kansas City Royals vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Athletics vs. Texas Rangers">
-    <display-name lang="en">Athletics vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Colorado Rockies">
-    <display-name lang="en">St. Louis Cardinals vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="Houston Astros vs. Arizona Diamondbacks">
     <display-name lang="en">Houston Astros vs. Arizona Diamondbacks</display-name>
   </channel>
@@ -24,14 +15,14 @@
   <channel id="Wings at Storm">
     <display-name lang="en">Wings at Storm</display-name>
   </channel>
-  <channel id="MLS All-Star Skills Challenge">
-    <display-name lang="en">MLS All-Star Skills Challenge</display-name>
-  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Five">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Five</display-name>
+  </channel>
+  <channel id="Arsenal vs Milan">
+    <display-name lang="en">Arsenal vs Milan</display-name>
   </channel>
   <channel id="MLS All-Stars vs. LIGA MX All-Stars">
     <display-name lang="en">MLS All-Stars vs. LIGA MX All-Stars</display-name>
@@ -66,30 +57,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250722000000 -0500" channel="Kansas City Royals vs. Chicago Cubs" stop="20250722235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250722235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="St. Louis Cardinals vs. Colorado Rockies" stop="20250722235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250722000000 -0500" channel="Houston Astros vs. Arizona Diamondbacks" stop="20250722235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -130,14 +97,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250722000000 -0500" channel="MLS All-Star Skills Challenge" stop="20250722235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250722000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250722235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
@@ -148,6 +107,14 @@
   </programme>
   <programme start="20250722000000 -0500" channel="PDC: Betfred World Matchplay - Day Five" stop="20250722235959 -0500">
     <title>01:00 PM 23/07/25 - PDC: Betfred World Matchplay - Day Five</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="Arsenal vs Milan" stop="20250722235959 -0500">
+    <title>06:30 AM 23/07/25 - Arsenal vs Milan</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
