@@ -15,9 +15,6 @@
   <channel id="Cincinnati Reds vs. Washington Nationals">
     <display-name lang="en">Cincinnati Reds vs. Washington Nationals</display-name>
   </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="New York Yankees vs. Toronto Blue Jays">
     <display-name lang="en">New York Yankees vs. Toronto Blue Jays</display-name>
   </channel>
@@ -29,6 +26,21 @@
   </channel>
   <channel id="Chicago White Sox vs. Tampa Bay Rays">
     <display-name lang="en">Chicago White Sox vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="Sparks at Mystics">
+    <display-name lang="en">Sparks at Mystics</display-name>
+  </channel>
+  <channel id="Fever at Liberty">
+    <display-name lang="en">Fever at Liberty</display-name>
+  </channel>
+  <channel id="Sky at Lynx">
+    <display-name lang="en">Sky at Lynx</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Chicago Cubs">
     <display-name lang="en">Kansas City Royals vs. Chicago Cubs</display-name>
@@ -48,15 +60,6 @@
   <channel id="Minnesota Twins vs. Los Angeles Dodgers">
     <display-name lang="en">Minnesota Twins vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="Sparks at Mystics">
-    <display-name lang="en">Sparks at Mystics</display-name>
-  </channel>
-  <channel id="Fever at Liberty">
-    <display-name lang="en">Fever at Liberty</display-name>
-  </channel>
-  <channel id="Sky at Lynx">
-    <display-name lang="en">Sky at Lynx</display-name>
-  </channel>
   <channel id="Dream at Aces">
     <display-name lang="en">Dream at Aces</display-name>
   </channel>
@@ -66,8 +69,11 @@
   <channel id="PDC: Betfred World Matchplay - Day Five">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Five</display-name>
   </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
+  <channel id="MLS All-Star Skills Challenge">
+    <display-name lang="en">MLS All-Star Skills Challenge</display-name>
+  </channel>
+  <channel id="MLS All-Stars vs. LIGA MX All-Stars">
+    <display-name lang="en">MLS All-Stars vs. LIGA MX All-Stars</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -139,16 +145,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250722000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250722235959 -0500">
-    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250722000000 -0500" channel="New York Yankees vs. Toronto Blue Jays" stop="20250722235959 -0500">
-    <title>06:07 PM 22/07/25 - New York Yankees vs. Toronto Blue Jays</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -156,7 +154,7 @@
     </audio>
   </programme>
   <programme start="20250722000000 -0500" channel="Los Angeles Angels vs. New York Mets" stop="20250722235959 -0500">
-    <title>06:10 PM 22/07/25 - Los Angeles Angels vs. New York Mets</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -164,7 +162,7 @@
     </audio>
   </programme>
   <programme start="20250722000000 -0500" channel="San Francisco Giants vs. Atlanta Braves" stop="20250722235959 -0500">
-    <title>06:15 PM 22/07/25 - San Francisco Giants vs. Atlanta Braves</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -172,7 +170,47 @@
     </audio>
   </programme>
   <programme start="20250722000000 -0500" channel="Chicago White Sox vs. Tampa Bay Rays" stop="20250722235959 -0500">
-    <title>06:35 PM 22/07/25 - Chicago White Sox vs. Tampa Bay Rays</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="Sparks at Mystics" stop="20250722235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="Fever at Liberty" stop="20250722235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="Sky at Lynx" stop="20250722235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="WWE: NXT" stop="20250722235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250722235959 -0500">
+    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -227,30 +265,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250722000000 -0500" channel="Sparks at Mystics" stop="20250722235959 -0500">
-    <title>06:30 PM 22/07/25 - Sparks at Mystics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="Fever at Liberty" stop="20250722235959 -0500">
-    <title>07:00 PM 22/07/25 - Fever at Liberty</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250722000000 -0500" channel="Sky at Lynx" stop="20250722235959 -0500">
-    <title>07:00 PM 22/07/25 - Sky at Lynx</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250722000000 -0500" channel="Dream at Aces" stop="20250722235959 -0500">
     <title>09:00 PM 22/07/25 - Dream at Aces</title>
     <date>2025</date>
@@ -275,8 +289,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250722000000 -0500" channel="WWE: NXT" stop="20250722235959 -0500">
-    <title>07:00 PM 22/07/25 - WWE: NXT</title>
+  <programme start="20250722000000 -0500" channel="MLS All-Star Skills Challenge" stop="20250722235959 -0500">
+    <title>08:00 PM 22/07/25 - MLS All-Star Skills Challenge</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250722000000 -0500" channel="MLS All-Stars vs. LIGA MX All-Stars" stop="20250722235959 -0500">
+    <title>07:00 PM 23/07/25 - MLS All-Stars vs. LIGA MX All-Stars</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
