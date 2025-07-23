@@ -15,14 +15,14 @@
   <channel id="Los Angeles Angels vs. New York Mets">
     <display-name lang="en">Los Angeles Angels vs. New York Mets</display-name>
   </channel>
+  <channel id="Kansas City Royals vs. Chicago Cubs">
+    <display-name lang="en">Kansas City Royals vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="PDC: Betfred World Matchplay - Day Five">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Five</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Chicago Cubs">
-    <display-name lang="en">Kansas City Royals vs. Chicago Cubs</display-name>
   </channel>
   <channel id="St. Louis Cardinals vs. Colorado Rockies">
     <display-name lang="en">St. Louis Cardinals vs. Colorado Rockies</display-name>
@@ -130,6 +130,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250723000000 -0500" channel="Kansas City Royals vs. Chicago Cubs" stop="20250723235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250723000000 -0500" channel="PDC: Betfred World Matchplay - Day Five" stop="20250723235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -140,14 +148,6 @@
   </programme>
   <programme start="20250723000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250723235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250723000000 -0500" channel="Kansas City Royals vs. Chicago Cubs" stop="20250723235959 -0500">
-    <title>01:20 PM 23/07/25 - Kansas City Royals vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
