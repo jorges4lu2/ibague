@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250723 -0500">
-  <channel id="Arsenal vs Milan">
-    <display-name lang="en">Arsenal vs Milan</display-name>
-  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
@@ -51,6 +48,9 @@
   <channel id="Athletics vs. Texas Rangers">
     <display-name lang="en">Athletics vs. Texas Rangers</display-name>
   </channel>
+  <channel id="Dream at Mercury">
+    <display-name lang="en">Dream at Mercury</display-name>
+  </channel>
   <channel id="PDC: Betfred World Matchplay - Day Five">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Five</display-name>
   </channel>
@@ -90,14 +90,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250723000000 -0500" channel="Arsenal vs Milan" stop="20250723235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250723000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250723235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
@@ -220,6 +212,14 @@
   </programme>
   <programme start="20250723000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250723235959 -0500">
     <title>07:05 PM 23/07/25 - Athletics vs. Texas Rangers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250723000000 -0500" channel="Dream at Mercury" stop="20250723235959 -0500">
+    <title>09:00 PM 23/07/25 - Dream at Mercury</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
