@@ -12,23 +12,23 @@
   <channel id="Chicago White Sox vs. Tampa Bay Rays">
     <display-name lang="en">Chicago White Sox vs. Tampa Bay Rays</display-name>
   </channel>
+  <channel id="Athletics vs. Texas Rangers">
+    <display-name lang="en">Athletics vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="MLS All-Stars vs. LIGA MX All-Stars">
+    <display-name lang="en">MLS All-Stars vs. LIGA MX All-Stars</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
-  <channel id="Athletics vs. Texas Rangers">
-    <display-name lang="en">Athletics vs. Texas Rangers</display-name>
-  </channel>
   <channel id="Dream at Mercury">
     <display-name lang="en">Dream at Mercury</display-name>
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Six">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Six</display-name>
-  </channel>
-  <channel id="MLS All-Stars vs. LIGA MX All-Stars">
-    <display-name lang="en">MLS All-Stars vs. LIGA MX All-Stars</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -48,8 +48,8 @@
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
-  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204; Guy">
-    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204; Guy</display-name>
+  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204; Guy">
+    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204; Guy</display-name>
   </channel>
   <channel id="24/7 The Simpsons">
     <display-name lang="en">24/7 The Simpsons</display-name>
@@ -89,6 +89,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250723000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250723235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250723000000 -0500" channel="MLS All-Stars vs. LIGA MX All-Stars" stop="20250723235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250723000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250723235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -105,14 +121,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250723235959 -0500">
-    <title>07:05 PM 23/07/25 - Athletics vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250723000000 -0500" channel="Dream at Mercury" stop="20250723235959 -0500">
     <title>09:00 PM 23/07/25 - Dream at Mercury</title>
     <date>2025</date>
@@ -123,14 +131,6 @@
   </programme>
   <programme start="20250723000000 -0500" channel="PDC: Betfred World Matchplay - Day Six" stop="20250723235959 -0500">
     <title>01:30 PM 24/07/25 - PDC: Betfred World Matchplay - Day Six</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250723000000 -0500" channel="MLS All-Stars vs. LIGA MX All-Stars" stop="20250723235959 -0500">
-    <title>08:00 PM 23/07/25 - MLS All-Stars vs. LIGA MX All-Stars</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -185,7 +185,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204; Guy" stop="20250723235959 -0500">
+  <programme start="20250723000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204; Guy" stop="20250723235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
