@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250723 -0500">
-  <channel id="Dream at Mercury">
-    <display-name lang="en">Dream at Mercury</display-name>
-  </channel>
+<tv date="20250724 -0500">
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Six">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Six</display-name>
+  </channel>
+  <channel id="PDC: Betfred World Matchplay - Day Seven">
+    <display-name lang="en">PDC: Betfred World Matchplay - Day Seven</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -36,15 +36,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250723000000 -0500" channel="Dream at Mercury" stop="20250723235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250723000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250724235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
@@ -52,7 +44,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="PDC: Betfred World Matchplay - Day Six" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="PDC: Betfred World Matchplay - Day Six" stop="20250724235959 -0500">
     <title>01:30 PM 24/07/25 - PDC: Betfred World Matchplay - Day Six</title>
     <date>2025</date>
     <category>Sports</category>
@@ -60,7 +52,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="TNA: Impact" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="PDC: Betfred World Matchplay - Day Seven" stop="20250724235959 -0500">
+    <title>01:30 PM 25/07/25 - PDC: Betfred World Matchplay - Day Seven</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250724000000 -0500" channel="TNA: Impact" stop="20250724235959 -0500">
     <title>07:00 PM 24/07/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
@@ -68,7 +68,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250724235959 -0500">
     <title>07:00 PM 25/07/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
@@ -76,7 +76,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="AEW: Saturday Night Collision" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="AEW: Saturday Night Collision" stop="20250724235959 -0500">
     <title>07:00 PM 26/07/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -84,7 +84,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="24/7 South Park" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="24/7 South Park" stop="20250724235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -92,7 +92,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="24/7 COWS" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="24/7 COWS" stop="20250724235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -100,7 +100,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204; Guy" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204; Guy" stop="20250724235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -108,7 +108,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="24/7 The Simpsons" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="24/7 The Simpsons" stop="20250724235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -116,7 +116,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="(North) Korean Central Television" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="(North) Korean Central Television" stop="20250724235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -124,7 +124,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="Comedy Central" stop="20250723235959 -0500">
+  <programme start="20250724000000 -0500" channel="Comedy Central" stop="20250724235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
