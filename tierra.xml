@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250723 -0500">
-  <channel id="Baltimore Orioles vs. Cleveland Guardians">
-    <display-name lang="en">Baltimore Orioles vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Philadelphia Phillies">
-    <display-name lang="en">Boston Red Sox vs. Philadelphia Phillies</display-name>
-  </channel>
   <channel id="New York Yankees vs. Toronto Blue Jays">
     <display-name lang="en">New York Yankees vs. Toronto Blue Jays</display-name>
   </channel>
@@ -15,6 +9,9 @@
   <channel id="Athletics vs. Texas Rangers">
     <display-name lang="en">Athletics vs. Texas Rangers</display-name>
   </channel>
+  <channel id="Dream at Mercury">
+    <display-name lang="en">Dream at Mercury</display-name>
+  </channel>
   <channel id="MLS All-Stars vs. LIGA MX All-Stars">
     <display-name lang="en">MLS All-Stars vs. LIGA MX All-Stars</display-name>
   </channel>
@@ -23,9 +20,6 @@
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Dream at Mercury">
-    <display-name lang="en">Dream at Mercury</display-name>
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Six">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Six</display-name>
@@ -38,9 +32,6 @@
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
-  </channel>
-  <channel id="ESPN">
-    <display-name lang="en">ESPN</display-name>
   </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
@@ -57,22 +48,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250723000000 -0500" channel="Baltimore Orioles vs. Cleveland Guardians" stop="20250723235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250723000000 -0500" channel="Boston Red Sox vs. Philadelphia Phillies" stop="20250723235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250723000000 -0500" channel="New York Yankees vs. Toronto Blue Jays" stop="20250723235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -90,6 +65,14 @@
     </audio>
   </programme>
   <programme start="20250723000000 -0500" channel="Athletics vs. Texas Rangers" stop="20250723235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250723000000 -0500" channel="Dream at Mercury" stop="20250723235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -115,14 +98,6 @@
   </programme>
   <programme start="20250723000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250723235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250723000000 -0500" channel="Dream at Mercury" stop="20250723235959 -0500">
-    <title>09:00 PM 23/07/25 - Dream at Mercury</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -155,14 +130,6 @@
   </programme>
   <programme start="20250723000000 -0500" channel="AEW: Saturday Night Collision" stop="20250723235959 -0500">
     <title>07:00 PM 26/07/25 - AEW: Saturday Night Collision</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250723000000 -0500" channel="ESPN" stop="20250723235959 -0500">
-    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
