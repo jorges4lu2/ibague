@@ -960,11 +960,8 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 - Millbridge Speedway 6:15 pm">
-    <display-name lang="en">DIRTVISION 01 - Millbridge Speedway 6:15 pm</display-name>
-  </channel>
-  <channel id="DIRTVISION 02 - BAPS Motor Speedway 6:15pm">
-    <display-name lang="en">DIRTVISION 02 - BAPS Motor Speedway 6:15pm</display-name>
+  <channel id="DIRTVISION 01 - Jackson Motorplex 8:30 pm">
+    <display-name lang="en">DIRTVISION 01 - Jackson Motorplex 8:30 pm</display-name>
   </channel>
   <channel id="Super League Plus | Event 1 Wakefield Trinity v Leeds Rhinos | Betfred Super League Round 20 // UK Thu 24 Jul 7:55pm // ET Thu 24 Jul 2:55pm">
     <display-name lang="en">Super League Plus | Event 1 Wakefield Trinity v Leeds Rhinos | Betfred Super League Round 20 // UK Thu 24 Jul 7:55pm // ET Thu 24 Jul 2:55pm</display-name>
@@ -1110,6 +1107,12 @@
   <channel id="12. Pre-Season | Ajax vs Celtic (Thu 19:30 UK)">
     <display-name lang="en">12. Pre-Season | Ajax vs Celtic (Thu 19:30 UK)</display-name>
   </channel>
+  <channel id="13. UEFA EL | FC Midtjylland vs Hibernian 24/07 18:30">
+    <display-name lang="en">13. UEFA EL | FC Midtjylland vs Hibernian 24/07 18:30</display-name>
+  </channel>
+  <channel id="14. UEFA CL | Dundee United v Una Strassen 24/07 19:45">
+    <display-name lang="en">14. UEFA CL | Dundee United v Una Strassen 24/07 19:45</display-name>
+  </channel>
   <channel id="UFC on ABC: Robert Whittaker vs. Reinier de Ridder FHD (Sun 00:00 UK)">
     <display-name lang="en">UFC on ABC: Robert Whittaker vs. Reinier de Ridder FHD (Sun 00:00 UK)</display-name>
   </channel>
@@ -1121,6 +1124,12 @@
   </channel>
   <channel id="BOXING: Manuel Flores vs. Jorge Chavez HD (Fri 02:00 UK)">
     <display-name lang="en">BOXING: Manuel Flores vs. Jorge Chavez HD (Fri 02:00 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 - 6:45PM Midseason Champs Thunder Road">
+    <display-name lang="en">LIVE EVENT 02 - 6:45PM Midseason Champs Thunder Road</display-name>
+  </channel>
+  <channel id="LIVE EVENT 04 - 8:30PM Jackson Sprint Cars">
+    <display-name lang="en">LIVE EVENT 04 - 8:30PM Jackson Sprint Cars</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -4114,16 +4123,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250724000000 -0500" channel="DIRTVISION 01 - Millbridge Speedway 6:15 pm" stop="20250724235959 -0500">
-    <title>04:15 PM - DIRTVISION 01 - Millbridge Speedway 6:15 pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250724000000 -0500" channel="DIRTVISION 02 - BAPS Motor Speedway 6:15pm" stop="20250724235959 -0500">
-    <title>12:15 PM - DIRTVISION 02 - BAPS Motor Speedway 6:15pm</title>
+  <programme start="20250724000000 -0500" channel="DIRTVISION 01 - Jackson Motorplex 8:30 pm" stop="20250724235959 -0500">
+    <title>06:30 PM - DIRTVISION 01 - Jackson Motorplex 8:30 pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -4514,6 +4515,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250724000000 -0500" channel="13. UEFA EL | FC Midtjylland vs Hibernian 24/07 18:30" stop="20250724235959 -0500">
+    <title>12:30 PM - 13. UEFA EL | FC Midtjylland vs Hibernian 24/07 18:30</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250724000000 -0500" channel="14. UEFA CL | Dundee United v Una Strassen 24/07 19:45" stop="20250724235959 -0500">
+    <title>01:45 PM - 14. UEFA CL | Dundee United v Una Strassen 24/07 19:45</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250724000000 -0500" channel="UFC on ABC: Robert Whittaker vs. Reinier de Ridder FHD (Sun 00:00 UK)" stop="20250724235959 -0500">
     <title>06:00 PM - UFC on ABC: Robert Whittaker vs. Reinier de Ridder FHD (Sun 00:00 UK)</title>
     <date>2025</date>
@@ -4540,6 +4557,22 @@
   </programme>
   <programme start="20250724000000 -0500" channel="BOXING: Manuel Flores vs. Jorge Chavez HD (Fri 02:00 UK)" stop="20250724235959 -0500">
     <title>08:00 PM - BOXING: Manuel Flores vs. Jorge Chavez HD (Fri 02:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250724000000 -0500" channel="LIVE EVENT 02 - 6:45PM Midseason Champs Thunder Road" stop="20250724235959 -0500">
+    <title>12:45 PM - LIVE EVENT 02 - 6:45PM Midseason Champs Thunder Road</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250724000000 -0500" channel="LIVE EVENT 04 - 8:30PM Jackson Sprint Cars" stop="20250724235959 -0500">
+    <title>02:30 PM - LIVE EVENT 04 - 8:30PM Jackson Sprint Cars</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
