@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250723 -0500">
-  <channel id="Minnesota Twins vs. Los Angeles Dodgers">
-    <display-name lang="en">Minnesota Twins vs. Los Angeles Dodgers</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. Cleveland Guardians">
     <display-name lang="en">Baltimore Orioles vs. Cleveland Guardians</display-name>
   </channel>
   <channel id="Boston Red Sox vs. Philadelphia Phillies">
     <display-name lang="en">Boston Red Sox vs. Philadelphia Phillies</display-name>
   </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="New York Yankees vs. Toronto Blue Jays">
     <display-name lang="en">New York Yankees vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Tampa Bay Rays">
     <display-name lang="en">Chicago White Sox vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Athletics vs. Texas Rangers">
     <display-name lang="en">Athletics vs. Texas Rangers</display-name>
@@ -29,9 +29,6 @@
   </channel>
   <channel id="MLS All-Stars vs. LIGA MX All-Stars">
     <display-name lang="en">MLS All-Stars vs. LIGA MX All-Stars</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -60,14 +57,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250723000000 -0500" channel="Minnesota Twins vs. Los Angeles Dodgers" stop="20250723235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250723000000 -0500" channel="Baltimore Orioles vs. Cleveland Guardians" stop="20250723235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -84,16 +73,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250723000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250723235959 -0500">
-    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250723000000 -0500" channel="New York Yankees vs. Toronto Blue Jays" stop="20250723235959 -0500">
-    <title>06:07 PM 23/07/25 - New York Yankees vs. Toronto Blue Jays</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -101,7 +82,23 @@
     </audio>
   </programme>
   <programme start="20250723000000 -0500" channel="Chicago White Sox vs. Tampa Bay Rays" stop="20250723235959 -0500">
-    <title>06:35 PM 23/07/25 - Chicago White Sox vs. Tampa Bay Rays</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250723000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250723235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250723000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250723235959 -0500">
+    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -134,14 +131,6 @@
   </programme>
   <programme start="20250723000000 -0500" channel="MLS All-Stars vs. LIGA MX All-Stars" stop="20250723235959 -0500">
     <title>08:00 PM 23/07/25 - MLS All-Stars vs. LIGA MX All-Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250723000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250723235959 -0500">
-    <title>07:00 PM 23/07/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
