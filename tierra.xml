@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250725 -0500">
+  <channel id="F1: Belgian Grand Prix (Sprint Quali)">
+    <display-name lang="en">F1: Belgian Grand Prix (Sprint Quali)</display-name>
+  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
+  </channel>
+  <channel id="Mercury at Liberty">
+    <display-name lang="en">Mercury at Liberty</display-name>
+  </channel>
+  <channel id="Aces at Lynx">
+    <display-name lang="en">Aces at Lynx</display-name>
+  </channel>
+  <channel id="Wings at Valkyries">
+    <display-name lang="en">Wings at Valkyries</display-name>
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Seven">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Seven</display-name>
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Eight">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Eight</display-name>
-  </channel>
-  <channel id="F1: Belgian Grand Prix (Sprint Quali)">
-    <display-name lang="en">F1: Belgian Grand Prix (Sprint Quali)</display-name>
   </channel>
   <channel id="F1: Belgian Grand Prix (Sprint)">
     <display-name lang="en">F1: Belgian Grand Prix (Sprint)</display-name>
@@ -48,8 +57,40 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250725000000 -0500" channel="F1: Belgian Grand Prix (Sprint Quali)" stop="20250725235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250725000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250725235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="Mercury at Liberty" stop="20250725235959 -0500">
+    <title>06:30 PM 25/07/25 - Mercury at Liberty</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="Aces at Lynx" stop="20250725235959 -0500">
+    <title>06:30 PM 25/07/25 - Aces at Lynx</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="Wings at Valkyries" stop="20250725235959 -0500">
+    <title>09:00 PM 25/07/25 - Wings at Valkyries</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -66,14 +107,6 @@
   </programme>
   <programme start="20250725000000 -0500" channel="PDC: Betfred World Matchplay - Day Eight" stop="20250725235959 -0500">
     <title>01:30 PM 26/07/25 - PDC: Betfred World Matchplay - Day Eight</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250725000000 -0500" channel="F1: Belgian Grand Prix (Sprint Quali)" stop="20250725235959 -0500">
-    <title>09:30 AM 25/07/25 - F1: Belgian Grand Prix (Sprint Quali)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
