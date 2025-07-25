@@ -9,6 +9,24 @@
   <channel id="PDC: Betfred World Matchplay - Day Eight">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Eight</display-name>
   </channel>
+  <channel id="F1: Belgian Grand Prix (FP1)">
+    <display-name lang="en">F1: Belgian Grand Prix (FP1)</display-name>
+  </channel>
+  <channel id="F1: Belgian Grand Prix (Sprint Quali)">
+    <display-name lang="en">F1: Belgian Grand Prix (Sprint Quali)</display-name>
+  </channel>
+  <channel id="F1: Belgian Grand Prix (Sprint)">
+    <display-name lang="en">F1: Belgian Grand Prix (Sprint)</display-name>
+  </channel>
+  <channel id="F1: Belgian Grand Prix (Qualifying)">
+    <display-name lang="en">F1: Belgian Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="F1: Belgian Grand Prix (Race)">
+    <display-name lang="en">F1: Belgian Grand Prix (Race)</display-name>
+  </channel>
+  <channel id="F1: Belgian Grand Prix (Race, F1TV Commentary)">
+    <display-name lang="en">F1: Belgian Grand Prix (Race, F1TV Commentary)</display-name>
+  </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
@@ -51,6 +69,54 @@
   </programme>
   <programme start="20250725000000 -0500" channel="PDC: Betfred World Matchplay - Day Eight" stop="20250725235959 -0500">
     <title>01:30 PM 26/07/25 - PDC: Betfred World Matchplay - Day Eight</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="F1: Belgian Grand Prix (FP1)" stop="20250725235959 -0500">
+    <title>05:30 AM 25/07/25 - F1: Belgian Grand Prix (FP1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="F1: Belgian Grand Prix (Sprint Quali)" stop="20250725235959 -0500">
+    <title>09:30 AM 25/07/25 - F1: Belgian Grand Prix (Sprint Quali)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="F1: Belgian Grand Prix (Sprint)" stop="20250725235959 -0500">
+    <title>05:00 AM 26/07/25 - F1: Belgian Grand Prix (Sprint)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="F1: Belgian Grand Prix (Qualifying)" stop="20250725235959 -0500">
+    <title>09:00 AM 26/07/25 - F1: Belgian Grand Prix (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="F1: Belgian Grand Prix (Race)" stop="20250725235959 -0500">
+    <title>08:00 AM 27/07/25 - F1: Belgian Grand Prix (Race)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="F1: Belgian Grand Prix (Race, F1TV Commentary)" stop="20250725235959 -0500">
+    <title>08:00 AM 27/07/25 - F1: Belgian Grand Prix (Race, F1TV Commentary)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
