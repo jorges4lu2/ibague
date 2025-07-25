@@ -6,14 +6,14 @@
   <channel id="Aces at Fever">
     <display-name lang="en">Aces at Fever</display-name>
   </channel>
+  <channel id="Storm at Sky">
+    <display-name lang="en">Storm at Sky</display-name>
+  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Storm at Sky">
-    <display-name lang="en">Storm at Sky</display-name>
   </channel>
   <channel id="PDC: Betfred World Matchplay - Day Seven">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Seven</display-name>
@@ -58,6 +58,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250724000000 -0500" channel="Storm at Sky" stop="20250724235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250724000000 -0500" channel="TNA: Impact" stop="20250724235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -68,14 +76,6 @@
   </programme>
   <programme start="20250724000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250724235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250724000000 -0500" channel="Storm at Sky" stop="20250724235959 -0500">
-    <title>07:30 PM 24/07/25 - Storm at Sky</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
