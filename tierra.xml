@@ -24,18 +24,6 @@
   <channel id="Chicago Cubs vs. Chicago White Sox">
     <display-name lang="en">Chicago Cubs vs. Chicago White Sox</display-name>
   </channel>
-  <channel id="Mercury at Liberty">
-    <display-name lang="en">Mercury at Liberty</display-name>
-  </channel>
-  <channel id="Aces at Lynx">
-    <display-name lang="en">Aces at Lynx</display-name>
-  </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Atlanta Braves vs. Texas Rangers">
     <display-name lang="en">Atlanta Braves vs. Texas Rangers</display-name>
   </channel>
@@ -47,6 +35,18 @@
   </channel>
   <channel id="Washington Nationals vs. Minnesota Twins">
     <display-name lang="en">Washington Nationals vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Mercury at Liberty">
+    <display-name lang="en">Mercury at Liberty</display-name>
+  </channel>
+  <channel id="Aces at Lynx">
+    <display-name lang="en">Aces at Lynx</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Seattle Mariners vs. Los Angeles Angels">
     <display-name lang="en">Seattle Mariners vs. Los Angeles Angels</display-name>
@@ -157,6 +157,38 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250725000000 -0500" channel="Atlanta Braves vs. Texas Rangers" stop="20250725235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="Cleveland Guardians vs. Kansas City Royals" stop="20250725235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="Athletics vs. Houston Astros" stop="20250725235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250725000000 -0500" channel="Washington Nationals vs. Minnesota Twins" stop="20250725235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250725000000 -0500" channel="Mercury at Liberty" stop="20250725235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -183,38 +215,6 @@
   </programme>
   <programme start="20250725000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250725235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250725000000 -0500" channel="Atlanta Braves vs. Texas Rangers" stop="20250725235959 -0500">
-    <title>07:05 PM 25/07/25 - Atlanta Braves vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250725000000 -0500" channel="Cleveland Guardians vs. Kansas City Royals" stop="20250725235959 -0500">
-    <title>07:10 PM 25/07/25 - Cleveland Guardians vs. Kansas City Royals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250725000000 -0500" channel="Athletics vs. Houston Astros" stop="20250725235959 -0500">
-    <title>07:10 PM 25/07/25 - Athletics vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250725000000 -0500" channel="Washington Nationals vs. Minnesota Twins" stop="20250725235959 -0500">
-    <title>07:10 PM 25/07/25 - Washington Nationals vs. Minnesota Twins</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
