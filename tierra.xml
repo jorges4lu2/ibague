@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250726 -0500">
-  <channel id="Cleveland Guardians vs. Kansas City Royals">
-    <display-name lang="en">Cleveland Guardians vs. Kansas City Royals</display-name>
-  </channel>
   <channel id="UFC Fight Night: Whittaker vs. de Ridder">
     <display-name lang="en">UFC Fight Night: Whittaker vs. de Ridder</display-name>
   </channel>
@@ -11,9 +8,6 @@
   </channel>
   <channel id="Everton vs Bournemouth">
     <display-name lang="en">Everton vs Bournemouth</display-name>
-  </channel>
-  <channel id="MXGP of Czech Republic: Day 1">
-    <display-name lang="en">MXGP of Czech Republic: Day 1</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
@@ -105,14 +99,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250726000000 -0500" channel="Cleveland Guardians vs. Kansas City Royals" stop="20250726235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250726000000 -0500" channel="UFC Fight Night: Whittaker vs. de Ridder" stop="20250726235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -130,14 +116,6 @@
     </audio>
   </programme>
   <programme start="20250726000000 -0500" channel="Everton vs Bournemouth" stop="20250726235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250726000000 -0500" channel="MXGP of Czech Republic: Day 1" stop="20250726235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
