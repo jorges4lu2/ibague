@@ -60,6 +60,9 @@
   <channel id="Seattle Mariners vs. Los Angeles Angels">
     <display-name lang="en">Seattle Mariners vs. Los Angeles Angels</display-name>
   </channel>
+  <channel id="UFC Fight Night: Whittaker vs. de Ridder">
+    <display-name lang="en">UFC Fight Night: Whittaker vs. de Ridder</display-name>
+  </channel>
   <channel id="PDC: Betfred World Matchplay - Day Eight">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Eight</display-name>
   </channel>
@@ -268,6 +271,14 @@
   </programme>
   <programme start="20250726000000 -0500" channel="Seattle Mariners vs. Los Angeles Angels" stop="20250726235959 -0500">
     <title>08:38 PM 26/07/25 - Seattle Mariners vs. Los Angeles Angels</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250726000000 -0500" channel="UFC Fight Night: Whittaker vs. de Ridder" stop="20250726235959 -0500">
+    <title>11:00 AM 26/07/25 - UFC Fight Night: Whittaker vs. de Ridder</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
