@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250726 -0500">
+  <channel id="Philadelphia Phillies vs. New York Yankees">
+    <display-name lang="en">Philadelphia Phillies vs. New York Yankees</display-name>
+  </channel>
   <channel id="UFC Fight Night: Whittaker vs. de Ridder">
     <display-name lang="en">UFC Fight Night: Whittaker vs. de Ridder</display-name>
+  </channel>
+  <channel id="Galatasaray vs Strasbourg">
+    <display-name lang="en">Galatasaray vs Strasbourg</display-name>
   </channel>
   <channel id="MXGP of Czech Republic: Day 1">
     <display-name lang="en">MXGP of Czech Republic: Day 1</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. New York Yankees">
-    <display-name lang="en">Philadelphia Phillies vs. New York Yankees</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. Kansas City Royals">
     <display-name lang="en">Cleveland Guardians vs. Kansas City Royals</display-name>
@@ -108,7 +111,23 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250726000000 -0500" channel="Philadelphia Phillies vs. New York Yankees" stop="20250726235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250726000000 -0500" channel="UFC Fight Night: Whittaker vs. de Ridder" stop="20250726235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250726000000 -0500" channel="Galatasaray vs Strasbourg" stop="20250726235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -126,14 +145,6 @@
   </programme>
   <programme start="20250726000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250726235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250726000000 -0500" channel="Philadelphia Phillies vs. New York Yankees" stop="20250726235959 -0500">
-    <title>12:05 PM 26/07/25 - Philadelphia Phillies vs. New York Yankees</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
