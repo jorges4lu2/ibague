@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250726 -0500">
+  <channel id="UFC Fight Night: Whittaker vs. de Ridder">
+    <display-name lang="en">UFC Fight Night: Whittaker vs. de Ridder</display-name>
+  </channel>
   <channel id="Luton Town vs Tottenham Hotspur">
     <display-name lang="en">Luton Town vs Tottenham Hotspur</display-name>
   </channel>
   <channel id="MXGP of Czech Republic: Day 1">
     <display-name lang="en">MXGP of Czech Republic: Day 1</display-name>
-  </channel>
-  <channel id="F1: Belgian Grand Prix (Qualifying)">
-    <display-name lang="en">F1: Belgian Grand Prix (Qualifying)</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
@@ -66,9 +66,6 @@
   <channel id="Storm at Mystics">
     <display-name lang="en">Storm at Mystics</display-name>
   </channel>
-  <channel id="UFC Fight Night: Whittaker vs. de Ridder">
-    <display-name lang="en">UFC Fight Night: Whittaker vs. de Ridder</display-name>
-  </channel>
   <channel id="PDC: Betfred World Matchplay - Day Eight">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Eight</display-name>
   </channel>
@@ -114,6 +111,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250726000000 -0500" channel="UFC Fight Night: Whittaker vs. de Ridder" stop="20250726235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250726000000 -0500" channel="Luton Town vs Tottenham Hotspur" stop="20250726235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -123,14 +128,6 @@
     </audio>
   </programme>
   <programme start="20250726000000 -0500" channel="MXGP of Czech Republic: Day 1" stop="20250726235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250726000000 -0500" channel="F1: Belgian Grand Prix (Qualifying)" stop="20250726235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -284,14 +281,6 @@
   </programme>
   <programme start="20250726000000 -0500" channel="Storm at Mystics" stop="20250726235959 -0500">
     <title>06:30 PM 26/07/25 - Storm at Mystics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250726000000 -0500" channel="UFC Fight Night: Whittaker vs. de Ridder" stop="20250726235959 -0500">
-    <title>11:00 AM 26/07/25 - UFC Fight Night: Whittaker vs. de Ridder</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
