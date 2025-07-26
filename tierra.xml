@@ -3,8 +3,8 @@
   <channel id="Tottenham Hotspur vs Wycombe Wanderers">
     <display-name lang="en">Tottenham Hotspur vs Wycombe Wanderers</display-name>
   </channel>
-  <channel id="F1: Belgian Grand Prix (Sprint)">
-    <display-name lang="en">F1: Belgian Grand Prix (Sprint)</display-name>
+  <channel id="Liverpool vs Milan">
+    <display-name lang="en">Liverpool vs Milan</display-name>
   </channel>
   <channel id="MXGP of Czech Republic: Day 1">
     <display-name lang="en">MXGP of Czech Republic: Day 1</display-name>
@@ -69,9 +69,6 @@
   <channel id="PDC: Betfred World Matchplay - Day Nine">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Nine</display-name>
   </channel>
-  <channel id="Liverpool vs Milan">
-    <display-name lang="en">Liverpool vs Milan</display-name>
-  </channel>
   <channel id="Luton Town vs Tottenham Hotspur">
     <display-name lang="en">Luton Town vs Tottenham Hotspur</display-name>
   </channel>
@@ -125,7 +122,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250726000000 -0500" channel="F1: Belgian Grand Prix (Sprint)" stop="20250726235959 -0500">
+  <programme start="20250726000000 -0500" channel="Liverpool vs Milan" stop="20250726235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -295,14 +292,6 @@
   </programme>
   <programme start="20250726000000 -0500" channel="PDC: Betfred World Matchplay - Day Nine" stop="20250726235959 -0500">
     <title>07:00 AM 27/07/25 - PDC: Betfred World Matchplay - Day Nine</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250726000000 -0500" channel="Liverpool vs Milan" stop="20250726235959 -0500">
-    <title>06:30 AM 26/07/25 - Liverpool vs Milan</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
