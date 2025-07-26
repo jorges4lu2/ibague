@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250726 -0500">
-  <channel id="Liverpool vs Milan">
-    <display-name lang="en">Liverpool vs Milan</display-name>
-  </channel>
   <channel id="Luton Town vs Tottenham Hotspur">
     <display-name lang="en">Luton Town vs Tottenham Hotspur</display-name>
   </channel>
@@ -63,6 +60,12 @@
   <channel id="Seattle Mariners vs. Los Angeles Angels">
     <display-name lang="en">Seattle Mariners vs. Los Angeles Angels</display-name>
   </channel>
+  <channel id="Sparks at Liberty">
+    <display-name lang="en">Sparks at Liberty</display-name>
+  </channel>
+  <channel id="Storm at Mystics">
+    <display-name lang="en">Storm at Mystics</display-name>
+  </channel>
   <channel id="UFC Fight Night: Whittaker vs. de Ridder">
     <display-name lang="en">UFC Fight Night: Whittaker vs. de Ridder</display-name>
   </channel>
@@ -99,8 +102,8 @@
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
-  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204; Guy">
-    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204; Guy</display-name>
+  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8204; Guy">
+    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8204; Guy</display-name>
   </channel>
   <channel id="24/7 The Simpsons">
     <display-name lang="en">24/7 The Simpsons</display-name>
@@ -111,14 +114,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250726000000 -0500" channel="Liverpool vs Milan" stop="20250726235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250726000000 -0500" channel="Luton Town vs Tottenham Hotspur" stop="20250726235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -279,6 +274,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250726000000 -0500" channel="Sparks at Liberty" stop="20250726235959 -0500">
+    <title>06:00 PM 26/07/25 - Sparks at Liberty</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250726000000 -0500" channel="Storm at Mystics" stop="20250726235959 -0500">
+    <title>06:30 PM 26/07/25 - Storm at Mystics</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250726000000 -0500" channel="UFC Fight Night: Whittaker vs. de Ridder" stop="20250726235959 -0500">
     <title>11:00 AM 26/07/25 - UFC Fight Night: Whittaker vs. de Ridder</title>
     <date>2025</date>
@@ -375,7 +386,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250726000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204; Guy" stop="20250726235959 -0500">
+  <programme start="20250726000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8204; Guy" stop="20250726235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
