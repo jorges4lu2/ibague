@@ -3,8 +3,14 @@
   <channel id="PDC: Betfred World Matchplay - Day Nine">
     <display-name lang="en">PDC: Betfred World Matchplay - Day Nine</display-name>
   </channel>
+  <channel id="Bochum vs Bayer Leverkusen">
+    <display-name lang="en">Bochum vs Bayer Leverkusen</display-name>
+  </channel>
   <channel id="MXGP of Czech Republic: Day 2">
     <display-name lang="en">MXGP of Czech Republic: Day 2</display-name>
+  </channel>
+  <channel id="F1: Belgian Grand Prix (Race)">
+    <display-name lang="en">F1: Belgian Grand Prix (Race)</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
@@ -69,9 +75,6 @@
   <channel id="Dream at Lynx">
     <display-name lang="en">Dream at Lynx</display-name>
   </channel>
-  <channel id="Bochum vs Bayer Leverkusen">
-    <display-name lang="en">Bochum vs Bayer Leverkusen</display-name>
-  </channel>
   <channel id="Le&#243;n vs. CF Montr&#233;al">
     <display-name lang="en">Le&#243;n vs. CF Montr&#233;al</display-name>
   </channel>
@@ -116,7 +119,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250727000000 -0500" channel="Bochum vs Bayer Leverkusen" stop="20250727235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250727000000 -0500" channel="MXGP of Czech Republic: Day 2" stop="20250727235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250727000000 -0500" channel="F1: Belgian Grand Prix (Race)" stop="20250727235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -286,14 +305,6 @@
   </programme>
   <programme start="20250727000000 -0500" channel="Dream at Lynx" stop="20250727235959 -0500">
     <title>06:00 PM 27/07/25 - Dream at Lynx</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250727000000 -0500" channel="Bochum vs Bayer Leverkusen" stop="20250727235959 -0500">
-    <title>11:00 AM 27/07/25 - Bochum vs Bayer Leverkusen</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
