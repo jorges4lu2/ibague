@@ -1,20 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250727 -0500">
-  <channel id="Valkyries at Sun">
-    <display-name lang="en">Valkyries at Sun</display-name>
-  </channel>
-  <channel id="PDC: Betfred World Matchplay - Day Nine">
-    <display-name lang="en">PDC: Betfred World Matchplay - Day Nine</display-name>
-  </channel>
-  <channel id="Bochum vs Bayer Leverkusen">
-    <display-name lang="en">Bochum vs Bayer Leverkusen</display-name>
-  </channel>
-  <channel id="MXGP of Czech Republic: Day 2">
-    <display-name lang="en">MXGP of Czech Republic: Day 2</display-name>
-  </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Arizona Diamondbacks vs. Pittsburgh Pirates">
     <display-name lang="en">Arizona Diamondbacks vs. Pittsburgh Pirates</display-name>
   </channel>
@@ -32,6 +17,21 @@
   </channel>
   <channel id="Toronto Blue Jays vs. Detroit Tigers">
     <display-name lang="en">Toronto Blue Jays vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="Valkyries at Sun">
+    <display-name lang="en">Valkyries at Sun</display-name>
+  </channel>
+  <channel id="PDC: Betfred World Matchplay - Day Nine">
+    <display-name lang="en">PDC: Betfred World Matchplay - Day Nine</display-name>
+  </channel>
+  <channel id="Bochum vs Bayer Leverkusen">
+    <display-name lang="en">Bochum vs Bayer Leverkusen</display-name>
+  </channel>
+  <channel id="MXGP of Czech Republic: Day 2">
+    <display-name lang="en">MXGP of Czech Republic: Day 2</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
   <channel id="Chicago Cubs vs. Chicago White Sox">
     <display-name lang="en">Chicago Cubs vs. Chicago White Sox</display-name>
@@ -108,6 +108,54 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250727000000 -0500" channel="Arizona Diamondbacks vs. Pittsburgh Pirates" stop="20250727235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250727000000 -0500" channel="Colorado Rockies vs. Baltimore Orioles" stop="20250727235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250727000000 -0500" channel="Los Angeles Dodgers vs. Boston Red Sox" stop="20250727235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250727000000 -0500" channel="Philadelphia Phillies vs. New York Yankees" stop="20250727235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250727000000 -0500" channel="Tampa Bay Rays vs. Cincinnati Reds" stop="20250727235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250727000000 -0500" channel="Toronto Blue Jays vs. Detroit Tigers" stop="20250727235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250727000000 -0500" channel="Valkyries at Sun" stop="20250727235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -142,54 +190,6 @@
   </programme>
   <programme start="20250727000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250727235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250727000000 -0500" channel="Arizona Diamondbacks vs. Pittsburgh Pirates" stop="20250727235959 -0500">
-    <title>12:35 PM 27/07/25 - Arizona Diamondbacks vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250727000000 -0500" channel="Colorado Rockies vs. Baltimore Orioles" stop="20250727235959 -0500">
-    <title>12:35 PM 27/07/25 - Colorado Rockies vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250727000000 -0500" channel="Los Angeles Dodgers vs. Boston Red Sox" stop="20250727235959 -0500">
-    <title>12:35 PM 27/07/25 - Los Angeles Dodgers vs. Boston Red Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250727000000 -0500" channel="Philadelphia Phillies vs. New York Yankees" stop="20250727235959 -0500">
-    <title>12:35 PM 27/07/25 - Philadelphia Phillies vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250727000000 -0500" channel="Tampa Bay Rays vs. Cincinnati Reds" stop="20250727235959 -0500">
-    <title>12:40 PM 27/07/25 - Tampa Bay Rays vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250727000000 -0500" channel="Toronto Blue Jays vs. Detroit Tigers" stop="20250727235959 -0500">
-    <title>12:40 PM 27/07/25 - Toronto Blue Jays vs. Detroit Tigers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
