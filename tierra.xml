@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250727 -0500">
+  <channel id="MXGP of Czech Republic: Day 2">
+    <display-name lang="en">MXGP of Czech Republic: Day 2</display-name>
+  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
@@ -78,9 +81,6 @@
   <channel id="San Diego FC vs. Pachuca">
     <display-name lang="en">San Diego FC vs. Pachuca</display-name>
   </channel>
-  <channel id="MXGP of Czech Republic: Day 2">
-    <display-name lang="en">MXGP of Czech Republic: Day 2</display-name>
-  </channel>
   <channel id="F1: Belgian Grand Prix (Race)">
     <display-name lang="en">F1: Belgian Grand Prix (Race)</display-name>
   </channel>
@@ -105,6 +105,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250727000000 -0500" channel="MXGP of Czech Republic: Day 2" stop="20250727235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250727000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250727235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
@@ -307,14 +315,6 @@
   </programme>
   <programme start="20250727000000 -0500" channel="San Diego FC vs. Pachuca" stop="20250727235959 -0500">
     <title>10:00 PM 29/07/25 - San Diego FC vs. Pachuca</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250727000000 -0500" channel="MXGP of Czech Republic: Day 2" stop="20250727235959 -0500">
-    <title>01:35 AM 27/07/25 - MXGP of Czech Republic: Day 2</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
