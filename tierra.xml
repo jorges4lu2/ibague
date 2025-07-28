@@ -48,6 +48,12 @@
   <channel id="Seattle Mariners vs. Athletics">
     <display-name lang="en">Seattle Mariners vs. Athletics</display-name>
   </channel>
+  <channel id="Storm at Sun">
+    <display-name lang="en">Storm at Sun</display-name>
+  </channel>
+  <channel id="Liberty at Wings">
+    <display-name lang="en">Liberty at Wings</display-name>
+  </channel>
   <channel id="PDC: Players Championship 22 - Board 1">
     <display-name lang="en">PDC: Players Championship 22 - Board 1</display-name>
   </channel>
@@ -218,6 +224,22 @@
   </programme>
   <programme start="20250728000000 -0500" channel="Seattle Mariners vs. Athletics" stop="20250728235959 -0500">
     <title>09:05 PM 28/07/25 - Seattle Mariners vs. Athletics</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250728000000 -0500" channel="Storm at Sun" stop="20250728235959 -0500">
+    <title>06:00 PM 28/07/25 - Storm at Sun</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250728000000 -0500" channel="Liberty at Wings" stop="20250728235959 -0500">
+    <title>07:00 PM 28/07/25 - Liberty at Wings</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
