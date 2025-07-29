@@ -9,21 +9,6 @@
   <channel id="Colorado Rockies vs. Cleveland Guardians">
     <display-name lang="en">Colorado Rockies vs. Cleveland Guardians</display-name>
   </channel>
-  <channel id="Storm at Sun">
-    <display-name lang="en">Storm at Sun</display-name>
-  </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Indianapolis Colts vs. Baltimore Ravens">
-    <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
-  </channel>
-  <channel id="Cincinnati Bengals vs. Philadelphia Eagles">
-    <display-name lang="en">Cincinnati Bengals vs. Philadelphia Eagles</display-name>
-  </channel>
-  <channel id="Las Vegas Raiders vs. Seattle Seahawks">
-    <display-name lang="en">Las Vegas Raiders vs. Seattle Seahawks</display-name>
-  </channel>
   <channel id="Tampa Bay Rays vs. New York Yankees">
     <display-name lang="en">Tampa Bay Rays vs. New York Yankees</display-name>
   </channel>
@@ -45,6 +30,27 @@
   <channel id="Miami Marlins vs. St. Louis Cardinals">
     <display-name lang="en">Miami Marlins vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Storm at Sun">
+    <display-name lang="en">Storm at Sun</display-name>
+  </channel>
+  <channel id="Liberty at Wings">
+    <display-name lang="en">Liberty at Wings</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
+  </channel>
+  <channel id="Indianapolis Colts vs. Baltimore Ravens">
+    <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
+  </channel>
+  <channel id="Cincinnati Bengals vs. Philadelphia Eagles">
+    <display-name lang="en">Cincinnati Bengals vs. Philadelphia Eagles</display-name>
+  </channel>
+  <channel id="Las Vegas Raiders vs. Seattle Seahawks">
+    <display-name lang="en">Las Vegas Raiders vs. Seattle Seahawks</display-name>
+  </channel>
   <channel id="Washington Nationals vs. Houston Astros">
     <display-name lang="en">Washington Nationals vs. Houston Astros</display-name>
   </channel>
@@ -59,9 +65,6 @@
   </channel>
   <channel id="Seattle Mariners vs. Athletics">
     <display-name lang="en">Seattle Mariners vs. Athletics</display-name>
-  </channel>
-  <channel id="Liberty at Wings">
-    <display-name lang="en">Liberty at Wings</display-name>
   </channel>
   <channel id="PDC: Players Championship 22 - Board 1">
     <display-name lang="en">PDC: Players Championship 22 - Board 1</display-name>
@@ -92,9 +95,6 @@
   </channel>
   <channel id="San Diego FC vs. Pachuca">
     <display-name lang="en">San Diego FC vs. Pachuca</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -153,7 +153,79 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250728000000 -0500" channel="Tampa Bay Rays vs. New York Yankees" stop="20250728235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250728000000 -0500" channel="Los Angeles Dodgers vs. Cincinnati Reds" stop="20250728235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250728000000 -0500" channel="Atlanta Braves vs. Kansas City Royals" stop="20250728235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250728000000 -0500" channel="Boston Red Sox vs. Minnesota Twins" stop="20250728235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250728000000 -0500" channel="Chicago Cubs vs. Milwaukee Brewers" stop="20250728235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250728000000 -0500" channel="Philadelphia Phillies vs. Chicago White Sox" stop="20250728235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250728000000 -0500" channel="Miami Marlins vs. St. Louis Cardinals" stop="20250728235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250728000000 -0500" channel="Storm at Sun" stop="20250728235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250728000000 -0500" channel="Liberty at Wings" stop="20250728235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250728000000 -0500" channel="WWE: Monday Night RAW" stop="20250728235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -187,62 +259,6 @@
   </programme>
   <programme start="20250728000000 -0500" channel="Las Vegas Raiders vs. Seattle Seahawks" stop="20250728235959 -0500">
     <title>09:00 PM 07/08/25 - Las Vegas Raiders vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250728000000 -0500" channel="Tampa Bay Rays vs. New York Yankees" stop="20250728235959 -0500">
-    <title>06:05 PM 28/07/25 - Tampa Bay Rays vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250728000000 -0500" channel="Los Angeles Dodgers vs. Cincinnati Reds" stop="20250728235959 -0500">
-    <title>06:10 PM 28/07/25 - Los Angeles Dodgers vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250728000000 -0500" channel="Atlanta Braves vs. Kansas City Royals" stop="20250728235959 -0500">
-    <title>06:40 PM 28/07/25 - Atlanta Braves vs. Kansas City Royals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250728000000 -0500" channel="Boston Red Sox vs. Minnesota Twins" stop="20250728235959 -0500">
-    <title>06:40 PM 28/07/25 - Boston Red Sox vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250728000000 -0500" channel="Chicago Cubs vs. Milwaukee Brewers" stop="20250728235959 -0500">
-    <title>06:40 PM 28/07/25 - Chicago Cubs vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250728000000 -0500" channel="Philadelphia Phillies vs. Chicago White Sox" stop="20250728235959 -0500">
-    <title>06:40 PM 28/07/25 - Philadelphia Phillies vs. Chicago White Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250728000000 -0500" channel="Miami Marlins vs. St. Louis Cardinals" stop="20250728235959 -0500">
-    <title>06:45 PM 28/07/25 - Miami Marlins vs. St. Louis Cardinals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -283,14 +299,6 @@
   </programme>
   <programme start="20250728000000 -0500" channel="Seattle Mariners vs. Athletics" stop="20250728235959 -0500">
     <title>09:05 PM 28/07/25 - Seattle Mariners vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250728000000 -0500" channel="Liberty at Wings" stop="20250728235959 -0500">
-    <title>07:00 PM 28/07/25 - Liberty at Wings</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -371,14 +379,6 @@
   </programme>
   <programme start="20250728000000 -0500" channel="San Diego FC vs. Pachuca" stop="20250728235959 -0500">
     <title>10:00 PM 29/07/25 - San Diego FC vs. Pachuca</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250728000000 -0500" channel="WWE: Monday Night RAW" stop="20250728235959 -0500">
-    <title>07:00 PM 28/07/25 - WWE: Monday Night RAW</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
