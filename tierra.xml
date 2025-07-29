@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250729 -0500">
-  <channel id="PDC: Players Championship 22 - Board 1">
-    <display-name lang="en">PDC: Players Championship 22 - Board 1</display-name>
+  <channel id="Toronto Blue Jays vs. Baltimore Orioles">
+    <display-name lang="en">Toronto Blue Jays vs. Baltimore Orioles</display-name>
   </channel>
-  <channel id="PDC: Players Championship 22 - Board 3">
-    <display-name lang="en">PDC: Players Championship 22 - Board 3</display-name>
+  <channel id="Arizona Diamondbacks vs. Detroit Tigers">
+    <display-name lang="en">Arizona Diamondbacks vs. Detroit Tigers</display-name>
   </channel>
-  <channel id="PDC: Players Championship 22 - Board 4">
-    <display-name lang="en">PDC: Players Championship 22 - Board 4</display-name>
+  <channel id="Colorado Rockies vs. Cleveland Guardians">
+    <display-name lang="en">Colorado Rockies vs. Cleveland Guardians</display-name>
   </channel>
-  <channel id="PDC: Players Championship 22 - Board 2">
-    <display-name lang="en">PDC: Players Championship 22 - Board 2</display-name>
+  <channel id="Le&#243;n vs. CF Montr&#233;al">
+    <display-name lang="en">Le&#243;n vs. CF Montr&#233;al</display-name>
+  </channel>
+  <channel id="Columbus Crew vs. Toluca">
+    <display-name lang="en">Columbus Crew vs. Toluca</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
@@ -32,15 +35,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Baltimore Orioles">
-    <display-name lang="en">Toronto Blue Jays vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Detroit Tigers">
-    <display-name lang="en">Arizona Diamondbacks vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Cleveland Guardians">
-    <display-name lang="en">Colorado Rockies vs. Cleveland Guardians</display-name>
   </channel>
   <channel id="Tampa Bay Rays vs. New York Yankees">
     <display-name lang="en">Tampa Bay Rays vs. New York Yankees</display-name>
@@ -99,12 +93,6 @@
   <channel id="PDC: Players Championship 23 - Board 3">
     <display-name lang="en">PDC: Players Championship 23 - Board 3</display-name>
   </channel>
-  <channel id="Le&#243;n vs. CF Montr&#233;al">
-    <display-name lang="en">Le&#243;n vs. CF Montr&#233;al</display-name>
-  </channel>
-  <channel id="Columbus Crew vs. Toluca">
-    <display-name lang="en">Columbus Crew vs. Toluca</display-name>
-  </channel>
   <channel id="Puebla vs. New York City FC">
     <display-name lang="en">Puebla vs. New York City FC</display-name>
   </channel>
@@ -162,7 +150,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250729000000 -0500" channel="PDC: Players Championship 22 - Board 1" stop="20250729235959 -0500">
+  <programme start="20250729000000 -0500" channel="Toronto Blue Jays vs. Baltimore Orioles" stop="20250729235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -170,7 +158,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250729000000 -0500" channel="PDC: Players Championship 22 - Board 3" stop="20250729235959 -0500">
+  <programme start="20250729000000 -0500" channel="Arizona Diamondbacks vs. Detroit Tigers" stop="20250729235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -178,7 +166,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250729000000 -0500" channel="PDC: Players Championship 22 - Board 4" stop="20250729235959 -0500">
+  <programme start="20250729000000 -0500" channel="Colorado Rockies vs. Cleveland Guardians" stop="20250729235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -186,7 +174,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250729000000 -0500" channel="PDC: Players Championship 22 - Board 2" stop="20250729235959 -0500">
+  <programme start="20250729000000 -0500" channel="Le&#243;n vs. CF Montr&#233;al" stop="20250729235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250729000000 -0500" channel="Columbus Crew vs. Toluca" stop="20250729235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -244,30 +240,6 @@
   </programme>
   <programme start="20250729000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250729235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Toronto Blue Jays vs. Baltimore Orioles" stop="20250729235959 -0500">
-    <title>05:35 PM 29/07/25 - Toronto Blue Jays vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Arizona Diamondbacks vs. Detroit Tigers" stop="20250729235959 -0500">
-    <title>05:40 PM 29/07/25 - Arizona Diamondbacks vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Colorado Rockies vs. Cleveland Guardians" stop="20250729235959 -0500">
-    <title>05:40 PM 29/07/25 - Colorado Rockies vs. Cleveland Guardians</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -420,22 +392,6 @@
   </programme>
   <programme start="20250729000000 -0500" channel="PDC: Players Championship 23 - Board 3" stop="20250729235959 -0500">
     <title>06:00 AM 30/07/25 - PDC: Players Championship 23 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Le&#243;n vs. CF Montr&#233;al" stop="20250729235959 -0500">
-    <title>06:00 PM 29/07/25 - Le&#243;n vs. CF Montr&#233;al</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Columbus Crew vs. Toluca" stop="20250729235959 -0500">
-    <title>06:00 PM 29/07/25 - Columbus Crew vs. Toluca</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
