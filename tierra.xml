@@ -30,6 +30,9 @@
   <channel id="Miami Marlins vs. St. Louis Cardinals">
     <display-name lang="en">Miami Marlins vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Washington Nationals vs. Houston Astros">
+    <display-name lang="en">Washington Nationals vs. Houston Astros</display-name>
+  </channel>
   <channel id="Storm at Sun">
     <display-name lang="en">Storm at Sun</display-name>
   </channel>
@@ -50,9 +53,6 @@
   </channel>
   <channel id="Las Vegas Raiders vs. Seattle Seahawks">
     <display-name lang="en">Las Vegas Raiders vs. Seattle Seahawks</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Houston Astros">
-    <display-name lang="en">Washington Nationals vs. Houston Astros</display-name>
   </channel>
   <channel id="Texas Rangers vs. Los Angeles Angels">
     <display-name lang="en">Texas Rangers vs. Los Angeles Angels</display-name>
@@ -209,6 +209,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250728000000 -0500" channel="Washington Nationals vs. Houston Astros" stop="20250728235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250728000000 -0500" channel="Storm at Sun" stop="20250728235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -259,14 +267,6 @@
   </programme>
   <programme start="20250728000000 -0500" channel="Las Vegas Raiders vs. Seattle Seahawks" stop="20250728235959 -0500">
     <title>09:00 PM 07/08/25 - Las Vegas Raiders vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250728000000 -0500" channel="Washington Nationals vs. Houston Astros" stop="20250728235959 -0500">
-    <title>07:10 PM 28/07/25 - Washington Nationals vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
