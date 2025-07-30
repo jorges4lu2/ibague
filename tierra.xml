@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250730 -0500">
-  <channel id="Seattle Mariners vs. Athletics">
-    <display-name lang="en">Seattle Mariners vs. Athletics</display-name>
-  </channel>
-  <channel id="San Diego FC vs. Pachuca">
-    <display-name lang="en">San Diego FC vs. Pachuca</display-name>
-  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
@@ -147,22 +141,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250730000000 -0500" channel="Seattle Mariners vs. Athletics" stop="20250730235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="San Diego FC vs. Pachuca" stop="20250730235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250730000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250730235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
