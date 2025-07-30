@@ -30,6 +30,9 @@
   <channel id="Miami Marlins vs. St. Louis Cardinals">
     <display-name lang="en">Miami Marlins vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Washington Nationals vs. Houston Astros">
+    <display-name lang="en">Washington Nationals vs. Houston Astros</display-name>
+  </channel>
   <channel id="Valkyries at Dream">
     <display-name lang="en">Valkyries at Dream</display-name>
   </channel>
@@ -44,6 +47,9 @@
   </channel>
   <channel id="Puebla vs. New York City FC">
     <display-name lang="en">Puebla vs. New York City FC</display-name>
+  </channel>
+  <channel id="Houston Dynamo FC vs. Tigres UANL">
+    <display-name lang="en">Houston Dynamo FC vs. Tigres UANL</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -68,9 +74,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Houston Astros">
-    <display-name lang="en">Washington Nationals vs. Houston Astros</display-name>
   </channel>
   <channel id="Texas Rangers vs. Los Angeles Angels">
     <display-name lang="en">Texas Rangers vs. Los Angeles Angels</display-name>
@@ -98,9 +101,6 @@
   </channel>
   <channel id="PDC: Players Championship 23 - Board 3">
     <display-name lang="en">PDC: Players Championship 23 - Board 3</display-name>
-  </channel>
-  <channel id="Houston Dynamo FC vs. Tigres UANL">
-    <display-name lang="en">Houston Dynamo FC vs. Tigres UANL</display-name>
   </channel>
   <channel id="Mazatl&#225;n FC vs. LAFC">
     <display-name lang="en">Mazatl&#225;n FC vs. LAFC</display-name>
@@ -230,6 +230,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250729000000 -0500" channel="Washington Nationals vs. Houston Astros" stop="20250729235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250729000000 -0500" channel="Valkyries at Dream" stop="20250729235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -263,6 +271,14 @@
     </audio>
   </programme>
   <programme start="20250729000000 -0500" channel="Puebla vs. New York City FC" stop="20250729235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250729000000 -0500" channel="Houston Dynamo FC vs. Tigres UANL" stop="20250729235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -328,14 +344,6 @@
   </programme>
   <programme start="20250729000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250729235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Washington Nationals vs. Houston Astros" stop="20250729235959 -0500">
-    <title>07:10 PM 29/07/25 - Washington Nationals vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -408,14 +416,6 @@
   </programme>
   <programme start="20250729000000 -0500" channel="PDC: Players Championship 23 - Board 3" stop="20250729235959 -0500">
     <title>06:00 AM 30/07/25 - PDC: Players Championship 23 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Houston Dynamo FC vs. Tigres UANL" stop="20250729235959 -0500">
-    <title>08:00 PM 29/07/25 - Houston Dynamo FC vs. Tigres UANL</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
