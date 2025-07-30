@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250729 -0500">
-  <channel id="Toronto Blue Jays vs. Baltimore Orioles">
-    <display-name lang="en">Toronto Blue Jays vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Detroit Tigers">
-    <display-name lang="en">Arizona Diamondbacks vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Cleveland Guardians">
-    <display-name lang="en">Colorado Rockies vs. Cleveland Guardians</display-name>
-  </channel>
   <channel id="Tampa Bay Rays vs. New York Yankees">
     <display-name lang="en">Tampa Bay Rays vs. New York Yankees</display-name>
   </channel>
@@ -33,17 +24,23 @@
   <channel id="Washington Nationals vs. Houston Astros">
     <display-name lang="en">Washington Nationals vs. Houston Astros</display-name>
   </channel>
+  <channel id="Texas Rangers vs. Los Angeles Angels">
+    <display-name lang="en">Texas Rangers vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="New York Mets vs. San Diego Padres">
+    <display-name lang="en">New York Mets vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. San Francisco Giants">
+    <display-name lang="en">Pittsburgh Pirates vs. San Francisco Giants</display-name>
+  </channel>
   <channel id="Valkyries at Dream">
     <display-name lang="en">Valkyries at Dream</display-name>
   </channel>
   <channel id="Sky at Mystics">
     <display-name lang="en">Sky at Mystics</display-name>
   </channel>
-  <channel id="Le&#243;n vs. CF Montr&#233;al">
-    <display-name lang="en">Le&#243;n vs. CF Montr&#233;al</display-name>
-  </channel>
-  <channel id="Columbus Crew vs. Toluca">
-    <display-name lang="en">Columbus Crew vs. Toluca</display-name>
+  <channel id="Aces at Sparks">
+    <display-name lang="en">Aces at Sparks</display-name>
   </channel>
   <channel id="Puebla vs. New York City FC">
     <display-name lang="en">Puebla vs. New York City FC</display-name>
@@ -75,20 +72,8 @@
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
   </channel>
-  <channel id="Texas Rangers vs. Los Angeles Angels">
-    <display-name lang="en">Texas Rangers vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="New York Mets vs. San Diego Padres">
-    <display-name lang="en">New York Mets vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. San Francisco Giants">
-    <display-name lang="en">Pittsburgh Pirates vs. San Francisco Giants</display-name>
-  </channel>
   <channel id="Seattle Mariners vs. Athletics">
     <display-name lang="en">Seattle Mariners vs. Athletics</display-name>
-  </channel>
-  <channel id="Aces at Sparks">
-    <display-name lang="en">Aces at Sparks</display-name>
   </channel>
   <channel id="PDC: Players Championship 23 - Board 4">
     <display-name lang="en">PDC: Players Championship 23 - Board 4</display-name>
@@ -150,30 +135,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250729000000 -0500" channel="Toronto Blue Jays vs. Baltimore Orioles" stop="20250729235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Arizona Diamondbacks vs. Detroit Tigers" stop="20250729235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Colorado Rockies vs. Cleveland Guardians" stop="20250729235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250729000000 -0500" channel="Tampa Bay Rays vs. New York Yankees" stop="20250729235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -238,6 +199,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250729000000 -0500" channel="Texas Rangers vs. Los Angeles Angels" stop="20250729235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250729000000 -0500" channel="New York Mets vs. San Diego Padres" stop="20250729235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250729000000 -0500" channel="Pittsburgh Pirates vs. San Francisco Giants" stop="20250729235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250729000000 -0500" channel="Valkyries at Dream" stop="20250729235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -254,15 +239,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250729000000 -0500" channel="Le&#243;n vs. CF Montr&#233;al" stop="20250729235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Columbus Crew vs. Toluca" stop="20250729235959 -0500">
+  <programme start="20250729000000 -0500" channel="Aces at Sparks" stop="20250729235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -350,40 +327,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250729000000 -0500" channel="Texas Rangers vs. Los Angeles Angels" stop="20250729235959 -0500">
-    <title>08:38 PM 29/07/25 - Texas Rangers vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="New York Mets vs. San Diego Padres" stop="20250729235959 -0500">
-    <title>08:40 PM 29/07/25 - New York Mets vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Pittsburgh Pirates vs. San Francisco Giants" stop="20250729235959 -0500">
-    <title>08:45 PM 29/07/25 - Pittsburgh Pirates vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250729000000 -0500" channel="Seattle Mariners vs. Athletics" stop="20250729235959 -0500">
     <title>09:05 PM 29/07/25 - Seattle Mariners vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250729000000 -0500" channel="Aces at Sparks" stop="20250729235959 -0500">
-    <title>09:00 PM 29/07/25 - Aces at Sparks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
