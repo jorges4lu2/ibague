@@ -3,6 +3,12 @@
   <channel id="Toronto Blue Jays vs. Baltimore Orioles">
     <display-name lang="en">Toronto Blue Jays vs. Baltimore Orioles</display-name>
   </channel>
+  <channel id="Arizona Diamondbacks vs. Detroit Tigers">
+    <display-name lang="en">Arizona Diamondbacks vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Minnesota Twins">
+    <display-name lang="en">Boston Red Sox vs. Minnesota Twins</display-name>
+  </channel>
   <channel id="PDC: Players Championship 23 - Board 4">
     <display-name lang="en">PDC: Players Championship 23 - Board 4</display-name>
   </channel>
@@ -35,12 +41,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Detroit Tigers">
-    <display-name lang="en">Arizona Diamondbacks vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Minnesota Twins">
-    <display-name lang="en">Boston Red Sox vs. Minnesota Twins</display-name>
   </channel>
   <channel id="Atlanta Braves vs. Kansas City Royals">
     <display-name lang="en">Atlanta Braves vs. Kansas City Royals</display-name>
@@ -155,6 +155,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250730000000 -0500" channel="Arizona Diamondbacks vs. Detroit Tigers" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="Boston Red Sox vs. Minnesota Twins" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250730000000 -0500" channel="PDC: Players Championship 23 - Board 4" stop="20250730235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -237,22 +253,6 @@
   </programme>
   <programme start="20250730000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250730235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Arizona Diamondbacks vs. Detroit Tigers" stop="20250730235959 -0500">
-    <title>12:10 PM 30/07/25 - Arizona Diamondbacks vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Boston Red Sox vs. Minnesota Twins" stop="20250730235959 -0500">
-    <title>12:10 PM 30/07/25 - Boston Red Sox vs. Minnesota Twins</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
