@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250730 -0500">
+  <channel id="PDC: Players Championship 23 - Board 4">
+    <display-name lang="en">PDC: Players Championship 23 - Board 4</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 23 - Board 1">
+    <display-name lang="en">PDC: Players Championship 23 - Board 1</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 23 - Board 2">
+    <display-name lang="en">PDC: Players Championship 23 - Board 2</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 23 - Board 3">
+    <display-name lang="en">PDC: Players Championship 23 - Board 3</display-name>
+  </channel>
+  <channel id="Yokohama F. Marinos vs Liverpool">
+    <display-name lang="en">Yokohama F. Marinos vs Liverpool</display-name>
+  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
@@ -66,21 +81,6 @@
   <channel id="Seattle Mariners vs. Athletics">
     <display-name lang="en">Seattle Mariners vs. Athletics</display-name>
   </channel>
-  <channel id="PDC: Players Championship 23 - Board 4">
-    <display-name lang="en">PDC: Players Championship 23 - Board 4</display-name>
-  </channel>
-  <channel id="PDC: Players Championship 23 - Board 1">
-    <display-name lang="en">PDC: Players Championship 23 - Board 1</display-name>
-  </channel>
-  <channel id="PDC: Players Championship 23 - Board 2">
-    <display-name lang="en">PDC: Players Championship 23 - Board 2</display-name>
-  </channel>
-  <channel id="PDC: Players Championship 23 - Board 3">
-    <display-name lang="en">PDC: Players Championship 23 - Board 3</display-name>
-  </channel>
-  <channel id="Yokohama F. Marinos vs Liverpool">
-    <display-name lang="en">Yokohama F. Marinos vs Liverpool</display-name>
-  </channel>
   <channel id="West Ham United vs Everton">
     <display-name lang="en">West Ham United vs Everton</display-name>
   </channel>
@@ -141,6 +141,46 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250730000000 -0500" channel="PDC: Players Championship 23 - Board 4" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="PDC: Players Championship 23 - Board 1" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="PDC: Players Championship 23 - Board 2" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="PDC: Players Championship 23 - Board 3" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="Yokohama F. Marinos vs Liverpool" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250730000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250730235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
@@ -311,46 +351,6 @@
   </programme>
   <programme start="20250730000000 -0500" channel="Seattle Mariners vs. Athletics" stop="20250730235959 -0500">
     <title>09:05 PM 30/07/25 - Seattle Mariners vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="PDC: Players Championship 23 - Board 4" stop="20250730235959 -0500">
-    <title>06:00 AM 30/07/25 - PDC: Players Championship 23 - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="PDC: Players Championship 23 - Board 1" stop="20250730235959 -0500">
-    <title>06:00 AM 30/07/25 - PDC: Players Championship 23 - Board 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="PDC: Players Championship 23 - Board 2" stop="20250730235959 -0500">
-    <title>06:00 AM 30/07/25 - PDC: Players Championship 23 - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="PDC: Players Championship 23 - Board 3" stop="20250730235959 -0500">
-    <title>06:00 AM 30/07/25 - PDC: Players Championship 23 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Yokohama F. Marinos vs Liverpool" stop="20250730235959 -0500">
-    <title>05:30 AM 30/07/25 - Yokohama F. Marinos vs Liverpool</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
