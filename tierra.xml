@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250731 -0500">
-  <channel id="Arsenal vs Tottenham Hotspur">
-    <display-name lang="en">Arsenal vs Tottenham Hotspur</display-name>
-  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
@@ -32,6 +29,9 @@
   </channel>
   <channel id="Texas Rangers vs. Seattle Mariners">
     <display-name lang="en">Texas Rangers vs. Seattle Mariners</display-name>
+  </channel>
+  <channel id="Valkyries at Mystics">
+    <display-name lang="en">Valkyries at Mystics</display-name>
   </channel>
   <channel id="PDC: ADA Tour 5">
     <display-name lang="en">PDC: ADA Tour 5</display-name>
@@ -69,14 +69,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250731000000 -0500" channel="Arsenal vs Tottenham Hotspur" stop="20250731235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250731000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250731235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
@@ -151,6 +143,14 @@
   </programme>
   <programme start="20250731000000 -0500" channel="Texas Rangers vs. Seattle Mariners" stop="20250731235959 -0500">
     <title>08:40 PM 31/07/25 - Texas Rangers vs. Seattle Mariners</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250731000000 -0500" channel="Valkyries at Mystics" stop="20250731235959 -0500">
+    <title>06:30 PM 31/07/25 - Valkyries at Mystics</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
