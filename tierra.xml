@@ -1,16 +1,40 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250730 -0500">
-  <channel id="New York Mets vs. San Diego Padres">
-    <display-name lang="en">New York Mets vs. San Diego Padres</display-name>
-  </channel>
   <channel id="Colorado Rockies vs. Cleveland Guardians">
     <display-name lang="en">Colorado Rockies vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. New York Yankees">
+    <display-name lang="en">Tampa Bay Rays vs. New York Yankees</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. Cincinnati Reds">
+    <display-name lang="en">Los Angeles Dodgers vs. Cincinnati Reds</display-name>
+  </channel>
+  <channel id="Miami Marlins vs. St. Louis Cardinals">
+    <display-name lang="en">Miami Marlins vs. St. Louis Cardinals</display-name>
   </channel>
   <channel id="Mercury at Fever">
     <display-name lang="en">Mercury at Fever</display-name>
   </channel>
+  <channel id="Dream at Wings">
+    <display-name lang="en">Dream at Wings</display-name>
+  </channel>
+  <channel id="Liberty at Lynx">
+    <display-name lang="en">Liberty at Lynx</display-name>
+  </channel>
   <channel id="West Ham United vs Everton">
     <display-name lang="en">West Ham United vs Everton</display-name>
+  </channel>
+  <channel id="Atlas vs. Inter Miami CF">
+    <display-name lang="en">Atlas vs. Inter Miami CF</display-name>
+  </channel>
+  <channel id="Atlanta United FC vs. Necaxa">
+    <display-name lang="en">Atlanta United FC vs. Necaxa</display-name>
+  </channel>
+  <channel id="Orlando City SC vs. Pumas UNAM">
+    <display-name lang="en">Orlando City SC vs. Pumas UNAM</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
@@ -33,35 +57,11 @@
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
   </channel>
-  <channel id="Tampa Bay Rays vs. New York Yankees">
-    <display-name lang="en">Tampa Bay Rays vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Cincinnati Reds">
-    <display-name lang="en">Los Angeles Dodgers vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. St. Louis Cardinals">
-    <display-name lang="en">Miami Marlins vs. St. Louis Cardinals</display-name>
-  </channel>
   <channel id="Texas Rangers vs. Los Angeles Angels">
     <display-name lang="en">Texas Rangers vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="Seattle Mariners vs. Athletics">
     <display-name lang="en">Seattle Mariners vs. Athletics</display-name>
-  </channel>
-  <channel id="Dream at Wings">
-    <display-name lang="en">Dream at Wings</display-name>
-  </channel>
-  <channel id="Liberty at Lynx">
-    <display-name lang="en">Liberty at Lynx</display-name>
-  </channel>
-  <channel id="Atlas vs. Inter Miami CF">
-    <display-name lang="en">Atlas vs. Inter Miami CF</display-name>
-  </channel>
-  <channel id="Atlanta United FC vs. Necaxa">
-    <display-name lang="en">Atlanta United FC vs. Necaxa</display-name>
-  </channel>
-  <channel id="Orlando City SC vs. Pumas UNAM">
-    <display-name lang="en">Orlando City SC vs. Pumas UNAM</display-name>
   </channel>
   <channel id="Quer&#233;taro vs. Minnesota United FC">
     <display-name lang="en">Quer&#233;taro vs. Minnesota United FC</display-name>
@@ -75,14 +75,14 @@
   <channel id="Atl&#233;tico de San Luis vs. Portland Timbers">
     <display-name lang="en">Atl&#233;tico de San Luis vs. Portland Timbers</display-name>
   </channel>
+  <channel id="Arsenal vs Tottenham Hotspur">
+    <display-name lang="en">Arsenal vs Tottenham Hotspur</display-name>
+  </channel>
   <channel id="Bournemouth vs West Ham United">
     <display-name lang="en">Bournemouth vs West Ham United</display-name>
   </channel>
   <channel id="Manchester United vs Everton">
     <display-name lang="en">Manchester United vs Everton</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -111,7 +111,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250730000000 -0500" channel="New York Mets vs. San Diego Padres" stop="20250730235959 -0500">
+  <programme start="20250730000000 -0500" channel="Colorado Rockies vs. Cleveland Guardians" stop="20250730235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -119,7 +119,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250730000000 -0500" channel="Colorado Rockies vs. Cleveland Guardians" stop="20250730235959 -0500">
+  <programme start="20250730000000 -0500" channel="Tampa Bay Rays vs. New York Yankees" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="Los Angeles Dodgers vs. Cincinnati Reds" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="Miami Marlins vs. St. Louis Cardinals" stop="20250730235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -135,7 +151,55 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250730000000 -0500" channel="Dream at Wings" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="Liberty at Lynx" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250730000000 -0500" channel="West Ham United vs Everton" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="Atlas vs. Inter Miami CF" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="Atlanta United FC vs. Necaxa" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="Orlando City SC vs. Pumas UNAM" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250730000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250730235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -199,30 +263,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250730000000 -0500" channel="Tampa Bay Rays vs. New York Yankees" stop="20250730235959 -0500">
-    <title>06:05 PM 30/07/25 - Tampa Bay Rays vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Los Angeles Dodgers vs. Cincinnati Reds" stop="20250730235959 -0500">
-    <title>06:10 PM 30/07/25 - Los Angeles Dodgers vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Miami Marlins vs. St. Louis Cardinals" stop="20250730235959 -0500">
-    <title>06:45 PM 30/07/25 - Miami Marlins vs. St. Louis Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250730000000 -0500" channel="Texas Rangers vs. Los Angeles Angels" stop="20250730235959 -0500">
     <title>08:38 PM 30/07/25 - Texas Rangers vs. Los Angeles Angels</title>
     <date>2025</date>
@@ -233,46 +273,6 @@
   </programme>
   <programme start="20250730000000 -0500" channel="Seattle Mariners vs. Athletics" stop="20250730235959 -0500">
     <title>09:05 PM 30/07/25 - Seattle Mariners vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Dream at Wings" stop="20250730235959 -0500">
-    <title>07:00 PM 30/07/25 - Dream at Wings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Liberty at Lynx" stop="20250730235959 -0500">
-    <title>07:00 PM 30/07/25 - Liberty at Lynx</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Atlas vs. Inter Miami CF" stop="20250730235959 -0500">
-    <title>06:30 PM 30/07/25 - Atlas vs. Inter Miami CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Atlanta United FC vs. Necaxa" stop="20250730235959 -0500">
-    <title>06:30 PM 30/07/25 - Atlanta United FC vs. Necaxa</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Orlando City SC vs. Pumas UNAM" stop="20250730235959 -0500">
-    <title>07:00 PM 30/07/25 - Orlando City SC vs. Pumas UNAM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -311,6 +311,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250730000000 -0500" channel="Arsenal vs Tottenham Hotspur" stop="20250730235959 -0500">
+    <title>06:30 AM 31/07/25 - Arsenal vs Tottenham Hotspur</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250730000000 -0500" channel="Bournemouth vs West Ham United" stop="20250730235959 -0500">
     <title>01:00 PM 03/08/25 - Bournemouth vs West Ham United</title>
     <date>2025</date>
@@ -321,14 +329,6 @@
   </programme>
   <programme start="20250730000000 -0500" channel="Manchester United vs Everton" stop="20250730235959 -0500">
     <title>04:00 PM 03/08/25 - Manchester United vs Everton</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250730235959 -0500">
-    <title>07:00 PM 30/07/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
