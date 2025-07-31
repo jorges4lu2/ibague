@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250731 -0500">
+  <channel id="Tampa Bay Rays vs. New York Yankees">
+    <display-name lang="en">Tampa Bay Rays vs. New York Yankees</display-name>
+  </channel>
   <channel id="Los Angeles Chargers vs. Detroit Lions">
     <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
   </channel>
@@ -20,9 +23,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. New York Yankees">
-    <display-name lang="en">Tampa Bay Rays vs. New York Yankees</display-name>
   </channel>
   <channel id="Atlanta Braves vs. Cincinnati Reds">
     <display-name lang="en">Atlanta Braves vs. Cincinnati Reds</display-name>
@@ -69,6 +69,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250731000000 -0500" channel="Tampa Bay Rays vs. New York Yankees" stop="20250731235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250731000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250731235959 -0500">
     <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
     <date>2025</date>
@@ -119,14 +127,6 @@
   </programme>
   <programme start="20250731000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250731235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250731000000 -0500" channel="Tampa Bay Rays vs. New York Yankees" stop="20250731235959 -0500">
-    <title>12:05 PM 31/07/25 - Tampa Bay Rays vs. New York Yankees</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
