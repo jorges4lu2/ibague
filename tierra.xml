@@ -33,6 +33,9 @@
   <channel id="Orlando City SC vs. Pumas UNAM">
     <display-name lang="en">Orlando City SC vs. Pumas UNAM</display-name>
   </channel>
+  <channel id="Quer&#233;taro vs. Minnesota United FC">
+    <display-name lang="en">Quer&#233;taro vs. Minnesota United FC</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -62,9 +65,6 @@
   </channel>
   <channel id="Seattle Mariners vs. Athletics">
     <display-name lang="en">Seattle Mariners vs. Athletics</display-name>
-  </channel>
-  <channel id="Quer&#233;taro vs. Minnesota United FC">
-    <display-name lang="en">Quer&#233;taro vs. Minnesota United FC</display-name>
   </channel>
   <channel id="Manchester United vs Bournemouth">
     <display-name lang="en">Manchester United vs Bournemouth</display-name>
@@ -199,6 +199,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250730000000 -0500" channel="Quer&#233;taro vs. Minnesota United FC" stop="20250730235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250730000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250730235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -273,14 +281,6 @@
   </programme>
   <programme start="20250730000000 -0500" channel="Seattle Mariners vs. Athletics" stop="20250730235959 -0500">
     <title>09:05 PM 30/07/25 - Seattle Mariners vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250730000000 -0500" channel="Quer&#233;taro vs. Minnesota United FC" stop="20250730235959 -0500">
-    <title>07:30 PM 30/07/25 - Quer&#233;taro vs. Minnesota United FC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
