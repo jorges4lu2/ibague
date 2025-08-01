@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250801 -0500">
+  <channel id="Detroit Tigers vs. Philadelphia Phillies">
+    <display-name lang="en">Detroit Tigers vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Washington Nationals">
+    <display-name lang="en">Milwaukee Brewers vs. Washington Nationals</display-name>
+  </channel>
   <channel id="PDC: CDC Showcase - Board 2">
     <display-name lang="en">PDC: CDC Showcase - Board 2</display-name>
   </channel>
@@ -14,6 +20,15 @@
   </channel>
   <channel id="PDC: CDC Showcase 2025 - Board 3">
     <display-name lang="en">PDC: CDC Showcase 2025 - Board 3</display-name>
+  </channel>
+  <channel id="Le&#243;n vs. New York City FC">
+    <display-name lang="en">Le&#243;n vs. New York City FC</display-name>
+  </channel>
+  <channel id="Le&#243;n vs. New York City FC (Spanish/Espanol)">
+    <display-name lang="en">Le&#243;n vs. New York City FC (Spanish/Espanol)</display-name>
+  </channel>
+  <channel id="Puebla vs. Columbus Crew">
+    <display-name lang="en">Puebla vs. Columbus Crew</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -32,12 +47,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Detroit Tigers vs. Philadelphia Phillies">
-    <display-name lang="en">Detroit Tigers vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Washington Nationals">
-    <display-name lang="en">Milwaukee Brewers vs. Washington Nationals</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Toronto Blue Jays">
     <display-name lang="en">Kansas City Royals vs. Toronto Blue Jays</display-name>
@@ -108,6 +117,18 @@
   <channel id="PDC: Winmau Darts Classic 2025 - Board 2">
     <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 2</display-name>
   </channel>
+  <channel id="Mazatl&#225;n FC vs. Houston Dynamo FC">
+    <display-name lang="en">Mazatl&#225;n FC vs. Houston Dynamo FC</display-name>
+  </channel>
+  <channel id="CF Montr&#233;al vs. Toluca">
+    <display-name lang="en">CF Montr&#233;al vs. Toluca</display-name>
+  </channel>
+  <channel id="Pachuca vs. LAFC">
+    <display-name lang="en">Pachuca vs. LAFC</display-name>
+  </channel>
+  <channel id="San Diego FC vs. Tigres UANL">
+    <display-name lang="en">San Diego FC vs. Tigres UANL</display-name>
+  </channel>
   <channel id="Bournemouth vs. West Ham United">
     <display-name lang="en">Bournemouth vs. West Ham United</display-name>
   </channel>
@@ -147,6 +168,22 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250801000000 -0500" channel="Detroit Tigers vs. Philadelphia Phillies" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Milwaukee Brewers vs. Washington Nationals" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250801000000 -0500" channel="PDC: CDC Showcase - Board 2" stop="20250801235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -180,6 +217,30 @@
     </audio>
   </programme>
   <programme start="20250801000000 -0500" channel="PDC: CDC Showcase 2025 - Board 3" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Le&#243;n vs. New York City FC" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Le&#243;n vs. New York City FC (Spanish/Espanol)" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Puebla vs. Columbus Crew" stop="20250801235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -229,22 +290,6 @@
   </programme>
   <programme start="20250801000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250801235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="Detroit Tigers vs. Philadelphia Phillies" stop="20250801235959 -0500">
-    <title>05:45 PM 01/08/25 - Detroit Tigers vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="Milwaukee Brewers vs. Washington Nationals" stop="20250801235959 -0500">
-    <title>05:45 PM 01/08/25 - Milwaukee Brewers vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -429,6 +474,38 @@
   </programme>
   <programme start="20250801000000 -0500" channel="PDC: Winmau Darts Classic 2025 - Board 2" stop="20250801235959 -0500">
     <title>11:00 AM 02/08/25 - PDC: Winmau Darts Classic 2025 - Board 2</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Mazatl&#225;n FC vs. Houston Dynamo FC" stop="20250801235959 -0500">
+    <title>07:30 PM 01/08/25 - Mazatl&#225;n FC vs. Houston Dynamo FC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="CF Montr&#233;al vs. Toluca" stop="20250801235959 -0500">
+    <title>08:00 PM 01/08/25 - CF Montr&#233;al vs. Toluca</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Pachuca vs. LAFC" stop="20250801235959 -0500">
+    <title>09:30 PM 01/08/25 - Pachuca vs. LAFC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="San Diego FC vs. Tigres UANL" stop="20250801235959 -0500">
+    <title>10:00 PM 01/08/25 - San Diego FC vs. Tigres UANL</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
