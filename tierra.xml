@@ -3,6 +3,9 @@
   <channel id="PDC: ADA Tour 5">
     <display-name lang="en">PDC: ADA Tour 5</display-name>
   </channel>
+  <channel id="F1: Hungarian Grand Prix (Practice 2)">
+    <display-name lang="en">F1: Hungarian Grand Prix (Practice 2)</display-name>
+  </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
   </channel>
@@ -66,6 +69,21 @@
   <channel id="Texas Rangers vs. Seattle Mariners">
     <display-name lang="en">Texas Rangers vs. Seattle Mariners</display-name>
   </channel>
+  <channel id="Mercury at Dream">
+    <display-name lang="en">Mercury at Dream</display-name>
+  </channel>
+  <channel id="Liberty at Sun">
+    <display-name lang="en">Liberty at Sun</display-name>
+  </channel>
+  <channel id="Valkyries at Sky">
+    <display-name lang="en">Valkyries at Sky</display-name>
+  </channel>
+  <channel id="Fever at Wings">
+    <display-name lang="en">Fever at Wings</display-name>
+  </channel>
+  <channel id="Sparks at Storm">
+    <display-name lang="en">Sparks at Storm</display-name>
+  </channel>
   <channel id="PDC: CDC Showcase - Board 2">
     <display-name lang="en">PDC: CDC Showcase - Board 2</display-name>
   </channel>
@@ -108,9 +126,6 @@
   <channel id="Manchester United vs. Everton">
     <display-name lang="en">Manchester United vs. Everton</display-name>
   </channel>
-  <channel id="F1: Hungarian Grand Prix (Practice 2)">
-    <display-name lang="en">F1: Hungarian Grand Prix (Practice 2)</display-name>
-  </channel>
   <channel id="F1: Hungarian Grand Prix (Practice 3)">
     <display-name lang="en">F1: Hungarian Grand Prix (Practice 3)</display-name>
   </channel>
@@ -145,6 +160,14 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250801000000 -0500" channel="PDC: ADA Tour 5" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="F1: Hungarian Grand Prix (Practice 2)" stop="20250801235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -320,6 +343,46 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250801000000 -0500" channel="Mercury at Dream" stop="20250801235959 -0500">
+    <title>06:30 PM 01/08/25 - Mercury at Dream</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Liberty at Sun" stop="20250801235959 -0500">
+    <title>06:30 PM 01/08/25 - Liberty at Sun</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Valkyries at Sky" stop="20250801235959 -0500">
+    <title>06:30 PM 01/08/25 - Valkyries at Sky</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Fever at Wings" stop="20250801235959 -0500">
+    <title>06:30 PM 01/08/25 - Fever at Wings</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Sparks at Storm" stop="20250801235959 -0500">
+    <title>09:00 PM 01/08/25 - Sparks at Storm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250801000000 -0500" channel="PDC: CDC Showcase - Board 2" stop="20250801235959 -0500">
     <title>05:00 PM 01/08/25 - PDC: CDC Showcase - Board 2</title>
     <date>2025</date>
@@ -426,14 +489,6 @@
   </programme>
   <programme start="20250801000000 -0500" channel="Manchester United vs. Everton" stop="20250801235959 -0500">
     <title>04:00 PM 03/08/25 - Manchester United vs. Everton</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="F1: Hungarian Grand Prix (Practice 2)" stop="20250801235959 -0500">
-    <title>10:00 AM 01/08/25 - F1: Hungarian Grand Prix (Practice 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
