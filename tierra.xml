@@ -1,7 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250801 -0500">
-  <channel id="Baltimore Orioles vs. Chicago Cubs">
-    <display-name lang="en">Baltimore Orioles vs. Chicago Cubs</display-name>
+  <channel id="PDC: CDC Showcase - Board 2">
+    <display-name lang="en">PDC: CDC Showcase - Board 2</display-name>
+  </channel>
+  <channel id="PDC: CDC Showcase - Board 3">
+    <display-name lang="en">PDC: CDC Showcase - Board 3</display-name>
+  </channel>
+  <channel id="PDC: CDC Showcase 2025 - Board 1">
+    <display-name lang="en">PDC: CDC Showcase 2025 - Board 1</display-name>
+  </channel>
+  <channel id="PDC: CDC Showcase 2025 - Board 2">
+    <display-name lang="en">PDC: CDC Showcase 2025 - Board 2</display-name>
+  </channel>
+  <channel id="PDC: CDC Showcase 2025 - Board 3">
+    <display-name lang="en">PDC: CDC Showcase 2025 - Board 3</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -75,21 +87,6 @@
   <channel id="Sparks at Storm">
     <display-name lang="en">Sparks at Storm</display-name>
   </channel>
-  <channel id="PDC: CDC Showcase - Board 2">
-    <display-name lang="en">PDC: CDC Showcase - Board 2</display-name>
-  </channel>
-  <channel id="PDC: CDC Showcase - Board 3">
-    <display-name lang="en">PDC: CDC Showcase - Board 3</display-name>
-  </channel>
-  <channel id="PDC: CDC Showcase 2025 - Board 1">
-    <display-name lang="en">PDC: CDC Showcase 2025 - Board 1</display-name>
-  </channel>
-  <channel id="PDC: CDC Showcase 2025 - Board 2">
-    <display-name lang="en">PDC: CDC Showcase 2025 - Board 2</display-name>
-  </channel>
-  <channel id="PDC: CDC Showcase 2025 - Board 3">
-    <display-name lang="en">PDC: CDC Showcase 2025 - Board 3</display-name>
-  </channel>
   <channel id="PDC: ADA Tour 6-7">
     <display-name lang="en">PDC: ADA Tour 6-7</display-name>
   </channel>
@@ -150,7 +147,39 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250801000000 -0500" channel="Baltimore Orioles vs. Chicago Cubs" stop="20250801235959 -0500">
+  <programme start="20250801000000 -0500" channel="PDC: CDC Showcase - Board 2" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="PDC: CDC Showcase - Board 3" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="PDC: CDC Showcase 2025 - Board 1" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="PDC: CDC Showcase 2025 - Board 2" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="PDC: CDC Showcase 2025 - Board 3" stop="20250801235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -344,46 +373,6 @@
   </programme>
   <programme start="20250801000000 -0500" channel="Sparks at Storm" stop="20250801235959 -0500">
     <title>09:00 PM 01/08/25 - Sparks at Storm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="PDC: CDC Showcase - Board 2" stop="20250801235959 -0500">
-    <title>05:00 PM 01/08/25 - PDC: CDC Showcase - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="PDC: CDC Showcase - Board 3" stop="20250801235959 -0500">
-    <title>05:00 PM 01/08/25 - PDC: CDC Showcase - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="PDC: CDC Showcase 2025 - Board 1" stop="20250801235959 -0500">
-    <title>05:00 PM 01/08/25 - PDC: CDC Showcase 2025 - Board 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="PDC: CDC Showcase 2025 - Board 2" stop="20250801235959 -0500">
-    <title>05:00 PM 01/08/25 - PDC: CDC Showcase 2025 - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="PDC: CDC Showcase 2025 - Board 3" stop="20250801235959 -0500">
-    <title>05:00 PM 01/08/25 - PDC: CDC Showcase 2025 - Board 3</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
