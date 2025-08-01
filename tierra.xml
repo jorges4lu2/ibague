@@ -1,10 +1,25 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250731 -0500">
+  <channel id="Los Angeles Chargers vs. Detroit Lions">
+    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Cincinnati Reds">
+    <display-name lang="en">Atlanta Braves vs. Cincinnati Reds</display-name>
+  </channel>
+  <channel id="Valkyries at Mystics">
+    <display-name lang="en">Valkyries at Mystics</display-name>
+  </channel>
   <channel id="FC Cincinnati vs. Monterrey">
     <display-name lang="en">FC Cincinnati vs. Monterrey</display-name>
   </channel>
-  <channel id="Los Angeles Chargers vs. Detroit Lions">
-    <display-name lang="en">Los Angeles Chargers vs. Detroit Lions</display-name>
+  <channel id="FC Juarez vs. Charlotte FC">
+    <display-name lang="en">FC Juarez vs. Charlotte FC</display-name>
+  </channel>
+  <channel id="New York Red Bulls vs. Guadalajara">
+    <display-name lang="en">New York Red Bulls vs. Guadalajara</display-name>
+  </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -24,23 +39,11 @@
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
   </channel>
-  <channel id="Atlanta Braves vs. Cincinnati Reds">
-    <display-name lang="en">Atlanta Braves vs. Cincinnati Reds</display-name>
-  </channel>
   <channel id="Texas Rangers vs. Seattle Mariners">
     <display-name lang="en">Texas Rangers vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="Valkyries at Mystics">
-    <display-name lang="en">Valkyries at Mystics</display-name>
-  </channel>
   <channel id="PDC: ADA Tour 5">
     <display-name lang="en">PDC: ADA Tour 5</display-name>
-  </channel>
-  <channel id="FC Juarez vs. Charlotte FC">
-    <display-name lang="en">FC Juarez vs. Charlotte FC</display-name>
-  </channel>
-  <channel id="New York Red Bulls vs. Guadalajara">
-    <display-name lang="en">New York Red Bulls vs. Guadalajara</display-name>
   </channel>
   <channel id="Santos vs. Colorado Rapids">
     <display-name lang="en">Santos vs. Colorado Rapids</display-name>
@@ -56,9 +59,6 @@
   </channel>
   <channel id="Manchester United vs Everton">
     <display-name lang="en">Manchester United vs Everton</display-name>
-  </channel>
-  <channel id="TNA: Impact">
-    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -84,6 +84,30 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250731000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250731235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250731000000 -0500" channel="Atlanta Braves vs. Cincinnati Reds" stop="20250731235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250731000000 -0500" channel="Valkyries at Mystics" stop="20250731235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250731000000 -0500" channel="FC Cincinnati vs. Monterrey" stop="20250731235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -92,8 +116,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250731000000 -0500" channel="Los Angeles Chargers vs. Detroit Lions" stop="20250731235959 -0500">
-    <title>07:00 PM 31/07/25 - Los Angeles Chargers vs. Detroit Lions</title>
+  <programme start="20250731000000 -0500" channel="FC Juarez vs. Charlotte FC" stop="20250731235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250731000000 -0500" channel="New York Red Bulls vs. Guadalajara" stop="20250731235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250731000000 -0500" channel="TNA: Impact" stop="20250731235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -148,14 +188,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250731000000 -0500" channel="Atlanta Braves vs. Cincinnati Reds" stop="20250731235959 -0500">
-    <title>06:10 PM 31/07/25 - Atlanta Braves vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250731000000 -0500" channel="Texas Rangers vs. Seattle Mariners" stop="20250731235959 -0500">
     <title>08:40 PM 31/07/25 - Texas Rangers vs. Seattle Mariners</title>
     <date>2025</date>
@@ -164,32 +196,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250731000000 -0500" channel="Valkyries at Mystics" stop="20250731235959 -0500">
-    <title>06:30 PM 31/07/25 - Valkyries at Mystics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250731000000 -0500" channel="PDC: ADA Tour 5" stop="20250731235959 -0500">
     <title>03:30 AM 01/08/25 - PDC: ADA Tour 5</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250731000000 -0500" channel="FC Juarez vs. Charlotte FC" stop="20250731235959 -0500">
-    <title>06:30 PM 31/07/25 - FC Juarez vs. Charlotte FC</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250731000000 -0500" channel="New York Red Bulls vs. Guadalajara" stop="20250731235959 -0500">
-    <title>06:30 PM 31/07/25 - New York Red Bulls vs. Guadalajara</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -230,14 +238,6 @@
   </programme>
   <programme start="20250731000000 -0500" channel="Manchester United vs Everton" stop="20250731235959 -0500">
     <title>04:00 PM 03/08/25 - Manchester United vs Everton</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250731000000 -0500" channel="TNA: Impact" stop="20250731235959 -0500">
-    <title>07:00 PM 31/07/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
