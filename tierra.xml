@@ -3,6 +3,9 @@
   <channel id="Atlanta Braves vs. Cincinnati Reds">
     <display-name lang="en">Atlanta Braves vs. Cincinnati Reds</display-name>
   </channel>
+  <channel id="Baltimore Orioles vs. Chicago Cubs">
+    <display-name lang="en">Baltimore Orioles vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
   </channel>
@@ -20,9 +23,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Chicago Cubs">
-    <display-name lang="en">Baltimore Orioles vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Philadelphia Phillies">
     <display-name lang="en">Detroit Tigers vs. Philadelphia Phillies</display-name>
@@ -161,6 +161,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250801000000 -0500" channel="Baltimore Orioles vs. Chicago Cubs" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250801000000 -0500" channel="Indianapolis Colts vs. Baltimore Ravens" stop="20250801235959 -0500">
     <title>06:00 PM 07/08/25 - Indianapolis Colts vs. Baltimore Ravens</title>
     <date>2025</date>
@@ -203,14 +211,6 @@
   </programme>
   <programme start="20250801000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250801235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="Baltimore Orioles vs. Chicago Cubs" stop="20250801235959 -0500">
-    <title>01:20 PM 01/08/25 - Baltimore Orioles vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
