@@ -6,6 +6,9 @@
   <channel id="PDC: Asian Tour 21-22 (Philippines) &#8211; Day 1">
     <display-name lang="en">PDC: Asian Tour 21-22 (Philippines) &#8211; Day 1</display-name>
   </channel>
+  <channel id="F1: Hungarian Grand Prix (Practice 3)">
+    <display-name lang="en">F1: Hungarian Grand Prix (Practice 3)</display-name>
+  </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
   </channel>
@@ -105,9 +108,6 @@
   <channel id="Manchester United vs. Everton">
     <display-name lang="en">Manchester United vs. Everton</display-name>
   </channel>
-  <channel id="F1: Hungarian Grand Prix (Practice 3)">
-    <display-name lang="en">F1: Hungarian Grand Prix (Practice 3)</display-name>
-  </channel>
   <channel id="F1: Hungarian Grand Prix (Qualifying)">
     <display-name lang="en">F1: Hungarian Grand Prix (Qualifying)</display-name>
   </channel>
@@ -144,6 +144,14 @@
     </audio>
   </programme>
   <programme start="20250802000000 -0500" channel="PDC: Asian Tour 21-22 (Philippines) &#8211; Day 1" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="F1: Hungarian Grand Prix (Practice 3)" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -409,14 +417,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="Manchester United vs. Everton" stop="20250802235959 -0500">
     <title>04:00 PM 03/08/25 - Manchester United vs. Everton</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="F1: Hungarian Grand Prix (Practice 3)" stop="20250802235959 -0500">
-    <title>05:30 AM 02/08/25 - F1: Hungarian Grand Prix (Practice 3)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
