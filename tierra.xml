@@ -1,7 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250802 -0500">
-  <channel id="F1: Hungarian Grand Prix (Qualifying)">
-    <display-name lang="en">F1: Hungarian Grand Prix (Qualifying)</display-name>
+  <channel id="PDC: Winmau Darts Classic - Board 3">
+    <display-name lang="en">PDC: Winmau Darts Classic - Board 3</display-name>
+  </channel>
+  <channel id="PDC: Winmau Darts Classic - Board 2">
+    <display-name lang="en">PDC: Winmau Darts Classic - Board 2</display-name>
+  </channel>
+  <channel id="PDC: Winmau Darts Classic 2025 - Board 1">
+    <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 1</display-name>
+  </channel>
+  <channel id="PDC: Winmau Darts Classic 2025 - Board 3">
+    <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 3</display-name>
+  </channel>
+  <channel id="PDC: Winmau Darts Classic 2025 - Board 2">
+    <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 2</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -69,21 +81,6 @@
   <channel id="Lynx at Aces">
     <display-name lang="en">Lynx at Aces</display-name>
   </channel>
-  <channel id="PDC: Winmau Darts Classic - Board 3">
-    <display-name lang="en">PDC: Winmau Darts Classic - Board 3</display-name>
-  </channel>
-  <channel id="PDC: Winmau Darts Classic - Board 2">
-    <display-name lang="en">PDC: Winmau Darts Classic - Board 2</display-name>
-  </channel>
-  <channel id="PDC: Winmau Darts Classic 2025 - Board 1">
-    <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 1</display-name>
-  </channel>
-  <channel id="PDC: Winmau Darts Classic 2025 - Board 3">
-    <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 3</display-name>
-  </channel>
-  <channel id="PDC: Winmau Darts Classic 2025 - Board 2">
-    <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 2</display-name>
-  </channel>
   <channel id="PDC: ADA Tour 8">
     <display-name lang="en">PDC: ADA Tour 8</display-name>
   </channel>
@@ -147,7 +144,39 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250802000000 -0500" channel="F1: Hungarian Grand Prix (Qualifying)" stop="20250802235959 -0500">
+  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic - Board 3" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic - Board 2" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic 2025 - Board 1" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic 2025 - Board 3" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic 2025 - Board 2" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -325,46 +354,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="Lynx at Aces" stop="20250802235959 -0500">
     <title>02:00 PM 02/08/25 - Lynx at Aces</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic - Board 3" stop="20250802235959 -0500">
-    <title>11:00 AM 02/08/25 - PDC: Winmau Darts Classic - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic - Board 2" stop="20250802235959 -0500">
-    <title>11:00 AM 02/08/25 - PDC: Winmau Darts Classic - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic 2025 - Board 1" stop="20250802235959 -0500">
-    <title>11:00 AM 02/08/25 - PDC: Winmau Darts Classic 2025 - Board 1</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic 2025 - Board 3" stop="20250802235959 -0500">
-    <title>11:00 AM 02/08/25 - PDC: Winmau Darts Classic 2025 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic 2025 - Board 2" stop="20250802235959 -0500">
-    <title>11:00 AM 02/08/25 - PDC: Winmau Darts Classic 2025 - Board 2</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
