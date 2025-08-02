@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250802 -0500">
+  <channel id="Los Angeles Dodgers vs. Tampa Bay Rays">
+    <display-name lang="en">Los Angeles Dodgers vs. Tampa Bay Rays</display-name>
+  </channel>
   <channel id="PDC: Winmau Darts Classic - Board 3">
     <display-name lang="en">PDC: Winmau Darts Classic - Board 3</display-name>
   </channel>
@@ -32,9 +35,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Tampa Bay Rays">
-    <display-name lang="en">Los Angeles Dodgers vs. Tampa Bay Rays</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Chicago Cubs">
     <display-name lang="en">Baltimore Orioles vs. Chicago Cubs</display-name>
@@ -144,6 +144,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250802000000 -0500" channel="Los Angeles Dodgers vs. Tampa Bay Rays" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic - Board 3" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -226,14 +234,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250802235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Los Angeles Dodgers vs. Tampa Bay Rays" stop="20250802235959 -0500">
-    <title>12:10 PM 02/08/25 - Los Angeles Dodgers vs. Tampa Bay Rays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
