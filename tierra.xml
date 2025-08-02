@@ -24,6 +24,9 @@
   <channel id="Los Angeles Dodgers vs. Tampa Bay Rays">
     <display-name lang="en">Los Angeles Dodgers vs. Tampa Bay Rays</display-name>
   </channel>
+  <channel id="Pittsburgh Pirates vs. Colorado Rockies">
+    <display-name lang="en">Pittsburgh Pirates vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Mercury at Dream">
     <display-name lang="en">Mercury at Dream</display-name>
   </channel>
@@ -54,14 +57,14 @@
   <channel id="PDC: ADA Tour 6-7">
     <display-name lang="en">PDC: ADA Tour 6-7</display-name>
   </channel>
-  <channel id="Le&#243;n vs. New York City FC">
-    <display-name lang="en">Le&#243;n vs. New York City FC</display-name>
-  </channel>
-  <channel id="Le&#243;n vs. New York City FC (Spanish/Espanol)">
-    <display-name lang="en">Le&#243;n vs. New York City FC (Spanish/Espanol)</display-name>
-  </channel>
   <channel id="Puebla vs. Columbus Crew">
     <display-name lang="en">Puebla vs. Columbus Crew</display-name>
+  </channel>
+  <channel id="Mazatl&#225;n FC vs. Houston Dynamo FC">
+    <display-name lang="en">Mazatl&#225;n FC vs. Houston Dynamo FC</display-name>
+  </channel>
+  <channel id="CF Montr&#233;al vs. Toluca">
+    <display-name lang="en">CF Montr&#233;al vs. Toluca</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -83,9 +86,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Colorado Rockies">
-    <display-name lang="en">Pittsburgh Pirates vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Los Angeles Angels">
     <display-name lang="en">Chicago White Sox vs. Los Angeles Angels</display-name>
@@ -120,14 +120,11 @@
   <channel id="PDC: Winmau Darts Classic 2025 - Board 2">
     <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 2</display-name>
   </channel>
-  <channel id="Mazatl&#225;n FC vs. Houston Dynamo FC">
-    <display-name lang="en">Mazatl&#225;n FC vs. Houston Dynamo FC</display-name>
-  </channel>
-  <channel id="CF Montr&#233;al vs. Toluca">
-    <display-name lang="en">CF Montr&#233;al vs. Toluca</display-name>
-  </channel>
   <channel id="Pachuca vs. LAFC">
     <display-name lang="en">Pachuca vs. LAFC</display-name>
+  </channel>
+  <channel id="Los Angeles FC vs Pachuca (Spanish/Espanol)">
+    <display-name lang="en">Los Angeles FC vs Pachuca (Spanish/Espanol)</display-name>
   </channel>
   <channel id="San Diego FC vs. Tigres UANL">
     <display-name lang="en">San Diego FC vs. Tigres UANL</display-name>
@@ -232,6 +229,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250801000000 -0500" channel="Pittsburgh Pirates vs. Colorado Rockies" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250801000000 -0500" channel="Mercury at Dream" stop="20250801235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -312,23 +317,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250801000000 -0500" channel="Le&#243;n vs. New York City FC" stop="20250801235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="Le&#243;n vs. New York City FC (Spanish/Espanol)" stop="20250801235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250801000000 -0500" channel="Puebla vs. Columbus Crew" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Mazatl&#225;n FC vs. Houston Dynamo FC" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="CF Montr&#233;al vs. Toluca" stop="20250801235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -386,14 +391,6 @@
   </programme>
   <programme start="20250801000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250801235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="Pittsburgh Pirates vs. Colorado Rockies" stop="20250801235959 -0500">
-    <title>07:10 PM 01/08/25 - Pittsburgh Pirates vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -488,24 +485,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250801000000 -0500" channel="Mazatl&#225;n FC vs. Houston Dynamo FC" stop="20250801235959 -0500">
-    <title>07:30 PM 01/08/25 - Mazatl&#225;n FC vs. Houston Dynamo FC</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="CF Montr&#233;al vs. Toluca" stop="20250801235959 -0500">
-    <title>08:00 PM 01/08/25 - CF Montr&#233;al vs. Toluca</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250801000000 -0500" channel="Pachuca vs. LAFC" stop="20250801235959 -0500">
     <title>09:30 PM 01/08/25 - Pachuca vs. LAFC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Los Angeles FC vs Pachuca (Spanish/Espanol)" stop="20250801235959 -0500">
+    <title>09:30 PM 01/08/25 - Los Angeles FC vs Pachuca (Spanish/Espanol)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
