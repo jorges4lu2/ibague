@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250801 -0500">
-  <channel id="Detroit Tigers vs. Philadelphia Phillies">
-    <display-name lang="en">Detroit Tigers vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Washington Nationals">
-    <display-name lang="en">Milwaukee Brewers vs. Washington Nationals</display-name>
-  </channel>
   <channel id="Kansas City Royals vs. Toronto Blue Jays">
     <display-name lang="en">Kansas City Royals vs. Toronto Blue Jays</display-name>
   </channel>
@@ -27,6 +21,12 @@
   <channel id="Pittsburgh Pirates vs. Colorado Rockies">
     <display-name lang="en">Pittsburgh Pirates vs. Colorado Rockies</display-name>
   </channel>
+  <channel id="Chicago White Sox vs. Los Angeles Angels">
+    <display-name lang="en">Chicago White Sox vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="St. Louis Cardinals vs. San Diego Padres">
+    <display-name lang="en">St. Louis Cardinals vs. San Diego Padres</display-name>
+  </channel>
   <channel id="Mercury at Dream">
     <display-name lang="en">Mercury at Dream</display-name>
   </channel>
@@ -38,6 +38,9 @@
   </channel>
   <channel id="Fever at Wings">
     <display-name lang="en">Fever at Wings</display-name>
+  </channel>
+  <channel id="Sparks at Storm">
+    <display-name lang="en">Sparks at Storm</display-name>
   </channel>
   <channel id="PDC: CDC Showcase - Board 2">
     <display-name lang="en">PDC: CDC Showcase - Board 2</display-name>
@@ -57,8 +60,8 @@
   <channel id="PDC: ADA Tour 6-7">
     <display-name lang="en">PDC: ADA Tour 6-7</display-name>
   </channel>
-  <channel id="Puebla vs. Columbus Crew">
-    <display-name lang="en">Puebla vs. Columbus Crew</display-name>
+  <channel id="PDC: Asian Tour 21-22 (Philippines) &#8211; Day 1">
+    <display-name lang="en">PDC: Asian Tour 21-22 (Philippines) &#8211; Day 1</display-name>
   </channel>
   <channel id="Mazatl&#225;n FC vs. Houston Dynamo FC">
     <display-name lang="en">Mazatl&#225;n FC vs. Houston Dynamo FC</display-name>
@@ -87,23 +90,11 @@
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
   </channel>
-  <channel id="Chicago White Sox vs. Los Angeles Angels">
-    <display-name lang="en">Chicago White Sox vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. San Diego Padres">
-    <display-name lang="en">St. Louis Cardinals vs. San Diego Padres</display-name>
-  </channel>
   <channel id="Arizona Diamondbacks vs. Athletics">
     <display-name lang="en">Arizona Diamondbacks vs. Athletics</display-name>
   </channel>
   <channel id="Texas Rangers vs. Seattle Mariners">
     <display-name lang="en">Texas Rangers vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Sparks at Storm">
-    <display-name lang="en">Sparks at Storm</display-name>
-  </channel>
-  <channel id="PDC: Asian Tour 21-22 (Philippines) &#8211; Day 1">
-    <display-name lang="en">PDC: Asian Tour 21-22 (Philippines) &#8211; Day 1</display-name>
   </channel>
   <channel id="PDC: Winmau Darts Classic - Board 3">
     <display-name lang="en">PDC: Winmau Darts Classic - Board 3</display-name>
@@ -165,22 +156,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250801000000 -0500" channel="Detroit Tigers vs. Philadelphia Phillies" stop="20250801235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="Milwaukee Brewers vs. Washington Nationals" stop="20250801235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250801000000 -0500" channel="Kansas City Royals vs. Toronto Blue Jays" stop="20250801235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -237,6 +212,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250801000000 -0500" channel="Chicago White Sox vs. Los Angeles Angels" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="St. Louis Cardinals vs. San Diego Padres" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250801000000 -0500" channel="Mercury at Dream" stop="20250801235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -262,6 +253,14 @@
     </audio>
   </programme>
   <programme start="20250801000000 -0500" channel="Fever at Wings" stop="20250801235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250801000000 -0500" channel="Sparks at Storm" stop="20250801235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -317,7 +316,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250801000000 -0500" channel="Puebla vs. Columbus Crew" stop="20250801235959 -0500">
+  <programme start="20250801000000 -0500" channel="PDC: Asian Tour 21-22 (Philippines) &#8211; Day 1" stop="20250801235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -397,22 +396,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250801000000 -0500" channel="Chicago White Sox vs. Los Angeles Angels" stop="20250801235959 -0500">
-    <title>08:38 PM 01/08/25 - Chicago White Sox vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="St. Louis Cardinals vs. San Diego Padres" stop="20250801235959 -0500">
-    <title>08:40 PM 01/08/25 - St. Louis Cardinals vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250801000000 -0500" channel="Arizona Diamondbacks vs. Athletics" stop="20250801235959 -0500">
     <title>09:05 PM 01/08/25 - Arizona Diamondbacks vs. Athletics</title>
     <date>2025</date>
@@ -423,22 +406,6 @@
   </programme>
   <programme start="20250801000000 -0500" channel="Texas Rangers vs. Seattle Mariners" stop="20250801235959 -0500">
     <title>09:10 PM 01/08/25 - Texas Rangers vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="Sparks at Storm" stop="20250801235959 -0500">
-    <title>09:00 PM 01/08/25 - Sparks at Storm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250801000000 -0500" channel="PDC: Asian Tour 21-22 (Philippines) &#8211; Day 1" stop="20250801235959 -0500">
-    <title>09:00 PM 01/08/25 - PDC: Asian Tour 21-22 (Philippines) &#8211; Day 1</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
