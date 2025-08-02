@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250802 -0500">
+  <channel id="F1: Hungarian Grand Prix (Qualifying)">
+    <display-name lang="en">F1: Hungarian Grand Prix (Qualifying)</display-name>
+  </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
   </channel>
@@ -99,9 +102,6 @@
   <channel id="Manchester United vs. Everton">
     <display-name lang="en">Manchester United vs. Everton</display-name>
   </channel>
-  <channel id="F1: Hungarian Grand Prix (Qualifying)">
-    <display-name lang="en">F1: Hungarian Grand Prix (Qualifying)</display-name>
-  </channel>
   <channel id="F1: Hungarian Grand Prix (Race)">
     <display-name lang="en">F1: Hungarian Grand Prix (Race)</display-name>
   </channel>
@@ -126,6 +126,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250802000000 -0500" channel="F1: Hungarian Grand Prix (Qualifying)" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250802000000 -0500" channel="Indianapolis Colts vs. Baltimore Ravens" stop="20250802235959 -0500">
     <title>06:00 PM 07/08/25 - Indianapolis Colts vs. Baltimore Ravens</title>
     <date>2025</date>
@@ -384,14 +392,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="Manchester United vs. Everton" stop="20250802235959 -0500">
     <title>04:00 PM 03/08/25 - Manchester United vs. Everton</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="F1: Hungarian Grand Prix (Qualifying)" stop="20250802235959 -0500">
-    <title>09:00 AM 02/08/25 - F1: Hungarian Grand Prix (Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
