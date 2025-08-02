@@ -6,6 +6,12 @@
   <channel id="Baltimore Orioles vs. Chicago Cubs">
     <display-name lang="en">Baltimore Orioles vs. Chicago Cubs</display-name>
   </channel>
+  <channel id="Kansas City Royals vs. Toronto Blue Jays">
+    <display-name lang="en">Kansas City Royals vs. Toronto Blue Jays</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. Colorado Rockies">
+    <display-name lang="en">Pittsburgh Pirates vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Lynx at Aces">
     <display-name lang="en">Lynx at Aces</display-name>
   </channel>
@@ -41,12 +47,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Toronto Blue Jays">
-    <display-name lang="en">Kansas City Royals vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Colorado Rockies">
-    <display-name lang="en">Pittsburgh Pirates vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Philadelphia Phillies">
     <display-name lang="en">Detroit Tigers vs. Philadelphia Phillies</display-name>
@@ -160,6 +160,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250802000000 -0500" channel="Kansas City Royals vs. Toronto Blue Jays" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="Pittsburgh Pirates vs. Colorado Rockies" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250802000000 -0500" channel="Lynx at Aces" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -250,22 +266,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250802235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Kansas City Royals vs. Toronto Blue Jays" stop="20250802235959 -0500">
-    <title>02:07 PM 02/08/25 - Kansas City Royals vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Pittsburgh Pirates vs. Colorado Rockies" stop="20250802235959 -0500">
-    <title>02:10 PM 02/08/25 - Pittsburgh Pirates vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
