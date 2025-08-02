@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250802 -0500">
-  <channel id="Baltimore Orioles vs. Chicago Cubs">
-    <display-name lang="en">Baltimore Orioles vs. Chicago Cubs</display-name>
-  </channel>
   <channel id="Kansas City Royals vs. Toronto Blue Jays">
     <display-name lang="en">Kansas City Royals vs. Toronto Blue Jays</display-name>
   </channel>
@@ -30,23 +27,14 @@
   <channel id="Texas Rangers vs. Seattle Mariners">
     <display-name lang="en">Texas Rangers vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="Lynx at Aces">
-    <display-name lang="en">Lynx at Aces</display-name>
+  <channel id="UFC Fight Night: Taira vs. Park">
+    <display-name lang="en">UFC Fight Night: Taira vs. Park</display-name>
   </channel>
-  <channel id="PDC: Winmau Darts Classic - Board 3">
-    <display-name lang="en">PDC: Winmau Darts Classic - Board 3</display-name>
+  <channel id="Atlas vs. Orlando City SC">
+    <display-name lang="en">Atlas vs. Orlando City SC</display-name>
   </channel>
-  <channel id="PDC: Winmau Darts Classic - Board 2">
-    <display-name lang="en">PDC: Winmau Darts Classic - Board 2</display-name>
-  </channel>
-  <channel id="PDC: Winmau Darts Classic 2025 - Board 1">
-    <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 1</display-name>
-  </channel>
-  <channel id="PDC: Winmau Darts Classic 2025 - Board 3">
-    <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 3</display-name>
-  </channel>
-  <channel id="PDC: Winmau Darts Classic 2025 - Board 2">
-    <display-name lang="en">PDC: Winmau Darts Classic 2025 - Board 2</display-name>
+  <channel id="WWE: SummerSlam 2025">
+    <display-name lang="en">WWE: SummerSlam 2025</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -78,9 +66,6 @@
   <channel id="St. Louis Cardinals vs. San Diego Padres">
     <display-name lang="en">St. Louis Cardinals vs. San Diego Padres</display-name>
   </channel>
-  <channel id="UFC Fight Night: Taira vs. Park">
-    <display-name lang="en">UFC Fight Night: Taira vs. Park</display-name>
-  </channel>
   <channel id="PDC: ADA Tour 8">
     <display-name lang="en">PDC: ADA Tour 8</display-name>
   </channel>
@@ -95,9 +80,6 @@
   </channel>
   <channel id="PDC: DJD Darts Duel 2025 - Board 3">
     <display-name lang="en">PDC: DJD Darts Duel 2025 - Board 3</display-name>
-  </channel>
-  <channel id="Atlas vs. Orlando City SC">
-    <display-name lang="en">Atlas vs. Orlando City SC</display-name>
   </channel>
   <channel id="Necaxa vs. Inter Miami CF">
     <display-name lang="en">Necaxa vs. Inter Miami CF</display-name>
@@ -123,9 +105,6 @@
   <channel id="F1: Hungarian Grand Prix (Race)">
     <display-name lang="en">F1: Hungarian Grand Prix (Race)</display-name>
   </channel>
-  <channel id="WWE: SummerSlam 2025">
-    <display-name lang="en">WWE: SummerSlam 2025</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -144,14 +123,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250802000000 -0500" channel="Baltimore Orioles vs. Chicago Cubs" stop="20250802235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250802000000 -0500" channel="Kansas City Royals vs. Toronto Blue Jays" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -224,7 +195,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250802000000 -0500" channel="Lynx at Aces" stop="20250802235959 -0500">
+  <programme start="20250802000000 -0500" channel="UFC Fight Night: Taira vs. Park" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -232,7 +203,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic - Board 3" stop="20250802235959 -0500">
+  <programme start="20250802000000 -0500" channel="Atlas vs. Orlando City SC" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -240,31 +211,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic - Board 2" stop="20250802235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic 2025 - Board 1" stop="20250802235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic 2025 - Board 3" stop="20250802235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Winmau Darts Classic 2025 - Board 2" stop="20250802235959 -0500">
+  <programme start="20250802000000 -0500" channel="WWE: SummerSlam 2025" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -352,14 +299,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250802000000 -0500" channel="UFC Fight Night: Taira vs. Park" stop="20250802235959 -0500">
-    <title>05:00 PM 02/08/25 - UFC Fight Night: Taira vs. Park</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250802000000 -0500" channel="PDC: ADA Tour 8" stop="20250802235959 -0500">
     <title>07:00 PM 02/08/25 - PDC: ADA Tour 8</title>
     <date>2025</date>
@@ -394,14 +333,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="PDC: DJD Darts Duel 2025 - Board 3" stop="20250802235959 -0500">
     <title>10:00 AM 03/08/25 - PDC: DJD Darts Duel 2025 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Atlas vs. Orlando City SC" stop="20250802235959 -0500">
-    <title>05:00 PM 02/08/25 - Atlas vs. Orlando City SC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -466,14 +397,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="F1: Hungarian Grand Prix (Race)" stop="20250802235959 -0500">
     <title>08:00 AM 03/08/25 - F1: Hungarian Grand Prix (Race)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="WWE: SummerSlam 2025" stop="20250802235959 -0500">
-    <title>05:00 PM 02/08/25 - WWE: SummerSlam 2025</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
