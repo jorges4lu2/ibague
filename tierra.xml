@@ -3,6 +3,12 @@
   <channel id="Los Angeles Dodgers vs. Tampa Bay Rays">
     <display-name lang="en">Los Angeles Dodgers vs. Tampa Bay Rays</display-name>
   </channel>
+  <channel id="Baltimore Orioles vs. Chicago Cubs">
+    <display-name lang="en">Baltimore Orioles vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Lynx at Aces">
+    <display-name lang="en">Lynx at Aces</display-name>
+  </channel>
   <channel id="PDC: Winmau Darts Classic - Board 3">
     <display-name lang="en">PDC: Winmau Darts Classic - Board 3</display-name>
   </channel>
@@ -35,9 +41,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Chicago Cubs">
-    <display-name lang="en">Baltimore Orioles vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Toronto Blue Jays">
     <display-name lang="en">Kansas City Royals vs. Toronto Blue Jays</display-name>
@@ -77,9 +80,6 @@
   </channel>
   <channel id="St. Louis Cardinals vs. San Diego Padres">
     <display-name lang="en">St. Louis Cardinals vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="Lynx at Aces">
-    <display-name lang="en">Lynx at Aces</display-name>
   </channel>
   <channel id="PDC: ADA Tour 8">
     <display-name lang="en">PDC: ADA Tour 8</display-name>
@@ -145,6 +145,22 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250802000000 -0500" channel="Los Angeles Dodgers vs. Tampa Bay Rays" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="Baltimore Orioles vs. Chicago Cubs" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="Lynx at Aces" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -234,14 +250,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250802235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Baltimore Orioles vs. Chicago Cubs" stop="20250802235959 -0500">
-    <title>01:20 PM 02/08/25 - Baltimore Orioles vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -346,14 +354,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="St. Louis Cardinals vs. San Diego Padres" stop="20250802235959 -0500">
     <title>09:10 PM 02/08/25 - St. Louis Cardinals vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Lynx at Aces" stop="20250802235959 -0500">
-    <title>02:00 PM 02/08/25 - Lynx at Aces</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
