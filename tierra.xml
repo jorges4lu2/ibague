@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250803 -0500">
-  <channel id="Pittsburgh Pirates vs. Colorado Rockies">
-    <display-name lang="en">Pittsburgh Pirates vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="Arizona Diamondbacks vs. Athletics">
     <display-name lang="en">Arizona Diamondbacks vs. Athletics</display-name>
   </channel>
@@ -14,6 +11,9 @@
   </channel>
   <channel id="Texas Rangers vs. Seattle Mariners">
     <display-name lang="en">Texas Rangers vs. Seattle Mariners</display-name>
+  </channel>
+  <channel id="Detroit Tigers vs. Philadelphia Phillies">
+    <display-name lang="en">Detroit Tigers vs. Philadelphia Phillies</display-name>
   </channel>
   <channel id="Mercury at Sky">
     <display-name lang="en">Mercury at Sky</display-name>
@@ -48,9 +48,6 @@
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
   </channel>
-  <channel id="Detroit Tigers vs. Philadelphia Phillies">
-    <display-name lang="en">Detroit Tigers vs. Philadelphia Phillies</display-name>
-  </channel>
   <channel id="Charlotte FC vs. Guadalajara">
     <display-name lang="en">Charlotte FC vs. Guadalajara</display-name>
   </channel>
@@ -84,14 +81,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250803000000 -0500" channel="Pittsburgh Pirates vs. Colorado Rockies" stop="20250803235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250803000000 -0500" channel="Arizona Diamondbacks vs. Athletics" stop="20250803235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -117,6 +106,14 @@
     </audio>
   </programme>
   <programme start="20250803000000 -0500" channel="Texas Rangers vs. Seattle Mariners" stop="20250803235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250803000000 -0500" channel="Detroit Tigers vs. Philadelphia Phillies" stop="20250803235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -206,14 +203,6 @@
   </programme>
   <programme start="20250803000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250803235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="Detroit Tigers vs. Philadelphia Phillies" stop="20250803235959 -0500">
-    <title>06:00 PM 03/08/25 - Detroit Tigers vs. Philadelphia Phillies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
