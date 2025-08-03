@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250803 -0500">
-  <channel id="PDC: Asian Tour 23-24 (Philippines) &#8211; Day 2">
-    <display-name lang="en">PDC: Asian Tour 23-24 (Philippines) &#8211; Day 2</display-name>
-  </channel>
   <channel id="Newcastle United vs Tottenham Hotspur">
     <display-name lang="en">Newcastle United vs Tottenham Hotspur</display-name>
+  </channel>
+  <channel id="F1: Hungarian Grand Prix (Race)">
+    <display-name lang="en">F1: Hungarian Grand Prix (Race)</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -81,9 +81,6 @@
   <channel id="Manchester United vs. Everton">
     <display-name lang="en">Manchester United vs. Everton</display-name>
   </channel>
-  <channel id="F1: Hungarian Grand Prix (Race)">
-    <display-name lang="en">F1: Hungarian Grand Prix (Race)</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -102,7 +99,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250803000000 -0500" channel="PDC: Asian Tour 23-24 (Philippines) &#8211; Day 2" stop="20250803235959 -0500">
+  <programme start="20250803000000 -0500" channel="Newcastle United vs Tottenham Hotspur" stop="20250803235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -110,7 +107,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250803000000 -0500" channel="Newcastle United vs Tottenham Hotspur" stop="20250803235959 -0500">
+  <programme start="20250803000000 -0500" channel="F1: Hungarian Grand Prix (Race)" stop="20250803235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -312,14 +309,6 @@
   </programme>
   <programme start="20250803000000 -0500" channel="Manchester United vs. Everton" stop="20250803235959 -0500">
     <title>04:00 PM 03/08/25 - Manchester United vs. Everton</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="F1: Hungarian Grand Prix (Race)" stop="20250803235959 -0500">
-    <title>08:00 AM 03/08/25 - F1: Hungarian Grand Prix (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
