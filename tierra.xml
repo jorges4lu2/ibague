@@ -12,14 +12,17 @@
   <channel id="PDC: ADA Tour 8">
     <display-name lang="en">PDC: ADA Tour 8</display-name>
   </channel>
-  <channel id="Necaxa vs. Inter Miami CF">
-    <display-name lang="en">Necaxa vs. Inter Miami CF</display-name>
+  <channel id="PDC: Asian Tour 23-24 (Philippines) &#8211; Day 2">
+    <display-name lang="en">PDC: Asian Tour 23-24 (Philippines) &#8211; Day 2</display-name>
   </channel>
   <channel id="Minnesota United FC vs. Am&#233;rica">
     <display-name lang="en">Minnesota United FC vs. Am&#233;rica</display-name>
   </channel>
   <channel id="Atlanta United FC vs. Pumas UNAM">
     <display-name lang="en">Atlanta United FC vs. Pumas UNAM</display-name>
+  </channel>
+  <channel id="Atl&#233;tico de San Luis vs. Real Salt Lake">
+    <display-name lang="en">Atl&#233;tico de San Luis vs. Real Salt Lake</display-name>
   </channel>
   <channel id="WWE: SummerSlam 2025">
     <display-name lang="en">WWE: SummerSlam 2025</display-name>
@@ -51,9 +54,6 @@
   <channel id="St. Louis Cardinals vs. San Diego Padres">
     <display-name lang="en">St. Louis Cardinals vs. San Diego Padres</display-name>
   </channel>
-  <channel id="PDC: Asian Tour 23-24 (Philippines) &#8211; Day 2">
-    <display-name lang="en">PDC: Asian Tour 23-24 (Philippines) &#8211; Day 2</display-name>
-  </channel>
   <channel id="PDC: DJD Darts Duel 2025 - Board 1">
     <display-name lang="en">PDC: DJD Darts Duel 2025 - Board 1</display-name>
   </channel>
@@ -62,9 +62,6 @@
   </channel>
   <channel id="PDC: DJD Darts Duel 2025 - Board 3">
     <display-name lang="en">PDC: DJD Darts Duel 2025 - Board 3</display-name>
-  </channel>
-  <channel id="Atl&#233;tico de San Luis vs. Real Salt Lake">
-    <display-name lang="en">Atl&#233;tico de San Luis vs. Real Salt Lake</display-name>
   </channel>
   <channel id="Quer&#233;taro vs. Portland Timbers">
     <display-name lang="en">Quer&#233;taro vs. Portland Timbers</display-name>
@@ -128,7 +125,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250802000000 -0500" channel="Necaxa vs. Inter Miami CF" stop="20250802235959 -0500">
+  <programme start="20250802000000 -0500" channel="PDC: Asian Tour 23-24 (Philippines) &#8211; Day 2" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -145,6 +142,14 @@
     </audio>
   </programme>
   <programme start="20250802000000 -0500" channel="Atlanta United FC vs. Pumas UNAM" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="Atl&#233;tico de San Luis vs. Real Salt Lake" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -232,14 +237,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250802000000 -0500" channel="PDC: Asian Tour 23-24 (Philippines) &#8211; Day 2" stop="20250802235959 -0500">
-    <title>09:00 PM 02/08/25 - PDC: Asian Tour 23-24 (Philippines) &#8211; Day 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250802000000 -0500" channel="PDC: DJD Darts Duel 2025 - Board 1" stop="20250802235959 -0500">
     <title>10:00 AM 03/08/25 - PDC: DJD Darts Duel 2025 - Board 1</title>
     <date>2025</date>
@@ -258,14 +255,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="PDC: DJD Darts Duel 2025 - Board 3" stop="20250802235959 -0500">
     <title>10:00 AM 03/08/25 - PDC: DJD Darts Duel 2025 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Atl&#233;tico de San Luis vs. Real Salt Lake" stop="20250802235959 -0500">
-    <title>08:30 PM 02/08/25 - Atl&#233;tico de San Luis vs. Real Salt Lake</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
