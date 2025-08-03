@@ -795,23 +795,8 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 - Owosso Speedway 5:45 pm">
-    <display-name lang="en">DIRTVISION 01 - Owosso Speedway 5:45 pm</display-name>
-  </channel>
-  <channel id="DIRTVISION 02 - Land of Legends Raceway 6:15pm">
-    <display-name lang="en">DIRTVISION 02 - Land of Legends Raceway 6:15pm</display-name>
-  </channel>
-  <channel id="DIRTVISION 03 - Sharon Speedway 6:30 pm">
-    <display-name lang="en">DIRTVISION 03 - Sharon Speedway 6:30 pm</display-name>
-  </channel>
-  <channel id="DIRTVISION 04 - Knoxville Raceway 7:00PM">
-    <display-name lang="en">DIRTVISION 04 - Knoxville Raceway 7:00PM</display-name>
-  </channel>
-  <channel id="Dirtvision 05: Cedar Lake Speedway 7:00pm">
-    <display-name lang="en">Dirtvision 05: Cedar Lake Speedway 7:00pm</display-name>
-  </channel>
-  <channel id="Dirtvision 06: I-55 Federated Auto Parts Raceway Park 7:00pm">
-    <display-name lang="en">Dirtvision 06: I-55 Federated Auto Parts Raceway Park 7:00pm</display-name>
+  <channel id="DIRTVISION 01 - Knoxville Raceway 7:30 pm">
+    <display-name lang="en">DIRTVISION 01 - Knoxville Raceway 7:30 pm</display-name>
   </channel>
   <channel id="Super League Plus | Event 1 Super League Plus | Event 1 Leigh Leopards v Warrington Wolves | Betfred Super League Round 20 // UK Fri 1 Aug 7:55pm // ET Fri 1 Aug 2:55pm">
     <display-name lang="en">Super League Plus | Event 1 Super League Plus | Event 1 Leigh Leopards v Warrington Wolves | Betfred Super League Round 20 // UK Fri 1 Aug 7:55pm // ET Fri 1 Aug 2:55pm</display-name>
@@ -974,6 +959,12 @@
   </channel>
   <channel id="BOXING: Oscar Duarte vs. Kenneth Sims Jr (Sun 01:00 UK)">
     <display-name lang="en">BOXING: Oscar Duarte vs. Kenneth Sims Jr (Sun 01:00 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 06 -7:15PM Late Models Slinger">
+    <display-name lang="en">LIVE EVENT 06 -7:15PM Late Models Slinger</display-name>
+  </channel>
+  <channel id="LIVE EVENT 07 - 7:30PM World of Outlaws Sprint Cars Knoxville">
+    <display-name lang="en">LIVE EVENT 07 - 7:30PM World of Outlaws Sprint Cars Knoxville</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -3623,48 +3614,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250803000000 -0500" channel="DIRTVISION 01 - Owosso Speedway 5:45 pm" stop="20250803235959 -0500">
-    <title>03:45 PM - DIRTVISION 01 - Owosso Speedway 5:45 pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="DIRTVISION 02 - Land of Legends Raceway 6:15pm" stop="20250803235959 -0500">
-    <title>12:15 PM - DIRTVISION 02 - Land of Legends Raceway 6:15pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="DIRTVISION 03 - Sharon Speedway 6:30 pm" stop="20250803235959 -0500">
-    <title>04:30 PM - DIRTVISION 03 - Sharon Speedway 6:30 pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="DIRTVISION 04 - Knoxville Raceway 7:00PM" stop="20250803235959 -0500">
-    <title>01:00 PM - DIRTVISION 04 - Knoxville Raceway 7:00PM</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="Dirtvision 05: Cedar Lake Speedway 7:00pm" stop="20250803235959 -0500">
-    <title>01:00 PM - Dirtvision 05: Cedar Lake Speedway 7:00pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="Dirtvision 06: I-55 Federated Auto Parts Raceway Park 7:00pm" stop="20250803235959 -0500">
-    <title>01:00 PM - Dirtvision 06: I-55 Federated Auto Parts Raceway Park 7:00pm</title>
+  <programme start="20250803000000 -0500" channel="DIRTVISION 01 - Knoxville Raceway 7:30 pm" stop="20250803235959 -0500">
+    <title>05:30 PM - DIRTVISION 01 - Knoxville Raceway 7:30 pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -4097,6 +4048,22 @@
   </programme>
   <programme start="20250803000000 -0500" channel="BOXING: Oscar Duarte vs. Kenneth Sims Jr (Sun 01:00 UK)" stop="20250803235959 -0500">
     <title>07:00 PM - BOXING: Oscar Duarte vs. Kenneth Sims Jr (Sun 01:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250803000000 -0500" channel="LIVE EVENT 06 -7:15PM Late Models Slinger" stop="20250803235959 -0500">
+    <title>01:15 PM - LIVE EVENT 06 -7:15PM Late Models Slinger</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250803000000 -0500" channel="LIVE EVENT 07 - 7:30PM World of Outlaws Sprint Cars Knoxville" stop="20250803235959 -0500">
+    <title>01:30 PM - LIVE EVENT 07 - 7:30PM World of Outlaws Sprint Cars Knoxville</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
