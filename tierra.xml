@@ -3,6 +3,15 @@
   <channel id="Atlanta Braves vs. Cincinnati Reds">
     <display-name lang="en">Atlanta Braves vs. Cincinnati Reds</display-name>
   </channel>
+  <channel id="Arizona Diamondbacks vs. Athletics">
+    <display-name lang="en">Arizona Diamondbacks vs. Athletics</display-name>
+  </channel>
+  <channel id="Chicago White Sox vs. Los Angeles Angels">
+    <display-name lang="en">Chicago White Sox vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="St. Louis Cardinals vs. San Diego Padres">
+    <display-name lang="en">St. Louis Cardinals vs. San Diego Padres</display-name>
+  </channel>
   <channel id="UFC Fight Night: Taira vs. Park">
     <display-name lang="en">UFC Fight Night: Taira vs. Park</display-name>
   </channel>
@@ -23,6 +32,9 @@
   </channel>
   <channel id="Atl&#233;tico de San Luis vs. Real Salt Lake">
     <display-name lang="en">Atl&#233;tico de San Luis vs. Real Salt Lake</display-name>
+  </channel>
+  <channel id="Quer&#233;taro vs. Portland Timbers">
+    <display-name lang="en">Quer&#233;taro vs. Portland Timbers</display-name>
   </channel>
   <channel id="WWE: SummerSlam 2025">
     <display-name lang="en">WWE: SummerSlam 2025</display-name>
@@ -45,15 +57,6 @@
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
   </channel>
-  <channel id="Arizona Diamondbacks vs. Athletics">
-    <display-name lang="en">Arizona Diamondbacks vs. Athletics</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Los Angeles Angels">
-    <display-name lang="en">Chicago White Sox vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. San Diego Padres">
-    <display-name lang="en">St. Louis Cardinals vs. San Diego Padres</display-name>
-  </channel>
   <channel id="PDC: DJD Darts Duel 2025 - Board 1">
     <display-name lang="en">PDC: DJD Darts Duel 2025 - Board 1</display-name>
   </channel>
@@ -62,9 +65,6 @@
   </channel>
   <channel id="PDC: DJD Darts Duel 2025 - Board 3">
     <display-name lang="en">PDC: DJD Darts Duel 2025 - Board 3</display-name>
-  </channel>
-  <channel id="Quer&#233;taro vs. Portland Timbers">
-    <display-name lang="en">Quer&#233;taro vs. Portland Timbers</display-name>
   </channel>
   <channel id="Bournemouth vs. West Ham United">
     <display-name lang="en">Bournemouth vs. West Ham United</display-name>
@@ -94,6 +94,30 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250802000000 -0500" channel="Atlanta Braves vs. Cincinnati Reds" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="Arizona Diamondbacks vs. Athletics" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="Chicago White Sox vs. Los Angeles Angels" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="St. Louis Cardinals vs. San Diego Padres" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -157,6 +181,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250802000000 -0500" channel="Quer&#233;taro vs. Portland Timbers" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250802000000 -0500" channel="WWE: SummerSlam 2025" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -213,30 +245,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250802000000 -0500" channel="Arizona Diamondbacks vs. Athletics" stop="20250802235959 -0500">
-    <title>09:05 PM 02/08/25 - Arizona Diamondbacks vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Chicago White Sox vs. Los Angeles Angels" stop="20250802235959 -0500">
-    <title>09:07 PM 02/08/25 - Chicago White Sox vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="St. Louis Cardinals vs. San Diego Padres" stop="20250802235959 -0500">
-    <title>09:10 PM 02/08/25 - St. Louis Cardinals vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250802000000 -0500" channel="PDC: DJD Darts Duel 2025 - Board 1" stop="20250802235959 -0500">
     <title>10:00 AM 03/08/25 - PDC: DJD Darts Duel 2025 - Board 1</title>
     <date>2025</date>
@@ -255,14 +263,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="PDC: DJD Darts Duel 2025 - Board 3" stop="20250802235959 -0500">
     <title>10:00 AM 03/08/25 - PDC: DJD Darts Duel 2025 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Quer&#233;taro vs. Portland Timbers" stop="20250802235959 -0500">
-    <title>10:00 PM 02/08/25 - Quer&#233;taro vs. Portland Timbers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
