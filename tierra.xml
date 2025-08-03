@@ -12,11 +12,14 @@
   <channel id="PDC: ADA Tour 8">
     <display-name lang="en">PDC: ADA Tour 8</display-name>
   </channel>
-  <channel id="Atlas vs. Orlando City SC">
-    <display-name lang="en">Atlas vs. Orlando City SC</display-name>
-  </channel>
   <channel id="Necaxa vs. Inter Miami CF">
     <display-name lang="en">Necaxa vs. Inter Miami CF</display-name>
+  </channel>
+  <channel id="Minnesota United FC vs. Am&#233;rica">
+    <display-name lang="en">Minnesota United FC vs. Am&#233;rica</display-name>
+  </channel>
+  <channel id="Atlanta United FC vs. Pumas UNAM">
+    <display-name lang="en">Atlanta United FC vs. Pumas UNAM</display-name>
   </channel>
   <channel id="WWE: SummerSlam 2025">
     <display-name lang="en">WWE: SummerSlam 2025</display-name>
@@ -59,12 +62,6 @@
   </channel>
   <channel id="PDC: DJD Darts Duel 2025 - Board 3">
     <display-name lang="en">PDC: DJD Darts Duel 2025 - Board 3</display-name>
-  </channel>
-  <channel id="Minnesota United FC vs. Am&#233;rica">
-    <display-name lang="en">Minnesota United FC vs. Am&#233;rica</display-name>
-  </channel>
-  <channel id="Atlanta United FC vs. Pumas UNAM">
-    <display-name lang="en">Atlanta United FC vs. Pumas UNAM</display-name>
   </channel>
   <channel id="Atl&#233;tico de San Luis vs. Real Salt Lake">
     <display-name lang="en">Atl&#233;tico de San Luis vs. Real Salt Lake</display-name>
@@ -131,7 +128,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250802000000 -0500" channel="Atlas vs. Orlando City SC" stop="20250802235959 -0500">
+  <programme start="20250802000000 -0500" channel="Necaxa vs. Inter Miami CF" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -139,7 +136,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250802000000 -0500" channel="Necaxa vs. Inter Miami CF" stop="20250802235959 -0500">
+  <programme start="20250802000000 -0500" channel="Minnesota United FC vs. Am&#233;rica" stop="20250802235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250802000000 -0500" channel="Atlanta United FC vs. Pumas UNAM" stop="20250802235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -253,22 +258,6 @@
   </programme>
   <programme start="20250802000000 -0500" channel="PDC: DJD Darts Duel 2025 - Board 3" stop="20250802235959 -0500">
     <title>10:00 AM 03/08/25 - PDC: DJD Darts Duel 2025 - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Minnesota United FC vs. Am&#233;rica" stop="20250802235959 -0500">
-    <title>08:00 PM 02/08/25 - Minnesota United FC vs. Am&#233;rica</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250802000000 -0500" channel="Atlanta United FC vs. Pumas UNAM" stop="20250802235959 -0500">
-    <title>08:00 PM 02/08/25 - Atlanta United FC vs. Pumas UNAM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
