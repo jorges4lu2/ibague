@@ -3,6 +3,12 @@
   <channel id="Houston Astros vs. Boston Red Sox">
     <display-name lang="en">Houston Astros vs. Boston Red Sox</display-name>
   </channel>
+  <channel id="Los Angeles Dodgers vs. Tampa Bay Rays">
+    <display-name lang="en">Los Angeles Dodgers vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="Liberty at Sun">
+    <display-name lang="en">Liberty at Sun</display-name>
+  </channel>
   <channel id="PDC: DJD Darts Duel 2025 - Board 1">
     <display-name lang="en">PDC: DJD Darts Duel 2025 - Board 1</display-name>
   </channel>
@@ -11,9 +17,6 @@
   </channel>
   <channel id="PDC: DJD Darts Duel 2025 - Board 3">
     <display-name lang="en">PDC: DJD Darts Duel 2025 - Board 3</display-name>
-  </channel>
-  <channel id="F1: Hungarian Grand Prix (Race)">
-    <display-name lang="en">F1: Hungarian Grand Prix (Race)</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -32,9 +35,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Tampa Bay Rays">
-    <display-name lang="en">Los Angeles Dodgers vs. Tampa Bay Rays</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Washington Nationals">
     <display-name lang="en">Milwaukee Brewers vs. Washington Nationals</display-name>
@@ -71,9 +71,6 @@
   </channel>
   <channel id="Detroit Tigers vs. Philadelphia Phillies">
     <display-name lang="en">Detroit Tigers vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Liberty at Sun">
-    <display-name lang="en">Liberty at Sun</display-name>
   </channel>
   <channel id="Mystics at Dream">
     <display-name lang="en">Mystics at Dream</display-name>
@@ -119,6 +116,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250803000000 -0500" channel="Los Angeles Dodgers vs. Tampa Bay Rays" stop="20250803235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250803000000 -0500" channel="Liberty at Sun" stop="20250803235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250803000000 -0500" channel="PDC: DJD Darts Duel 2025 - Board 1" stop="20250803235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -136,14 +149,6 @@
     </audio>
   </programme>
   <programme start="20250803000000 -0500" channel="PDC: DJD Darts Duel 2025 - Board 3" stop="20250803235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="F1: Hungarian Grand Prix (Race)" stop="20250803235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -193,14 +198,6 @@
   </programme>
   <programme start="20250803000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250803235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="Los Angeles Dodgers vs. Tampa Bay Rays" stop="20250803235959 -0500">
-    <title>11:10 AM 03/08/25 - Los Angeles Dodgers vs. Tampa Bay Rays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -297,14 +294,6 @@
   </programme>
   <programme start="20250803000000 -0500" channel="Detroit Tigers vs. Philadelphia Phillies" stop="20250803235959 -0500">
     <title>06:00 PM 03/08/25 - Detroit Tigers vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="Liberty at Sun" stop="20250803235959 -0500">
-    <title>12:00 PM 03/08/25 - Liberty at Sun</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
