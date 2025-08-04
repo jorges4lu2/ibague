@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250803 -0500">
-  <channel id="Charlotte FC vs. Guadalajara">
-    <display-name lang="en">Charlotte FC vs. Guadalajara</display-name>
-  </channel>
-  <channel id="New York Red Bulls vs. Monterrey">
-    <display-name lang="en">New York Red Bulls vs. Monterrey</display-name>
-  </channel>
   <channel id="Tijuana vs. Colorado Rapids">
     <display-name lang="en">Tijuana vs. Colorado Rapids</display-name>
+  </channel>
+  <channel id="Cruz Azul vs. LA Galaxy">
+    <display-name lang="en">Cruz Azul vs. LA Galaxy</display-name>
+  </channel>
+  <channel id="Santos vs. Seattle Sounders FC">
+    <display-name lang="en">Santos vs. Seattle Sounders FC</display-name>
   </channel>
   <channel id="WWE: SummerSlam 2025">
     <display-name lang="en">WWE: SummerSlam 2025</display-name>
@@ -30,12 +30,6 @@
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
   </channel>
-  <channel id="Cruz Azul vs. LA Galaxy">
-    <display-name lang="en">Cruz Azul vs. LA Galaxy</display-name>
-  </channel>
-  <channel id="Santos vs. Seattle Sounders FC">
-    <display-name lang="en">Santos vs. Seattle Sounders FC</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -54,23 +48,23 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250803000000 -0500" channel="Charlotte FC vs. Guadalajara" stop="20250803235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="New York Red Bulls vs. Monterrey" stop="20250803235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250803000000 -0500" channel="Tijuana vs. Colorado Rapids" stop="20250803235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250803000000 -0500" channel="Cruz Azul vs. LA Galaxy" stop="20250803235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250803000000 -0500" channel="Santos vs. Seattle Sounders FC" stop="20250803235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -128,22 +122,6 @@
   </programme>
   <programme start="20250803000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250803235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="Cruz Azul vs. LA Galaxy" stop="20250803235959 -0500">
-    <title>09:30 PM 03/08/25 - Cruz Azul vs. LA Galaxy</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250803000000 -0500" channel="Santos vs. Seattle Sounders FC" stop="20250803235959 -0500">
-    <title>09:30 PM 03/08/25 - Santos vs. Seattle Sounders FC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
