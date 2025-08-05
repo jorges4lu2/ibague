@@ -12,6 +12,18 @@
   <channel id="Baltimore Orioles vs. Philadelphia Phillies">
     <display-name lang="en">Baltimore Orioles vs. Philadelphia Phillies</display-name>
   </channel>
+  <channel id="Cleveland Guardians vs. New York Mets">
+    <display-name lang="en">Cleveland Guardians vs. New York Mets</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. Boston Red Sox">
+    <display-name lang="en">Kansas City Royals vs. Boston Red Sox</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Atlanta Braves">
+    <display-name lang="en">Milwaukee Brewers vs. Atlanta Braves</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
   </channel>
@@ -29,15 +41,6 @@
   </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. New York Mets">
-    <display-name lang="en">Cleveland Guardians vs. New York Mets</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Boston Red Sox">
-    <display-name lang="en">Kansas City Royals vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Atlanta Braves">
-    <display-name lang="en">Milwaukee Brewers vs. Atlanta Braves</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Chicago Cubs">
     <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
@@ -98,9 +101,6 @@
   </channel>
   <channel id="Manchester United vs. Arsenal">
     <display-name lang="en">Manchester United vs. Arsenal</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -167,6 +167,38 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250804000000 -0500" channel="Cleveland Guardians vs. New York Mets" stop="20250804235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250804000000 -0500" channel="Kansas City Royals vs. Boston Red Sox" stop="20250804235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250804000000 -0500" channel="Milwaukee Brewers vs. Atlanta Braves" stop="20250804235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250804000000 -0500" channel="WWE: Monday Night RAW" stop="20250804235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250804000000 -0500" channel="Indianapolis Colts vs. Baltimore Ravens" stop="20250804235959 -0500">
     <title>06:00 PM 07/08/25 - Indianapolis Colts vs. Baltimore Ravens</title>
     <date>2025</date>
@@ -209,30 +241,6 @@
   </programme>
   <programme start="20250804000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250804235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250804000000 -0500" channel="Cleveland Guardians vs. New York Mets" stop="20250804235959 -0500">
-    <title>06:10 PM 04/08/25 - Cleveland Guardians vs. New York Mets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250804000000 -0500" channel="Kansas City Royals vs. Boston Red Sox" stop="20250804235959 -0500">
-    <title>06:10 PM 04/08/25 - Kansas City Royals vs. Boston Red Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250804000000 -0500" channel="Milwaukee Brewers vs. Atlanta Braves" stop="20250804235959 -0500">
-    <title>06:15 PM 04/08/25 - Milwaukee Brewers vs. Atlanta Braves</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -393,14 +401,6 @@
   </programme>
   <programme start="20250804000000 -0500" channel="Manchester United vs. Arsenal" stop="20250804235959 -0500">
     <title>10:30 AM 17/08/25 - Manchester United vs. Arsenal</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250804000000 -0500" channel="WWE: Monday Night RAW" stop="20250804235959 -0500">
-    <title>07:00 PM 04/08/25 - WWE: Monday Night RAW</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
