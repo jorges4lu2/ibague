@@ -609,6 +609,18 @@
   <channel id="NFL  | 01 - NFL Draft 5:00pm UK">
     <display-name lang="en">NFL  | 01 - NFL Draft 5:00pm UK</display-name>
   </channel>
+  <channel id="NFL  | 02 -Thur 7:30PM Bengals at Eagles">
+    <display-name lang="en">NFL  | 02 -Thur 7:30PM Bengals at Eagles</display-name>
+  </channel>
+  <channel id="NFL  | 06 -Fri 7:30PM Commanders at Patriots">
+    <display-name lang="en">NFL  | 06 -Fri 7:30PM Commanders at Patriots</display-name>
+  </channel>
+  <channel id="NFL  | 11 -Sat 7:30PM Titans at Buccaneers">
+    <display-name lang="en">NFL  | 11 -Sat 7:30PM Titans at Buccaneers</display-name>
+  </channel>
+  <channel id="NFL  | 14 - Sat 8:30PM Broncos at 49ers">
+    <display-name lang="en">NFL  | 14 - Sat 8:30PM Broncos at 49ers</display-name>
+  </channel>
   <channel id="NBA 01: Celtics (BOS) x Hawks (ATL) start:2025-07-20 22:50:00 stop:2025-07-21 02:50:00">
     <display-name lang="en">NBA 01: Celtics (BOS) x Hawks (ATL) start:2025-07-20 22:50:00 stop:2025-07-21 02:50:00</display-name>
   </channel>
@@ -911,6 +923,9 @@
   </channel>
   <channel id="BOXING: Oscar Duarte vs. Kenneth Sims Jr (Sun 01:00 UK)">
     <display-name lang="en">BOXING: Oscar Duarte vs. Kenneth Sims Jr (Sun 01:00 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 01 - 6:30PM Short Track Super Series Mohawk">
+    <display-name lang="en">LIVE EVENT 01 - 6:30PM Short Track Super Series Mohawk</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -2929,6 +2944,38 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250805000000 -0500" channel="NFL  | 02 -Thur 7:30PM Bengals at Eagles" stop="20250805235959 -0500">
+    <title>01:30 PM - NFL  | 02 -Thur 7:30PM Bengals at Eagles</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250805000000 -0500" channel="NFL  | 06 -Fri 7:30PM Commanders at Patriots" stop="20250805235959 -0500">
+    <title>01:30 PM - NFL  | 06 -Fri 7:30PM Commanders at Patriots</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250805000000 -0500" channel="NFL  | 11 -Sat 7:30PM Titans at Buccaneers" stop="20250805235959 -0500">
+    <title>01:30 PM - NFL  | 11 -Sat 7:30PM Titans at Buccaneers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250805000000 -0500" channel="NFL  | 14 - Sat 8:30PM Broncos at 49ers" stop="20250805235959 -0500">
+    <title>02:30 PM - NFL  | 14 - Sat 8:30PM Broncos at 49ers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250805000000 -0500" channel="NBA 01: Celtics (BOS) x Hawks (ATL) start:2025-07-20 22:50:00 stop:2025-07-21 02:50:00" stop="20250805235959 -0500">
     <title>04:50 PM - NBA 01: Celtics (BOS) x Hawks (ATL) start:2025-07-20 22:50:00 stop:2025-07-21 02:50:00</title>
     <date>2025</date>
@@ -3731,6 +3778,14 @@
   </programme>
   <programme start="20250805000000 -0500" channel="BOXING: Oscar Duarte vs. Kenneth Sims Jr (Sun 01:00 UK)" stop="20250805235959 -0500">
     <title>07:00 PM - BOXING: Oscar Duarte vs. Kenneth Sims Jr (Sun 01:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250805000000 -0500" channel="LIVE EVENT 01 - 6:30PM Short Track Super Series Mohawk" stop="20250805235959 -0500">
+    <title>12:30 PM - LIVE EVENT 01 - 6:30PM Short Track Super Series Mohawk</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
