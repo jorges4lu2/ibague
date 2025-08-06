@@ -12,8 +12,17 @@
   <channel id="Minnesota Twins vs. Detroit Tigers">
     <display-name lang="en">Minnesota Twins vs. Detroit Tigers</display-name>
   </channel>
+  <channel id="Cincinnati Reds vs. Chicago Cubs">
+    <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="New York Yankees vs. Texas Rangers">
+    <display-name lang="en">New York Yankees vs. Texas Rangers</display-name>
+  </channel>
   <channel id="Arsenal vs Villarreal">
     <display-name lang="en">Arsenal vs Villarreal</display-name>
+  </channel>
+  <channel id="Feyenoord vs Fenerbah&#231;e">
+    <display-name lang="en">Feyenoord vs Fenerbah&#231;e</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -65,12 +74,6 @@
   </channel>
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Chicago Cubs">
-    <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="New York Yankees vs. Texas Rangers">
-    <display-name lang="en">New York Yankees vs. Texas Rangers</display-name>
   </channel>
   <channel id="Toronto Blue Jays vs. Colorado Rockies">
     <display-name lang="en">Toronto Blue Jays vs. Colorado Rockies</display-name>
@@ -209,7 +212,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250806000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="New York Yankees vs. Texas Rangers" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250806000000 -0500" channel="Arsenal vs Villarreal" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="Feyenoord vs Fenerbah&#231;e" stop="20250806235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -347,22 +374,6 @@
   </programme>
   <programme start="20250806000000 -0500" channel="New Orleans Saints vs. Los Angeles Chargers" stop="20250806235959 -0500">
     <title>03:00 PM 10/08/25 - New Orleans Saints vs. Los Angeles Chargers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250806235959 -0500">
-    <title>01:20 PM 06/08/25 - Cincinnati Reds vs. Chicago Cubs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="New York Yankees vs. Texas Rangers" stop="20250806235959 -0500">
-    <title>01:35 PM 06/08/25 - New York Yankees vs. Texas Rangers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
