@@ -6,6 +6,12 @@
   <channel id="San Francisco Giants vs. Pittsburgh Pirates">
     <display-name lang="en">San Francisco Giants vs. Pittsburgh Pirates</display-name>
   </channel>
+  <channel id="Cleveland Guardians vs. New York Mets">
+    <display-name lang="en">Cleveland Guardians vs. New York Mets</display-name>
+  </channel>
+  <channel id="Minnesota Twins vs. Detroit Tigers">
+    <display-name lang="en">Minnesota Twins vs. Detroit Tigers</display-name>
+  </channel>
   <channel id="Arsenal vs Villarreal">
     <display-name lang="en">Arsenal vs Villarreal</display-name>
   </channel>
@@ -59,12 +65,6 @@
   </channel>
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. New York Mets">
-    <display-name lang="en">Cleveland Guardians vs. New York Mets</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Detroit Tigers">
-    <display-name lang="en">Minnesota Twins vs. Detroit Tigers</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Chicago Cubs">
     <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
@@ -186,6 +186,22 @@
     </audio>
   </programme>
   <programme start="20250806000000 -0500" channel="San Francisco Giants vs. Pittsburgh Pirates" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="Cleveland Guardians vs. New York Mets" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="Minnesota Twins vs. Detroit Tigers" stop="20250806235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -331,22 +347,6 @@
   </programme>
   <programme start="20250806000000 -0500" channel="New Orleans Saints vs. Los Angeles Chargers" stop="20250806235959 -0500">
     <title>03:00 PM 10/08/25 - New Orleans Saints vs. Los Angeles Chargers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Cleveland Guardians vs. New York Mets" stop="20250806235959 -0500">
-    <title>12:10 PM 06/08/25 - Cleveland Guardians vs. New York Mets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Minnesota Twins vs. Detroit Tigers" stop="20250806235959 -0500">
-    <title>12:10 PM 06/08/25 - Minnesota Twins vs. Detroit Tigers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
