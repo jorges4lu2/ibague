@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250806 -0500">
+  <channel id="PDC: KenoGO Australian Darts Masters - Day One">
+    <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day One</display-name>
+  </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
   </channel>
@@ -138,6 +141,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250806000000 -0500" channel="PDC: KenoGO Australian Darts Masters - Day One" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250806000000 -0500" channel="Indianapolis Colts vs. Baltimore Ravens" stop="20250806235959 -0500">
     <title>06:00 PM 07/08/25 - Indianapolis Colts vs. Baltimore Ravens</title>
     <date>2025</date>
