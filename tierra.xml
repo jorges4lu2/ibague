@@ -24,6 +24,15 @@
   <channel id="Milwaukee Brewers vs. Atlanta Braves">
     <display-name lang="en">Milwaukee Brewers vs. Atlanta Braves</display-name>
   </channel>
+  <channel id="Cincinnati Reds vs. Chicago Cubs">
+    <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="New York Yankees vs. Texas Rangers">
+    <display-name lang="en">New York Yankees vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. Colorado Rockies">
+    <display-name lang="en">Toronto Blue Jays vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Wings at Liberty">
     <display-name lang="en">Wings at Liberty</display-name>
   </channel>
@@ -38,6 +47,9 @@
   </channel>
   <channel id="Puebla vs. CF Montr&#233;al">
     <display-name lang="en">Puebla vs. CF Montr&#233;al</display-name>
+  </channel>
+  <channel id="Pachuca vs. Houston Dynamo FC">
+    <display-name lang="en">Pachuca vs. Houston Dynamo FC</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -60,15 +72,6 @@
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
   </channel>
-  <channel id="Cincinnati Reds vs. Chicago Cubs">
-    <display-name lang="en">Cincinnati Reds vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="New York Yankees vs. Texas Rangers">
-    <display-name lang="en">New York Yankees vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Colorado Rockies">
-    <display-name lang="en">Toronto Blue Jays vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="Tampa Bay Rays vs. Los Angeles Angels">
     <display-name lang="en">Tampa Bay Rays vs. Los Angeles Angels</display-name>
   </channel>
@@ -89,9 +92,6 @@
   </channel>
   <channel id="Lynx at Storm">
     <display-name lang="en">Lynx at Storm</display-name>
-  </channel>
-  <channel id="Pachuca vs. Houston Dynamo FC">
-    <display-name lang="en">Pachuca vs. Houston Dynamo FC</display-name>
   </channel>
   <channel id="San Diego FC vs. Mazatl&#225;n FC">
     <display-name lang="en">San Diego FC vs. Mazatl&#225;n FC</display-name>
@@ -217,6 +217,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250805000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250805235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250805000000 -0500" channel="New York Yankees vs. Texas Rangers" stop="20250805235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250805000000 -0500" channel="Toronto Blue Jays vs. Colorado Rockies" stop="20250805235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250805000000 -0500" channel="Wings at Liberty" stop="20250805235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -250,6 +274,14 @@
     </audio>
   </programme>
   <programme start="20250805000000 -0500" channel="Puebla vs. CF Montr&#233;al" stop="20250805235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250805000000 -0500" channel="Pachuca vs. Houston Dynamo FC" stop="20250805235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -313,30 +345,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250805000000 -0500" channel="Cincinnati Reds vs. Chicago Cubs" stop="20250805235959 -0500">
-    <title>07:05 PM 05/08/25 - Cincinnati Reds vs. Chicago Cubs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250805000000 -0500" channel="New York Yankees vs. Texas Rangers" stop="20250805235959 -0500">
-    <title>07:05 PM 05/08/25 - New York Yankees vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250805000000 -0500" channel="Toronto Blue Jays vs. Colorado Rockies" stop="20250805235959 -0500">
-    <title>07:40 PM 05/08/25 - Toronto Blue Jays vs. Colorado Rockies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250805000000 -0500" channel="Tampa Bay Rays vs. Los Angeles Angels" stop="20250805235959 -0500">
     <title>08:38 PM 05/08/25 - Tampa Bay Rays vs. Los Angeles Angels</title>
     <date>2025</date>
@@ -387,14 +395,6 @@
   </programme>
   <programme start="20250805000000 -0500" channel="Lynx at Storm" stop="20250805235959 -0500">
     <title>09:00 PM 05/08/25 - Lynx at Storm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250805000000 -0500" channel="Pachuca vs. Houston Dynamo FC" stop="20250805235959 -0500">
-    <title>07:30 PM 05/08/25 - Pachuca vs. Houston Dynamo FC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
