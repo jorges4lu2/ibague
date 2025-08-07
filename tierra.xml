@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20250806 -0500">
-  <channel id="Chicago White Sox vs. Seattle Mariners">
-    <display-name lang="en">Chicago White Sox vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Arizona Diamondbacks">
-    <display-name lang="en">San Diego Padres vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Aces at Valkyries">
-    <display-name lang="en">Aces at Valkyries</display-name>
-  </channel>
+<tv date="20250807 -0500">
   <channel id="Tijuana vs. Seattle Sounders FC">
     <display-name lang="en">Tijuana vs. Seattle Sounders FC</display-name>
+  </channel>
+  <channel id="Bayern M&#252;nchen vs Tottenham Hotspur">
+    <display-name lang="en">Bayern M&#252;nchen vs Tottenham Hotspur</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -63,8 +57,20 @@
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
   </channel>
-  <channel id="Bayern M&#252;nchen vs Tottenham Hotspur">
-    <display-name lang="en">Bayern M&#252;nchen vs Tottenham Hotspur</display-name>
+  <channel id="Athletics vs. Washington Nationals">
+    <display-name lang="en">Athletics vs. Washington Nationals</display-name>
+  </channel>
+  <channel id="Chicago White Sox vs. Seattle Mariners">
+    <display-name lang="en">Chicago White Sox vs. Seattle Mariners</display-name>
+  </channel>
+  <channel id="Cincinnati Reds vs. Pittsburgh Pirates">
+    <display-name lang="en">Cincinnati Reds vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="Miami Marlins vs. Atlanta Braves">
+    <display-name lang="en">Miami Marlins vs. Atlanta Braves</display-name>
+  </channel>
+  <channel id="PDC: KenoGO Australian Darts Masters - Day One">
+    <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day One</display-name>
   </channel>
   <channel id="Guadalajara vs. FC Cincinnati">
     <display-name lang="en">Guadalajara vs. FC Cincinnati</display-name>
@@ -132,7 +138,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250806000000 -0500" channel="Chicago White Sox vs. Seattle Mariners" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Tijuana vs. Seattle Sounders FC" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -140,7 +146,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="San Diego Padres vs. Arizona Diamondbacks" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Bayern M&#252;nchen vs Tottenham Hotspur" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -148,23 +154,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Aces at Valkyries" stop="20250806235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Tijuana vs. Seattle Sounders FC" stop="20250806235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Indianapolis Colts vs. Baltimore Ravens" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Indianapolis Colts vs. Baltimore Ravens" stop="20250807235959 -0500">
     <title>06:00 PM 07/08/25 - Indianapolis Colts vs. Baltimore Ravens</title>
     <date>2025</date>
     <category>Sports</category>
@@ -172,7 +162,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Cincinnati Bengals vs. Philadelphia Eagles" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Cincinnati Bengals vs. Philadelphia Eagles" stop="20250807235959 -0500">
     <title>06:30 PM 07/08/25 - Cincinnati Bengals vs. Philadelphia Eagles</title>
     <date>2025</date>
     <category>Sports</category>
@@ -180,7 +170,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Las Vegas Raiders vs. Seattle Seahawks" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Las Vegas Raiders vs. Seattle Seahawks" stop="20250807235959 -0500">
     <title>09:00 PM 07/08/25 - Las Vegas Raiders vs. Seattle Seahawks</title>
     <date>2025</date>
     <category>Sports</category>
@@ -188,7 +178,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Detroit Lions vs. Atlanta Falcons" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Detroit Lions vs. Atlanta Falcons" stop="20250807235959 -0500">
     <title>06:00 PM 08/08/25 - Detroit Lions vs. Atlanta Falcons</title>
     <date>2025</date>
     <category>Sports</category>
@@ -196,7 +186,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Cleveland Browns vs. Carolina Panthers" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Cleveland Browns vs. Carolina Panthers" stop="20250807235959 -0500">
     <title>06:00 PM 08/08/25 - Cleveland Browns vs. Carolina Panthers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -204,7 +194,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250807235959 -0500">
     <title>06:30 PM 08/08/25 - Washington Commanders vs. New England Patriots</title>
     <date>2025</date>
     <category>Sports</category>
@@ -212,7 +202,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="New York Giants vs. Buffalo Bills" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="New York Giants vs. Buffalo Bills" stop="20250807235959 -0500">
     <title>12:00 PM 09/08/25 - New York Giants vs. Buffalo Bills</title>
     <date>2025</date>
     <category>Sports</category>
@@ -220,7 +210,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Houston Texans vs. Minnesota Vikings" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Houston Texans vs. Minnesota Vikings" stop="20250807235959 -0500">
     <title>03:00 PM 09/08/25 - Houston Texans vs. Minnesota Vikings</title>
     <date>2025</date>
     <category>Sports</category>
@@ -228,7 +218,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Dallas Cowboys vs. Los Angeles Rams" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Dallas Cowboys vs. Los Angeles Rams" stop="20250807235959 -0500">
     <title>06:00 PM 09/08/25 - Dallas Cowboys vs. Los Angeles Rams</title>
     <date>2025</date>
     <category>Sports</category>
@@ -236,7 +226,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Pittsburgh Steelers vs. Jacksonville Jaguars" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Pittsburgh Steelers vs. Jacksonville Jaguars" stop="20250807235959 -0500">
     <title>06:00 PM 09/08/25 - Pittsburgh Steelers vs. Jacksonville Jaguars</title>
     <date>2025</date>
     <category>Sports</category>
@@ -244,7 +234,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Dallas Cowboys vs. Los Angeles Rams" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Dallas Cowboys vs. Los Angeles Rams" stop="20250807235959 -0500">
     <title>06:00 PM 09/08/25 - Dallas Cowboys vs. Los Angeles Rams</title>
     <date>2025</date>
     <category>Sports</category>
@@ -252,7 +242,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Tennessee Titans vs. Tampa Bay Buccaneers" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Tennessee Titans vs. Tampa Bay Buccaneers" stop="20250807235959 -0500">
     <title>06:30 PM 09/08/25 - Tennessee Titans vs. Tampa Bay Buccaneers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -260,7 +250,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="New York Jets vs. Green Bay Packers" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="New York Jets vs. Green Bay Packers" stop="20250807235959 -0500">
     <title>07:00 PM 09/08/25 - New York Jets vs. Green Bay Packers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -268,7 +258,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Kansas City Chiefs vs. Arizona Cardinals" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Kansas City Chiefs vs. Arizona Cardinals" stop="20250807235959 -0500">
     <title>07:00 PM 09/08/25 - Kansas City Chiefs vs. Arizona Cardinals</title>
     <date>2025</date>
     <category>Sports</category>
@@ -276,7 +266,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Denver Broncos vs. San Francisco 49ers" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Denver Broncos vs. San Francisco 49ers" stop="20250807235959 -0500">
     <title>07:30 PM 09/08/25 - Denver Broncos vs. San Francisco 49ers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -284,7 +274,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Miami Dolphins vs. Chicago Bears" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Miami Dolphins vs. Chicago Bears" stop="20250807235959 -0500">
     <title>12:00 PM 10/08/25 - Miami Dolphins vs. Chicago Bears</title>
     <date>2025</date>
     <category>Sports</category>
@@ -292,7 +282,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="New Orleans Saints vs. Los Angeles Chargers" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="New Orleans Saints vs. Los Angeles Chargers" stop="20250807235959 -0500">
     <title>03:00 PM 10/08/25 - New Orleans Saints vs. Los Angeles Chargers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -300,15 +290,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Bayern M&#252;nchen vs Tottenham Hotspur" stop="20250806235959 -0500">
-    <title>11:30 PM 06/08/25 - Bayern M&#252;nchen vs Tottenham Hotspur</title>
+  <programme start="20250807000000 -0500" channel="Athletics vs. Washington Nationals" stop="20250807235959 -0500">
+    <title>11:05 AM 07/08/25 - Athletics vs. Washington Nationals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Guadalajara vs. FC Cincinnati" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Chicago White Sox vs. Seattle Mariners" stop="20250807235959 -0500">
+    <title>03:10 PM 07/08/25 - Chicago White Sox vs. Seattle Mariners</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="Cincinnati Reds vs. Pittsburgh Pirates" stop="20250807235959 -0500">
+    <title>05:40 PM 07/08/25 - Cincinnati Reds vs. Pittsburgh Pirates</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="Miami Marlins vs. Atlanta Braves" stop="20250807235959 -0500">
+    <title>06:15 PM 07/08/25 - Miami Marlins vs. Atlanta Braves</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="PDC: KenoGO Australian Darts Masters - Day One" stop="20250807235959 -0500">
+    <title>04:00 AM 08/08/25 - PDC: KenoGO Australian Darts Masters - Day One</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="Guadalajara vs. FC Cincinnati" stop="20250807235959 -0500">
     <title>06:00 PM 07/08/25 - Guadalajara vs. FC Cincinnati</title>
     <date>2025</date>
     <category>Sports</category>
@@ -316,7 +338,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Charlotte FC vs. Monterrey" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Charlotte FC vs. Monterrey" stop="20250807235959 -0500">
     <title>06:30 PM 07/08/25 - Charlotte FC vs. Monterrey</title>
     <date>2025</date>
     <category>Sports</category>
@@ -324,7 +346,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="FC Juarez vs. New York Red Bulls" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="FC Juarez vs. New York Red Bulls" stop="20250807235959 -0500">
     <title>06:30 PM 07/08/25 - FC Juarez vs. New York Red Bulls</title>
     <date>2025</date>
     <category>Sports</category>
@@ -332,7 +354,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Colorado Rapids vs. Cruz Azul" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Colorado Rapids vs. Cruz Azul" stop="20250807235959 -0500">
     <title>07:30 PM 07/08/25 - Colorado Rapids vs. Cruz Azul</title>
     <date>2025</date>
     <category>Sports</category>
@@ -340,7 +362,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Santos vs. LA Galaxy" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Santos vs. LA Galaxy" stop="20250807235959 -0500">
     <title>10:15 PM 07/08/25 - Santos vs. LA Galaxy</title>
     <date>2025</date>
     <category>Sports</category>
@@ -348,7 +370,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Liverpool vs. Bournemouth" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Liverpool vs. Bournemouth" stop="20250807235959 -0500">
     <title>02:00 PM 15/08/25 - Liverpool vs. Bournemouth</title>
     <date>2025</date>
     <category>Sports</category>
@@ -356,7 +378,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Brighton and Hove Albion vs. Fulham" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Brighton and Hove Albion vs. Fulham" stop="20250807235959 -0500">
     <title>09:00 AM 16/08/25 - Brighton and Hove Albion vs. Fulham</title>
     <date>2025</date>
     <category>Sports</category>
@@ -364,7 +386,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Sunderland vs. West Ham United" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Sunderland vs. West Ham United" stop="20250807235959 -0500">
     <title>09:00 AM 16/08/25 - Sunderland vs. West Ham United</title>
     <date>2025</date>
     <category>Sports</category>
@@ -372,7 +394,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Tottenham Hotspur vs. Burnley" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Tottenham Hotspur vs. Burnley" stop="20250807235959 -0500">
     <title>09:00 AM 16/08/25 - Tottenham Hotspur vs. Burnley</title>
     <date>2025</date>
     <category>Sports</category>
@@ -380,7 +402,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Wolverhampton Wanderers vs. Manchester City" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Wolverhampton Wanderers vs. Manchester City" stop="20250807235959 -0500">
     <title>11:30 AM 16/08/25 - Wolverhampton Wanderers vs. Manchester City</title>
     <date>2025</date>
     <category>Sports</category>
@@ -388,7 +410,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Nottingham Forest vs. Brentford" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Nottingham Forest vs. Brentford" stop="20250807235959 -0500">
     <title>08:00 AM 17/08/25 - Nottingham Forest vs. Brentford</title>
     <date>2025</date>
     <category>Sports</category>
@@ -396,7 +418,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Chelsea vs. Crystal Palace" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Chelsea vs. Crystal Palace" stop="20250807235959 -0500">
     <title>08:00 AM 17/08/25 - Chelsea vs. Crystal Palace</title>
     <date>2025</date>
     <category>Sports</category>
@@ -404,7 +426,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Manchester United vs. Arsenal" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Manchester United vs. Arsenal" stop="20250807235959 -0500">
     <title>10:30 AM 17/08/25 - Manchester United vs. Arsenal</title>
     <date>2025</date>
     <category>Sports</category>
@@ -412,7 +434,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="TNA: Impact" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="TNA: Impact" stop="20250807235959 -0500">
     <title>07:00 PM 07/08/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
@@ -420,7 +442,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250807235959 -0500">
     <title>07:00 PM 08/08/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
@@ -428,7 +450,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="AEW: Saturday Night Collision" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="AEW: Saturday Night Collision" stop="20250807235959 -0500">
     <title>07:00 PM 09/08/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -436,7 +458,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="24/7 South Park" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="24/7 South Park" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -444,7 +466,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="24/7 COWS" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="24/7 COWS" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -452,7 +474,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204; Guy" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204; Guy" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -460,7 +482,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="24/7 The Simpsons" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="24/7 The Simpsons" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -468,7 +490,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="(North) Korean Central Television" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="(North) Korean Central Television" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -476,7 +498,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Comedy Central" stop="20250806235959 -0500">
+  <programme start="20250807000000 -0500" channel="Comedy Central" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
