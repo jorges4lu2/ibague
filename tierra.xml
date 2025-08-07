@@ -1,25 +1,31 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250806 -0500">
-  <channel id="Athletics vs. Washington Nationals">
-    <display-name lang="en">Athletics vs. Washington Nationals</display-name>
-  </channel>
   <channel id="Kansas City Royals vs. Boston Red Sox">
     <display-name lang="en">Kansas City Royals vs. Boston Red Sox</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Atlanta Braves">
     <display-name lang="en">Milwaukee Brewers vs. Atlanta Braves</display-name>
   </channel>
-  <channel id="Necaxa vs. Orlando City SC">
-    <display-name lang="en">Necaxa vs. Orlando City SC</display-name>
+  <channel id="Chicago White Sox vs. Seattle Mariners">
+    <display-name lang="en">Chicago White Sox vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="Atlas vs. Atlanta United FC">
-    <display-name lang="en">Atlas vs. Atlanta United FC</display-name>
+  <channel id="San Diego Padres vs. Arizona Diamondbacks">
+    <display-name lang="en">San Diego Padres vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="Pumas UNAM vs. Inter Miami CF">
-    <display-name lang="en">Pumas UNAM vs. Inter Miami CF</display-name>
+  <channel id="Aces at Valkyries">
+    <display-name lang="en">Aces at Valkyries</display-name>
   </channel>
   <channel id="Atl&#233;tico de San Luis vs. Minnesota United FC">
     <display-name lang="en">Atl&#233;tico de San Luis vs. Minnesota United FC</display-name>
+  </channel>
+  <channel id="Portland Timbers vs. Am&#233;rica">
+    <display-name lang="en">Portland Timbers vs. Am&#233;rica</display-name>
+  </channel>
+  <channel id="Quer&#233;taro vs. Real Salt Lake">
+    <display-name lang="en">Quer&#233;taro vs. Real Salt Lake</display-name>
+  </channel>
+  <channel id="South Park: Season 27, Episode 2">
+    <display-name lang="en">South Park: Season 27, Episode 2</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -71,21 +77,6 @@
   </channel>
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Seattle Mariners">
-    <display-name lang="en">Chicago White Sox vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Arizona Diamondbacks">
-    <display-name lang="en">San Diego Padres vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Aces at Valkyries">
-    <display-name lang="en">Aces at Valkyries</display-name>
-  </channel>
-  <channel id="Portland Timbers vs. Am&#233;rica">
-    <display-name lang="en">Portland Timbers vs. Am&#233;rica</display-name>
-  </channel>
-  <channel id="Quer&#233;taro vs. Real Salt Lake">
-    <display-name lang="en">Quer&#233;taro vs. Real Salt Lake</display-name>
   </channel>
   <channel id="Tijuana vs. Seattle Sounders FC">
     <display-name lang="en">Tijuana vs. Seattle Sounders FC</display-name>
@@ -141,14 +132,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250806000000 -0500" channel="Athletics vs. Washington Nationals" stop="20250806235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250806000000 -0500" channel="Kansas City Royals vs. Boston Red Sox" stop="20250806235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -165,7 +148,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Necaxa vs. Orlando City SC" stop="20250806235959 -0500">
+  <programme start="20250806000000 -0500" channel="Chicago White Sox vs. Seattle Mariners" stop="20250806235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -173,7 +156,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Atlas vs. Atlanta United FC" stop="20250806235959 -0500">
+  <programme start="20250806000000 -0500" channel="San Diego Padres vs. Arizona Diamondbacks" stop="20250806235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -181,7 +164,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Pumas UNAM vs. Inter Miami CF" stop="20250806235959 -0500">
+  <programme start="20250806000000 -0500" channel="Aces at Valkyries" stop="20250806235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -190,6 +173,30 @@
     </audio>
   </programme>
   <programme start="20250806000000 -0500" channel="Atl&#233;tico de San Luis vs. Minnesota United FC" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="Portland Timbers vs. Am&#233;rica" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="Quer&#233;taro vs. Real Salt Lake" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="South Park: Season 27, Episode 2" stop="20250806235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -327,46 +334,6 @@
   </programme>
   <programme start="20250806000000 -0500" channel="New Orleans Saints vs. Los Angeles Chargers" stop="20250806235959 -0500">
     <title>03:00 PM 10/08/25 - New Orleans Saints vs. Los Angeles Chargers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Chicago White Sox vs. Seattle Mariners" stop="20250806235959 -0500">
-    <title>08:40 PM 06/08/25 - Chicago White Sox vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="San Diego Padres vs. Arizona Diamondbacks" stop="20250806235959 -0500">
-    <title>08:40 PM 06/08/25 - San Diego Padres vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Aces at Valkyries" stop="20250806235959 -0500">
-    <title>09:00 PM 06/08/25 - Aces at Valkyries</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Portland Timbers vs. Am&#233;rica" stop="20250806235959 -0500">
-    <title>08:30 PM 06/08/25 - Portland Timbers vs. Am&#233;rica</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Quer&#233;taro vs. Real Salt Lake" stop="20250806235959 -0500">
-    <title>08:30 PM 06/08/25 - Quer&#233;taro vs. Real Salt Lake</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
