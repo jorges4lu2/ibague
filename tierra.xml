@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250807 -0500">
+  <channel id="Indianapolis Colts vs. Baltimore Ravens">
+    <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
+  </channel>
   <channel id="Chicago White Sox vs. Seattle Mariners">
     <display-name lang="en">Chicago White Sox vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="Indianapolis Colts vs. Baltimore Ravens">
-    <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
+  <channel id="Cincinnati Reds vs. Pittsburgh Pirates">
+    <display-name lang="en">Cincinnati Reds vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="Guadalajara vs. FC Cincinnati">
+    <display-name lang="en">Guadalajara vs. FC Cincinnati</display-name>
   </channel>
   <channel id="Cincinnati Bengals vs. Philadelphia Eagles">
     <display-name lang="en">Cincinnati Bengals vs. Philadelphia Eagles</display-name>
@@ -54,9 +60,6 @@
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
   </channel>
-  <channel id="Cincinnati Reds vs. Pittsburgh Pirates">
-    <display-name lang="en">Cincinnati Reds vs. Pittsburgh Pirates</display-name>
-  </channel>
   <channel id="Miami Marlins vs. Atlanta Braves">
     <display-name lang="en">Miami Marlins vs. Atlanta Braves</display-name>
   </channel>
@@ -71,9 +74,6 @@
   </channel>
   <channel id="PDC: KenoGO Australian Darts Masters - Day One">
     <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day One</display-name>
-  </channel>
-  <channel id="Guadalajara vs. FC Cincinnati">
-    <display-name lang="en">Guadalajara vs. FC Cincinnati</display-name>
   </channel>
   <channel id="Charlotte FC vs. Monterrey">
     <display-name lang="en">Charlotte FC vs. Monterrey</display-name>
@@ -138,6 +138,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250807000000 -0500" channel="Indianapolis Colts vs. Baltimore Ravens" stop="20250807235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250807000000 -0500" channel="Chicago White Sox vs. Seattle Mariners" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -146,8 +154,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250807000000 -0500" channel="Indianapolis Colts vs. Baltimore Ravens" stop="20250807235959 -0500">
-    <title>06:00 PM 07/08/25 - Indianapolis Colts vs. Baltimore Ravens</title>
+  <programme start="20250807000000 -0500" channel="Cincinnati Reds vs. Pittsburgh Pirates" stop="20250807235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="Guadalajara vs. FC Cincinnati" stop="20250807235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -282,14 +298,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250807000000 -0500" channel="Cincinnati Reds vs. Pittsburgh Pirates" stop="20250807235959 -0500">
-    <title>05:40 PM 07/08/25 - Cincinnati Reds vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250807000000 -0500" channel="Miami Marlins vs. Atlanta Braves" stop="20250807235959 -0500">
     <title>06:15 PM 07/08/25 - Miami Marlins vs. Atlanta Braves</title>
     <date>2025</date>
@@ -324,14 +332,6 @@
   </programme>
   <programme start="20250807000000 -0500" channel="PDC: KenoGO Australian Darts Masters - Day One" stop="20250807235959 -0500">
     <title>04:00 AM 08/08/25 - PDC: KenoGO Australian Darts Masters - Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250807000000 -0500" channel="Guadalajara vs. FC Cincinnati" stop="20250807235959 -0500">
-    <title>06:00 PM 07/08/25 - Guadalajara vs. FC Cincinnati</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
