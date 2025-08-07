@@ -63,8 +63,20 @@
   <channel id="Miami Marlins vs. Atlanta Braves">
     <display-name lang="en">Miami Marlins vs. Atlanta Braves</display-name>
   </channel>
+  <channel id="Dream at Sky">
+    <display-name lang="en">Dream at Sky</display-name>
+  </channel>
+  <channel id="Sun at Sparks">
+    <display-name lang="en">Sun at Sparks</display-name>
+  </channel>
+  <channel id="Fever at Mercury">
+    <display-name lang="en">Fever at Mercury</display-name>
+  </channel>
   <channel id="PDC: KenoGO Australian Darts Masters - Day One">
     <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day One</display-name>
+  </channel>
+  <channel id="Bayern Munich vs Tottenham Hotspur">
+    <display-name lang="en">Bayern Munich vs Tottenham Hotspur</display-name>
   </channel>
   <channel id="Guadalajara vs. FC Cincinnati">
     <display-name lang="en">Guadalajara vs. FC Cincinnati</display-name>
@@ -300,8 +312,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250807000000 -0500" channel="Dream at Sky" stop="20250807235959 -0500">
+    <title>07:00 PM 07/08/25 - Dream at Sky</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="Sun at Sparks" stop="20250807235959 -0500">
+    <title>09:00 PM 07/08/25 - Sun at Sparks</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="Fever at Mercury" stop="20250807235959 -0500">
+    <title>09:00 PM 07/08/25 - Fever at Mercury</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250807000000 -0500" channel="PDC: KenoGO Australian Darts Masters - Day One" stop="20250807235959 -0500">
     <title>04:00 AM 08/08/25 - PDC: KenoGO Australian Darts Masters - Day One</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="Bayern Munich vs Tottenham Hotspur" stop="20250807235959 -0500">
+    <title>11:30 AM 07/08/25 - Bayern Munich vs Tottenham Hotspur</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
