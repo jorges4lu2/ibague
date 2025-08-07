@@ -1,19 +1,25 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250806 -0500">
-  <channel id="Tampa Bay Rays vs. Los Angeles Angels">
-    <display-name lang="en">Tampa Bay Rays vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Los Angeles Dodgers">
-    <display-name lang="en">St. Louis Cardinals vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Miami Marlins">
-    <display-name lang="en">Houston Astros vs. Miami Marlins</display-name>
-  </channel>
   <channel id="Athletics vs. Washington Nationals">
     <display-name lang="en">Athletics vs. Washington Nationals</display-name>
   </channel>
+  <channel id="Kansas City Royals vs. Boston Red Sox">
+    <display-name lang="en">Kansas City Royals vs. Boston Red Sox</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Atlanta Braves">
+    <display-name lang="en">Milwaukee Brewers vs. Atlanta Braves</display-name>
+  </channel>
   <channel id="Necaxa vs. Orlando City SC">
     <display-name lang="en">Necaxa vs. Orlando City SC</display-name>
+  </channel>
+  <channel id="Atlas vs. Atlanta United FC">
+    <display-name lang="en">Atlas vs. Atlanta United FC</display-name>
+  </channel>
+  <channel id="Pumas UNAM vs. Inter Miami CF">
+    <display-name lang="en">Pumas UNAM vs. Inter Miami CF</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
@@ -66,12 +72,6 @@
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
   </channel>
-  <channel id="Kansas City Royals vs. Boston Red Sox">
-    <display-name lang="en">Kansas City Royals vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Atlanta Braves">
-    <display-name lang="en">Milwaukee Brewers vs. Atlanta Braves</display-name>
-  </channel>
   <channel id="Chicago White Sox vs. Seattle Mariners">
     <display-name lang="en">Chicago White Sox vs. Seattle Mariners</display-name>
   </channel>
@@ -80,12 +80,6 @@
   </channel>
   <channel id="Aces at Valkyries">
     <display-name lang="en">Aces at Valkyries</display-name>
-  </channel>
-  <channel id="Atlas vs. Atlanta United FC">
-    <display-name lang="en">Atlas vs. Atlanta United FC</display-name>
-  </channel>
-  <channel id="Pumas UNAM vs. Inter Miami CF">
-    <display-name lang="en">Pumas UNAM vs. Inter Miami CF</display-name>
   </channel>
   <channel id="Atl&#233;tico de San Luis vs. Minnesota United FC">
     <display-name lang="en">Atl&#233;tico de San Luis vs. Minnesota United FC</display-name>
@@ -123,9 +117,6 @@
   <channel id="Manchester United vs. Arsenal">
     <display-name lang="en">Manchester United vs. Arsenal</display-name>
   </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
@@ -153,30 +144,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250806000000 -0500" channel="Tampa Bay Rays vs. Los Angeles Angels" stop="20250806235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="St. Louis Cardinals vs. Los Angeles Dodgers" stop="20250806235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Houston Astros vs. Miami Marlins" stop="20250806235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250806000000 -0500" channel="Athletics vs. Washington Nationals" stop="20250806235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -185,7 +152,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250806000000 -0500" channel="Kansas City Royals vs. Boston Red Sox" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="Milwaukee Brewers vs. Atlanta Braves" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250806000000 -0500" channel="Necaxa vs. Orlando City SC" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="Atlas vs. Atlanta United FC" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="Pumas UNAM vs. Inter Miami CF" stop="20250806235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250806000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250806235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -329,22 +336,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250806000000 -0500" channel="Kansas City Royals vs. Boston Red Sox" stop="20250806235959 -0500">
-    <title>06:10 PM 06/08/25 - Kansas City Royals vs. Boston Red Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Milwaukee Brewers vs. Atlanta Braves" stop="20250806235959 -0500">
-    <title>06:15 PM 06/08/25 - Milwaukee Brewers vs. Atlanta Braves</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250806000000 -0500" channel="Chicago White Sox vs. Seattle Mariners" stop="20250806235959 -0500">
     <title>08:40 PM 06/08/25 - Chicago White Sox vs. Seattle Mariners</title>
     <date>2025</date>
@@ -363,22 +354,6 @@
   </programme>
   <programme start="20250806000000 -0500" channel="Aces at Valkyries" stop="20250806235959 -0500">
     <title>09:00 PM 06/08/25 - Aces at Valkyries</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Atlas vs. Atlanta United FC" stop="20250806235959 -0500">
-    <title>06:30 PM 06/08/25 - Atlas vs. Atlanta United FC</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="Pumas UNAM vs. Inter Miami CF" stop="20250806235959 -0500">
-    <title>06:30 PM 06/08/25 - Pumas UNAM vs. Inter Miami CF</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -475,14 +450,6 @@
   </programme>
   <programme start="20250806000000 -0500" channel="Manchester United vs. Arsenal" stop="20250806235959 -0500">
     <title>10:30 AM 17/08/25 - Manchester United vs. Arsenal</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250806000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250806235959 -0500">
-    <title>07:00 PM 06/08/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
