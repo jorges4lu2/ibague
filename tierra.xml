@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250808 -0500">
+  <channel id="PDC: KenoGO Australian Darts Masters - Day One">
+    <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day One</display-name>
+  </channel>
   <channel id="Detroit Lions vs. Atlanta Falcons">
     <display-name lang="en">Detroit Lions vs. Atlanta Falcons</display-name>
   </channel>
@@ -87,9 +90,6 @@
   <channel id="Washington Nationals vs. San Francisco Giants">
     <display-name lang="en">Washington Nationals vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="PDC: KenoGO Australian Darts Masters - Day One">
-    <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day One</display-name>
-  </channel>
   <channel id="PDC: KenoGO Australian Darts Masters - Day Two">
     <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day Two</display-name>
   </channel>
@@ -141,6 +141,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250808000000 -0500" channel="PDC: KenoGO Australian Darts Masters - Day One" stop="20250808235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250808000000 -0500" channel="Detroit Lions vs. Atlanta Falcons" stop="20250808235959 -0500">
     <title>06:00 PM 08/08/25 - Detroit Lions vs. Atlanta Falcons</title>
     <date>2025</date>
@@ -367,14 +375,6 @@
   </programme>
   <programme start="20250808000000 -0500" channel="Washington Nationals vs. San Francisco Giants" stop="20250808235959 -0500">
     <title>09:15 PM 08/08/25 - Washington Nationals vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250808000000 -0500" channel="PDC: KenoGO Australian Darts Masters - Day One" stop="20250808235959 -0500">
-    <title>04:00 AM 08/08/25 - PDC: KenoGO Australian Darts Masters - Day One</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
