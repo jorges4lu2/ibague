@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250807 -0500">
-  <channel id="Indianapolis Colts vs. Baltimore Ravens">
-    <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
-  </channel>
   <channel id="Cincinnati Bengals vs. Philadelphia Eagles">
     <display-name lang="en">Cincinnati Bengals vs. Philadelphia Eagles</display-name>
   </channel>
-  <channel id="Cincinnati Reds vs. Pittsburgh Pirates">
-    <display-name lang="en">Cincinnati Reds vs. Pittsburgh Pirates</display-name>
+  <channel id="Las Vegas Raiders vs. Seattle Seahawks">
+    <display-name lang="en">Las Vegas Raiders vs. Seattle Seahawks</display-name>
   </channel>
   <channel id="Miami Marlins vs. Atlanta Braves">
     <display-name lang="en">Miami Marlins vs. Atlanta Braves</display-name>
@@ -15,11 +12,14 @@
   <channel id="Dream at Sky">
     <display-name lang="en">Dream at Sky</display-name>
   </channel>
+  <channel id="Sun at Sparks">
+    <display-name lang="en">Sun at Sparks</display-name>
+  </channel>
+  <channel id="Fever at Mercury">
+    <display-name lang="en">Fever at Mercury</display-name>
+  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
-  </channel>
-  <channel id="Las Vegas Raiders vs. Seattle Seahawks">
-    <display-name lang="en">Las Vegas Raiders vs. Seattle Seahawks</display-name>
   </channel>
   <channel id="Detroit Lions vs. Atlanta Falcons">
     <display-name lang="en">Detroit Lions vs. Atlanta Falcons</display-name>
@@ -62,12 +62,6 @@
   </channel>
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
-  </channel>
-  <channel id="Sun at Sparks">
-    <display-name lang="en">Sun at Sparks</display-name>
-  </channel>
-  <channel id="Fever at Mercury">
-    <display-name lang="en">Fever at Mercury</display-name>
   </channel>
   <channel id="PDC: KenoGO Australian Darts Masters - Day One">
     <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day One</display-name>
@@ -120,14 +114,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250807000000 -0500" channel="Indianapolis Colts vs. Baltimore Ravens" stop="20250807235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250807000000 -0500" channel="Cincinnati Bengals vs. Philadelphia Eagles" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -136,7 +122,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250807000000 -0500" channel="Cincinnati Reds vs. Pittsburgh Pirates" stop="20250807235959 -0500">
+  <programme start="20250807000000 -0500" channel="Las Vegas Raiders vs. Seattle Seahawks" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -160,7 +146,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250807000000 -0500" channel="TNA: Impact" stop="20250807235959 -0500">
+  <programme start="20250807000000 -0500" channel="Sun at Sparks" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -168,8 +154,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250807000000 -0500" channel="Las Vegas Raiders vs. Seattle Seahawks" stop="20250807235959 -0500">
-    <title>09:00 PM 07/08/25 - Las Vegas Raiders vs. Seattle Seahawks</title>
+  <programme start="20250807000000 -0500" channel="Fever at Mercury" stop="20250807235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="TNA: Impact" stop="20250807235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -282,22 +276,6 @@
   </programme>
   <programme start="20250807000000 -0500" channel="New Orleans Saints vs. Los Angeles Chargers" stop="20250807235959 -0500">
     <title>03:00 PM 10/08/25 - New Orleans Saints vs. Los Angeles Chargers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250807000000 -0500" channel="Sun at Sparks" stop="20250807235959 -0500">
-    <title>09:00 PM 07/08/25 - Sun at Sparks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250807000000 -0500" channel="Fever at Mercury" stop="20250807235959 -0500">
-    <title>09:00 PM 07/08/25 - Fever at Mercury</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
