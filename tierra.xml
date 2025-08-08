@@ -3,17 +3,29 @@
   <channel id="Indianapolis Colts vs. Baltimore Ravens">
     <display-name lang="en">Indianapolis Colts vs. Baltimore Ravens</display-name>
   </channel>
-  <channel id="Chicago White Sox vs. Seattle Mariners">
-    <display-name lang="en">Chicago White Sox vs. Seattle Mariners</display-name>
+  <channel id="Cincinnati Bengals vs. Philadelphia Eagles">
+    <display-name lang="en">Cincinnati Bengals vs. Philadelphia Eagles</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Pittsburgh Pirates">
     <display-name lang="en">Cincinnati Reds vs. Pittsburgh Pirates</display-name>
   </channel>
+  <channel id="Miami Marlins vs. Atlanta Braves">
+    <display-name lang="en">Miami Marlins vs. Atlanta Braves</display-name>
+  </channel>
+  <channel id="Dream at Sky">
+    <display-name lang="en">Dream at Sky</display-name>
+  </channel>
   <channel id="Guadalajara vs. FC Cincinnati">
     <display-name lang="en">Guadalajara vs. FC Cincinnati</display-name>
   </channel>
-  <channel id="Cincinnati Bengals vs. Philadelphia Eagles">
-    <display-name lang="en">Cincinnati Bengals vs. Philadelphia Eagles</display-name>
+  <channel id="Charlotte FC vs. Monterrey">
+    <display-name lang="en">Charlotte FC vs. Monterrey</display-name>
+  </channel>
+  <channel id="FC Juarez vs. New York Red Bulls">
+    <display-name lang="en">FC Juarez vs. New York Red Bulls</display-name>
+  </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="Las Vegas Raiders vs. Seattle Seahawks">
     <display-name lang="en">Las Vegas Raiders vs. Seattle Seahawks</display-name>
@@ -60,12 +72,6 @@
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
   </channel>
-  <channel id="Miami Marlins vs. Atlanta Braves">
-    <display-name lang="en">Miami Marlins vs. Atlanta Braves</display-name>
-  </channel>
-  <channel id="Dream at Sky">
-    <display-name lang="en">Dream at Sky</display-name>
-  </channel>
   <channel id="Sun at Sparks">
     <display-name lang="en">Sun at Sparks</display-name>
   </channel>
@@ -74,12 +80,6 @@
   </channel>
   <channel id="PDC: KenoGO Australian Darts Masters - Day One">
     <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day One</display-name>
-  </channel>
-  <channel id="Charlotte FC vs. Monterrey">
-    <display-name lang="en">Charlotte FC vs. Monterrey</display-name>
-  </channel>
-  <channel id="FC Juarez vs. New York Red Bulls">
-    <display-name lang="en">FC Juarez vs. New York Red Bulls</display-name>
   </channel>
   <channel id="Colorado Rapids vs. Cruz Azul">
     <display-name lang="en">Colorado Rapids vs. Cruz Azul</display-name>
@@ -110,9 +110,6 @@
   </channel>
   <channel id="Manchester United vs. Arsenal">
     <display-name lang="en">Manchester United vs. Arsenal</display-name>
-  </channel>
-  <channel id="TNA: Impact">
-    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -146,7 +143,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250807000000 -0500" channel="Chicago White Sox vs. Seattle Mariners" stop="20250807235959 -0500">
+  <programme start="20250807000000 -0500" channel="Cincinnati Bengals vs. Philadelphia Eagles" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -162,6 +159,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250807000000 -0500" channel="Miami Marlins vs. Atlanta Braves" stop="20250807235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="Dream at Sky" stop="20250807235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250807000000 -0500" channel="Guadalajara vs. FC Cincinnati" stop="20250807235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -170,8 +183,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250807000000 -0500" channel="Cincinnati Bengals vs. Philadelphia Eagles" stop="20250807235959 -0500">
-    <title>06:30 PM 07/08/25 - Cincinnati Bengals vs. Philadelphia Eagles</title>
+  <programme start="20250807000000 -0500" channel="Charlotte FC vs. Monterrey" stop="20250807235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="FC Juarez vs. New York Red Bulls" stop="20250807235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250807000000 -0500" channel="TNA: Impact" stop="20250807235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -298,22 +327,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250807000000 -0500" channel="Miami Marlins vs. Atlanta Braves" stop="20250807235959 -0500">
-    <title>06:15 PM 07/08/25 - Miami Marlins vs. Atlanta Braves</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250807000000 -0500" channel="Dream at Sky" stop="20250807235959 -0500">
-    <title>07:00 PM 07/08/25 - Dream at Sky</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250807000000 -0500" channel="Sun at Sparks" stop="20250807235959 -0500">
     <title>09:00 PM 07/08/25 - Sun at Sparks</title>
     <date>2025</date>
@@ -332,22 +345,6 @@
   </programme>
   <programme start="20250807000000 -0500" channel="PDC: KenoGO Australian Darts Masters - Day One" stop="20250807235959 -0500">
     <title>04:00 AM 08/08/25 - PDC: KenoGO Australian Darts Masters - Day One</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250807000000 -0500" channel="Charlotte FC vs. Monterrey" stop="20250807235959 -0500">
-    <title>06:30 PM 07/08/25 - Charlotte FC vs. Monterrey</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250807000000 -0500" channel="FC Juarez vs. New York Red Bulls" stop="20250807235959 -0500">
-    <title>06:30 PM 07/08/25 - FC Juarez vs. New York Red Bulls</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -428,14 +425,6 @@
   </programme>
   <programme start="20250807000000 -0500" channel="Manchester United vs. Arsenal" stop="20250807235959 -0500">
     <title>10:30 AM 17/08/25 - Manchester United vs. Arsenal</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250807000000 -0500" channel="TNA: Impact" stop="20250807235959 -0500">
-    <title>07:00 PM 07/08/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
