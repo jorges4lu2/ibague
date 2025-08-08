@@ -1152,14 +1152,14 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 - Linda's Speedway 6:15pm">
-    <display-name lang="en">DIRTVISION 01 - Linda's Speedway 6:15pm</display-name>
+  <channel id="DIRTVISION 01 - Knoxville Raceway 6:15pm">
+    <display-name lang="en">DIRTVISION 01 - Knoxville Raceway 6:15pm</display-name>
   </channel>
-  <channel id="DIRTVISION 02 - Knoxville Raceway 6:15pm">
-    <display-name lang="en">DIRTVISION 02 - Knoxville Raceway 6:15pm</display-name>
+  <channel id="DIRTVISION 02 - Knoxville Raceway 6:15pm BACKUP">
+    <display-name lang="en">DIRTVISION 02 - Knoxville Raceway 6:15pm BACKUP</display-name>
   </channel>
-  <channel id="DIRTVISION 03 -  Knoxville Raceway 6:15pm BACKUP">
-    <display-name lang="en">DIRTVISION 03 -  Knoxville Raceway 6:15pm BACKUP</display-name>
+  <channel id="DIRTVISION 03 -  Path Valley Speedway 6:15pm">
+    <display-name lang="en">DIRTVISION 03 -  Path Valley Speedway 6:15pm</display-name>
   </channel>
   <channel id="DIRTVISION 04 - DIRT ZONE Fan Cast 8:00PM">
     <display-name lang="en">DIRTVISION 04 - DIRT ZONE Fan Cast 8:00PM</display-name>
@@ -1394,6 +1394,9 @@
   </channel>
   <channel id="08. 1st ODI | West Indies vs Pakistan (Fri 19:00 UK)">
     <display-name lang="en">08. 1st ODI | West Indies vs Pakistan (Fri 19:00 UK)</display-name>
+  </channel>
+  <channel id="09. 1st ODI | West Indies vs Pakistan (Fri 19:00 UK)">
+    <display-name lang="en">09. 1st ODI | West Indies vs Pakistan (Fri 19:00 UK)</display-name>
   </channel>
   <channel id="ESPN+ 1 (D): FedEx St. Jude Championship: Main Feed (Second Round)  08:15et-13:15uk">
     <display-name lang="en">ESPN+ 1 (D): FedEx St. Jude Championship: Main Feed (Second Round)  08:15et-13:15uk</display-name>
@@ -4821,24 +4824,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250808000000 -0500" channel="DIRTVISION 01 - Linda's Speedway 6:15pm" stop="20250808235959 -0500">
-    <title>12:15 PM - DIRTVISION 01 - Linda's Speedway 6:15pm</title>
+  <programme start="20250808000000 -0500" channel="DIRTVISION 01 - Knoxville Raceway 6:15pm" stop="20250808235959 -0500">
+    <title>12:15 PM - DIRTVISION 01 - Knoxville Raceway 6:15pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250808000000 -0500" channel="DIRTVISION 02 - Knoxville Raceway 6:15pm" stop="20250808235959 -0500">
-    <title>12:15 PM - DIRTVISION 02 - Knoxville Raceway 6:15pm</title>
+  <programme start="20250808000000 -0500" channel="DIRTVISION 02 - Knoxville Raceway 6:15pm BACKUP" stop="20250808235959 -0500">
+    <title>12:15 PM - DIRTVISION 02 - Knoxville Raceway 6:15pm BACKUP</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250808000000 -0500" channel="DIRTVISION 03 -  Knoxville Raceway 6:15pm BACKUP" stop="20250808235959 -0500">
-    <title>12:15 PM - DIRTVISION 03 -  Knoxville Raceway 6:15pm BACKUP</title>
+  <programme start="20250808000000 -0500" channel="DIRTVISION 03 -  Path Valley Speedway 6:15pm" stop="20250808235959 -0500">
+    <title>12:15 PM - DIRTVISION 03 -  Path Valley Speedway 6:15pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -5463,6 +5466,14 @@
   </programme>
   <programme start="20250808000000 -0500" channel="08. 1st ODI | West Indies vs Pakistan (Fri 19:00 UK)" stop="20250808235959 -0500">
     <title>01:00 PM - 08. 1st ODI | West Indies vs Pakistan (Fri 19:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250808000000 -0500" channel="09. 1st ODI | West Indies vs Pakistan (Fri 19:00 UK)" stop="20250808235959 -0500">
+    <title>01:00 PM - 09. 1st ODI | West Indies vs Pakistan (Fri 19:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
