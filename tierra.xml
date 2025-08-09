@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250809 -0500">
-  <channel id="New York Giants vs. Buffalo Bills">
-    <display-name lang="en">New York Giants vs. Buffalo Bills</display-name>
+  <channel id="Houston Texans vs. Minnesota Vikings">
+    <display-name lang="en">Houston Texans vs. Minnesota Vikings</display-name>
   </channel>
   <channel id="Miami Marlins vs. Atlanta Braves">
     <display-name lang="en">Miami Marlins vs. Atlanta Braves</display-name>
@@ -18,8 +18,8 @@
   <channel id="Pro Motocross: Ironman">
     <display-name lang="en">Pro Motocross: Ironman</display-name>
   </channel>
-  <channel id="Houston Texans vs. Minnesota Vikings">
-    <display-name lang="en">Houston Texans vs. Minnesota Vikings</display-name>
+  <channel id="UFC Fight Pass: Dolidze vs. Hernandez">
+    <display-name lang="en">UFC Fight Pass: Dolidze vs. Hernandez</display-name>
   </channel>
   <channel id="Dallas Cowboys vs. Los Angeles Rams">
     <display-name lang="en">Dallas Cowboys vs. Los Angeles Rams</display-name>
@@ -90,9 +90,6 @@
   <channel id="Sparks at Valkyries">
     <display-name lang="en">Sparks at Valkyries</display-name>
   </channel>
-  <channel id="UFC Fight Pass: Dolidze vs. Hernandez">
-    <display-name lang="en">UFC Fight Pass: Dolidze vs. Hernandez</display-name>
-  </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
   </channel>
@@ -138,7 +135,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250809000000 -0500" channel="New York Giants vs. Buffalo Bills" stop="20250809235959 -0500">
+  <programme start="20250809000000 -0500" channel="Houston Texans vs. Minnesota Vikings" stop="20250809235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -186,8 +183,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250809000000 -0500" channel="Houston Texans vs. Minnesota Vikings" stop="20250809235959 -0500">
-    <title>03:00 PM 09/08/25 - Houston Texans vs. Minnesota Vikings</title>
+  <programme start="20250809000000 -0500" channel="UFC Fight Pass: Dolidze vs. Hernandez" stop="20250809235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -372,14 +369,6 @@
   </programme>
   <programme start="20250809000000 -0500" channel="Sparks at Valkyries" stop="20250809235959 -0500">
     <title>07:30 PM 09/08/25 - Sparks at Valkyries</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="UFC Fight Pass: Dolidze vs. Hernandez" stop="20250809235959 -0500">
-    <title>03:00 PM 09/08/25 - UFC Fight Pass: Dolidze vs. Hernandez</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
