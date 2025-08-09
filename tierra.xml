@@ -3,6 +3,15 @@
   <channel id="New York Giants vs. Buffalo Bills">
     <display-name lang="en">New York Giants vs. Buffalo Bills</display-name>
   </channel>
+  <channel id="OKTAGON 74 (English)">
+    <display-name lang="en">OKTAGON 74 (English)</display-name>
+  </channel>
+  <channel id="OKTAGON 74 (German)">
+    <display-name lang="en">OKTAGON 74 (German)</display-name>
+  </channel>
+  <channel id="Pro Motocross: Ironman">
+    <display-name lang="en">Pro Motocross: Ironman</display-name>
+  </channel>
   <channel id="Houston Texans vs. Minnesota Vikings">
     <display-name lang="en">Houston Texans vs. Minnesota Vikings</display-name>
   </channel>
@@ -35,15 +44,6 @@
   </channel>
   <channel id="Sparks at Valkyries">
     <display-name lang="en">Sparks at Valkyries</display-name>
-  </channel>
-  <channel id="OKTAGON 74 (English)">
-    <display-name lang="en">OKTAGON 74 (English)</display-name>
-  </channel>
-  <channel id="OKTAGON 74 (German)">
-    <display-name lang="en">OKTAGON 74 (German)</display-name>
-  </channel>
-  <channel id="Pro Motocross: Ironman">
-    <display-name lang="en">Pro Motocross: Ironman</display-name>
   </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
@@ -91,7 +91,31 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250809000000 -0500" channel="New York Giants vs. Buffalo Bills" stop="20250809235959 -0500">
-    <title>12:00 PM 09/08/25 - New York Giants vs. Buffalo Bills</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="OKTAGON 74 (English)" stop="20250809235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="OKTAGON 74 (German)" stop="20250809235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="Pro Motocross: Ironman" stop="20250809235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -180,30 +204,6 @@
   </programme>
   <programme start="20250809000000 -0500" channel="Sparks at Valkyries" stop="20250809235959 -0500">
     <title>07:30 PM 09/08/25 - Sparks at Valkyries</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="OKTAGON 74 (English)" stop="20250809235959 -0500">
-    <title>11:30 AM 09/08/25 - OKTAGON 74 (English)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="OKTAGON 74 (German)" stop="20250809235959 -0500">
-    <title>11:30 AM 09/08/25 - OKTAGON 74 (German)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="Pro Motocross: Ironman" stop="20250809235959 -0500">
-    <title>12:00 PM 09/08/25 - Pro Motocross: Ironman</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
