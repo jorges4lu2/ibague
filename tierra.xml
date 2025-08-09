@@ -1,16 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250808 -0500">
-  <channel id="Detroit Lions vs. Atlanta Falcons">
-    <display-name lang="en">Detroit Lions vs. Atlanta Falcons</display-name>
-  </channel>
-  <channel id="Cleveland Browns vs. Carolina Panthers">
-    <display-name lang="en">Cleveland Browns vs. Carolina Panthers</display-name>
-  </channel>
   <channel id="Washington Commanders vs. New England Patriots">
     <display-name lang="en">Washington Commanders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Pittsburgh Pirates">
-    <display-name lang="en">Cincinnati Reds vs. Pittsburgh Pirates</display-name>
   </channel>
   <channel id="Houston Astros vs. New York Yankees">
     <display-name lang="en">Houston Astros vs. New York Yankees</display-name>
@@ -39,11 +30,23 @@
   <channel id="Chicago Cubs vs. St. Louis Cardinals">
     <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Boston Red Sox vs. San Diego Padres">
+    <display-name lang="en">Boston Red Sox vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Colorado Rockies vs. Arizona Diamondbacks">
+    <display-name lang="en">Colorado Rockies vs. Arizona Diamondbacks</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. Seattle Mariners">
+    <display-name lang="en">Tampa Bay Rays vs. Seattle Mariners</display-name>
+  </channel>
   <channel id="Liberty at Wings">
     <display-name lang="en">Liberty at Wings</display-name>
   </channel>
   <channel id="Mystics at Lynx">
     <display-name lang="en">Mystics at Lynx</display-name>
+  </channel>
+  <channel id="Storm at Aces">
+    <display-name lang="en">Storm at Aces</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -81,23 +84,11 @@
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
   </channel>
-  <channel id="Boston Red Sox vs. San Diego Padres">
-    <display-name lang="en">Boston Red Sox vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Arizona Diamondbacks">
-    <display-name lang="en">Colorado Rockies vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Seattle Mariners">
-    <display-name lang="en">Tampa Bay Rays vs. Seattle Mariners</display-name>
-  </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
   </channel>
   <channel id="Washington Nationals vs. San Francisco Giants">
     <display-name lang="en">Washington Nationals vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Storm at Aces">
-    <display-name lang="en">Storm at Aces</display-name>
   </channel>
   <channel id="PDC: KenoGO Australian Darts Masters - Day Two">
     <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day Two</display-name>
@@ -147,31 +138,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250808000000 -0500" channel="Detroit Lions vs. Atlanta Falcons" stop="20250808235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250808000000 -0500" channel="Cleveland Browns vs. Carolina Panthers" stop="20250808235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250808000000 -0500" channel="Washington Commanders vs. New England Patriots" stop="20250808235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250808000000 -0500" channel="Cincinnati Reds vs. Pittsburgh Pirates" stop="20250808235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -251,6 +218,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250808000000 -0500" channel="Boston Red Sox vs. San Diego Padres" stop="20250808235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250808000000 -0500" channel="Colorado Rockies vs. Arizona Diamondbacks" stop="20250808235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250808000000 -0500" channel="Tampa Bay Rays vs. Seattle Mariners" stop="20250808235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250808000000 -0500" channel="Liberty at Wings" stop="20250808235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -260,6 +251,14 @@
     </audio>
   </programme>
   <programme start="20250808000000 -0500" channel="Mystics at Lynx" stop="20250808235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250808000000 -0500" channel="Storm at Aces" stop="20250808235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -363,30 +362,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250808000000 -0500" channel="Boston Red Sox vs. San Diego Padres" stop="20250808235959 -0500">
-    <title>08:40 PM 08/08/25 - Boston Red Sox vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250808000000 -0500" channel="Colorado Rockies vs. Arizona Diamondbacks" stop="20250808235959 -0500">
-    <title>08:40 PM 08/08/25 - Colorado Rockies vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250808000000 -0500" channel="Tampa Bay Rays vs. Seattle Mariners" stop="20250808235959 -0500">
-    <title>08:40 PM 08/08/25 - Tampa Bay Rays vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250808000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20250808235959 -0500">
     <title>09:10 PM 08/08/25 - Toronto Blue Jays vs. Los Angeles Dodgers</title>
     <date>2025</date>
@@ -397,14 +372,6 @@
   </programme>
   <programme start="20250808000000 -0500" channel="Washington Nationals vs. San Francisco Giants" stop="20250808235959 -0500">
     <title>09:15 PM 08/08/25 - Washington Nationals vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250808000000 -0500" channel="Storm at Aces" stop="20250808235959 -0500">
-    <title>09:00 PM 08/08/25 - Storm at Aces</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
