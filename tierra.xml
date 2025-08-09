@@ -3,6 +3,9 @@
   <channel id="PDC: KenoGO Australian Darts Masters - Day Two">
     <display-name lang="en">PDC: KenoGO Australian Darts Masters - Day Two</display-name>
   </channel>
+  <channel id="Manchester United vs Fiorentina">
+    <display-name lang="en">Manchester United vs Fiorentina</display-name>
+  </channel>
   <channel id="New York Giants vs. Buffalo Bills">
     <display-name lang="en">New York Giants vs. Buffalo Bills</display-name>
   </channel>
@@ -38,9 +41,6 @@
   </channel>
   <channel id="Pro Motocross: Ironman">
     <display-name lang="en">Pro Motocross: Ironman</display-name>
-  </channel>
-  <channel id="Manchester United vs Fiorentina">
-    <display-name lang="en">Manchester United vs Fiorentina</display-name>
   </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
@@ -88,6 +88,14 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250809000000 -0500" channel="PDC: KenoGO Australian Darts Masters - Day Two" stop="20250809235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="Manchester United vs Fiorentina" stop="20250809235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -185,14 +193,6 @@
   </programme>
   <programme start="20250809000000 -0500" channel="Pro Motocross: Ironman" stop="20250809235959 -0500">
     <title>12:00 PM 09/08/25 - Pro Motocross: Ironman</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="Manchester United vs Fiorentina" stop="20250809235959 -0500">
-    <title>06:45 AM 09/08/25 - Manchester United vs Fiorentina</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
