@@ -1047,8 +1047,8 @@
   <channel id="WNBA 1 Connecticut Sun @ Indiana Fever start:2025-05-31 00:30:00 stop:2025-05-31 02:30:00">
     <display-name lang="en">WNBA 1 Connecticut Sun @ Indiana Fever start:2025-05-31 00:30:00 stop:2025-05-31 02:30:00</display-name>
   </channel>
-  <channel id="WNBA 2 Seattle Storm @ Las Vegas Aces start:2025-08-09 03:00:00 stop:2025-08-09 05:00:00">
-    <display-name lang="en">WNBA 2 Seattle Storm @ Las Vegas Aces start:2025-08-09 03:00:00 stop:2025-08-09 05:00:00</display-name>
+  <channel id="WNBA 2 Los Angeles Sparks @ Golden State Valkyries start:2025-08-10 01:30:00 stop:2025-08-10 03:30:00">
+    <display-name lang="en">WNBA 2 Los Angeles Sparks @ Golden State Valkyries start:2025-08-10 01:30:00 stop:2025-08-10 03:30:00</display-name>
   </channel>
   <channel id="WNBA 3 New York Liberty @ Dallas Wings start:2025-08-09 00:30:00 stop:2025-08-09 02:30:00">
     <display-name lang="en">WNBA 3 New York Liberty @ Dallas Wings start:2025-08-09 00:30:00 stop:2025-08-09 02:30:00</display-name>
@@ -1401,8 +1401,8 @@
   <channel id="04. Eredivisie | PSV vs Sparta Rotterdam (Sat 20:00 UK)">
     <display-name lang="en">04. Eredivisie | PSV vs Sparta Rotterdam (Sat 20:00 UK)</display-name>
   </channel>
-  <channel id="05. CHAN | Central African Republic vs Mauritania (Sat 15:00 UK)">
-    <display-name lang="en">05. CHAN | Central African Republic vs Mauritania (Sat 15:00 UK)</display-name>
+  <channel id="05. FA Community Shield | Liverpool vs Crystal Palace (Sun 15:00 UK)">
+    <display-name lang="en">05. FA Community Shield | Liverpool vs Crystal Palace (Sun 15:00 UK)</display-name>
   </channel>
   <channel id="06. CHAN | Central African Republic vs Mauritania (Sat 15:00 UK)">
     <display-name lang="en">06. CHAN | Central African Republic vs Mauritania (Sat 15:00 UK)</display-name>
@@ -1499,6 +1499,21 @@
   </channel>
   <channel id="UFC Fight Night: Roman Dolidze vs Anthony Hernandez HD (Sun 00:00 UK)">
     <display-name lang="en">UFC Fight Night: Roman Dolidze vs Anthony Hernandez HD (Sun 00:00 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 06 - 6:30PM Bxng Next Generation Atlantic City">
+    <display-name lang="en">LIVE EVENT 06 - 6:30PM Bxng Next Generation Atlantic City</display-name>
+  </channel>
+  <channel id="LIVE EVENT 10 - 5:15PM Mr Supermodified Oswego">
+    <display-name lang="en">LIVE EVENT 10 - 5:15PM Mr Supermodified Oswego</display-name>
+  </channel>
+  <channel id="LIVE EVENT 12 - 6:30PM World of Outlaws Knoxville">
+    <display-name lang="en">LIVE EVENT 12 - 6:30PM World of Outlaws Knoxville</display-name>
+  </channel>
+  <channel id="LIVE EVENT 13 - 6:45PM Lucas Oil North/South 100 Florence">
+    <display-name lang="en">LIVE EVENT 13 - 6:45PM Lucas Oil North/South 100 Florence</display-name>
+  </channel>
+  <channel id="LIVE EVENT 14 - 6:55PM IMCA Weekly Racing 141 Speedway">
+    <display-name lang="en">LIVE EVENT 14 - 6:55PM IMCA Weekly Racing 141 Speedway</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -4814,8 +4829,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250809000000 -0500" channel="WNBA 2 Seattle Storm @ Las Vegas Aces start:2025-08-09 03:00:00 stop:2025-08-09 05:00:00" stop="20250809235959 -0500">
-    <title>09:00 PM - WNBA 2 Seattle Storm @ Las Vegas Aces start:2025-08-09 03:00:00 stop:2025-08-09 05:00:00</title>
+  <programme start="20250809000000 -0500" channel="WNBA 2 Los Angeles Sparks @ Golden State Valkyries start:2025-08-10 01:30:00 stop:2025-08-10 03:30:00" stop="20250809235959 -0500">
+    <title>07:30 PM - WNBA 2 Los Angeles Sparks @ Golden State Valkyries start:2025-08-10 01:30:00 stop:2025-08-10 03:30:00</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -5758,8 +5773,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250809000000 -0500" channel="05. CHAN | Central African Republic vs Mauritania (Sat 15:00 UK)" stop="20250809235959 -0500">
-    <title>09:00 AM - 05. CHAN | Central African Republic vs Mauritania (Sat 15:00 UK)</title>
+  <programme start="20250809000000 -0500" channel="05. FA Community Shield | Liverpool vs Crystal Palace (Sun 15:00 UK)" stop="20250809235959 -0500">
+    <title>09:00 AM - 05. FA Community Shield | Liverpool vs Crystal Palace (Sun 15:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -6016,6 +6031,46 @@
   </programme>
   <programme start="20250809000000 -0500" channel="UFC Fight Night: Roman Dolidze vs Anthony Hernandez HD (Sun 00:00 UK)" stop="20250809235959 -0500">
     <title>06:00 PM - UFC Fight Night: Roman Dolidze vs Anthony Hernandez HD (Sun 00:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="LIVE EVENT 06 - 6:30PM Bxng Next Generation Atlantic City" stop="20250809235959 -0500">
+    <title>12:30 PM - LIVE EVENT 06 - 6:30PM Bxng Next Generation Atlantic City</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="LIVE EVENT 10 - 5:15PM Mr Supermodified Oswego" stop="20250809235959 -0500">
+    <title>11:15 AM - LIVE EVENT 10 - 5:15PM Mr Supermodified Oswego</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="LIVE EVENT 12 - 6:30PM World of Outlaws Knoxville" stop="20250809235959 -0500">
+    <title>12:30 PM - LIVE EVENT 12 - 6:30PM World of Outlaws Knoxville</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="LIVE EVENT 13 - 6:45PM Lucas Oil North/South 100 Florence" stop="20250809235959 -0500">
+    <title>12:45 PM - LIVE EVENT 13 - 6:45PM Lucas Oil North/South 100 Florence</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="LIVE EVENT 14 - 6:55PM IMCA Weekly Racing 141 Speedway" stop="20250809235959 -0500">
+    <title>12:55 PM - LIVE EVENT 14 - 6:55PM IMCA Weekly Racing 141 Speedway</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
