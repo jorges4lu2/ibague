@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250809 -0500">
-  <channel id="Pro Motocross: Ironman (Qualifying)">
-    <display-name lang="en">Pro Motocross: Ironman (Qualifying)</display-name>
-  </channel>
   <channel id="Manchester United vs Fiorentina">
     <display-name lang="en">Manchester United vs Fiorentina</display-name>
   </channel>
@@ -35,6 +32,12 @@
   </channel>
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
+  </channel>
+  <channel id="Sky at Fever">
+    <display-name lang="en">Sky at Fever</display-name>
+  </channel>
+  <channel id="Sparks at Valkyries">
+    <display-name lang="en">Sparks at Valkyries</display-name>
   </channel>
   <channel id="Pro Motocross: Ironman">
     <display-name lang="en">Pro Motocross: Ironman</display-name>
@@ -84,14 +87,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250809000000 -0500" channel="Pro Motocross: Ironman (Qualifying)" stop="20250809235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250809000000 -0500" channel="Manchester United vs Fiorentina" stop="20250809235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -174,6 +169,22 @@
   </programme>
   <programme start="20250809000000 -0500" channel="New Orleans Saints vs. Los Angeles Chargers" stop="20250809235959 -0500">
     <title>03:00 PM 10/08/25 - New Orleans Saints vs. Los Angeles Chargers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="Sky at Fever" stop="20250809235959 -0500">
+    <title>07:00 PM 09/08/25 - Sky at Fever</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="Sparks at Valkyries" stop="20250809235959 -0500">
+    <title>07:30 PM 09/08/25 - Sparks at Valkyries</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
