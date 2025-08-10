@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250810 -0500">
+  <channel id="Crystal Palace vs Liverpool">
+    <display-name lang="en">Crystal Palace vs Liverpool</display-name>
+  </channel>
   <channel id="Miami Dolphins vs. Chicago Bears">
     <display-name lang="en">Miami Dolphins vs. Chicago Bears</display-name>
   </channel>
@@ -48,9 +51,6 @@
   <channel id="Chicago Cubs vs. St. Louis Cardinals">
     <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
   </channel>
-  <channel id="Crystal Palace vs Liverpool">
-    <display-name lang="en">Crystal Palace vs Liverpool</display-name>
-  </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
   </channel>
@@ -93,6 +93,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250810000000 -0500" channel="Crystal Palace vs Liverpool" stop="20250810235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250810000000 -0500" channel="Miami Dolphins vs. Chicago Bears" stop="20250810235959 -0500">
     <title>12:00 PM 10/08/25 - Miami Dolphins vs. Chicago Bears</title>
     <date>2025</date>
@@ -215,14 +223,6 @@
   </programme>
   <programme start="20250810000000 -0500" channel="Chicago Cubs vs. St. Louis Cardinals" stop="20250810235959 -0500">
     <title>06:00 PM 10/08/25 - Chicago Cubs vs. St. Louis Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250810000000 -0500" channel="Crystal Palace vs Liverpool" stop="20250810235959 -0500">
-    <title>09:00 AM 10/08/25 - Crystal Palace vs Liverpool</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
