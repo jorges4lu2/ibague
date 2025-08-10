@@ -15,6 +15,9 @@
   <channel id="Kansas City Chiefs vs. Arizona Cardinals">
     <display-name lang="en">Kansas City Chiefs vs. Arizona Cardinals</display-name>
   </channel>
+  <channel id="Denver Broncos vs. San Francisco 49ers">
+    <display-name lang="en">Denver Broncos vs. San Francisco 49ers</display-name>
+  </channel>
   <channel id="Los Angeles Angels vs. Detroit Tigers">
     <display-name lang="en">Los Angeles Angels vs. Detroit Tigers</display-name>
   </channel>
@@ -42,14 +45,17 @@
   <channel id="Philadelphia Phillies vs. Texas Rangers">
     <display-name lang="en">Philadelphia Phillies vs. Texas Rangers</display-name>
   </channel>
+  <channel id="Colorado Rockies vs. Arizona Diamondbacks">
+    <display-name lang="en">Colorado Rockies vs. Arizona Diamondbacks</display-name>
+  </channel>
   <channel id="Sky at Fever">
     <display-name lang="en">Sky at Fever</display-name>
   </channel>
+  <channel id="Sparks at Valkyries">
+    <display-name lang="en">Sparks at Valkyries</display-name>
+  </channel>
   <channel id="UFC Fight Pass: Dolidze vs. Hernandez">
     <display-name lang="en">UFC Fight Pass: Dolidze vs. Hernandez</display-name>
-  </channel>
-  <channel id="Denver Broncos vs. San Francisco 49ers">
-    <display-name lang="en">Denver Broncos vs. San Francisco 49ers</display-name>
   </channel>
   <channel id="Miami Dolphins vs. Chicago Bears">
     <display-name lang="en">Miami Dolphins vs. Chicago Bears</display-name>
@@ -57,17 +63,11 @@
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
   </channel>
-  <channel id="Colorado Rockies vs. Arizona Diamondbacks">
-    <display-name lang="en">Colorado Rockies vs. Arizona Diamondbacks</display-name>
-  </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
   </channel>
   <channel id="Tampa Bay Rays vs. Seattle Mariners">
     <display-name lang="en">Tampa Bay Rays vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Sparks at Valkyries">
-    <display-name lang="en">Sparks at Valkyries</display-name>
   </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
@@ -151,6 +151,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250809000000 -0500" channel="Denver Broncos vs. San Francisco 49ers" stop="20250809235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250809000000 -0500" channel="Los Angeles Angels vs. Detroit Tigers" stop="20250809235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -223,7 +231,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250809000000 -0500" channel="Colorado Rockies vs. Arizona Diamondbacks" stop="20250809235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250809000000 -0500" channel="Sky at Fever" stop="20250809235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="Sparks at Valkyries" stop="20250809235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -233,14 +257,6 @@
   </programme>
   <programme start="20250809000000 -0500" channel="UFC Fight Pass: Dolidze vs. Hernandez" stop="20250809235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="Denver Broncos vs. San Francisco 49ers" stop="20250809235959 -0500">
-    <title>07:30 PM 09/08/25 - Denver Broncos vs. San Francisco 49ers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -263,14 +279,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250809000000 -0500" channel="Colorado Rockies vs. Arizona Diamondbacks" stop="20250809235959 -0500">
-    <title>07:10 PM 09/08/25 - Colorado Rockies vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250809000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20250809235959 -0500">
     <title>08:10 PM 09/08/25 - Toronto Blue Jays vs. Los Angeles Dodgers</title>
     <date>2025</date>
@@ -281,14 +289,6 @@
   </programme>
   <programme start="20250809000000 -0500" channel="Tampa Bay Rays vs. Seattle Mariners" stop="20250809235959 -0500">
     <title>08:40 PM 09/08/25 - Tampa Bay Rays vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="Sparks at Valkyries" stop="20250809235959 -0500">
-    <title>07:30 PM 09/08/25 - Sparks at Valkyries</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
