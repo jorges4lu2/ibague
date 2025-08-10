@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250809 -0500">
-  <channel id="Dallas Cowboys vs. Los Angeles Rams">
-    <display-name lang="en">Dallas Cowboys vs. Los Angeles Rams</display-name>
-  </channel>
-  <channel id="Pittsburgh Steelers vs. Jacksonville Jaguars">
-    <display-name lang="en">Pittsburgh Steelers vs. Jacksonville Jaguars</display-name>
-  </channel>
   <channel id="Tennessee Titans vs. Tampa Bay Buccaneers">
     <display-name lang="en">Tennessee Titans vs. Tampa Bay Buccaneers</display-name>
   </channel>
@@ -17,12 +11,6 @@
   </channel>
   <channel id="Denver Broncos vs. San Francisco 49ers">
     <display-name lang="en">Denver Broncos vs. San Francisco 49ers</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Detroit Tigers">
-    <display-name lang="en">Los Angeles Angels vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Pittsburgh Pirates">
-    <display-name lang="en">Cincinnati Reds vs. Pittsburgh Pirates</display-name>
   </channel>
   <channel id="Athletics vs. Baltimore Orioles">
     <display-name lang="en">Athletics vs. Baltimore Orioles</display-name>
@@ -48,6 +36,12 @@
   <channel id="Colorado Rockies vs. Arizona Diamondbacks">
     <display-name lang="en">Colorado Rockies vs. Arizona Diamondbacks</display-name>
   </channel>
+  <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
+    <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. Seattle Mariners">
+    <display-name lang="en">Tampa Bay Rays vs. Seattle Mariners</display-name>
+  </channel>
   <channel id="Sky at Fever">
     <display-name lang="en">Sky at Fever</display-name>
   </channel>
@@ -62,12 +56,6 @@
   </channel>
   <channel id="New Orleans Saints vs. Los Angeles Chargers">
     <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
-    <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Seattle Mariners">
-    <display-name lang="en">Tampa Bay Rays vs. Seattle Mariners</display-name>
   </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
@@ -111,22 +99,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250809000000 -0500" channel="Dallas Cowboys vs. Los Angeles Rams" stop="20250809235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="Pittsburgh Steelers vs. Jacksonville Jaguars" stop="20250809235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250809000000 -0500" channel="Tennessee Titans vs. Tampa Bay Buccaneers" stop="20250809235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -152,22 +124,6 @@
     </audio>
   </programme>
   <programme start="20250809000000 -0500" channel="Denver Broncos vs. San Francisco 49ers" stop="20250809235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="Los Angeles Angels vs. Detroit Tigers" stop="20250809235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="Cincinnati Reds vs. Pittsburgh Pirates" stop="20250809235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -239,6 +195,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250809000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20250809235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250809000000 -0500" channel="Tampa Bay Rays vs. Seattle Mariners" stop="20250809235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250809000000 -0500" channel="Sky at Fever" stop="20250809235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -273,22 +245,6 @@
   </programme>
   <programme start="20250809000000 -0500" channel="New Orleans Saints vs. Los Angeles Chargers" stop="20250809235959 -0500">
     <title>03:00 PM 10/08/25 - New Orleans Saints vs. Los Angeles Chargers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20250809235959 -0500">
-    <title>08:10 PM 09/08/25 - Toronto Blue Jays vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250809000000 -0500" channel="Tampa Bay Rays vs. Seattle Mariners" stop="20250809235959 -0500">
-    <title>08:40 PM 09/08/25 - Tampa Bay Rays vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
