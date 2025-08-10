@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250810 -0500">
-  <channel id="Miami Dolphins vs. Chicago Bears">
-    <display-name lang="en">Miami Dolphins vs. Chicago Bears</display-name>
+  <channel id="New Orleans Saints vs. Los Angeles Chargers">
+    <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Minnesota Twins">
     <display-name lang="en">Kansas City Royals vs. Minnesota Twins</display-name>
@@ -27,11 +27,8 @@
   <channel id="New York Mets vs. Milwaukee Brewers">
     <display-name lang="en">New York Mets vs. Milwaukee Brewers</display-name>
   </channel>
-  <channel id="Lynx at Liberty">
-    <display-name lang="en">Lynx at Liberty</display-name>
-  </channel>
-  <channel id="New Orleans Saints vs. Los Angeles Chargers">
-    <display-name lang="en">New Orleans Saints vs. Los Angeles Chargers</display-name>
+  <channel id="Mystics at Wings">
+    <display-name lang="en">Mystics at Wings</display-name>
   </channel>
   <channel id="Washington Nationals vs. San Francisco Giants">
     <display-name lang="en">Washington Nationals vs. San Francisco Giants</display-name>
@@ -50,9 +47,6 @@
   </channel>
   <channel id="Chicago Cubs vs. St. Louis Cardinals">
     <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
-  </channel>
-  <channel id="Mystics at Wings">
-    <display-name lang="en">Mystics at Wings</display-name>
   </channel>
   <channel id="Dream at Mercury">
     <display-name lang="en">Dream at Mercury</display-name>
@@ -105,7 +99,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250810000000 -0500" channel="Miami Dolphins vs. Chicago Bears" stop="20250810235959 -0500">
+  <programme start="20250810000000 -0500" channel="New Orleans Saints vs. Los Angeles Chargers" stop="20250810235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -177,16 +171,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250810000000 -0500" channel="Lynx at Liberty" stop="20250810235959 -0500">
+  <programme start="20250810000000 -0500" channel="Mystics at Wings" stop="20250810235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250810000000 -0500" channel="New Orleans Saints vs. Los Angeles Chargers" stop="20250810235959 -0500">
-    <title>03:00 PM 10/08/25 - New Orleans Saints vs. Los Angeles Chargers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -235,14 +221,6 @@
   </programme>
   <programme start="20250810000000 -0500" channel="Chicago Cubs vs. St. Louis Cardinals" stop="20250810235959 -0500">
     <title>06:00 PM 10/08/25 - Chicago Cubs vs. St. Louis Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250810000000 -0500" channel="Mystics at Wings" stop="20250810235959 -0500">
-    <title>03:00 PM 10/08/25 - Mystics at Wings</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
