@@ -3,6 +3,9 @@
   <channel id="Crystal Palace vs Liverpool">
     <display-name lang="en">Crystal Palace vs Liverpool</display-name>
   </channel>
+  <channel id="Chelsea vs AC Milan">
+    <display-name lang="en">Chelsea vs AC Milan</display-name>
+  </channel>
   <channel id="Miami Dolphins vs. Chicago Bears">
     <display-name lang="en">Miami Dolphins vs. Chicago Bears</display-name>
   </channel>
@@ -94,6 +97,14 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250810000000 -0500" channel="Crystal Palace vs Liverpool" stop="20250810235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250810000000 -0500" channel="Chelsea vs AC Milan" stop="20250810235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
