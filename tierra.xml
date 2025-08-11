@@ -3,9 +3,6 @@
   <channel id="Chicago Cubs vs. St. Louis Cardinals">
     <display-name lang="en">Chicago Cubs vs. St. Louis Cardinals</display-name>
   </channel>
-  <channel id="Dream at Mercury">
-    <display-name lang="en">Dream at Mercury</display-name>
-  </channel>
   <channel id="Storm at Sparks">
     <display-name lang="en">Storm at Sparks</display-name>
   </channel>
@@ -62,14 +59,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250810000000 -0500" channel="Dream at Mercury" stop="20250810235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250810000000 -0500" channel="Storm at Sparks" stop="20250810235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -79,7 +68,7 @@
     </audio>
   </programme>
   <programme start="20250810000000 -0500" channel="Sun at Aces" stop="20250810235959 -0500">
-    <title>08:00 PM 10/08/25 - Sun at Aces</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
