@@ -9,6 +9,9 @@
   <channel id="Philadelphia Phillies vs. Cincinnati Reds">
     <display-name lang="en">Philadelphia Phillies vs. Cincinnati Reds</display-name>
   </channel>
+  <channel id="Dana White's Contender Series">
+    <display-name lang="en">Dana White's Contender Series</display-name>
+  </channel>
   <channel id="Minnesota Twins vs. New York Yankees">
     <display-name lang="en">Minnesota Twins vs. New York Yankees</display-name>
   </channel>
@@ -51,8 +54,11 @@
   <channel id="Liberty at Sparks">
     <display-name lang="en">Liberty at Sparks</display-name>
   </channel>
-  <channel id="Dana White's Contender Series">
-    <display-name lang="en">Dana White's Contender Series</display-name>
+  <channel id="PSG vs Tottenham Hotspur (TNT Sports Commentary)">
+    <display-name lang="en">PSG vs Tottenham Hotspur (TNT Sports Commentary)</display-name>
+  </channel>
+  <channel id="PSG vs Tottenham Hotspur (CBS Sports Commentary)">
+    <display-name lang="en">PSG vs Tottenham Hotspur (CBS Sports Commentary)</display-name>
   </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
@@ -112,7 +118,7 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250812000000 -0500" channel="Seattle Mariners vs. Baltimore Orioles" stop="20250812235959 -0500">
-    <title>05:35 PM 12/08/25 - Seattle Mariners vs. Baltimore Orioles</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -120,7 +126,7 @@
     </audio>
   </programme>
   <programme start="20250812000000 -0500" channel="Miami Marlins vs. Cleveland Guardians" stop="20250812235959 -0500">
-    <title>05:40 PM 12/08/25 - Miami Marlins vs. Cleveland Guardians</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -128,7 +134,15 @@
     </audio>
   </programme>
   <programme start="20250812000000 -0500" channel="Philadelphia Phillies vs. Cincinnati Reds" stop="20250812235959 -0500">
-    <title>05:40 PM 12/08/25 - Philadelphia Phillies vs. Cincinnati Reds</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250812000000 -0500" channel="Dana White's Contender Series" stop="20250812235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -247,8 +261,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250812000000 -0500" channel="Dana White's Contender Series" stop="20250812235959 -0500">
-    <title>06:00 PM 12/08/25 - Dana White's Contender Series</title>
+  <programme start="20250812000000 -0500" channel="PSG vs Tottenham Hotspur (TNT Sports Commentary)" stop="20250812235959 -0500">
+    <title>02:00 PM 13/08/25 - PSG vs Tottenham Hotspur (TNT Sports Commentary)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250812000000 -0500" channel="PSG vs Tottenham Hotspur (CBS Sports Commentary)" stop="20250812235959 -0500">
+    <title>02:00 PM 13/08/25 - PSG vs Tottenham Hotspur (CBS Sports Commentary)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
