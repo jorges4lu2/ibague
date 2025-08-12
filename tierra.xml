@@ -18,14 +18,14 @@
   <channel id="Colorado Rockies vs. St. Louis Cardinals">
     <display-name lang="en">Colorado Rockies vs. St. Louis Cardinals</display-name>
   </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
   <channel id="Arizona Diamondbacks vs. Texas Rangers">
     <display-name lang="en">Arizona Diamondbacks vs. Texas Rangers</display-name>
   </channel>
   <channel id="Boston Red Sox vs. Houston Astros">
     <display-name lang="en">Boston Red Sox vs. Houston Astros</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="Los Angeles Dodgers vs. Los Angeles Angels">
     <display-name lang="en">Los Angeles Dodgers vs. Los Angeles Angels</display-name>
@@ -141,7 +141,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250811000000 -0500" channel="WWE: Monday Night RAW" stop="20250811235959 -0500">
+  <programme start="20250811000000 -0500" channel="Arizona Diamondbacks vs. Texas Rangers" stop="20250811235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -149,16 +149,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250811000000 -0500" channel="Arizona Diamondbacks vs. Texas Rangers" stop="20250811235959 -0500">
-    <title>07:05 PM 11/08/25 - Arizona Diamondbacks vs. Texas Rangers</title>
+  <programme start="20250811000000 -0500" channel="Boston Red Sox vs. Houston Astros" stop="20250811235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250811000000 -0500" channel="Boston Red Sox vs. Houston Astros" stop="20250811235959 -0500">
-    <title>07:10 PM 11/08/25 - Boston Red Sox vs. Houston Astros</title>
+  <programme start="20250811000000 -0500" channel="WWE: Monday Night RAW" stop="20250811235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
