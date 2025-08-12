@@ -18,6 +18,9 @@
   <channel id="Colorado Rockies vs. St. Louis Cardinals">
     <display-name lang="en">Colorado Rockies vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
   <channel id="Arizona Diamondbacks vs. Texas Rangers">
     <display-name lang="en">Arizona Diamondbacks vs. Texas Rangers</display-name>
   </channel>
@@ -56,9 +59,6 @@
   </channel>
   <channel id="Manchester United vs. Arsenal">
     <display-name lang="en">Manchester United vs. Arsenal</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -102,7 +102,7 @@
     </audio>
   </programme>
   <programme start="20250811000000 -0500" channel="Minnesota Twins vs. New York Yankees" stop="20250811235959 -0500">
-    <title>06:05 PM 11/08/25 - Minnesota Twins vs. New York Yankees</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -110,7 +110,7 @@
     </audio>
   </programme>
   <programme start="20250811000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250811235959 -0500">
-    <title>06:40 PM 11/08/25 - Detroit Tigers vs. Chicago White Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -118,7 +118,7 @@
     </audio>
   </programme>
   <programme start="20250811000000 -0500" channel="Pittsburgh Pirates vs. Milwaukee Brewers" stop="20250811235959 -0500">
-    <title>06:40 PM 11/08/25 - Pittsburgh Pirates vs. Milwaukee Brewers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -126,7 +126,7 @@
     </audio>
   </programme>
   <programme start="20250811000000 -0500" channel="Washington Nationals vs. Kansas City Royals" stop="20250811235959 -0500">
-    <title>06:40 PM 11/08/25 - Washington Nationals vs. Kansas City Royals</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -134,7 +134,15 @@
     </audio>
   </programme>
   <programme start="20250811000000 -0500" channel="Colorado Rockies vs. St. Louis Cardinals" stop="20250811235959 -0500">
-    <title>06:45 PM 11/08/25 - Colorado Rockies vs. St. Louis Cardinals</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250811000000 -0500" channel="WWE: Monday Night RAW" stop="20250811235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -239,14 +247,6 @@
   </programme>
   <programme start="20250811000000 -0500" channel="Manchester United vs. Arsenal" stop="20250811235959 -0500">
     <title>10:30 AM 17/08/25 - Manchester United vs. Arsenal</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250811000000 -0500" channel="WWE: Monday Night RAW" stop="20250811235959 -0500">
-    <title>07:00 PM 11/08/25 - WWE: Monday Night RAW</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
