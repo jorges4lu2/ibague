@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250811 -0500">
-  <channel id="Philadelphia Phillies vs. Cincinnati Reds">
-    <display-name lang="en">Philadelphia Phillies vs. Cincinnati Reds</display-name>
-  </channel>
   <channel id="Minnesota Twins vs. New York Yankees">
     <display-name lang="en">Minnesota Twins vs. New York Yankees</display-name>
   </channel>
@@ -24,14 +21,14 @@
   <channel id="Boston Red Sox vs. Houston Astros">
     <display-name lang="en">Boston Red Sox vs. Houston Astros</display-name>
   </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
   <channel id="Los Angeles Dodgers vs. Los Angeles Angels">
     <display-name lang="en">Los Angeles Dodgers vs. Los Angeles Angels</display-name>
   </channel>
   <channel id="San Diego Padres vs. San Francisco Giants">
     <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="Tampa Bay Rays vs. Athletics">
     <display-name lang="en">Tampa Bay Rays vs. Athletics</display-name>
@@ -93,14 +90,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250811000000 -0500" channel="Philadelphia Phillies vs. Cincinnati Reds" stop="20250811235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250811000000 -0500" channel="Minnesota Twins vs. New York Yankees" stop="20250811235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -157,7 +146,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250811000000 -0500" channel="WWE: Monday Night RAW" stop="20250811235959 -0500">
+  <programme start="20250811000000 -0500" channel="Los Angeles Dodgers vs. Los Angeles Angels" stop="20250811235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -165,16 +154,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250811000000 -0500" channel="Los Angeles Dodgers vs. Los Angeles Angels" stop="20250811235959 -0500">
-    <title>08:38 PM 11/08/25 - Los Angeles Dodgers vs. Los Angeles Angels</title>
+  <programme start="20250811000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250811235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250811000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250811235959 -0500">
-    <title>08:45 PM 11/08/25 - San Diego Padres vs. San Francisco Giants</title>
+  <programme start="20250811000000 -0500" channel="WWE: Monday Night RAW" stop="20250811235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
