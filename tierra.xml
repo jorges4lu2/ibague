@@ -48,8 +48,11 @@
   <channel id="Tampa Bay Rays vs. Athletics">
     <display-name lang="en">Tampa Bay Rays vs. Athletics</display-name>
   </channel>
-  <channel id="Bristol City vs Milton Keynes Dons">
-    <display-name lang="en">Bristol City vs Milton Keynes Dons</display-name>
+  <channel id="Wings at Fever">
+    <display-name lang="en">Wings at Fever</display-name>
+  </channel>
+  <channel id="Liberty at Sparks">
+    <display-name lang="en">Liberty at Sparks</display-name>
   </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
@@ -236,8 +239,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250812000000 -0500" channel="Bristol City vs Milton Keynes Dons" stop="20250812235959 -0500">
-    <title>01:45 PM 12/08/25 - Bristol City vs Milton Keynes Dons</title>
+  <programme start="20250812000000 -0500" channel="Wings at Fever" stop="20250812235959 -0500">
+    <title>06:30 PM 12/08/25 - Wings at Fever</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250812000000 -0500" channel="Liberty at Sparks" stop="20250812235959 -0500">
+    <title>09:00 PM 12/08/25 - Liberty at Sparks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
