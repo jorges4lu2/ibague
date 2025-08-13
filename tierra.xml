@@ -30,6 +30,12 @@
   <channel id="Colorado Rockies vs. St. Louis Cardinals">
     <display-name lang="en">Colorado Rockies vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Arizona Diamondbacks vs. Texas Rangers">
+    <display-name lang="en">Arizona Diamondbacks vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Houston Astros">
+    <display-name lang="en">Boston Red Sox vs. Houston Astros</display-name>
+  </channel>
   <channel id="Wings at Fever">
     <display-name lang="en">Wings at Fever</display-name>
   </channel>
@@ -38,12 +44,6 @@
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Texas Rangers">
-    <display-name lang="en">Arizona Diamondbacks vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Houston Astros">
-    <display-name lang="en">Boston Red Sox vs. Houston Astros</display-name>
   </channel>
   <channel id="Los Angeles Dodgers vs. Los Angeles Angels">
     <display-name lang="en">Los Angeles Dodgers vs. Los Angeles Angels</display-name>
@@ -62,6 +62,9 @@
   </channel>
   <channel id="PSG vs Tottenham Hotspur (CBS Sports Commentary)">
     <display-name lang="en">PSG vs Tottenham Hotspur (CBS Sports Commentary)</display-name>
+  </channel>
+  <channel id="PSG vs Tottenham Hotspur (DAZN/International Commentary)">
+    <display-name lang="en">PSG vs Tottenham Hotspur (DAZN/International Commentary)</display-name>
   </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
@@ -197,6 +200,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250812000000 -0500" channel="Arizona Diamondbacks vs. Texas Rangers" stop="20250812235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250812000000 -0500" channel="Boston Red Sox vs. Houston Astros" stop="20250812235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250812000000 -0500" channel="Wings at Fever" stop="20250812235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -215,22 +234,6 @@
   </programme>
   <programme start="20250812000000 -0500" channel="WWE: NXT" stop="20250812235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250812000000 -0500" channel="Arizona Diamondbacks vs. Texas Rangers" stop="20250812235959 -0500">
-    <title>07:05 PM 12/08/25 - Arizona Diamondbacks vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250812000000 -0500" channel="Boston Red Sox vs. Houston Astros" stop="20250812235959 -0500">
-    <title>07:10 PM 12/08/25 - Boston Red Sox vs. Houston Astros</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -279,6 +282,14 @@
   </programme>
   <programme start="20250812000000 -0500" channel="PSG vs Tottenham Hotspur (CBS Sports Commentary)" stop="20250812235959 -0500">
     <title>02:00 PM 13/08/25 - PSG vs Tottenham Hotspur (CBS Sports Commentary)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250812000000 -0500" channel="PSG vs Tottenham Hotspur (DAZN/International Commentary)" stop="20250812235959 -0500">
+    <title>02:00 PM 13/08/25 - PSG vs Tottenham Hotspur (DAZN/International Commentary)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
