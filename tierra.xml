@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250812 -0500">
-  <channel id="Seattle Mariners vs. Baltimore Orioles">
-    <display-name lang="en">Seattle Mariners vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Cleveland Guardians">
-    <display-name lang="en">Miami Marlins vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Cincinnati Reds">
-    <display-name lang="en">Philadelphia Phillies vs. Cincinnati Reds</display-name>
-  </channel>
   <channel id="Minnesota Twins vs. New York Yankees">
     <display-name lang="en">Minnesota Twins vs. New York Yankees</display-name>
   </channel>
@@ -36,8 +27,17 @@
   <channel id="Boston Red Sox vs. Houston Astros">
     <display-name lang="en">Boston Red Sox vs. Houston Astros</display-name>
   </channel>
+  <channel id="Los Angeles Dodgers vs. Los Angeles Angels">
+    <display-name lang="en">Los Angeles Dodgers vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="San Diego Padres vs. San Francisco Giants">
+    <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
+  </channel>
   <channel id="Wings at Fever">
     <display-name lang="en">Wings at Fever</display-name>
+  </channel>
+  <channel id="Liberty at Sparks">
+    <display-name lang="en">Liberty at Sparks</display-name>
   </channel>
   <channel id="Dana White's Contender Series">
     <display-name lang="en">Dana White's Contender Series</display-name>
@@ -45,17 +45,8 @@
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
   </channel>
-  <channel id="Los Angeles Dodgers vs. Los Angeles Angels">
-    <display-name lang="en">Los Angeles Dodgers vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. San Francisco Giants">
-    <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
-  </channel>
   <channel id="Tampa Bay Rays vs. Athletics">
     <display-name lang="en">Tampa Bay Rays vs. Athletics</display-name>
-  </channel>
-  <channel id="Liberty at Sparks">
-    <display-name lang="en">Liberty at Sparks</display-name>
   </channel>
   <channel id="PSG vs Tottenham Hotspur (TNT Sports Commentary)">
     <display-name lang="en">PSG vs Tottenham Hotspur (TNT Sports Commentary)</display-name>
@@ -120,30 +111,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250812000000 -0500" channel="Seattle Mariners vs. Baltimore Orioles" stop="20250812235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250812000000 -0500" channel="Miami Marlins vs. Cleveland Guardians" stop="20250812235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250812000000 -0500" channel="Philadelphia Phillies vs. Cincinnati Reds" stop="20250812235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250812000000 -0500" channel="Minnesota Twins vs. New York Yankees" stop="20250812235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -216,7 +183,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250812000000 -0500" channel="Los Angeles Dodgers vs. Los Angeles Angels" stop="20250812235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250812000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250812235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250812000000 -0500" channel="Wings at Fever" stop="20250812235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250812000000 -0500" channel="Liberty at Sparks" stop="20250812235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -240,32 +231,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250812000000 -0500" channel="Los Angeles Dodgers vs. Los Angeles Angels" stop="20250812235959 -0500">
-    <title>08:38 PM 12/08/25 - Los Angeles Dodgers vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250812000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250812235959 -0500">
-    <title>08:45 PM 12/08/25 - San Diego Padres vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250812000000 -0500" channel="Tampa Bay Rays vs. Athletics" stop="20250812235959 -0500">
     <title>09:05 PM 12/08/25 - Tampa Bay Rays vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250812000000 -0500" channel="Liberty at Sparks" stop="20250812235959 -0500">
-    <title>09:00 PM 12/08/25 - Liberty at Sparks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
