@@ -1,25 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250813 -0500">
-  <channel id="San Diego Padres vs. San Francisco Giants">
-    <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
-  </channel>
   <channel id="Philadelphia Phillies vs. Cincinnati Reds">
     <display-name lang="en">Philadelphia Phillies vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="PSG vs Tottenham Hotspur (TNT Sports Commentary)">
-    <display-name lang="en">PSG vs Tottenham Hotspur (TNT Sports Commentary)</display-name>
-  </channel>
-  <channel id="PSG vs Tottenham Hotspur (CBS Sports Commentary)">
-    <display-name lang="en">PSG vs Tottenham Hotspur (CBS Sports Commentary)</display-name>
-  </channel>
-  <channel id="PSG vs Tottenham Hotspur (DAZN/International Commentary)">
-    <display-name lang="en">PSG vs Tottenham Hotspur (DAZN/International Commentary)</display-name>
   </channel>
   <channel id="Seattle Mariners vs. Baltimore Orioles">
     <display-name lang="en">Seattle Mariners vs. Baltimore Orioles</display-name>
   </channel>
   <channel id="Miami Marlins vs. Cleveland Guardians">
     <display-name lang="en">Miami Marlins vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="Sky at Sun">
+    <display-name lang="en">Sky at Sun</display-name>
   </channel>
   <channel id="Minnesota Twins vs. New York Yankees">
     <display-name lang="en">Minnesota Twins vs. New York Yankees</display-name>
@@ -38,9 +29,6 @@
   </channel>
   <channel id="Tampa Bay Rays vs. Athletics">
     <display-name lang="en">Tampa Bay Rays vs. Athletics</display-name>
-  </channel>
-  <channel id="Sky at Sun">
-    <display-name lang="en">Sky at Sun</display-name>
   </channel>
   <channel id="Valkyries at Mystics">
     <display-name lang="en">Valkyries at Mystics</display-name>
@@ -108,14 +96,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250813000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250813235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250813000000 -0500" channel="Philadelphia Phillies vs. Cincinnati Reds" stop="20250813235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -124,32 +104,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (TNT Sports Commentary)" stop="20250813235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (CBS Sports Commentary)" stop="20250813235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (DAZN/International Commentary)" stop="20250813235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250813000000 -0500" channel="Seattle Mariners vs. Baltimore Orioles" stop="20250813235959 -0500">
-    <title>05:35 PM 13/08/25 - Seattle Mariners vs. Baltimore Orioles</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -157,7 +113,15 @@
     </audio>
   </programme>
   <programme start="20250813000000 -0500" channel="Miami Marlins vs. Cleveland Guardians" stop="20250813235959 -0500">
-    <title>05:40 PM 13/08/25 - Miami Marlins vs. Cleveland Guardians</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250813000000 -0500" channel="Sky at Sun" stop="20250813235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -206,14 +170,6 @@
   </programme>
   <programme start="20250813000000 -0500" channel="Tampa Bay Rays vs. Athletics" stop="20250813235959 -0500">
     <title>09:05 PM 13/08/25 - Tampa Bay Rays vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250813000000 -0500" channel="Sky at Sun" stop="20250813235959 -0500">
-    <title>06:00 PM 13/08/25 - Sky at Sun</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
