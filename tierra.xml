@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250813 -0500">
-  <channel id="Tampa Bay Rays vs. Athletics">
-    <display-name lang="en">Tampa Bay Rays vs. Athletics</display-name>
-  </channel>
   <channel id="Detroit Tigers vs. Chicago White Sox">
     <display-name lang="en">Detroit Tigers vs. Chicago White Sox</display-name>
   </channel>
@@ -99,8 +96,8 @@
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
-  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204; Guy">
-    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204; Guy</display-name>
+  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203; Guy">
+    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203; Guy</display-name>
   </channel>
   <channel id="24/7 The Simpsons">
     <display-name lang="en">24/7 The Simpsons</display-name>
@@ -111,14 +108,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250813000000 -0500" channel="Tampa Bay Rays vs. Athletics" stop="20250813235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250813000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250813235959 -0500">
     <title>01:10 PM 13/08/25 - Detroit Tigers vs. Chicago White Sox</title>
     <date>2025</date>
@@ -375,7 +364,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250813000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204; Guy" stop="20250813235959 -0500">
+  <programme start="20250813000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203; Guy" stop="20250813235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
