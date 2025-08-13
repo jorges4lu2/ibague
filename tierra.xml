@@ -15,6 +15,15 @@
   <channel id="Arizona Diamondbacks vs. Texas Rangers">
     <display-name lang="en">Arizona Diamondbacks vs. Texas Rangers</display-name>
   </channel>
+  <channel id="PSG vs Tottenham Hotspur (TNT Sports Commentary)">
+    <display-name lang="en">PSG vs Tottenham Hotspur (TNT Sports Commentary)</display-name>
+  </channel>
+  <channel id="PSG vs Tottenham Hotspur (CBS Sports Commentary)">
+    <display-name lang="en">PSG vs Tottenham Hotspur (CBS Sports Commentary)</display-name>
+  </channel>
+  <channel id="PSG vs Tottenham Hotspur (DAZN/International Commentary)">
+    <display-name lang="en">PSG vs Tottenham Hotspur (DAZN/International Commentary)</display-name>
+  </channel>
   <channel id="San Diego Padres vs. San Francisco Giants">
     <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
   </channel>
@@ -56,15 +65,6 @@
   </channel>
   <channel id="Dream at Storm">
     <display-name lang="en">Dream at Storm</display-name>
-  </channel>
-  <channel id="PSG vs Tottenham Hotspur (TNT Sports Commentary)">
-    <display-name lang="en">PSG vs Tottenham Hotspur (TNT Sports Commentary)</display-name>
-  </channel>
-  <channel id="PSG vs Tottenham Hotspur (CBS Sports Commentary)">
-    <display-name lang="en">PSG vs Tottenham Hotspur (CBS Sports Commentary)</display-name>
-  </channel>
-  <channel id="PSG vs Tottenham Hotspur (DAZN/International Commentary)">
-    <display-name lang="en">PSG vs Tottenham Hotspur (DAZN/International Commentary)</display-name>
   </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
@@ -121,7 +121,7 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250813000000 -0500" channel="Detroit Tigers vs. Chicago White Sox" stop="20250813235959 -0500">
-    <title>01:10 PM 13/08/25 - Detroit Tigers vs. Chicago White Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -129,7 +129,7 @@
     </audio>
   </programme>
   <programme start="20250813000000 -0500" channel="Pittsburgh Pirates vs. Milwaukee Brewers" stop="20250813235959 -0500">
-    <title>01:10 PM 13/08/25 - Pittsburgh Pirates vs. Milwaukee Brewers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -137,7 +137,7 @@
     </audio>
   </programme>
   <programme start="20250813000000 -0500" channel="Washington Nationals vs. Kansas City Royals" stop="20250813235959 -0500">
-    <title>01:10 PM 13/08/25 - Washington Nationals vs. Kansas City Royals</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -145,7 +145,7 @@
     </audio>
   </programme>
   <programme start="20250813000000 -0500" channel="Colorado Rockies vs. St. Louis Cardinals" stop="20250813235959 -0500">
-    <title>01:15 PM 13/08/25 - Colorado Rockies vs. St. Louis Cardinals</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -153,7 +153,31 @@
     </audio>
   </programme>
   <programme start="20250813000000 -0500" channel="Arizona Diamondbacks vs. Texas Rangers" stop="20250813235959 -0500">
-    <title>01:35 PM 13/08/25 - Arizona Diamondbacks vs. Texas Rangers</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (TNT Sports Commentary)" stop="20250813235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (CBS Sports Commentary)" stop="20250813235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (DAZN/International Commentary)" stop="20250813235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -266,30 +290,6 @@
   </programme>
   <programme start="20250813000000 -0500" channel="Dream at Storm" stop="20250813235959 -0500">
     <title>09:00 PM 13/08/25 - Dream at Storm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (TNT Sports Commentary)" stop="20250813235959 -0500">
-    <title>02:00 PM 13/08/25 - PSG vs Tottenham Hotspur (TNT Sports Commentary)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (CBS Sports Commentary)" stop="20250813235959 -0500">
-    <title>02:00 PM 13/08/25 - PSG vs Tottenham Hotspur (CBS Sports Commentary)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (DAZN/International Commentary)" stop="20250813235959 -0500">
-    <title>02:00 PM 13/08/25 - PSG vs Tottenham Hotspur (DAZN/International Commentary)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
