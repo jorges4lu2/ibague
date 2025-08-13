@@ -15,6 +15,9 @@
   <channel id="Arizona Diamondbacks vs. Texas Rangers">
     <display-name lang="en">Arizona Diamondbacks vs. Texas Rangers</display-name>
   </channel>
+  <channel id="San Diego Padres vs. San Francisco Giants">
+    <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
+  </channel>
   <channel id="PSG vs Tottenham Hotspur (TNT Sports Commentary)">
     <display-name lang="en">PSG vs Tottenham Hotspur (TNT Sports Commentary)</display-name>
   </channel>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="PSG vs Tottenham Hotspur (DAZN/International Commentary)">
     <display-name lang="en">PSG vs Tottenham Hotspur (DAZN/International Commentary)</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. San Francisco Giants">
-    <display-name lang="en">San Diego Padres vs. San Francisco Giants</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Cincinnati Reds">
     <display-name lang="en">Philadelphia Phillies vs. Cincinnati Reds</display-name>
@@ -68,6 +68,9 @@
   </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
+  </channel>
+  <channel id="Aston Villa vs. Newcastle United">
+    <display-name lang="en">Aston Villa vs. Newcastle United</display-name>
   </channel>
   <channel id="Brighton and Hove Albion vs. Fulham">
     <display-name lang="en">Brighton and Hove Albion vs. Fulham</display-name>
@@ -160,6 +163,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250813000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250813235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (TNT Sports Commentary)" stop="20250813235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -178,14 +189,6 @@
   </programme>
   <programme start="20250813000000 -0500" channel="PSG vs Tottenham Hotspur (DAZN/International Commentary)" stop="20250813235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250813000000 -0500" channel="San Diego Padres vs. San Francisco Giants" stop="20250813235959 -0500">
-    <title>02:45 PM 13/08/25 - San Diego Padres vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -298,6 +301,14 @@
   </programme>
   <programme start="20250813000000 -0500" channel="Liverpool vs. Bournemouth" stop="20250813235959 -0500">
     <title>02:00 PM 15/08/25 - Liverpool vs. Bournemouth</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250813000000 -0500" channel="Aston Villa vs. Newcastle United" stop="20250813235959 -0500">
+    <title>06:30 AM 16/08/25 - Aston Villa vs. Newcastle United</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
