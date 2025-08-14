@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250813 -0500">
-  <channel id="Seattle Mariners vs. Baltimore Orioles">
-    <display-name lang="en">Seattle Mariners vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Cleveland Guardians">
-    <display-name lang="en">Miami Marlins vs. Cleveland Guardians</display-name>
-  </channel>
   <channel id="Minnesota Twins vs. New York Yankees">
     <display-name lang="en">Minnesota Twins vs. New York Yankees</display-name>
   </channel>
@@ -18,26 +12,23 @@
   <channel id="Boston Red Sox vs. Houston Astros">
     <display-name lang="en">Boston Red Sox vs. Houston Astros</display-name>
   </channel>
-  <channel id="Sky at Sun">
-    <display-name lang="en">Sky at Sun</display-name>
-  </channel>
-  <channel id="Valkyries at Mystics">
-    <display-name lang="en">Valkyries at Mystics</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
   <channel id="Los Angeles Dodgers vs. Los Angeles Angels">
     <display-name lang="en">Los Angeles Dodgers vs. Los Angeles Angels</display-name>
   </channel>
-  <channel id="Tampa Bay Rays vs. Athletics">
-    <display-name lang="en">Tampa Bay Rays vs. Athletics</display-name>
+  <channel id="Valkyries at Mystics">
+    <display-name lang="en">Valkyries at Mystics</display-name>
   </channel>
   <channel id="Liberty at Aces">
     <display-name lang="en">Liberty at Aces</display-name>
   </channel>
   <channel id="Dream at Storm">
     <display-name lang="en">Dream at Storm</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. Athletics">
+    <display-name lang="en">Tampa Bay Rays vs. Athletics</display-name>
   </channel>
   <channel id="Liverpool vs. Bournemouth">
     <display-name lang="en">Liverpool vs. Bournemouth</display-name>
@@ -93,22 +84,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250813000000 -0500" channel="Seattle Mariners vs. Baltimore Orioles" stop="20250813235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250813000000 -0500" channel="Miami Marlins vs. Cleveland Guardians" stop="20250813235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250813000000 -0500" channel="Minnesota Twins vs. New York Yankees" stop="20250813235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -141,7 +116,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250813000000 -0500" channel="Sky at Sun" stop="20250813235959 -0500">
+  <programme start="20250813000000 -0500" channel="Los Angeles Dodgers vs. Los Angeles Angels" stop="20250813235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -157,6 +132,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250813000000 -0500" channel="Liberty at Aces" stop="20250813235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250813000000 -0500" channel="Dream at Storm" stop="20250813235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250813000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20250813235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -165,32 +156,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250813000000 -0500" channel="Los Angeles Dodgers vs. Los Angeles Angels" stop="20250813235959 -0500">
-    <title>08:38 PM 13/08/25 - Los Angeles Dodgers vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250813000000 -0500" channel="Tampa Bay Rays vs. Athletics" stop="20250813235959 -0500">
     <title>09:05 PM 13/08/25 - Tampa Bay Rays vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250813000000 -0500" channel="Liberty at Aces" stop="20250813235959 -0500">
-    <title>08:30 PM 13/08/25 - Liberty at Aces</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250813000000 -0500" channel="Dream at Storm" stop="20250813235959 -0500">
-    <title>09:00 PM 13/08/25 - Dream at Storm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
