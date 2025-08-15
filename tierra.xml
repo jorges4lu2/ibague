@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250815 -0500">
-  <channel id="PDC: NZ Darts Masters - Day One">
-    <display-name lang="en">PDC: NZ Darts Masters - Day One</display-name>
+  <channel id="Tennessee Titans vs. Atlanta Falcons">
+    <display-name lang="en">Tennessee Titans vs. Atlanta Falcons</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Cincinnati Reds">
     <display-name lang="en">Milwaukee Brewers vs. Cincinnati Reds</display-name>
   </channel>
   <channel id="Philadelphia Phillies vs. Washington Nationals">
     <display-name lang="en">Philadelphia Phillies vs. Washington Nationals</display-name>
+  </channel>
+  <channel id="Kansas City Chiefs vs. Seattle Seahawks">
+    <display-name lang="en">Kansas City Chiefs vs. Seattle Seahawks</display-name>
   </channel>
   <channel id="Texas Rangers vs. Toronto Blue Jays">
     <display-name lang="en">Texas Rangers vs. Toronto Blue Jays</display-name>
@@ -120,7 +123,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250815000000 -0500" channel="PDC: NZ Darts Masters - Day One" stop="20250815235959 -0500">
+  <programme start="20250815000000 -0500" channel="Tennessee Titans vs. Atlanta Falcons" stop="20250815235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -129,7 +132,7 @@
     </audio>
   </programme>
   <programme start="20250815000000 -0500" channel="Milwaukee Brewers vs. Cincinnati Reds" stop="20250815235959 -0500">
-    <title>05:40 PM 15/08/25 - Milwaukee Brewers vs. Cincinnati Reds</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -137,7 +140,15 @@
     </audio>
   </programme>
   <programme start="20250815000000 -0500" channel="Philadelphia Phillies vs. Washington Nationals" stop="20250815235959 -0500">
-    <title>05:45 PM 15/08/25 - Philadelphia Phillies vs. Washington Nationals</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="Kansas City Chiefs vs. Seattle Seahawks" stop="20250815235959 -0500">
+    <title>09:00 PM 15/08/25 - Kansas City Chiefs vs. Seattle Seahawks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
