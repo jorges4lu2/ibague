@@ -1194,8 +1194,23 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 - Spoon River Speedway 7:15pm">
-    <display-name lang="en">DIRTVISION 01 - Spoon River Speedway 7:15pm</display-name>
+  <channel id="DIRTVISION 01 - Attica Raceway Park  6:30pm">
+    <display-name lang="en">DIRTVISION 01 - Attica Raceway Park  6:30pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 02 - Williams Grove Speedway 7:00pm">
+    <display-name lang="en">DIRTVISION 02 - Williams Grove Speedway 7:00pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 03 - Maquoketa Speedway 7:15pm">
+    <display-name lang="en">DIRTVISION 03 - Maquoketa Speedway 7:15pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 04 - Ogilvie Raceway 7:15pm">
+    <display-name lang="en">DIRTVISION 04 - Ogilvie Raceway 7:15pm</display-name>
+  </channel>
+  <channel id="Dirtvision 05: DIRT Zone 7:30pm">
+    <display-name lang="en">Dirtvision 05: DIRT Zone 7:30pm</display-name>
+  </channel>
+  <channel id="Dirtvision 06: WaKeeney Speedway 7:45 pm">
+    <display-name lang="en">Dirtvision 06: WaKeeney Speedway 7:45 pm</display-name>
   </channel>
   <channel id="Super League Plus | Event 1 Wigan Warriors v Hull KR | Betfred Super League Round 22 // UK Fri 15 Aug 7:55pm // ET Fri 15 Aug 2:55pm">
     <display-name lang="en">Super League Plus | Event 1 Wigan Warriors v Hull KR | Betfred Super League Round 22 // UK Fri 15 Aug 7:55pm // ET Fri 15 Aug 2:55pm</display-name>
@@ -1314,8 +1329,8 @@
   <channel id="05. Coppa Italia | Sassuolo vs Catanzaro (Fri 17:30 UK)">
     <display-name lang="en">05. Coppa Italia | Sassuolo vs Catanzaro (Fri 17:30 UK)</display-name>
   </channel>
-  <channel id="06. Coppa Italia | Lecce vs Juve Stabia (Fri 17:45 UK)">
-    <display-name lang="en">06. Coppa Italia | Lecce vs Juve Stabia (Fri 17:45 UK)</display-name>
+  <channel id="06. Coppa Italia | Lecce vs Juve Stabia (Fri 19:45 UK)">
+    <display-name lang="en">06. Coppa Italia | Lecce vs Juve Stabia (Fri 19:45 UK)</display-name>
   </channel>
   <channel id="07. Coppa Italia | Genoa vs Vicenza (Fri 20:15 UK)">
     <display-name lang="en">07. Coppa Italia | Genoa vs Vicenza (Fri 20:15 UK)</display-name>
@@ -1355,9 +1370,6 @@
   </channel>
   <channel id="UFC 319: Dricus Du Plessis vs. Khamzat Chimaev HD (Sun 03:00 UK)">
     <display-name lang="en">UFC 319: Dricus Du Plessis vs. Khamzat Chimaev HD (Sun 03:00 UK)</display-name>
-  </channel>
-  <channel id="LIVE EVENT 02 - 8:30AM ONE Friday Fights 120 Yodlekpet v Pompet">
-    <display-name lang="en">LIVE EVENT 02 - 8:30AM ONE Friday Fights 120 Yodlekpet v Pompet</display-name>
   </channel>
   <channel id="LIVE EVENT 11 - 5:30PM Open Modified 80 Stafford">
     <display-name lang="en">LIVE EVENT 11 - 5:30PM Open Modified 80 Stafford</display-name>
@@ -4903,8 +4915,48 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250815000000 -0500" channel="DIRTVISION 01 - Spoon River Speedway 7:15pm" stop="20250815235959 -0500">
-    <title>01:15 PM - DIRTVISION 01 - Spoon River Speedway 7:15pm</title>
+  <programme start="20250815000000 -0500" channel="DIRTVISION 01 - Attica Raceway Park  6:30pm" stop="20250815235959 -0500">
+    <title>12:30 PM - DIRTVISION 01 - Attica Raceway Park  6:30pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="DIRTVISION 02 - Williams Grove Speedway 7:00pm" stop="20250815235959 -0500">
+    <title>01:00 PM - DIRTVISION 02 - Williams Grove Speedway 7:00pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="DIRTVISION 03 - Maquoketa Speedway 7:15pm" stop="20250815235959 -0500">
+    <title>01:15 PM - DIRTVISION 03 - Maquoketa Speedway 7:15pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="DIRTVISION 04 - Ogilvie Raceway 7:15pm" stop="20250815235959 -0500">
+    <title>01:15 PM - DIRTVISION 04 - Ogilvie Raceway 7:15pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="Dirtvision 05: DIRT Zone 7:30pm" stop="20250815235959 -0500">
+    <title>01:30 PM - Dirtvision 05: DIRT Zone 7:30pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="Dirtvision 06: WaKeeney Speedway 7:45 pm" stop="20250815235959 -0500">
+    <title>05:45 PM - Dirtvision 06: WaKeeney Speedway 7:45 pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -5223,8 +5275,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250815000000 -0500" channel="06. Coppa Italia | Lecce vs Juve Stabia (Fri 17:45 UK)" stop="20250815235959 -0500">
-    <title>11:45 AM - 06. Coppa Italia | Lecce vs Juve Stabia (Fri 17:45 UK)</title>
+  <programme start="20250815000000 -0500" channel="06. Coppa Italia | Lecce vs Juve Stabia (Fri 19:45 UK)" stop="20250815235959 -0500">
+    <title>01:45 PM - 06. Coppa Italia | Lecce vs Juve Stabia (Fri 19:45 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -5329,14 +5381,6 @@
   </programme>
   <programme start="20250815000000 -0500" channel="UFC 319: Dricus Du Plessis vs. Khamzat Chimaev HD (Sun 03:00 UK)" stop="20250815235959 -0500">
     <title>09:00 PM - UFC 319: Dricus Du Plessis vs. Khamzat Chimaev HD (Sun 03:00 UK)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250815000000 -0500" channel="LIVE EVENT 02 - 8:30AM ONE Friday Fights 120 Yodlekpet v Pompet" stop="20250815235959 -0500">
-    <title>02:30 AM - LIVE EVENT 02 - 8:30AM ONE Friday Fights 120 Yodlekpet v Pompet</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
