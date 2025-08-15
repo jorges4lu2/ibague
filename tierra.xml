@@ -12,6 +12,9 @@
   <channel id="Detroit Tigers vs. Minnesota Twins">
     <display-name lang="en">Detroit Tigers vs. Minnesota Twins</display-name>
   </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
+  </channel>
   <channel id="Arizona Diamondbacks vs. Colorado Rockies">
     <display-name lang="en">Arizona Diamondbacks vs. Colorado Rockies</display-name>
   </channel>
@@ -44,9 +47,6 @@
   </channel>
   <channel id="Manchester United vs. Arsenal">
     <display-name lang="en">Manchester United vs. Arsenal</display-name>
-  </channel>
-  <channel id="TNA: Impact">
-    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -89,7 +89,7 @@
     </audio>
   </programme>
   <programme start="20250814000000 -0500" channel="Atlanta Braves vs. New York Mets" stop="20250814235959 -0500">
-    <title>06:10 PM 14/08/25 - Atlanta Braves vs. New York Mets</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -97,7 +97,15 @@
     </audio>
   </programme>
   <programme start="20250814000000 -0500" channel="Detroit Tigers vs. Minnesota Twins" stop="20250814235959 -0500">
-    <title>06:40 PM 14/08/25 - Detroit Tigers vs. Minnesota Twins</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250814000000 -0500" channel="TNA: Impact" stop="20250814235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -186,14 +194,6 @@
   </programme>
   <programme start="20250814000000 -0500" channel="Manchester United vs. Arsenal" stop="20250814235959 -0500">
     <title>10:30 AM 17/08/25 - Manchester United vs. Arsenal</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250814000000 -0500" channel="TNA: Impact" stop="20250814235959 -0500">
-    <title>07:00 PM 14/08/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
