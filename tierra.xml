@@ -12,11 +12,11 @@
   <channel id="Detroit Tigers vs. Minnesota Twins">
     <display-name lang="en">Detroit Tigers vs. Minnesota Twins</display-name>
   </channel>
-  <channel id="TNA: Impact">
-    <display-name lang="en">TNA: Impact</display-name>
-  </channel>
   <channel id="Arizona Diamondbacks vs. Colorado Rockies">
     <display-name lang="en">Arizona Diamondbacks vs. Colorado Rockies</display-name>
+  </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="PDC: NZ Darts Masters - Day One">
     <display-name lang="en">PDC: NZ Darts Masters - Day One</display-name>
@@ -104,7 +104,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250814000000 -0500" channel="TNA: Impact" stop="20250814235959 -0500">
+  <programme start="20250814000000 -0500" channel="Arizona Diamondbacks vs. Colorado Rockies" stop="20250814235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -112,8 +112,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250814000000 -0500" channel="Arizona Diamondbacks vs. Colorado Rockies" stop="20250814235959 -0500">
-    <title>07:40 PM 14/08/25 - Arizona Diamondbacks vs. Colorado Rockies</title>
+  <programme start="20250814000000 -0500" channel="TNA: Impact" stop="20250814235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
