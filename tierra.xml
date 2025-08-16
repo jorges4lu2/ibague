@@ -3,24 +3,6 @@
   <channel id="San Francisco 49ers vs. Las Vegas Raiders">
     <display-name lang="en">San Francisco 49ers vs. Las Vegas Raiders</display-name>
   </channel>
-  <channel id="Texas Rangers vs. Toronto Blue Jays">
-    <display-name lang="en">Texas Rangers vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Washington Nationals">
-    <display-name lang="en">Philadelphia Phillies vs. Washington Nationals</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Boston Red Sox">
-    <display-name lang="en">Miami Marlins vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. New York Mets">
-    <display-name lang="en">Seattle Mariners vs. New York Mets</display-name>
-  </channel>
-  <channel id="Itauma vs. Whyte">
-    <display-name lang="en">Itauma vs. Whyte</display-name>
-  </channel>
-  <channel id="PDC: NZ Darts Masters - Day Two">
-    <display-name lang="en">PDC: NZ Darts Masters - Day Two</display-name>
-  </channel>
   <channel id="Baltimore Ravens vs. Dallas Cowboys">
     <display-name lang="en">Baltimore Ravens vs. Dallas Cowboys</display-name>
   </channel>
@@ -33,6 +15,24 @@
   <channel id="Tampa Bay Buccaneers vs. Pittsburgh Steelers">
     <display-name lang="en">Tampa Bay Buccaneers vs. Pittsburgh Steelers</display-name>
   </channel>
+  <channel id="Philadelphia Phillies vs. Washington Nationals">
+    <display-name lang="en">Philadelphia Phillies vs. Washington Nationals</display-name>
+  </channel>
+  <channel id="Miami Marlins vs. Boston Red Sox">
+    <display-name lang="en">Miami Marlins vs. Boston Red Sox</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. New York Mets">
+    <display-name lang="en">Seattle Mariners vs. New York Mets</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Cincinnati Reds">
+    <display-name lang="en">Milwaukee Brewers vs. Cincinnati Reds</display-name>
+  </channel>
+  <channel id="Itauma vs. Whyte">
+    <display-name lang="en">Itauma vs. Whyte</display-name>
+  </channel>
+  <channel id="UFC 319: Du Plessis vs. Chimaev">
+    <display-name lang="en">UFC 319: Du Plessis vs. Chimaev</display-name>
+  </channel>
   <channel id="Arizona Cardinals vs. Denver Broncos">
     <display-name lang="en">Arizona Cardinals vs. Denver Broncos</display-name>
   </channel>
@@ -44,9 +44,6 @@
   </channel>
   <channel id="Cincinnati Bengals vs. Washington Commanders">
     <display-name lang="en">Cincinnati Bengals vs. Washington Commanders</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Cincinnati Reds">
-    <display-name lang="en">Milwaukee Brewers vs. Cincinnati Reds</display-name>
   </channel>
   <channel id="Atlanta Braves vs. Cleveland Guardians">
     <display-name lang="en">Atlanta Braves vs. Cleveland Guardians</display-name>
@@ -74,9 +71,6 @@
   </channel>
   <channel id="Los Angeles Angels vs. Athletics">
     <display-name lang="en">Los Angeles Angels vs. Athletics</display-name>
-  </channel>
-  <channel id="UFC 319: Du Plessis vs. Chimaev">
-    <display-name lang="en">UFC 319: Du Plessis vs. Chimaev</display-name>
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
@@ -125,7 +119,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250816000000 -0500" channel="Texas Rangers vs. Toronto Blue Jays" stop="20250816235959 -0500">
+  <programme start="20250816000000 -0500" channel="Baltimore Ravens vs. Dallas Cowboys" stop="20250816235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="Los Angeles Chargers vs. Los Angeles Rams" stop="20250816235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="New York Jets vs. New York Giants" stop="20250816235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="Tampa Bay Buccaneers vs. Pittsburgh Steelers" stop="20250816235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -157,6 +175,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250816000000 -0500" channel="Milwaukee Brewers vs. Cincinnati Reds" stop="20250816235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250816000000 -0500" channel="Itauma vs. Whyte" stop="20250816235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -165,40 +191,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250816000000 -0500" channel="PDC: NZ Darts Masters - Day Two" stop="20250816235959 -0500">
+  <programme start="20250816000000 -0500" channel="UFC 319: Du Plessis vs. Chimaev" stop="20250816235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="Baltimore Ravens vs. Dallas Cowboys" stop="20250816235959 -0500">
-    <title>06:00 PM 16/08/25 - Baltimore Ravens vs. Dallas Cowboys</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="Los Angeles Chargers vs. Los Angeles Rams" stop="20250816235959 -0500">
-    <title>06:00 PM 16/08/25 - Los Angeles Chargers vs. Los Angeles Rams</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="New York Jets vs. New York Giants" stop="20250816235959 -0500">
-    <title>06:00 PM 16/08/25 - New York Jets vs. New York Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="Tampa Bay Buccaneers vs. Pittsburgh Steelers" stop="20250816235959 -0500">
-    <title>06:00 PM 16/08/25 - Tampa Bay Buccaneers vs. Pittsburgh Steelers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -231,14 +225,6 @@
   </programme>
   <programme start="20250816000000 -0500" channel="Cincinnati Bengals vs. Washington Commanders" stop="20250816235959 -0500">
     <title>07:00 PM 18/08/25 - Cincinnati Bengals vs. Washington Commanders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="Milwaukee Brewers vs. Cincinnati Reds" stop="20250816235959 -0500">
-    <title>05:40 PM 16/08/25 - Milwaukee Brewers vs. Cincinnati Reds</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -311,14 +297,6 @@
   </programme>
   <programme start="20250816000000 -0500" channel="Los Angeles Angels vs. Athletics" stop="20250816235959 -0500">
     <title>09:05 PM 16/08/25 - Los Angeles Angels vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="UFC 319: Du Plessis vs. Chimaev" stop="20250816235959 -0500">
-    <title>05:30 PM 16/08/25 - UFC 319: Du Plessis vs. Chimaev</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
