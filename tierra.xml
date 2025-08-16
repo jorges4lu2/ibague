@@ -1,13 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250816 -0500">
+  <channel id="San Francisco 49ers vs. Las Vegas Raiders">
+    <display-name lang="en">San Francisco 49ers vs. Las Vegas Raiders</display-name>
+  </channel>
   <channel id="Pittsburgh Pirates vs. Chicago Cubs">
     <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Texas Rangers vs. Toronto Blue Jays">
     <display-name lang="en">Texas Rangers vs. Toronto Blue Jays</display-name>
   </channel>
-  <channel id="Liberty at Lynx">
-    <display-name lang="en">Liberty at Lynx</display-name>
+  <channel id="Philadelphia Phillies vs. Washington Nationals">
+    <display-name lang="en">Philadelphia Phillies vs. Washington Nationals</display-name>
+  </channel>
+  <channel id="Miami Marlins vs. Boston Red Sox">
+    <display-name lang="en">Miami Marlins vs. Boston Red Sox</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. New York Mets">
+    <display-name lang="en">Seattle Mariners vs. New York Mets</display-name>
   </channel>
   <channel id="Itauma vs. Whyte">
     <display-name lang="en">Itauma vs. Whyte</display-name>
@@ -15,14 +24,8 @@
   <channel id="PDC: NZ Darts Masters - Day Two">
     <display-name lang="en">PDC: NZ Darts Masters - Day Two</display-name>
   </channel>
-  <channel id="Mallorca vs Barcelona">
-    <display-name lang="en">Mallorca vs Barcelona</display-name>
-  </channel>
   <channel id="Pro Motocross: Unadilla">
     <display-name lang="en">Pro Motocross: Unadilla</display-name>
-  </channel>
-  <channel id="San Francisco 49ers vs. Las Vegas Raiders">
-    <display-name lang="en">San Francisco 49ers vs. Las Vegas Raiders</display-name>
   </channel>
   <channel id="Baltimore Ravens vs. Dallas Cowboys">
     <display-name lang="en">Baltimore Ravens vs. Dallas Cowboys</display-name>
@@ -47,15 +50,6 @@
   </channel>
   <channel id="Cincinnati Bengals vs. Washington Commanders">
     <display-name lang="en">Cincinnati Bengals vs. Washington Commanders</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Washington Nationals">
-    <display-name lang="en">Philadelphia Phillies vs. Washington Nationals</display-name>
-  </channel>
-  <channel id="Miami Marlins vs. Boston Red Sox">
-    <display-name lang="en">Miami Marlins vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. New York Mets">
-    <display-name lang="en">Seattle Mariners vs. New York Mets</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Cincinnati Reds">
     <display-name lang="en">Milwaukee Brewers vs. Cincinnati Reds</display-name>
@@ -129,6 +123,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250816000000 -0500" channel="San Francisco 49ers vs. Las Vegas Raiders" stop="20250816235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250816000000 -0500" channel="Pittsburgh Pirates vs. Chicago Cubs" stop="20250816235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -145,7 +147,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250816000000 -0500" channel="Liberty at Lynx" stop="20250816235959 -0500">
+  <programme start="20250816000000 -0500" channel="Philadelphia Phillies vs. Washington Nationals" stop="20250816235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="Miami Marlins vs. Boston Red Sox" stop="20250816235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="Seattle Mariners vs. New York Mets" stop="20250816235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -169,24 +187,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250816000000 -0500" channel="Mallorca vs Barcelona" stop="20250816235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250816000000 -0500" channel="Pro Motocross: Unadilla" stop="20250816235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="San Francisco 49ers vs. Las Vegas Raiders" stop="20250816235959 -0500">
-    <title>03:05 PM 16/08/25 - San Francisco 49ers vs. Las Vegas Raiders</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -251,30 +253,6 @@
   </programme>
   <programme start="20250816000000 -0500" channel="Cincinnati Bengals vs. Washington Commanders" stop="20250816235959 -0500">
     <title>07:00 PM 18/08/25 - Cincinnati Bengals vs. Washington Commanders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="Philadelphia Phillies vs. Washington Nationals" stop="20250816235959 -0500">
-    <title>03:05 PM 16/08/25 - Philadelphia Phillies vs. Washington Nationals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="Miami Marlins vs. Boston Red Sox" stop="20250816235959 -0500">
-    <title>03:10 PM 16/08/25 - Miami Marlins vs. Boston Red Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="Seattle Mariners vs. New York Mets" stop="20250816235959 -0500">
-    <title>03:10 PM 16/08/25 - Seattle Mariners vs. New York Mets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
