@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250815 -0500">
-  <channel id="Tennessee Titans vs. Atlanta Falcons">
-    <display-name lang="en">Tennessee Titans vs. Atlanta Falcons</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Cincinnati Reds">
-    <display-name lang="en">Milwaukee Brewers vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Washington Nationals">
-    <display-name lang="en">Philadelphia Phillies vs. Washington Nationals</display-name>
+  <channel id="Kansas City Chiefs vs. Seattle Seahawks">
+    <display-name lang="en">Kansas City Chiefs vs. Seattle Seahawks</display-name>
   </channel>
   <channel id="Texas Rangers vs. Toronto Blue Jays">
     <display-name lang="en">Texas Rangers vs. Toronto Blue Jays</display-name>
@@ -45,14 +39,17 @@
   <channel id="Sparks at Wings">
     <display-name lang="en">Sparks at Wings</display-name>
   </channel>
+  <channel id="Storm at Dream">
+    <display-name lang="en">Storm at Dream</display-name>
+  </channel>
+  <channel id="Aces at Mercury">
+    <display-name lang="en">Aces at Mercury</display-name>
+  </channel>
   <channel id="PDC: Steel Darts Japan Tour 1-2">
     <display-name lang="en">PDC: Steel Darts Japan Tour 1-2</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <channel id="Kansas City Chiefs vs. Seattle Seahawks">
-    <display-name lang="en">Kansas City Chiefs vs. Seattle Seahawks</display-name>
   </channel>
   <channel id="Los Angeles Angels vs. Athletics">
     <display-name lang="en">Los Angeles Angels vs. Athletics</display-name>
@@ -62,12 +59,6 @@
   </channel>
   <channel id="Tampa Bay Rays vs. San Francisco Giants">
     <display-name lang="en">Tampa Bay Rays vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Storm at Dream">
-    <display-name lang="en">Storm at Dream</display-name>
-  </channel>
-  <channel id="Aces at Mercury">
-    <display-name lang="en">Aces at Mercury</display-name>
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
@@ -123,23 +114,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250815000000 -0500" channel="Tennessee Titans vs. Atlanta Falcons" stop="20250815235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250815000000 -0500" channel="Milwaukee Brewers vs. Cincinnati Reds" stop="20250815235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250815000000 -0500" channel="Philadelphia Phillies vs. Washington Nationals" stop="20250815235959 -0500">
+  <programme start="20250815000000 -0500" channel="Kansas City Chiefs vs. Seattle Seahawks" stop="20250815235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -243,6 +218,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250815000000 -0500" channel="Storm at Dream" stop="20250815235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="Aces at Mercury" stop="20250815235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250815000000 -0500" channel="PDC: Steel Darts Japan Tour 1-2" stop="20250815235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -253,14 +244,6 @@
   </programme>
   <programme start="20250815000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250815235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250815000000 -0500" channel="Kansas City Chiefs vs. Seattle Seahawks" stop="20250815235959 -0500">
-    <title>09:00 PM 15/08/25 - Kansas City Chiefs vs. Seattle Seahawks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -285,22 +268,6 @@
   </programme>
   <programme start="20250815000000 -0500" channel="Tampa Bay Rays vs. San Francisco Giants" stop="20250815235959 -0500">
     <title>09:15 PM 15/08/25 - Tampa Bay Rays vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250815000000 -0500" channel="Storm at Dream" stop="20250815235959 -0500">
-    <title>09:00 PM 15/08/25 - Storm at Dream</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250815000000 -0500" channel="Aces at Mercury" stop="20250815235959 -0500">
-    <title>09:00 PM 15/08/25 - Aces at Mercury</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
