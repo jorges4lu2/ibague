@@ -6,6 +6,9 @@
   <channel id="PDC: NZ Darts Masters - Day Two">
     <display-name lang="en">PDC: NZ Darts Masters - Day Two</display-name>
   </channel>
+  <channel id="MXGP of Sweden: Day 1">
+    <display-name lang="en">MXGP of Sweden: Day 1</display-name>
+  </channel>
   <channel id="Miami Dolphins vs. Detroit Lions">
     <display-name lang="en">Miami Dolphins vs. Detroit Lions</display-name>
   </channel>
@@ -102,6 +105,9 @@
   <channel id="Aston Villa vs. Newcastle United">
     <display-name lang="en">Aston Villa vs. Newcastle United</display-name>
   </channel>
+  <channel id="EPL: Goal Rush">
+    <display-name lang="en">EPL: Goal Rush</display-name>
+  </channel>
   <channel id="Brighton and Hove Albion vs. Fulham">
     <display-name lang="en">Brighton and Hove Albion vs. Fulham</display-name>
   </channel>
@@ -125,6 +131,15 @@
   </channel>
   <channel id="Manchester United vs. Arsenal">
     <display-name lang="en">Manchester United vs. Arsenal</display-name>
+  </channel>
+  <channel id="Pro Motocross: Unadilla (Qualifying)">
+    <display-name lang="en">Pro Motocross: Unadilla (Qualifying)</display-name>
+  </channel>
+  <channel id="Pro Motocross: Unadilla">
+    <display-name lang="en">Pro Motocross: Unadilla</display-name>
+  </channel>
+  <channel id="MXGP of Sweden: Day 2">
+    <display-name lang="en">MXGP of Sweden: Day 2</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -156,6 +171,14 @@
     </audio>
   </programme>
   <programme start="20250816000000 -0500" channel="PDC: NZ Darts Masters - Day Two" stop="20250816235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="MXGP of Sweden: Day 1" stop="20250816235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -419,6 +442,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250816000000 -0500" channel="EPL: Goal Rush" stop="20250816235959 -0500">
+    <title>09:00 AM 16/08/25 - EPL: Goal Rush</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250816000000 -0500" channel="Brighton and Hove Albion vs. Fulham" stop="20250816235959 -0500">
     <title>09:00 AM 16/08/25 - Brighton and Hove Albion vs. Fulham</title>
     <date>2025</date>
@@ -477,6 +508,30 @@
   </programme>
   <programme start="20250816000000 -0500" channel="Manchester United vs. Arsenal" stop="20250816235959 -0500">
     <title>10:30 AM 17/08/25 - Manchester United vs. Arsenal</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="Pro Motocross: Unadilla (Qualifying)" stop="20250816235959 -0500">
+    <title>09:00 AM 16/08/25 - Pro Motocross: Unadilla (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="Pro Motocross: Unadilla" stop="20250816235959 -0500">
+    <title>12:00 PM 16/08/25 - Pro Motocross: Unadilla</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="MXGP of Sweden: Day 2" stop="20250816235959 -0500">
+    <title>01:45 AM 17/08/25 - MXGP of Sweden: Day 2</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
