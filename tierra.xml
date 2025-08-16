@@ -15,6 +15,9 @@
   <channel id="Carolina Panthers vs. Houston Texans">
     <display-name lang="en">Carolina Panthers vs. Houston Texans</display-name>
   </channel>
+  <channel id="Pittsburgh Pirates vs. Chicago Cubs">
+    <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Liberty at Lynx">
     <display-name lang="en">Liberty at Lynx</display-name>
   </channel>
@@ -59,9 +62,6 @@
   </channel>
   <channel id="Cincinnati Bengals vs. Washington Commanders">
     <display-name lang="en">Cincinnati Bengals vs. Washington Commanders</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Chicago Cubs">
-    <display-name lang="en">Pittsburgh Pirates vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Texas Rangers vs. Toronto Blue Jays">
     <display-name lang="en">Texas Rangers vs. Toronto Blue Jays</display-name>
@@ -187,6 +187,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250816000000 -0500" channel="Pittsburgh Pirates vs. Chicago Cubs" stop="20250816235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250816000000 -0500" channel="Liberty at Lynx" stop="20250816235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -301,14 +309,6 @@
   </programme>
   <programme start="20250816000000 -0500" channel="Cincinnati Bengals vs. Washington Commanders" stop="20250816235959 -0500">
     <title>07:00 PM 18/08/25 - Cincinnati Bengals vs. Washington Commanders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="Pittsburgh Pirates vs. Chicago Cubs" stop="20250816235959 -0500">
-    <title>01:20 PM 16/08/25 - Pittsburgh Pirates vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
