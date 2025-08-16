@@ -3,6 +3,9 @@
   <channel id="PDC: Steel Darts Japan Tour 1-2">
     <display-name lang="en">PDC: Steel Darts Japan Tour 1-2</display-name>
   </channel>
+  <channel id="PDC: NZ Darts Masters - Day Two">
+    <display-name lang="en">PDC: NZ Darts Masters - Day Two</display-name>
+  </channel>
   <channel id="Miami Dolphins vs. Detroit Lions">
     <display-name lang="en">Miami Dolphins vs. Detroit Lions</display-name>
   </channel>
@@ -93,9 +96,6 @@
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
   </channel>
-  <channel id="PDC: NZ Darts Masters - Day Two">
-    <display-name lang="en">PDC: NZ Darts Masters - Day Two</display-name>
-  </channel>
   <channel id="PDC: Steel Darts Japan Tour 3-4">
     <display-name lang="en">PDC: Steel Darts Japan Tour 3-4</display-name>
   </channel>
@@ -148,6 +148,14 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250816000000 -0500" channel="PDC: Steel Darts Japan Tour 1-2" stop="20250816235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="PDC: NZ Darts Masters - Day Two" stop="20250816235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -389,14 +397,6 @@
   </programme>
   <programme start="20250816000000 -0500" channel="GLORY 103" stop="20250816235959 -0500">
     <title>01:00 PM 23/08/25 - GLORY 103</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="PDC: NZ Darts Masters - Day Two" stop="20250816235959 -0500">
-    <title>02:00 AM 16/08/25 - PDC: NZ Darts Masters - Day Two</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
