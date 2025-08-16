@@ -3,9 +3,6 @@
   <channel id="PDC: NZ Darts Masters - Day Two">
     <display-name lang="en">PDC: NZ Darts Masters - Day Two</display-name>
   </channel>
-  <channel id="Aston Villa vs. Newcastle United">
-    <display-name lang="en">Aston Villa vs. Newcastle United</display-name>
-  </channel>
   <channel id="EPL: Goal Rush">
     <display-name lang="en">EPL: Goal Rush</display-name>
   </channel>
@@ -20,9 +17,6 @@
   </channel>
   <channel id="MXGP of Sweden: Day 1">
     <display-name lang="en">MXGP of Sweden: Day 1</display-name>
-  </channel>
-  <channel id="Pro Motocross: Unadilla (Qualifying)">
-    <display-name lang="en">Pro Motocross: Unadilla (Qualifying)</display-name>
   </channel>
   <channel id="Miami Dolphins vs. Detroit Lions">
     <display-name lang="en">Miami Dolphins vs. Detroit Lions</display-name>
@@ -111,6 +105,12 @@
   <channel id="Los Angeles Angels vs. Athletics">
     <display-name lang="en">Los Angeles Angels vs. Athletics</display-name>
   </channel>
+  <channel id="Liberty at Lynx">
+    <display-name lang="en">Liberty at Lynx</display-name>
+  </channel>
+  <channel id="Itauma vs. Whyte">
+    <display-name lang="en">Itauma vs. Whyte</display-name>
+  </channel>
   <channel id="UFC 319: Du Plessis vs. Chimaev">
     <display-name lang="en">UFC 319: Du Plessis vs. Chimaev</display-name>
   </channel>
@@ -170,14 +170,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250816000000 -0500" channel="Aston Villa vs. Newcastle United" stop="20250816235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250816000000 -0500" channel="EPL: Goal Rush" stop="20250816235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -211,14 +203,6 @@
     </audio>
   </programme>
   <programme start="20250816000000 -0500" channel="MXGP of Sweden: Day 1" stop="20250816235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250816000000 -0500" channel="Pro Motocross: Unadilla (Qualifying)" stop="20250816235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -452,6 +436,22 @@
   </programme>
   <programme start="20250816000000 -0500" channel="Los Angeles Angels vs. Athletics" stop="20250816235959 -0500">
     <title>09:05 PM 16/08/25 - Los Angeles Angels vs. Athletics</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="Liberty at Lynx" stop="20250816235959 -0500">
+    <title>01:00 PM 16/08/25 - Liberty at Lynx</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250816000000 -0500" channel="Itauma vs. Whyte" stop="20250816235959 -0500">
+    <title>11:45 AM 16/08/25 - Itauma vs. Whyte</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
