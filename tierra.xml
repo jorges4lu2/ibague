@@ -9,9 +9,6 @@
   <channel id="Philadelphia Phillies vs. Washington Nationals">
     <display-name lang="en">Philadelphia Phillies vs. Washington Nationals</display-name>
   </channel>
-  <channel id="Kansas City Chiefs vs. Seattle Seahawks">
-    <display-name lang="en">Kansas City Chiefs vs. Seattle Seahawks</display-name>
-  </channel>
   <channel id="Texas Rangers vs. Toronto Blue Jays">
     <display-name lang="en">Texas Rangers vs. Toronto Blue Jays</display-name>
   </channel>
@@ -23,6 +20,24 @@
   </channel>
   <channel id="Seattle Mariners vs. New York Mets">
     <display-name lang="en">Seattle Mariners vs. New York Mets</display-name>
+  </channel>
+  <channel id="Mystics at Fever">
+    <display-name lang="en">Mystics at Fever</display-name>
+  </channel>
+  <channel id="Valkyries at Sky">
+    <display-name lang="en">Valkyries at Sky</display-name>
+  </channel>
+  <channel id="Sparks at Wings">
+    <display-name lang="en">Sparks at Wings</display-name>
+  </channel>
+  <channel id="PDC: Steel Darts Japan Tour 1-2">
+    <display-name lang="en">PDC: Steel Darts Japan Tour 1-2</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <channel id="Kansas City Chiefs vs. Seattle Seahawks">
+    <display-name lang="en">Kansas City Chiefs vs. Seattle Seahawks</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Houston Astros">
     <display-name lang="en">Baltimore Orioles vs. Houston Astros</display-name>
@@ -48,15 +63,6 @@
   <channel id="Tampa Bay Rays vs. San Francisco Giants">
     <display-name lang="en">Tampa Bay Rays vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="Mystics at Fever">
-    <display-name lang="en">Mystics at Fever</display-name>
-  </channel>
-  <channel id="Valkyries at Sky">
-    <display-name lang="en">Valkyries at Sky</display-name>
-  </channel>
-  <channel id="Sparks at Wings">
-    <display-name lang="en">Sparks at Wings</display-name>
-  </channel>
   <channel id="Storm at Dream">
     <display-name lang="en">Storm at Dream</display-name>
   </channel>
@@ -65,9 +71,6 @@
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
-  </channel>
-  <channel id="PDC: Steel Darts Japan Tour 1-2">
-    <display-name lang="en">PDC: Steel Darts Japan Tour 1-2</display-name>
   </channel>
   <channel id="PDC: NZ Darts Masters - Day Two">
     <display-name lang="en">PDC: NZ Darts Masters - Day Two</display-name>
@@ -98,9 +101,6 @@
   </channel>
   <channel id="Manchester United vs. Arsenal">
     <display-name lang="en">Manchester United vs. Arsenal</display-name>
-  </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -147,16 +147,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250815000000 -0500" channel="Kansas City Chiefs vs. Seattle Seahawks" stop="20250815235959 -0500">
-    <title>09:00 PM 15/08/25 - Kansas City Chiefs vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250815000000 -0500" channel="Texas Rangers vs. Toronto Blue Jays" stop="20250815235959 -0500">
-    <title>06:07 PM 15/08/25 - Texas Rangers vs. Toronto Blue Jays</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -164,7 +156,7 @@
     </audio>
   </programme>
   <programme start="20250815000000 -0500" channel="Atlanta Braves vs. Cleveland Guardians" stop="20250815235959 -0500">
-    <title>06:10 PM 15/08/25 - Atlanta Braves vs. Cleveland Guardians</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -172,7 +164,7 @@
     </audio>
   </programme>
   <programme start="20250815000000 -0500" channel="Miami Marlins vs. Boston Red Sox" stop="20250815235959 -0500">
-    <title>06:10 PM 15/08/25 - Miami Marlins vs. Boston Red Sox</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -180,7 +172,55 @@
     </audio>
   </programme>
   <programme start="20250815000000 -0500" channel="Seattle Mariners vs. New York Mets" stop="20250815235959 -0500">
-    <title>06:10 PM 15/08/25 - Seattle Mariners vs. New York Mets</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="Mystics at Fever" stop="20250815235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="Valkyries at Sky" stop="20250815235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="Sparks at Wings" stop="20250815235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="PDC: Steel Darts Japan Tour 1-2" stop="20250815235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250815235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250815000000 -0500" channel="Kansas City Chiefs vs. Seattle Seahawks" stop="20250815235959 -0500">
+    <title>09:00 PM 15/08/25 - Kansas City Chiefs vs. Seattle Seahawks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -251,30 +291,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250815000000 -0500" channel="Mystics at Fever" stop="20250815235959 -0500">
-    <title>06:30 PM 15/08/25 - Mystics at Fever</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250815000000 -0500" channel="Valkyries at Sky" stop="20250815235959 -0500">
-    <title>06:30 PM 15/08/25 - Valkyries at Sky</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250815000000 -0500" channel="Sparks at Wings" stop="20250815235959 -0500">
-    <title>06:30 PM 15/08/25 - Sparks at Wings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250815000000 -0500" channel="Storm at Dream" stop="20250815235959 -0500">
     <title>09:00 PM 15/08/25 - Storm at Dream</title>
     <date>2025</date>
@@ -293,14 +309,6 @@
   </programme>
   <programme start="20250815000000 -0500" channel="GLORY 103" stop="20250815235959 -0500">
     <title>01:00 PM 23/08/25 - GLORY 103</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250815000000 -0500" channel="PDC: Steel Darts Japan Tour 1-2" stop="20250815235959 -0500">
-    <title>07:00 PM 15/08/25 - PDC: Steel Darts Japan Tour 1-2</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -381,14 +389,6 @@
   </programme>
   <programme start="20250815000000 -0500" channel="Manchester United vs. Arsenal" stop="20250815235959 -0500">
     <title>10:30 AM 17/08/25 - Manchester United vs. Arsenal</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250815000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250815235959 -0500">
-    <title>07:00 PM 15/08/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
