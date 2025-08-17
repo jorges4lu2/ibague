@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250817 -0500">
-  <channel id="Manchester United vs. Arsenal">
-    <display-name lang="en">Manchester United vs. Arsenal</display-name>
-  </channel>
-  <channel id="MXGP of Sweden: Day 2">
-    <display-name lang="en">MXGP of Sweden: Day 2</display-name>
-  </channel>
   <channel id="Jacksonville Jaguars vs. New Orleans Saints">
     <display-name lang="en">Jacksonville Jaguars vs. New Orleans Saints</display-name>
+  </channel>
+  <channel id="Fever at Sun">
+    <display-name lang="en">Fever at Sun</display-name>
+  </channel>
+  <channel id="Manchester United vs. Arsenal">
+    <display-name lang="en">Manchester United vs. Arsenal</display-name>
   </channel>
   <channel id="Buffalo Bills vs. Chicago Bears">
     <display-name lang="en">Buffalo Bills vs. Chicago Bears</display-name>
@@ -17,9 +17,6 @@
   </channel>
   <channel id="Seattle Mariners vs. New York Mets">
     <display-name lang="en">Seattle Mariners vs. New York Mets</display-name>
-  </channel>
-  <channel id="Fever at Sun">
-    <display-name lang="en">Fever at Sun</display-name>
   </channel>
   <channel id="Sparks at Mystics">
     <display-name lang="en">Sparks at Mystics</display-name>
@@ -42,8 +39,8 @@
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
-  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203; Guy">
-    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203; Guy</display-name>
+  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204; Guy">
+    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204; Guy</display-name>
   </channel>
   <channel id="24/7 The Simpsons">
     <display-name lang="en">24/7 The Simpsons</display-name>
@@ -54,24 +51,24 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250817000000 -0500" channel="Jacksonville Jaguars vs. New Orleans Saints" stop="20250817235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250817000000 -0500" channel="Fever at Sun" stop="20250817235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250817000000 -0500" channel="Manchester United vs. Arsenal" stop="20250817235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250817000000 -0500" channel="MXGP of Sweden: Day 2" stop="20250817235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250817000000 -0500" channel="Jacksonville Jaguars vs. New Orleans Saints" stop="20250817235959 -0500">
-    <title>12:00 PM 17/08/25 - Jacksonville Jaguars vs. New Orleans Saints</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -96,14 +93,6 @@
   </programme>
   <programme start="20250817000000 -0500" channel="Seattle Mariners vs. New York Mets" stop="20250817235959 -0500">
     <title>06:00 PM 17/08/25 - Seattle Mariners vs. New York Mets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250817000000 -0500" channel="Fever at Sun" stop="20250817235959 -0500">
-    <title>12:00 PM 17/08/25 - Fever at Sun</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -166,7 +155,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250817000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203; Guy" stop="20250817235959 -0500">
+  <programme start="20250817000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204; Guy" stop="20250817235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
