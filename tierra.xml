@@ -3,6 +3,12 @@
   <channel id="PDC: Steel Darts Japan Tour 3-4">
     <display-name lang="en">PDC: Steel Darts Japan Tour 3-4</display-name>
   </channel>
+  <channel id="Nottingham Forest vs. Brentford">
+    <display-name lang="en">Nottingham Forest vs. Brentford</display-name>
+  </channel>
+  <channel id="Chelsea vs. Crystal Palace">
+    <display-name lang="en">Chelsea vs. Crystal Palace</display-name>
+  </channel>
   <channel id="MXGP of Sweden: Day 2">
     <display-name lang="en">MXGP of Sweden: Day 2</display-name>
   </channel>
@@ -20,12 +26,6 @@
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
-  </channel>
-  <channel id="Nottingham Forest vs. Brentford">
-    <display-name lang="en">Nottingham Forest vs. Brentford</display-name>
-  </channel>
-  <channel id="Chelsea vs. Crystal Palace">
-    <display-name lang="en">Chelsea vs. Crystal Palace</display-name>
   </channel>
   <channel id="Manchester United vs. Arsenal">
     <display-name lang="en">Manchester United vs. Arsenal</display-name>
@@ -49,6 +49,22 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250817000000 -0500" channel="PDC: Steel Darts Japan Tour 3-4" stop="20250817235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250817000000 -0500" channel="Nottingham Forest vs. Brentford" stop="20250817235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250817000000 -0500" channel="Chelsea vs. Crystal Palace" stop="20250817235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -98,22 +114,6 @@
   </programme>
   <programme start="20250817000000 -0500" channel="GLORY 103" stop="20250817235959 -0500">
     <title>01:00 PM 23/08/25 - GLORY 103</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250817000000 -0500" channel="Nottingham Forest vs. Brentford" stop="20250817235959 -0500">
-    <title>08:00 AM 17/08/25 - Nottingham Forest vs. Brentford</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250817000000 -0500" channel="Chelsea vs. Crystal Palace" stop="20250817235959 -0500">
-    <title>08:00 AM 17/08/25 - Chelsea vs. Crystal Palace</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
