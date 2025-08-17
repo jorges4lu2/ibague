@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250817 -0500">
-  <channel id="Sparks at Mystics">
-    <display-name lang="en">Sparks at Mystics</display-name>
-  </channel>
   <channel id="Wings at Aces">
     <display-name lang="en">Wings at Aces</display-name>
+  </channel>
+  <channel id="Mercury at Storm">
+    <display-name lang="en">Mercury at Storm</display-name>
   </channel>
   <channel id="Buffalo Bills vs. Chicago Bears">
     <display-name lang="en">Buffalo Bills vs. Chicago Bears</display-name>
@@ -14,9 +14,6 @@
   </channel>
   <channel id="Seattle Mariners vs. New York Mets">
     <display-name lang="en">Seattle Mariners vs. New York Mets</display-name>
-  </channel>
-  <channel id="Mercury at Storm">
-    <display-name lang="en">Mercury at Storm</display-name>
   </channel>
   <channel id="Dream at Valkyries">
     <display-name lang="en">Dream at Valkyries</display-name>
@@ -42,7 +39,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250817000000 -0500" channel="Sparks at Mystics" stop="20250817235959 -0500">
+  <programme start="20250817000000 -0500" channel="Wings at Aces" stop="20250817235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -50,7 +47,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250817000000 -0500" channel="Wings at Aces" stop="20250817235959 -0500">
+  <programme start="20250817000000 -0500" channel="Mercury at Storm" stop="20250817235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -76,14 +73,6 @@
   </programme>
   <programme start="20250817000000 -0500" channel="Seattle Mariners vs. New York Mets" stop="20250817235959 -0500">
     <title>06:00 PM 17/08/25 - Seattle Mariners vs. New York Mets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250817000000 -0500" channel="Mercury at Storm" stop="20250817235959 -0500">
-    <title>05:00 PM 17/08/25 - Mercury at Storm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
