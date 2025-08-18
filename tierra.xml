@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250818 -0500">
-  <channel id="Milwaukee Brewers vs. Chicago Cubs">
-    <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Leeds United vs. Everton">
-    <display-name lang="en">Leeds United vs. Everton</display-name>
-  </channel>
   <channel id="Cincinnati Bengals vs. Washington Commanders">
     <display-name lang="en">Cincinnati Bengals vs. Washington Commanders</display-name>
   </channel>
@@ -120,22 +114,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250818000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250818235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250818000000 -0500" channel="Leeds United vs. Everton" stop="20250818235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250818000000 -0500" channel="Cincinnati Bengals vs. Washington Commanders" stop="20250818235959 -0500">
     <title>07:00 PM 18/08/25 - Cincinnati Bengals vs. Washington Commanders</title>
     <date>2025</date>
