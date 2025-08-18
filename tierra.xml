@@ -51,6 +51,9 @@
   <channel id="Leeds United vs. Everton">
     <display-name lang="en">Leeds United vs. Everton</display-name>
   </channel>
+  <channel id="Real Madrid vs Osasuna">
+    <display-name lang="en">Real Madrid vs Osasuna</display-name>
+  </channel>
   <channel id="West Ham United vs. Chelsea">
     <display-name lang="en">West Ham United vs. Chelsea</display-name>
   </channel>
@@ -247,6 +250,14 @@
   </programme>
   <programme start="20250818000000 -0500" channel="Leeds United vs. Everton" stop="20250818235959 -0500">
     <title>02:00 PM 18/08/25 - Leeds United vs. Everton</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250818000000 -0500" channel="Real Madrid vs Osasuna" stop="20250818235959 -0500">
+    <title>02:00 PM 19/08/25 - Real Madrid vs Osasuna</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
