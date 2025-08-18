@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250818 -0500">
-  <channel id="Cincinnati Bengals vs. Washington Commanders">
-    <display-name lang="en">Cincinnati Bengals vs. Washington Commanders</display-name>
-  </channel>
   <channel id="Milwaukee Brewers vs. Chicago Cubs">
     <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Leeds United vs. Everton">
+    <display-name lang="en">Leeds United vs. Everton</display-name>
+  </channel>
+  <channel id="Cincinnati Bengals vs. Washington Commanders">
+    <display-name lang="en">Cincinnati Bengals vs. Washington Commanders</display-name>
   </channel>
   <channel id="Houston Astros vs. Detroit Tigers">
     <display-name lang="en">Houston Astros vs. Detroit Tigers</display-name>
@@ -47,9 +50,6 @@
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
-  </channel>
-  <channel id="Leeds United vs. Everton">
-    <display-name lang="en">Leeds United vs. Everton</display-name>
   </channel>
   <channel id="Real Madrid vs Osasuna">
     <display-name lang="en">Real Madrid vs Osasuna</display-name>
@@ -120,16 +120,24 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250818000000 -0500" channel="Cincinnati Bengals vs. Washington Commanders" stop="20250818235959 -0500">
-    <title>07:00 PM 18/08/25 - Cincinnati Bengals vs. Washington Commanders</title>
+  <programme start="20250818000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250818235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250818000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250818235959 -0500">
-    <title>01:20 PM 18/08/25 - Milwaukee Brewers vs. Chicago Cubs</title>
+  <programme start="20250818000000 -0500" channel="Leeds United vs. Everton" stop="20250818235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250818000000 -0500" channel="Cincinnati Bengals vs. Washington Commanders" stop="20250818235959 -0500">
+    <title>07:00 PM 18/08/25 - Cincinnati Bengals vs. Washington Commanders</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -242,14 +250,6 @@
   </programme>
   <programme start="20250818000000 -0500" channel="GLORY 103" stop="20250818235959 -0500">
     <title>01:00 PM 23/08/25 - GLORY 103</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250818000000 -0500" channel="Leeds United vs. Everton" stop="20250818235959 -0500">
-    <title>02:00 PM 18/08/25 - Leeds United vs. Everton</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
