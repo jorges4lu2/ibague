@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250818 -0500">
-  <channel id="Cincinnati Bengals vs. Washington Commanders">
-    <display-name lang="en">Cincinnati Bengals vs. Washington Commanders</display-name>
-  </channel>
   <channel id="Houston Astros vs. Detroit Tigers">
     <display-name lang="en">Houston Astros vs. Detroit Tigers</display-name>
   </channel>
@@ -14,6 +11,9 @@
   </channel>
   <channel id="Seattle Mariners vs. Philadelphia Phillies">
     <display-name lang="en">Seattle Mariners vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Cincinnati Bengals vs. Washington Commanders">
+    <display-name lang="en">Cincinnati Bengals vs. Washington Commanders</display-name>
   </channel>
   <channel id="Baltimore Orioles vs. Boston Red Sox">
     <display-name lang="en">Baltimore Orioles vs. Boston Red Sox</display-name>
@@ -114,16 +114,8 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250818000000 -0500" channel="Cincinnati Bengals vs. Washington Commanders" stop="20250818235959 -0500">
-    <title>07:00 PM 18/08/25 - Cincinnati Bengals vs. Washington Commanders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250818000000 -0500" channel="Houston Astros vs. Detroit Tigers" stop="20250818235959 -0500">
-    <title>05:40 PM 18/08/25 - Houston Astros vs. Detroit Tigers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -131,7 +123,7 @@
     </audio>
   </programme>
   <programme start="20250818000000 -0500" channel="St. Louis Cardinals vs. Miami Marlins" stop="20250818235959 -0500">
-    <title>05:40 PM 18/08/25 - St. Louis Cardinals vs. Miami Marlins</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -139,7 +131,7 @@
     </audio>
   </programme>
   <programme start="20250818000000 -0500" channel="Toronto Blue Jays vs. Pittsburgh Pirates" stop="20250818235959 -0500">
-    <title>05:40 PM 18/08/25 - Toronto Blue Jays vs. Pittsburgh Pirates</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -147,7 +139,15 @@
     </audio>
   </programme>
   <programme start="20250818000000 -0500" channel="Seattle Mariners vs. Philadelphia Phillies" stop="20250818235959 -0500">
-    <title>05:45 PM 18/08/25 - Seattle Mariners vs. Philadelphia Phillies</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250818000000 -0500" channel="Cincinnati Bengals vs. Washington Commanders" stop="20250818235959 -0500">
+    <title>07:00 PM 18/08/25 - Cincinnati Bengals vs. Washington Commanders</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
