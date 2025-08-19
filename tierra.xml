@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250818 -0500">
-  <channel id="Cincinnati Bengals vs. Washington Commanders">
-    <display-name lang="en">Cincinnati Bengals vs. Washington Commanders</display-name>
-  </channel>
-  <channel id="Baltimore Orioles vs. Boston Red Sox">
-    <display-name lang="en">Baltimore Orioles vs. Boston Red Sox</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Atlanta Braves">
-    <display-name lang="en">Chicago White Sox vs. Atlanta Braves</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Kansas City Royals">
-    <display-name lang="en">Texas Rangers vs. Kansas City Royals</display-name>
-  </channel>
   <channel id="Milwaukee Brewers vs. Chicago Cubs">
     <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
   </channel>
@@ -26,9 +14,6 @@
   </channel>
   <channel id="San Francisco Giants vs. San Diego Padres">
     <display-name lang="en">San Francisco Giants vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="Dana White's Contender Series">
     <display-name lang="en">Dana White's Contender Series</display-name>
@@ -102,38 +87,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250818000000 -0500" channel="Cincinnati Bengals vs. Washington Commanders" stop="20250818235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250818000000 -0500" channel="Baltimore Orioles vs. Boston Red Sox" stop="20250818235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250818000000 -0500" channel="Chicago White Sox vs. Atlanta Braves" stop="20250818235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250818000000 -0500" channel="Texas Rangers vs. Kansas City Royals" stop="20250818235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250818000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250818235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -167,14 +120,6 @@
     </audio>
   </programme>
   <programme start="20250818000000 -0500" channel="San Francisco Giants vs. San Diego Padres" stop="20250818235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250818000000 -0500" channel="WWE: Monday Night RAW" stop="20250818235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
