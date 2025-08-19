@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250819 -0500">
-  <channel id="Milwaukee Brewers vs. Chicago Cubs">
-    <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Real Madrid vs Osasuna">
-    <display-name lang="en">Real Madrid vs Osasuna</display-name>
-  </channel>
   <channel id="Houston Astros vs. Detroit Tigers">
     <display-name lang="en">Houston Astros vs. Detroit Tigers</display-name>
   </channel>
@@ -135,22 +129,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250819000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250819235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="Real Madrid vs Osasuna" stop="20250819235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250819000000 -0500" channel="Houston Astros vs. Detroit Tigers" stop="20250819235959 -0500">
     <title>05:40 PM 19/08/25 - Houston Astros vs. Detroit Tigers</title>
     <date>2025</date>
