@@ -3,6 +3,9 @@
   <channel id="Milwaukee Brewers vs. Chicago Cubs">
     <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
   </channel>
+  <channel id="Real Madrid vs Osasuna">
+    <display-name lang="en">Real Madrid vs Osasuna</display-name>
+  </channel>
   <channel id="Houston Astros vs. Detroit Tigers">
     <display-name lang="en">Houston Astros vs. Detroit Tigers</display-name>
   </channel>
@@ -69,9 +72,6 @@
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
   </channel>
-  <channel id="Real Madrid vs Osasuna">
-    <display-name lang="en">Real Madrid vs Osasuna</display-name>
-  </channel>
   <channel id="West Ham United vs. Chelsea">
     <display-name lang="en">West Ham United vs. Chelsea</display-name>
   </channel>
@@ -136,7 +136,15 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250819000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250819235959 -0500">
-    <title>01:20 PM 19/08/25 - Milwaukee Brewers vs. Chicago Cubs</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="Real Madrid vs Osasuna" stop="20250819235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -313,14 +321,6 @@
   </programme>
   <programme start="20250819000000 -0500" channel="GLORY 103" stop="20250819235959 -0500">
     <title>01:00 PM 23/08/25 - GLORY 103</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="Real Madrid vs Osasuna" stop="20250819235959 -0500">
-    <title>02:00 PM 19/08/25 - Real Madrid vs Osasuna</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
