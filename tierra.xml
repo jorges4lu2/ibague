@@ -15,6 +15,9 @@
   <channel id="Seattle Mariners vs. Philadelphia Phillies">
     <display-name lang="en">Seattle Mariners vs. Philadelphia Phillies</display-name>
   </channel>
+  <channel id="Lynx at Liberty">
+    <display-name lang="en">Lynx at Liberty</display-name>
+  </channel>
   <channel id="Baltimore Orioles vs. Boston Red Sox">
     <display-name lang="en">Baltimore Orioles vs. Boston Red Sox</display-name>
   </channel>
@@ -44,9 +47,6 @@
   </channel>
   <channel id="San Francisco Giants vs. San Diego Padres">
     <display-name lang="en">San Francisco Giants vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="Lynx at Liberty">
-    <display-name lang="en">Lynx at Liberty</display-name>
   </channel>
   <channel id="Sun at Mystics">
     <display-name lang="en">Sun at Mystics</display-name>
@@ -130,7 +130,7 @@
     <display-name lang="en">Comedy Central</display-name>
   </channel>
   <programme start="20250819000000 -0500" channel="Houston Astros vs. Detroit Tigers" stop="20250819235959 -0500">
-    <title>05:40 PM 19/08/25 - Houston Astros vs. Detroit Tigers</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -138,7 +138,7 @@
     </audio>
   </programme>
   <programme start="20250819000000 -0500" channel="St. Louis Cardinals vs. Miami Marlins" stop="20250819235959 -0500">
-    <title>05:40 PM 19/08/25 - St. Louis Cardinals vs. Miami Marlins</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -146,7 +146,7 @@
     </audio>
   </programme>
   <programme start="20250819000000 -0500" channel="Toronto Blue Jays vs. Pittsburgh Pirates" stop="20250819235959 -0500">
-    <title>05:40 PM 19/08/25 - Toronto Blue Jays vs. Pittsburgh Pirates</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -154,7 +154,7 @@
     </audio>
   </programme>
   <programme start="20250819000000 -0500" channel="New York Mets vs. Washington Nationals" stop="20250819235959 -0500">
-    <title>05:45 PM 19/08/25 - New York Mets vs. Washington Nationals</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -162,7 +162,15 @@
     </audio>
   </programme>
   <programme start="20250819000000 -0500" channel="Seattle Mariners vs. Philadelphia Phillies" stop="20250819235959 -0500">
-    <title>05:45 PM 19/08/25 - Seattle Mariners vs. Philadelphia Phillies</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="Lynx at Liberty" stop="20250819235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -243,14 +251,6 @@
   </programme>
   <programme start="20250819000000 -0500" channel="San Francisco Giants vs. San Diego Padres" stop="20250819235959 -0500">
     <title>08:40 PM 19/08/25 - San Francisco Giants vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="Lynx at Liberty" stop="20250819235959 -0500">
-    <title>06:00 PM 19/08/25 - Lynx at Liberty</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
