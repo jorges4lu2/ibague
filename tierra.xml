@@ -30,6 +30,12 @@
   <channel id="Texas Rangers vs. Kansas City Royals">
     <display-name lang="en">Texas Rangers vs. Kansas City Royals</display-name>
   </channel>
+  <channel id="Milwaukee Brewers vs. Chicago Cubs">
+    <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. Colorado Rockies">
+    <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Lynx at Liberty">
     <display-name lang="en">Lynx at Liberty</display-name>
   </channel>
@@ -44,12 +50,6 @@
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Chicago Cubs">
-    <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Colorado Rockies">
-    <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Los Angeles Angels">
     <display-name lang="en">Cincinnati Reds vs. Los Angeles Angels</display-name>
@@ -68,6 +68,18 @@
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
+  </channel>
+  <channel id="Tigres UANL vs. Inter Miami CF">
+    <display-name lang="en">Tigres UANL vs. Inter Miami CF</display-name>
+  </channel>
+  <channel id="Orlando City SC vs. Toluca">
+    <display-name lang="en">Orlando City SC vs. Toluca</display-name>
+  </channel>
+  <channel id="Puebla vs. Seattle Sounders FC">
+    <display-name lang="en">Puebla vs. Seattle Sounders FC</display-name>
+  </channel>
+  <channel id="Pachuca vs. LA Galaxy">
+    <display-name lang="en">Pachuca vs. LA Galaxy</display-name>
   </channel>
   <channel id="West Ham United vs. Chelsea">
     <display-name lang="en">West Ham United vs. Chelsea</display-name>
@@ -209,6 +221,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250819000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250819235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="Los Angeles Dodgers vs. Colorado Rockies" stop="20250819235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250819000000 -0500" channel="Lynx at Liberty" stop="20250819235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -243,22 +271,6 @@
   </programme>
   <programme start="20250819000000 -0500" channel="WWE: NXT" stop="20250819235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250819235959 -0500">
-    <title>07:05 PM 19/08/25 - Milwaukee Brewers vs. Chicago Cubs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="Los Angeles Dodgers vs. Colorado Rockies" stop="20250819235959 -0500">
-    <title>07:40 PM 19/08/25 - Los Angeles Dodgers vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -307,6 +319,38 @@
   </programme>
   <programme start="20250819000000 -0500" channel="GLORY 103" stop="20250819235959 -0500">
     <title>01:00 PM 23/08/25 - GLORY 103</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="Tigres UANL vs. Inter Miami CF" stop="20250819235959 -0500">
+    <title>07:00 PM 20/08/25 - Tigres UANL vs. Inter Miami CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="Orlando City SC vs. Toluca" stop="20250819235959 -0500">
+    <title>08:00 PM 20/08/25 - Orlando City SC vs. Toluca</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="Puebla vs. Seattle Sounders FC" stop="20250819235959 -0500">
+    <title>10:00 PM 20/08/25 - Puebla vs. Seattle Sounders FC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="Pachuca vs. LA Galaxy" stop="20250819235959 -0500">
+    <title>10:45 PM 20/08/25 - Pachuca vs. LA Galaxy</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
