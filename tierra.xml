@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250820 -0500">
-  <channel id="Cleveland Guardians vs. Arizona Diamondbacks">
-    <display-name lang="en">Cleveland Guardians vs. Arizona Diamondbacks</display-name>
-  </channel>
   <channel id="St. Louis Cardinals vs. Miami Marlins">
     <display-name lang="en">St. Louis Cardinals vs. Miami Marlins</display-name>
   </channel>
@@ -111,7 +108,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250820000000 -0500" channel="Cleveland Guardians vs. Arizona Diamondbacks" stop="20250820235959 -0500">
+  <programme start="20250820000000 -0500" channel="St. Louis Cardinals vs. Miami Marlins" stop="20250820235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -119,16 +116,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250820000000 -0500" channel="St. Louis Cardinals vs. Miami Marlins" stop="20250820235959 -0500">
-    <title>05:40 PM 20/08/25 - St. Louis Cardinals vs. Miami Marlins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250820000000 -0500" channel="New York Mets vs. Washington Nationals" stop="20250820235959 -0500">
-    <title>05:45 PM 20/08/25 - New York Mets vs. Washington Nationals</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
