@@ -15,9 +15,6 @@
   <channel id="Seattle Mariners vs. Philadelphia Phillies">
     <display-name lang="en">Seattle Mariners vs. Philadelphia Phillies</display-name>
   </channel>
-  <channel id="Lynx at Liberty">
-    <display-name lang="en">Lynx at Liberty</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. Boston Red Sox">
     <display-name lang="en">Baltimore Orioles vs. Boston Red Sox</display-name>
   </channel>
@@ -32,6 +29,21 @@
   </channel>
   <channel id="Texas Rangers vs. Kansas City Royals">
     <display-name lang="en">Texas Rangers vs. Kansas City Royals</display-name>
+  </channel>
+  <channel id="Lynx at Liberty">
+    <display-name lang="en">Lynx at Liberty</display-name>
+  </channel>
+  <channel id="Sun at Mystics">
+    <display-name lang="en">Sun at Mystics</display-name>
+  </channel>
+  <channel id="Storm at Sky">
+    <display-name lang="en">Storm at Sky</display-name>
+  </channel>
+  <channel id="Dana White's Contender Series">
+    <display-name lang="en">Dana White's Contender Series</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Chicago Cubs">
     <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
@@ -48,20 +60,11 @@
   <channel id="San Francisco Giants vs. San Diego Padres">
     <display-name lang="en">San Francisco Giants vs. San Diego Padres</display-name>
   </channel>
-  <channel id="Sun at Mystics">
-    <display-name lang="en">Sun at Mystics</display-name>
-  </channel>
-  <channel id="Storm at Sky">
-    <display-name lang="en">Storm at Sky</display-name>
-  </channel>
   <channel id="Dream at Aces">
     <display-name lang="en">Dream at Aces</display-name>
   </channel>
   <channel id="Mercury at Valkyries">
     <display-name lang="en">Mercury at Valkyries</display-name>
-  </channel>
-  <channel id="Dana White's Contender Series">
-    <display-name lang="en">Dana White's Contender Series</display-name>
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
@@ -95,9 +98,6 @@
   </channel>
   <channel id="Newcastle United vs. Liverpool">
     <display-name lang="en">Newcastle United vs. Liverpool</display-name>
-  </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -169,6 +169,46 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250819000000 -0500" channel="Baltimore Orioles vs. Boston Red Sox" stop="20250819235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="Chicago White Sox vs. Atlanta Braves" stop="20250819235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="New York Yankees vs. Tampa Bay Rays" stop="20250819235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="Athletics vs. Minnesota Twins" stop="20250819235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250819000000 -0500" channel="Texas Rangers vs. Kansas City Royals" stop="20250819235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250819000000 -0500" channel="Lynx at Liberty" stop="20250819235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -177,40 +217,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250819000000 -0500" channel="Baltimore Orioles vs. Boston Red Sox" stop="20250819235959 -0500">
-    <title>06:10 PM 19/08/25 - Baltimore Orioles vs. Boston Red Sox</title>
+  <programme start="20250819000000 -0500" channel="Sun at Mystics" stop="20250819235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250819000000 -0500" channel="Chicago White Sox vs. Atlanta Braves" stop="20250819235959 -0500">
-    <title>06:15 PM 19/08/25 - Chicago White Sox vs. Atlanta Braves</title>
+  <programme start="20250819000000 -0500" channel="Storm at Sky" stop="20250819235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250819000000 -0500" channel="New York Yankees vs. Tampa Bay Rays" stop="20250819235959 -0500">
-    <title>06:35 PM 19/08/25 - New York Yankees vs. Tampa Bay Rays</title>
+  <programme start="20250819000000 -0500" channel="Dana White's Contender Series" stop="20250819235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250819000000 -0500" channel="Athletics vs. Minnesota Twins" stop="20250819235959 -0500">
-    <title>06:40 PM 19/08/25 - Athletics vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="Texas Rangers vs. Kansas City Royals" stop="20250819235959 -0500">
-    <title>06:40 PM 19/08/25 - Texas Rangers vs. Kansas City Royals</title>
+  <programme start="20250819000000 -0500" channel="WWE: NXT" stop="20250819235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -257,22 +289,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250819000000 -0500" channel="Sun at Mystics" stop="20250819235959 -0500">
-    <title>06:30 PM 19/08/25 - Sun at Mystics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="Storm at Sky" stop="20250819235959 -0500">
-    <title>07:00 PM 19/08/25 - Storm at Sky</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250819000000 -0500" channel="Dream at Aces" stop="20250819235959 -0500">
     <title>09:00 PM 19/08/25 - Dream at Aces</title>
     <date>2025</date>
@@ -283,14 +299,6 @@
   </programme>
   <programme start="20250819000000 -0500" channel="Mercury at Valkyries" stop="20250819235959 -0500">
     <title>09:00 PM 19/08/25 - Mercury at Valkyries</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="Dana White's Contender Series" stop="20250819235959 -0500">
-    <title>07:00 PM 19/08/25 - Dana White's Contender Series</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -379,14 +387,6 @@
   </programme>
   <programme start="20250819000000 -0500" channel="Newcastle United vs. Liverpool" stop="20250819235959 -0500">
     <title>02:00 PM 25/08/25 - Newcastle United vs. Liverpool</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="WWE: NXT" stop="20250819235959 -0500">
-    <title>07:00 PM 19/08/25 - WWE: NXT</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
