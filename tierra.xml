@@ -42,6 +42,9 @@
   <channel id="San Francisco Giants vs. San Diego Padres">
     <display-name lang="en">San Francisco Giants vs. San Diego Padres</display-name>
   </channel>
+  <channel id="Wings at Sparks">
+    <display-name lang="en">Wings at Sparks</display-name>
+  </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
   </channel>
@@ -223,6 +226,14 @@
   </programme>
   <programme start="20250820000000 -0500" channel="San Francisco Giants vs. San Diego Padres" stop="20250820235959 -0500">
     <title>08:40 PM 20/08/25 - San Francisco Giants vs. San Diego Padres</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250820000000 -0500" channel="Wings at Sparks" stop="20250820235959 -0500">
+    <title>09:00 PM 20/08/25 - Wings at Sparks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
