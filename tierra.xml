@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250820 -0500">
-  <channel id="Seattle Mariners vs. Philadelphia Phillies">
-    <display-name lang="en">Seattle Mariners vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Detroit Tigers">
-    <display-name lang="en">Houston Astros vs. Detroit Tigers</display-name>
-  </channel>
   <channel id="Cleveland Guardians vs. Arizona Diamondbacks">
     <display-name lang="en">Cleveland Guardians vs. Arizona Diamondbacks</display-name>
   </channel>
@@ -117,22 +111,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250820000000 -0500" channel="Seattle Mariners vs. Philadelphia Phillies" stop="20250820235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250820000000 -0500" channel="Houston Astros vs. Detroit Tigers" stop="20250820235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250820000000 -0500" channel="Cleveland Guardians vs. Arizona Diamondbacks" stop="20250820235959 -0500">
     <title>Live</title>
     <date>2025</date>
