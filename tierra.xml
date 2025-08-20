@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250819 -0500">
-  <channel id="Milwaukee Brewers vs. Chicago Cubs">
-    <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Colorado Rockies">
-    <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="Cincinnati Reds vs. Los Angeles Angels">
     <display-name lang="en">Cincinnati Reds vs. Los Angeles Angels</display-name>
   </channel>
@@ -20,9 +14,6 @@
   </channel>
   <channel id="Mercury at Valkyries">
     <display-name lang="en">Mercury at Valkyries</display-name>
-  </channel>
-  <channel id="Dana White's Contender Series">
-    <display-name lang="en">Dana White's Contender Series</display-name>
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
@@ -99,22 +90,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250819000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250819235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="Los Angeles Dodgers vs. Colorado Rockies" stop="20250819235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250819000000 -0500" channel="Cincinnati Reds vs. Los Angeles Angels" stop="20250819235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -148,14 +123,6 @@
     </audio>
   </programme>
   <programme start="20250819000000 -0500" channel="Mercury at Valkyries" stop="20250819235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250819000000 -0500" channel="Dana White's Contender Series" stop="20250819235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
