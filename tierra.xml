@@ -3,17 +3,17 @@
   <channel id="Athletics vs. Minnesota Twins">
     <display-name lang="en">Athletics vs. Minnesota Twins</display-name>
   </channel>
-  <channel id="Pittsburgh Steelers vs. Carolina Panthers">
-    <display-name lang="en">Pittsburgh Steelers vs. Carolina Panthers</display-name>
-  </channel>
-  <channel id="New England Patriots vs. New York Giants">
-    <display-name lang="en">New England Patriots vs. New York Giants</display-name>
-  </channel>
   <channel id="Texas Rangers vs. Kansas City Royals">
     <display-name lang="en">Texas Rangers vs. Kansas City Royals</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Chicago Cubs">
     <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Pittsburgh Steelers vs. Carolina Panthers">
+    <display-name lang="en">Pittsburgh Steelers vs. Carolina Panthers</display-name>
+  </channel>
+  <channel id="New England Patriots vs. New York Giants">
+    <display-name lang="en">New England Patriots vs. New York Giants</display-name>
   </channel>
   <channel id="Los Angeles Dodgers vs. Colorado Rockies">
     <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
@@ -116,6 +116,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250821000000 -0500" channel="Texas Rangers vs. Kansas City Royals" stop="20250821235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250821000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250821235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250821000000 -0500" channel="Pittsburgh Steelers vs. Carolina Panthers" stop="20250821235959 -0500">
     <title>06:00 PM 21/08/25 - Pittsburgh Steelers vs. Carolina Panthers</title>
     <date>2025</date>
@@ -126,22 +142,6 @@
   </programme>
   <programme start="20250821000000 -0500" channel="New England Patriots vs. New York Giants" stop="20250821235959 -0500">
     <title>07:00 PM 21/08/25 - New England Patriots vs. New York Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250821000000 -0500" channel="Texas Rangers vs. Kansas City Royals" stop="20250821235959 -0500">
-    <title>01:10 PM 21/08/25 - Texas Rangers vs. Kansas City Royals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250821000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250821235959 -0500">
-    <title>01:20 PM 21/08/25 - Milwaukee Brewers vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
