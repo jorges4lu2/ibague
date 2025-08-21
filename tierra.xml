@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250820 -0500">
-  <channel id="Milwaukee Brewers vs. Chicago Cubs">
-    <display-name lang="en">Milwaukee Brewers vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Colorado Rockies">
-    <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="Cincinnati Reds vs. Los Angeles Angels">
     <display-name lang="en">Cincinnati Reds vs. Los Angeles Angels</display-name>
   </channel>
@@ -15,11 +9,11 @@
   <channel id="Wings at Sparks">
     <display-name lang="en">Wings at Sparks</display-name>
   </channel>
-  <channel id="Orlando City SC vs. Toluca">
-    <display-name lang="en">Orlando City SC vs. Toluca</display-name>
-  </channel>
   <channel id="Puebla vs. Seattle Sounders FC">
     <display-name lang="en">Puebla vs. Seattle Sounders FC</display-name>
+  </channel>
+  <channel id="Pachuca vs. LA Galaxy">
+    <display-name lang="en">Pachuca vs. LA Galaxy</display-name>
   </channel>
   <channel id="Pittsburgh Steelers vs. Carolina Panthers">
     <display-name lang="en">Pittsburgh Steelers vs. Carolina Panthers</display-name>
@@ -29,9 +23,6 @@
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
-  </channel>
-  <channel id="Pachuca vs. LA Galaxy">
-    <display-name lang="en">Pachuca vs. LA Galaxy</display-name>
   </channel>
   <channel id="West Ham United vs. Chelsea">
     <display-name lang="en">West Ham United vs. Chelsea</display-name>
@@ -90,22 +81,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250820000000 -0500" channel="Milwaukee Brewers vs. Chicago Cubs" stop="20250820235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250820000000 -0500" channel="Los Angeles Dodgers vs. Colorado Rockies" stop="20250820235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250820000000 -0500" channel="Cincinnati Reds vs. Los Angeles Angels" stop="20250820235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -130,7 +105,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250820000000 -0500" channel="Orlando City SC vs. Toluca" stop="20250820235959 -0500">
+  <programme start="20250820000000 -0500" channel="Puebla vs. Seattle Sounders FC" stop="20250820235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -138,7 +113,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250820000000 -0500" channel="Puebla vs. Seattle Sounders FC" stop="20250820235959 -0500">
+  <programme start="20250820000000 -0500" channel="Pachuca vs. LA Galaxy" stop="20250820235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -164,14 +139,6 @@
   </programme>
   <programme start="20250820000000 -0500" channel="GLORY 103" stop="20250820235959 -0500">
     <title>01:00 PM 23/08/25 - GLORY 103</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250820000000 -0500" channel="Pachuca vs. LA Galaxy" stop="20250820235959 -0500">
-    <title>10:45 PM 20/08/25 - Pachuca vs. LA Galaxy</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
