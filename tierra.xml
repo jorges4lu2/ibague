@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250821 -0500">
+  <channel id="Athletics vs. Minnesota Twins">
+    <display-name lang="en">Athletics vs. Minnesota Twins</display-name>
+  </channel>
   <channel id="Pittsburgh Steelers vs. Carolina Panthers">
     <display-name lang="en">Pittsburgh Steelers vs. Carolina Panthers</display-name>
   </channel>
   <channel id="New England Patriots vs. New York Giants">
     <display-name lang="en">New England Patriots vs. New York Giants</display-name>
-  </channel>
-  <channel id="Athletics vs. Minnesota Twins">
-    <display-name lang="en">Athletics vs. Minnesota Twins</display-name>
   </channel>
   <channel id="Texas Rangers vs. Kansas City Royals">
     <display-name lang="en">Texas Rangers vs. Kansas City Royals</display-name>
@@ -108,6 +108,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250821000000 -0500" channel="Athletics vs. Minnesota Twins" stop="20250821235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250821000000 -0500" channel="Pittsburgh Steelers vs. Carolina Panthers" stop="20250821235959 -0500">
     <title>06:00 PM 21/08/25 - Pittsburgh Steelers vs. Carolina Panthers</title>
     <date>2025</date>
@@ -118,14 +126,6 @@
   </programme>
   <programme start="20250821000000 -0500" channel="New England Patriots vs. New York Giants" stop="20250821235959 -0500">
     <title>07:00 PM 21/08/25 - New England Patriots vs. New York Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250821000000 -0500" channel="Athletics vs. Minnesota Twins" stop="20250821235959 -0500">
-    <title>12:10 PM 21/08/25 - Athletics vs. Minnesota Twins</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
