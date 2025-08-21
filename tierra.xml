@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250821 -0500">
-  <channel id="Los Angeles Dodgers vs. Colorado Rockies">
-    <display-name lang="en">Los Angeles Dodgers vs. Colorado Rockies</display-name>
+  <channel id="Pittsburgh Steelers vs. Carolina Panthers">
+    <display-name lang="en">Pittsburgh Steelers vs. Carolina Panthers</display-name>
   </channel>
   <channel id="New York Mets vs. Washington Nationals">
     <display-name lang="en">New York Mets vs. Washington Nationals</display-name>
@@ -9,8 +9,14 @@
   <channel id="San Francisco Giants vs. San Diego Padres">
     <display-name lang="en">San Francisco Giants vs. San Diego Padres</display-name>
   </channel>
-  <channel id="Pittsburgh Steelers vs. Carolina Panthers">
-    <display-name lang="en">Pittsburgh Steelers vs. Carolina Panthers</display-name>
+  <channel id="Mystics at Sun">
+    <display-name lang="en">Mystics at Sun</display-name>
+  </channel>
+  <channel id="Sky at Liberty">
+    <display-name lang="en">Sky at Liberty</display-name>
+  </channel>
+  <channel id="PFL World Tournament Finals | Hollywood, FL">
+    <display-name lang="en">PFL World Tournament Finals | Hollywood, FL</display-name>
   </channel>
   <channel id="New England Patriots vs. New York Giants">
     <display-name lang="en">New England Patriots vs. New York Giants</display-name>
@@ -23,12 +29,6 @@
   </channel>
   <channel id="St. Louis Cardinals vs. Tampa Bay Rays">
     <display-name lang="en">St. Louis Cardinals vs. Tampa Bay Rays</display-name>
-  </channel>
-  <channel id="Mystics at Sun">
-    <display-name lang="en">Mystics at Sun</display-name>
-  </channel>
-  <channel id="Sky at Liberty">
-    <display-name lang="en">Sky at Liberty</display-name>
   </channel>
   <channel id="Lynx at Dream">
     <display-name lang="en">Lynx at Dream</display-name>
@@ -99,7 +99,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250821000000 -0500" channel="Los Angeles Dodgers vs. Colorado Rockies" stop="20250821235959 -0500">
+  <programme start="20250821000000 -0500" channel="Pittsburgh Steelers vs. Carolina Panthers" stop="20250821235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -123,8 +123,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250821000000 -0500" channel="Pittsburgh Steelers vs. Carolina Panthers" stop="20250821235959 -0500">
-    <title>06:00 PM 21/08/25 - Pittsburgh Steelers vs. Carolina Panthers</title>
+  <programme start="20250821000000 -0500" channel="Mystics at Sun" stop="20250821235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250821000000 -0500" channel="Sky at Liberty" stop="20250821235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250821000000 -0500" channel="PFL World Tournament Finals | Hollywood, FL" stop="20250821235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -157,22 +173,6 @@
   </programme>
   <programme start="20250821000000 -0500" channel="St. Louis Cardinals vs. Tampa Bay Rays" stop="20250821235959 -0500">
     <title>06:35 PM 21/08/25 - St. Louis Cardinals vs. Tampa Bay Rays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250821000000 -0500" channel="Mystics at Sun" stop="20250821235959 -0500">
-    <title>06:00 PM 21/08/25 - Mystics at Sun</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250821000000 -0500" channel="Sky at Liberty" stop="20250821235959 -0500">
-    <title>06:00 PM 21/08/25 - Sky at Liberty</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
