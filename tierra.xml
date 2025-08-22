@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250822 -0500">
-  <channel id="PDC: China ProTour 7-8">
-    <display-name lang="en">PDC: China ProTour 7-8</display-name>
+  <channel id="ROAD TO UFC S4: EPISODE 6 | SEMIFINALS">
+    <display-name lang="en">ROAD TO UFC S4: EPISODE 6 | SEMIFINALS</display-name>
   </channel>
   <channel id="Colorado Rockies vs. Pittsburgh Pirates">
     <display-name lang="en">Colorado Rockies vs. Pittsburgh Pirates</display-name>
@@ -50,6 +50,12 @@
   </channel>
   <channel id="Lynx at Fever">
     <display-name lang="en">Lynx at Fever</display-name>
+  </channel>
+  <channel id="Storm at Wings">
+    <display-name lang="en">Storm at Wings</display-name>
+  </channel>
+  <channel id="Valkyries at Mercury">
+    <display-name lang="en">Valkyries at Mercury</display-name>
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
@@ -153,7 +159,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250822000000 -0500" channel="PDC: China ProTour 7-8" stop="20250822235959 -0500">
+  <programme start="20250822000000 -0500" channel="ROAD TO UFC S4: EPISODE 6 | SEMIFINALS" stop="20250822235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -283,6 +289,22 @@
   </programme>
   <programme start="20250822000000 -0500" channel="Lynx at Fever" stop="20250822235959 -0500">
     <title>06:30 PM 22/08/25 - Lynx at Fever</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250822000000 -0500" channel="Storm at Wings" stop="20250822235959 -0500">
+    <title>06:30 PM 22/08/25 - Storm at Wings</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250822000000 -0500" channel="Valkyries at Mercury" stop="20250822235959 -0500">
+    <title>09:00 PM 22/08/25 - Valkyries at Mercury</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
