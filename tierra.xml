@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250822 -0500">
-  <channel id="West Ham United vs. Chelsea">
-    <display-name lang="en">West Ham United vs. Chelsea</display-name>
-  </channel>
   <channel id="Colorado Rockies vs. Pittsburgh Pirates">
     <display-name lang="en">Colorado Rockies vs. Pittsburgh Pirates</display-name>
   </channel>
@@ -108,6 +105,9 @@
   <channel id="Manchester City vs. Tottenham Hotspur">
     <display-name lang="en">Manchester City vs. Tottenham Hotspur</display-name>
   </channel>
+  <channel id="EPL: Goal Rush">
+    <display-name lang="en">EPL: Goal Rush</display-name>
+  </channel>
   <channel id="Bournemouth vs. Wolverhampton Wanderers">
     <display-name lang="en">Bournemouth vs. Wolverhampton Wanderers</display-name>
   </channel>
@@ -120,6 +120,9 @@
   <channel id="Arsenal vs. Leeds United">
     <display-name lang="en">Arsenal vs. Leeds United</display-name>
   </channel>
+  <channel id="Levante vs Barcelona">
+    <display-name lang="en">Levante vs Barcelona</display-name>
+  </channel>
   <channel id="Crystal Palace vs. Nottingham Forest">
     <display-name lang="en">Crystal Palace vs. Nottingham Forest</display-name>
   </channel>
@@ -131,6 +134,12 @@
   </channel>
   <channel id="Newcastle United vs. Liverpool">
     <display-name lang="en">Newcastle United vs. Liverpool</display-name>
+  </channel>
+  <channel id="Pro Motocross: Budds Creek (Qualifying)">
+    <display-name lang="en">Pro Motocross: Budds Creek (Qualifying)</display-name>
+  </channel>
+  <channel id="Pro Motocross: Budds Creek">
+    <display-name lang="en">Pro Motocross: Budds Creek</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -159,14 +168,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250822000000 -0500" channel="West Ham United vs. Chelsea" stop="20250822235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250822000000 -0500" channel="Colorado Rockies vs. Pittsburgh Pirates" stop="20250822235959 -0500">
     <title>05:40 PM 22/08/25 - Colorado Rockies vs. Pittsburgh Pirates</title>
     <date>2025</date>
@@ -447,6 +448,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250822000000 -0500" channel="EPL: Goal Rush" stop="20250822235959 -0500">
+    <title>09:00 AM 23/08/25 - EPL: Goal Rush</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250822000000 -0500" channel="Bournemouth vs. Wolverhampton Wanderers" stop="20250822235959 -0500">
     <title>09:00 AM 23/08/25 - Bournemouth vs. Wolverhampton Wanderers</title>
     <date>2025</date>
@@ -479,6 +488,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250822000000 -0500" channel="Levante vs Barcelona" stop="20250822235959 -0500">
+    <title>02:30 PM 23/08/25 - Levante vs Barcelona</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250822000000 -0500" channel="Crystal Palace vs. Nottingham Forest" stop="20250822235959 -0500">
     <title>08:00 AM 24/08/25 - Crystal Palace vs. Nottingham Forest</title>
     <date>2025</date>
@@ -505,6 +522,22 @@
   </programme>
   <programme start="20250822000000 -0500" channel="Newcastle United vs. Liverpool" stop="20250822235959 -0500">
     <title>02:00 PM 25/08/25 - Newcastle United vs. Liverpool</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250822000000 -0500" channel="Pro Motocross: Budds Creek (Qualifying)" stop="20250822235959 -0500">
+    <title>09:00 AM 23/08/25 - Pro Motocross: Budds Creek (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250822000000 -0500" channel="Pro Motocross: Budds Creek" stop="20250822235959 -0500">
+    <title>12:00 PM 23/08/25 - Pro Motocross: Budds Creek</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
