@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250822 -0500">
+  <channel id="West Ham United vs. Chelsea">
+    <display-name lang="en">West Ham United vs. Chelsea</display-name>
+  </channel>
   <channel id="Colorado Rockies vs. Pittsburgh Pirates">
     <display-name lang="en">Colorado Rockies vs. Pittsburgh Pirates</display-name>
   </channel>
@@ -102,9 +105,6 @@
   <channel id="PDC: Cosmo Darts Championship - Board 5">
     <display-name lang="en">PDC: Cosmo Darts Championship - Board 5</display-name>
   </channel>
-  <channel id="West Ham United vs. Chelsea">
-    <display-name lang="en">West Ham United vs. Chelsea</display-name>
-  </channel>
   <channel id="Manchester City vs. Tottenham Hotspur">
     <display-name lang="en">Manchester City vs. Tottenham Hotspur</display-name>
   </channel>
@@ -159,6 +159,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250822000000 -0500" channel="West Ham United vs. Chelsea" stop="20250822235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250822000000 -0500" channel="Colorado Rockies vs. Pittsburgh Pirates" stop="20250822235959 -0500">
     <title>05:40 PM 22/08/25 - Colorado Rockies vs. Pittsburgh Pirates</title>
     <date>2025</date>
@@ -425,14 +433,6 @@
   </programme>
   <programme start="20250822000000 -0500" channel="PDC: Cosmo Darts Championship - Board 5" stop="20250822235959 -0500">
     <title>12:00 PM 23/08/25 - PDC: Cosmo Darts Championship - Board 5</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250822000000 -0500" channel="West Ham United vs. Chelsea" stop="20250822235959 -0500">
-    <title>02:00 PM 22/08/25 - West Ham United vs. Chelsea</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
