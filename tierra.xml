@@ -9,6 +9,9 @@
   <channel id="PDC: Women's Series 17-18">
     <display-name lang="en">PDC: Women's Series 17-18</display-name>
   </channel>
+  <channel id="Manchester City vs. Tottenham Hotspur">
+    <display-name lang="en">Manchester City vs. Tottenham Hotspur</display-name>
+  </channel>
   <channel id="Baltimore Ravens vs. Washington Commanders">
     <display-name lang="en">Baltimore Ravens vs. Washington Commanders</display-name>
   </channel>
@@ -195,9 +198,6 @@
   <channel id="PDC: Boomerang Tours Fiesta - Board 4">
     <display-name lang="en">PDC: Boomerang Tours Fiesta - Board 4</display-name>
   </channel>
-  <channel id="Manchester City vs. Tottenham Hotspur">
-    <display-name lang="en">Manchester City vs. Tottenham Hotspur</display-name>
-  </channel>
   <channel id="EPL: Goal Rush">
     <display-name lang="en">EPL: Goal Rush</display-name>
   </channel>
@@ -275,6 +275,14 @@
     </audio>
   </programme>
   <programme start="20250823000000 -0500" channel="PDC: Women's Series 17-18" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Manchester City vs. Tottenham Hotspur" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -772,14 +780,6 @@
   </programme>
   <programme start="20250823000000 -0500" channel="PDC: Boomerang Tours Fiesta - Board 4" stop="20250823235959 -0500">
     <title>11:00 AM 24/08/25 - PDC: Boomerang Tours Fiesta - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Manchester City vs. Tottenham Hotspur" stop="20250823235959 -0500">
-    <title>06:30 AM 23/08/25 - Manchester City vs. Tottenham Hotspur</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
