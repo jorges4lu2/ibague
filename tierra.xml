@@ -1,43 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250823 -0500">
-  <channel id="Seattle Seahawks vs. Green Bay Packers">
-    <display-name lang="en">Seattle Seahawks vs. Green Bay Packers</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Miami Marlins">
-    <display-name lang="en">Toronto Blue Jays vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="Sun at Sky">
-    <display-name lang="en">Sun at Sky</display-name>
-  </channel>
-  <channel id="PDC: Cosmo Darts Championship - Board 4">
-    <display-name lang="en">PDC: Cosmo Darts Championship - Board 4</display-name>
-  </channel>
-  <channel id="PDC: Cosmo Darts Championship 2025">
-    <display-name lang="en">PDC: Cosmo Darts Championship 2025</display-name>
-  </channel>
-  <channel id="PDC: Cosmo Darts Championship - Board 2">
-    <display-name lang="en">PDC: Cosmo Darts Championship - Board 2</display-name>
-  </channel>
-  <channel id="PDC: Cosmo Darts Championship - Board 3">
-    <display-name lang="en">PDC: Cosmo Darts Championship - Board 3</display-name>
-  </channel>
-  <channel id="PDC: Cosmo Darts Championship - Board 5">
-    <display-name lang="en">PDC: Cosmo Darts Championship - Board 5</display-name>
-  </channel>
-  <channel id="Levante vs Barcelona">
-    <display-name lang="en">Levante vs Barcelona</display-name>
-  </channel>
   <channel id="Jacksonville Jaguars vs. Miami Dolphins">
     <display-name lang="en">Jacksonville Jaguars vs. Miami Dolphins</display-name>
   </channel>
-  <channel id="Buffalo Bills vs. Tampa Bay Buccaneers">
-    <display-name lang="en">Buffalo Bills vs. Tampa Bay Buccaneers</display-name>
-  </channel>
-  <channel id="Los Angeles Chargers vs. San Francisco 49ers">
-    <display-name lang="en">Los Angeles Chargers vs. San Francisco 49ers</display-name>
-  </channel>
-  <channel id="Las Vegas Raiders vs. Arizona Cardinals">
-    <display-name lang="en">Las Vegas Raiders vs. Arizona Cardinals</display-name>
+  <channel id="Toronto Blue Jays vs. Miami Marlins">
+    <display-name lang="en">Toronto Blue Jays vs. Miami Marlins</display-name>
   </channel>
   <channel id="Washington Nationals vs. Philadelphia Phillies">
     <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
@@ -47,6 +14,30 @@
   </channel>
   <channel id="Colorado Rockies vs. Pittsburgh Pirates">
     <display-name lang="en">Colorado Rockies vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="PDC: CDC Showdown - Board 2">
+    <display-name lang="en">PDC: CDC Showdown - Board 2</display-name>
+  </channel>
+  <channel id="PDC: CDC Showdown - Board 4">
+    <display-name lang="en">PDC: CDC Showdown - Board 4</display-name>
+  </channel>
+  <channel id="PDC: CDC Showdown 2025">
+    <display-name lang="en">PDC: CDC Showdown 2025</display-name>
+  </channel>
+  <channel id="PDC: CDC Showdown - Board 3">
+    <display-name lang="en">PDC: CDC Showdown - Board 3</display-name>
+  </channel>
+  <channel id="PDC: CDC Showdown - Board 5">
+    <display-name lang="en">PDC: CDC Showdown - Board 5</display-name>
+  </channel>
+  <channel id="Buffalo Bills vs. Tampa Bay Buccaneers">
+    <display-name lang="en">Buffalo Bills vs. Tampa Bay Buccaneers</display-name>
+  </channel>
+  <channel id="Los Angeles Chargers vs. San Francisco 49ers">
+    <display-name lang="en">Los Angeles Chargers vs. San Francisco 49ers</display-name>
+  </channel>
+  <channel id="Las Vegas Raiders vs. Arizona Cardinals">
+    <display-name lang="en">Las Vegas Raiders vs. Arizona Cardinals</display-name>
   </channel>
   <channel id="Houston Astros vs. Baltimore Orioles">
     <display-name lang="en">Houston Astros vs. Baltimore Orioles</display-name>
@@ -74,21 +65,6 @@
   </channel>
   <channel id="Athletics vs. Seattle Mariners">
     <display-name lang="en">Athletics vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="PDC: CDC Showdown - Board 2">
-    <display-name lang="en">PDC: CDC Showdown - Board 2</display-name>
-  </channel>
-  <channel id="PDC: CDC Showdown - Board 4">
-    <display-name lang="en">PDC: CDC Showdown - Board 4</display-name>
-  </channel>
-  <channel id="PDC: CDC Showdown 2025">
-    <display-name lang="en">PDC: CDC Showdown 2025</display-name>
-  </channel>
-  <channel id="PDC: CDC Showdown - Board 3">
-    <display-name lang="en">PDC: CDC Showdown - Board 3</display-name>
-  </channel>
-  <channel id="PDC: CDC Showdown - Board 5">
-    <display-name lang="en">PDC: CDC Showdown - Board 5</display-name>
   </channel>
   <channel id="PDC: China Championship">
     <display-name lang="en">PDC: China Championship</display-name>
@@ -147,7 +123,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250823000000 -0500" channel="Seattle Seahawks vs. Green Bay Packers" stop="20250823235959 -0500">
+  <programme start="20250823000000 -0500" channel="Jacksonville Jaguars vs. Miami Dolphins" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -163,7 +139,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="Sun at Sky" stop="20250823235959 -0500">
+  <programme start="20250823000000 -0500" channel="Washington Nationals vs. Philadelphia Phillies" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -171,7 +147,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="PDC: Cosmo Darts Championship - Board 4" stop="20250823235959 -0500">
+  <programme start="20250823000000 -0500" channel="Kansas City Royals vs. Detroit Tigers" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -179,7 +155,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="PDC: Cosmo Darts Championship 2025" stop="20250823235959 -0500">
+  <programme start="20250823000000 -0500" channel="Colorado Rockies vs. Pittsburgh Pirates" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -187,7 +163,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="PDC: Cosmo Darts Championship - Board 2" stop="20250823235959 -0500">
+  <programme start="20250823000000 -0500" channel="PDC: CDC Showdown - Board 2" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -195,7 +171,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="PDC: Cosmo Darts Championship - Board 3" stop="20250823235959 -0500">
+  <programme start="20250823000000 -0500" channel="PDC: CDC Showdown - Board 4" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -203,7 +179,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="PDC: Cosmo Darts Championship - Board 5" stop="20250823235959 -0500">
+  <programme start="20250823000000 -0500" channel="PDC: CDC Showdown 2025" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -211,7 +187,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="Levante vs Barcelona" stop="20250823235959 -0500">
+  <programme start="20250823000000 -0500" channel="PDC: CDC Showdown - Board 3" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -219,8 +195,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="Jacksonville Jaguars vs. Miami Dolphins" stop="20250823235959 -0500">
-    <title>06:00 PM 23/08/25 - Jacksonville Jaguars vs. Miami Dolphins</title>
+  <programme start="20250823000000 -0500" channel="PDC: CDC Showdown - Board 5" stop="20250823235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -245,30 +221,6 @@
   </programme>
   <programme start="20250823000000 -0500" channel="Las Vegas Raiders vs. Arizona Cardinals" stop="20250823235959 -0500">
     <title>09:00 PM 23/08/25 - Las Vegas Raiders vs. Arizona Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Washington Nationals vs. Philadelphia Phillies" stop="20250823235959 -0500">
-    <title>05:05 PM 23/08/25 - Washington Nationals vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Kansas City Royals vs. Detroit Tigers" stop="20250823235959 -0500">
-    <title>05:10 PM 23/08/25 - Kansas City Royals vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Colorado Rockies vs. Pittsburgh Pirates" stop="20250823235959 -0500">
-    <title>05:40 PM 23/08/25 - Colorado Rockies vs. Pittsburgh Pirates</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -341,46 +293,6 @@
   </programme>
   <programme start="20250823000000 -0500" channel="Athletics vs. Seattle Mariners" stop="20250823235959 -0500">
     <title>08:40 PM 23/08/25 - Athletics vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="PDC: CDC Showdown - Board 2" stop="20250823235959 -0500">
-    <title>06:00 PM 23/08/25 - PDC: CDC Showdown - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="PDC: CDC Showdown - Board 4" stop="20250823235959 -0500">
-    <title>06:00 PM 23/08/25 - PDC: CDC Showdown - Board 4</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="PDC: CDC Showdown 2025" stop="20250823235959 -0500">
-    <title>06:00 PM 23/08/25 - PDC: CDC Showdown 2025</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="PDC: CDC Showdown - Board 3" stop="20250823235959 -0500">
-    <title>06:00 PM 23/08/25 - PDC: CDC Showdown - Board 3</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="PDC: CDC Showdown - Board 5" stop="20250823235959 -0500">
-    <title>06:00 PM 23/08/25 - PDC: CDC Showdown - Board 5</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
