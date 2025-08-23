@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250822 -0500">
-  <channel id="Chicago Bears vs. Kansas City Chiefs">
-    <display-name lang="en">Chicago Bears vs. Kansas City Chiefs</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Texas Rangers">
-    <display-name lang="en">Cleveland Guardians vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Milwaukee Brewers">
-    <display-name lang="en">San Francisco Giants vs. Milwaukee Brewers</display-name>
-  </channel>
   <channel id="Chicago Cubs vs. Los Angeles Angels">
     <display-name lang="en">Chicago Cubs vs. Los Angeles Angels</display-name>
   </channel>
@@ -165,30 +156,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250822000000 -0500" channel="Chicago Bears vs. Kansas City Chiefs" stop="20250822235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250822000000 -0500" channel="Cleveland Guardians vs. Texas Rangers" stop="20250822235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250822000000 -0500" channel="San Francisco Giants vs. Milwaukee Brewers" stop="20250822235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250822000000 -0500" channel="Chicago Cubs vs. Los Angeles Angels" stop="20250822235959 -0500">
     <title>Live</title>
     <date>2025</date>
