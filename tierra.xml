@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250823 -0500">
+  <channel id="Baltimore Ravens vs. Washington Commanders">
+    <display-name lang="en">Baltimore Ravens vs. Washington Commanders</display-name>
+  </channel>
   <channel id="PDC: Women's Series 17-18">
     <display-name lang="en">PDC: Women's Series 17-18</display-name>
   </channel>
@@ -14,12 +17,6 @@
   </channel>
   <channel id="Burnley vs. Sunderland">
     <display-name lang="en">Burnley vs. Sunderland</display-name>
-  </channel>
-  <channel id="Pro Motocross: Budds Creek (Qualifying)">
-    <display-name lang="en">Pro Motocross: Budds Creek (Qualifying)</display-name>
-  </channel>
-  <channel id="Baltimore Ravens vs. Washington Commanders">
-    <display-name lang="en">Baltimore Ravens vs. Washington Commanders</display-name>
   </channel>
   <channel id="Indianapolis Colts vs. Cincinnati Bengals">
     <display-name lang="en">Indianapolis Colts vs. Cincinnati Bengals</display-name>
@@ -258,6 +255,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250823000000 -0500" channel="Baltimore Ravens vs. Washington Commanders" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250823000000 -0500" channel="PDC: Women's Series 17-18" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -292,22 +297,6 @@
   </programme>
   <programme start="20250823000000 -0500" channel="Burnley vs. Sunderland" stop="20250823235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Pro Motocross: Budds Creek (Qualifying)" stop="20250823235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Baltimore Ravens vs. Washington Commanders" stop="20250823235959 -0500">
-    <title>11:00 AM 23/08/25 - Baltimore Ravens vs. Washington Commanders</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
