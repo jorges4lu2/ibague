@@ -18,6 +18,15 @@
   <channel id="Denver Broncos vs. New Orleans Saints">
     <display-name lang="en">Denver Broncos vs. New Orleans Saints</display-name>
   </channel>
+  <channel id="Boston Red Sox vs. New York Yankees">
+    <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
+  </channel>
+  <channel id="Liberty at Dream">
+    <display-name lang="en">Liberty at Dream</display-name>
+  </channel>
+  <channel id="GLORY 103">
+    <display-name lang="en">GLORY 103</display-name>
+  </channel>
   <channel id="PDC: Women's Series 17-18">
     <display-name lang="en">PDC: Women's Series 17-18</display-name>
   </channel>
@@ -81,9 +90,6 @@
   <channel id="Las Vegas Raiders vs. Arizona Cardinals">
     <display-name lang="en">Las Vegas Raiders vs. Arizona Cardinals</display-name>
   </channel>
-  <channel id="Boston Red Sox vs. New York Yankees">
-    <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
-  </channel>
   <channel id="Toronto Blue Jays vs. Miami Marlins">
     <display-name lang="en">Toronto Blue Jays vs. Miami Marlins</display-name>
   </channel>
@@ -123,17 +129,11 @@
   <channel id="Athletics vs. Seattle Mariners">
     <display-name lang="en">Athletics vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="Liberty at Dream">
-    <display-name lang="en">Liberty at Dream</display-name>
-  </channel>
   <channel id="Aces at Mystics">
     <display-name lang="en">Aces at Mystics</display-name>
   </channel>
   <channel id="Sun at Sky">
     <display-name lang="en">Sun at Sky</display-name>
-  </channel>
-  <channel id="GLORY 103">
-    <display-name lang="en">GLORY 103</display-name>
   </channel>
   <channel id="PDC: CDC Showdown - Board 2">
     <display-name lang="en">PDC: CDC Showdown - Board 2</display-name>
@@ -287,6 +287,30 @@
     </audio>
   </programme>
   <programme start="20250823000000 -0500" channel="Denver Broncos vs. New Orleans Saints" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Liberty at Dream" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="GLORY 103" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -462,14 +486,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250823235959 -0500">
-    <title>12:05 PM 23/08/25 - Boston Red Sox vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250823000000 -0500" channel="Toronto Blue Jays vs. Miami Marlins" stop="20250823235959 -0500">
     <title>03:10 PM 23/08/25 - Toronto Blue Jays vs. Miami Marlins</title>
     <date>2025</date>
@@ -574,14 +590,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="Liberty at Dream" stop="20250823235959 -0500">
-    <title>01:00 PM 23/08/25 - Liberty at Dream</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250823000000 -0500" channel="Aces at Mystics" stop="20250823235959 -0500">
     <title>02:00 PM 23/08/25 - Aces at Mystics</title>
     <date>2025</date>
@@ -592,14 +600,6 @@
   </programme>
   <programme start="20250823000000 -0500" channel="Sun at Sky" stop="20250823235959 -0500">
     <title>03:00 PM 23/08/25 - Sun at Sky</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="GLORY 103" stop="20250823235959 -0500">
-    <title>01:00 PM 23/08/25 - GLORY 103</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
