@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250822 -0500">
+  <channel id="Philadelphia Eagles vs. New York Jets">
+    <display-name lang="en">Philadelphia Eagles vs. New York Jets</display-name>
+  </channel>
+  <channel id="Atlanta Falcons vs. Dallas Cowboys">
+    <display-name lang="en">Atlanta Falcons vs. Dallas Cowboys</display-name>
+  </channel>
+  <channel id="Minnesota Vikings vs. Tennessee Titans">
+    <display-name lang="en">Minnesota Vikings vs. Tennessee Titans</display-name>
+  </channel>
+  <channel id="Chicago Bears vs. Kansas City Chiefs">
+    <display-name lang="en">Chicago Bears vs. Kansas City Chiefs</display-name>
+  </channel>
   <channel id="Colorado Rockies vs. Pittsburgh Pirates">
     <display-name lang="en">Colorado Rockies vs. Pittsburgh Pirates</display-name>
   </channel>
@@ -27,20 +39,23 @@
   <channel id="Minnesota Twins vs. Chicago White Sox">
     <display-name lang="en">Minnesota Twins vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Cleveland Guardians vs. Texas Rangers">
+    <display-name lang="en">Cleveland Guardians vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. Milwaukee Brewers">
+    <display-name lang="en">San Francisco Giants vs. Milwaukee Brewers</display-name>
+  </channel>
   <channel id="Lynx at Fever">
     <display-name lang="en">Lynx at Fever</display-name>
   </channel>
   <channel id="Storm at Wings">
     <display-name lang="en">Storm at Wings</display-name>
   </channel>
+  <channel id="PDC: China ProTour 9-10">
+    <display-name lang="en">PDC: China ProTour 9-10</display-name>
+  </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Texas Rangers">
-    <display-name lang="en">Cleveland Guardians vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Milwaukee Brewers">
-    <display-name lang="en">San Francisco Giants vs. Milwaukee Brewers</display-name>
   </channel>
   <channel id="Chicago Cubs vs. Los Angeles Angels">
     <display-name lang="en">Chicago Cubs vs. Los Angeles Angels</display-name>
@@ -59,9 +74,6 @@
   </channel>
   <channel id="GLORY 103">
     <display-name lang="en">GLORY 103</display-name>
-  </channel>
-  <channel id="PDC: China ProTour 9-10">
-    <display-name lang="en">PDC: China ProTour 9-10</display-name>
   </channel>
   <channel id="PDC: Women's Series 17-18">
     <display-name lang="en">PDC: Women's Series 17-18</display-name>
@@ -168,6 +180,38 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250822000000 -0500" channel="Philadelphia Eagles vs. New York Jets" stop="20250822235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250822000000 -0500" channel="Atlanta Falcons vs. Dallas Cowboys" stop="20250822235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250822000000 -0500" channel="Minnesota Vikings vs. Tennessee Titans" stop="20250822235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250822000000 -0500" channel="Chicago Bears vs. Kansas City Chiefs" stop="20250822235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250822000000 -0500" channel="Colorado Rockies vs. Pittsburgh Pirates" stop="20250822235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -240,6 +284,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250822000000 -0500" channel="Cleveland Guardians vs. Texas Rangers" stop="20250822235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250822000000 -0500" channel="San Francisco Giants vs. Milwaukee Brewers" stop="20250822235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250822000000 -0500" channel="Lynx at Fever" stop="20250822235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -256,7 +316,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250822000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250822235959 -0500">
+  <programme start="20250822000000 -0500" channel="PDC: China ProTour 9-10" stop="20250822235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -264,16 +324,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250822000000 -0500" channel="Cleveland Guardians vs. Texas Rangers" stop="20250822235959 -0500">
-    <title>07:05 PM 22/08/25 - Cleveland Guardians vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250822000000 -0500" channel="San Francisco Giants vs. Milwaukee Brewers" stop="20250822235959 -0500">
-    <title>07:10 PM 22/08/25 - San Francisco Giants vs. Milwaukee Brewers</title>
+  <programme start="20250822000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250822235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -322,14 +374,6 @@
   </programme>
   <programme start="20250822000000 -0500" channel="GLORY 103" stop="20250822235959 -0500">
     <title>01:00 PM 23/08/25 - GLORY 103</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250822000000 -0500" channel="PDC: China ProTour 9-10" stop="20250822235959 -0500">
-    <title>08:00 PM 22/08/25 - PDC: China ProTour 9-10</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
