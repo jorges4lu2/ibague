@@ -12,6 +12,21 @@
   <channel id="Manchester City vs. Tottenham Hotspur">
     <display-name lang="en">Manchester City vs. Tottenham Hotspur</display-name>
   </channel>
+  <channel id="EPL: Goal Rush">
+    <display-name lang="en">EPL: Goal Rush</display-name>
+  </channel>
+  <channel id="Bournemouth vs. Wolverhampton Wanderers">
+    <display-name lang="en">Bournemouth vs. Wolverhampton Wanderers</display-name>
+  </channel>
+  <channel id="Brentford vs. Aston Villa">
+    <display-name lang="en">Brentford vs. Aston Villa</display-name>
+  </channel>
+  <channel id="Burnley vs. Sunderland">
+    <display-name lang="en">Burnley vs. Sunderland</display-name>
+  </channel>
+  <channel id="Pro Motocross: Budds Creek (Qualifying)">
+    <display-name lang="en">Pro Motocross: Budds Creek (Qualifying)</display-name>
+  </channel>
   <channel id="Baltimore Ravens vs. Washington Commanders">
     <display-name lang="en">Baltimore Ravens vs. Washington Commanders</display-name>
   </channel>
@@ -198,18 +213,6 @@
   <channel id="PDC: Boomerang Tours Fiesta - Board 4">
     <display-name lang="en">PDC: Boomerang Tours Fiesta - Board 4</display-name>
   </channel>
-  <channel id="EPL: Goal Rush">
-    <display-name lang="en">EPL: Goal Rush</display-name>
-  </channel>
-  <channel id="Bournemouth vs. Wolverhampton Wanderers">
-    <display-name lang="en">Bournemouth vs. Wolverhampton Wanderers</display-name>
-  </channel>
-  <channel id="Brentford vs. Aston Villa">
-    <display-name lang="en">Brentford vs. Aston Villa</display-name>
-  </channel>
-  <channel id="Burnley vs. Sunderland">
-    <display-name lang="en">Burnley vs. Sunderland</display-name>
-  </channel>
   <channel id="Arsenal vs. Leeds United">
     <display-name lang="en">Arsenal vs. Leeds United</display-name>
   </channel>
@@ -227,9 +230,6 @@
   </channel>
   <channel id="Newcastle United vs. Liverpool">
     <display-name lang="en">Newcastle United vs. Liverpool</display-name>
-  </channel>
-  <channel id="Pro Motocross: Budds Creek (Qualifying)">
-    <display-name lang="en">Pro Motocross: Budds Creek (Qualifying)</display-name>
   </channel>
   <channel id="Pro Motocross: Budds Creek">
     <display-name lang="en">Pro Motocross: Budds Creek</display-name>
@@ -283,6 +283,46 @@
     </audio>
   </programme>
   <programme start="20250823000000 -0500" channel="Manchester City vs. Tottenham Hotspur" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="EPL: Goal Rush" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Bournemouth vs. Wolverhampton Wanderers" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Brentford vs. Aston Villa" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Burnley vs. Sunderland" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Pro Motocross: Budds Creek (Qualifying)" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -786,38 +826,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="EPL: Goal Rush" stop="20250823235959 -0500">
-    <title>09:00 AM 23/08/25 - EPL: Goal Rush</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Bournemouth vs. Wolverhampton Wanderers" stop="20250823235959 -0500">
-    <title>09:00 AM 23/08/25 - Bournemouth vs. Wolverhampton Wanderers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Brentford vs. Aston Villa" stop="20250823235959 -0500">
-    <title>09:00 AM 23/08/25 - Brentford vs. Aston Villa</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Burnley vs. Sunderland" stop="20250823235959 -0500">
-    <title>09:00 AM 23/08/25 - Burnley vs. Sunderland</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250823000000 -0500" channel="Arsenal vs. Leeds United" stop="20250823235959 -0500">
     <title>11:30 AM 23/08/25 - Arsenal vs. Leeds United</title>
     <date>2025</date>
@@ -860,14 +868,6 @@
   </programme>
   <programme start="20250823000000 -0500" channel="Newcastle United vs. Liverpool" stop="20250823235959 -0500">
     <title>02:00 PM 25/08/25 - Newcastle United vs. Liverpool</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Pro Motocross: Budds Creek (Qualifying)" stop="20250823235959 -0500">
-    <title>09:00 AM 23/08/25 - Pro Motocross: Budds Creek (Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
