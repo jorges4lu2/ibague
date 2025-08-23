@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250823 -0500">
+  <channel id="UFC Fight Night: Walker vs Zhang">
+    <display-name lang="en">UFC Fight Night: Walker vs Zhang</display-name>
+  </channel>
   <channel id="PDC: China ProTour 9-10">
     <display-name lang="en">PDC: China ProTour 9-10</display-name>
   </channel>
@@ -255,6 +258,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250823000000 -0500" channel="UFC Fight Night: Walker vs Zhang" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250823000000 -0500" channel="PDC: China ProTour 9-10" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
