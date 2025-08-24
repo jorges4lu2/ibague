@@ -1,16 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250823 -0500">
-  <channel id="Los Angeles Chargers vs. San Francisco 49ers">
-    <display-name lang="en">Los Angeles Chargers vs. San Francisco 49ers</display-name>
-  </channel>
   <channel id="Las Vegas Raiders vs. Arizona Cardinals">
     <display-name lang="en">Las Vegas Raiders vs. Arizona Cardinals</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Arizona Diamondbacks">
-    <display-name lang="en">Cincinnati Reds vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. San Diego Padres">
-    <display-name lang="en">Los Angeles Dodgers vs. San Diego Padres</display-name>
   </channel>
   <channel id="Chicago Cubs vs. Los Angeles Angels">
     <display-name lang="en">Chicago Cubs vs. Los Angeles Angels</display-name>
@@ -87,31 +78,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250823000000 -0500" channel="Los Angeles Chargers vs. San Francisco 49ers" stop="20250823235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250823000000 -0500" channel="Las Vegas Raiders vs. Arizona Cardinals" stop="20250823235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Cincinnati Reds vs. Arizona Diamondbacks" stop="20250823235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Los Angeles Dodgers vs. San Diego Padres" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
