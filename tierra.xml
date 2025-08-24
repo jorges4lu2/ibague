@@ -1,22 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250823 -0500">
-  <channel id="Jacksonville Jaguars vs. Miami Dolphins">
-    <display-name lang="en">Jacksonville Jaguars vs. Miami Dolphins</display-name>
-  </channel>
   <channel id="Buffalo Bills vs. Tampa Bay Buccaneers">
     <display-name lang="en">Buffalo Bills vs. Tampa Bay Buccaneers</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. San Francisco 49ers">
     <display-name lang="en">Los Angeles Chargers vs. San Francisco 49ers</display-name>
   </channel>
-  <channel id="Washington Nationals vs. Philadelphia Phillies">
-    <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Detroit Tigers">
-    <display-name lang="en">Kansas City Royals vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Pittsburgh Pirates">
-    <display-name lang="en">Colorado Rockies vs. Pittsburgh Pirates</display-name>
+  <channel id="Las Vegas Raiders vs. Arizona Cardinals">
+    <display-name lang="en">Las Vegas Raiders vs. Arizona Cardinals</display-name>
   </channel>
   <channel id="Houston Astros vs. Baltimore Orioles">
     <display-name lang="en">Houston Astros vs. Baltimore Orioles</display-name>
@@ -39,6 +30,12 @@
   <channel id="Los Angeles Dodgers vs. San Diego Padres">
     <display-name lang="en">Los Angeles Dodgers vs. San Diego Padres</display-name>
   </channel>
+  <channel id="Chicago Cubs vs. Los Angeles Angels">
+    <display-name lang="en">Chicago Cubs vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="Athletics vs. Seattle Mariners">
+    <display-name lang="en">Athletics vs. Seattle Mariners</display-name>
+  </channel>
   <channel id="PDC: CDC Showdown - Board 2">
     <display-name lang="en">PDC: CDC Showdown - Board 2</display-name>
   </channel>
@@ -59,15 +56,6 @@
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
-  </channel>
-  <channel id="Las Vegas Raiders vs. Arizona Cardinals">
-    <display-name lang="en">Las Vegas Raiders vs. Arizona Cardinals</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. Los Angeles Angels">
-    <display-name lang="en">Chicago Cubs vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Athletics vs. Seattle Mariners">
-    <display-name lang="en">Athletics vs. Seattle Mariners</display-name>
   </channel>
   <channel id="PDC: Women's Series 19-20">
     <display-name lang="en">PDC: Women's Series 19-20</display-name>
@@ -120,14 +108,6 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250823000000 -0500" channel="Jacksonville Jaguars vs. Miami Dolphins" stop="20250823235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250823000000 -0500" channel="Buffalo Bills vs. Tampa Bay Buccaneers" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -144,23 +124,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="Washington Nationals vs. Philadelphia Phillies" stop="20250823235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Kansas City Royals vs. Detroit Tigers" stop="20250823235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Colorado Rockies vs. Pittsburgh Pirates" stop="20250823235959 -0500">
+  <programme start="20250823000000 -0500" channel="Las Vegas Raiders vs. Arizona Cardinals" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -224,6 +188,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250823000000 -0500" channel="Chicago Cubs vs. Los Angeles Angels" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Athletics vs. Seattle Mariners" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250823000000 -0500" channel="PDC: CDC Showdown - Board 2" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -274,30 +254,6 @@
   </programme>
   <programme start="20250823000000 -0500" channel="AEW: Saturday Night Collision" stop="20250823235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Las Vegas Raiders vs. Arizona Cardinals" stop="20250823235959 -0500">
-    <title>09:00 PM 23/08/25 - Las Vegas Raiders vs. Arizona Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Chicago Cubs vs. Los Angeles Angels" stop="20250823235959 -0500">
-    <title>08:38 PM 23/08/25 - Chicago Cubs vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Athletics vs. Seattle Mariners" stop="20250823235959 -0500">
-    <title>08:40 PM 23/08/25 - Athletics vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
