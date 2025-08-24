@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250824 -0500">
-  <channel id="Colorado Rockies vs. Pittsburgh Pirates">
-    <display-name lang="en">Colorado Rockies vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Tampa Bay Rays">
-    <display-name lang="en">St. Louis Cardinals vs. Tampa Bay Rays</display-name>
-  </channel>
   <channel id="Houston Astros vs. Baltimore Orioles">
     <display-name lang="en">Houston Astros vs. Baltimore Orioles</display-name>
   </channel>
@@ -33,6 +27,9 @@
   <channel id="Storm at Mystics">
     <display-name lang="en">Storm at Mystics</display-name>
   </channel>
+  <channel id="Valkyries at Wings">
+    <display-name lang="en">Valkyries at Wings</display-name>
+  </channel>
   <channel id="PDC: Women's Series 19-20">
     <display-name lang="en">PDC: Women's Series 19-20</display-name>
   </channel>
@@ -50,6 +47,9 @@
   </channel>
   <channel id="PDC: Boomerang Tours Fiesta - Board 4">
     <display-name lang="en">PDC: Boomerang Tours Fiesta - Board 4</display-name>
+  </channel>
+  <channel id="Real Oviedo vs Real Madrid">
+    <display-name lang="en">Real Oviedo vs Real Madrid</display-name>
   </channel>
   <channel id="AEW x NJPW: Forbidden Door 2025 - London">
     <display-name lang="en">AEW x NJPW: Forbidden Door 2025 - London</display-name>
@@ -69,9 +69,6 @@
   <channel id="Boston Red Sox vs. New York Yankees">
     <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
   </channel>
-  <channel id="Valkyries at Wings">
-    <display-name lang="en">Valkyries at Wings</display-name>
-  </channel>
   <channel id="Fever at Lynx">
     <display-name lang="en">Fever at Lynx</display-name>
   </channel>
@@ -86,9 +83,6 @@
   </channel>
   <channel id="PDC: Players Championship 24 - Board 2">
     <display-name lang="en">PDC: Players Championship 24 - Board 2</display-name>
-  </channel>
-  <channel id="Real Oviedo vs Real Madrid">
-    <display-name lang="en">Real Oviedo vs Real Madrid</display-name>
   </channel>
   <channel id="Newcastle United vs. Liverpool">
     <display-name lang="en">Newcastle United vs. Liverpool</display-name>
@@ -111,22 +105,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250824000000 -0500" channel="Colorado Rockies vs. Pittsburgh Pirates" stop="20250824235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250824000000 -0500" channel="St. Louis Cardinals vs. Tampa Bay Rays" stop="20250824235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250824000000 -0500" channel="Houston Astros vs. Baltimore Orioles" stop="20250824235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -199,6 +177,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250824000000 -0500" channel="Valkyries at Wings" stop="20250824235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250824000000 -0500" channel="PDC: Women's Series 19-20" stop="20250824235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -240,6 +226,14 @@
     </audio>
   </programme>
   <programme start="20250824000000 -0500" channel="PDC: Boomerang Tours Fiesta - Board 4" stop="20250824235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250824000000 -0500" channel="Real Oviedo vs Real Madrid" stop="20250824235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -295,14 +289,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250824000000 -0500" channel="Valkyries at Wings" stop="20250824235959 -0500">
-    <title>03:00 PM 24/08/25 - Valkyries at Wings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250824000000 -0500" channel="Fever at Lynx" stop="20250824235959 -0500">
     <title>06:00 PM 24/08/25 - Fever at Lynx</title>
     <date>2025</date>
@@ -337,14 +323,6 @@
   </programme>
   <programme start="20250824000000 -0500" channel="PDC: Players Championship 24 - Board 2" stop="20250824235959 -0500">
     <title>07:00 AM 25/08/25 - PDC: Players Championship 24 - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250824000000 -0500" channel="Real Oviedo vs Real Madrid" stop="20250824235959 -0500">
-    <title>02:30 PM 24/08/25 - Real Oviedo vs Real Madrid</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
