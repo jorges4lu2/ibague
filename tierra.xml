@@ -6,6 +6,12 @@
   <channel id="PDC: Women's Series 19-20">
     <display-name lang="en">PDC: Women's Series 19-20</display-name>
   </channel>
+  <channel id="Crystal Palace vs. Nottingham Forest">
+    <display-name lang="en">Crystal Palace vs. Nottingham Forest</display-name>
+  </channel>
+  <channel id="Everton vs. Brighton and Hove Albion">
+    <display-name lang="en">Everton vs. Brighton and Hove Albion</display-name>
+  </channel>
   <channel id="Colorado Rockies vs. Pittsburgh Pirates">
     <display-name lang="en">Colorado Rockies vs. Pittsburgh Pirates</display-name>
   </channel>
@@ -78,12 +84,6 @@
   <channel id="PDC: Players Championship 24 - Board 2">
     <display-name lang="en">PDC: Players Championship 24 - Board 2</display-name>
   </channel>
-  <channel id="Crystal Palace vs. Nottingham Forest">
-    <display-name lang="en">Crystal Palace vs. Nottingham Forest</display-name>
-  </channel>
-  <channel id="Everton vs. Brighton and Hove Albion">
-    <display-name lang="en">Everton vs. Brighton and Hove Albion</display-name>
-  </channel>
   <channel id="Fulham vs. Manchester United">
     <display-name lang="en">Fulham vs. Manchester United</display-name>
   </channel>
@@ -120,6 +120,22 @@
     </audio>
   </programme>
   <programme start="20250824000000 -0500" channel="PDC: Women's Series 19-20" stop="20250824235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250824000000 -0500" channel="Crystal Palace vs. Nottingham Forest" stop="20250824235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250824000000 -0500" channel="Everton vs. Brighton and Hove Albion" stop="20250824235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -313,22 +329,6 @@
   </programme>
   <programme start="20250824000000 -0500" channel="PDC: Players Championship 24 - Board 2" stop="20250824235959 -0500">
     <title>07:00 AM 25/08/25 - PDC: Players Championship 24 - Board 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250824000000 -0500" channel="Crystal Palace vs. Nottingham Forest" stop="20250824235959 -0500">
-    <title>08:00 AM 24/08/25 - Crystal Palace vs. Nottingham Forest</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250824000000 -0500" channel="Everton vs. Brighton and Hove Albion" stop="20250824235959 -0500">
-    <title>08:00 AM 24/08/25 - Everton vs. Brighton and Hove Albion</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
