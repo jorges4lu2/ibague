@@ -3,8 +3,8 @@
   <channel id="Jacksonville Jaguars vs. Miami Dolphins">
     <display-name lang="en">Jacksonville Jaguars vs. Miami Dolphins</display-name>
   </channel>
-  <channel id="Toronto Blue Jays vs. Miami Marlins">
-    <display-name lang="en">Toronto Blue Jays vs. Miami Marlins</display-name>
+  <channel id="Buffalo Bills vs. Tampa Bay Buccaneers">
+    <display-name lang="en">Buffalo Bills vs. Tampa Bay Buccaneers</display-name>
   </channel>
   <channel id="Washington Nationals vs. Philadelphia Phillies">
     <display-name lang="en">Washington Nationals vs. Philadelphia Phillies</display-name>
@@ -14,6 +14,21 @@
   </channel>
   <channel id="Colorado Rockies vs. Pittsburgh Pirates">
     <display-name lang="en">Colorado Rockies vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="Houston Astros vs. Baltimore Orioles">
+    <display-name lang="en">Houston Astros vs. Baltimore Orioles</display-name>
+  </channel>
+  <channel id="Cleveland Guardians vs. Texas Rangers">
+    <display-name lang="en">Cleveland Guardians vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Minnesota Twins vs. Chicago White Sox">
+    <display-name lang="en">Minnesota Twins vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. Milwaukee Brewers">
+    <display-name lang="en">San Francisco Giants vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="New York Mets vs. Atlanta Braves">
+    <display-name lang="en">New York Mets vs. Atlanta Braves</display-name>
   </channel>
   <channel id="PDC: CDC Showdown - Board 2">
     <display-name lang="en">PDC: CDC Showdown - Board 2</display-name>
@@ -30,29 +45,14 @@
   <channel id="PDC: CDC Showdown - Board 5">
     <display-name lang="en">PDC: CDC Showdown - Board 5</display-name>
   </channel>
-  <channel id="Buffalo Bills vs. Tampa Bay Buccaneers">
-    <display-name lang="en">Buffalo Bills vs. Tampa Bay Buccaneers</display-name>
+  <channel id="AEW: Saturday Night Collision">
+    <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
   <channel id="Los Angeles Chargers vs. San Francisco 49ers">
     <display-name lang="en">Los Angeles Chargers vs. San Francisco 49ers</display-name>
   </channel>
   <channel id="Las Vegas Raiders vs. Arizona Cardinals">
     <display-name lang="en">Las Vegas Raiders vs. Arizona Cardinals</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Baltimore Orioles">
-    <display-name lang="en">Houston Astros vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Texas Rangers">
-    <display-name lang="en">Cleveland Guardians vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Chicago White Sox">
-    <display-name lang="en">Minnesota Twins vs. Chicago White Sox</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Milwaukee Brewers">
-    <display-name lang="en">San Francisco Giants vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="New York Mets vs. Atlanta Braves">
-    <display-name lang="en">New York Mets vs. Atlanta Braves</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Arizona Diamondbacks">
     <display-name lang="en">Cincinnati Reds vs. Arizona Diamondbacks</display-name>
@@ -99,9 +99,6 @@
   <channel id="Newcastle United vs. Liverpool">
     <display-name lang="en">Newcastle United vs. Liverpool</display-name>
   </channel>
-  <channel id="AEW: Saturday Night Collision">
-    <display-name lang="en">AEW: Saturday Night Collision</display-name>
-  </channel>
   <channel id="WWE: Clash in Paris 2025">
     <display-name lang="en">WWE: Clash in Paris 2025</display-name>
   </channel>
@@ -131,7 +128,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="Toronto Blue Jays vs. Miami Marlins" stop="20250823235959 -0500">
+  <programme start="20250823000000 -0500" channel="Buffalo Bills vs. Tampa Bay Buccaneers" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -156,6 +153,46 @@
     </audio>
   </programme>
   <programme start="20250823000000 -0500" channel="Colorado Rockies vs. Pittsburgh Pirates" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Houston Astros vs. Baltimore Orioles" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Cleveland Guardians vs. Texas Rangers" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="Minnesota Twins vs. Chicago White Sox" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="San Francisco Giants vs. Milwaukee Brewers" stop="20250823235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250823000000 -0500" channel="New York Mets vs. Atlanta Braves" stop="20250823235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -203,8 +240,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250823000000 -0500" channel="Buffalo Bills vs. Tampa Bay Buccaneers" stop="20250823235959 -0500">
-    <title>06:30 PM 23/08/25 - Buffalo Bills vs. Tampa Bay Buccaneers</title>
+  <programme start="20250823000000 -0500" channel="AEW: Saturday Night Collision" stop="20250823235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -221,46 +258,6 @@
   </programme>
   <programme start="20250823000000 -0500" channel="Las Vegas Raiders vs. Arizona Cardinals" stop="20250823235959 -0500">
     <title>09:00 PM 23/08/25 - Las Vegas Raiders vs. Arizona Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Houston Astros vs. Baltimore Orioles" stop="20250823235959 -0500">
-    <title>06:05 PM 23/08/25 - Houston Astros vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Cleveland Guardians vs. Texas Rangers" stop="20250823235959 -0500">
-    <title>06:05 PM 23/08/25 - Cleveland Guardians vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="Minnesota Twins vs. Chicago White Sox" stop="20250823235959 -0500">
-    <title>06:10 PM 23/08/25 - Minnesota Twins vs. Chicago White Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="San Francisco Giants vs. Milwaukee Brewers" stop="20250823235959 -0500">
-    <title>06:10 PM 23/08/25 - San Francisco Giants vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="New York Mets vs. Atlanta Braves" stop="20250823235959 -0500">
-    <title>06:15 PM 23/08/25 - New York Mets vs. Atlanta Braves</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -381,14 +378,6 @@
   </programme>
   <programme start="20250823000000 -0500" channel="Newcastle United vs. Liverpool" stop="20250823235959 -0500">
     <title>02:00 PM 25/08/25 - Newcastle United vs. Liverpool</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250823000000 -0500" channel="AEW: Saturday Night Collision" stop="20250823235959 -0500">
-    <title>07:00 PM 23/08/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
