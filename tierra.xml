@@ -21,6 +21,18 @@
   <channel id="Toronto Blue Jays vs. Miami Marlins">
     <display-name lang="en">Toronto Blue Jays vs. Miami Marlins</display-name>
   </channel>
+  <channel id="Minnesota Twins vs. Chicago White Sox">
+    <display-name lang="en">Minnesota Twins vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. Milwaukee Brewers">
+    <display-name lang="en">San Francisco Giants vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Cleveland Guardians vs. Texas Rangers">
+    <display-name lang="en">Cleveland Guardians vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Storm at Mystics">
+    <display-name lang="en">Storm at Mystics</display-name>
+  </channel>
   <channel id="PDC: Women's Series 19-20">
     <display-name lang="en">PDC: Women's Series 19-20</display-name>
   </channel>
@@ -39,20 +51,8 @@
   <channel id="PDC: Boomerang Tours Fiesta - Board 4">
     <display-name lang="en">PDC: Boomerang Tours Fiesta - Board 4</display-name>
   </channel>
-  <channel id="Fulham vs. Manchester United">
-    <display-name lang="en">Fulham vs. Manchester United</display-name>
-  </channel>
   <channel id="AEW x NJPW: Forbidden Door 2025 - London">
     <display-name lang="en">AEW x NJPW: Forbidden Door 2025 - London</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Chicago White Sox">
-    <display-name lang="en">Minnesota Twins vs. Chicago White Sox</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Milwaukee Brewers">
-    <display-name lang="en">San Francisco Giants vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Texas Rangers">
-    <display-name lang="en">Cleveland Guardians vs. Texas Rangers</display-name>
   </channel>
   <channel id="Chicago Cubs vs. Los Angeles Angels">
     <display-name lang="en">Chicago Cubs vs. Los Angeles Angels</display-name>
@@ -68,9 +68,6 @@
   </channel>
   <channel id="Boston Red Sox vs. New York Yankees">
     <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Storm at Mystics">
-    <display-name lang="en">Storm at Mystics</display-name>
   </channel>
   <channel id="Valkyries at Wings">
     <display-name lang="en">Valkyries at Wings</display-name>
@@ -170,6 +167,38 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250824000000 -0500" channel="Minnesota Twins vs. Chicago White Sox" stop="20250824235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250824000000 -0500" channel="San Francisco Giants vs. Milwaukee Brewers" stop="20250824235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250824000000 -0500" channel="Cleveland Guardians vs. Texas Rangers" stop="20250824235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250824000000 -0500" channel="Storm at Mystics" stop="20250824235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250824000000 -0500" channel="PDC: Women's Series 19-20" stop="20250824235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -218,40 +247,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250824000000 -0500" channel="Fulham vs. Manchester United" stop="20250824235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250824000000 -0500" channel="AEW x NJPW: Forbidden Door 2025 - London" stop="20250824235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250824000000 -0500" channel="Minnesota Twins vs. Chicago White Sox" stop="20250824235959 -0500">
-    <title>01:10 PM 24/08/25 - Minnesota Twins vs. Chicago White Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250824000000 -0500" channel="San Francisco Giants vs. Milwaukee Brewers" stop="20250824235959 -0500">
-    <title>01:10 PM 24/08/25 - San Francisco Giants vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250824000000 -0500" channel="Cleveland Guardians vs. Texas Rangers" stop="20250824235959 -0500">
-    <title>01:35 PM 24/08/25 - Cleveland Guardians vs. Texas Rangers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -292,14 +289,6 @@
   </programme>
   <programme start="20250824000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250824235959 -0500">
     <title>06:00 PM 24/08/25 - Boston Red Sox vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250824000000 -0500" channel="Storm at Mystics" stop="20250824235959 -0500">
-    <title>02:00 PM 24/08/25 - Storm at Mystics</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
