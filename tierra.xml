@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250824 -0500">
+  <channel id="Master stream test">
+    <display-name lang="en">Master stream test</display-name>
+  </channel>
   <channel id="PDC: China Championship">
     <display-name lang="en">PDC: China Championship</display-name>
   </channel>
@@ -111,6 +114,14 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
+  <programme start="20250824000000 -0500" channel="Master stream test" stop="20250824235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250824000000 -0500" channel="PDC: China Championship" stop="20250824235959 -0500">
     <title>Live</title>
     <date>2025</date>
