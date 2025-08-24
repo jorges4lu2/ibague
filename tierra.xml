@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250824 -0500">
-  <channel id="Master stream test">
-    <display-name lang="en">Master stream test</display-name>
-  </channel>
   <channel id="PDC: China Championship">
     <display-name lang="en">PDC: China Championship</display-name>
+  </channel>
+  <channel id="PDC: Women's Series 19-20">
+    <display-name lang="en">PDC: Women's Series 19-20</display-name>
   </channel>
   <channel id="Colorado Rockies vs. Pittsburgh Pirates">
     <display-name lang="en">Colorado Rockies vs. Pittsburgh Pirates</display-name>
@@ -50,9 +50,6 @@
   </channel>
   <channel id="Boston Red Sox vs. New York Yankees">
     <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
-  </channel>
-  <channel id="PDC: Women's Series 19-20">
-    <display-name lang="en">PDC: Women's Series 19-20</display-name>
   </channel>
   <channel id="PDC: Boomerang Tours Fiesta 2025">
     <display-name lang="en">PDC: Boomerang Tours Fiesta 2025</display-name>
@@ -114,7 +111,7 @@
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
   </channel>
-  <programme start="20250824000000 -0500" channel="Master stream test" stop="20250824235959 -0500">
+  <programme start="20250824000000 -0500" channel="PDC: China Championship" stop="20250824235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -122,7 +119,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250824000000 -0500" channel="PDC: China Championship" stop="20250824235959 -0500">
+  <programme start="20250824000000 -0500" channel="PDC: Women's Series 19-20" stop="20250824235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -244,14 +241,6 @@
   </programme>
   <programme start="20250824000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250824235959 -0500">
     <title>06:00 PM 24/08/25 - Boston Red Sox vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250824000000 -0500" channel="PDC: Women's Series 19-20" stop="20250824235959 -0500">
-    <title>04:00 AM 24/08/25 - PDC: Women's Series 19-20</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
