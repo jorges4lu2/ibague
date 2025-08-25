@@ -39,6 +39,12 @@
   <channel id="Cincinnati Reds vs. Los Angeles Dodgers">
     <display-name lang="en">Cincinnati Reds vs. Los Angeles Dodgers</display-name>
   </channel>
+  <channel id="Sun at Liberty">
+    <display-name lang="en">Sun at Liberty</display-name>
+  </channel>
+  <channel id="Aces at Sky">
+    <display-name lang="en">Aces at Sky</display-name>
+  </channel>
   <channel id="Newcastle United vs. Liverpool">
     <display-name lang="en">Newcastle United vs. Liverpool</display-name>
   </channel>
@@ -176,6 +182,22 @@
   </programme>
   <programme start="20250825000000 -0500" channel="Cincinnati Reds vs. Los Angeles Dodgers" stop="20250825235959 -0500">
     <title>09:10 PM 25/08/25 - Cincinnati Reds vs. Los Angeles Dodgers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Sun at Liberty" stop="20250825235959 -0500">
+    <title>06:00 PM 25/08/25 - Sun at Liberty</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Aces at Sky" stop="20250825235959 -0500">
+    <title>07:00 PM 25/08/25 - Aces at Sky</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
