@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250825 -0500">
+  <channel id="Master stream test">
+    <display-name lang="en">Master stream test</display-name>
+  </channel>
   <channel id="Boston Red Sox vs. Baltimore Orioles">
     <display-name lang="en">Boston Red Sox vs. Baltimore Orioles</display-name>
   </channel>
@@ -84,6 +87,14 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <programme start="20250825000000 -0500" channel="Master stream test" stop="20250825235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250825000000 -0500" channel="Boston Red Sox vs. Baltimore Orioles" stop="20250825235959 -0500">
     <title>05:35 PM 25/08/25 - Boston Red Sox vs. Baltimore Orioles</title>
     <date>2025</date>
