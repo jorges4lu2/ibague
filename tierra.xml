@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250824 -0500">
-  <channel id="Boston Red Sox vs. New York Yankees">
-    <display-name lang="en">Boston Red Sox vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Fever at Lynx">
-    <display-name lang="en">Fever at Lynx</display-name>
-  </channel>
   <channel id="PDC: Players Championship 24 - Board 1">
     <display-name lang="en">PDC: Players Championship 24 - Board 1</display-name>
   </channel>
@@ -39,22 +33,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250824000000 -0500" channel="Boston Red Sox vs. New York Yankees" stop="20250824235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250824000000 -0500" channel="Fever at Lynx" stop="20250824235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250824000000 -0500" channel="PDC: Players Championship 24 - Board 1" stop="20250824235959 -0500">
     <title>07:00 AM 25/08/25 - PDC: Players Championship 24 - Board 1</title>
     <date>2025</date>
