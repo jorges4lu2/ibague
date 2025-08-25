@@ -9,6 +9,9 @@
   <channel id="Tampa Bay Rays vs. Cleveland Guardians">
     <display-name lang="en">Tampa Bay Rays vs. Cleveland Guardians</display-name>
   </channel>
+  <channel id="Sun at Liberty">
+    <display-name lang="en">Sun at Liberty</display-name>
+  </channel>
   <channel id="Washington Nationals vs. New York Yankees">
     <display-name lang="en">Washington Nationals vs. New York Yankees</display-name>
   </channel>
@@ -39,11 +42,38 @@
   <channel id="Cincinnati Reds vs. Los Angeles Dodgers">
     <display-name lang="en">Cincinnati Reds vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="Sun at Liberty">
-    <display-name lang="en">Sun at Liberty</display-name>
-  </channel>
   <channel id="Aces at Sky">
     <display-name lang="en">Aces at Sky</display-name>
+  </channel>
+  <channel id="Chelsea vs. Fulham">
+    <display-name lang="en">Chelsea vs. Fulham</display-name>
+  </channel>
+  <channel id="Manchester United vs. Burnley">
+    <display-name lang="en">Manchester United vs. Burnley</display-name>
+  </channel>
+  <channel id="Sunderland vs. Brentford">
+    <display-name lang="en">Sunderland vs. Brentford</display-name>
+  </channel>
+  <channel id="Tottenham Hotspur vs. Bournemouth">
+    <display-name lang="en">Tottenham Hotspur vs. Bournemouth</display-name>
+  </channel>
+  <channel id="Wolverhampton Wanderers vs. Everton">
+    <display-name lang="en">Wolverhampton Wanderers vs. Everton</display-name>
+  </channel>
+  <channel id="Leeds United vs. Newcastle United">
+    <display-name lang="en">Leeds United vs. Newcastle United</display-name>
+  </channel>
+  <channel id="Brighton and Hove Albion vs. Manchester City">
+    <display-name lang="en">Brighton and Hove Albion vs. Manchester City</display-name>
+  </channel>
+  <channel id="Nottingham Forest vs. West Ham United">
+    <display-name lang="en">Nottingham Forest vs. West Ham United</display-name>
+  </channel>
+  <channel id="Liverpool vs. Arsenal">
+    <display-name lang="en">Liverpool vs. Arsenal</display-name>
+  </channel>
+  <channel id="Aston Villa vs. Crystal Palace">
+    <display-name lang="en">Aston Villa vs. Crystal Palace</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -79,7 +109,7 @@
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
   <programme start="20250825000000 -0500" channel="Boston Red Sox vs. Baltimore Orioles" stop="20250825235959 -0500">
-    <title>05:35 PM 25/08/25 - Boston Red Sox vs. Baltimore Orioles</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -87,7 +117,7 @@
     </audio>
   </programme>
   <programme start="20250825000000 -0500" channel="Atlanta Braves vs. Miami Marlins" stop="20250825235959 -0500">
-    <title>05:40 PM 25/08/25 - Atlanta Braves vs. Miami Marlins</title>
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -95,7 +125,15 @@
     </audio>
   </programme>
   <programme start="20250825000000 -0500" channel="Tampa Bay Rays vs. Cleveland Guardians" stop="20250825235959 -0500">
-    <title>05:40 PM 25/08/25 - Tampa Bay Rays vs. Cleveland Guardians</title>
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Sun at Liberty" stop="20250825235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -182,16 +220,88 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250825000000 -0500" channel="Sun at Liberty" stop="20250825235959 -0500">
-    <title>06:00 PM 25/08/25 - Sun at Liberty</title>
+  <programme start="20250825000000 -0500" channel="Aces at Sky" stop="20250825235959 -0500">
+    <title>07:00 PM 25/08/25 - Aces at Sky</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250825000000 -0500" channel="Aces at Sky" stop="20250825235959 -0500">
-    <title>07:00 PM 25/08/25 - Aces at Sky</title>
+  <programme start="20250825000000 -0500" channel="Chelsea vs. Fulham" stop="20250825235959 -0500">
+    <title>06:30 AM 30/08/25 - Chelsea vs. Fulham</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Manchester United vs. Burnley" stop="20250825235959 -0500">
+    <title>09:00 AM 30/08/25 - Manchester United vs. Burnley</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Sunderland vs. Brentford" stop="20250825235959 -0500">
+    <title>09:00 AM 30/08/25 - Sunderland vs. Brentford</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Tottenham Hotspur vs. Bournemouth" stop="20250825235959 -0500">
+    <title>09:00 AM 30/08/25 - Tottenham Hotspur vs. Bournemouth</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Wolverhampton Wanderers vs. Everton" stop="20250825235959 -0500">
+    <title>09:00 AM 30/08/25 - Wolverhampton Wanderers vs. Everton</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Leeds United vs. Newcastle United" stop="20250825235959 -0500">
+    <title>11:30 AM 30/08/25 - Leeds United vs. Newcastle United</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Brighton and Hove Albion vs. Manchester City" stop="20250825235959 -0500">
+    <title>08:00 AM 31/08/25 - Brighton and Hove Albion vs. Manchester City</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Nottingham Forest vs. West Ham United" stop="20250825235959 -0500">
+    <title>08:00 AM 31/08/25 - Nottingham Forest vs. West Ham United</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Liverpool vs. Arsenal" stop="20250825235959 -0500">
+    <title>10:30 AM 31/08/25 - Liverpool vs. Arsenal</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Aston Villa vs. Crystal Palace" stop="20250825235959 -0500">
+    <title>01:00 PM 31/08/25 - Aston Villa vs. Crystal Palace</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
