@@ -234,6 +234,9 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
+  <channel id="Master stream test">
+    <display-name lang="en">Master stream test</display-name>
+  </channel>
   <programme start="20250826000000 -0500" channel="Wolves vs West Ham" stop="20250826235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -851,6 +854,14 @@
     </audio>
   </programme>
   <programme start="20250826000000 -0500" channel="(North) Korean Central Television" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Master stream test" stop="20250826235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
