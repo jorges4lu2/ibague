@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250826 -0500">
-  <channel id="Wolves vs West Ham">
-    <display-name lang="en">Wolves vs West Ham</display-name>
-  </channel>
   <channel id="Boise State Broncos vs. South Florida Bulls">
     <display-name lang="en">Boise State Broncos vs. South Florida Bulls</display-name>
   </channel>
@@ -237,14 +234,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250826000000 -0500" channel="Wolves vs West Ham" stop="20250826235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250826000000 -0500" channel="Boise State Broncos vs. South Florida Bulls" stop="20250826235959 -0500">
     <title>04:30 PM 28/08/25 - Boise State Broncos vs. South Florida Bulls</title>
     <date>2025</date>
