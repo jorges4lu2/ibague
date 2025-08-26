@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250825 -0500">
-  <channel id="Boston Red Sox vs. Baltimore Orioles">
-    <display-name lang="en">Boston Red Sox vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Miami Marlins">
-    <display-name lang="en">Atlanta Braves vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Cleveland Guardians">
-    <display-name lang="en">Tampa Bay Rays vs. Cleveland Guardians</display-name>
-  </channel>
   <channel id="Washington Nationals vs. New York Yankees">
     <display-name lang="en">Washington Nationals vs. New York Yankees</display-name>
   </channel>
@@ -30,8 +21,8 @@
   <channel id="Los Angeles Angels vs. Texas Rangers">
     <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
   </channel>
-  <channel id="Sun at Liberty">
-    <display-name lang="en">Sun at Liberty</display-name>
+  <channel id="San Diego Padres vs. Seattle Mariners">
+    <display-name lang="en">San Diego Padres vs. Seattle Mariners</display-name>
   </channel>
   <channel id="Aces at Sky">
     <display-name lang="en">Aces at Sky</display-name>
@@ -150,9 +141,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="San Diego Padres vs. Seattle Mariners">
-    <display-name lang="en">San Diego Padres vs. Seattle Mariners</display-name>
-  </channel>
   <channel id="Detroit Tigers vs. Athletics">
     <display-name lang="en">Detroit Tigers vs. Athletics</display-name>
   </channel>
@@ -222,30 +210,6 @@
   <channel id="(North) Korean Central Television">
     <display-name lang="en">(North) Korean Central Television</display-name>
   </channel>
-  <programme start="20250825000000 -0500" channel="Boston Red Sox vs. Baltimore Orioles" stop="20250825235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250825000000 -0500" channel="Atlanta Braves vs. Miami Marlins" stop="20250825235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250825000000 -0500" channel="Tampa Bay Rays vs. Cleveland Guardians" stop="20250825235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250825000000 -0500" channel="Washington Nationals vs. New York Yankees" stop="20250825235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -302,7 +266,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250825000000 -0500" channel="Sun at Liberty" stop="20250825235959 -0500">
+  <programme start="20250825000000 -0500" channel="San Diego Padres vs. Seattle Mariners" stop="20250825235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -616,14 +580,6 @@
   </programme>
   <programme start="20250825000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250825235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250825000000 -0500" channel="San Diego Padres vs. Seattle Mariners" stop="20250825235959 -0500">
-    <title>08:40 PM 25/08/25 - San Diego Padres vs. Seattle Mariners</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
