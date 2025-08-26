@@ -27,6 +27,9 @@
   <channel id="Pittsburgh Pirates vs. St. Louis Cardinals">
     <display-name lang="en">Pittsburgh Pirates vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Los Angeles Angels vs. Texas Rangers">
+    <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
+  </channel>
   <channel id="Sun at Liberty">
     <display-name lang="en">Sun at Liberty</display-name>
   </channel>
@@ -146,9 +149,6 @@
   </channel>
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Texas Rangers">
-    <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
   </channel>
   <channel id="San Diego Padres vs. Seattle Mariners">
     <display-name lang="en">San Diego Padres vs. Seattle Mariners</display-name>
@@ -287,6 +287,14 @@
     </audio>
   </programme>
   <programme start="20250825000000 -0500" channel="Pittsburgh Pirates vs. St. Louis Cardinals" stop="20250825235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250825000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250825235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -608,14 +616,6 @@
   </programme>
   <programme start="20250825000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250825235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250825000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250825235959 -0500">
-    <title>07:05 PM 25/08/25 - Los Angeles Angels vs. Texas Rangers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
