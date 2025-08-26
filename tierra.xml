@@ -159,6 +159,9 @@
   <channel id="Cincinnati Reds vs. Los Angeles Dodgers">
     <display-name lang="en">Cincinnati Reds vs. Los Angeles Dodgers</display-name>
   </channel>
+  <channel id="Wolves vs West Ham">
+    <display-name lang="en">Wolves vs West Ham</display-name>
+  </channel>
   <channel id="Chelsea vs. Fulham">
     <display-name lang="en">Chelsea vs. Fulham</display-name>
   </channel>
@@ -640,6 +643,14 @@
   </programme>
   <programme start="20250826000000 -0500" channel="Cincinnati Reds vs. Los Angeles Dodgers" stop="20250826235959 -0500">
     <title>09:10 PM 26/08/25 - Cincinnati Reds vs. Los Angeles Dodgers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Wolves vs West Ham" stop="20250826235959 -0500">
+    <title>01:30 PM 26/08/25 - Wolves vs West Ham</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
