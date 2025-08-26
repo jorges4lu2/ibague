@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250826 -0500">
+  <channel id="Boston Red Sox vs. Baltimore Orioles">
+    <display-name lang="en">Boston Red Sox vs. Baltimore Orioles</display-name>
+  </channel>
+  <channel id="Atlanta Braves vs. Miami Marlins">
+    <display-name lang="en">Atlanta Braves vs. Miami Marlins</display-name>
+  </channel>
+  <channel id="Tampa Bay Rays vs. Cleveland Guardians">
+    <display-name lang="en">Tampa Bay Rays vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="Storm at Fever">
+    <display-name lang="en">Storm at Fever</display-name>
+  </channel>
   <channel id="Boise State Broncos vs. South Florida Bulls">
     <display-name lang="en">Boise State Broncos vs. South Florida Bulls</display-name>
   </channel>
@@ -114,15 +126,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Boston Red Sox vs. Baltimore Orioles">
-    <display-name lang="en">Boston Red Sox vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Miami Marlins">
-    <display-name lang="en">Atlanta Braves vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Cleveland Guardians">
-    <display-name lang="en">Tampa Bay Rays vs. Cleveland Guardians</display-name>
-  </channel>
   <channel id="Washington Nationals vs. New York Yankees">
     <display-name lang="en">Washington Nationals vs. New York Yankees</display-name>
   </channel>
@@ -158,9 +161,6 @@
   </channel>
   <channel id="Cincinnati Reds vs. Los Angeles Dodgers">
     <display-name lang="en">Cincinnati Reds vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Storm at Fever">
-    <display-name lang="en">Storm at Fever</display-name>
   </channel>
   <channel id="Mercury at Sparks">
     <display-name lang="en">Mercury at Sparks</display-name>
@@ -234,6 +234,38 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250826000000 -0500" channel="Boston Red Sox vs. Baltimore Orioles" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Atlanta Braves vs. Miami Marlins" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Tampa Bay Rays vs. Cleveland Guardians" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Storm at Fever" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250826000000 -0500" channel="Boise State Broncos vs. South Florida Bulls" stop="20250826235959 -0500">
     <title>04:30 PM 28/08/25 - Boise State Broncos vs. South Florida Bulls</title>
     <date>2025</date>
@@ -538,30 +570,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250826000000 -0500" channel="Boston Red Sox vs. Baltimore Orioles" stop="20250826235959 -0500">
-    <title>05:35 PM 26/08/25 - Boston Red Sox vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Atlanta Braves vs. Miami Marlins" stop="20250826235959 -0500">
-    <title>05:40 PM 26/08/25 - Atlanta Braves vs. Miami Marlins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Tampa Bay Rays vs. Cleveland Guardians" stop="20250826235959 -0500">
-    <title>05:40 PM 26/08/25 - Tampa Bay Rays vs. Cleveland Guardians</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250826000000 -0500" channel="Washington Nationals vs. New York Yankees" stop="20250826235959 -0500">
     <title>06:05 PM 26/08/25 - Washington Nationals vs. New York Yankees</title>
     <date>2025</date>
@@ -652,14 +660,6 @@
   </programme>
   <programme start="20250826000000 -0500" channel="Cincinnati Reds vs. Los Angeles Dodgers" stop="20250826235959 -0500">
     <title>09:10 PM 26/08/25 - Cincinnati Reds vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Storm at Fever" stop="20250826235959 -0500">
-    <title>06:00 PM 26/08/25 - Storm at Fever</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
