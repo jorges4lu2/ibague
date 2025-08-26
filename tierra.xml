@@ -159,6 +159,12 @@
   <channel id="Cincinnati Reds vs. Los Angeles Dodgers">
     <display-name lang="en">Cincinnati Reds vs. Los Angeles Dodgers</display-name>
   </channel>
+  <channel id="Storm at Fever">
+    <display-name lang="en">Storm at Fever</display-name>
+  </channel>
+  <channel id="Mercury at Sparks">
+    <display-name lang="en">Mercury at Sparks</display-name>
+  </channel>
   <channel id="Wolves vs West Ham">
     <display-name lang="en">Wolves vs West Ham</display-name>
   </channel>
@@ -643,6 +649,22 @@
   </programme>
   <programme start="20250826000000 -0500" channel="Cincinnati Reds vs. Los Angeles Dodgers" stop="20250826235959 -0500">
     <title>09:10 PM 26/08/25 - Cincinnati Reds vs. Los Angeles Dodgers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Storm at Fever" stop="20250826235959 -0500">
+    <title>06:00 PM 26/08/25 - Storm at Fever</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Mercury at Sparks" stop="20250826235959 -0500">
+    <title>09:00 PM 26/08/25 - Mercury at Sparks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
