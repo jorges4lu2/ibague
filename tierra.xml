@@ -9,8 +9,32 @@
   <channel id="Tampa Bay Rays vs. Cleveland Guardians">
     <display-name lang="en">Tampa Bay Rays vs. Cleveland Guardians</display-name>
   </channel>
+  <channel id="Washington Nationals vs. New York Yankees">
+    <display-name lang="en">Washington Nationals vs. New York Yankees</display-name>
+  </channel>
+  <channel id="Minnesota Twins vs. Toronto Blue Jays">
+    <display-name lang="en">Minnesota Twins vs. Toronto Blue Jays</display-name>
+  </channel>
+  <channel id="Philadelphia Phillies vs. New York Mets">
+    <display-name lang="en">Philadelphia Phillies vs. New York Mets</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. Milwaukee Brewers">
+    <display-name lang="en">Arizona Diamondbacks vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. Chicago White Sox">
+    <display-name lang="en">Kansas City Royals vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. St. Louis Cardinals">
+    <display-name lang="en">Pittsburgh Pirates vs. St. Louis Cardinals</display-name>
+  </channel>
   <channel id="Storm at Fever">
     <display-name lang="en">Storm at Fever</display-name>
+  </channel>
+  <channel id="Dana White's Contender Series">
+    <display-name lang="en">Dana White's Contender Series</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="Boise State Broncos vs. South Florida Bulls">
     <display-name lang="en">Boise State Broncos vs. South Florida Bulls</display-name>
@@ -126,24 +150,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Washington Nationals vs. New York Yankees">
-    <display-name lang="en">Washington Nationals vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Minnesota Twins vs. Toronto Blue Jays">
-    <display-name lang="en">Minnesota Twins vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. New York Mets">
-    <display-name lang="en">Philadelphia Phillies vs. New York Mets</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Milwaukee Brewers">
-    <display-name lang="en">Arizona Diamondbacks vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Chicago White Sox">
-    <display-name lang="en">Kansas City Royals vs. Chicago White Sox</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. St. Louis Cardinals">
-    <display-name lang="en">Pittsburgh Pirates vs. St. Louis Cardinals</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. Texas Rangers">
     <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
   </channel>
@@ -164,9 +170,6 @@
   </channel>
   <channel id="Mercury at Sparks">
     <display-name lang="en">Mercury at Sparks</display-name>
-  </channel>
-  <channel id="Dana White's Contender Series">
-    <display-name lang="en">Dana White's Contender Series</display-name>
   </channel>
   <channel id="Chelsea vs. Fulham">
     <display-name lang="en">Chelsea vs. Fulham</display-name>
@@ -197,9 +200,6 @@
   </channel>
   <channel id="Aston Villa vs. Crystal Palace">
     <display-name lang="en">Aston Villa vs. Crystal Palace</display-name>
-  </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -258,7 +258,71 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250826000000 -0500" channel="Washington Nationals vs. New York Yankees" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Minnesota Twins vs. Toronto Blue Jays" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Philadelphia Phillies vs. New York Mets" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Arizona Diamondbacks vs. Milwaukee Brewers" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Kansas City Royals vs. Chicago White Sox" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Pittsburgh Pirates vs. St. Louis Cardinals" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250826000000 -0500" channel="Storm at Fever" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Dana White's Contender Series" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="WWE: NXT" stop="20250826235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -570,54 +634,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250826000000 -0500" channel="Washington Nationals vs. New York Yankees" stop="20250826235959 -0500">
-    <title>06:05 PM 26/08/25 - Washington Nationals vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Minnesota Twins vs. Toronto Blue Jays" stop="20250826235959 -0500">
-    <title>06:07 PM 26/08/25 - Minnesota Twins vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Philadelphia Phillies vs. New York Mets" stop="20250826235959 -0500">
-    <title>06:10 PM 26/08/25 - Philadelphia Phillies vs. New York Mets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Arizona Diamondbacks vs. Milwaukee Brewers" stop="20250826235959 -0500">
-    <title>06:40 PM 26/08/25 - Arizona Diamondbacks vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Kansas City Royals vs. Chicago White Sox" stop="20250826235959 -0500">
-    <title>06:40 PM 26/08/25 - Kansas City Royals vs. Chicago White Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Pittsburgh Pirates vs. St. Louis Cardinals" stop="20250826235959 -0500">
-    <title>06:45 PM 26/08/25 - Pittsburgh Pirates vs. St. Louis Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250826000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250826235959 -0500">
     <title>07:05 PM 26/08/25 - Los Angeles Angels vs. Texas Rangers</title>
     <date>2025</date>
@@ -668,14 +684,6 @@
   </programme>
   <programme start="20250826000000 -0500" channel="Mercury at Sparks" stop="20250826235959 -0500">
     <title>09:00 PM 26/08/25 - Mercury at Sparks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Dana White's Contender Series" stop="20250826235959 -0500">
-    <title>07:00 PM 26/08/25 - Dana White's Contender Series</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -756,14 +764,6 @@
   </programme>
   <programme start="20250826000000 -0500" channel="Aston Villa vs. Crystal Palace" stop="20250826235959 -0500">
     <title>01:00 PM 31/08/25 - Aston Villa vs. Crystal Palace</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="WWE: NXT" stop="20250826235959 -0500">
-    <title>07:00 PM 26/08/25 - WWE: NXT</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
