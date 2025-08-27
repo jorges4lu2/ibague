@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250826 -0500">
-  <channel id="Boston Red Sox vs. Baltimore Orioles">
-    <display-name lang="en">Boston Red Sox vs. Baltimore Orioles</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Miami Marlins">
-    <display-name lang="en">Atlanta Braves vs. Miami Marlins</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Cleveland Guardians">
-    <display-name lang="en">Tampa Bay Rays vs. Cleveland Guardians</display-name>
-  </channel>
   <channel id="Washington Nationals vs. New York Yankees">
     <display-name lang="en">Washington Nationals vs. New York Yankees</display-name>
   </channel>
@@ -33,8 +24,14 @@
   <channel id="Colorado Rockies vs. Houston Astros">
     <display-name lang="en">Colorado Rockies vs. Houston Astros</display-name>
   </channel>
-  <channel id="Storm at Fever">
-    <display-name lang="en">Storm at Fever</display-name>
+  <channel id="San Diego Padres vs. Seattle Mariners">
+    <display-name lang="en">San Diego Padres vs. Seattle Mariners</display-name>
+  </channel>
+  <channel id="Chicago Cubs vs. San Francisco Giants">
+    <display-name lang="en">Chicago Cubs vs. San Francisco Giants</display-name>
+  </channel>
+  <channel id="Mercury at Sparks">
+    <display-name lang="en">Mercury at Sparks</display-name>
   </channel>
   <channel id="Dana White's Contender Series">
     <display-name lang="en">Dana White's Contender Series</display-name>
@@ -156,20 +153,17 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="San Diego Padres vs. Seattle Mariners">
-    <display-name lang="en">San Diego Padres vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Chicago Cubs vs. San Francisco Giants">
-    <display-name lang="en">Chicago Cubs vs. San Francisco Giants</display-name>
-  </channel>
   <channel id="Detroit Tigers vs. Athletics">
     <display-name lang="en">Detroit Tigers vs. Athletics</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Los Angeles Dodgers">
     <display-name lang="en">Cincinnati Reds vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="Mercury at Sparks">
-    <display-name lang="en">Mercury at Sparks</display-name>
+  <channel id="Orlando City SC vs. Inter Miami CF">
+    <display-name lang="en">Orlando City SC vs. Inter Miami CF</display-name>
+  </channel>
+  <channel id="Seattle Sounders FC vs. LA Galaxy">
+    <display-name lang="en">Seattle Sounders FC vs. LA Galaxy</display-name>
   </channel>
   <channel id="Chelsea vs. Fulham">
     <display-name lang="en">Chelsea vs. Fulham</display-name>
@@ -234,30 +228,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250826000000 -0500" channel="Boston Red Sox vs. Baltimore Orioles" stop="20250826235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Atlanta Braves vs. Miami Marlins" stop="20250826235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Tampa Bay Rays vs. Cleveland Guardians" stop="20250826235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250826000000 -0500" channel="Washington Nationals vs. New York Yankees" stop="20250826235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -322,7 +292,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250826000000 -0500" channel="Storm at Fever" stop="20250826235959 -0500">
+  <programme start="20250826000000 -0500" channel="San Diego Padres vs. Seattle Mariners" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Chicago Cubs vs. San Francisco Giants" stop="20250826235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Mercury at Sparks" stop="20250826235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -650,22 +636,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250826000000 -0500" channel="San Diego Padres vs. Seattle Mariners" stop="20250826235959 -0500">
-    <title>08:40 PM 26/08/25 - San Diego Padres vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250826000000 -0500" channel="Chicago Cubs vs. San Francisco Giants" stop="20250826235959 -0500">
-    <title>08:45 PM 26/08/25 - Chicago Cubs vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250826000000 -0500" channel="Detroit Tigers vs. Athletics" stop="20250826235959 -0500">
     <title>09:05 PM 26/08/25 - Detroit Tigers vs. Athletics</title>
     <date>2025</date>
@@ -682,8 +652,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250826000000 -0500" channel="Mercury at Sparks" stop="20250826235959 -0500">
-    <title>09:00 PM 26/08/25 - Mercury at Sparks</title>
+  <programme start="20250826000000 -0500" channel="Orlando City SC vs. Inter Miami CF" stop="20250826235959 -0500">
+    <title>07:30 PM 27/08/25 - Orlando City SC vs. Inter Miami CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250826000000 -0500" channel="Seattle Sounders FC vs. LA Galaxy" stop="20250826235959 -0500">
+    <title>09:45 PM 27/08/25 - Seattle Sounders FC vs. LA Galaxy</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
