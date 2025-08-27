@@ -3,6 +3,9 @@
   <channel id="San Diego Padres vs. Seattle Mariners">
     <display-name lang="en">San Diego Padres vs. Seattle Mariners</display-name>
   </channel>
+  <channel id="Boston Red Sox vs. Baltimore Orioles">
+    <display-name lang="en">Boston Red Sox vs. Baltimore Orioles</display-name>
+  </channel>
   <channel id="Boise State Broncos vs. South Florida Bulls">
     <display-name lang="en">Boise State Broncos vs. South Florida Bulls</display-name>
   </channel>
@@ -117,9 +120,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Boston Red Sox vs. Baltimore Orioles">
-    <display-name lang="en">Boston Red Sox vs. Baltimore Orioles</display-name>
-  </channel>
   <channel id="Minnesota Twins vs. Toronto Blue Jays">
     <display-name lang="en">Minnesota Twins vs. Toronto Blue Jays</display-name>
   </channel>
@@ -161,6 +161,9 @@
   </channel>
   <channel id="Seattle Sounders FC vs. LA Galaxy">
     <display-name lang="en">Seattle Sounders FC vs. LA Galaxy</display-name>
+  </channel>
+  <channel id="UEFA Champions League 2025/2026 Draw">
+    <display-name lang="en">UEFA Champions League 2025/2026 Draw</display-name>
   </channel>
   <channel id="Chelsea vs. Fulham">
     <display-name lang="en">Chelsea vs. Fulham</display-name>
@@ -226,6 +229,14 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250827000000 -0500" channel="San Diego Padres vs. Seattle Mariners" stop="20250827235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250827000000 -0500" channel="Boston Red Sox vs. Baltimore Orioles" stop="20250827235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -537,14 +548,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250827000000 -0500" channel="Boston Red Sox vs. Baltimore Orioles" stop="20250827235959 -0500">
-    <title>05:35 PM 27/08/25 - Boston Red Sox vs. Baltimore Orioles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250827000000 -0500" channel="Minnesota Twins vs. Toronto Blue Jays" stop="20250827235959 -0500">
     <title>06:07 PM 27/08/25 - Minnesota Twins vs. Toronto Blue Jays</title>
     <date>2025</date>
@@ -651,6 +654,14 @@
   </programme>
   <programme start="20250827000000 -0500" channel="Seattle Sounders FC vs. LA Galaxy" stop="20250827235959 -0500">
     <title>09:45 PM 27/08/25 - Seattle Sounders FC vs. LA Galaxy</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250827000000 -0500" channel="UEFA Champions League 2025/2026 Draw" stop="20250827235959 -0500">
+    <title>11:00 AM 28/08/25 - UEFA Champions League 2025/2026 Draw</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
