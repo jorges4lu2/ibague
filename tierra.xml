@@ -3,8 +3,11 @@
   <channel id="Boise State Broncos vs. South Florida Bulls">
     <display-name lang="en">Boise State Broncos vs. South Florida Bulls</display-name>
   </channel>
-  <channel id="Chicago Cubs vs. San Francisco Giants">
-    <display-name lang="en">Chicago Cubs vs. San Francisco Giants</display-name>
+  <channel id="Atlanta Braves vs. Philadelphia Phillies">
+    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Mystics at Liberty">
+    <display-name lang="en">Mystics at Liberty</display-name>
   </channel>
   <channel id="Western Illinois Leathernecks vs. Illinois Fighting Illini">
     <display-name lang="en">Western Illinois Leathernecks vs. Illinois Fighting Illini</display-name>
@@ -117,17 +120,11 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Atlanta Braves vs. Philadelphia Phillies">
-    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
-  </channel>
   <channel id="Miami Marlins vs. New York Mets">
     <display-name lang="en">Miami Marlins vs. New York Mets</display-name>
   </channel>
   <channel id="New York Yankees vs. Chicago White Sox">
     <display-name lang="en">New York Yankees vs. Chicago White Sox</display-name>
-  </channel>
-  <channel id="Mystics at Liberty">
-    <display-name lang="en">Mystics at Liberty</display-name>
   </channel>
   <channel id="Storm at Lynx">
     <display-name lang="en">Storm at Lynx</display-name>
@@ -203,7 +200,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250828000000 -0500" channel="Chicago Cubs vs. San Francisco Giants" stop="20250828235959 -0500">
+  <programme start="20250828000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250828235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250828000000 -0500" channel="Mystics at Liberty" stop="20250828235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -507,14 +512,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250828000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250828235959 -0500">
-    <title>05:45 PM 28/08/25 - Atlanta Braves vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250828000000 -0500" channel="Miami Marlins vs. New York Mets" stop="20250828235959 -0500">
     <title>06:10 PM 28/08/25 - Miami Marlins vs. New York Mets</title>
     <date>2025</date>
@@ -525,14 +522,6 @@
   </programme>
   <programme start="20250828000000 -0500" channel="New York Yankees vs. Chicago White Sox" stop="20250828235959 -0500">
     <title>06:40 PM 28/08/25 - New York Yankees vs. Chicago White Sox</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250828000000 -0500" channel="Mystics at Liberty" stop="20250828235959 -0500">
-    <title>06:00 PM 28/08/25 - Mystics at Liberty</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
