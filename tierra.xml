@@ -12,6 +12,9 @@
   <channel id="Pittsburgh Pirates vs. St. Louis Cardinals">
     <display-name lang="en">Pittsburgh Pirates vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Chicago Cubs vs. San Francisco Giants">
+    <display-name lang="en">Chicago Cubs vs. San Francisco Giants</display-name>
+  </channel>
   <channel id="Boise State Broncos vs. South Florida Bulls">
     <display-name lang="en">Boise State Broncos vs. South Florida Bulls</display-name>
   </channel>
@@ -126,9 +129,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Chicago Cubs vs. San Francisco Giants">
-    <display-name lang="en">Chicago Cubs vs. San Francisco Giants</display-name>
-  </channel>
   <channel id="Atlanta Braves vs. Philadelphia Phillies">
     <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
@@ -232,6 +232,14 @@
     </audio>
   </programme>
   <programme start="20250828000000 -0500" channel="Pittsburgh Pirates vs. St. Louis Cardinals" stop="20250828235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250828000000 -0500" channel="Chicago Cubs vs. San Francisco Giants" stop="20250828235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -537,14 +545,6 @@
   </programme>
   <programme start="20250828000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250828235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250828000000 -0500" channel="Chicago Cubs vs. San Francisco Giants" stop="20250828235959 -0500">
-    <title>02:45 PM 28/08/25 - Chicago Cubs vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
