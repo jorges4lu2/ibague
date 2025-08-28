@@ -141,6 +141,12 @@
   <channel id="Mystics at Liberty">
     <display-name lang="en">Mystics at Liberty</display-name>
   </channel>
+  <channel id="Storm at Lynx">
+    <display-name lang="en">Storm at Lynx</display-name>
+  </channel>
+  <channel id="Sky at Mercury">
+    <display-name lang="en">Sky at Mercury</display-name>
+  </channel>
   <channel id="UEFA Champions League 2025/2026 Draw">
     <display-name lang="en">UEFA Champions League 2025/2026 Draw</display-name>
   </channel>
@@ -574,6 +580,22 @@
   </programme>
   <programme start="20250828000000 -0500" channel="Mystics at Liberty" stop="20250828235959 -0500">
     <title>06:00 PM 28/08/25 - Mystics at Liberty</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250828000000 -0500" channel="Storm at Lynx" stop="20250828235959 -0500">
+    <title>07:00 PM 28/08/25 - Storm at Lynx</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250828000000 -0500" channel="Sky at Mercury" stop="20250828235959 -0500">
+    <title>09:00 PM 28/08/25 - Sky at Mercury</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
