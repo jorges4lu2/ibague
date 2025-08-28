@@ -3,8 +3,14 @@
   <channel id="Boston Red Sox vs. Baltimore Orioles">
     <display-name lang="en">Boston Red Sox vs. Baltimore Orioles</display-name>
   </channel>
-  <channel id="UEFA Champions League 2025/2026 Draw">
-    <display-name lang="en">UEFA Champions League 2025/2026 Draw</display-name>
+  <channel id="Arizona Diamondbacks vs. Milwaukee Brewers">
+    <display-name lang="en">Arizona Diamondbacks vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Colorado Rockies vs. Houston Astros">
+    <display-name lang="en">Colorado Rockies vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. St. Louis Cardinals">
+    <display-name lang="en">Pittsburgh Pirates vs. St. Louis Cardinals</display-name>
   </channel>
   <channel id="Boise State Broncos vs. South Florida Bulls">
     <display-name lang="en">Boise State Broncos vs. South Florida Bulls</display-name>
@@ -120,15 +126,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Arizona Diamondbacks vs. Milwaukee Brewers">
-    <display-name lang="en">Arizona Diamondbacks vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Houston Astros">
-    <display-name lang="en">Colorado Rockies vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. St. Louis Cardinals">
-    <display-name lang="en">Pittsburgh Pirates vs. St. Louis Cardinals</display-name>
-  </channel>
   <channel id="Chicago Cubs vs. San Francisco Giants">
     <display-name lang="en">Chicago Cubs vs. San Francisco Giants</display-name>
   </channel>
@@ -218,7 +215,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250828000000 -0500" channel="UEFA Champions League 2025/2026 Draw" stop="20250828235959 -0500">
+  <programme start="20250828000000 -0500" channel="Arizona Diamondbacks vs. Milwaukee Brewers" stop="20250828235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250828000000 -0500" channel="Colorado Rockies vs. Houston Astros" stop="20250828235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250828000000 -0500" channel="Pittsburgh Pirates vs. St. Louis Cardinals" stop="20250828235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -524,30 +537,6 @@
   </programme>
   <programme start="20250828000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250828235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250828000000 -0500" channel="Arizona Diamondbacks vs. Milwaukee Brewers" stop="20250828235959 -0500">
-    <title>01:10 PM 28/08/25 - Arizona Diamondbacks vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250828000000 -0500" channel="Colorado Rockies vs. Houston Astros" stop="20250828235959 -0500">
-    <title>01:10 PM 28/08/25 - Colorado Rockies vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250828000000 -0500" channel="Pittsburgh Pirates vs. St. Louis Cardinals" stop="20250828235959 -0500">
-    <title>01:15 PM 28/08/25 - Pittsburgh Pirates vs. St. Louis Cardinals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
