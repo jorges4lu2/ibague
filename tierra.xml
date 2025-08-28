@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250828 -0500">
+  <channel id="UEFA Champions League 2025/2026 Draw">
+    <display-name lang="en">UEFA Champions League 2025/2026 Draw</display-name>
+  </channel>
   <channel id="Boise State Broncos vs. South Florida Bulls">
     <display-name lang="en">Boise State Broncos vs. South Florida Bulls</display-name>
   </channel>
@@ -147,9 +150,6 @@
   <channel id="Sky at Mercury">
     <display-name lang="en">Sky at Mercury</display-name>
   </channel>
-  <channel id="UEFA Champions League 2025/2026 Draw">
-    <display-name lang="en">UEFA Champions League 2025/2026 Draw</display-name>
-  </channel>
   <channel id="Chelsea vs. Fulham">
     <display-name lang="en">Chelsea vs. Fulham</display-name>
   </channel>
@@ -210,6 +210,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250828000000 -0500" channel="UEFA Champions League 2025/2026 Draw" stop="20250828235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250828000000 -0500" channel="Boise State Broncos vs. South Florida Bulls" stop="20250828235959 -0500">
     <title>04:30 PM 28/08/25 - Boise State Broncos vs. South Florida Bulls</title>
     <date>2025</date>
@@ -596,14 +604,6 @@
   </programme>
   <programme start="20250828000000 -0500" channel="Sky at Mercury" stop="20250828235959 -0500">
     <title>09:00 PM 28/08/25 - Sky at Mercury</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250828000000 -0500" channel="UEFA Champions League 2025/2026 Draw" stop="20250828235959 -0500">
-    <title>11:00 AM 28/08/25 - UEFA Champions League 2025/2026 Draw</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
