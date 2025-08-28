@@ -18,11 +18,23 @@
   <channel id="Pittsburgh Pirates vs. St. Louis Cardinals">
     <display-name lang="en">Pittsburgh Pirates vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="Los Angeles Angels vs. Texas Rangers">
+    <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="Colorado Rockies vs. Houston Astros">
+    <display-name lang="en">Colorado Rockies vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Cincinnati Reds vs. Los Angeles Dodgers">
+    <display-name lang="en">Cincinnati Reds vs. Los Angeles Dodgers</display-name>
+  </channel>
   <channel id="Aces at Dream">
     <display-name lang="en">Aces at Dream</display-name>
   </channel>
   <channel id="Sun at Wings">
     <display-name lang="en">Sun at Wings</display-name>
+  </channel>
+  <channel id="Orlando City SC vs. Inter Miami CF">
+    <display-name lang="en">Orlando City SC vs. Inter Miami CF</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -141,23 +153,11 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Los Angeles Angels vs. Texas Rangers">
-    <display-name lang="en">Los Angeles Angels vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. Houston Astros">
-    <display-name lang="en">Colorado Rockies vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. Los Angeles Dodgers">
-    <display-name lang="en">Cincinnati Reds vs. Los Angeles Dodgers</display-name>
-  </channel>
   <channel id="Chicago Cubs vs. San Francisco Giants">
     <display-name lang="en">Chicago Cubs vs. San Francisco Giants</display-name>
   </channel>
   <channel id="Detroit Tigers vs. Athletics">
     <display-name lang="en">Detroit Tigers vs. Athletics</display-name>
-  </channel>
-  <channel id="Orlando City SC vs. Inter Miami CF">
-    <display-name lang="en">Orlando City SC vs. Inter Miami CF</display-name>
   </channel>
   <channel id="Seattle Sounders FC vs. LA Galaxy">
     <display-name lang="en">Seattle Sounders FC vs. LA Galaxy</display-name>
@@ -273,6 +273,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250827000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250827235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250827000000 -0500" channel="Colorado Rockies vs. Houston Astros" stop="20250827235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250827000000 -0500" channel="Cincinnati Reds vs. Los Angeles Dodgers" stop="20250827235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250827000000 -0500" channel="Aces at Dream" stop="20250827235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -282,6 +306,14 @@
     </audio>
   </programme>
   <programme start="20250827000000 -0500" channel="Sun at Wings" stop="20250827235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250827000000 -0500" channel="Orlando City SC vs. Inter Miami CF" stop="20250827235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -601,30 +633,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250827000000 -0500" channel="Los Angeles Angels vs. Texas Rangers" stop="20250827235959 -0500">
-    <title>07:05 PM 27/08/25 - Los Angeles Angels vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250827000000 -0500" channel="Colorado Rockies vs. Houston Astros" stop="20250827235959 -0500">
-    <title>07:10 PM 27/08/25 - Colorado Rockies vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250827000000 -0500" channel="Cincinnati Reds vs. Los Angeles Dodgers" stop="20250827235959 -0500">
-    <title>07:40 PM 27/08/25 - Cincinnati Reds vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250827000000 -0500" channel="Chicago Cubs vs. San Francisco Giants" stop="20250827235959 -0500">
     <title>08:45 PM 27/08/25 - Chicago Cubs vs. San Francisco Giants</title>
     <date>2025</date>
@@ -635,14 +643,6 @@
   </programme>
   <programme start="20250827000000 -0500" channel="Detroit Tigers vs. Athletics" stop="20250827235959 -0500">
     <title>09:05 PM 27/08/25 - Detroit Tigers vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250827000000 -0500" channel="Orlando City SC vs. Inter Miami CF" stop="20250827235959 -0500">
-    <title>07:30 PM 27/08/25 - Orlando City SC vs. Inter Miami CF</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
