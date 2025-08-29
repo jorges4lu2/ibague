@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250829 -0500">
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
   <channel id="Western Illinois Leathernecks vs. Illinois Fighting Illini">
     <display-name lang="en">Western Illinois Leathernecks vs. Illinois Fighting Illini</display-name>
   </channel>
@@ -192,9 +195,6 @@
   <channel id="Aston Villa vs. Crystal Palace">
     <display-name lang="en">Aston Villa vs. Crystal Palace</display-name>
   </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
-  </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
@@ -219,6 +219,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250829000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250829235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250829000000 -0500" channel="Western Illinois Leathernecks vs. Illinois Fighting Illini" stop="20250829235959 -0500">
     <title>06:30 PM 29/08/25 - Western Illinois Leathernecks vs. Illinois Fighting Illini</title>
     <date>2025</date>
@@ -725,14 +733,6 @@
   </programme>
   <programme start="20250829000000 -0500" channel="Aston Villa vs. Crystal Palace" stop="20250829235959 -0500">
     <title>01:00 PM 31/08/25 - Aston Villa vs. Crystal Palace</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250829000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250829235959 -0500">
-    <title>01:00 PM 29/08/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
