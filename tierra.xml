@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250828 -0500">
-  <channel id="Boise State Broncos vs. South Florida Bulls">
-    <display-name lang="en">Boise State Broncos vs. South Florida Bulls</display-name>
-  </channel>
   <channel id="Atlanta Braves vs. Philadelphia Phillies">
     <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
@@ -192,14 +189,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250828000000 -0500" channel="Boise State Broncos vs. South Florida Bulls" stop="20250828235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250828000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250828235959 -0500">
     <title>Live</title>
     <date>2025</date>
