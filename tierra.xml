@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250830 -0500">
-  <channel id="Old Dominion Monarchs vs. Indiana Hoosiers">
-    <display-name lang="en">Old Dominion Monarchs vs. Indiana Hoosiers</display-name>
-  </channel>
   <channel id="Nevada Wolf Pack vs. Penn State Nittany Lions">
     <display-name lang="en">Nevada Wolf Pack vs. Penn State Nittany Lions</display-name>
   </channel>
@@ -18,6 +15,9 @@
   <channel id="Montana State Bobcats vs. Oregon Ducks">
     <display-name lang="en">Montana State Bobcats vs. Oregon Ducks</display-name>
   </channel>
+  <channel id="Illinois State Redbirds vs. Oklahoma Sooners">
+    <display-name lang="en">Illinois State Redbirds vs. Oklahoma Sooners</display-name>
+  </channel>
   <channel id="Milwaukee Brewers vs. Toronto Blue Jays">
     <display-name lang="en">Milwaukee Brewers vs. Toronto Blue Jays</display-name>
   </channel>
@@ -30,11 +30,11 @@
   <channel id="Pittsburgh Pirates vs. Boston Red Sox">
     <display-name lang="en">Pittsburgh Pirates vs. Boston Red Sox</display-name>
   </channel>
+  <channel id="Brazil v USA">
+    <display-name lang="en">Brazil v USA</display-name>
+  </channel>
   <channel id="MF &amp;amp; DAZN: X Series 22: Till vs. Rockhold">
     <display-name lang="en">MF &amp;amp; DAZN: X Series 22: Till vs. Rockhold</display-name>
-  </channel>
-  <channel id="Illinois State Redbirds vs. Oklahoma Sooners">
-    <display-name lang="en">Illinois State Redbirds vs. Oklahoma Sooners</display-name>
   </channel>
   <channel id="Long Island University Sharks vs. Florida Gators">
     <display-name lang="en">Long Island University Sharks vs. Florida Gators</display-name>
@@ -153,6 +153,9 @@
   <channel id="Lynx at Sun">
     <display-name lang="en">Lynx at Sun</display-name>
   </channel>
+  <channel id="Canada v Argentina">
+    <display-name lang="en">Canada v Argentina</display-name>
+  </channel>
   <channel id="Mystics at Valkyries">
     <display-name lang="en">Mystics at Valkyries</display-name>
   </channel>
@@ -161,6 +164,24 @@
   </channel>
   <channel id="Liberty at Mercury">
     <display-name lang="en">Liberty at Mercury</display-name>
+  </channel>
+  <channel id="Georgia vs Greece (Limassol Cyprus)">
+    <display-name lang="en">Georgia vs Greece (Limassol Cyprus)</display-name>
+  </channel>
+  <channel id="Slovenia vs Belgium (Katowice Poland)">
+    <display-name lang="en">Slovenia vs Belgium (Katowice Poland)</display-name>
+  </channel>
+  <channel id="Israel vs France (Katowice Poland)">
+    <display-name lang="en">Israel vs France (Katowice Poland)</display-name>
+  </channel>
+  <channel id="Spain vs Cyprus (Limassol Cyprus)">
+    <display-name lang="en">Spain vs Cyprus (Limassol Cyprus)</display-name>
+  </channel>
+  <channel id="Bosnia and Herzegovina vs Italy (Limmasol Cyprus)">
+    <display-name lang="en">Bosnia and Herzegovina vs Italy (Limmasol Cyprus)</display-name>
+  </channel>
+  <channel id="Poland vs Iceland (Katowice Poland)">
+    <display-name lang="en">Poland vs Iceland (Katowice Poland)</display-name>
   </channel>
   <channel id="Brighton and Hove Albion vs. Manchester City">
     <display-name lang="en">Brighton and Hove Albion vs. Manchester City</display-name>
@@ -198,14 +219,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250830000000 -0500" channel="Old Dominion Monarchs vs. Indiana Hoosiers" stop="20250830235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250830000000 -0500" channel="Nevada Wolf Pack vs. Penn State Nittany Lions" stop="20250830235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -246,6 +259,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250830000000 -0500" channel="Illinois State Redbirds vs. Oklahoma Sooners" stop="20250830235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250830000000 -0500" channel="Milwaukee Brewers vs. Toronto Blue Jays" stop="20250830235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -278,7 +299,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250830000000 -0500" channel="MF &amp;amp; DAZN: X Series 22: Till vs. Rockhold" stop="20250830235959 -0500">
+  <programme start="20250830000000 -0500" channel="Brazil v USA" stop="20250830235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -286,8 +307,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250830000000 -0500" channel="Illinois State Redbirds vs. Oklahoma Sooners" stop="20250830235959 -0500">
-    <title>05:00 PM 30/08/25 - Illinois State Redbirds vs. Oklahoma Sooners</title>
+  <programme start="20250830000000 -0500" channel="MF &amp;amp; DAZN: X Series 22: Till vs. Rockhold" stop="20250830235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -606,6 +627,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250830000000 -0500" channel="Canada v Argentina" stop="20250830235959 -0500">
+    <title>07:10 PM 30/08/25 - Canada v Argentina</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250830000000 -0500" channel="Mystics at Valkyries" stop="20250830235959 -0500">
     <title>07:30 PM 30/08/25 - Mystics at Valkyries</title>
     <date>2025</date>
@@ -624,6 +653,54 @@
   </programme>
   <programme start="20250830000000 -0500" channel="Liberty at Mercury" stop="20250830235959 -0500">
     <title>09:00 PM 30/08/25 - Liberty at Mercury</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250830000000 -0500" channel="Georgia vs Greece (Limassol Cyprus)" stop="20250830235959 -0500">
+    <title>07:00 AM 31/08/25 - Georgia vs Greece (Limassol Cyprus)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250830000000 -0500" channel="Slovenia vs Belgium (Katowice Poland)" stop="20250830235959 -0500">
+    <title>07:00 AM 31/08/25 - Slovenia vs Belgium (Katowice Poland)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250830000000 -0500" channel="Israel vs France (Katowice Poland)" stop="20250830235959 -0500">
+    <title>10:00 AM 31/08/25 - Israel vs France (Katowice Poland)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250830000000 -0500" channel="Spain vs Cyprus (Limassol Cyprus)" stop="20250830235959 -0500">
+    <title>10:15 AM 31/08/25 - Spain vs Cyprus (Limassol Cyprus)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250830000000 -0500" channel="Bosnia and Herzegovina vs Italy (Limmasol Cyprus)" stop="20250830235959 -0500">
+    <title>01:30 PM 31/08/25 - Bosnia and Herzegovina vs Italy (Limmasol Cyprus)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250830000000 -0500" channel="Poland vs Iceland (Katowice Poland)" stop="20250830235959 -0500">
+    <title>01:30 PM 31/08/25 - Poland vs Iceland (Katowice Poland)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
