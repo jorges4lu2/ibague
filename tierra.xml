@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250830 -0500">
-  <channel id="Texas Longhorns vs. Ohio State Buckeyes">
-    <display-name lang="en">Texas Longhorns vs. Ohio State Buckeyes</display-name>
-  </channel>
-  <channel id="Syracuse Orange vs. Tennessee Volunteers">
-    <display-name lang="en">Syracuse Orange vs. Tennessee Volunteers</display-name>
-  </channel>
   <channel id="Old Dominion Monarchs vs. Indiana Hoosiers">
     <display-name lang="en">Old Dominion Monarchs vs. Indiana Hoosiers</display-name>
   </channel>
@@ -201,22 +195,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250830000000 -0500" channel="Texas Longhorns vs. Ohio State Buckeyes" stop="20250830235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250830000000 -0500" channel="Syracuse Orange vs. Tennessee Volunteers" stop="20250830235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250830000000 -0500" channel="Old Dominion Monarchs vs. Indiana Hoosiers" stop="20250830235959 -0500">
     <title>01:30 PM 30/08/25 - Old Dominion Monarchs vs. Indiana Hoosiers</title>
     <date>2025</date>
