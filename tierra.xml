@@ -3,15 +3,6 @@
   <channel id="Western Illinois Leathernecks vs. Illinois Fighting Illini">
     <display-name lang="en">Western Illinois Leathernecks vs. Illinois Fighting Illini</display-name>
   </channel>
-  <channel id="St. Louis Cardinals vs. Cincinnati Reds">
-    <display-name lang="en">St. Louis Cardinals vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Atlanta Braves vs. Philadelphia Phillies">
-    <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Washington Nationals">
-    <display-name lang="en">Tampa Bay Rays vs. Washington Nationals</display-name>
-  </channel>
   <channel id="Milwaukee Brewers vs. Toronto Blue Jays">
     <display-name lang="en">Milwaukee Brewers vs. Toronto Blue Jays</display-name>
   </channel>
@@ -41,6 +32,9 @@
   </channel>
   <channel id="Wings at Dream">
     <display-name lang="en">Wings at Dream</display-name>
+  </channel>
+  <channel id="Fever at Sparks">
+    <display-name lang="en">Fever at Sparks</display-name>
   </channel>
   <channel id="Texas Longhorns vs. Ohio State Buckeyes">
     <display-name lang="en">Texas Longhorns vs. Ohio State Buckeyes</display-name>
@@ -159,9 +153,6 @@
   <channel id="Baltimore Orioles vs. San Francisco Giants">
     <display-name lang="en">Baltimore Orioles vs. San Francisco Giants</display-name>
   </channel>
-  <channel id="Fever at Sparks">
-    <display-name lang="en">Fever at Sparks</display-name>
-  </channel>
   <channel id="Chelsea vs. Fulham">
     <display-name lang="en">Chelsea vs. Fulham</display-name>
   </channel>
@@ -217,30 +208,6 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250829000000 -0500" channel="Western Illinois Leathernecks vs. Illinois Fighting Illini" stop="20250829235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250829000000 -0500" channel="St. Louis Cardinals vs. Cincinnati Reds" stop="20250829235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250829000000 -0500" channel="Atlanta Braves vs. Philadelphia Phillies" stop="20250829235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250829000000 -0500" channel="Tampa Bay Rays vs. Washington Nationals" stop="20250829235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -321,6 +288,14 @@
     </audio>
   </programme>
   <programme start="20250829000000 -0500" channel="Wings at Dream" stop="20250829235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250829000000 -0500" channel="Fever at Sparks" stop="20250829235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -634,14 +609,6 @@
   </programme>
   <programme start="20250829000000 -0500" channel="Baltimore Orioles vs. San Francisco Giants" stop="20250829235959 -0500">
     <title>09:15 PM 29/08/25 - Baltimore Orioles vs. San Francisco Giants</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250829000000 -0500" channel="Fever at Sparks" stop="20250829235959 -0500">
-    <title>09:00 PM 29/08/25 - Fever at Sparks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
