@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250831 -0500">
-  <channel id="Spain vs Cyprus (Limassol Cyprus)">
-    <display-name lang="en">Spain vs Cyprus (Limassol Cyprus)</display-name>
+  <channel id="Virginia Tech Hokies vs. South Carolina Gamecocks">
+    <display-name lang="en">Virginia Tech Hokies vs. South Carolina Gamecocks</display-name>
   </channel>
-  <channel id="Liverpool vs. Arsenal">
-    <display-name lang="en">Liverpool vs. Arsenal</display-name>
+  <channel id="Bosnia and Herzegovina vs Italy (Limmasol Cyprus)">
+    <display-name lang="en">Bosnia and Herzegovina vs Italy (Limmasol Cyprus)</display-name>
+  </channel>
+  <channel id="Poland vs Iceland (Katowice Poland)">
+    <display-name lang="en">Poland vs Iceland (Katowice Poland)</display-name>
   </channel>
   <channel id="Aston Villa vs. Crystal Palace">
     <display-name lang="en">Aston Villa vs. Crystal Palace</display-name>
   </channel>
   <channel id="WWE: Clash in Paris 2025">
     <display-name lang="en">WWE: Clash in Paris 2025</display-name>
-  </channel>
-  <channel id="Virginia Tech Hokies vs. South Carolina Gamecocks">
-    <display-name lang="en">Virginia Tech Hokies vs. South Carolina Gamecocks</display-name>
   </channel>
   <channel id="Notre Dame Fighting Irish vs. Miami Hurricanes">
     <display-name lang="en">Notre Dame Fighting Irish vs. Miami Hurricanes</display-name>
@@ -66,12 +66,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Bosnia and Herzegovina vs Italy (Limmasol Cyprus)">
-    <display-name lang="en">Bosnia and Herzegovina vs Italy (Limmasol Cyprus)</display-name>
-  </channel>
-  <channel id="Poland vs Iceland (Katowice Poland)">
-    <display-name lang="en">Poland vs Iceland (Katowice Poland)</display-name>
-  </channel>
   <channel id="Canada v USA">
     <display-name lang="en">Canada v USA</display-name>
   </channel>
@@ -105,7 +99,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250831000000 -0500" channel="Spain vs Cyprus (Limassol Cyprus)" stop="20250831235959 -0500">
+  <programme start="20250831000000 -0500" channel="Virginia Tech Hokies vs. South Carolina Gamecocks" stop="20250831235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -113,7 +107,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250831000000 -0500" channel="Liverpool vs. Arsenal" stop="20250831235959 -0500">
+  <programme start="20250831000000 -0500" channel="Bosnia and Herzegovina vs Italy (Limmasol Cyprus)" stop="20250831235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Poland vs Iceland (Katowice Poland)" stop="20250831235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -131,14 +133,6 @@
   </programme>
   <programme start="20250831000000 -0500" channel="WWE: Clash in Paris 2025" stop="20250831235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Virginia Tech Hokies vs. South Carolina Gamecocks" stop="20250831235959 -0500">
-    <title>02:00 PM 31/08/25 - Virginia Tech Hokies vs. South Carolina Gamecocks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -275,22 +269,6 @@
   </programme>
   <programme start="20250831000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250831235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Bosnia and Herzegovina vs Italy (Limmasol Cyprus)" stop="20250831235959 -0500">
-    <title>01:30 PM 31/08/25 - Bosnia and Herzegovina vs Italy (Limmasol Cyprus)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Poland vs Iceland (Katowice Poland)" stop="20250831235959 -0500">
-    <title>01:30 PM 31/08/25 - Poland vs Iceland (Katowice Poland)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
