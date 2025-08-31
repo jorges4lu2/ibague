@@ -84,6 +84,9 @@
   <channel id="Aston Villa vs. Crystal Palace">
     <display-name lang="en">Aston Villa vs. Crystal Palace</display-name>
   </channel>
+  <channel id="F1: Dutch Grand Prix (Race)">
+    <display-name lang="en">F1: Dutch Grand Prix (Race)</display-name>
+  </channel>
   <channel id="WWE: Clash in Paris 2025">
     <display-name lang="en">WWE: Clash in Paris 2025</display-name>
   </channel>
@@ -323,6 +326,14 @@
   </programme>
   <programme start="20250831000000 -0500" channel="Aston Villa vs. Crystal Palace" stop="20250831235959 -0500">
     <title>01:00 PM 31/08/25 - Aston Villa vs. Crystal Palace</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="F1: Dutch Grand Prix (Race)" stop="20250831235959 -0500">
+    <title>08:00 AM 31/08/25 - F1: Dutch Grand Prix (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
