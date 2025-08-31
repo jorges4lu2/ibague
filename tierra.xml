@@ -84,6 +84,9 @@
   <channel id="Aston Villa vs. Crystal Palace">
     <display-name lang="en">Aston Villa vs. Crystal Palace</display-name>
   </channel>
+  <channel id="Rayo Vallecano vs Barcelona">
+    <display-name lang="en">Rayo Vallecano vs Barcelona</display-name>
+  </channel>
   <channel id="F1: Dutch Grand Prix (Race)">
     <display-name lang="en">F1: Dutch Grand Prix (Race)</display-name>
   </channel>
@@ -326,6 +329,14 @@
   </programme>
   <programme start="20250831000000 -0500" channel="Aston Villa vs. Crystal Palace" stop="20250831235959 -0500">
     <title>01:00 PM 31/08/25 - Aston Villa vs. Crystal Palace</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Rayo Vallecano vs Barcelona" stop="20250831235959 -0500">
+    <title>02:30 PM 31/08/25 - Rayo Vallecano vs Barcelona</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
