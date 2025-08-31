@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250831 -0500">
+  <channel id="Georgia vs Greece (Limassol Cyprus)">
+    <display-name lang="en">Georgia vs Greece (Limassol Cyprus)</display-name>
+  </channel>
+  <channel id="Slovenia vs Belgium (Katowice Poland)">
+    <display-name lang="en">Slovenia vs Belgium (Katowice Poland)</display-name>
+  </channel>
   <channel id="Virginia Tech Hokies vs. South Carolina Gamecocks">
     <display-name lang="en">Virginia Tech Hokies vs. South Carolina Gamecocks</display-name>
   </channel>
@@ -54,12 +60,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Georgia vs Greece (Limassol Cyprus)">
-    <display-name lang="en">Georgia vs Greece (Limassol Cyprus)</display-name>
-  </channel>
-  <channel id="Slovenia vs Belgium (Katowice Poland)">
-    <display-name lang="en">Slovenia vs Belgium (Katowice Poland)</display-name>
-  </channel>
   <channel id="Israel vs France (Katowice Poland)">
     <display-name lang="en">Israel vs France (Katowice Poland)</display-name>
   </channel>
@@ -111,6 +111,22 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250831000000 -0500" channel="Georgia vs Greece (Limassol Cyprus)" stop="20250831235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Slovenia vs Belgium (Katowice Poland)" stop="20250831235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250831000000 -0500" channel="Virginia Tech Hokies vs. South Carolina Gamecocks" stop="20250831235959 -0500">
     <title>02:00 PM 31/08/25 - Virginia Tech Hokies vs. South Carolina Gamecocks</title>
     <date>2025</date>
@@ -249,22 +265,6 @@
   </programme>
   <programme start="20250831000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250831235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Georgia vs Greece (Limassol Cyprus)" stop="20250831235959 -0500">
-    <title>07:00 AM 31/08/25 - Georgia vs Greece (Limassol Cyprus)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Slovenia vs Belgium (Katowice Poland)" stop="20250831235959 -0500">
-    <title>07:00 AM 31/08/25 - Slovenia vs Belgium (Katowice Poland)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
