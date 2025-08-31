@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250831 -0500">
-  <channel id="Georgia vs Greece (Limassol Cyprus)">
-    <display-name lang="en">Georgia vs Greece (Limassol Cyprus)</display-name>
-  </channel>
-  <channel id="Slovenia vs Belgium (Katowice Poland)">
-    <display-name lang="en">Slovenia vs Belgium (Katowice Poland)</display-name>
+  <channel id="Israel vs France (Katowice Poland)">
+    <display-name lang="en">Israel vs France (Katowice Poland)</display-name>
   </channel>
   <channel id="Brighton and Hove Albion vs. Manchester City">
     <display-name lang="en">Brighton and Hove Albion vs. Manchester City</display-name>
@@ -69,9 +66,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Israel vs France (Katowice Poland)">
-    <display-name lang="en">Israel vs France (Katowice Poland)</display-name>
-  </channel>
   <channel id="Spain vs Cyprus (Limassol Cyprus)">
     <display-name lang="en">Spain vs Cyprus (Limassol Cyprus)</display-name>
   </channel>
@@ -80,6 +74,12 @@
   </channel>
   <channel id="Poland vs Iceland (Katowice Poland)">
     <display-name lang="en">Poland vs Iceland (Katowice Poland)</display-name>
+  </channel>
+  <channel id="Mystics at Sparks">
+    <display-name lang="en">Mystics at Sparks</display-name>
+  </channel>
+  <channel id="Fever at Valkyries">
+    <display-name lang="en">Fever at Valkyries</display-name>
   </channel>
   <channel id="Liverpool vs. Arsenal">
     <display-name lang="en">Liverpool vs. Arsenal</display-name>
@@ -111,15 +111,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250831000000 -0500" channel="Georgia vs Greece (Limassol Cyprus)" stop="20250831235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Slovenia vs Belgium (Katowice Poland)" stop="20250831235959 -0500">
+  <programme start="20250831000000 -0500" channel="Israel vs France (Katowice Poland)" stop="20250831235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -295,14 +287,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250831000000 -0500" channel="Israel vs France (Katowice Poland)" stop="20250831235959 -0500">
-    <title>10:00 AM 31/08/25 - Israel vs France (Katowice Poland)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250831000000 -0500" channel="Spain vs Cyprus (Limassol Cyprus)" stop="20250831235959 -0500">
     <title>10:15 AM 31/08/25 - Spain vs Cyprus (Limassol Cyprus)</title>
     <date>2025</date>
@@ -321,6 +305,22 @@
   </programme>
   <programme start="20250831000000 -0500" channel="Poland vs Iceland (Katowice Poland)" stop="20250831235959 -0500">
     <title>01:30 PM 31/08/25 - Poland vs Iceland (Katowice Poland)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Mystics at Sparks" stop="20250831235959 -0500">
+    <title>07:00 PM 31/08/25 - Mystics at Sparks</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Fever at Valkyries" stop="20250831235959 -0500">
+    <title>07:30 PM 31/08/25 - Fever at Valkyries</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
