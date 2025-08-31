@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250831 -0500">
-  <channel id="Israel vs France (Katowice Poland)">
-    <display-name lang="en">Israel vs France (Katowice Poland)</display-name>
-  </channel>
   <channel id="Spain vs Cyprus (Limassol Cyprus)">
     <display-name lang="en">Spain vs Cyprus (Limassol Cyprus)</display-name>
   </channel>
   <channel id="Liverpool vs. Arsenal">
     <display-name lang="en">Liverpool vs. Arsenal</display-name>
+  </channel>
+  <channel id="Aston Villa vs. Crystal Palace">
+    <display-name lang="en">Aston Villa vs. Crystal Palace</display-name>
+  </channel>
+  <channel id="WWE: Clash in Paris 2025">
+    <display-name lang="en">WWE: Clash in Paris 2025</display-name>
   </channel>
   <channel id="Virginia Tech Hokies vs. South Carolina Gamecocks">
     <display-name lang="en">Virginia Tech Hokies vs. South Carolina Gamecocks</display-name>
@@ -81,14 +84,8 @@
   <channel id="Fever at Valkyries">
     <display-name lang="en">Fever at Valkyries</display-name>
   </channel>
-  <channel id="Aston Villa vs. Crystal Palace">
-    <display-name lang="en">Aston Villa vs. Crystal Palace</display-name>
-  </channel>
   <channel id="Rayo Vallecano vs Barcelona">
     <display-name lang="en">Rayo Vallecano vs Barcelona</display-name>
-  </channel>
-  <channel id="WWE: Clash in Paris 2025">
-    <display-name lang="en">WWE: Clash in Paris 2025</display-name>
   </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
@@ -108,14 +105,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250831000000 -0500" channel="Israel vs France (Katowice Poland)" stop="20250831235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250831000000 -0500" channel="Spain vs Cyprus (Limassol Cyprus)" stop="20250831235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -125,6 +114,22 @@
     </audio>
   </programme>
   <programme start="20250831000000 -0500" channel="Liverpool vs. Arsenal" stop="20250831235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Aston Villa vs. Crystal Palace" stop="20250831235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="WWE: Clash in Paris 2025" stop="20250831235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -324,24 +329,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250831000000 -0500" channel="Aston Villa vs. Crystal Palace" stop="20250831235959 -0500">
-    <title>01:00 PM 31/08/25 - Aston Villa vs. Crystal Palace</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250831000000 -0500" channel="Rayo Vallecano vs Barcelona" stop="20250831235959 -0500">
     <title>02:30 PM 31/08/25 - Rayo Vallecano vs Barcelona</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="WWE: Clash in Paris 2025" stop="20250831235959 -0500">
-    <title>01:00 PM 31/08/25 - WWE: Clash in Paris 2025</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
