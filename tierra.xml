@@ -3,6 +3,9 @@
   <channel id="Sweden vs Montenegro (Tampere Finland)">
     <display-name lang="en">Sweden vs Montenegro (Tampere Finland)</display-name>
   </channel>
+  <channel id="Estonia vs T&#252;rkiye (Riga Latvia)">
+    <display-name lang="en">Estonia vs T&#252;rkiye (Riga Latvia)</display-name>
+  </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
   </channel>
@@ -90,9 +93,6 @@
   <channel id="Texas Rangers vs. Arizona Diamondbacks">
     <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="Estonia vs T&#252;rkiye (Riga Latvia)">
-    <display-name lang="en">Estonia vs T&#252;rkiye (Riga Latvia)</display-name>
-  </channel>
   <channel id="Germany vs Great Britain (Tampere Finland)">
     <display-name lang="en">Germany vs Great Britain (Tampere Finland)</display-name>
   </channel>
@@ -142,6 +142,14 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250901000000 -0500" channel="Sweden vs Montenegro (Tampere Finland)" stop="20250901235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250901000000 -0500" channel="Estonia vs T&#252;rkiye (Riga Latvia)" stop="20250901235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -375,14 +383,6 @@
   </programme>
   <programme start="20250901000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250901235959 -0500">
     <title>07:10 PM 01/09/25 - Texas Rangers vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250901000000 -0500" channel="Estonia vs T&#252;rkiye (Riga Latvia)" stop="20250901235959 -0500">
-    <title>06:45 AM 01/09/25 - Estonia vs T&#252;rkiye (Riga Latvia)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
