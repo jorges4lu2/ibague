@@ -1,25 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250831 -0500">
-  <channel id="Baltimore Orioles vs. San Francisco Giants">
-    <display-name lang="en">Baltimore Orioles vs. San Francisco Giants</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Athletics">
-    <display-name lang="en">Texas Rangers vs. Athletics</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Los Angeles Dodgers">
-    <display-name lang="en">Arizona Diamondbacks vs. Los Angeles Dodgers</display-name>
+  <channel id="Notre Dame Fighting Irish vs. Miami Hurricanes">
+    <display-name lang="en">Notre Dame Fighting Irish vs. Miami Hurricanes</display-name>
   </channel>
   <channel id="Atlanta Braves vs. Philadelphia Phillies">
     <display-name lang="en">Atlanta Braves vs. Philadelphia Phillies</display-name>
   </channel>
-  <channel id="Canada v USA">
-    <display-name lang="en">Canada v USA</display-name>
-  </channel>
-  <channel id="WWE: Clash in Paris 2025">
-    <display-name lang="en">WWE: Clash in Paris 2025</display-name>
-  </channel>
-  <channel id="Notre Dame Fighting Irish vs. Miami Hurricanes">
-    <display-name lang="en">Notre Dame Fighting Irish vs. Miami Hurricanes</display-name>
+  <channel id="Mystics at Sparks">
+    <display-name lang="en">Mystics at Sparks</display-name>
   </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
@@ -69,14 +57,29 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Mystics at Sparks">
-    <display-name lang="en">Mystics at Sparks</display-name>
-  </channel>
   <channel id="Argentina v Brazil">
     <display-name lang="en">Argentina v Brazil</display-name>
   </channel>
   <channel id="Fever at Valkyries">
     <display-name lang="en">Fever at Valkyries</display-name>
+  </channel>
+  <channel id="Sweden vs Montenegro (Tampere Finland)">
+    <display-name lang="en">Sweden vs Montenegro (Tampere Finland)</display-name>
+  </channel>
+  <channel id="Estonia vs T&#252;rkiye (Riga Latvia)">
+    <display-name lang="en">Estonia vs T&#252;rkiye (Riga Latvia)</display-name>
+  </channel>
+  <channel id="Germany vs Great Britain (Tampere Finland)">
+    <display-name lang="en">Germany vs Great Britain (Tampere Finland)</display-name>
+  </channel>
+  <channel id="Portugal vs Latvia (Riga Latvia)">
+    <display-name lang="en">Portugal vs Latvia (Riga Latvia)</display-name>
+  </channel>
+  <channel id="Finland vs Lithuania (Tampere Finland)">
+    <display-name lang="en">Finland vs Lithuania (Tampere Finland)</display-name>
+  </channel>
+  <channel id="Serbia vs Czechia (Riga Latvia)">
+    <display-name lang="en">Serbia vs Czechia (Riga Latvia)</display-name>
   </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
@@ -96,23 +99,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250831000000 -0500" channel="Baltimore Orioles vs. San Francisco Giants" stop="20250831235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Texas Rangers vs. Athletics" stop="20250831235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Arizona Diamondbacks vs. Los Angeles Dodgers" stop="20250831235959 -0500">
+  <programme start="20250831000000 -0500" channel="Notre Dame Fighting Irish vs. Miami Hurricanes" stop="20250831235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -128,24 +115,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250831000000 -0500" channel="Canada v USA" stop="20250831235959 -0500">
+  <programme start="20250831000000 -0500" channel="Mystics at Sparks" stop="20250831235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="WWE: Clash in Paris 2025" stop="20250831235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Notre Dame Fighting Irish vs. Miami Hurricanes" stop="20250831235959 -0500">
-    <title>06:30 PM 31/08/25 - Notre Dame Fighting Irish vs. Miami Hurricanes</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -280,14 +251,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250831000000 -0500" channel="Mystics at Sparks" stop="20250831235959 -0500">
-    <title>07:00 PM 31/08/25 - Mystics at Sparks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250831000000 -0500" channel="Argentina v Brazil" stop="20250831235959 -0500">
     <title>07:10 PM 31/08/25 - Argentina v Brazil</title>
     <date>2025</date>
@@ -298,6 +261,54 @@
   </programme>
   <programme start="20250831000000 -0500" channel="Fever at Valkyries" stop="20250831235959 -0500">
     <title>07:30 PM 31/08/25 - Fever at Valkyries</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Sweden vs Montenegro (Tampere Finland)" stop="20250831235959 -0500">
+    <title>05:30 AM 01/09/25 - Sweden vs Montenegro (Tampere Finland)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Estonia vs T&#252;rkiye (Riga Latvia)" stop="20250831235959 -0500">
+    <title>06:45 AM 01/09/25 - Estonia vs T&#252;rkiye (Riga Latvia)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Germany vs Great Britain (Tampere Finland)" stop="20250831235959 -0500">
+    <title>08:30 AM 01/09/25 - Germany vs Great Britain (Tampere Finland)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Portugal vs Latvia (Riga Latvia)" stop="20250831235959 -0500">
+    <title>10:00 AM 01/09/25 - Portugal vs Latvia (Riga Latvia)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Finland vs Lithuania (Tampere Finland)" stop="20250831235959 -0500">
+    <title>12:30 PM 01/09/25 - Finland vs Lithuania (Tampere Finland)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Serbia vs Czechia (Riga Latvia)" stop="20250831235959 -0500">
+    <title>01:15 PM 01/09/25 - Serbia vs Czechia (Riga Latvia)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
