@@ -9,6 +9,12 @@
   <channel id="Mystics at Sparks">
     <display-name lang="en">Mystics at Sparks</display-name>
   </channel>
+  <channel id="Argentina v Brazil">
+    <display-name lang="en">Argentina v Brazil</display-name>
+  </channel>
+  <channel id="Fever at Valkyries">
+    <display-name lang="en">Fever at Valkyries</display-name>
+  </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
   </channel>
@@ -56,12 +62,6 @@
   </channel>
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="Argentina v Brazil">
-    <display-name lang="en">Argentina v Brazil</display-name>
-  </channel>
-  <channel id="Fever at Valkyries">
-    <display-name lang="en">Fever at Valkyries</display-name>
   </channel>
   <channel id="Sweden vs Montenegro (Tampere Finland)">
     <display-name lang="en">Sweden vs Montenegro (Tampere Finland)</display-name>
@@ -116,6 +116,22 @@
     </audio>
   </programme>
   <programme start="20250831000000 -0500" channel="Mystics at Sparks" stop="20250831235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Argentina v Brazil" stop="20250831235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250831000000 -0500" channel="Fever at Valkyries" stop="20250831235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -245,22 +261,6 @@
   </programme>
   <programme start="20250831000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250831235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Argentina v Brazil" stop="20250831235959 -0500">
-    <title>07:10 PM 31/08/25 - Argentina v Brazil</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Fever at Valkyries" stop="20250831235959 -0500">
-    <title>07:30 PM 31/08/25 - Fever at Valkyries</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
