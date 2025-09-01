@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250901 -0500">
-  <channel id="Germany vs Great Britain (Tampere Finland)">
-    <display-name lang="en">Germany vs Great Britain (Tampere Finland)</display-name>
-  </channel>
   <channel id="Portugal vs Latvia (Riga Latvia)">
     <display-name lang="en">Portugal vs Latvia (Riga Latvia)</display-name>
+  </channel>
+  <channel id="Dream at Sun">
+    <display-name lang="en">Dream at Sun</display-name>
   </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
@@ -93,9 +93,6 @@
   <channel id="Texas Rangers vs. Arizona Diamondbacks">
     <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="Dream at Sun">
-    <display-name lang="en">Dream at Sun</display-name>
-  </channel>
   <channel id="Finland vs Lithuania (Tampere Finland)">
     <display-name lang="en">Finland vs Lithuania (Tampere Finland)</display-name>
   </channel>
@@ -162,7 +159,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250901000000 -0500" channel="Germany vs Great Britain (Tampere Finland)" stop="20250901235959 -0500">
+  <programme start="20250901000000 -0500" channel="Portugal vs Latvia (Riga Latvia)" stop="20250901235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -170,7 +167,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250901000000 -0500" channel="Portugal vs Latvia (Riga Latvia)" stop="20250901235959 -0500">
+  <programme start="20250901000000 -0500" channel="Dream at Sun" stop="20250901235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -404,14 +401,6 @@
   </programme>
   <programme start="20250901000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250901235959 -0500">
     <title>07:10 PM 01/09/25 - Texas Rangers vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250901000000 -0500" channel="Dream at Sun" stop="20250901235959 -0500">
-    <title>12:00 PM 01/09/25 - Dream at Sun</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
