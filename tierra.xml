@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250831 -0500">
-  <channel id="Argentina v Brazil">
-    <display-name lang="en">Argentina v Brazil</display-name>
-  </channel>
-  <channel id="Fever at Valkyries">
-    <display-name lang="en">Fever at Valkyries</display-name>
-  </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
   </channel>
@@ -90,22 +84,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250831000000 -0500" channel="Argentina v Brazil" stop="20250831235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250831000000 -0500" channel="Fever at Valkyries" stop="20250831235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250831000000 -0500" channel="Dallas Cowboys vs. Philadelphia Eagles" stop="20250831235959 -0500">
     <title>07:20 PM 04/09/25 - Dallas Cowboys vs. Philadelphia Eagles</title>
     <date>2025</date>
