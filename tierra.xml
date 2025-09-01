@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250901 -0500">
+  <channel id="Sweden vs Montenegro (Tampere Finland)">
+    <display-name lang="en">Sweden vs Montenegro (Tampere Finland)</display-name>
+  </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
   </channel>
@@ -87,9 +90,6 @@
   <channel id="Texas Rangers vs. Arizona Diamondbacks">
     <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="Sweden vs Montenegro (Tampere Finland)">
-    <display-name lang="en">Sweden vs Montenegro (Tampere Finland)</display-name>
-  </channel>
   <channel id="Estonia vs T&#252;rkiye (Riga Latvia)">
     <display-name lang="en">Estonia vs T&#252;rkiye (Riga Latvia)</display-name>
   </channel>
@@ -141,6 +141,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250901000000 -0500" channel="Sweden vs Montenegro (Tampere Finland)" stop="20250901235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250901000000 -0500" channel="Dallas Cowboys vs. Philadelphia Eagles" stop="20250901235959 -0500">
     <title>07:20 PM 04/09/25 - Dallas Cowboys vs. Philadelphia Eagles</title>
     <date>2025</date>
@@ -367,14 +375,6 @@
   </programme>
   <programme start="20250901000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250901235959 -0500">
     <title>07:10 PM 01/09/25 - Texas Rangers vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250901000000 -0500" channel="Sweden vs Montenegro (Tampere Finland)" stop="20250901235959 -0500">
-    <title>05:30 AM 01/09/25 - Sweden vs Montenegro (Tampere Finland)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
