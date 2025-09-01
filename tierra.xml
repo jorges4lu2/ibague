@@ -12,11 +12,23 @@
   <channel id="Cleveland Guardians vs. Boston Red Sox">
     <display-name lang="en">Cleveland Guardians vs. Boston Red Sox</display-name>
   </channel>
+  <channel id="Los Angeles Angels vs. Houston Astros">
+    <display-name lang="en">Los Angeles Angels vs. Houston Astros</display-name>
+  </channel>
+  <channel id="Chicago White Sox vs. Minnesota Twins">
+    <display-name lang="en">Chicago White Sox vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="Athletics vs. St. Louis Cardinals">
+    <display-name lang="en">Athletics vs. St. Louis Cardinals</display-name>
+  </channel>
   <channel id="Dream at Sun">
     <display-name lang="en">Dream at Sun</display-name>
   </channel>
   <channel id="Finland vs Lithuania (Tampere Finland)">
     <display-name lang="en">Finland vs Lithuania (Tampere Finland)</display-name>
+  </channel>
+  <channel id="Serbia vs Czechia (Riga Latvia)">
+    <display-name lang="en">Serbia vs Czechia (Riga Latvia)</display-name>
   </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
@@ -69,15 +81,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Los Angeles Angels vs. Houston Astros">
-    <display-name lang="en">Los Angeles Angels vs. Houston Astros</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Minnesota Twins">
-    <display-name lang="en">Chicago White Sox vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="Athletics vs. St. Louis Cardinals">
-    <display-name lang="en">Athletics vs. St. Louis Cardinals</display-name>
-  </channel>
   <channel id="Atlanta Braves vs. Chicago Cubs">
     <display-name lang="en">Atlanta Braves vs. Chicago Cubs</display-name>
   </channel>
@@ -95,9 +98,6 @@
   </channel>
   <channel id="Texas Rangers vs. Arizona Diamondbacks">
     <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Serbia vs Czechia (Riga Latvia)">
-    <display-name lang="en">Serbia vs Czechia (Riga Latvia)</display-name>
   </channel>
   <channel id="Wings at Lynx">
     <display-name lang="en">Wings at Lynx</display-name>
@@ -188,6 +188,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250901000000 -0500" channel="Los Angeles Angels vs. Houston Astros" stop="20250901235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250901000000 -0500" channel="Chicago White Sox vs. Minnesota Twins" stop="20250901235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250901000000 -0500" channel="Athletics vs. St. Louis Cardinals" stop="20250901235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250901000000 -0500" channel="Dream at Sun" stop="20250901235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -197,6 +221,14 @@
     </audio>
   </programme>
   <programme start="20250901000000 -0500" channel="Finland vs Lithuania (Tampere Finland)" stop="20250901235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250901000000 -0500" channel="Serbia vs Czechia (Riga Latvia)" stop="20250901235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -340,30 +372,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250901000000 -0500" channel="Los Angeles Angels vs. Houston Astros" stop="20250901235959 -0500">
-    <title>01:10 PM 01/09/25 - Los Angeles Angels vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250901000000 -0500" channel="Chicago White Sox vs. Minnesota Twins" stop="20250901235959 -0500">
-    <title>01:10 PM 01/09/25 - Chicago White Sox vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250901000000 -0500" channel="Athletics vs. St. Louis Cardinals" stop="20250901235959 -0500">
-    <title>01:15 PM 01/09/25 - Athletics vs. St. Louis Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250901000000 -0500" channel="Atlanta Braves vs. Chicago Cubs" stop="20250901235959 -0500">
     <title>03:05 PM 01/09/25 - Atlanta Braves vs. Chicago Cubs</title>
     <date>2025</date>
@@ -406,14 +414,6 @@
   </programme>
   <programme start="20250901000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250901235959 -0500">
     <title>07:10 PM 01/09/25 - Texas Rangers vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250901000000 -0500" channel="Serbia vs Czechia (Riga Latvia)" stop="20250901235959 -0500">
-    <title>01:15 PM 01/09/25 - Serbia vs Czechia (Riga Latvia)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
