@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250901 -0500">
-  <channel id="Atlanta Braves vs. Chicago Cubs">
-    <display-name lang="en">Atlanta Braves vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Milwaukee Brewers">
-    <display-name lang="en">Philadelphia Phillies vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Colorado Rockies">
-    <display-name lang="en">San Francisco Giants vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. San Diego Padres">
     <display-name lang="en">Baltimore Orioles vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. Tampa Bay Rays">
+    <display-name lang="en">Seattle Mariners vs. Tampa Bay Rays</display-name>
+  </channel>
+  <channel id="Wings at Lynx">
+    <display-name lang="en">Wings at Lynx</display-name>
   </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
@@ -60,14 +57,8 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Seattle Mariners vs. Tampa Bay Rays">
-    <display-name lang="en">Seattle Mariners vs. Tampa Bay Rays</display-name>
-  </channel>
   <channel id="Texas Rangers vs. Arizona Diamondbacks">
     <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Wings at Lynx">
-    <display-name lang="en">Wings at Lynx</display-name>
   </channel>
   <channel id="Sparks at Storm">
     <display-name lang="en">Sparks at Storm</display-name>
@@ -123,31 +114,23 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250901000000 -0500" channel="Atlanta Braves vs. Chicago Cubs" stop="20250901235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250901000000 -0500" channel="Philadelphia Phillies vs. Milwaukee Brewers" stop="20250901235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250901000000 -0500" channel="San Francisco Giants vs. Colorado Rockies" stop="20250901235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250901000000 -0500" channel="Baltimore Orioles vs. San Diego Padres" stop="20250901235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250901000000 -0500" channel="Seattle Mariners vs. Tampa Bay Rays" stop="20250901235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250901000000 -0500" channel="Wings at Lynx" stop="20250901235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -283,24 +266,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250901000000 -0500" channel="Seattle Mariners vs. Tampa Bay Rays" stop="20250901235959 -0500">
-    <title>06:35 PM 01/09/25 - Seattle Mariners vs. Tampa Bay Rays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250901000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250901235959 -0500">
     <title>07:10 PM 01/09/25 - Texas Rangers vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250901000000 -0500" channel="Wings at Lynx" stop="20250901235959 -0500">
-    <title>07:00 PM 01/09/25 - Wings at Lynx</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
