@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250902 -0500">
-  <channel id="Belgium vs Israel (Katowice Poland)">
-    <display-name lang="en">Belgium vs Israel (Katowice Poland)</display-name>
-  </channel>
-  <channel id="Greece vs Bosnia and Herzegovina (Liamssol Cyprus)">
-    <display-name lang="en">Greece vs Bosnia and Herzegovina (Liamssol Cyprus)</display-name>
+  <channel id="Iceland vs Slovenia (Katowice Poland)">
+    <display-name lang="en">Iceland vs Slovenia (Katowice Poland)</display-name>
   </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
@@ -96,9 +93,6 @@
   <channel id="Texas Rangers vs. Arizona Diamondbacks">
     <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="Iceland vs Slovenia (Katowice Poland)">
-    <display-name lang="en">Iceland vs Slovenia (Katowice Poland)</display-name>
-  </channel>
   <channel id="Cyprus vs Georgia (Limassol Cyprus)">
     <display-name lang="en">Cyprus vs Georgia (Limassol Cyprus)</display-name>
   </channel>
@@ -107,6 +101,12 @@
   </channel>
   <channel id="Italy vs Spain (Limassol Cyprus)">
     <display-name lang="en">Italy vs Spain (Limassol Cyprus)</display-name>
+  </channel>
+  <channel id="Liberty at Valkyries">
+    <display-name lang="en">Liberty at Valkyries</display-name>
+  </channel>
+  <channel id="Fever at Mercury">
+    <display-name lang="en">Fever at Mercury</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -141,15 +141,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250902000000 -0500" channel="Belgium vs Israel (Katowice Poland)" stop="20250902235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250902000000 -0500" channel="Greece vs Bosnia and Herzegovina (Liamssol Cyprus)" stop="20250902235959 -0500">
+  <programme start="20250902000000 -0500" channel="Iceland vs Slovenia (Katowice Poland)" stop="20250902235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -397,14 +389,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250902000000 -0500" channel="Iceland vs Slovenia (Katowice Poland)" stop="20250902235959 -0500">
-    <title>10:00 AM 02/09/25 - Iceland vs Slovenia (Katowice Poland)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250902000000 -0500" channel="Cyprus vs Georgia (Limassol Cyprus)" stop="20250902235959 -0500">
     <title>10:15 AM 02/09/25 - Cyprus vs Georgia (Limassol Cyprus)</title>
     <date>2025</date>
@@ -423,6 +407,22 @@
   </programme>
   <programme start="20250902000000 -0500" channel="Italy vs Spain (Limassol Cyprus)" stop="20250902235959 -0500">
     <title>01:30 PM 02/09/25 - Italy vs Spain (Limassol Cyprus)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="Liberty at Valkyries" stop="20250902235959 -0500">
+    <title>09:00 PM 02/09/25 - Liberty at Valkyries</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="Fever at Mercury" stop="20250902235959 -0500">
+    <title>09:00 PM 02/09/25 - Fever at Mercury</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
