@@ -3,6 +3,9 @@
   <channel id="Iceland vs Slovenia (Katowice Poland)">
     <display-name lang="en">Iceland vs Slovenia (Katowice Poland)</display-name>
   </channel>
+  <channel id="Cyprus vs Georgia (Limassol Cyprus)">
+    <display-name lang="en">Cyprus vs Georgia (Limassol Cyprus)</display-name>
+  </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
   </channel>
@@ -93,9 +96,6 @@
   <channel id="Texas Rangers vs. Arizona Diamondbacks">
     <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="Cyprus vs Georgia (Limassol Cyprus)">
-    <display-name lang="en">Cyprus vs Georgia (Limassol Cyprus)</display-name>
-  </channel>
   <channel id="France vs Poland (Katowice Poland)">
     <display-name lang="en">France vs Poland (Katowice Poland)</display-name>
   </channel>
@@ -107,6 +107,24 @@
   </channel>
   <channel id="Fever at Mercury">
     <display-name lang="en">Fever at Mercury</display-name>
+  </channel>
+  <channel id="Montenegro vs Great Britain (Tampere Finland)">
+    <display-name lang="en">Montenegro vs Great Britain (Tampere Finland)</display-name>
+  </channel>
+  <channel id="Estonia vs Portugal (Riga Latvia)">
+    <display-name lang="en">Estonia vs Portugal (Riga Latvia)</display-name>
+  </channel>
+  <channel id="Lithuania vs Sweden (Tampere Finland)">
+    <display-name lang="en">Lithuania vs Sweden (Tampere Finland)</display-name>
+  </channel>
+  <channel id="Czechia vs Latvia (Riga Latvia)">
+    <display-name lang="en">Czechia vs Latvia (Riga Latvia)</display-name>
+  </channel>
+  <channel id="Finland vs Germany (Tampere Finland)">
+    <display-name lang="en">Finland vs Germany (Tampere Finland)</display-name>
+  </channel>
+  <channel id="T&#252;rkiye vs Serbia (Riga Latvia)">
+    <display-name lang="en">T&#252;rkiye vs Serbia (Riga Latvia)</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -142,6 +160,14 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250902000000 -0500" channel="Iceland vs Slovenia (Katowice Poland)" stop="20250902235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="Cyprus vs Georgia (Limassol Cyprus)" stop="20250902235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -389,14 +415,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250902000000 -0500" channel="Cyprus vs Georgia (Limassol Cyprus)" stop="20250902235959 -0500">
-    <title>10:15 AM 02/09/25 - Cyprus vs Georgia (Limassol Cyprus)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250902000000 -0500" channel="France vs Poland (Katowice Poland)" stop="20250902235959 -0500">
     <title>01:30 PM 02/09/25 - France vs Poland (Katowice Poland)</title>
     <date>2025</date>
@@ -423,6 +441,54 @@
   </programme>
   <programme start="20250902000000 -0500" channel="Fever at Mercury" stop="20250902235959 -0500">
     <title>09:00 PM 02/09/25 - Fever at Mercury</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="Montenegro vs Great Britain (Tampere Finland)" stop="20250902235959 -0500">
+    <title>05:30 AM 03/09/25 - Montenegro vs Great Britain (Tampere Finland)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="Estonia vs Portugal (Riga Latvia)" stop="20250902235959 -0500">
+    <title>06:45 AM 03/09/25 - Estonia vs Portugal (Riga Latvia)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="Lithuania vs Sweden (Tampere Finland)" stop="20250902235959 -0500">
+    <title>08:30 AM 03/09/25 - Lithuania vs Sweden (Tampere Finland)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="Czechia vs Latvia (Riga Latvia)" stop="20250902235959 -0500">
+    <title>10:00 AM 03/09/25 - Czechia vs Latvia (Riga Latvia)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="Finland vs Germany (Tampere Finland)" stop="20250902235959 -0500">
+    <title>12:30 PM 03/09/25 - Finland vs Germany (Tampere Finland)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="T&#252;rkiye vs Serbia (Riga Latvia)" stop="20250902235959 -0500">
+    <title>01:15 PM 03/09/25 - T&#252;rkiye vs Serbia (Riga Latvia)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
