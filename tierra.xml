@@ -6,6 +6,9 @@
   <channel id="Seattle Mariners vs. Tampa Bay Rays">
     <display-name lang="en">Seattle Mariners vs. Tampa Bay Rays</display-name>
   </channel>
+  <channel id="Texas Rangers vs. Arizona Diamondbacks">
+    <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
+  </channel>
   <channel id="Wings at Lynx">
     <display-name lang="en">Wings at Lynx</display-name>
   </channel>
@@ -56,9 +59,6 @@
   </channel>
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="Texas Rangers vs. Arizona Diamondbacks">
-    <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="Sparks at Storm">
     <display-name lang="en">Sparks at Storm</display-name>
@@ -123,6 +123,14 @@
     </audio>
   </programme>
   <programme start="20250901000000 -0500" channel="Seattle Mariners vs. Tampa Bay Rays" stop="20250901235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250901000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250901235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -260,14 +268,6 @@
   </programme>
   <programme start="20250901000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250901235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250901000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250901235959 -0500">
-    <title>07:10 PM 01/09/25 - Texas Rangers vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
