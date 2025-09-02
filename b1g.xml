@@ -978,11 +978,8 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 - Volusia Speedway Park 6:00pm">
-    <display-name lang="en">DIRTVISION 01 - Volusia Speedway Park 6:00pm</display-name>
-  </channel>
-  <channel id="DIRTVISION 02 -Huset's Speedway 7:15pm">
-    <display-name lang="en">DIRTVISION 02 -Huset's Speedway 7:15pm</display-name>
+  <channel id="DIRTVISION 01 - Millbridge Speedway 6:15pm">
+    <display-name lang="en">DIRTVISION 01 - Millbridge Speedway 6:15pm</display-name>
   </channel>
   <channel id="Super League Plus | Event 1 Hull FC v Leeds Rhinos | Betfred Super League Round 24 // UK Sat 30 Aug 2:55pm // ET Sat 30 Aug 9:55am">
     <display-name lang="en">Super League Plus | Event 1 Hull FC v Leeds Rhinos | Betfred Super League Round 24 // UK Sat 30 Aug 2:55pm // ET Sat 30 Aug 9:55am</display-name>
@@ -1076,6 +1073,9 @@
   </channel>
   <channel id="WWE: Clash in Paris HD (Sun 19:00 UK)">
     <display-name lang="en">WWE: Clash in Paris HD (Sun 19:00 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 -6:15PM Millbridge Sprint Cars">
+    <display-name lang="en">LIVE EVENT 02 -6:15PM Millbridge Sprint Cars</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -4066,16 +4066,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250902000000 -0500" channel="DIRTVISION 01 - Volusia Speedway Park 6:00pm" stop="20250902235959 -0500">
-    <title>12:00 PM - DIRTVISION 01 - Volusia Speedway Park 6:00pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250902000000 -0500" channel="DIRTVISION 02 -Huset's Speedway 7:15pm" stop="20250902235959 -0500">
-    <title>01:15 PM - DIRTVISION 02 -Huset's Speedway 7:15pm</title>
+  <programme start="20250902000000 -0500" channel="DIRTVISION 01 - Millbridge Speedway 6:15pm" stop="20250902235959 -0500">
+    <title>12:15 PM - DIRTVISION 01 - Millbridge Speedway 6:15pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -4324,6 +4316,14 @@
   </programme>
   <programme start="20250902000000 -0500" channel="WWE: Clash in Paris HD (Sun 19:00 UK)" stop="20250902235959 -0500">
     <title>01:00 PM - WWE: Clash in Paris HD (Sun 19:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="LIVE EVENT 02 -6:15PM Millbridge Sprint Cars" stop="20250902235959 -0500">
+    <title>12:15 PM - LIVE EVENT 02 -6:15PM Millbridge Sprint Cars</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
