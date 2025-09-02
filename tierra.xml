@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250902 -0500">
-  <channel id="Cyprus vs Georgia (Limassol Cyprus)">
-    <display-name lang="en">Cyprus vs Georgia (Limassol Cyprus)</display-name>
+  <channel id="France vs Poland (Katowice Poland)">
+    <display-name lang="en">France vs Poland (Katowice Poland)</display-name>
+  </channel>
+  <channel id="Italy vs Spain (Limassol Cyprus)">
+    <display-name lang="en">Italy vs Spain (Limassol Cyprus)</display-name>
   </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
@@ -93,12 +96,6 @@
   <channel id="Texas Rangers vs. Arizona Diamondbacks">
     <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="France vs Poland (Katowice Poland)">
-    <display-name lang="en">France vs Poland (Katowice Poland)</display-name>
-  </channel>
-  <channel id="Italy vs Spain (Limassol Cyprus)">
-    <display-name lang="en">Italy vs Spain (Limassol Cyprus)</display-name>
-  </channel>
   <channel id="Liberty at Valkyries">
     <display-name lang="en">Liberty at Valkyries</display-name>
   </channel>
@@ -156,7 +153,15 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250902000000 -0500" channel="Cyprus vs Georgia (Limassol Cyprus)" stop="20250902235959 -0500">
+  <programme start="20250902000000 -0500" channel="France vs Poland (Katowice Poland)" stop="20250902235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250902000000 -0500" channel="Italy vs Spain (Limassol Cyprus)" stop="20250902235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -398,22 +403,6 @@
   </programme>
   <programme start="20250902000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250902235959 -0500">
     <title>08:40 PM 02/09/25 - Texas Rangers vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250902000000 -0500" channel="France vs Poland (Katowice Poland)" stop="20250902235959 -0500">
-    <title>01:30 PM 02/09/25 - France vs Poland (Katowice Poland)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250902000000 -0500" channel="Italy vs Spain (Limassol Cyprus)" stop="20250902235959 -0500">
-    <title>01:30 PM 02/09/25 - Italy vs Spain (Limassol Cyprus)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
