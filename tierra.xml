@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250903 -0500">
-  <channel id="Texas Rangers vs. Arizona Diamondbacks">
-    <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. San Diego Padres">
     <display-name lang="en">Baltimore Orioles vs. San Diego Padres</display-name>
+  </channel>
+  <channel id="Los Angeles Dodgers vs. Pittsburgh Pirates">
+    <display-name lang="en">Los Angeles Dodgers vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. Cincinnati Reds">
+    <display-name lang="en">Toronto Blue Jays vs. Cincinnati Reds</display-name>
+  </channel>
+  <channel id="Cleveland Guardians vs. Boston Red Sox">
+    <display-name lang="en">Cleveland Guardians vs. Boston Red Sox</display-name>
   </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
@@ -123,15 +129,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Los Angeles Dodgers vs. Pittsburgh Pirates">
-    <display-name lang="en">Los Angeles Dodgers vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Cincinnati Reds">
-    <display-name lang="en">Toronto Blue Jays vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Boston Red Sox">
-    <display-name lang="en">Cleveland Guardians vs. Boston Red Sox</display-name>
-  </channel>
   <channel id="Seattle Mariners vs. Tampa Bay Rays">
     <display-name lang="en">Seattle Mariners vs. Tampa Bay Rays</display-name>
   </channel>
@@ -210,7 +207,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250903000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250903235959 -0500">
+  <programme start="20250903000000 -0500" channel="Baltimore Orioles vs. San Diego Padres" stop="20250903235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -218,7 +215,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250903000000 -0500" channel="Baltimore Orioles vs. San Diego Padres" stop="20250903235959 -0500">
+  <programme start="20250903000000 -0500" channel="Los Angeles Dodgers vs. Pittsburgh Pirates" stop="20250903235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250903000000 -0500" channel="Toronto Blue Jays vs. Cincinnati Reds" stop="20250903235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250903000000 -0500" channel="Cleveland Guardians vs. Boston Red Sox" stop="20250903235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -532,30 +545,6 @@
   </programme>
   <programme start="20250903000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250903235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250903000000 -0500" channel="Los Angeles Dodgers vs. Pittsburgh Pirates" stop="20250903235959 -0500">
-    <title>05:40 PM 03/09/25 - Los Angeles Dodgers vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250903000000 -0500" channel="Toronto Blue Jays vs. Cincinnati Reds" stop="20250903235959 -0500">
-    <title>05:40 PM 03/09/25 - Toronto Blue Jays vs. Cincinnati Reds</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250903000000 -0500" channel="Cleveland Guardians vs. Boston Red Sox" stop="20250903235959 -0500">
-    <title>05:45 PM 03/09/25 - Cleveland Guardians vs. Boston Red Sox</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
