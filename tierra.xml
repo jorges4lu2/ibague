@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250903 -0500">
-  <channel id="Miami Marlins vs. Washington Nationals">
-    <display-name lang="en">Miami Marlins vs. Washington Nationals</display-name>
-  </channel>
-  <channel id="New York Mets vs. Detroit Tigers">
-    <display-name lang="en">New York Mets vs. Detroit Tigers</display-name>
-  </channel>
   <channel id="Texas Rangers vs. Arizona Diamondbacks">
     <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="Finland vs Germany (Tampere Finland)">
-    <display-name lang="en">Finland vs Germany (Tampere Finland)</display-name>
+  <channel id="Baltimore Orioles vs. San Diego Padres">
+    <display-name lang="en">Baltimore Orioles vs. San Diego Padres</display-name>
   </channel>
   <channel id="T&#252;rkiye vs Serbia (Riga Latvia)">
     <display-name lang="en">T&#252;rkiye vs Serbia (Riga Latvia)</display-name>
@@ -132,9 +126,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Baltimore Orioles vs. San Diego Padres">
-    <display-name lang="en">Baltimore Orioles vs. San Diego Padres</display-name>
-  </channel>
   <channel id="Los Angeles Dodgers vs. Pittsburgh Pirates">
     <display-name lang="en">Los Angeles Dodgers vs. Pittsburgh Pirates</display-name>
   </channel>
@@ -222,22 +213,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250903000000 -0500" channel="Miami Marlins vs. Washington Nationals" stop="20250903235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250903000000 -0500" channel="New York Mets vs. Detroit Tigers" stop="20250903235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250903000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250903235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -246,7 +221,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250903000000 -0500" channel="Finland vs Germany (Tampere Finland)" stop="20250903235959 -0500">
+  <programme start="20250903000000 -0500" channel="Baltimore Orioles vs. San Diego Padres" stop="20250903235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -568,14 +543,6 @@
   </programme>
   <programme start="20250903000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250903235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250903000000 -0500" channel="Baltimore Orioles vs. San Diego Padres" stop="20250903235959 -0500">
-    <title>03:10 PM 03/09/25 - Baltimore Orioles vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
