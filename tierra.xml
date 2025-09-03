@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250903 -0500">
-  <channel id="Montenegro vs Great Britain (Tampere Finland)">
-    <display-name lang="en">Montenegro vs Great Britain (Tampere Finland)</display-name>
-  </channel>
   <channel id="Estonia vs Portugal (Riga Latvia)">
     <display-name lang="en">Estonia vs Portugal (Riga Latvia)</display-name>
+  </channel>
+  <channel id="Lithuania vs Sweden (Tampere Finland)">
+    <display-name lang="en">Lithuania vs Sweden (Tampere Finland)</display-name>
   </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
@@ -168,9 +168,6 @@
   <channel id="San Francisco Giants vs. Colorado Rockies">
     <display-name lang="en">San Francisco Giants vs. Colorado Rockies</display-name>
   </channel>
-  <channel id="Lithuania vs Sweden (Tampere Finland)">
-    <display-name lang="en">Lithuania vs Sweden (Tampere Finland)</display-name>
-  </channel>
   <channel id="Czechia vs Latvia (Riga Latvia)">
     <display-name lang="en">Czechia vs Latvia (Riga Latvia)</display-name>
   </channel>
@@ -179,6 +176,12 @@
   </channel>
   <channel id="T&#252;rkiye vs Serbia (Riga Latvia)">
     <display-name lang="en">T&#252;rkiye vs Serbia (Riga Latvia)</display-name>
+  </channel>
+  <channel id="Sparks at Dream">
+    <display-name lang="en">Sparks at Dream</display-name>
+  </channel>
+  <channel id="Sun at Sky">
+    <display-name lang="en">Sun at Sky</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -210,7 +213,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250903000000 -0500" channel="Montenegro vs Great Britain (Tampere Finland)" stop="20250903235959 -0500">
+  <programme start="20250903000000 -0500" channel="Estonia vs Portugal (Riga Latvia)" stop="20250903235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -218,7 +221,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250903000000 -0500" channel="Estonia vs Portugal (Riga Latvia)" stop="20250903235959 -0500">
+  <programme start="20250903000000 -0500" channel="Lithuania vs Sweden (Tampere Finland)" stop="20250903235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -658,14 +661,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250903000000 -0500" channel="Lithuania vs Sweden (Tampere Finland)" stop="20250903235959 -0500">
-    <title>08:30 AM 03/09/25 - Lithuania vs Sweden (Tampere Finland)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250903000000 -0500" channel="Czechia vs Latvia (Riga Latvia)" stop="20250903235959 -0500">
     <title>10:00 AM 03/09/25 - Czechia vs Latvia (Riga Latvia)</title>
     <date>2025</date>
@@ -684,6 +679,22 @@
   </programme>
   <programme start="20250903000000 -0500" channel="T&#252;rkiye vs Serbia (Riga Latvia)" stop="20250903235959 -0500">
     <title>01:15 PM 03/09/25 - T&#252;rkiye vs Serbia (Riga Latvia)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250903000000 -0500" channel="Sparks at Dream" stop="20250903235959 -0500">
+    <title>06:30 PM 03/09/25 - Sparks at Dream</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250903000000 -0500" channel="Sun at Sky" stop="20250903235959 -0500">
+    <title>07:00 PM 03/09/25 - Sun at Sky</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
