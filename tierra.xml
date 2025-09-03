@@ -6,6 +6,9 @@
   <channel id="New York Mets vs. Detroit Tigers">
     <display-name lang="en">New York Mets vs. Detroit Tigers</display-name>
   </channel>
+  <channel id="Texas Rangers vs. Arizona Diamondbacks">
+    <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
+  </channel>
   <channel id="Finland vs Germany (Tampere Finland)">
     <display-name lang="en">Finland vs Germany (Tampere Finland)</display-name>
   </channel>
@@ -129,9 +132,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Texas Rangers vs. Arizona Diamondbacks">
-    <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. San Diego Padres">
     <display-name lang="en">Baltimore Orioles vs. San Diego Padres</display-name>
   </channel>
@@ -231,6 +231,14 @@
     </audio>
   </programme>
   <programme start="20250903000000 -0500" channel="New York Mets vs. Detroit Tigers" stop="20250903235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250903000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250903235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -560,14 +568,6 @@
   </programme>
   <programme start="20250903000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250903235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250903000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250903235959 -0500">
-    <title>02:40 PM 03/09/25 - Texas Rangers vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
