@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250903 -0500">
-  <channel id="Czechia vs Latvia (Riga Latvia)">
-    <display-name lang="en">Czechia vs Latvia (Riga Latvia)</display-name>
+  <channel id="Miami Marlins vs. Washington Nationals">
+    <display-name lang="en">Miami Marlins vs. Washington Nationals</display-name>
+  </channel>
+  <channel id="New York Mets vs. Detroit Tigers">
+    <display-name lang="en">New York Mets vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="Finland vs Germany (Tampere Finland)">
+    <display-name lang="en">Finland vs Germany (Tampere Finland)</display-name>
   </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
@@ -120,12 +126,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Miami Marlins vs. Washington Nationals">
-    <display-name lang="en">Miami Marlins vs. Washington Nationals</display-name>
-  </channel>
-  <channel id="New York Mets vs. Detroit Tigers">
-    <display-name lang="en">New York Mets vs. Detroit Tigers</display-name>
-  </channel>
   <channel id="Texas Rangers vs. Arizona Diamondbacks">
     <display-name lang="en">Texas Rangers vs. Arizona Diamondbacks</display-name>
   </channel>
@@ -164,9 +164,6 @@
   </channel>
   <channel id="San Francisco Giants vs. Colorado Rockies">
     <display-name lang="en">San Francisco Giants vs. Colorado Rockies</display-name>
-  </channel>
-  <channel id="Finland vs Germany (Tampere Finland)">
-    <display-name lang="en">Finland vs Germany (Tampere Finland)</display-name>
   </channel>
   <channel id="T&#252;rkiye vs Serbia (Riga Latvia)">
     <display-name lang="en">T&#252;rkiye vs Serbia (Riga Latvia)</display-name>
@@ -225,7 +222,23 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250903000000 -0500" channel="Czechia vs Latvia (Riga Latvia)" stop="20250903235959 -0500">
+  <programme start="20250903000000 -0500" channel="Miami Marlins vs. Washington Nationals" stop="20250903235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250903000000 -0500" channel="New York Mets vs. Detroit Tigers" stop="20250903235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250903000000 -0500" channel="Finland vs Germany (Tampere Finland)" stop="20250903235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -545,22 +558,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250903000000 -0500" channel="Miami Marlins vs. Washington Nationals" stop="20250903235959 -0500">
-    <title>12:05 PM 03/09/25 - Miami Marlins vs. Washington Nationals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250903000000 -0500" channel="New York Mets vs. Detroit Tigers" stop="20250903235959 -0500">
-    <title>12:10 PM 03/09/25 - New York Mets vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250903000000 -0500" channel="Texas Rangers vs. Arizona Diamondbacks" stop="20250903235959 -0500">
     <title>02:40 PM 03/09/25 - Texas Rangers vs. Arizona Diamondbacks</title>
     <date>2025</date>
@@ -659,14 +656,6 @@
   </programme>
   <programme start="20250903000000 -0500" channel="San Francisco Giants vs. Colorado Rockies" stop="20250903235959 -0500">
     <title>07:40 PM 03/09/25 - San Francisco Giants vs. Colorado Rockies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250903000000 -0500" channel="Finland vs Germany (Tampere Finland)" stop="20250903235959 -0500">
-    <title>12:30 PM 03/09/25 - Finland vs Germany (Tampere Finland)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
