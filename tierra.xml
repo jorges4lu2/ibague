@@ -27,6 +27,12 @@
   <channel id="Athletics vs. St. Louis Cardinals">
     <display-name lang="en">Athletics vs. St. Louis Cardinals</display-name>
   </channel>
+  <channel id="New York Yankees vs. Houston Astros">
+    <display-name lang="en">New York Yankees vs. Houston Astros</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. Colorado Rockies">
+    <display-name lang="en">San Francisco Giants vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Sparks at Dream">
     <display-name lang="en">Sparks at Dream</display-name>
   </channel>
@@ -153,12 +159,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="New York Yankees vs. Houston Astros">
-    <display-name lang="en">New York Yankees vs. Houston Astros</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. Colorado Rockies">
-    <display-name lang="en">San Francisco Giants vs. Colorado Rockies</display-name>
-  </channel>
   <channel id="France vs Iceland (Katowice Poland)">
     <display-name lang="en">France vs Iceland (Katowice Poland)</display-name>
   </channel>
@@ -269,6 +269,22 @@
     </audio>
   </programme>
   <programme start="20250903000000 -0500" channel="Athletics vs. St. Louis Cardinals" stop="20250903235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250903000000 -0500" channel="New York Yankees vs. Houston Astros" stop="20250903235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250903000000 -0500" channel="San Francisco Giants vs. Colorado Rockies" stop="20250903235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -606,22 +622,6 @@
   </programme>
   <programme start="20250903000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250903235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250903000000 -0500" channel="New York Yankees vs. Houston Astros" stop="20250903235959 -0500">
-    <title>07:10 PM 03/09/25 - New York Yankees vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250903000000 -0500" channel="San Francisco Giants vs. Colorado Rockies" stop="20250903235959 -0500">
-    <title>07:40 PM 03/09/25 - San Francisco Giants vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
