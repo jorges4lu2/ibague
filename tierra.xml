@@ -3,6 +3,9 @@
   <channel id="Philadelphia Phillies vs. Milwaukee Brewers">
     <display-name lang="en">Philadelphia Phillies vs. Milwaukee Brewers</display-name>
   </channel>
+  <channel id="Los Angeles Dodgers vs. Pittsburgh Pirates">
+    <display-name lang="en">Los Angeles Dodgers vs. Pittsburgh Pirates</display-name>
+  </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
   </channel>
@@ -120,9 +123,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Los Angeles Dodgers vs. Pittsburgh Pirates">
-    <display-name lang="en">Los Angeles Dodgers vs. Pittsburgh Pirates</display-name>
-  </channel>
   <channel id="Cleveland Guardians vs. Tampa Bay Rays">
     <display-name lang="en">Cleveland Guardians vs. Tampa Bay Rays</display-name>
   </channel>
@@ -172,6 +172,14 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250904000000 -0500" channel="Philadelphia Phillies vs. Milwaukee Brewers" stop="20250904235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250904000000 -0500" channel="Los Angeles Dodgers vs. Pittsburgh Pirates" stop="20250904235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -485,14 +493,6 @@
   </programme>
   <programme start="20250904000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250904235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250904000000 -0500" channel="Los Angeles Dodgers vs. Pittsburgh Pirates" stop="20250904235959 -0500">
-    <title>05:40 PM 04/09/25 - Los Angeles Dodgers vs. Pittsburgh Pirates</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
