@@ -3,6 +3,9 @@
   <channel id="Israel vs Slovenia (Katowice Poland)">
     <display-name lang="en">Israel vs Slovenia (Katowice Poland)</display-name>
   </channel>
+  <channel id="Italy vs Cyprus (Limassol Cyprus)">
+    <display-name lang="en">Italy vs Cyprus (Limassol Cyprus)</display-name>
+  </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
   </channel>
@@ -138,9 +141,6 @@
   <channel id="New York Yankees vs. Houston Astros">
     <display-name lang="en">New York Yankees vs. Houston Astros</display-name>
   </channel>
-  <channel id="Italy vs Cyprus (Limassol Cyprus)">
-    <display-name lang="en">Italy vs Cyprus (Limassol Cyprus)</display-name>
-  </channel>
   <channel id="Poland vs Belgium (Katowice Poland)">
     <display-name lang="en">Poland vs Belgium (Katowice Poland)</display-name>
   </channel>
@@ -184,6 +184,14 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250904000000 -0500" channel="Israel vs Slovenia (Katowice Poland)" stop="20250904235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250904000000 -0500" channel="Italy vs Cyprus (Limassol Cyprus)" stop="20250904235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -545,14 +553,6 @@
   </programme>
   <programme start="20250904000000 -0500" channel="New York Yankees vs. Houston Astros" stop="20250904235959 -0500">
     <title>06:40 PM 04/09/25 - New York Yankees vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250904000000 -0500" channel="Italy vs Cyprus (Limassol Cyprus)" stop="20250904235959 -0500">
-    <title>10:15 AM 04/09/25 - Italy vs Cyprus (Limassol Cyprus)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
