@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250904 -0500">
+  <channel id="France vs Iceland (Katowice Poland)">
+    <display-name lang="en">France vs Iceland (Katowice Poland)</display-name>
+  </channel>
+  <channel id="Bosnia and Herzegovina vs Georgia (Limassol Cyprus)">
+    <display-name lang="en">Bosnia and Herzegovina vs Georgia (Limassol Cyprus)</display-name>
+  </channel>
   <channel id="Dallas Cowboys vs. Philadelphia Eagles">
     <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
   </channel>
@@ -135,12 +141,6 @@
   <channel id="New York Yankees vs. Houston Astros">
     <display-name lang="en">New York Yankees vs. Houston Astros</display-name>
   </channel>
-  <channel id="France vs Iceland (Katowice Poland)">
-    <display-name lang="en">France vs Iceland (Katowice Poland)</display-name>
-  </channel>
-  <channel id="Bosnia and Herzegovina vs Georgia (Limassol Cyprus)">
-    <display-name lang="en">Bosnia and Herzegovina vs Georgia (Limassol Cyprus)</display-name>
-  </channel>
   <channel id="Israel vs Slovenia (Katowice Poland)">
     <display-name lang="en">Israel vs Slovenia (Katowice Poland)</display-name>
   </channel>
@@ -180,6 +180,22 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250904000000 -0500" channel="France vs Iceland (Katowice Poland)" stop="20250904235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250904000000 -0500" channel="Bosnia and Herzegovina vs Georgia (Limassol Cyprus)" stop="20250904235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250904000000 -0500" channel="Dallas Cowboys vs. Philadelphia Eagles" stop="20250904235959 -0500">
     <title>07:20 PM 04/09/25 - Dallas Cowboys vs. Philadelphia Eagles</title>
     <date>2025</date>
@@ -534,22 +550,6 @@
   </programme>
   <programme start="20250904000000 -0500" channel="New York Yankees vs. Houston Astros" stop="20250904235959 -0500">
     <title>06:40 PM 04/09/25 - New York Yankees vs. Houston Astros</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250904000000 -0500" channel="France vs Iceland (Katowice Poland)" stop="20250904235959 -0500">
-    <title>07:00 AM 04/09/25 - France vs Iceland (Katowice Poland)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250904000000 -0500" channel="Bosnia and Herzegovina vs Georgia (Limassol Cyprus)" stop="20250904235959 -0500">
-    <title>07:00 AM 04/09/25 - Bosnia and Herzegovina vs Georgia (Limassol Cyprus)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
