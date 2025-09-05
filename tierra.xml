@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250905 -0500">
-  <channel id="F1: Italian GP (FP1)">
-    <display-name lang="en">F1: Italian GP (FP1)</display-name>
-  </channel>
   <channel id="Kansas City Chiefs vs. Los Angeles Chargers">
     <display-name lang="en">Kansas City Chiefs vs. Los Angeles Chargers</display-name>
   </channel>
@@ -210,14 +207,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250905000000 -0500" channel="F1: Italian GP (FP1)" stop="20250905235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250905000000 -0500" channel="Kansas City Chiefs vs. Los Angeles Chargers" stop="20250905235959 -0500">
     <title>07:00 PM 05/09/25 - Kansas City Chiefs vs. Los Angeles Chargers</title>
     <date>2025</date>
