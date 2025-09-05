@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250905 -0500">
+  <channel id="F1: Italian GP (FP1)">
+    <display-name lang="en">F1: Italian GP (FP1)</display-name>
+  </channel>
   <channel id="Kansas City Chiefs vs. Los Angeles Chargers">
     <display-name lang="en">Kansas City Chiefs vs. Los Angeles Chargers</display-name>
   </channel>
@@ -159,6 +162,30 @@
   <channel id="Boston Red Sox vs. Arizona Diamondbacks">
     <display-name lang="en">Boston Red Sox vs. Arizona Diamondbacks</display-name>
   </channel>
+  <channel id="T&#252;rkiye v Sweden">
+    <display-name lang="en">T&#252;rkiye v Sweden</display-name>
+  </channel>
+  <channel id="Germany v Portugal">
+    <display-name lang="en">Germany v Portugal</display-name>
+  </channel>
+  <channel id="Lithuania v Latvia">
+    <display-name lang="en">Lithuania v Latvia</display-name>
+  </channel>
+  <channel id="Serbia v Finland">
+    <display-name lang="en">Serbia v Finland</display-name>
+  </channel>
+  <channel id="F1: Italian GP (FP2)">
+    <display-name lang="en">F1: Italian GP (FP2)</display-name>
+  </channel>
+  <channel id="F1: Italian GP (FP3)">
+    <display-name lang="en">F1: Italian GP (FP3)</display-name>
+  </channel>
+  <channel id="F1: Italian GP (Quali)">
+    <display-name lang="en">F1: Italian GP (Quali)</display-name>
+  </channel>
+  <channel id="F1: Italian GP (Race)">
+    <display-name lang="en">F1: Italian GP (Race)</display-name>
+  </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
@@ -183,6 +210,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250905000000 -0500" channel="F1: Italian GP (FP1)" stop="20250905235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250905000000 -0500" channel="Kansas City Chiefs vs. Los Angeles Chargers" stop="20250905235959 -0500">
     <title>07:00 PM 05/09/25 - Kansas City Chiefs vs. Los Angeles Chargers</title>
     <date>2025</date>
@@ -601,6 +636,70 @@
   </programme>
   <programme start="20250905000000 -0500" channel="Boston Red Sox vs. Arizona Diamondbacks" stop="20250905235959 -0500">
     <title>08:40 PM 05/09/25 - Boston Red Sox vs. Arizona Diamondbacks</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="T&#252;rkiye v Sweden" stop="20250905235959 -0500">
+    <title>04:00 AM 06/09/25 - T&#252;rkiye v Sweden</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="Germany v Portugal" stop="20250905235959 -0500">
+    <title>07:15 AM 06/09/25 - Germany v Portugal</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="Lithuania v Latvia" stop="20250905235959 -0500">
+    <title>10:30 AM 06/09/25 - Lithuania v Latvia</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="Serbia v Finland" stop="20250905235959 -0500">
+    <title>01:45 PM 06/09/25 - Serbia v Finland</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="F1: Italian GP (FP2)" stop="20250905235959 -0500">
+    <title>10:00 AM 05/09/25 - F1: Italian GP (FP2)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="F1: Italian GP (FP3)" stop="20250905235959 -0500">
+    <title>05:30 AM 06/09/25 - F1: Italian GP (FP3)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="F1: Italian GP (Quali)" stop="20250905235959 -0500">
+    <title>09:00 AM 06/09/25 - F1: Italian GP (Quali)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="F1: Italian GP (Race)" stop="20250905235959 -0500">
+    <title>08:00 AM 07/09/25 - F1: Italian GP (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
