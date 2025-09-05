@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250904 -0500">
+  <channel id="Dallas Cowboys vs. Philadelphia Eagles">
+    <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
+  </channel>
   <channel id="Los Angeles Dodgers vs. Pittsburgh Pirates">
     <display-name lang="en">Los Angeles Dodgers vs. Pittsburgh Pirates</display-name>
   </channel>
@@ -20,9 +23,6 @@
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
-  </channel>
-  <channel id="Dallas Cowboys vs. Philadelphia Eagles">
-    <display-name lang="en">Dallas Cowboys vs. Philadelphia Eagles</display-name>
   </channel>
   <channel id="Kansas City Chiefs vs. Los Angeles Chargers">
     <display-name lang="en">Kansas City Chiefs vs. Los Angeles Chargers</display-name>
@@ -168,6 +168,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250904000000 -0500" channel="Dallas Cowboys vs. Philadelphia Eagles" stop="20250904235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250904000000 -0500" channel="Los Angeles Dodgers vs. Pittsburgh Pirates" stop="20250904235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -218,14 +226,6 @@
   </programme>
   <programme start="20250904000000 -0500" channel="TNA: Impact" stop="20250904235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250904000000 -0500" channel="Dallas Cowboys vs. Philadelphia Eagles" stop="20250904235959 -0500">
-    <title>07:20 PM 04/09/25 - Dallas Cowboys vs. Philadelphia Eagles</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
