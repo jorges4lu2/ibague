@@ -102,6 +102,9 @@
   <channel id="Carolina Panthers vs. Jacksonville Jaguars">
     <display-name lang="en">Carolina Panthers vs. Jacksonville Jaguars</display-name>
   </channel>
+  <channel id="NFL RedZone">
+    <display-name lang="en">NFL RedZone</display-name>
+  </channel>
   <channel id="Tennessee Titans vs. Denver Broncos">
     <display-name lang="en">Tennessee Titans vs. Denver Broncos</display-name>
   </channel>
@@ -168,8 +171,14 @@
   <channel id="Lithuania v Latvia">
     <display-name lang="en">Lithuania v Latvia</display-name>
   </channel>
+  <channel id="Mercury at Sun">
+    <display-name lang="en">Mercury at Sun</display-name>
+  </channel>
   <channel id="Serbia v Finland">
     <display-name lang="en">Serbia v Finland</display-name>
+  </channel>
+  <channel id="Lynx at Valkyries">
+    <display-name lang="en">Lynx at Valkyries</display-name>
   </channel>
   <channel id="Poland v Bosnia and Herzegovina">
     <display-name lang="en">Poland v Bosnia and Herzegovina</display-name>
@@ -485,6 +494,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250906000000 -0500" channel="NFL RedZone" stop="20250906235959 -0500">
+    <title>12:00 PM 07/09/25 - NFL RedZone</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250906000000 -0500" channel="Tennessee Titans vs. Denver Broncos" stop="20250906235959 -0500">
     <title>03:05 PM 07/09/25 - Tennessee Titans vs. Denver Broncos</title>
     <date>2025</date>
@@ -661,8 +678,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250906000000 -0500" channel="Mercury at Sun" stop="20250906235959 -0500">
+    <title>12:00 PM 06/09/25 - Mercury at Sun</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250906000000 -0500" channel="Serbia v Finland" stop="20250906235959 -0500">
     <title>01:45 PM 06/09/25 - Serbia v Finland</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Lynx at Valkyries" stop="20250906235959 -0500">
+    <title>07:30 PM 06/09/25 - Lynx at Valkyries</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
