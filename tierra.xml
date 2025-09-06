@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250906 -0500">
-  <channel id="F1: Italian GP (FP3)">
-    <display-name lang="en">F1: Italian GP (FP3)</display-name>
+  <channel id="Germany v Portugal">
+    <display-name lang="en">Germany v Portugal</display-name>
   </channel>
   <channel id="Florida International Panthers vs. Penn State Nittany Lions">
     <display-name lang="en">Florida International Panthers vs. Penn State Nittany Lions</display-name>
@@ -159,9 +159,6 @@
   <channel id="Athletics vs. Los Angeles Angels">
     <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
   </channel>
-  <channel id="Germany v Portugal">
-    <display-name lang="en">Germany v Portugal</display-name>
-  </channel>
   <channel id="Lithuania v Latvia">
     <display-name lang="en">Lithuania v Latvia</display-name>
   </channel>
@@ -216,7 +213,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250906000000 -0500" channel="F1: Italian GP (FP3)" stop="20250906235959 -0500">
+  <programme start="20250906000000 -0500" channel="Germany v Portugal" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -634,14 +631,6 @@
   </programme>
   <programme start="20250906000000 -0500" channel="Athletics vs. Los Angeles Angels" stop="20250906235959 -0500">
     <title>08:38 PM 06/09/25 - Athletics vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Germany v Portugal" stop="20250906235959 -0500">
-    <title>07:15 AM 06/09/25 - Germany v Portugal</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
