@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250906 -0500">
-  <channel id="Germany v Portugal">
-    <display-name lang="en">Germany v Portugal</display-name>
-  </channel>
-  <channel id="SuperMotocross: Charlotte (Qualifying)">
-    <display-name lang="en">SuperMotocross: Charlotte (Qualifying)</display-name>
-  </channel>
-  <channel id="F1: Italian GP (Quali)">
-    <display-name lang="en">F1: Italian GP (Quali)</display-name>
-  </channel>
   <channel id="Florida International Panthers vs. Penn State Nittany Lions">
     <display-name lang="en">Florida International Panthers vs. Penn State Nittany Lions</display-name>
   </channel>
@@ -32,6 +23,15 @@
   </channel>
   <channel id="Kent State Golden Flashes vs. Texas Tech Red Raiders">
     <display-name lang="en">Kent State Golden Flashes vs. Texas Tech Red Raiders</display-name>
+  </channel>
+  <channel id="Lithuania v Latvia">
+    <display-name lang="en">Lithuania v Latvia</display-name>
+  </channel>
+  <channel id="UFC Fight Night: Imavov vs. Borralho">
+    <display-name lang="en">UFC Fight Night: Imavov vs. Borralho</display-name>
+  </channel>
+  <channel id="SuperMotocross: Charlotte (Qualifying)">
+    <display-name lang="en">SuperMotocross: Charlotte (Qualifying)</display-name>
   </channel>
   <channel id="Utah State Aggies vs. Texas A&amp;amp;M Aggies">
     <display-name lang="en">Utah State Aggies vs. Texas A&amp;amp;M Aggies</display-name>
@@ -168,9 +168,6 @@
   <channel id="Athletics vs. Los Angeles Angels">
     <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
   </channel>
-  <channel id="Lithuania v Latvia">
-    <display-name lang="en">Lithuania v Latvia</display-name>
-  </channel>
   <channel id="Mercury at Sun">
     <display-name lang="en">Mercury at Sun</display-name>
   </channel>
@@ -191,9 +188,6 @@
   </channel>
   <channel id="Greece v Israel">
     <display-name lang="en">Greece v Israel</display-name>
-  </channel>
-  <channel id="UFC Fight Night: Imavov vs. Borralho">
-    <display-name lang="en">UFC Fight Night: Imavov vs. Borralho</display-name>
   </channel>
   <channel id="SuperMotocross: Charlotte">
     <display-name lang="en">SuperMotocross: Charlotte</display-name>
@@ -222,7 +216,79 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250906000000 -0500" channel="Germany v Portugal" stop="20250906235959 -0500">
+  <programme start="20250906000000 -0500" channel="Florida International Panthers vs. Penn State Nittany Lions" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="San Jos&#233; State Spartans vs. Texas Longhorns" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Illinois Fighting Illini vs. Duke Blue Devils" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="East Texas A&amp;amp;M Lions vs. Florida State Seminoles" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Iowa Hawkeyes vs. Iowa State Cyclones" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Baylor Bears vs. SMU Mustangs" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Kennesaw State Owls vs. Indiana Hoosiers" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Kent State Golden Flashes vs. Texas Tech Red Raiders" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Lithuania v Latvia" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="UFC Fight Night: Imavov vs. Borralho" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -232,78 +298,6 @@
   </programme>
   <programme start="20250906000000 -0500" channel="SuperMotocross: Charlotte (Qualifying)" stop="20250906235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="F1: Italian GP (Quali)" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Florida International Panthers vs. Penn State Nittany Lions" stop="20250906235959 -0500">
-    <title>11:00 AM 06/09/25 - Florida International Panthers vs. Penn State Nittany Lions</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="San Jos&#233; State Spartans vs. Texas Longhorns" stop="20250906235959 -0500">
-    <title>11:00 AM 06/09/25 - San Jos&#233; State Spartans vs. Texas Longhorns</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Illinois Fighting Illini vs. Duke Blue Devils" stop="20250906235959 -0500">
-    <title>11:00 AM 06/09/25 - Illinois Fighting Illini vs. Duke Blue Devils</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="East Texas A&amp;amp;M Lions vs. Florida State Seminoles" stop="20250906235959 -0500">
-    <title>11:00 AM 06/09/25 - East Texas A&amp;amp;M Lions vs. Florida State Seminoles</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Iowa Hawkeyes vs. Iowa State Cyclones" stop="20250906235959 -0500">
-    <title>11:00 AM 06/09/25 - Iowa Hawkeyes vs. Iowa State Cyclones</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Baylor Bears vs. SMU Mustangs" stop="20250906235959 -0500">
-    <title>11:00 AM 06/09/25 - Baylor Bears vs. SMU Mustangs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Kennesaw State Owls vs. Indiana Hoosiers" stop="20250906235959 -0500">
-    <title>11:00 AM 06/09/25 - Kennesaw State Owls vs. Indiana Hoosiers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Kent State Golden Flashes vs. Texas Tech Red Raiders" stop="20250906235959 -0500">
-    <title>11:00 AM 06/09/25 - Kent State Golden Flashes vs. Texas Tech Red Raiders</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -670,14 +664,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250906000000 -0500" channel="Lithuania v Latvia" stop="20250906235959 -0500">
-    <title>10:30 AM 06/09/25 - Lithuania v Latvia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250906000000 -0500" channel="Mercury at Sun" stop="20250906235959 -0500">
     <title>12:00 PM 06/09/25 - Mercury at Sun</title>
     <date>2025</date>
@@ -728,14 +714,6 @@
   </programme>
   <programme start="20250906000000 -0500" channel="Greece v Israel" stop="20250906235959 -0500">
     <title>01:45 PM 07/09/25 - Greece v Israel</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="UFC Fight Night: Imavov vs. Borralho" stop="20250906235959 -0500">
-    <title>11:00 AM 06/09/25 - UFC Fight Night: Imavov vs. Borralho</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
