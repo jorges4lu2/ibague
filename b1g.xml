@@ -195,6 +195,15 @@
   <channel id="02. EPL | Goal Rush Match Day # 2 (Sat 15:00 UK)">
     <display-name lang="en">02. EPL | Goal Rush Match Day # 2 (Sat 15:00 UK)</display-name>
   </channel>
+  <channel id="MLS Pass 01 | Chicago vs New England (Sun 00:30 UK)">
+    <display-name lang="en">MLS Pass 01 | Chicago vs New England (Sun 00:30 UK)</display-name>
+  </channel>
+  <channel id="MLS Pass 02 | St. Louis vs FC Dallas (Sun 00:30 UK)">
+    <display-name lang="en">MLS Pass 02 | St. Louis vs FC Dallas (Sun 00:30 UK)</display-name>
+  </channel>
+  <channel id="MLS Pass 03 | Houston vs LA Galaxy (Sun 00:30 UK)">
+    <display-name lang="en">MLS Pass 03 | Houston vs LA Galaxy (Sun 00:30 UK)</display-name>
+  </channel>
   <channel id="EFL01: Bolton Wanderers 15:00 AFC Wimbledon (L1) 06/09">
     <display-name lang="en">EFL01: Bolton Wanderers 15:00 AFC Wimbledon (L1) 06/09</display-name>
   </channel>
@@ -2698,6 +2707,30 @@
   </programme>
   <programme start="20250906000000 -0500" channel="02. EPL | Goal Rush Match Day # 2 (Sat 15:00 UK)" stop="20250906235959 -0500">
     <title>09:00 AM - 02. EPL | Goal Rush Match Day # 2 (Sat 15:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="MLS Pass 01 | Chicago vs New England (Sun 00:30 UK)" stop="20250906235959 -0500">
+    <title>06:30 PM - MLS Pass 01 | Chicago vs New England (Sun 00:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="MLS Pass 02 | St. Louis vs FC Dallas (Sun 00:30 UK)" stop="20250906235959 -0500">
+    <title>06:30 PM - MLS Pass 02 | St. Louis vs FC Dallas (Sun 00:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="MLS Pass 03 | Houston vs LA Galaxy (Sun 00:30 UK)" stop="20250906235959 -0500">
+    <title>06:30 PM - MLS Pass 03 | Houston vs LA Galaxy (Sun 00:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
