@@ -18,11 +18,14 @@
   <channel id="East Tennessee State Buccaneers vs. Tennessee Volunteers">
     <display-name lang="en">East Tennessee State Buccaneers vs. Tennessee Volunteers</display-name>
   </channel>
-  <channel id="Toronto Blue Jays vs. New York Yankees">
-    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
+  <channel id="South Florida Bulls vs. Florida Gators">
+    <display-name lang="en">South Florida Bulls vs. Florida Gators</display-name>
   </channel>
   <channel id="Washington Nationals vs. Chicago Cubs">
     <display-name lang="en">Washington Nationals vs. Chicago Cubs</display-name>
+  </channel>
+  <channel id="Philadelphia Phillies vs. Miami Marlins">
+    <display-name lang="en">Philadelphia Phillies vs. Miami Marlins</display-name>
   </channel>
   <channel id="Serbia v Finland">
     <display-name lang="en">Serbia v Finland</display-name>
@@ -41,9 +44,6 @@
   </channel>
   <channel id="SuperMotocross: Charlotte">
     <display-name lang="en">SuperMotocross: Charlotte</display-name>
-  </channel>
-  <channel id="South Florida Bulls vs. Florida Gators">
-    <display-name lang="en">South Florida Bulls vs. Florida Gators</display-name>
   </channel>
   <channel id="Cal Poly Mustangs vs. Utah Utes">
     <display-name lang="en">Cal Poly Mustangs vs. Utah Utes</display-name>
@@ -110,9 +110,6 @@
   </channel>
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Miami Marlins">
-    <display-name lang="en">Philadelphia Phillies vs. Miami Marlins</display-name>
   </channel>
   <channel id="Chicago White Sox vs. Detroit Tigers">
     <display-name lang="en">Chicago White Sox vs. Detroit Tigers</display-name>
@@ -237,7 +234,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250906000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250906235959 -0500">
+  <programme start="20250906000000 -0500" channel="South Florida Bulls vs. Florida Gators" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -246,6 +243,14 @@
     </audio>
   </programme>
   <programme start="20250906000000 -0500" channel="Washington Nationals vs. Chicago Cubs" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Philadelphia Phillies vs. Miami Marlins" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -295,14 +300,6 @@
   </programme>
   <programme start="20250906000000 -0500" channel="SuperMotocross: Charlotte" stop="20250906235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="South Florida Bulls vs. Florida Gators" stop="20250906235959 -0500">
-    <title>03:15 PM 06/09/25 - South Florida Bulls vs. Florida Gators</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -479,14 +476,6 @@
   </programme>
   <programme start="20250906000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250906235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Philadelphia Phillies vs. Miami Marlins" stop="20250906235959 -0500">
-    <title>03:10 PM 06/09/25 - Philadelphia Phillies vs. Miami Marlins</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
