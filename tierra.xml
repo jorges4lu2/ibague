@@ -30,6 +30,15 @@
   <channel id="Minnesota Twins vs. Kansas City Royals">
     <display-name lang="en">Minnesota Twins vs. Kansas City Royals</display-name>
   </channel>
+  <channel id="Houston Astros vs. Texas Rangers">
+    <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
+  </channel>
+  <channel id="San Francisco Giants vs. St. Louis Cardinals">
+    <display-name lang="en">San Francisco Giants vs. St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="San Diego Padres vs. Colorado Rockies">
+    <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Sparks at Dream">
     <display-name lang="en">Sparks at Dream</display-name>
   </channel>
@@ -149,15 +158,6 @@
   </channel>
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Texas Rangers">
-    <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. St. Louis Cardinals">
-    <display-name lang="en">San Francisco Giants vs. St. Louis Cardinals</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Colorado Rockies">
-    <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Athletics vs. Los Angeles Angels">
     <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
@@ -283,6 +283,30 @@
     </audio>
   </programme>
   <programme start="20250905000000 -0500" channel="Minnesota Twins vs. Kansas City Royals" stop="20250905235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="Houston Astros vs. Texas Rangers" stop="20250905235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="San Francisco Giants vs. St. Louis Cardinals" stop="20250905235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250905235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -604,30 +628,6 @@
   </programme>
   <programme start="20250905000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250905235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250905000000 -0500" channel="Houston Astros vs. Texas Rangers" stop="20250905235959 -0500">
-    <title>07:05 PM 05/09/25 - Houston Astros vs. Texas Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250905000000 -0500" channel="San Francisco Giants vs. St. Louis Cardinals" stop="20250905235959 -0500">
-    <title>07:15 PM 05/09/25 - San Francisco Giants vs. St. Louis Cardinals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250905000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250905235959 -0500">
-    <title>07:40 PM 05/09/25 - San Diego Padres vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
