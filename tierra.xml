@@ -27,6 +27,9 @@
   <channel id="Utah State Aggies vs. Texas A&amp;amp;M Aggies">
     <display-name lang="en">Utah State Aggies vs. Texas A&amp;amp;M Aggies</display-name>
   </channel>
+  <channel id="Toronto Blue Jays vs. New York Yankees">
+    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
+  </channel>
   <channel id="Lithuania v Latvia">
     <display-name lang="en">Lithuania v Latvia</display-name>
   </channel>
@@ -41,9 +44,6 @@
   </channel>
   <channel id="Armenia vs Portugal">
     <display-name lang="en">Armenia vs Portugal</display-name>
-  </channel>
-  <channel id="SuperMotocross: Charlotte (Qualifying)">
-    <display-name lang="en">SuperMotocross: Charlotte (Qualifying)</display-name>
   </channel>
   <channel id="Grambling Tigers vs. Ohio State Buckeyes">
     <display-name lang="en">Grambling Tigers vs. Ohio State Buckeyes</display-name>
@@ -131,9 +131,6 @@
   </channel>
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. New York Yankees">
-    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
   </channel>
   <channel id="Washington Nationals vs. Chicago Cubs">
     <display-name lang="en">Washington Nationals vs. Chicago Cubs</display-name>
@@ -303,6 +300,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250906000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250906000000 -0500" channel="Lithuania v Latvia" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -336,14 +341,6 @@
     </audio>
   </programme>
   <programme start="20250906000000 -0500" channel="Armenia vs Portugal" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="SuperMotocross: Charlotte (Qualifying)" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -577,14 +574,6 @@
   </programme>
   <programme start="20250906000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250906235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250906235959 -0500">
-    <title>12:05 PM 06/09/25 - Toronto Blue Jays vs. New York Yankees</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
