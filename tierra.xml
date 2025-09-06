@@ -24,17 +24,26 @@
   <channel id="Kent State Golden Flashes vs. Texas Tech Red Raiders">
     <display-name lang="en">Kent State Golden Flashes vs. Texas Tech Red Raiders</display-name>
   </channel>
+  <channel id="Utah State Aggies vs. Texas A&amp;amp;M Aggies">
+    <display-name lang="en">Utah State Aggies vs. Texas A&amp;amp;M Aggies</display-name>
+  </channel>
   <channel id="Lithuania v Latvia">
     <display-name lang="en">Lithuania v Latvia</display-name>
+  </channel>
+  <channel id="Mercury at Sun">
+    <display-name lang="en">Mercury at Sun</display-name>
   </channel>
   <channel id="UFC Fight Night: Imavov vs. Borralho">
     <display-name lang="en">UFC Fight Night: Imavov vs. Borralho</display-name>
   </channel>
+  <channel id="England vs Andorra">
+    <display-name lang="en">England vs Andorra</display-name>
+  </channel>
+  <channel id="Armenia vs Portugal">
+    <display-name lang="en">Armenia vs Portugal</display-name>
+  </channel>
   <channel id="SuperMotocross: Charlotte (Qualifying)">
     <display-name lang="en">SuperMotocross: Charlotte (Qualifying)</display-name>
-  </channel>
-  <channel id="Utah State Aggies vs. Texas A&amp;amp;M Aggies">
-    <display-name lang="en">Utah State Aggies vs. Texas A&amp;amp;M Aggies</display-name>
   </channel>
   <channel id="Grambling Tigers vs. Ohio State Buckeyes">
     <display-name lang="en">Grambling Tigers vs. Ohio State Buckeyes</display-name>
@@ -168,9 +177,6 @@
   <channel id="Athletics vs. Los Angeles Angels">
     <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
   </channel>
-  <channel id="Mercury at Sun">
-    <display-name lang="en">Mercury at Sun</display-name>
-  </channel>
   <channel id="Serbia v Finland">
     <display-name lang="en">Serbia v Finland</display-name>
   </channel>
@@ -188,6 +194,15 @@
   </channel>
   <channel id="Greece v Israel">
     <display-name lang="en">Greece v Israel</display-name>
+  </channel>
+  <channel id="Austria vs Cyprus">
+    <display-name lang="en">Austria vs Cyprus</display-name>
+  </channel>
+  <channel id="San Marino vs Bosnia">
+    <display-name lang="en">San Marino vs Bosnia</display-name>
+  </channel>
+  <channel id="Ireland vs Hungary">
+    <display-name lang="en">Ireland vs Hungary</display-name>
   </channel>
   <channel id="SuperMotocross: Charlotte">
     <display-name lang="en">SuperMotocross: Charlotte</display-name>
@@ -280,7 +295,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250906000000 -0500" channel="Utah State Aggies vs. Texas A&amp;amp;M Aggies" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250906000000 -0500" channel="Lithuania v Latvia" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Mercury at Sun" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -296,7 +327,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250906000000 -0500" channel="SuperMotocross: Charlotte (Qualifying)" stop="20250906235959 -0500">
+  <programme start="20250906000000 -0500" channel="England vs Andorra" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -304,8 +335,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250906000000 -0500" channel="Utah State Aggies vs. Texas A&amp;amp;M Aggies" stop="20250906235959 -0500">
-    <title>11:45 AM 06/09/25 - Utah State Aggies vs. Texas A&amp;amp;M Aggies</title>
+  <programme start="20250906000000 -0500" channel="Armenia vs Portugal" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="SuperMotocross: Charlotte (Qualifying)" stop="20250906235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -664,14 +703,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250906000000 -0500" channel="Mercury at Sun" stop="20250906235959 -0500">
-    <title>12:00 PM 06/09/25 - Mercury at Sun</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250906000000 -0500" channel="Serbia v Finland" stop="20250906235959 -0500">
     <title>01:45 PM 06/09/25 - Serbia v Finland</title>
     <date>2025</date>
@@ -714,6 +745,30 @@
   </programme>
   <programme start="20250906000000 -0500" channel="Greece v Israel" stop="20250906235959 -0500">
     <title>01:45 PM 07/09/25 - Greece v Israel</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Austria vs Cyprus" stop="20250906235959 -0500">
+    <title>01:45 PM 06/09/25 - Austria vs Cyprus</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="San Marino vs Bosnia" stop="20250906235959 -0500">
+    <title>01:45 PM 06/09/25 - San Marino vs Bosnia</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Ireland vs Hungary" stop="20250906235959 -0500">
+    <title>01:45 PM 06/09/25 - Ireland vs Hungary</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
