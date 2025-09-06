@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250906 -0500">
-  <channel id="T&#252;rkiye v Sweden">
-    <display-name lang="en">T&#252;rkiye v Sweden</display-name>
-  </channel>
   <channel id="F1: Italian GP (FP3)">
     <display-name lang="en">F1: Italian GP (FP3)</display-name>
   </channel>
@@ -186,8 +183,14 @@
   <channel id="UFC Fight Night: Imavov vs. Borralho">
     <display-name lang="en">UFC Fight Night: Imavov vs. Borralho</display-name>
   </channel>
+  <channel id="SuperMotocross: Charlotte (Qualifying)">
+    <display-name lang="en">SuperMotocross: Charlotte (Qualifying)</display-name>
+  </channel>
   <channel id="F1: Italian GP (Quali)">
     <display-name lang="en">F1: Italian GP (Quali)</display-name>
+  </channel>
+  <channel id="SuperMotocross: Charlotte">
+    <display-name lang="en">SuperMotocross: Charlotte</display-name>
   </channel>
   <channel id="F1: Italian GP (Race)">
     <display-name lang="en">F1: Italian GP (Race)</display-name>
@@ -213,14 +216,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250906000000 -0500" channel="T&#252;rkiye v Sweden" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250906000000 -0500" channel="F1: Italian GP (FP3)" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -709,8 +704,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250906000000 -0500" channel="SuperMotocross: Charlotte (Qualifying)" stop="20250906235959 -0500">
+    <title>08:30 AM 06/09/25 - SuperMotocross: Charlotte (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250906000000 -0500" channel="F1: Italian GP (Quali)" stop="20250906235959 -0500">
     <title>09:00 AM 06/09/25 - F1: Italian GP (Quali)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="SuperMotocross: Charlotte" stop="20250906235959 -0500">
+    <title>01:30 PM 06/09/25 - SuperMotocross: Charlotte</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
