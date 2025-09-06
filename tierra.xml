@@ -3,15 +3,6 @@
   <channel id="Kansas City Chiefs vs. Los Angeles Chargers">
     <display-name lang="en">Kansas City Chiefs vs. Los Angeles Chargers</display-name>
   </channel>
-  <channel id="Chicago White Sox vs. Detroit Tigers">
-    <display-name lang="en">Chicago White Sox vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Pittsburgh Pirates">
-    <display-name lang="en">Milwaukee Brewers vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="New York Mets vs. Cincinnati Reds">
-    <display-name lang="en">New York Mets vs. Cincinnati Reds</display-name>
-  </channel>
   <channel id="Los Angeles Dodgers vs. Baltimore Orioles">
     <display-name lang="en">Los Angeles Dodgers vs. Baltimore Orioles</display-name>
   </channel>
@@ -39,11 +30,20 @@
   <channel id="San Diego Padres vs. Colorado Rockies">
     <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
   </channel>
+  <channel id="Athletics vs. Los Angeles Angels">
+    <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Arizona Diamondbacks">
+    <display-name lang="en">Boston Red Sox vs. Arizona Diamondbacks</display-name>
+  </channel>
   <channel id="Sparks at Dream">
     <display-name lang="en">Sparks at Dream</display-name>
   </channel>
   <channel id="Sky at Fever">
     <display-name lang="en">Sky at Fever</display-name>
+  </channel>
+  <channel id="Liberty at Storm">
+    <display-name lang="en">Liberty at Storm</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -159,15 +159,6 @@
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
   </channel>
-  <channel id="Athletics vs. Los Angeles Angels">
-    <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Arizona Diamondbacks">
-    <display-name lang="en">Boston Red Sox vs. Arizona Diamondbacks</display-name>
-  </channel>
-  <channel id="Liberty at Storm">
-    <display-name lang="en">Liberty at Storm</display-name>
-  </channel>
   <channel id="T&#252;rkiye v Sweden">
     <display-name lang="en">T&#252;rkiye v Sweden</display-name>
   </channel>
@@ -211,30 +202,6 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250905000000 -0500" channel="Kansas City Chiefs vs. Los Angeles Chargers" stop="20250905235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250905000000 -0500" channel="Chicago White Sox vs. Detroit Tigers" stop="20250905235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250905000000 -0500" channel="Milwaukee Brewers vs. Pittsburgh Pirates" stop="20250905235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250905000000 -0500" channel="New York Mets vs. Cincinnati Reds" stop="20250905235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -314,6 +281,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250905000000 -0500" channel="Athletics vs. Los Angeles Angels" stop="20250905235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="Boston Red Sox vs. Arizona Diamondbacks" stop="20250905235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250905000000 -0500" channel="Sparks at Dream" stop="20250905235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -323,6 +306,14 @@
     </audio>
   </programme>
   <programme start="20250905000000 -0500" channel="Sky at Fever" stop="20250905235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250905000000 -0500" channel="Liberty at Storm" stop="20250905235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -628,30 +619,6 @@
   </programme>
   <programme start="20250905000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250905235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250905000000 -0500" channel="Athletics vs. Los Angeles Angels" stop="20250905235959 -0500">
-    <title>08:38 PM 05/09/25 - Athletics vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250905000000 -0500" channel="Boston Red Sox vs. Arizona Diamondbacks" stop="20250905235959 -0500">
-    <title>08:40 PM 05/09/25 - Boston Red Sox vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250905000000 -0500" channel="Liberty at Storm" stop="20250905235959 -0500">
-    <title>09:00 PM 05/09/25 - Liberty at Storm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
