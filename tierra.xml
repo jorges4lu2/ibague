@@ -1,43 +1,34 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250906 -0500">
-  <channel id="Grambling Tigers vs. Ohio State Buckeyes">
-    <display-name lang="en">Grambling Tigers vs. Ohio State Buckeyes</display-name>
-  </channel>
-  <channel id="Austin Peay Governors vs. Georgia Bulldogs">
-    <display-name lang="en">Austin Peay Governors vs. Georgia Bulldogs</display-name>
-  </channel>
-  <channel id="Oklahoma State Cowboys vs. Oregon Ducks">
-    <display-name lang="en">Oklahoma State Cowboys vs. Oregon Ducks</display-name>
-  </channel>
-  <channel id="Troy Trojans vs. Clemson Tigers">
-    <display-name lang="en">Troy Trojans vs. Clemson Tigers</display-name>
-  </channel>
-  <channel id="Ole Miss Rebels vs. Kentucky Wildcats">
-    <display-name lang="en">Ole Miss Rebels vs. Kentucky Wildcats</display-name>
-  </channel>
-  <channel id="East Tennessee State Buccaneers vs. Tennessee Volunteers">
-    <display-name lang="en">East Tennessee State Buccaneers vs. Tennessee Volunteers</display-name>
-  </channel>
   <channel id="South Florida Bulls vs. Florida Gators">
     <display-name lang="en">South Florida Bulls vs. Florida Gators</display-name>
   </channel>
   <channel id="Cal Poly Mustangs vs. Utah Utes">
     <display-name lang="en">Cal Poly Mustangs vs. Utah Utes</display-name>
   </channel>
+  <channel id="Bethune-Cookman Wildcats vs. Miami Hurricanes">
+    <display-name lang="en">Bethune-Cookman Wildcats vs. Miami Hurricanes</display-name>
+  </channel>
+  <channel id="South Carolina State Bulldogs vs. South Carolina Gamecocks">
+    <display-name lang="en">South Carolina State Bulldogs vs. South Carolina Gamecocks</display-name>
+  </channel>
   <channel id="Philadelphia Phillies vs. Miami Marlins">
     <display-name lang="en">Philadelphia Phillies vs. Miami Marlins</display-name>
+  </channel>
+  <channel id="Chicago White Sox vs. Detroit Tigers">
+    <display-name lang="en">Chicago White Sox vs. Detroit Tigers</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Pittsburgh Pirates">
+    <display-name lang="en">Milwaukee Brewers vs. Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="New York Mets vs. Cincinnati Reds">
+    <display-name lang="en">New York Mets vs. Cincinnati Reds</display-name>
   </channel>
   <channel id="UFC Fight Night: Imavov vs. Borralho">
     <display-name lang="en">UFC Fight Night: Imavov vs. Borralho</display-name>
   </channel>
   <channel id="SuperMotocross: Charlotte">
     <display-name lang="en">SuperMotocross: Charlotte</display-name>
-  </channel>
-  <channel id="Bethune-Cookman Wildcats vs. Miami Hurricanes">
-    <display-name lang="en">Bethune-Cookman Wildcats vs. Miami Hurricanes</display-name>
-  </channel>
-  <channel id="South Carolina State Bulldogs vs. South Carolina Gamecocks">
-    <display-name lang="en">South Carolina State Bulldogs vs. South Carolina Gamecocks</display-name>
   </channel>
   <channel id="Louisiana Tech Bulldogs vs. LSU Tigers">
     <display-name lang="en">Louisiana Tech Bulldogs vs. LSU Tigers</display-name>
@@ -95,15 +86,6 @@
   </channel>
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Detroit Tigers">
-    <display-name lang="en">Chicago White Sox vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Pittsburgh Pirates">
-    <display-name lang="en">Milwaukee Brewers vs. Pittsburgh Pirates</display-name>
-  </channel>
-  <channel id="New York Mets vs. Cincinnati Reds">
-    <display-name lang="en">New York Mets vs. Cincinnati Reds</display-name>
   </channel>
   <channel id="Cleveland Guardians vs. Tampa Bay Rays">
     <display-name lang="en">Cleveland Guardians vs. Tampa Bay Rays</display-name>
@@ -171,54 +153,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250906000000 -0500" channel="Grambling Tigers vs. Ohio State Buckeyes" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Austin Peay Governors vs. Georgia Bulldogs" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Oklahoma State Cowboys vs. Oregon Ducks" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Troy Trojans vs. Clemson Tigers" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Ole Miss Rebels vs. Kentucky Wildcats" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="East Tennessee State Buccaneers vs. Tennessee Volunteers" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250906000000 -0500" channel="South Florida Bulls vs. Florida Gators" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -235,7 +169,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250906000000 -0500" channel="Bethune-Cookman Wildcats vs. Miami Hurricanes" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="South Carolina State Bulldogs vs. South Carolina Gamecocks" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250906000000 -0500" channel="Philadelphia Phillies vs. Miami Marlins" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Chicago White Sox vs. Detroit Tigers" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="Milwaukee Brewers vs. Pittsburgh Pirates" stop="20250906235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250906000000 -0500" channel="New York Mets vs. Cincinnati Reds" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -253,22 +227,6 @@
   </programme>
   <programme start="20250906000000 -0500" channel="SuperMotocross: Charlotte" stop="20250906235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Bethune-Cookman Wildcats vs. Miami Hurricanes" stop="20250906235959 -0500">
-    <title>06:00 PM 06/09/25 - Bethune-Cookman Wildcats vs. Miami Hurricanes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="South Carolina State Bulldogs vs. South Carolina Gamecocks" stop="20250906235959 -0500">
-    <title>06:00 PM 06/09/25 - South Carolina State Bulldogs vs. South Carolina Gamecocks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -421,30 +379,6 @@
   </programme>
   <programme start="20250906000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250906235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Chicago White Sox vs. Detroit Tigers" stop="20250906235959 -0500">
-    <title>05:10 PM 06/09/25 - Chicago White Sox vs. Detroit Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Milwaukee Brewers vs. Pittsburgh Pirates" stop="20250906235959 -0500">
-    <title>05:40 PM 06/09/25 - Milwaukee Brewers vs. Pittsburgh Pirates</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="New York Mets vs. Cincinnati Reds" stop="20250906235959 -0500">
-    <title>05:40 PM 06/09/25 - New York Mets vs. Cincinnati Reds</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
