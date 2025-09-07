@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250907 -0500">
+  <channel id="France v Georgia">
+    <display-name lang="en">France v Georgia</display-name>
+  </channel>
+  <channel id="F1: Italian GP (Race)">
+    <display-name lang="en">F1: Italian GP (Race)</display-name>
+  </channel>
   <channel id="NFL RedZone">
     <display-name lang="en">NFL RedZone</display-name>
   </channel>
@@ -90,17 +96,11 @@
   <channel id="Boston Red Sox vs. Arizona Diamondbacks">
     <display-name lang="en">Boston Red Sox vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="France v Georgia">
-    <display-name lang="en">France v Georgia</display-name>
-  </channel>
   <channel id="Italy v Slovenia">
     <display-name lang="en">Italy v Slovenia</display-name>
   </channel>
   <channel id="Greece v Israel">
     <display-name lang="en">Greece v Israel</display-name>
-  </channel>
-  <channel id="F1: Italian GP (Race)">
-    <display-name lang="en">F1: Italian GP (Race)</display-name>
   </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
@@ -120,6 +120,22 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250907000000 -0500" channel="France v Georgia" stop="20250907235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250907000000 -0500" channel="F1: Italian GP (Race)" stop="20250907235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250907000000 -0500" channel="NFL RedZone" stop="20250907235959 -0500">
     <title>11:59 AM 07/09/25 - NFL RedZone</title>
     <date>2025</date>
@@ -360,14 +376,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250907000000 -0500" channel="France v Georgia" stop="20250907235959 -0500">
-    <title>07:15 AM 07/09/25 - France v Georgia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250907000000 -0500" channel="Italy v Slovenia" stop="20250907235959 -0500">
     <title>10:30 AM 07/09/25 - Italy v Slovenia</title>
     <date>2025</date>
@@ -378,14 +386,6 @@
   </programme>
   <programme start="20250907000000 -0500" channel="Greece v Israel" stop="20250907235959 -0500">
     <title>01:45 PM 07/09/25 - Greece v Israel</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="F1: Italian GP (Race)" stop="20250907235959 -0500">
-    <title>08:00 AM 07/09/25 - F1: Italian GP (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
