@@ -3,36 +3,6 @@
   <channel id="NFL RedZone">
     <display-name lang="en">NFL RedZone</display-name>
   </channel>
-  <channel id="Tampa Bay Buccaneers vs. Atlanta Falcons">
-    <display-name lang="en">Tampa Bay Buccaneers vs. Atlanta Falcons</display-name>
-  </channel>
-  <channel id="Cincinnati Bengals vs. Cleveland Browns">
-    <display-name lang="en">Cincinnati Bengals vs. Cleveland Browns</display-name>
-  </channel>
-  <channel id="Miami Dolphins vs. Indianapolis Colts">
-    <display-name lang="en">Miami Dolphins vs. Indianapolis Colts</display-name>
-  </channel>
-  <channel id="Las Vegas Raiders vs. New England Patriots">
-    <display-name lang="en">Las Vegas Raiders vs. New England Patriots</display-name>
-  </channel>
-  <channel id="Arizona Cardinals vs. New Orleans Saints">
-    <display-name lang="en">Arizona Cardinals vs. New Orleans Saints</display-name>
-  </channel>
-  <channel id="Pittsburgh Steelers vs. New York Jets">
-    <display-name lang="en">Pittsburgh Steelers vs. New York Jets</display-name>
-  </channel>
-  <channel id="New York Giants vs. Washington Commanders">
-    <display-name lang="en">New York Giants vs. Washington Commanders</display-name>
-  </channel>
-  <channel id="Carolina Panthers vs. Jacksonville Jaguars">
-    <display-name lang="en">Carolina Panthers vs. Jacksonville Jaguars</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Atlanta Braves">
-    <display-name lang="en">Seattle Mariners vs. Atlanta Braves</display-name>
-  </channel>
-  <channel id="Cleveland Guardians vs. Tampa Bay Rays">
-    <display-name lang="en">Cleveland Guardians vs. Tampa Bay Rays</display-name>
-  </channel>
   <channel id="Los Angeles Dodgers vs. Baltimore Orioles">
     <display-name lang="en">Los Angeles Dodgers vs. Baltimore Orioles</display-name>
   </channel>
@@ -63,6 +33,9 @@
   <channel id="Houston Astros vs. Texas Rangers">
     <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
   </channel>
+  <channel id="San Diego Padres vs. Colorado Rockies">
+    <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
+  </channel>
   <channel id="Greece v Israel">
     <display-name lang="en">Greece v Israel</display-name>
   </channel>
@@ -86,9 +59,6 @@
   </channel>
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="San Diego Padres vs. Colorado Rockies">
-    <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
   </channel>
   <channel id="Athletics vs. Los Angeles Angels">
     <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
@@ -121,86 +91,6 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250907000000 -0500" channel="NFL RedZone" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Tampa Bay Buccaneers vs. Atlanta Falcons" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Cincinnati Bengals vs. Cleveland Browns" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Miami Dolphins vs. Indianapolis Colts" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Las Vegas Raiders vs. New England Patriots" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Arizona Cardinals vs. New Orleans Saints" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Pittsburgh Steelers vs. New York Jets" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="New York Giants vs. Washington Commanders" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Carolina Panthers vs. Jacksonville Jaguars" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Seattle Mariners vs. Atlanta Braves" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Cleveland Guardians vs. Tampa Bay Rays" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -288,6 +178,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250907000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250907235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250907000000 -0500" channel="Greece v Israel" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -346,14 +244,6 @@
   </programme>
   <programme start="20250907000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250907235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250907235959 -0500">
-    <title>02:10 PM 07/09/25 - San Diego Padres vs. Colorado Rockies</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
