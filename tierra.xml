@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250907 -0500">
+  <channel id="NFL RedZone">
+    <display-name lang="en">NFL RedZone</display-name>
+  </channel>
   <channel id="Tennessee Titans vs. Denver Broncos">
     <display-name lang="en">Tennessee Titans vs. Denver Broncos</display-name>
   </channel>
@@ -12,18 +15,6 @@
   <channel id="Houston Texans vs. Los Angeles Rams">
     <display-name lang="en">Houston Texans vs. Los Angeles Rams</display-name>
   </channel>
-  <channel id="Minnesota Twins vs. Kansas City Royals">
-    <display-name lang="en">Minnesota Twins vs. Kansas City Royals</display-name>
-  </channel>
-  <channel id="San Francisco Giants vs. St. Louis Cardinals">
-    <display-name lang="en">San Francisco Giants vs. St. Louis Cardinals</display-name>
-  </channel>
-  <channel id="Washington Nationals vs. Chicago Cubs">
-    <display-name lang="en">Washington Nationals vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Texas Rangers">
-    <display-name lang="en">Houston Astros vs. Texas Rangers</display-name>
-  </channel>
   <channel id="San Diego Padres vs. Colorado Rockies">
     <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
   </channel>
@@ -33,20 +24,14 @@
   <channel id="Boston Red Sox vs. Arizona Diamondbacks">
     <display-name lang="en">Boston Red Sox vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="Greece v Israel">
-    <display-name lang="en">Greece v Israel</display-name>
-  </channel>
-  <channel id="Fever at Mystics">
-    <display-name lang="en">Fever at Mystics</display-name>
+  <channel id="Wings at Sparks">
+    <display-name lang="en">Wings at Sparks</display-name>
   </channel>
   <channel id="Baltimore Ravens vs. Buffalo Bills">
     <display-name lang="en">Baltimore Ravens vs. Buffalo Bills</display-name>
   </channel>
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="Wings at Sparks">
-    <display-name lang="en">Wings at Sparks</display-name>
   </channel>
   <channel id="Sky at Aces">
     <display-name lang="en">Sky at Aces</display-name>
@@ -69,6 +54,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250907000000 -0500" channel="NFL RedZone" stop="20250907235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250907000000 -0500" channel="Tennessee Titans vs. Denver Broncos" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -101,38 +94,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250907000000 -0500" channel="Minnesota Twins vs. Kansas City Royals" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="San Francisco Giants vs. St. Louis Cardinals" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Washington Nationals vs. Chicago Cubs" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Houston Astros vs. Texas Rangers" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250907000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -157,15 +118,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250907000000 -0500" channel="Greece v Israel" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Fever at Mystics" stop="20250907235959 -0500">
+  <programme start="20250907000000 -0500" channel="Wings at Sparks" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -183,14 +136,6 @@
   </programme>
   <programme start="20250907000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250907235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Wings at Sparks" stop="20250907235959 -0500">
-    <title>05:00 PM 07/09/25 - Wings at Sparks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
