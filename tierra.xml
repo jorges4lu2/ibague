@@ -1,16 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250906 -0500">
-  <channel id="San Diego Padres vs. Colorado Rockies">
-    <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Arizona Diamondbacks">
-    <display-name lang="en">Boston Red Sox vs. Arizona Diamondbacks</display-name>
-  </channel>
   <channel id="Athletics vs. Los Angeles Angels">
     <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Lynx at Valkyries">
-    <display-name lang="en">Lynx at Valkyries</display-name>
   </channel>
   <channel id="NFL RedZone">
     <display-name lang="en">NFL RedZone</display-name>
@@ -90,31 +81,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250906000000 -0500" channel="San Diego Padres vs. Colorado Rockies" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Boston Red Sox vs. Arizona Diamondbacks" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250906000000 -0500" channel="Athletics vs. Los Angeles Angels" stop="20250906235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250906000000 -0500" channel="Lynx at Valkyries" stop="20250906235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
