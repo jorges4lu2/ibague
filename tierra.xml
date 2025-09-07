@@ -1,25 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250907 -0500">
-  <channel id="NFL RedZone">
-    <display-name lang="en">NFL RedZone</display-name>
+  <channel id="Tennessee Titans vs. Denver Broncos">
+    <display-name lang="en">Tennessee Titans vs. Denver Broncos</display-name>
   </channel>
-  <channel id="Los Angeles Dodgers vs. Baltimore Orioles">
-    <display-name lang="en">Los Angeles Dodgers vs. Baltimore Orioles</display-name>
+  <channel id="San Francisco 49ers vs. Seattle Seahawks">
+    <display-name lang="en">San Francisco 49ers vs. Seattle Seahawks</display-name>
   </channel>
-  <channel id="Milwaukee Brewers vs. Pittsburgh Pirates">
-    <display-name lang="en">Milwaukee Brewers vs. Pittsburgh Pirates</display-name>
+  <channel id="Detroit Lions vs. Green Bay Packers">
+    <display-name lang="en">Detroit Lions vs. Green Bay Packers</display-name>
   </channel>
-  <channel id="Toronto Blue Jays vs. New York Yankees">
-    <display-name lang="en">Toronto Blue Jays vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Chicago White Sox vs. Detroit Tigers">
-    <display-name lang="en">Chicago White Sox vs. Detroit Tigers</display-name>
-  </channel>
-  <channel id="New York Mets vs. Cincinnati Reds">
-    <display-name lang="en">New York Mets vs. Cincinnati Reds</display-name>
-  </channel>
-  <channel id="Philadelphia Phillies vs. Miami Marlins">
-    <display-name lang="en">Philadelphia Phillies vs. Miami Marlins</display-name>
+  <channel id="Houston Texans vs. Los Angeles Rams">
+    <display-name lang="en">Houston Texans vs. Los Angeles Rams</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Kansas City Royals">
     <display-name lang="en">Minnesota Twins vs. Kansas City Royals</display-name>
@@ -36,35 +27,23 @@
   <channel id="San Diego Padres vs. Colorado Rockies">
     <display-name lang="en">San Diego Padres vs. Colorado Rockies</display-name>
   </channel>
+  <channel id="Athletics vs. Los Angeles Angels">
+    <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
+  </channel>
+  <channel id="Boston Red Sox vs. Arizona Diamondbacks">
+    <display-name lang="en">Boston Red Sox vs. Arizona Diamondbacks</display-name>
+  </channel>
   <channel id="Greece v Israel">
     <display-name lang="en">Greece v Israel</display-name>
   </channel>
   <channel id="Fever at Mystics">
     <display-name lang="en">Fever at Mystics</display-name>
   </channel>
-  <channel id="Tennessee Titans vs. Denver Broncos">
-    <display-name lang="en">Tennessee Titans vs. Denver Broncos</display-name>
-  </channel>
-  <channel id="San Francisco 49ers vs. Seattle Seahawks">
-    <display-name lang="en">San Francisco 49ers vs. Seattle Seahawks</display-name>
-  </channel>
-  <channel id="Detroit Lions vs. Green Bay Packers">
-    <display-name lang="en">Detroit Lions vs. Green Bay Packers</display-name>
-  </channel>
-  <channel id="Houston Texans vs. Los Angeles Rams">
-    <display-name lang="en">Houston Texans vs. Los Angeles Rams</display-name>
-  </channel>
   <channel id="Baltimore Ravens vs. Buffalo Bills">
     <display-name lang="en">Baltimore Ravens vs. Buffalo Bills</display-name>
   </channel>
   <channel id="Minnesota Vikings vs. Chicago Bears">
     <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="Athletics vs. Los Angeles Angels">
-    <display-name lang="en">Athletics vs. Los Angeles Angels</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Arizona Diamondbacks">
-    <display-name lang="en">Boston Red Sox vs. Arizona Diamondbacks</display-name>
   </channel>
   <channel id="Wings at Sparks">
     <display-name lang="en">Wings at Sparks</display-name>
@@ -90,7 +69,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250907000000 -0500" channel="NFL RedZone" stop="20250907235959 -0500">
+  <programme start="20250907000000 -0500" channel="Tennessee Titans vs. Denver Broncos" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -98,7 +77,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250907000000 -0500" channel="Los Angeles Dodgers vs. Baltimore Orioles" stop="20250907235959 -0500">
+  <programme start="20250907000000 -0500" channel="San Francisco 49ers vs. Seattle Seahawks" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -106,7 +85,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250907000000 -0500" channel="Milwaukee Brewers vs. Pittsburgh Pirates" stop="20250907235959 -0500">
+  <programme start="20250907000000 -0500" channel="Detroit Lions vs. Green Bay Packers" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -114,31 +93,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250907000000 -0500" channel="Toronto Blue Jays vs. New York Yankees" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Chicago White Sox vs. Detroit Tigers" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="New York Mets vs. Cincinnati Reds" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Philadelphia Phillies vs. Miami Marlins" stop="20250907235959 -0500">
+  <programme start="20250907000000 -0500" channel="Houston Texans vs. Los Angeles Rams" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -186,6 +141,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250907000000 -0500" channel="Athletics vs. Los Angeles Angels" stop="20250907235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250907000000 -0500" channel="Boston Red Sox vs. Arizona Diamondbacks" stop="20250907235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250907000000 -0500" channel="Greece v Israel" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -202,38 +173,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250907000000 -0500" channel="Tennessee Titans vs. Denver Broncos" stop="20250907235959 -0500">
-    <title>03:05 PM 07/09/25 - Tennessee Titans vs. Denver Broncos</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="San Francisco 49ers vs. Seattle Seahawks" stop="20250907235959 -0500">
-    <title>03:05 PM 07/09/25 - San Francisco 49ers vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Detroit Lions vs. Green Bay Packers" stop="20250907235959 -0500">
-    <title>03:25 PM 07/09/25 - Detroit Lions vs. Green Bay Packers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Houston Texans vs. Los Angeles Rams" stop="20250907235959 -0500">
-    <title>03:25 PM 07/09/25 - Houston Texans vs. Los Angeles Rams</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250907000000 -0500" channel="Baltimore Ravens vs. Buffalo Bills" stop="20250907235959 -0500">
     <title>07:20 PM 07/09/25 - Baltimore Ravens vs. Buffalo Bills</title>
     <date>2025</date>
@@ -244,22 +183,6 @@
   </programme>
   <programme start="20250907000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250907235959 -0500">
     <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Athletics vs. Los Angeles Angels" stop="20250907235959 -0500">
-    <title>03:07 PM 07/09/25 - Athletics vs. Los Angeles Angels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Boston Red Sox vs. Arizona Diamondbacks" stop="20250907235959 -0500">
-    <title>03:10 PM 07/09/25 - Boston Red Sox vs. Arizona Diamondbacks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
