@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250907 -0500">
-  <channel id="France v Georgia">
-    <display-name lang="en">France v Georgia</display-name>
-  </channel>
-  <channel id="F1: Italian GP (Race)">
-    <display-name lang="en">F1: Italian GP (Race)</display-name>
+  <channel id="Italy v Slovenia">
+    <display-name lang="en">Italy v Slovenia</display-name>
   </channel>
   <channel id="NFL RedZone">
     <display-name lang="en">NFL RedZone</display-name>
@@ -96,9 +93,6 @@
   <channel id="Boston Red Sox vs. Arizona Diamondbacks">
     <display-name lang="en">Boston Red Sox vs. Arizona Diamondbacks</display-name>
   </channel>
-  <channel id="Italy v Slovenia">
-    <display-name lang="en">Italy v Slovenia</display-name>
-  </channel>
   <channel id="Greece v Israel">
     <display-name lang="en">Greece v Israel</display-name>
   </channel>
@@ -129,15 +123,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250907000000 -0500" channel="France v Georgia" stop="20250907235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="F1: Italian GP (Race)" stop="20250907235959 -0500">
+  <programme start="20250907000000 -0500" channel="Italy v Slovenia" stop="20250907235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -379,14 +365,6 @@
   </programme>
   <programme start="20250907000000 -0500" channel="Boston Red Sox vs. Arizona Diamondbacks" stop="20250907235959 -0500">
     <title>03:10 PM 07/09/25 - Boston Red Sox vs. Arizona Diamondbacks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250907000000 -0500" channel="Italy v Slovenia" stop="20250907235959 -0500">
-    <title>10:30 AM 07/09/25 - Italy v Slovenia</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
