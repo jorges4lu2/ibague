@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250909 -0500">
+  <channel id="Lithuania v Greece">
+    <display-name lang="en">Lithuania v Greece</display-name>
+  </channel>
   <channel id="Armenia vs Ireland">
     <display-name lang="en">Armenia vs Ireland</display-name>
   </channel>
@@ -51,9 +54,6 @@
   <channel id="Colorado Rockies vs. Los Angeles Dodgers">
     <display-name lang="en">Colorado Rockies vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="Lithuania v Greece">
-    <display-name lang="en">Lithuania v Greece</display-name>
-  </channel>
   <channel id="Mystics at Liberty">
     <display-name lang="en">Mystics at Liberty</display-name>
   </channel>
@@ -80,6 +80,9 @@
   </channel>
   <channel id="Oktagon 75 (German)">
     <display-name lang="en">Oktagon 75 (German)</display-name>
+  </channel>
+  <channel id="Crocker vs. Donovan 2">
+    <display-name lang="en">Crocker vs. Donovan 2</display-name>
   </channel>
   <channel id="Norway vs Moldova">
     <display-name lang="en">Norway vs Moldova</display-name>
@@ -171,6 +174,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250909000000 -0500" channel="Lithuania v Greece" stop="20250909235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250909000000 -0500" channel="Armenia vs Ireland" stop="20250909235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -307,14 +318,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250909000000 -0500" channel="Lithuania v Greece" stop="20250909235959 -0500">
-    <title>01:00 PM 09/09/25 - Lithuania v Greece</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250909000000 -0500" channel="Mystics at Liberty" stop="20250909235959 -0500">
     <title>06:00 PM 09/09/25 - Mystics at Liberty</title>
     <date>2025</date>
@@ -381,6 +384,14 @@
   </programme>
   <programme start="20250909000000 -0500" channel="Oktagon 75 (German)" stop="20250909235959 -0500">
     <title>11:00 AM 13/09/25 - Oktagon 75 (German)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250909000000 -0500" channel="Crocker vs. Donovan 2" stop="20250909235959 -0500">
+    <title>01:00 PM 13/09/25 - Crocker vs. Donovan 2</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
