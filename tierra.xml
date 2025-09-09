@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250908 -0500">
+  <channel id="Minnesota Vikings vs. Chicago Bears">
+    <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
+  </channel>
   <channel id="Kansas City Royals vs. Cleveland Guardians">
     <display-name lang="en">Kansas City Royals vs. Cleveland Guardians</display-name>
   </channel>
@@ -12,17 +15,14 @@
   <channel id="Chicago Cubs vs. Atlanta Braves">
     <display-name lang="en">Chicago Cubs vs. Atlanta Braves</display-name>
   </channel>
+  <channel id="Milwaukee Brewers vs. Texas Rangers">
+    <display-name lang="en">Milwaukee Brewers vs. Texas Rangers</display-name>
+  </channel>
   <channel id="Sun at Dream">
     <display-name lang="en">Sun at Dream</display-name>
   </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
-  <channel id="Minnesota Vikings vs. Chicago Bears">
-    <display-name lang="en">Minnesota Vikings vs. Chicago Bears</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Texas Rangers">
-    <display-name lang="en">Milwaukee Brewers vs. Texas Rangers</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Los Angeles Angels">
     <display-name lang="en">Minnesota Twins vs. Los Angeles Angels</display-name>
@@ -117,6 +117,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250908000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250908235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250908000000 -0500" channel="Kansas City Royals vs. Cleveland Guardians" stop="20250908235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -149,6 +157,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250908000000 -0500" channel="Milwaukee Brewers vs. Texas Rangers" stop="20250908235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250908000000 -0500" channel="Sun at Dream" stop="20250908235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -159,22 +175,6 @@
   </programme>
   <programme start="20250908000000 -0500" channel="WWE: Monday Night RAW" stop="20250908235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250908000000 -0500" channel="Minnesota Vikings vs. Chicago Bears" stop="20250908235959 -0500">
-    <title>07:15 PM 08/09/25 - Minnesota Vikings vs. Chicago Bears</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250908000000 -0500" channel="Milwaukee Brewers vs. Texas Rangers" stop="20250908235959 -0500">
-    <title>07:05 PM 08/09/25 - Milwaukee Brewers vs. Texas Rangers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
