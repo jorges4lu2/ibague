@@ -3,6 +3,12 @@
   <channel id="T&#252;rkiye v Poland">
     <display-name lang="en">T&#252;rkiye v Poland</display-name>
   </channel>
+  <channel id="Armenia vs Ireland">
+    <display-name lang="en">Armenia vs Ireland</display-name>
+  </channel>
+  <channel id="Azerbaijan vs Ukraine">
+    <display-name lang="en">Azerbaijan vs Ukraine</display-name>
+  </channel>
   <channel id="Pittsburgh Pirates vs. Baltimore Orioles">
     <display-name lang="en">Pittsburgh Pirates vs. Baltimore Orioles</display-name>
   </channel>
@@ -77,12 +83,6 @@
   </channel>
   <channel id="Oktagon 75 (German)">
     <display-name lang="en">Oktagon 75 (German)</display-name>
-  </channel>
-  <channel id="Armenia vs Ireland">
-    <display-name lang="en">Armenia vs Ireland</display-name>
-  </channel>
-  <channel id="Azerbaijan vs Ukraine">
-    <display-name lang="en">Azerbaijan vs Ukraine</display-name>
   </channel>
   <channel id="Norway vs Moldova">
     <display-name lang="en">Norway vs Moldova</display-name>
@@ -175,6 +175,22 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250909000000 -0500" channel="T&#252;rkiye v Poland" stop="20250909235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250909000000 -0500" channel="Armenia vs Ireland" stop="20250909235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250909000000 -0500" channel="Azerbaijan vs Ukraine" stop="20250909235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -376,22 +392,6 @@
   </programme>
   <programme start="20250909000000 -0500" channel="Oktagon 75 (German)" stop="20250909235959 -0500">
     <title>11:00 AM 13/09/25 - Oktagon 75 (German)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250909000000 -0500" channel="Armenia vs Ireland" stop="20250909235959 -0500">
-    <title>11:00 AM 09/09/25 - Armenia vs Ireland</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250909000000 -0500" channel="Azerbaijan vs Ukraine" stop="20250909235959 -0500">
-    <title>11:00 AM 09/09/25 - Azerbaijan vs Ukraine</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
