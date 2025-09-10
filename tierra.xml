@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250910 -0500">
-  <channel id="Milwaukee Brewers vs. Texas Rangers">
-    <display-name lang="en">Milwaukee Brewers vs. Texas Rangers</display-name>
-  </channel>
   <channel id="Boston Red Sox vs. Athletics">
     <display-name lang="en">Boston Red Sox vs. Athletics</display-name>
   </channel>
@@ -225,14 +222,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250910000000 -0500" channel="Milwaukee Brewers vs. Texas Rangers" stop="20250910235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250910000000 -0500" channel="Boston Red Sox vs. Athletics" stop="20250910235959 -0500">
     <title>Live</title>
     <date>2025</date>
