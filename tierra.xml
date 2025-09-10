@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250910 -0500">
+  <channel id="Milwaukee Brewers vs. Texas Rangers">
+    <display-name lang="en">Milwaukee Brewers vs. Texas Rangers</display-name>
+  </channel>
   <channel id="Germany vs Slovenia">
     <display-name lang="en">Germany vs Slovenia</display-name>
   </channel>
@@ -50,9 +53,6 @@
   </channel>
   <channel id="Los Angeles Chargers vs. Las Vegas Raiders">
     <display-name lang="en">Los Angeles Chargers vs. Las Vegas Raiders</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Texas Rangers">
-    <display-name lang="en">Milwaukee Brewers vs. Texas Rangers</display-name>
   </channel>
   <channel id="Boston Red Sox vs. Athletics">
     <display-name lang="en">Boston Red Sox vs. Athletics</display-name>
@@ -174,6 +174,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250910000000 -0500" channel="Milwaukee Brewers vs. Texas Rangers" stop="20250910235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250910000000 -0500" channel="Germany vs Slovenia" stop="20250910235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -304,14 +312,6 @@
   </programme>
   <programme start="20250910000000 -0500" channel="Los Angeles Chargers vs. Las Vegas Raiders" stop="20250910235959 -0500">
     <title>09:00 PM 15/09/25 - Los Angeles Chargers vs. Las Vegas Raiders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250910000000 -0500" channel="Milwaukee Brewers vs. Texas Rangers" stop="20250910235959 -0500">
-    <title>01:35 PM 10/09/25 - Milwaukee Brewers vs. Texas Rangers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
