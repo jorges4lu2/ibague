@@ -3,6 +3,12 @@
   <channel id="Milwaukee Brewers vs. Texas Rangers">
     <display-name lang="en">Milwaukee Brewers vs. Texas Rangers</display-name>
   </channel>
+  <channel id="Boston Red Sox vs. Athletics">
+    <display-name lang="en">Boston Red Sox vs. Athletics</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. San Francisco Giants">
+    <display-name lang="en">Arizona Diamondbacks vs. San Francisco Giants</display-name>
+  </channel>
   <channel id="Germany vs Slovenia">
     <display-name lang="en">Germany vs Slovenia</display-name>
   </channel>
@@ -53,12 +59,6 @@
   </channel>
   <channel id="Los Angeles Chargers vs. Las Vegas Raiders">
     <display-name lang="en">Los Angeles Chargers vs. Las Vegas Raiders</display-name>
-  </channel>
-  <channel id="Boston Red Sox vs. Athletics">
-    <display-name lang="en">Boston Red Sox vs. Athletics</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. San Francisco Giants">
-    <display-name lang="en">Arizona Diamondbacks vs. San Francisco Giants</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Los Angeles Angels">
     <display-name lang="en">Minnesota Twins vs. Los Angeles Angels</display-name>
@@ -175,6 +175,22 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250910000000 -0500" channel="Milwaukee Brewers vs. Texas Rangers" stop="20250910235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250910000000 -0500" channel="Boston Red Sox vs. Athletics" stop="20250910235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250910000000 -0500" channel="Arizona Diamondbacks vs. San Francisco Giants" stop="20250910235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -312,22 +328,6 @@
   </programme>
   <programme start="20250910000000 -0500" channel="Los Angeles Chargers vs. Las Vegas Raiders" stop="20250910235959 -0500">
     <title>09:00 PM 15/09/25 - Los Angeles Chargers vs. Las Vegas Raiders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250910000000 -0500" channel="Boston Red Sox vs. Athletics" stop="20250910235959 -0500">
-    <title>02:35 PM 10/09/25 - Boston Red Sox vs. Athletics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250910000000 -0500" channel="Arizona Diamondbacks vs. San Francisco Giants" stop="20250910235959 -0500">
-    <title>02:45 PM 10/09/25 - Arizona Diamondbacks vs. San Francisco Giants</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
