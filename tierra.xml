@@ -12,9 +12,6 @@
   <channel id="New York Mets vs. Philadelphia Phillies">
     <display-name lang="en">New York Mets vs. Philadelphia Phillies</display-name>
   </channel>
-  <channel id="Mystics at Liberty">
-    <display-name lang="en">Mystics at Liberty</display-name>
-  </channel>
   <channel id="Detroit Tigers vs. New York Yankees">
     <display-name lang="en">Detroit Tigers vs. New York Yankees</display-name>
   </channel>
@@ -26,6 +23,15 @@
   </channel>
   <channel id="Tampa Bay Rays vs. Chicago White Sox">
     <display-name lang="en">Tampa Bay Rays vs. Chicago White Sox</display-name>
+  </channel>
+  <channel id="Mystics at Liberty">
+    <display-name lang="en">Mystics at Liberty</display-name>
+  </channel>
+  <channel id="Lynx at Fever">
+    <display-name lang="en">Lynx at Fever</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Texas Rangers">
     <display-name lang="en">Milwaukee Brewers vs. Texas Rangers</display-name>
@@ -47,9 +53,6 @@
   </channel>
   <channel id="Colorado Rockies vs. Los Angeles Dodgers">
     <display-name lang="en">Colorado Rockies vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Lynx at Fever">
-    <display-name lang="en">Lynx at Fever</display-name>
   </channel>
   <channel id="Sky at Aces">
     <display-name lang="en">Sky at Aces</display-name>
@@ -110,9 +113,6 @@
   </channel>
   <channel id="Barcelona vs Valencia">
     <display-name lang="en">Barcelona vs Valencia</display-name>
-  </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -176,6 +176,38 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250909000000 -0500" channel="Detroit Tigers vs. New York Yankees" stop="20250909235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250909000000 -0500" channel="Houston Astros vs. Toronto Blue Jays" stop="20250909235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250909000000 -0500" channel="Chicago Cubs vs. Atlanta Braves" stop="20250909235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250909000000 -0500" channel="Tampa Bay Rays vs. Chicago White Sox" stop="20250909235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250909000000 -0500" channel="Mystics at Liberty" stop="20250909235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -184,32 +216,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250909000000 -0500" channel="Detroit Tigers vs. New York Yankees" stop="20250909235959 -0500">
-    <title>06:05 PM 09/09/25 - Detroit Tigers vs. New York Yankees</title>
+  <programme start="20250909000000 -0500" channel="Lynx at Fever" stop="20250909235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250909000000 -0500" channel="Houston Astros vs. Toronto Blue Jays" stop="20250909235959 -0500">
-    <title>06:07 PM 09/09/25 - Houston Astros vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250909000000 -0500" channel="Chicago Cubs vs. Atlanta Braves" stop="20250909235959 -0500">
-    <title>06:15 PM 09/09/25 - Chicago Cubs vs. Atlanta Braves</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250909000000 -0500" channel="Tampa Bay Rays vs. Chicago White Sox" stop="20250909235959 -0500">
-    <title>06:40 PM 09/09/25 - Tampa Bay Rays vs. Chicago White Sox</title>
+  <programme start="20250909000000 -0500" channel="WWE: NXT" stop="20250909235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -266,14 +282,6 @@
   </programme>
   <programme start="20250909000000 -0500" channel="Colorado Rockies vs. Los Angeles Dodgers" stop="20250909235959 -0500">
     <title>09:10 PM 09/09/25 - Colorado Rockies vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250909000000 -0500" channel="Lynx at Fever" stop="20250909235959 -0500">
-    <title>06:30 PM 09/09/25 - Lynx at Fever</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -434,14 +442,6 @@
   </programme>
   <programme start="20250909000000 -0500" channel="Barcelona vs Valencia" stop="20250909235959 -0500">
     <title>02:00 PM 14/09/25 - Barcelona vs Valencia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250909000000 -0500" channel="WWE: NXT" stop="20250909235959 -0500">
-    <title>07:00 PM 09/09/25 - WWE: NXT</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
