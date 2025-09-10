@@ -24,17 +24,20 @@
   <channel id="Tampa Bay Rays vs. Chicago White Sox">
     <display-name lang="en">Tampa Bay Rays vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Milwaukee Brewers vs. Texas Rangers">
+    <display-name lang="en">Milwaukee Brewers vs. Texas Rangers</display-name>
+  </channel>
   <channel id="Mystics at Liberty">
     <display-name lang="en">Mystics at Liberty</display-name>
   </channel>
   <channel id="Lynx at Fever">
     <display-name lang="en">Lynx at Fever</display-name>
   </channel>
+  <channel id="Dana White's Contender Series">
+    <display-name lang="en">Dana White's Contender Series</display-name>
+  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
-  </channel>
-  <channel id="Milwaukee Brewers vs. Texas Rangers">
-    <display-name lang="en">Milwaukee Brewers vs. Texas Rangers</display-name>
   </channel>
   <channel id="Minnesota Twins vs. Los Angeles Angels">
     <display-name lang="en">Minnesota Twins vs. Los Angeles Angels</display-name>
@@ -208,6 +211,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250909000000 -0500" channel="Milwaukee Brewers vs. Texas Rangers" stop="20250909235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250909000000 -0500" channel="Mystics at Liberty" stop="20250909235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -224,7 +235,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250909000000 -0500" channel="WWE: NXT" stop="20250909235959 -0500">
+  <programme start="20250909000000 -0500" channel="Dana White's Contender Series" stop="20250909235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -232,8 +243,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250909000000 -0500" channel="Milwaukee Brewers vs. Texas Rangers" stop="20250909235959 -0500">
-    <title>07:05 PM 09/09/25 - Milwaukee Brewers vs. Texas Rangers</title>
+  <programme start="20250909000000 -0500" channel="WWE: NXT" stop="20250909235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
