@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250910 -0500">
-  <channel id="Cincinnati Reds vs. San Diego Padres">
-    <display-name lang="en">Cincinnati Reds vs. San Diego Padres</display-name>
-  </channel>
   <channel id="St. Louis Cardinals vs. Seattle Mariners">
     <display-name lang="en">St. Louis Cardinals vs. Seattle Mariners</display-name>
   </channel>
@@ -183,14 +180,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250910000000 -0500" channel="Cincinnati Reds vs. San Diego Padres" stop="20250910235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250910000000 -0500" channel="St. Louis Cardinals vs. Seattle Mariners" stop="20250910235959 -0500">
     <title>Live</title>
     <date>2025</date>
