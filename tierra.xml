@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250911 -0500">
-  <channel id="Houston Astros vs. Toronto Blue Jays">
-    <display-name lang="en">Houston Astros vs. Toronto Blue Jays</display-name>
+  <channel id="Washington Nationals vs. Miami Marlins">
+    <display-name lang="en">Washington Nationals vs. Miami Marlins</display-name>
   </channel>
   <channel id="Washington Commanders vs. Green Bay Packers">
     <display-name lang="en">Washington Commanders vs. Green Bay Packers</display-name>
@@ -51,9 +51,6 @@
   <channel id="Los Angeles Chargers vs. Las Vegas Raiders">
     <display-name lang="en">Los Angeles Chargers vs. Las Vegas Raiders</display-name>
   </channel>
-  <channel id="Washington Nationals vs. Miami Marlins">
-    <display-name lang="en">Washington Nationals vs. Miami Marlins</display-name>
-  </channel>
   <channel id="Detroit Tigers vs. New York Yankees">
     <display-name lang="en">Detroit Tigers vs. New York Yankees</display-name>
   </channel>
@@ -90,6 +87,9 @@
   <channel id="Crocker vs. Donovan 2">
     <display-name lang="en">Crocker vs. Donovan 2</display-name>
   </channel>
+  <channel id="OM vs. FC Lorient">
+    <display-name lang="en">OM vs. FC Lorient</display-name>
+  </channel>
   <channel id="Sevilla FC vs. Elche CF">
     <display-name lang="en">Sevilla FC vs. Elche CF</display-name>
   </channel>
@@ -117,6 +117,9 @@
   <channel id="Real Sociedad vs. Real Madrid">
     <display-name lang="en">Real Sociedad vs. Real Madrid</display-name>
   </channel>
+  <channel id="OGC Nice vs. FC Nantes">
+    <display-name lang="en">OGC Nice vs. FC Nantes</display-name>
+  </channel>
   <channel id="West Ham United vs. Tottenham Hotspur">
     <display-name lang="en">West Ham United vs. Tottenham Hotspur</display-name>
   </channel>
@@ -129,20 +132,41 @@
   <channel id="Atl&#233;tico de Madrid vs. Villarreal CF">
     <display-name lang="en">Atl&#233;tico de Madrid vs. Villarreal CF</display-name>
   </channel>
+  <channel id="AJ Auxerre vs. AS Monaco">
+    <display-name lang="en">AJ Auxerre vs. AS Monaco</display-name>
+  </channel>
   <channel id="Celta vs. Girona FC">
     <display-name lang="en">Celta vs. Girona FC</display-name>
   </channel>
   <channel id="Burnley vs. Liverpool">
     <display-name lang="en">Burnley vs. Liverpool</display-name>
   </channel>
+  <channel id="LOSC vs. Toulouse FC">
+    <display-name lang="en">LOSC vs. Toulouse FC</display-name>
+  </channel>
   <channel id="Levante UD vs. Real Betis">
     <display-name lang="en">Levante UD vs. Real Betis</display-name>
+  </channel>
+  <channel id="Brest vs. Paris FC">
+    <display-name lang="en">Brest vs. Paris FC</display-name>
+  </channel>
+  <channel id="FC Metz vs. Angers SCO">
+    <display-name lang="en">FC Metz vs. Angers SCO</display-name>
+  </channel>
+  <channel id="PSG vs. RC Lens">
+    <display-name lang="en">PSG vs. RC Lens</display-name>
+  </channel>
+  <channel id="Strasbourg vs. Havre AC">
+    <display-name lang="en">Strasbourg vs. Havre AC</display-name>
   </channel>
   <channel id="Manchester City vs. Manchester United">
     <display-name lang="en">Manchester City vs. Manchester United</display-name>
   </channel>
   <channel id="CA Osasuna vs. Rayo Vallecano">
     <display-name lang="en">CA Osasuna vs. Rayo Vallecano</display-name>
+  </channel>
+  <channel id="Rennes vs. OL">
+    <display-name lang="en">Rennes vs. OL</display-name>
   </channel>
   <channel id="FC Barcelona vs. Valencia CF">
     <display-name lang="en">FC Barcelona vs. Valencia CF</display-name>
@@ -231,7 +255,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250911000000 -0500" channel="Houston Astros vs. Toronto Blue Jays" stop="20250911235959 -0500">
+  <programme start="20250911000000 -0500" channel="Washington Nationals vs. Miami Marlins" stop="20250911235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -367,14 +391,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250911000000 -0500" channel="Washington Nationals vs. Miami Marlins" stop="20250911235959 -0500">
-    <title>05:40 PM 11/09/25 - Washington Nationals vs. Miami Marlins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250911000000 -0500" channel="Detroit Tigers vs. New York Yankees" stop="20250911235959 -0500">
     <title>06:05 PM 11/09/25 - Detroit Tigers vs. New York Yankees</title>
     <date>2025</date>
@@ -471,6 +487,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250911000000 -0500" channel="OM vs. FC Lorient" stop="20250911235959 -0500">
+    <title>01:45 PM 12/09/25 - OM vs. FC Lorient</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250911000000 -0500" channel="Sevilla FC vs. Elche CF" stop="20250911235959 -0500">
     <title>02:00 PM 12/09/25 - Sevilla FC vs. Elche CF</title>
     <date>2025</date>
@@ -543,6 +567,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250911000000 -0500" channel="OGC Nice vs. FC Nantes" stop="20250911235959 -0500">
+    <title>10:00 AM 13/09/25 - OGC Nice vs. FC Nantes</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250911000000 -0500" channel="West Ham United vs. Tottenham Hotspur" stop="20250911235959 -0500">
     <title>11:30 AM 13/09/25 - West Ham United vs. Tottenham Hotspur</title>
     <date>2025</date>
@@ -575,6 +607,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250911000000 -0500" channel="AJ Auxerre vs. AS Monaco" stop="20250911235959 -0500">
+    <title>02:05 PM 13/09/25 - AJ Auxerre vs. AS Monaco</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250911000000 -0500" channel="Celta vs. Girona FC" stop="20250911235959 -0500">
     <title>07:00 AM 14/09/25 - Celta vs. Girona FC</title>
     <date>2025</date>
@@ -591,8 +631,48 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250911000000 -0500" channel="LOSC vs. Toulouse FC" stop="20250911235959 -0500">
+    <title>08:00 AM 14/09/25 - LOSC vs. Toulouse FC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250911000000 -0500" channel="Levante UD vs. Real Betis" stop="20250911235959 -0500">
     <title>09:15 AM 14/09/25 - Levante UD vs. Real Betis</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Brest vs. Paris FC" stop="20250911235959 -0500">
+    <title>10:15 AM 14/09/25 - Brest vs. Paris FC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="FC Metz vs. Angers SCO" stop="20250911235959 -0500">
+    <title>10:15 AM 14/09/25 - FC Metz vs. Angers SCO</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="PSG vs. RC Lens" stop="20250911235959 -0500">
+    <title>10:15 AM 14/09/25 - PSG vs. RC Lens</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Strasbourg vs. Havre AC" stop="20250911235959 -0500">
+    <title>10:15 AM 14/09/25 - Strasbourg vs. Havre AC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -609,6 +689,14 @@
   </programme>
   <programme start="20250911000000 -0500" channel="CA Osasuna vs. Rayo Vallecano" stop="20250911235959 -0500">
     <title>11:30 AM 14/09/25 - CA Osasuna vs. Rayo Vallecano</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Rennes vs. OL" stop="20250911235959 -0500">
+    <title>01:45 PM 14/09/25 - Rennes vs. OL</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
