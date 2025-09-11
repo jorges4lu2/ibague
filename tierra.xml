@@ -84,8 +84,14 @@
   <channel id="Crocker vs. Donovan 2">
     <display-name lang="en">Crocker vs. Donovan 2</display-name>
   </channel>
+  <channel id="Sevilla FC vs. Elche CF">
+    <display-name lang="en">Sevilla FC vs. Elche CF</display-name>
+  </channel>
   <channel id="Arsenal vs. Nottingham Forest">
     <display-name lang="en">Arsenal vs. Nottingham Forest</display-name>
+  </channel>
+  <channel id="Getafe CF vs. Real Oviedo">
+    <display-name lang="en">Getafe CF vs. Real Oviedo</display-name>
   </channel>
   <channel id="Bournemouth vs. Brighton and Hove Albion">
     <display-name lang="en">Bournemouth vs. Brighton and Hove Albion</display-name>
@@ -102,23 +108,41 @@
   <channel id="Newcastle United vs. Wolverhampton Wanderers">
     <display-name lang="en">Newcastle United vs. Wolverhampton Wanderers</display-name>
   </channel>
-  <channel id="Real Sociedad vs Real Madrid">
-    <display-name lang="en">Real Sociedad vs Real Madrid</display-name>
+  <channel id="Real Sociedad vs. Real Madrid">
+    <display-name lang="en">Real Sociedad vs. Real Madrid</display-name>
   </channel>
   <channel id="West Ham United vs. Tottenham Hotspur">
     <display-name lang="en">West Ham United vs. Tottenham Hotspur</display-name>
   </channel>
+  <channel id="Athletic Club vs. Deportivo Alav&#233;s">
+    <display-name lang="en">Athletic Club vs. Deportivo Alav&#233;s</display-name>
+  </channel>
   <channel id="Brentford vs. Chelsea">
     <display-name lang="en">Brentford vs. Chelsea</display-name>
+  </channel>
+  <channel id="Atl&#233;tico de Madrid vs. Villarreal CF">
+    <display-name lang="en">Atl&#233;tico de Madrid vs. Villarreal CF</display-name>
+  </channel>
+  <channel id="Celta vs. Girona FC">
+    <display-name lang="en">Celta vs. Girona FC</display-name>
   </channel>
   <channel id="Burnley vs. Liverpool">
     <display-name lang="en">Burnley vs. Liverpool</display-name>
   </channel>
+  <channel id="Levante UD vs. Real Betis">
+    <display-name lang="en">Levante UD vs. Real Betis</display-name>
+  </channel>
   <channel id="Manchester City vs. Manchester United">
     <display-name lang="en">Manchester City vs. Manchester United</display-name>
   </channel>
-  <channel id="Barcelona vs Valencia">
-    <display-name lang="en">Barcelona vs Valencia</display-name>
+  <channel id="CA Osasuna vs. Rayo Vallecano">
+    <display-name lang="en">CA Osasuna vs. Rayo Vallecano</display-name>
+  </channel>
+  <channel id="FC Barcelona vs. Valencia CF">
+    <display-name lang="en">FC Barcelona vs. Valencia CF</display-name>
+  </channel>
+  <channel id="RCD Espanyol de Barcelona vs. RCD Mallorca">
+    <display-name lang="en">RCD Espanyol de Barcelona vs. RCD Mallorca</display-name>
   </channel>
   <channel id="PSV vs. Union SG">
     <display-name lang="en">PSV vs. Union SG</display-name>
@@ -425,8 +449,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250911000000 -0500" channel="Sevilla FC vs. Elche CF" stop="20250911235959 -0500">
+    <title>02:00 PM 12/09/25 - Sevilla FC vs. Elche CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250911000000 -0500" channel="Arsenal vs. Nottingham Forest" stop="20250911235959 -0500">
     <title>06:30 AM 13/09/25 - Arsenal vs. Nottingham Forest</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Getafe CF vs. Real Oviedo" stop="20250911235959 -0500">
+    <title>07:00 AM 13/09/25 - Getafe CF vs. Real Oviedo</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -473,8 +513,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250911000000 -0500" channel="Real Sociedad vs Real Madrid" stop="20250911235959 -0500">
-    <title>09:15 AM 13/09/25 - Real Sociedad vs Real Madrid</title>
+  <programme start="20250911000000 -0500" channel="Real Sociedad vs. Real Madrid" stop="20250911235959 -0500">
+    <title>09:15 AM 13/09/25 - Real Sociedad vs. Real Madrid</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -489,8 +529,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250911000000 -0500" channel="Athletic Club vs. Deportivo Alav&#233;s" stop="20250911235959 -0500">
+    <title>11:30 AM 13/09/25 - Athletic Club vs. Deportivo Alav&#233;s</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250911000000 -0500" channel="Brentford vs. Chelsea" stop="20250911235959 -0500">
     <title>02:00 PM 13/09/25 - Brentford vs. Chelsea</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Atl&#233;tico de Madrid vs. Villarreal CF" stop="20250911235959 -0500">
+    <title>02:00 PM 13/09/25 - Atl&#233;tico de Madrid vs. Villarreal CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Celta vs. Girona FC" stop="20250911235959 -0500">
+    <title>07:00 AM 14/09/25 - Celta vs. Girona FC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -505,6 +569,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250911000000 -0500" channel="Levante UD vs. Real Betis" stop="20250911235959 -0500">
+    <title>09:15 AM 14/09/25 - Levante UD vs. Real Betis</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250911000000 -0500" channel="Manchester City vs. Manchester United" stop="20250911235959 -0500">
     <title>10:30 AM 14/09/25 - Manchester City vs. Manchester United</title>
     <date>2025</date>
@@ -513,8 +585,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250911000000 -0500" channel="Barcelona vs Valencia" stop="20250911235959 -0500">
-    <title>02:00 PM 14/09/25 - Barcelona vs Valencia</title>
+  <programme start="20250911000000 -0500" channel="CA Osasuna vs. Rayo Vallecano" stop="20250911235959 -0500">
+    <title>11:30 AM 14/09/25 - CA Osasuna vs. Rayo Vallecano</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="FC Barcelona vs. Valencia CF" stop="20250911235959 -0500">
+    <title>02:00 PM 14/09/25 - FC Barcelona vs. Valencia CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="RCD Espanyol de Barcelona vs. RCD Mallorca" stop="20250911235959 -0500">
+    <title>02:00 PM 15/09/25 - RCD Espanyol de Barcelona vs. RCD Mallorca</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
