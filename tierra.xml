@@ -6,6 +6,9 @@
   <channel id="Tampa Bay Rays vs. Chicago White Sox">
     <display-name lang="en">Tampa Bay Rays vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Houston Astros vs. Toronto Blue Jays">
+    <display-name lang="en">Houston Astros vs. Toronto Blue Jays</display-name>
+  </channel>
   <channel id="Washington Commanders vs. Green Bay Packers">
     <display-name lang="en">Washington Commanders vs. Green Bay Packers</display-name>
   </channel>
@@ -53,9 +56,6 @@
   </channel>
   <channel id="Los Angeles Chargers vs. Las Vegas Raiders">
     <display-name lang="en">Los Angeles Chargers vs. Las Vegas Raiders</display-name>
-  </channel>
-  <channel id="Houston Astros vs. Toronto Blue Jays">
-    <display-name lang="en">Houston Astros vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Washington Nationals vs. Miami Marlins">
     <display-name lang="en">Washington Nationals vs. Miami Marlins</display-name>
@@ -253,6 +253,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250911000000 -0500" channel="Houston Astros vs. Toronto Blue Jays" stop="20250911235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250911000000 -0500" channel="Washington Commanders vs. Green Bay Packers" stop="20250911235959 -0500">
     <title>07:15 PM 11/09/25 - Washington Commanders vs. Green Bay Packers</title>
     <date>2025</date>
@@ -375,14 +383,6 @@
   </programme>
   <programme start="20250911000000 -0500" channel="Los Angeles Chargers vs. Las Vegas Raiders" stop="20250911235959 -0500">
     <title>09:00 PM 15/09/25 - Los Angeles Chargers vs. Las Vegas Raiders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250911000000 -0500" channel="Houston Astros vs. Toronto Blue Jays" stop="20250911235959 -0500">
-    <title>02:07 PM 11/09/25 - Houston Astros vs. Toronto Blue Jays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
