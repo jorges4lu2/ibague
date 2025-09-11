@@ -24,6 +24,9 @@
   <channel id="Tampa Bay Rays vs. Chicago White Sox">
     <display-name lang="en">Tampa Bay Rays vs. Chicago White Sox</display-name>
   </channel>
+  <channel id="Cincinnati Reds vs. San Diego Padres">
+    <display-name lang="en">Cincinnati Reds vs. San Diego Padres</display-name>
+  </channel>
   <channel id="Dream at Sun">
     <display-name lang="en">Dream at Sun</display-name>
   </channel>
@@ -77,9 +80,6 @@
   </channel>
   <channel id="Los Angeles Chargers vs. Las Vegas Raiders">
     <display-name lang="en">Los Angeles Chargers vs. Las Vegas Raiders</display-name>
-  </channel>
-  <channel id="Cincinnati Reds vs. San Diego Padres">
-    <display-name lang="en">Cincinnati Reds vs. San Diego Padres</display-name>
   </channel>
   <channel id="St. Louis Cardinals vs. Seattle Mariners">
     <display-name lang="en">St. Louis Cardinals vs. Seattle Mariners</display-name>
@@ -277,6 +277,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250910000000 -0500" channel="Cincinnati Reds vs. San Diego Padres" stop="20250910235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250910000000 -0500" channel="Dream at Sun" stop="20250910235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -415,14 +423,6 @@
   </programme>
   <programme start="20250910000000 -0500" channel="Los Angeles Chargers vs. Las Vegas Raiders" stop="20250910235959 -0500">
     <title>09:00 PM 15/09/25 - Los Angeles Chargers vs. Las Vegas Raiders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250910000000 -0500" channel="Cincinnati Reds vs. San Diego Padres" stop="20250910235959 -0500">
-    <title>07:40 PM 10/09/25 - Cincinnati Reds vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
