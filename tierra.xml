@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250912 -0500">
-  <channel id="Tampa Bay Rays vs. Chicago Cubs">
-    <display-name lang="en">Tampa Bay Rays vs. Chicago Cubs</display-name>
-  </channel>
-  <channel id="Bayer Leverkusen vs Eintracht Frankfurt">
-    <display-name lang="en">Bayer Leverkusen vs Eintracht Frankfurt</display-name>
-  </channel>
-  <channel id="OM vs. FC Lorient">
-    <display-name lang="en">OM vs. FC Lorient</display-name>
-  </channel>
-  <channel id="Sevilla FC vs. Elche CF">
-    <display-name lang="en">Sevilla FC vs. Elche CF</display-name>
-  </channel>
   <channel id="Jacksonville Jaguars vs. Cincinnati Bengals">
     <display-name lang="en">Jacksonville Jaguars vs. Cincinnati Bengals</display-name>
   </channel>
@@ -108,6 +96,9 @@
   <channel id="Crocker vs. Donovan 2">
     <display-name lang="en">Crocker vs. Donovan 2</display-name>
   </channel>
+  <channel id="Canelo vs Crawford">
+    <display-name lang="en">Canelo vs Crawford</display-name>
+  </channel>
   <channel id="Arsenal vs. Nottingham Forest">
     <display-name lang="en">Arsenal vs. Nottingham Forest</display-name>
   </channel>
@@ -116,6 +107,21 @@
   </channel>
   <channel id="Cagliari vs. Parma">
     <display-name lang="en">Cagliari vs. Parma</display-name>
+  </channel>
+  <channel id="Heidenheim vs. Dortmund">
+    <display-name lang="en">Heidenheim vs. Dortmund</display-name>
+  </channel>
+  <channel id="Union Berlin vs. Hoffenheim">
+    <display-name lang="en">Union Berlin vs. Hoffenheim</display-name>
+  </channel>
+  <channel id="Mainz vs. RB Leipzig">
+    <display-name lang="en">Mainz vs. RB Leipzig</display-name>
+  </channel>
+  <channel id="Freiburg vs. Stuttgart">
+    <display-name lang="en">Freiburg vs. Stuttgart</display-name>
+  </channel>
+  <channel id="Wolfsburg vs. Cologne">
+    <display-name lang="en">Wolfsburg vs. Cologne</display-name>
   </channel>
   <channel id="Goal Rush">
     <display-name lang="en">Goal Rush</display-name>
@@ -150,6 +156,9 @@
   <channel id="Athletic Club vs. Deportivo Alav&#233;s">
     <display-name lang="en">Athletic Club vs. Deportivo Alav&#233;s</display-name>
   </channel>
+  <channel id="Bayern vs. Hamburg">
+    <display-name lang="en">Bayern vs. Hamburg</display-name>
+  </channel>
   <channel id="Fiorentina vs. Napoli">
     <display-name lang="en">Fiorentina vs. Napoli</display-name>
   </channel>
@@ -180,6 +189,9 @@
   <channel id="Pisa vs. Udinese">
     <display-name lang="en">Pisa vs. Udinese</display-name>
   </channel>
+  <channel id="St. Pauli vs. Augsburg">
+    <display-name lang="en">St. Pauli vs. Augsburg</display-name>
+  </channel>
   <channel id="Levante UD vs. Real Betis">
     <display-name lang="en">Levante UD vs. Real Betis</display-name>
   </channel>
@@ -197,6 +209,9 @@
   </channel>
   <channel id="Manchester City vs. Manchester United">
     <display-name lang="en">Manchester City vs. Manchester United</display-name>
+  </channel>
+  <channel id="Gladbach vs. Bremen">
+    <display-name lang="en">Gladbach vs. Bremen</display-name>
   </channel>
   <channel id="Sassuolo vs. Lazio">
     <display-name lang="en">Sassuolo vs. Lazio</display-name>
@@ -300,38 +315,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250912000000 -0500" channel="Tampa Bay Rays vs. Chicago Cubs" stop="20250912235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="Bayer Leverkusen vs Eintracht Frankfurt" stop="20250912235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="OM vs. FC Lorient" stop="20250912235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="Sevilla FC vs. Elche CF" stop="20250912235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250912000000 -0500" channel="Jacksonville Jaguars vs. Cincinnati Bengals" stop="20250912235959 -0500">
     <title>12:00 PM 14/09/25 - Jacksonville Jaguars vs. Cincinnati Bengals</title>
     <date>2025</date>
@@ -588,6 +571,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250912000000 -0500" channel="Canelo vs Crawford" stop="20250912235959 -0500">
+    <title>08:00 PM 13/09/25 - Canelo vs Crawford</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="Arsenal vs. Nottingham Forest" stop="20250912235959 -0500">
     <title>06:30 AM 13/09/25 - Arsenal vs. Nottingham Forest</title>
     <date>2025</date>
@@ -606,6 +597,46 @@
   </programme>
   <programme start="20250912000000 -0500" channel="Cagliari vs. Parma" stop="20250912235959 -0500">
     <title>08:00 AM 13/09/25 - Cagliari vs. Parma</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Heidenheim vs. Dortmund" stop="20250912235959 -0500">
+    <title>08:30 AM 13/09/25 - Heidenheim vs. Dortmund</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Union Berlin vs. Hoffenheim" stop="20250912235959 -0500">
+    <title>08:30 AM 13/09/25 - Union Berlin vs. Hoffenheim</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Mainz vs. RB Leipzig" stop="20250912235959 -0500">
+    <title>08:30 AM 13/09/25 - Mainz vs. RB Leipzig</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Freiburg vs. Stuttgart" stop="20250912235959 -0500">
+    <title>08:30 AM 13/09/25 - Freiburg vs. Stuttgart</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Wolfsburg vs. Cologne" stop="20250912235959 -0500">
+    <title>08:30 AM 13/09/25 - Wolfsburg vs. Cologne</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -700,6 +731,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250912000000 -0500" channel="Bayern vs. Hamburg" stop="20250912235959 -0500">
+    <title>11:30 AM 13/09/25 - Bayern vs. Hamburg</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="Fiorentina vs. Napoli" stop="20250912235959 -0500">
     <title>01:45 PM 13/09/25 - Fiorentina vs. Napoli</title>
     <date>2025</date>
@@ -780,6 +819,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250912000000 -0500" channel="St. Pauli vs. Augsburg" stop="20250912235959 -0500">
+    <title>08:30 AM 14/09/25 - St. Pauli vs. Augsburg</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="Levante UD vs. Real Betis" stop="20250912235959 -0500">
     <title>09:15 AM 14/09/25 - Levante UD vs. Real Betis</title>
     <date>2025</date>
@@ -822,6 +869,14 @@
   </programme>
   <programme start="20250912000000 -0500" channel="Manchester City vs. Manchester United" stop="20250912235959 -0500">
     <title>10:30 AM 14/09/25 - Manchester City vs. Manchester United</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Gladbach vs. Bremen" stop="20250912235959 -0500">
+    <title>10:30 AM 14/09/25 - Gladbach vs. Bremen</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
