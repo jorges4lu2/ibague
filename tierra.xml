@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250911 -0500">
-  <channel id="Washington Commanders vs. Green Bay Packers">
-    <display-name lang="en">Washington Commanders vs. Green Bay Packers</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. Seattle Mariners">
     <display-name lang="en">Los Angeles Angels vs. Seattle Mariners</display-name>
   </channel>
@@ -231,14 +228,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250911000000 -0500" channel="Washington Commanders vs. Green Bay Packers" stop="20250911235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250911000000 -0500" channel="Los Angeles Angels vs. Seattle Mariners" stop="20250911235959 -0500">
     <title>Live</title>
     <date>2025</date>
