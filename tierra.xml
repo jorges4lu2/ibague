@@ -1,7 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250912 -0500">
+  <channel id="Tampa Bay Rays vs. Chicago Cubs">
+    <display-name lang="en">Tampa Bay Rays vs. Chicago Cubs</display-name>
+  </channel>
   <channel id="Greece vs T&#252;rkiye">
     <display-name lang="en">Greece vs T&#252;rkiye</display-name>
+  </channel>
+  <channel id="Bayer Leverkusen vs Eintracht Frankfurt">
+    <display-name lang="en">Bayer Leverkusen vs Eintracht Frankfurt</display-name>
+  </channel>
+  <channel id="OM vs. FC Lorient">
+    <display-name lang="en">OM vs. FC Lorient</display-name>
+  </channel>
+  <channel id="Sevilla FC vs. Elche CF">
+    <display-name lang="en">Sevilla FC vs. Elche CF</display-name>
   </channel>
   <channel id="Jacksonville Jaguars vs. Cincinnati Bengals">
     <display-name lang="en">Jacksonville Jaguars vs. Cincinnati Bengals</display-name>
@@ -47,9 +59,6 @@
   </channel>
   <channel id="Los Angeles Chargers vs. Las Vegas Raiders">
     <display-name lang="en">Los Angeles Chargers vs. Las Vegas Raiders</display-name>
-  </channel>
-  <channel id="Tampa Bay Rays vs. Chicago Cubs">
-    <display-name lang="en">Tampa Bay Rays vs. Chicago Cubs</display-name>
   </channel>
   <channel id="Kansas City Royals vs. Philadelphia Phillies">
     <display-name lang="en">Kansas City Royals vs. Philadelphia Phillies</display-name>
@@ -101,15 +110,6 @@
   </channel>
   <channel id="Crocker vs. Donovan 2">
     <display-name lang="en">Crocker vs. Donovan 2</display-name>
-  </channel>
-  <channel id="Bayer Leverkusen vs Eintracht Frankfurt">
-    <display-name lang="en">Bayer Leverkusen vs Eintracht Frankfurt</display-name>
-  </channel>
-  <channel id="OM vs. FC Lorient">
-    <display-name lang="en">OM vs. FC Lorient</display-name>
-  </channel>
-  <channel id="Sevilla FC vs. Elche CF">
-    <display-name lang="en">Sevilla FC vs. Elche CF</display-name>
   </channel>
   <channel id="Arsenal vs. Nottingham Forest">
     <display-name lang="en">Arsenal vs. Nottingham Forest</display-name>
@@ -300,7 +300,39 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250912000000 -0500" channel="Tampa Bay Rays vs. Chicago Cubs" stop="20250912235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="Greece vs T&#252;rkiye" stop="20250912235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Bayer Leverkusen vs Eintracht Frankfurt" stop="20250912235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="OM vs. FC Lorient" stop="20250912235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Sevilla FC vs. Elche CF" stop="20250912235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -422,14 +454,6 @@
   </programme>
   <programme start="20250912000000 -0500" channel="Los Angeles Chargers vs. Las Vegas Raiders" stop="20250912235959 -0500">
     <title>09:00 PM 15/09/25 - Los Angeles Chargers vs. Las Vegas Raiders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="Tampa Bay Rays vs. Chicago Cubs" stop="20250912235959 -0500">
-    <title>01:20 PM 12/09/25 - Tampa Bay Rays vs. Chicago Cubs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -566,30 +590,6 @@
   </programme>
   <programme start="20250912000000 -0500" channel="Crocker vs. Donovan 2" stop="20250912235959 -0500">
     <title>01:00 PM 13/09/25 - Crocker vs. Donovan 2</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="Bayer Leverkusen vs Eintracht Frankfurt" stop="20250912235959 -0500">
-    <title>01:30 PM 12/09/25 - Bayer Leverkusen vs Eintracht Frankfurt</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="OM vs. FC Lorient" stop="20250912235959 -0500">
-    <title>01:45 PM 12/09/25 - OM vs. FC Lorient</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="Sevilla FC vs. Elche CF" stop="20250912235959 -0500">
-    <title>02:00 PM 12/09/25 - Sevilla FC vs. Elche CF</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
