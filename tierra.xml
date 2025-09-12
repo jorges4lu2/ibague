@@ -105,6 +105,9 @@
   <channel id="Crocker vs. Donovan 2">
     <display-name lang="en">Crocker vs. Donovan 2</display-name>
   </channel>
+  <channel id="Bayer Leverkusen vs Eintracht Frankfurt">
+    <display-name lang="en">Bayer Leverkusen vs Eintracht Frankfurt</display-name>
+  </channel>
   <channel id="OM vs. FC Lorient">
     <display-name lang="en">OM vs. FC Lorient</display-name>
   </channel>
@@ -116,6 +119,9 @@
   </channel>
   <channel id="Getafe CF vs. Real Oviedo">
     <display-name lang="en">Getafe CF vs. Real Oviedo</display-name>
+  </channel>
+  <channel id="Cagliari vs. Parma">
+    <display-name lang="en">Cagliari vs. Parma</display-name>
   </channel>
   <channel id="Bournemouth vs. Brighton and Hove Albion">
     <display-name lang="en">Bournemouth vs. Brighton and Hove Albion</display-name>
@@ -138,11 +144,17 @@
   <channel id="OGC Nice vs. FC Nantes">
     <display-name lang="en">OGC Nice vs. FC Nantes</display-name>
   </channel>
+  <channel id="Juventus vs. Inter">
+    <display-name lang="en">Juventus vs. Inter</display-name>
+  </channel>
   <channel id="West Ham United vs. Tottenham Hotspur">
     <display-name lang="en">West Ham United vs. Tottenham Hotspur</display-name>
   </channel>
   <channel id="Athletic Club vs. Deportivo Alav&#233;s">
     <display-name lang="en">Athletic Club vs. Deportivo Alav&#233;s</display-name>
+  </channel>
+  <channel id="Fiorentina vs. Napoli">
+    <display-name lang="en">Fiorentina vs. Napoli</display-name>
   </channel>
   <channel id="Brentford vs. Chelsea">
     <display-name lang="en">Brentford vs. Chelsea</display-name>
@@ -153,6 +165,9 @@
   <channel id="AJ Auxerre vs. AS Monaco">
     <display-name lang="en">AJ Auxerre vs. AS Monaco</display-name>
   </channel>
+  <channel id="Roma vs. Torino">
+    <display-name lang="en">Roma vs. Torino</display-name>
+  </channel>
   <channel id="Celta vs. Girona FC">
     <display-name lang="en">Celta vs. Girona FC</display-name>
   </channel>
@@ -161,6 +176,12 @@
   </channel>
   <channel id="LOSC vs. Toulouse FC">
     <display-name lang="en">LOSC vs. Toulouse FC</display-name>
+  </channel>
+  <channel id="Atalanta vs. Lecce">
+    <display-name lang="en">Atalanta vs. Lecce</display-name>
+  </channel>
+  <channel id="Pisa vs. Udinese">
+    <display-name lang="en">Pisa vs. Udinese</display-name>
   </channel>
   <channel id="Levante UD vs. Real Betis">
     <display-name lang="en">Levante UD vs. Real Betis</display-name>
@@ -180,14 +201,26 @@
   <channel id="Manchester City vs. Manchester United">
     <display-name lang="en">Manchester City vs. Manchester United</display-name>
   </channel>
+  <channel id="Sassuolo vs. Lazio">
+    <display-name lang="en">Sassuolo vs. Lazio</display-name>
+  </channel>
   <channel id="CA Osasuna vs. Rayo Vallecano">
     <display-name lang="en">CA Osasuna vs. Rayo Vallecano</display-name>
   </channel>
   <channel id="Rennes vs. OL">
     <display-name lang="en">Rennes vs. OL</display-name>
   </channel>
+  <channel id="Milan vs. Bologna">
+    <display-name lang="en">Milan vs. Bologna</display-name>
+  </channel>
   <channel id="FC Barcelona vs. Valencia CF">
     <display-name lang="en">FC Barcelona vs. Valencia CF</display-name>
+  </channel>
+  <channel id="Hellas Verona vs. Cremonese">
+    <display-name lang="en">Hellas Verona vs. Cremonese</display-name>
+  </channel>
+  <channel id="Como vs. Genoa">
+    <display-name lang="en">Como vs. Genoa</display-name>
   </channel>
   <channel id="RCD Espanyol de Barcelona vs. RCD Mallorca">
     <display-name lang="en">RCD Espanyol de Barcelona vs. RCD Mallorca</display-name>
@@ -550,6 +583,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250912000000 -0500" channel="Bayer Leverkusen vs Eintracht Frankfurt" stop="20250912235959 -0500">
+    <title>01:30 PM 12/09/25 - Bayer Leverkusen vs Eintracht Frankfurt</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="OM vs. FC Lorient" stop="20250912235959 -0500">
     <title>01:45 PM 12/09/25 - OM vs. FC Lorient</title>
     <date>2025</date>
@@ -576,6 +617,14 @@
   </programme>
   <programme start="20250912000000 -0500" channel="Getafe CF vs. Real Oviedo" stop="20250912235959 -0500">
     <title>07:00 AM 13/09/25 - Getafe CF vs. Real Oviedo</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Cagliari vs. Parma" stop="20250912235959 -0500">
+    <title>08:00 AM 13/09/25 - Cagliari vs. Parma</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -638,6 +687,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250912000000 -0500" channel="Juventus vs. Inter" stop="20250912235959 -0500">
+    <title>11:00 AM 13/09/25 - Juventus vs. Inter</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="West Ham United vs. Tottenham Hotspur" stop="20250912235959 -0500">
     <title>11:30 AM 13/09/25 - West Ham United vs. Tottenham Hotspur</title>
     <date>2025</date>
@@ -648,6 +705,14 @@
   </programme>
   <programme start="20250912000000 -0500" channel="Athletic Club vs. Deportivo Alav&#233;s" stop="20250912235959 -0500">
     <title>11:30 AM 13/09/25 - Athletic Club vs. Deportivo Alav&#233;s</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Fiorentina vs. Napoli" stop="20250912235959 -0500">
+    <title>01:45 PM 13/09/25 - Fiorentina vs. Napoli</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -678,6 +743,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250912000000 -0500" channel="Roma vs. Torino" stop="20250912235959 -0500">
+    <title>05:30 AM 14/09/25 - Roma vs. Torino</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="Celta vs. Girona FC" stop="20250912235959 -0500">
     <title>07:00 AM 14/09/25 - Celta vs. Girona FC</title>
     <date>2025</date>
@@ -696,6 +769,22 @@
   </programme>
   <programme start="20250912000000 -0500" channel="LOSC vs. Toulouse FC" stop="20250912235959 -0500">
     <title>08:00 AM 14/09/25 - LOSC vs. Toulouse FC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Atalanta vs. Lecce" stop="20250912235959 -0500">
+    <title>08:00 AM 14/09/25 - Atalanta vs. Lecce</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Pisa vs. Udinese" stop="20250912235959 -0500">
+    <title>08:00 AM 14/09/25 - Pisa vs. Udinese</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -750,6 +839,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250912000000 -0500" channel="Sassuolo vs. Lazio" stop="20250912235959 -0500">
+    <title>11:00 AM 14/09/25 - Sassuolo vs. Lazio</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="CA Osasuna vs. Rayo Vallecano" stop="20250912235959 -0500">
     <title>11:30 AM 14/09/25 - CA Osasuna vs. Rayo Vallecano</title>
     <date>2025</date>
@@ -766,8 +863,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250912000000 -0500" channel="Milan vs. Bologna" stop="20250912235959 -0500">
+    <title>01:45 PM 14/09/25 - Milan vs. Bologna</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="FC Barcelona vs. Valencia CF" stop="20250912235959 -0500">
     <title>02:00 PM 14/09/25 - FC Barcelona vs. Valencia CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Hellas Verona vs. Cremonese" stop="20250912235959 -0500">
+    <title>11:30 AM 15/09/25 - Hellas Verona vs. Cremonese</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Como vs. Genoa" stop="20250912235959 -0500">
+    <title>01:45 PM 15/09/25 - Como vs. Genoa</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
