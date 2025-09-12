@@ -3,6 +3,27 @@
   <channel id="Washington Nationals vs. Miami Marlins">
     <display-name lang="en">Washington Nationals vs. Miami Marlins</display-name>
   </channel>
+  <channel id="Detroit Tigers vs. New York Yankees">
+    <display-name lang="en">Detroit Tigers vs. New York Yankees</display-name>
+  </channel>
+  <channel id="Kansas City Royals vs. Cleveland Guardians">
+    <display-name lang="en">Kansas City Royals vs. Cleveland Guardians</display-name>
+  </channel>
+  <channel id="New York Mets vs. Philadelphia Phillies">
+    <display-name lang="en">New York Mets vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Liberty at Sky">
+    <display-name lang="en">Liberty at Sky</display-name>
+  </channel>
+  <channel id="Mercury at Wings">
+    <display-name lang="en">Mercury at Wings</display-name>
+  </channel>
+  <channel id="Valkyries at Lynx">
+    <display-name lang="en">Valkyries at Lynx</display-name>
+  </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
+  </channel>
   <channel id="Washington Commanders vs. Green Bay Packers">
     <display-name lang="en">Washington Commanders vs. Green Bay Packers</display-name>
   </channel>
@@ -51,29 +72,11 @@
   <channel id="Los Angeles Chargers vs. Las Vegas Raiders">
     <display-name lang="en">Los Angeles Chargers vs. Las Vegas Raiders</display-name>
   </channel>
-  <channel id="Detroit Tigers vs. New York Yankees">
-    <display-name lang="en">Detroit Tigers vs. New York Yankees</display-name>
-  </channel>
-  <channel id="Kansas City Royals vs. Cleveland Guardians">
-    <display-name lang="en">Kansas City Royals vs. Cleveland Guardians</display-name>
-  </channel>
-  <channel id="New York Mets vs. Philadelphia Phillies">
-    <display-name lang="en">New York Mets vs. Philadelphia Phillies</display-name>
-  </channel>
   <channel id="Los Angeles Angels vs. Seattle Mariners">
     <display-name lang="en">Los Angeles Angels vs. Seattle Mariners</display-name>
   </channel>
   <channel id="Colorado Rockies vs. San Diego Padres">
     <display-name lang="en">Colorado Rockies vs. San Diego Padres</display-name>
-  </channel>
-  <channel id="Liberty at Sky">
-    <display-name lang="en">Liberty at Sky</display-name>
-  </channel>
-  <channel id="Mercury at Wings">
-    <display-name lang="en">Mercury at Wings</display-name>
-  </channel>
-  <channel id="Valkyries at Lynx">
-    <display-name lang="en">Valkyries at Lynx</display-name>
   </channel>
   <channel id="Aces at Sparks">
     <display-name lang="en">Aces at Sparks</display-name>
@@ -228,9 +231,6 @@
   <channel id="Newcastle vs. Barcelona">
     <display-name lang="en">Newcastle vs. Barcelona</display-name>
   </channel>
-  <channel id="TNA: Impact">
-    <display-name lang="en">TNA: Impact</display-name>
-  </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
@@ -256,6 +256,62 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250911000000 -0500" channel="Washington Nationals vs. Miami Marlins" stop="20250911235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Detroit Tigers vs. New York Yankees" stop="20250911235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Kansas City Royals vs. Cleveland Guardians" stop="20250911235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="New York Mets vs. Philadelphia Phillies" stop="20250911235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Liberty at Sky" stop="20250911235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Mercury at Wings" stop="20250911235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="Valkyries at Lynx" stop="20250911235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250911000000 -0500" channel="TNA: Impact" stop="20250911235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -391,30 +447,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250911000000 -0500" channel="Detroit Tigers vs. New York Yankees" stop="20250911235959 -0500">
-    <title>06:05 PM 11/09/25 - Detroit Tigers vs. New York Yankees</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250911000000 -0500" channel="Kansas City Royals vs. Cleveland Guardians" stop="20250911235959 -0500">
-    <title>06:15 PM 11/09/25 - Kansas City Royals vs. Cleveland Guardians</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250911000000 -0500" channel="New York Mets vs. Philadelphia Phillies" stop="20250911235959 -0500">
-    <title>06:15 PM 11/09/25 - New York Mets vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250911000000 -0500" channel="Los Angeles Angels vs. Seattle Mariners" stop="20250911235959 -0500">
     <title>08:40 PM 11/09/25 - Los Angeles Angels vs. Seattle Mariners</title>
     <date>2025</date>
@@ -425,30 +457,6 @@
   </programme>
   <programme start="20250911000000 -0500" channel="Colorado Rockies vs. San Diego Padres" stop="20250911235959 -0500">
     <title>08:40 PM 11/09/25 - Colorado Rockies vs. San Diego Padres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250911000000 -0500" channel="Liberty at Sky" stop="20250911235959 -0500">
-    <title>07:00 PM 11/09/25 - Liberty at Sky</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250911000000 -0500" channel="Mercury at Wings" stop="20250911235959 -0500">
-    <title>07:00 PM 11/09/25 - Mercury at Wings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250911000000 -0500" channel="Valkyries at Lynx" stop="20250911235959 -0500">
-    <title>07:00 PM 11/09/25 - Valkyries at Lynx</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -857,14 +865,6 @@
   </programme>
   <programme start="20250911000000 -0500" channel="Newcastle vs. Barcelona" stop="20250911235959 -0500">
     <title>02:00 PM 18/09/25 - Newcastle vs. Barcelona</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250911000000 -0500" channel="TNA: Impact" stop="20250911235959 -0500">
-    <title>07:00 PM 11/09/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
