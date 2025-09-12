@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250912 -0500">
+  <channel id="Kansas City Royals vs. Philadelphia Phillies">
+    <display-name lang="en">Kansas City Royals vs. Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="Pittsburgh Pirates vs. Washington Nationals">
+    <display-name lang="en">Pittsburgh Pirates vs. Washington Nationals</display-name>
+  </channel>
   <channel id="Jacksonville Jaguars vs. Cincinnati Bengals">
     <display-name lang="en">Jacksonville Jaguars vs. Cincinnati Bengals</display-name>
   </channel>
@@ -45,12 +51,6 @@
   <channel id="Los Angeles Chargers vs. Las Vegas Raiders">
     <display-name lang="en">Los Angeles Chargers vs. Las Vegas Raiders</display-name>
   </channel>
-  <channel id="Kansas City Royals vs. Philadelphia Phillies">
-    <display-name lang="en">Kansas City Royals vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Washington Nationals">
-    <display-name lang="en">Pittsburgh Pirates vs. Washington Nationals</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. Toronto Blue Jays">
     <display-name lang="en">Baltimore Orioles vs. Toronto Blue Jays</display-name>
   </channel>
@@ -95,6 +95,9 @@
   </channel>
   <channel id="Crocker vs. Donovan 2">
     <display-name lang="en">Crocker vs. Donovan 2</display-name>
+  </channel>
+  <channel id="Noche UFC: Lopes vs. Silva">
+    <display-name lang="en">Noche UFC: Lopes vs. Silva</display-name>
   </channel>
   <channel id="Canelo vs Crawford">
     <display-name lang="en">Canelo vs Crawford</display-name>
@@ -315,6 +318,22 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250912000000 -0500" channel="Kansas City Royals vs. Philadelphia Phillies" stop="20250912235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Pittsburgh Pirates vs. Washington Nationals" stop="20250912235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="Jacksonville Jaguars vs. Cincinnati Bengals" stop="20250912235959 -0500">
     <title>12:00 PM 14/09/25 - Jacksonville Jaguars vs. Cincinnati Bengals</title>
     <date>2025</date>
@@ -435,22 +454,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250912000000 -0500" channel="Kansas City Royals vs. Philadelphia Phillies" stop="20250912235959 -0500">
-    <title>05:45 PM 12/09/25 - Kansas City Royals vs. Philadelphia Phillies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="Pittsburgh Pirates vs. Washington Nationals" stop="20250912235959 -0500">
-    <title>05:45 PM 12/09/25 - Pittsburgh Pirates vs. Washington Nationals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250912000000 -0500" channel="Baltimore Orioles vs. Toronto Blue Jays" stop="20250912235959 -0500">
     <title>06:07 PM 12/09/25 - Baltimore Orioles vs. Toronto Blue Jays</title>
     <date>2025</date>
@@ -565,6 +568,14 @@
   </programme>
   <programme start="20250912000000 -0500" channel="Crocker vs. Donovan 2" stop="20250912235959 -0500">
     <title>01:00 PM 13/09/25 - Crocker vs. Donovan 2</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Noche UFC: Lopes vs. Silva" stop="20250912235959 -0500">
+    <title>02:00 PM 13/09/25 - Noche UFC: Lopes vs. Silva</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
