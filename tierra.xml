@@ -3,9 +3,6 @@
   <channel id="Tampa Bay Rays vs. Chicago Cubs">
     <display-name lang="en">Tampa Bay Rays vs. Chicago Cubs</display-name>
   </channel>
-  <channel id="Greece vs T&#252;rkiye">
-    <display-name lang="en">Greece vs T&#252;rkiye</display-name>
-  </channel>
   <channel id="Bayer Leverkusen vs Eintracht Frankfurt">
     <display-name lang="en">Bayer Leverkusen vs Eintracht Frankfurt</display-name>
   </channel>
@@ -119,6 +116,9 @@
   </channel>
   <channel id="Cagliari vs. Parma">
     <display-name lang="en">Cagliari vs. Parma</display-name>
+  </channel>
+  <channel id="Goal Rush">
+    <display-name lang="en">Goal Rush</display-name>
   </channel>
   <channel id="Bournemouth vs. Brighton and Hove Albion">
     <display-name lang="en">Bournemouth vs. Brighton and Hove Albion</display-name>
@@ -301,14 +301,6 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250912000000 -0500" channel="Tampa Bay Rays vs. Chicago Cubs" stop="20250912235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="Greece vs T&#252;rkiye" stop="20250912235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -614,6 +606,14 @@
   </programme>
   <programme start="20250912000000 -0500" channel="Cagliari vs. Parma" stop="20250912235959 -0500">
     <title>08:00 AM 13/09/25 - Cagliari vs. Parma</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Goal Rush" stop="20250912235959 -0500">
+    <title>09:00 AM 13/09/25 - Goal Rush</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
