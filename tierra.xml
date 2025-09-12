@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250911 -0500">
+  <channel id="Washington Commanders vs. Green Bay Packers">
+    <display-name lang="en">Washington Commanders vs. Green Bay Packers</display-name>
+  </channel>
   <channel id="Washington Nationals vs. Miami Marlins">
     <display-name lang="en">Washington Nationals vs. Miami Marlins</display-name>
   </channel>
@@ -23,9 +26,6 @@
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
-  </channel>
-  <channel id="Washington Commanders vs. Green Bay Packers">
-    <display-name lang="en">Washington Commanders vs. Green Bay Packers</display-name>
   </channel>
   <channel id="Jacksonville Jaguars vs. Cincinnati Bengals">
     <display-name lang="en">Jacksonville Jaguars vs. Cincinnati Bengals</display-name>
@@ -255,6 +255,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250911000000 -0500" channel="Washington Commanders vs. Green Bay Packers" stop="20250911235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250911000000 -0500" channel="Washington Nationals vs. Miami Marlins" stop="20250911235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -313,14 +321,6 @@
   </programme>
   <programme start="20250911000000 -0500" channel="TNA: Impact" stop="20250911235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250911000000 -0500" channel="Washington Commanders vs. Green Bay Packers" stop="20250911235959 -0500">
-    <title>07:15 PM 11/09/25 - Washington Commanders vs. Green Bay Packers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
