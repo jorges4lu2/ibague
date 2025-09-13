@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250913 -0500">
-  <channel id="Cincinnati Reds vs. Athletics">
-    <display-name lang="en">Cincinnati Reds vs. Athletics</display-name>
-  </channel>
-  <channel id="Los Angeles Angels vs. Seattle Mariners">
-    <display-name lang="en">Los Angeles Angels vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. San Francisco Giants">
-    <display-name lang="en">Los Angeles Dodgers vs. San Francisco Giants</display-name>
-  </channel>
   <channel id="Oregon Ducks vs. Northwestern Wildcats">
     <display-name lang="en">Oregon Ducks vs. Northwestern Wildcats</display-name>
   </channel>
@@ -381,30 +372,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250913000000 -0500" channel="Cincinnati Reds vs. Athletics" stop="20250913235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250913000000 -0500" channel="Los Angeles Angels vs. Seattle Mariners" stop="20250913235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250913000000 -0500" channel="Los Angeles Dodgers vs. San Francisco Giants" stop="20250913235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250913000000 -0500" channel="Oregon Ducks vs. Northwestern Wildcats" stop="20250913235959 -0500">
     <title>11:00 AM 13/09/25 - Oregon Ducks vs. Northwestern Wildcats</title>
     <date>2025</date>
