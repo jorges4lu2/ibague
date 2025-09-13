@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250913 -0500">
+  <channel id="World Series Darts: Finals (Day 2, Session 1)">
+    <display-name lang="en">World Series Darts: Finals (Day 2, Session 1)</display-name>
+  </channel>
   <channel id="Oregon Ducks vs. Northwestern Wildcats">
     <display-name lang="en">Oregon Ducks vs. Northwestern Wildcats</display-name>
   </channel>
@@ -164,6 +167,9 @@
   </channel>
   <channel id="Canelo vs Crawford">
     <display-name lang="en">Canelo vs Crawford</display-name>
+  </channel>
+  <channel id="World Series Darts: Finals (Day 2, Session 2)">
+    <display-name lang="en">World Series Darts: Finals (Day 2, Session 2)</display-name>
   </channel>
   <channel id="Arsenal vs. Nottingham Forest">
     <display-name lang="en">Arsenal vs. Nottingham Forest</display-name>
@@ -357,6 +363,12 @@
   <channel id="Newcastle vs. Barcelona">
     <display-name lang="en">Newcastle vs. Barcelona</display-name>
   </channel>
+  <channel id="SuperMotoCross: St. Louis (Race Day Live)">
+    <display-name lang="en">SuperMotoCross: St. Louis (Race Day Live)</display-name>
+  </channel>
+  <channel id="SuperMotoCross: St. Louis">
+    <display-name lang="en">SuperMotoCross: St. Louis</display-name>
+  </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
@@ -381,6 +393,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20250913000000 -0500" channel="World Series Darts: Finals (Day 2, Session 1)" stop="20250913235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250913000000 -0500" channel="Oregon Ducks vs. Northwestern Wildcats" stop="20250913235959 -0500">
     <title>11:00 AM 13/09/25 - Oregon Ducks vs. Northwestern Wildcats</title>
     <date>2025</date>
@@ -815,6 +835,14 @@
   </programme>
   <programme start="20250913000000 -0500" channel="Canelo vs Crawford" stop="20250913235959 -0500">
     <title>08:00 PM 13/09/25 - Canelo vs Crawford</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250913000000 -0500" channel="World Series Darts: Finals (Day 2, Session 2)" stop="20250913235959 -0500">
+    <title>12:00 PM 13/09/25 - World Series Darts: Finals (Day 2, Session 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1327,6 +1355,22 @@
   </programme>
   <programme start="20250913000000 -0500" channel="Newcastle vs. Barcelona" stop="20250913235959 -0500">
     <title>02:00 PM 18/09/25 - Newcastle vs. Barcelona</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250913000000 -0500" channel="SuperMotoCross: St. Louis (Race Day Live)" stop="20250913235959 -0500">
+    <title>12:30 PM 13/09/25 - SuperMotoCross: St. Louis (Race Day Live)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250913000000 -0500" channel="SuperMotoCross: St. Louis" stop="20250913235959 -0500">
+    <title>05:30 PM 13/09/25 - SuperMotoCross: St. Louis</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
