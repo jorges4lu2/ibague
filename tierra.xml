@@ -24,6 +24,12 @@
   <channel id="Houston Astros vs. Atlanta Braves">
     <display-name lang="en">Houston Astros vs. Atlanta Braves</display-name>
   </channel>
+  <channel id="Arizona Diamondbacks vs. Minnesota Twins">
+    <display-name lang="en">Arizona Diamondbacks vs. Minnesota Twins</display-name>
+  </channel>
+  <channel id="St. Louis Cardinals vs. Milwaukee Brewers">
+    <display-name lang="en">St. Louis Cardinals vs. Milwaukee Brewers</display-name>
+  </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
@@ -71,12 +77,6 @@
   </channel>
   <channel id="Los Angeles Chargers vs. Las Vegas Raiders">
     <display-name lang="en">Los Angeles Chargers vs. Las Vegas Raiders</display-name>
-  </channel>
-  <channel id="Arizona Diamondbacks vs. Minnesota Twins">
-    <display-name lang="en">Arizona Diamondbacks vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Milwaukee Brewers">
-    <display-name lang="en">St. Louis Cardinals vs. Milwaukee Brewers</display-name>
   </channel>
   <channel id="Colorado Rockies vs. San Diego Padres">
     <display-name lang="en">Colorado Rockies vs. San Diego Padres</display-name>
@@ -382,6 +382,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250912000000 -0500" channel="Arizona Diamondbacks vs. Minnesota Twins" stop="20250912235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="St. Louis Cardinals vs. Milwaukee Brewers" stop="20250912235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250912000000 -0500" channel="WWE: Friday Night Smackdown" stop="20250912235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -504,22 +520,6 @@
   </programme>
   <programme start="20250912000000 -0500" channel="Los Angeles Chargers vs. Las Vegas Raiders" stop="20250912235959 -0500">
     <title>09:00 PM 15/09/25 - Los Angeles Chargers vs. Las Vegas Raiders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="Arizona Diamondbacks vs. Minnesota Twins" stop="20250912235959 -0500">
-    <title>07:10 PM 12/09/25 - Arizona Diamondbacks vs. Minnesota Twins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="St. Louis Cardinals vs. Milwaukee Brewers" stop="20250912235959 -0500">
-    <title>07:10 PM 12/09/25 - St. Louis Cardinals vs. Milwaukee Brewers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
