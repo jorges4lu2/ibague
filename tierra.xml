@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250912 -0500">
-  <channel id="Arizona Diamondbacks vs. Minnesota Twins">
-    <display-name lang="en">Arizona Diamondbacks vs. Minnesota Twins</display-name>
-  </channel>
-  <channel id="St. Louis Cardinals vs. Milwaukee Brewers">
-    <display-name lang="en">St. Louis Cardinals vs. Milwaukee Brewers</display-name>
-  </channel>
   <channel id="Colorado Rockies vs. San Diego Padres">
     <display-name lang="en">Colorado Rockies vs. San Diego Padres</display-name>
   </channel>
@@ -345,22 +339,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250912000000 -0500" channel="Arizona Diamondbacks vs. Minnesota Twins" stop="20250912235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="St. Louis Cardinals vs. Milwaukee Brewers" stop="20250912235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250912000000 -0500" channel="Colorado Rockies vs. San Diego Padres" stop="20250912235959 -0500">
     <title>Live</title>
     <date>2025</date>
