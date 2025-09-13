@@ -360,6 +360,9 @@
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
+  <channel id="WWE: Wrestlepalooza">
+    <display-name lang="en">WWE: Wrestlepalooza</display-name>
+  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -1332,6 +1335,14 @@
   </programme>
   <programme start="20250913000000 -0500" channel="AEW: Saturday Night Collision" stop="20250913235959 -0500">
     <title>07:00 PM 13/09/25 - AEW: Saturday Night Collision</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250913000000 -0500" channel="WWE: Wrestlepalooza" stop="20250913235959 -0500">
+    <title>06:00 PM 20/09/25 - WWE: Wrestlepalooza</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
