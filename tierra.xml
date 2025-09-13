@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250912 -0500">
-  <channel id="Kansas City Royals vs. Philadelphia Phillies">
-    <display-name lang="en">Kansas City Royals vs. Philadelphia Phillies</display-name>
-  </channel>
-  <channel id="Pittsburgh Pirates vs. Washington Nationals">
-    <display-name lang="en">Pittsburgh Pirates vs. Washington Nationals</display-name>
-  </channel>
   <channel id="Baltimore Orioles vs. Toronto Blue Jays">
     <display-name lang="en">Baltimore Orioles vs. Toronto Blue Jays</display-name>
   </channel>
@@ -29,6 +23,9 @@
   </channel>
   <channel id="St. Louis Cardinals vs. Milwaukee Brewers">
     <display-name lang="en">St. Louis Cardinals vs. Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="Colorado Rockies vs. San Diego Padres">
+    <display-name lang="en">Colorado Rockies vs. San Diego Padres</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -77,9 +74,6 @@
   </channel>
   <channel id="Los Angeles Chargers vs. Las Vegas Raiders">
     <display-name lang="en">Los Angeles Chargers vs. Las Vegas Raiders</display-name>
-  </channel>
-  <channel id="Colorado Rockies vs. San Diego Padres">
-    <display-name lang="en">Colorado Rockies vs. San Diego Padres</display-name>
   </channel>
   <channel id="Cincinnati Reds vs. Athletics">
     <display-name lang="en">Cincinnati Reds vs. Athletics</display-name>
@@ -318,22 +312,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20250912000000 -0500" channel="Kansas City Royals vs. Philadelphia Phillies" stop="20250912235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="Pittsburgh Pirates vs. Washington Nationals" stop="20250912235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250912000000 -0500" channel="Baltimore Orioles vs. Toronto Blue Jays" stop="20250912235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -391,6 +369,14 @@
     </audio>
   </programme>
   <programme start="20250912000000 -0500" channel="St. Louis Cardinals vs. Milwaukee Brewers" stop="20250912235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250912000000 -0500" channel="Colorado Rockies vs. San Diego Padres" stop="20250912235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -520,14 +506,6 @@
   </programme>
   <programme start="20250912000000 -0500" channel="Los Angeles Chargers vs. Las Vegas Raiders" stop="20250912235959 -0500">
     <title>09:00 PM 15/09/25 - Los Angeles Chargers vs. Las Vegas Raiders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250912000000 -0500" channel="Colorado Rockies vs. San Diego Padres" stop="20250912235959 -0500">
-    <title>08:40 PM 12/09/25 - Colorado Rockies vs. San Diego Padres</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
