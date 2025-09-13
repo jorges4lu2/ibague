@@ -3,6 +3,12 @@
   <channel id="World Series Darts: Finals (Day 2, Session 1)">
     <display-name lang="en">World Series Darts: Finals (Day 2, Session 1)</display-name>
   </channel>
+  <channel id="Arsenal vs. Nottingham Forest">
+    <display-name lang="en">Arsenal vs. Nottingham Forest</display-name>
+  </channel>
+  <channel id="Getafe CF vs. Real Oviedo">
+    <display-name lang="en">Getafe CF vs. Real Oviedo</display-name>
+  </channel>
   <channel id="Oregon Ducks vs. Northwestern Wildcats">
     <display-name lang="en">Oregon Ducks vs. Northwestern Wildcats</display-name>
   </channel>
@@ -170,12 +176,6 @@
   </channel>
   <channel id="World Series Darts: Finals (Day 2, Session 2)">
     <display-name lang="en">World Series Darts: Finals (Day 2, Session 2)</display-name>
-  </channel>
-  <channel id="Arsenal vs. Nottingham Forest">
-    <display-name lang="en">Arsenal vs. Nottingham Forest</display-name>
-  </channel>
-  <channel id="Getafe CF vs. Real Oviedo">
-    <display-name lang="en">Getafe CF vs. Real Oviedo</display-name>
   </channel>
   <channel id="Cagliari vs. Parma">
     <display-name lang="en">Cagliari vs. Parma</display-name>
@@ -394,6 +394,22 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20250913000000 -0500" channel="World Series Darts: Finals (Day 2, Session 1)" stop="20250913235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250913000000 -0500" channel="Arsenal vs. Nottingham Forest" stop="20250913235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250913000000 -0500" channel="Getafe CF vs. Real Oviedo" stop="20250913235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -843,22 +859,6 @@
   </programme>
   <programme start="20250913000000 -0500" channel="World Series Darts: Finals (Day 2, Session 2)" stop="20250913235959 -0500">
     <title>12:00 PM 13/09/25 - World Series Darts: Finals (Day 2, Session 2)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250913000000 -0500" channel="Arsenal vs. Nottingham Forest" stop="20250913235959 -0500">
-    <title>06:30 AM 13/09/25 - Arsenal vs. Nottingham Forest</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20250913000000 -0500" channel="Getafe CF vs. Real Oviedo" stop="20250913235959 -0500">
-    <title>07:00 AM 13/09/25 - Getafe CF vs. Real Oviedo</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
