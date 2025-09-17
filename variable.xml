@@ -177,17 +177,17 @@
     <icon src="https://tvwish.com/Img/Channel/1.png" />
     <url>http://www.tvwish.com</url>
   </channel>
-  <channel id="MOVIES.NOW.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rFi98AYq.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rFi98AYq.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">Movies Now</display-name>
-  </channel>
   <channel id="MN+.HD.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Z29kBEEo.png" />
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Z29kBEEo.png" />
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">MN+</display-name>
+  </channel>
+  <channel id="MOVIES.NOW.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rFi98AYq.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rFi98AYq.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">Movies Now</display-name>
   </channel>
   <channel id="MTV.HD.it">
     <display-name lang="it">Sky MTV Live IT</display-name>
@@ -594,7 +594,7 @@
     <url>http://www.cignalplay.com</url>
   </channel>
   <channel id="Hits.Hd.ph">
-    <display-name lang="en">Hits</display-name>
+    <display-name lang="en">HitsHits Hd</display-name>
     <url>http://www.cignalplay.com</url>
   </channel>
   <channel id="Ibc13.ph">
@@ -841,7 +841,7 @@
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1199.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1199.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkyAnimationHD</display-name>
+    <display-name lang="en">Sky Cinema Animation UK</display-name>
   </channel>
   <channel id="Sky.Cinema.Select.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
@@ -1009,7 +1009,7 @@
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s65024_h9_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s65024_h9_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">NFL RedZone</display-name>
+    <display-name lang="en">NFL Redzone Network</display-name>
   </channel>
   <channel id="Food.Network.USA.-.Eastern.Feed.us">
     <icon src="https://d60d34ithxz8n.cloudfront.net/us-logos/90eed8cc13117146414d38f2ee9f6fba.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoD9egI8BgHGbv3Tj6amgpT5pXdzIhPB2N%2FvE5YNPP%2F8jk%3D" />
@@ -1123,7 +1123,7 @@
     <icon src="https://d60d34ithxz8n.cloudfront.net/us-logos/08c43a1ca6e04002e320ad34bb3e9227.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoD0Lp2sCgARiFGrlVRL4OTK8%2F4KwLrYa5rxnQQJlSNQKmrtBJMdSRrPnx17aM8YImA" />
     <icon src="https://d60d34ithxz8n.cloudfront.net/us-logos/08c43a1ca6e04002e320ad34bb3e9227.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoD0Lp2sCgARiFGrlVRL4OTK8%2F4KwLrYa5rxnQQJlSNQKmrtBJMdSRrPnx17aM8YImA" />
     <url>http://www.ontvtonight.com</url>
-    <display-name lang="en">Fox Sports 1</display-name>
+    <display-name lang="en">FS1</display-name>
   </channel>
   <channel id="MGM+.Drive-In.(MGM+DI).us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s103828_h15_ad.png" />
@@ -24640,201 +24640,6 @@
     <title lang="en">DSC</title>
     <desc lang="en">Talented directors provide an entertaining insight into the most intriguing stories and anecdotes concerning some of their best works.</desc>
   </programme>
-  <programme channel="MN+.HD.in" start="20250916080000 +0530" stop="20250916100500 +0530">
-    <title lang="en">Erin Brockovich</title>
-    <desc lang="en">Erin Brockovich lands a job as a legal assistant at Ed Masry's law firm. Here, she builds a case against a power company after she learns that they have been polluting a town's water supply.</desc>
-    <credits>
-      <actor>Julia Roberts</actor>
-      <actor>Albert Finney</actor>
-      <actor>Aaron Eckhart</actor>
-      <actor>Marg Helgenberger</actor>
-      <actor>Cherry Jones</actor>
-      <actor>Veanne Cox</actor>
-      <actor>Conchata Ferrell</actor>
-      <actor>Tracey Walter</actor>
-      <actor>Peter Coyote</actor>
-      <actor>Scotty Leavenworth</actor>
-      <actor>Gemmenne de la Peña</actor>
-      <actor>Jamie Harrold</actor>
-      <actor>Scarlett Pomers</actor>
-      <actor>Norma Maldonado</actor>
-      <director>Steven Soderbergh</director>
-      <producer>Danny DeVito</producer>
-      <producer>Michael Shamberg</producer>
-      <producer>Stacey Sher</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Drama</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24917_v_h9_ae.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MN+.HD.in" start="20250916100500 +0530" stop="20250916113500 +0530">
-    <title lang="en">Giallo</title>
-    <desc lang="en">In Italy, a woman fears her sister has been kidnapped; Inspector Enzo Avolfi fears it's worse. They team up to rescue her from a sadistic killer known only as Yellow.</desc>
-    <credits>
-      <actor>Adrien Brody</actor>
-      <actor>Emmanuelle Seigner</actor>
-      <actor>Elsa Pataky</actor>
-      <actor>Byron Deidra</actor>
-      <actor>Valentina Izumi</actor>
-      <actor>Robert Mano</actor>
-      <actor>Daniela Fazzolari</actor>
-      <actor>Nicolo Morselli</actor>
-      <actor>Giuseppe Le Console</actor>
-      <director>Dario Argento</director>
-      <producer>Adrien Brody</producer>
-      <producer>Richard Rionda Del Castro</producer>
-      <producer>Rafael Primorac</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://dtil.tmsimg.com/assets/p8217945_v_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MN+.HD.in" start="20250916113500 +0530" stop="20250916140500 +0530">
-    <title lang="en">Once Upon a Time... In Hollywood</title>
-    <desc lang="en">Rick, a fading actor, and Cliff, his stunt double, struggle to find relevant work in Hollywood and go through various twists and turns in order to restart their careers.</desc>
-    <credits>
-      <actor>Leonardo DiCaprio</actor>
-      <actor>Brad Pitt</actor>
-      <actor>Margot Robbie</actor>
-      <actor>Kurt Russell</actor>
-      <actor>Dakota Fanning</actor>
-      <actor>Damon Herriman</actor>
-      <actor>Austin Butler</actor>
-      <actor>Emile Hirsch</actor>
-      <actor>Scoot McNairy</actor>
-      <actor>Luke Perry</actor>
-      <actor>Al Pacino</actor>
-      <actor>Nicholas Hammond</actor>
-      <actor>Spencer Garrett</actor>
-      <actor>Mike Moh</actor>
-      <actor>Lena Dunham</actor>
-      <actor>Damian Lewis</actor>
-      <actor>Bruce Dern</actor>
-      <actor>Timothy Olyphant</actor>
-      <actor>Zoe Bell</actor>
-      <actor>Michael Madsen</actor>
-      <actor>James Remar</actor>
-      <actor>Brenda Vaccaro</actor>
-      <actor>Margaret Qualley</actor>
-      <actor>Julia Butters</actor>
-      <actor>Samantha Robinson</actor>
-      <actor>Lorenza Izzo</actor>
-      <actor>Costa Ronin</actor>
-      <actor>Rumer Willis</actor>
-      <actor>Rafał Zawierucha</actor>
-      <actor>Clifton Collins Jr.</actor>
-      <actor>Keith Jefferson</actor>
-      <actor>Maya Hawke</actor>
-      <actor>Sydney Sweeney</actor>
-      <actor>Dreama Walker</actor>
-      <actor>Victoria Pedretti</actor>
-      <actor>Madisen Beaty</actor>
-      <director>Quentin Tarantino</director>
-      <producer>David Heyman</producer>
-      <producer>Shannon McIntosh</producer>
-      <producer>Quentin Tarantino</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://dtil.tmsimg.com/assets/p15226224_v_h9_ad.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MN+.HD.in" start="20250916140500 +0530" stop="20250916160500 +0530">
-    <title lang="en">The Great Dictator</title>
-    <desc lang="en">After suffering from memory loss, a soldier returns to his former profession as a barber and attempts to escape persecution by the military forces.</desc>
-    <credits>
-      <actor>Charlie Chaplin</actor>
-      <actor>Paulette Goddard</actor>
-      <actor>Jack Oakie</actor>
-      <actor>Reginald Gardiner</actor>
-      <actor>Henry Daniell</actor>
-      <actor>Billy Gilbert</actor>
-      <actor>Maurice Moscovitch</actor>
-      <actor>Emma Dunn</actor>
-      <actor>Grace Hayle</actor>
-      <actor>Carter DeHaven</actor>
-      <actor>Bernard Gorcey</actor>
-      <actor>Paul Weigel</actor>
-      <director>Charlie Chaplin</director>
-      <producer>Charlie Chaplin</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://dtil.tmsimg.com/assets/p7577_v_h9_ak.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MN+.HD.in" start="20250916160500 +0530" stop="20250916173500 +0530">
-    <title lang="en">Man on Fire</title>
-    <desc lang="en">A former CIA agent, Christian Creasy, is hired as a bodyguard to a 12-year old girl, Sam, and the two form a special bond. After she is abducted, he vows vengeance on the kidnappers.</desc>
-    <credits>
-      <actor>Scott Glenn</actor>
-      <actor>Jade Malle</actor>
-      <actor>Joe Pesci</actor>
-      <actor>Alessandro Haber</actor>
-      <actor>Brooke Adams</actor>
-      <actor>Danny Aiello</actor>
-      <actor>Jonathan Pryce</actor>
-      <actor>Laura Morante</actor>
-      <actor>Lou Castel</actor>
-      <director>Élie Chouraqui</director>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p10286_v_h9_ak.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MN+.HD.in" start="20250916173500 +0530" stop="20250916192000 +0530">
-    <title lang="en">Guilty by Suspicion</title>
-    <desc lang="en">Owing to his alleged involvement with communist parties, a film director is forbidden from working in Hollywood. Furthermore, he faces numerous challenges while fighting for his rights.</desc>
-    <credits>
-      <actor>Robert De Niro</actor>
-      <actor>Annette Bening</actor>
-      <actor>George Wendt</actor>
-      <actor>Patricia Wettig</actor>
-      <actor>Sam Wanamaker</actor>
-      <actor>Luke Edwards</actor>
-      <actor>Chris Cooper</actor>
-      <actor>Ben Piazza</actor>
-      <actor>Martin Scorsese</actor>
-      <actor>Barry Primus</actor>
-      <actor>Gailard Sartain</actor>
-      <actor>Robin Gammell</actor>
-      <actor>Brad Sullivan</actor>
-      <actor>Tom Sizemore</actor>
-      <actor>Roxann Dawson</actor>
-      <actor>Stuart Margolin</actor>
-      <actor>Barry Tubb</actor>
-      <actor>Gene Kirkwood</actor>
-      <actor>Margo Winkler</actor>
-      <actor>Allan Rich</actor>
-      <actor>Illeana Douglas</actor>
-      <director>Irwin Winkler</director>
-      <producer>Arnon Milchan</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Drama</category>
-    <icon src="https://dtil.tmsimg.com/assets/p13083_v_h9_ad.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MN+.HD.in" start="20250916192000 +0530" stop="20250916210000 +0530">
-    <title lang="en">Texas Killing Fields</title>
-    <desc lang="en">In a small town in Texas, a homicide detective and his partner embark on a challenging mission to arrest a vicious serial killer.</desc>
-    <credits>
-      <actor>Sam Worthington</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Jessica Chastain</actor>
-      <actor>Chloë Grace Moretz</actor>
-      <actor>Sheryl Lee</actor>
-      <actor>Annabeth Gish</actor>
-      <actor>Stephen Graham</actor>
-      <actor>Jason Clarke</actor>
-      <actor>Jon Eyez</actor>
-      <actor>Lyle Brocato</actor>
-      <actor>Sean Michael Cunningham</actor>
-      <director>Ami Canaan Mann</director>
-      <producer>Michael Mann</producer>
-      <producer>Michael Jaffe</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://dtil.tmsimg.com/assets/p8729214_v_h9_ab.jpg?lock=880x660" />
-  </programme>
   <programme channel="MN+.HD.in" start="20250916210000 +0530" stop="20250916230000 +0530">
     <title lang="en">Southpaw</title>
     <desc lang="en">After a devastating accident shatters his world, a once-celebrated champion boxer spirals into a destructive abyss. Subsequently, he decides to fight for his daughter and revive his fading career.</desc>
@@ -25016,215 +24821,177 @@
     <category lang="en">Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p11438116_v_h9_aa.jpg?lock=880x660" />
   </programme>
-  <programme channel="MOVIES.NOW.in" start="20250916085000 +0530" stop="20250916102500 +0530">
-    <title lang="en">Barely Lethal</title>
-    <desc lang="en">Megan Walsh, a special agent, is curious about teenage life experiences so she fakes her own death and enrols in high school. Soon, she realises the troubles of the high school life.</desc>
+  <programme channel="MN+.HD.in" start="20250917093000 +0530" stop="20250917115000 +0530">
+    <title lang="en">Mandela: A Long Walk To Freedom</title>
+    <desc lang="en">Nelson Mandela, a South African lawyer, joins the fight against Apartheid. He is later sentenced to life imprisonment for his involvement in the armed resistance after the Sharpeville Massacre.</desc>
     <credits>
-      <actor>Hailee Steinfeld</actor>
-      <actor>Jessica Alba</actor>
-      <actor>Samuel L. Jackson</actor>
-      <actor>Sophie Turner</actor>
-      <actor>Dove Cameron</actor>
-      <actor>Thomas Mann</actor>
-      <actor>Toby Sebastian</actor>
-      <actor>Gabriel Basso</actor>
-      <actor>Rachael Harris</actor>
-      <actor>Dan Fogler</actor>
-      <actor>Steve-O</actor>
-      <actor>Rob Huebel</actor>
-      <actor>Finesse Mitchell</actor>
-      <actor>Jaime King</actor>
-      <director>Kyle Newman</director>
-      <producer>Brett Ratner</producer>
-      <producer>John Cheng</producer>
-      <producer>Sukee Chew</producer>
-      <producer>Vanessa Coifman</producer>
-      <producer>Ted Hartley</producer>
+      <actor>Idris Elba</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Tony Kgoroge</actor>
+      <actor>Riaad Moosa</actor>
+      <actor>Jamie Bartlett</actor>
+      <actor>Lindiwi Matshikiza</actor>
+      <actor>Deon Lotz</actor>
+      <actor>Terry Pheto</actor>
+      <director>Justin Chadwick</director>
+      <producer>Anant Singh</producer>
+      <producer>David M. Thompson</producer>
     </credits>
     <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p11542186_v_h9_ak.jpg?lock=880x660" />
+    <category lang="en">Biography/Biopic</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9991871_b_h9_at.jpg?lock=880x660" />
   </programme>
-  <programme channel="MOVIES.NOW.in" start="20250916102500 +0530" stop="20250916115500 +0530">
-    <title lang="en">Hotel Transylvania 2</title>
-    <desc lang="en">Count Dracula is overjoyed to witness the birth of his grandson, Dennis. However, when Dennis shows no signs of being a vampire, Dracula tries to help him unlock his powers.</desc>
+  <programme channel="MN+.HD.in" start="20250917115000 +0530" stop="20250917133000 +0530">
+    <title lang="en">Entrapment</title>
+    <desc lang="en">Virginia, an insurance agent, sets out to nab a master thief who steals exquisite pieces of art. To do so, she masquerades as a thief herself and becomes his accomplice.</desc>
     <credits>
-      <actor>Adam Sandler</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Selena Gomez</actor>
-      <actor>Kevin James</actor>
-      <actor>Steve Buscemi</actor>
-      <actor>David Spade</actor>
-      <actor>Keegan-Michael Key</actor>
-      <actor>Fran Drescher</actor>
-      <actor>Molly Shannon</actor>
-      <actor>Megan Mullally</actor>
-      <actor>Nick Offerman</actor>
-      <actor>Dana Carvey</actor>
-      <actor>Rob Riggle</actor>
-      <actor>Mel Brooks</actor>
-      <actor>Asher Blinkoff</actor>
-      <director>Genndy Tartakovsky</director>
-      <producer>Michelle Murdocca</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Animation</category>
-    <icon src="https://dtil.tmsimg.com/assets/p11591956_v_h9_an.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20250916115500 +0530" stop="20250916130000 +0530">
-    <title lang="en">Piranha 3DD</title>
-    <desc lang="en">The bloodthirsty piranhas head towards a local water park. Amidst the fun-seeking horde at the park are friends Maddy, Barry and Kyle who decide to take on the man-eating creatures.</desc>
-    <credits>
-      <actor>Danielle Panabaker</actor>
-      <actor>Matt Bush</actor>
-      <actor>David Koechner</actor>
-      <actor>Chris Zylka</actor>
-      <actor>Katrina Bowden</actor>
-      <actor>Gary Busey</actor>
-      <actor>Christopher Lloyd</actor>
-      <actor>Paul Scheer</actor>
+      <actor>Sean Connery</actor>
+      <actor>Catherine Zeta-Jones</actor>
       <actor>Ving Rhames</actor>
-      <actor>David Hasselhoff</actor>
-      <actor>Meagan Tandy</actor>
-      <actor>Paul James Jordan</actor>
-      <actor>Jean-Luc Bilodeau</actor>
-      <actor>Héctor Jiménez</actor>
-      <actor>Adrian Martinez</actor>
-      <actor>Clu Gulager</actor>
-      <director>John Gulager</director>
-      <producer>Mark Canton</producer>
-      <producer>Marc Toberoff</producer>
-      <producer>Joel Soisson</producer>
+      <actor>Will Patton</actor>
+      <actor>Maury Chaykin</actor>
+      <actor>William Marsh</actor>
+      <actor>Kevin R. McNally</actor>
+      <actor>Terry O'Neill</actor>
+      <director>Jon Amiel</director>
+      <producer>Rhonda Tollefson</producer>
+      <producer>Michael Hertzberg</producer>
+      <producer>Sean Connery</producer>
     </credits>
     <category lang="en">Film</category>
-    <category lang="en">Horror</category>
-    <icon src="https://dtil.tmsimg.com/assets/p8720061_v_h9_aa.jpg?lock=880x660" />
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22964_v_h9_ak.jpg?lock=880x660" />
   </programme>
-  <programme channel="MOVIES.NOW.in" start="20250916130000 +0530" stop="20250916150500 +0530">
-    <title lang="en">Blue Beetle</title>
-    <desc lang="en">An ancient alien relic chooses a college graduate to be its symbiotic host. As a result, the young man finds himself in possession of a suit with incredible powers.</desc>
+  <programme channel="MN+.HD.in" start="20250917133000 +0530" stop="20250917154000 +0530">
+    <title lang="en">Angels &amp; Demons</title>
+    <desc lang="en">When Robert Langdon, a symbologist, learns about the revival of a secret organisation aiming to destroy the Vatican, he immediately joins forces with a scientist to stop the attack.</desc>
     <credits>
-      <actor>Xolo Maridueña</actor>
-      <actor>Bruna Marquezine</actor>
-      <actor>Becky G</actor>
-      <actor>Damián Alcázar</actor>
-      <actor>George Lopez</actor>
-      <actor>Adriana Barraza</actor>
-      <actor>Belissa Escobedo</actor>
-      <actor>Elpidia Carrillo</actor>
+      <actor>Tom Hanks</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Ayelet Zurer</actor>
+      <actor>Armin Mueller-Stahl</actor>
+      <actor>Stellan Skarsgård</actor>
+      <actor>Pierfrancesco Favino</actor>
+      <actor>Nikolaj Lie Kaas</actor>
+      <actor>Thure Lindhardt</actor>
+      <actor>David Pasquesi</actor>
+      <actor>Cosimo Fusco</actor>
+      <actor>Victor Alfieri</actor>
+      <actor>Franklin Amobi</actor>
+      <actor>Curt Lowens</actor>
+      <actor>Bob Yerkes</actor>
+      <actor>Marco Fiorini</actor>
+      <actor>Carmen Argenziano</actor>
+      <actor>Howard Mungo</actor>
+      <actor>Rance Howard</actor>
+      <director>Ron Howard</director>
+      <producer>Brian Grazer</producer>
+      <producer>Ron Howard</producer>
+      <producer>John Calley</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p190663_v_h9_aj.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MN+.HD.in" start="20250917154000 +0530" stop="20250917172000 +0530">
+    <title lang="en">Side Effects</title>
+    <desc lang="en">When Emily's problems continue to haunt her, psychiatrist Jonathan Banks prescribes her a new drug. What follows not only leads to her husband's murder but also threatens to ruin Jonathan's career.</desc>
+    <credits>
+      <actor>Jude Law</actor>
+      <actor>Rooney Mara</actor>
+      <actor>Channing Tatum</actor>
+      <actor>Catherine Zeta-Jones</actor>
+      <actor>Vinessa Shaw</actor>
+      <actor>Ann Dowd</actor>
+      <actor>Mamie Gummer</actor>
+      <actor>David Costabile</actor>
+      <actor>Michelle Vergara Moore</actor>
+      <actor>Vladimir Versailles</actor>
+      <actor>Mitchell Michaliszyn</actor>
+      <actor>Polly Draper</actor>
+      <director>Steven Soderbergh</director>
+      <producer>Lorenzo di Bonaventura</producer>
+      <producer>Gregory Jacobs</producer>
+      <producer>Scott Z. Burns</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9416724_v_h9_ae.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MN+.HD.in" start="20250917172000 +0530" stop="20250917190000 +0530">
+    <title lang="en">Boychoir</title>
+    <desc lang="en">A demanding choir master at an elite East Coast boarding school pushes a gifted but troubled orphan to fulfil his true potential.</desc>
+    <credits>
+      <actor>Dustin Hoffman</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Suzy Eddie Izzard</actor>
+      <actor>Debra Winger</actor>
+      <actor>Josh Lucas</actor>
+      <actor>Kevin McHale</actor>
+      <actor>Garrett Wareing</actor>
+      <actor>Joe West</actor>
+      <actor>Erica Piccininni</actor>
+      <actor>River Alexander</actor>
+      <actor>Grant Venable</actor>
+      <director>François Girard</director>
+      <producer>Judy Cairo</producer>
+      <producer>Carol Baum</producer>
+      <producer>Jane Goldenring</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://dtil.tmsimg.com/assets/p11003074_v_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MN+.HD.in" start="20250917190000 +0530" stop="20250917210000 +0530">
+    <title lang="en">The Company You Keep</title>
+    <desc lang="en">Grant, a wanted man and a former member of the revolutionary militant group, the Weather Underground, goes on the run after a journalist reveals his identity.</desc>
+    <credits>
+      <actor>Robert Redford</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Julie Christie</actor>
       <actor>Susan Sarandon</actor>
-      <actor>Harvey Guillén</actor>
-      <actor>Raoul Max Trujillo</actor>
-      <actor>Jorge A. Jimenez</actor>
-      <director>Angel Manuel Soto</director>
-      <producer>John Rickard</producer>
-      <producer>Zev Foreman</producer>
+      <actor>Nick Nolte</actor>
+      <actor>Chris Cooper</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Brit Marling</actor>
+      <actor>Sam Elliott</actor>
+      <actor>Stephen Root</actor>
+      <actor>Jackie Evancho</actor>
+      <director>Robert Redford</director>
+      <producer>Nicolas Chartier</producer>
+      <producer>Robert Redford</producer>
+      <producer>Bill Holderman</producer>
     </credits>
     <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p21298697_v_h9_ah.jpg?lock=880x660" />
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9451249_v_h9_ak.jpg?lock=880x660" />
   </programme>
-  <programme channel="MOVIES.NOW.in" start="20250916150500 +0530" stop="20250916170000 +0530">
-    <title lang="en">Tomb Raider</title>
-    <desc lang="en">Lara Croft undertakes a dangerous journey by travelling to the last known location of her missing father, to unravel the truth behind his mysterious disappearance.</desc>
+  <programme channel="MN+.HD.in" start="20250917210000 +0530" stop="20250917224500 +0530">
+    <title lang="en">Casino Jack</title>
+    <desc lang="en">Jack Abramoff, a powerful lobbyist, carves a luxurious and influential life for himself. However, things become complicated when he starts interacting with organised crime.</desc>
     <credits>
-      <actor>Alicia Vikander</actor>
-      <actor>Dominic West</actor>
-      <actor>Walton Goggins</actor>
-      <actor>Daniel Wu</actor>
-      <actor>Kristin Scott Thomas</actor>
-      <actor>Derek Jacobi</actor>
-      <actor>Alexandre Willaume</actor>
-      <actor>Tamer Burjaq</actor>
-      <actor>Adrian Collins</actor>
-      <actor>Keenan Arrison</actor>
-      <actor>Andrian Mazive</actor>
-      <actor>Milton Schorr</actor>
-      <actor>Hannah John-Kamen</actor>
-      <actor>Peter Waison</actor>
-      <actor>Samuel Mak</actor>
-      <actor>Sky Yang</actor>
-      <actor>Civic Chung</actor>
-      <actor>Josef Altin</actor>
-      <actor>Billy Postlethwaite</actor>
-      <actor>Roger Jean Nsengiyumva</actor>
-      <actor>Jaime Winstone</actor>
-      <actor>Michael Obiora</actor>
-      <actor>Shekhar Varma</actor>
-      <actor>Rekha John-Cheriyan</actor>
-      <actor>Antonio Aakeel</actor>
-      <actor>Maisy De Freitas</actor>
-      <actor>Emily Carey</actor>
-      <actor>Gordon Chow</actor>
-      <actor>Duncan Airlie James</actor>
-      <actor>Jandre le Roux</actor>
-      <actor>Vere Tindale</actor>
-      <actor>Annabel Elizabeth Wood</actor>
-      <director>Roar Uthaug</director>
-      <producer>Graham King</producer>
+      <actor>Kevin Spacey</actor>
+      <actor>Barry Pepper</actor>
+      <actor>Kelly Preston</actor>
+      <actor>Jon Lovitz</actor>
+      <actor>Rachelle Lefevre</actor>
+      <actor>Maury Chaykin</actor>
+      <actor>Daniel Kash</actor>
+      <actor>Spencer Garrett</actor>
+      <actor>Jeffrey Smith</actor>
+      <actor>Jeff Pustil</actor>
+      <director>George Hickenlooper</director>
+      <producer>Gary Howsam</producer>
+      <producer>Bill Marks</producer>
+      <producer>George Zakk</producer>
     </credits>
     <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p13061659_v_h9_ah.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20250916170000 +0530" stop="20250916191500 +0530">
-    <title lang="en">The Hobbit: The Battle of the Five Armies</title>
-    <desc lang="en">Bilbo Baggins, a hobbit, and the dwarves retrieve Lonely Mountain and its treasure. However, a fight breaks out between the dwarves, elves and men over it while Azog and his Orc army prepare for war.</desc>
-    <credits>
-      <actor>Ian McKellen</actor>
-      <actor>Martin Freeman</actor>
-      <actor>Richard Armitage</actor>
-      <actor>Evangeline Lilly</actor>
-      <actor>Lee Pace</actor>
-      <actor>Luke Evans</actor>
-      <actor>Benedict Cumberbatch</actor>
-      <actor>Ken Stott</actor>
-      <actor>James Nesbitt</actor>
-      <actor>Cate Blanchett</actor>
-      <actor>Ian Holm</actor>
-      <actor>Christopher Lee</actor>
-      <actor>Hugo Weaving</actor>
-      <actor>Orlando Bloom</actor>
-      <actor>Stephen Fry</actor>
-      <director>Peter Jackson</director>
-      <producer>Carolynne Cunningham</producer>
-      <producer>Zane Weiner</producer>
-      <producer>Fran Walsh</producer>
-      <producer>Peter Jackson</producer>
-      <producer>Eric Monette</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p10569555_v_h9_bc.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MOVIES.NOW.in" start="20250916191500 +0530" stop="20250916204500 +0530">
-    <title lang="en">Little Monsters</title>
-    <desc lang="en">Dave, a washed-up musician recovering from a bad break-up, is attracted to his nephew's teacher, Miss Caroline. However, his plans to woo her are interrupted by a sudden invasion of zombies.</desc>
-    <credits>
-      <actor>Lupita Nyong'o</actor>
-      <actor>Alexander England</actor>
-      <actor>Josh Gad</actor>
-      <actor>Diesel La Torraca</actor>
-      <actor>Stephen Peacocke</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Nadia Townsend</actor>
-      <actor>Henry Nixon</actor>
-      <actor>Felix Williamson</actor>
-      <actor>Adele Vuko</actor>
-      <actor>Jason Chong</actor>
-      <actor>Rahel Romahn</actor>
-      <actor>Marshall Napier</actor>
-      <actor>Glenn Hazeldine</actor>
-      <director>Abe Forsythe</director>
-      <producer>Jodi Matterson</producer>
-      <producer>Bruna Papandrea</producer>
-      <producer>Steve Hutensky</producer>
-      <producer>Keith Calder</producer>
-      <producer>Jessica Calder</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Horror</category>
-    <icon src="https://dtil.tmsimg.com/assets/p17083256_v_h9_aa.jpg?lock=880x660" />
+    <category lang="en">Biography/Biopic</category>
+    <icon src="https://dtil.tmsimg.com/assets/p8345713_v_h9_af.jpg?lock=880x660" />
   </programme>
   <programme channel="MOVIES.NOW.in" start="20250916204500 +0530" stop="20250916224000 +0530">
     <title lang="en">Constantine</title>
@@ -25436,6 +25203,205 @@
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <icon src="https://dtil.tmsimg.com/assets/p9919948_v_h9_ai.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20250917092500 +0530" stop="20250917115500 +0530">
+    <title lang="en">Troy</title>
+    <desc lang="en">After Paris, a Trojan prince, has an affair with Menelaus's wife, Helen, he decides to take her with him. Later, Menelaus's brother uses that as an excuse to wage a war against the city of Troy.</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Eric Bana</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>Diane Kruger</actor>
+      <actor>Brian Cox</actor>
+      <actor>Sean Bean</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Saffron Burrows</actor>
+      <actor>Peter O'Toole</actor>
+      <actor>Julie Christie</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>John Shrapnel</actor>
+      <actor>Nathan Jones</actor>
+      <actor>James Cosmo</actor>
+      <actor>Julian Glover</actor>
+      <actor>Vincent Regan</actor>
+      <actor>Trevor Eve</actor>
+      <actor>Tyler Mane</actor>
+      <director>Wolfgang Petersen</director>
+      <producer>Gail Katz</producer>
+      <producer>Wolfgang Petersen</producer>
+      <producer>Colin Wilson</producer>
+      <producer>Diana Rathbun</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Action</category>
+    <icon src="https://dtil.tmsimg.com/assets/p34313_v_h9_an.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20250917115500 +0530" stop="20250917132000 +0530">
+    <title lang="en">The Darkest Hour</title>
+    <desc lang="en">A group of young people band together in Moscow and decide to fight back against alien invaders who leave the entire city smothered in complete darkness.</desc>
+    <credits>
+      <actor>Emile Hirsch</actor>
+      <actor>Max Minghella</actor>
+      <actor>Olivia Thirlby</actor>
+      <actor>Rachael Taylor</actor>
+      <actor>Joel Kinnaman</actor>
+      <actor>Veronica Ozrova</actor>
+      <actor>Dato Bakhtadze</actor>
+      <actor>Yuriy Kutsenko</actor>
+      <actor>Nikolai Efremov</actor>
+      <actor>Georgy Gromov</actor>
+      <actor>Arthur Smoljaninov</actor>
+      <actor>Anna Roudakova</actor>
+      <actor>Petr Fedorov</actor>
+      <director>Chris Gorak</director>
+      <producer>Tom Jacobson</producer>
+      <producer>Timur Bekmambetov</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p8554321_v_h9_an.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20250917132000 +0530" stop="20250917153000 +0530">
+    <title lang="en">The Hunger Games: Catching Fire</title>
+    <desc lang="en">After their victory in the 74th Hunger Games, Katniss and Peeta must participate in the 75th Annual Hunger Games, featuring all its previous winners.</desc>
+    <credits>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Liam Hemsworth</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Elizabeth Banks</actor>
+      <actor>Lenny Kravitz</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Philip Seymour Hoffman</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Sam Claflin</actor>
+      <actor>Amanda Plummer</actor>
+      <actor>Jena Malone</actor>
+      <actor>Lynn Cohen</actor>
+      <actor>Meta Golding</actor>
+      <actor>Bruno Gunn</actor>
+      <actor>Willow Shields</actor>
+      <director>Francis Lawrence</director>
+      <producer>Jon Kilik</producer>
+      <producer>Nina Jacobson</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Action</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9364987_v_h9_am.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20250917153000 +0530" stop="20250917172000 +0530">
+    <title lang="en">Constantine</title>
+    <desc lang="en">Detective Angela approaches Constantine, an exorcist, to help her investigate her twin sister's death. As he digs deeper, he realises a dark conspiracy which could threaten the world.</desc>
+    <credits>
+      <actor>Keanu Reeves</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Max Baker</actor>
+      <actor>Pruitt Taylor Vince</actor>
+      <actor>Gavin Rossdale</actor>
+      <actor>Tilda Swinton</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Jesse Ramirez</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Larry Cedar</actor>
+      <actor>Suzanne Whang</actor>
+      <actor>Johanna Trias</actor>
+      <director>Francis Lawrence</director>
+      <producer>Lauren Shuler Donner</producer>
+      <producer>Benjamin Melniker</producer>
+      <producer>Michael E. Uslan</producer>
+      <producer>Lorenzo di Bonaventura</producer>
+      <producer>Erwin Stoff</producer>
+      <producer>Akiva Goldsman</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://dtil.tmsimg.com/assets/p35545_v_h9_ad.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20250917172000 +0530" stop="20250917185500 +0530">
+    <title lang="en">Species</title>
+    <desc lang="en">A team of scientists must track down Sil, an alien seductress, before she can mate with a human and resultingly cause the destruction of all humanity.</desc>
+    <credits>
+      <actor>Ben Kingsley</actor>
+      <actor>Michael Madsen</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Natasha Henstridge</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Jordan Lund</actor>
+      <director>Roger Donaldson</director>
+      <producer>Frank Mancuso Jr.</producer>
+      <producer>Dennis Feldman</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Horror</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16917_v_h9_ag.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20250917185500 +0530" stop="20250917204500 +0530">
+    <title lang="en">Into the Blue</title>
+    <desc lang="en">Jared, Sam, Bryce, and Amanda, four divers, come across a sunken plane with cocaine while looking for a treasure chest. However, things get complicated when they try to sell it to a kingpin.</desc>
+    <credits>
+      <actor>Paul Walker</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Scott Caan</actor>
+      <actor>Ashley Scott</actor>
+      <actor>Josh Brolin</actor>
+      <actor>James Frain</actor>
+      <actor>Tyson Beckford</actor>
+      <actor>Dwayne Adway</actor>
+      <actor>Gill Montie</actor>
+      <actor>Ramon Saunders</actor>
+      <actor>Chris Taloa</actor>
+      <director>John Stockwell</director>
+      <producer>Peter Guber</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p36341_v_h9_ae.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MOVIES.NOW.in" start="20250917204500 +0530" stop="20250917231500 +0530">
+    <title lang="en">Wonder Woman 1984</title>
+    <desc lang="en">Wonder Woman battles Maxwell Lorenzano, an evil businessman, and Barbara Minerva, her friend-turned-foe, who wreak havoc on the world through a wish-granting artefact.</desc>
+    <credits>
+      <actor>Gal Gadot</actor>
+      <actor>Chris Pine</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Pedro Pascal</actor>
+      <actor>Robin Wright</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Lilly Aspell</actor>
+      <actor>Amr Waked</actor>
+      <actor>Kristoffer Polaha</actor>
+      <actor>Natasha Rothwell</actor>
+      <actor>Ravi Patel</actor>
+      <actor>Oliver Cotton</actor>
+      <actor>Lucian Perez</actor>
+      <actor>Gabriella Wilde</actor>
+      <actor>Kelvin Yu</actor>
+      <actor>Stuart Milligan</actor>
+      <actor>Shane Attwooll</actor>
+      <actor>David Al-Fahmi</actor>
+      <actor>Kevin Wallace</actor>
+      <actor>Wai Wong</actor>
+      <actor>Doutzen Kroes</actor>
+      <actor>Hari James</actor>
+      <actor>Betty Adewole</actor>
+      <actor>Camilla Roholm</actor>
+      <director>Patty Jenkins</director>
+      <producer>Charles Roven</producer>
+      <producer>Deborah Snyder</producer>
+      <producer>Zack Snyder</producer>
+      <producer>Patty Jenkins</producer>
+      <producer>Gal Gadot</producer>
+      <producer>Stephen Jones</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Action</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14568836_v_h9_ac.jpg?lock=880x660" />
   </programme>
   <programme start="20250915070000 +0000" stop="20250915074500 +0000" channel="MTV.HD.it">
     <title lang="it">Teen Mom: The Next Chapter</title>
