@@ -438,6 +438,9 @@
   <channel id="Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm">
     <display-name lang="en">Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm</display-name>
   </channel>
+  <channel id="BRENTFORD F.C (Sat 20:00 UK)">
+    <display-name lang="en">BRENTFORD F.C (Sat 20:00 UK)</display-name>
+  </channel>
   <channel id="BRIGHTON &amp; HOVE ALBION F.C (Sat 15:00 UK)">
     <display-name lang="en">BRIGHTON &amp; HOVE ALBION F.C (Sat 15:00 UK)</display-name>
   </channel>
@@ -452,6 +455,9 @@
   </channel>
   <channel id="EVERTON F.C (Sat 12:30 UK)">
     <display-name lang="en">EVERTON F.C (Sat 12:30 UK)</display-name>
+  </channel>
+  <channel id="FULHAM F.C (Sat 20:00 UK)">
+    <display-name lang="en">FULHAM F.C (Sat 20:00 UK)</display-name>
   </channel>
   <channel id="LEEDS UNITED F.C (Sat 15:00 UK)">
     <display-name lang="en">LEEDS UNITED F.C (Sat 15:00 UK)</display-name>
@@ -3706,6 +3712,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20250920000000 -0500" channel="BRENTFORD F.C (Sat 20:00 UK)" stop="20250920235959 -0500">
+    <title>02:00 PM - BRENTFORD F.C (Sat 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250920000000 -0500" channel="BRIGHTON &amp; HOVE ALBION F.C (Sat 15:00 UK)" stop="20250920235959 -0500">
     <title>09:00 AM - BRIGHTON &amp; HOVE ALBION F.C (Sat 15:00 UK)</title>
     <date>2025</date>
@@ -3740,6 +3754,14 @@
   </programme>
   <programme start="20250920000000 -0500" channel="EVERTON F.C (Sat 12:30 UK)" stop="20250920235959 -0500">
     <title>06:30 AM - EVERTON F.C (Sat 12:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250920000000 -0500" channel="FULHAM F.C (Sat 20:00 UK)" stop="20250920235959 -0500">
+    <title>02:00 PM - FULHAM F.C (Sat 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
