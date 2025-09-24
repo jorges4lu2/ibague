@@ -1053,8 +1053,11 @@
   <channel id="England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [ARENA SPORT 1 SERBIA]">
     <display-name lang="en">England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [ARENA SPORT 1 SERBIA]</display-name>
   </channel>
-  <channel id="England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [SUPERSPORT PREMIER LEAGUE BEIN SPORTS MAX 6 FRANCE (CH-496)]">
-    <display-name lang="en">England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [SUPERSPORT PREMIER LEAGUE BEIN SPORTS MAX 6 FRANCE (CH-496)]</display-name>
+  <channel id="England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [SUPERSPORT PREMIER LEAGUE]">
+    <display-name lang="en">England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [SUPERSPORT PREMIER LEAGUE]</display-name>
+  </channel>
+  <channel id="England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [BEIN SPORTS MAX 6 FRANCE]">
+    <display-name lang="en">England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [BEIN SPORTS MAX 6 FRANCE]</display-name>
   </channel>
   <channel id="England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [SUPERSPORT GRANDSTAND]">
     <display-name lang="en">England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [SUPERSPORT GRANDSTAND]</display-name>
@@ -4722,8 +4725,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250924000000 -0500" channel="England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [SUPERSPORT PREMIER LEAGUE BEIN SPORTS MAX 6 FRANCE (CH-496)]" stop="20250924235959 -0500">
-    <title>02:00 PM - England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [SUPERSPORT PREMIER LEAGUE BEIN SPORTS MAX 6 FRANCE (CH-496)]</title>
+  <programme start="20250924000000 -0500" channel="England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [SUPERSPORT PREMIER LEAGUE]" stop="20250924235959 -0500">
+    <title>02:00 PM - England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [SUPERSPORT PREMIER LEAGUE]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250924000000 -0500" channel="England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [BEIN SPORTS MAX 6 FRANCE]" stop="20250924235959 -0500">
+    <title>02:00 PM - England - League Cup : Port Vale vs Arsenal (03:00PM 09/24/25) [BEIN SPORTS MAX 6 FRANCE]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
