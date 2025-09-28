@@ -1008,9 +1008,6 @@
   <channel id="Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM">
     <display-name lang="en">Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM</display-name>
   </channel>
-  <channel id="NFL  | 02 -9:30AM Vikings at Steelers">
-    <display-name lang="en">NFL  | 02 -9:30AM Vikings at Steelers</display-name>
-  </channel>
   <channel id="NFL  | 10 - 4:05PM Colts at Rams">
     <display-name lang="en">NFL  | 10 - 4:05PM Colts at Rams</display-name>
   </channel>
@@ -1442,6 +1439,15 @@
   </channel>
   <channel id="WWE: NXT No Mercy (Sun 01:00 UK)">
     <display-name lang="en">WWE: NXT No Mercy (Sun 01:00 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 - 9:30AM MotoAmerica Superbikes New Jersey">
+    <display-name lang="en">LIVE EVENT 02 - 9:30AM MotoAmerica Superbikes New Jersey</display-name>
+  </channel>
+  <channel id="LIVE EVENT 03 - 2:30PM TNT Extreme Wrestling Thrill Kil">
+    <display-name lang="en">LIVE EVENT 03 - 2:30PM TNT Extreme Wrestling Thrill Kil</display-name>
+  </channel>
+  <channel id="LIVE EVENT 04 - 4:30PM Championship Night Riverhead">
+    <display-name lang="en">LIVE EVENT 04 - 4:30PM Championship Night Riverhead</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -4782,14 +4788,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20250928000000 -0500" channel="NFL  | 02 -9:30AM Vikings at Steelers" stop="20250928235959 -0500">
-    <title>03:30 AM - NFL  | 02 -9:30AM Vikings at Steelers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250928000000 -0500" channel="NFL  | 10 - 4:05PM Colts at Rams" stop="20250928235959 -0500">
     <title>10:05 AM - NFL  | 10 - 4:05PM Colts at Rams</title>
     <date>2025</date>
@@ -5936,6 +5934,30 @@
   </programme>
   <programme start="20250928000000 -0500" channel="WWE: NXT No Mercy (Sun 01:00 UK)" stop="20250928235959 -0500">
     <title>07:00 PM - WWE: NXT No Mercy (Sun 01:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250928000000 -0500" channel="LIVE EVENT 02 - 9:30AM MotoAmerica Superbikes New Jersey" stop="20250928235959 -0500">
+    <title>03:30 AM - LIVE EVENT 02 - 9:30AM MotoAmerica Superbikes New Jersey</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250928000000 -0500" channel="LIVE EVENT 03 - 2:30PM TNT Extreme Wrestling Thrill Kil" stop="20250928235959 -0500">
+    <title>08:30 AM - LIVE EVENT 03 - 2:30PM TNT Extreme Wrestling Thrill Kil</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250928000000 -0500" channel="LIVE EVENT 04 - 4:30PM Championship Night Riverhead" stop="20250928235959 -0500">
+    <title>10:30 AM - LIVE EVENT 04 - 4:30PM Championship Night Riverhead</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
