@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250928 -0500">
+  <channel id="Championship Night Riverhead (04:45PM 09/28/25) [FLORACING]">
+    <display-name lang="en">Championship Night Riverhead (04:45PM 09/28/25) [FLORACING]</display-name>
+  </channel>
+  <channel id="2025 Kubota High Limit Racing at Path Valley Speedway (06:00PM 09/28/25) [FLORACING]">
+    <display-name lang="en">2025 Kubota High Limit Racing at Path Valley Speedway (06:00PM 09/28/25) [FLORACING]</display-name>
+  </channel>
+  <channel id="2025 Road to the Dome at Coles County Speedway (06:00PM 09/28/25) [FLORACING]">
+    <display-name lang="en">2025 Road to the Dome at Coles County Speedway (06:00PM 09/28/25) [FLORACING]</display-name>
+  </channel>
   <channel id="PBR Camping World Team Series Thunder Days Live (03:00PM 09/28/25) [CW USA]">
     <display-name lang="en">PBR Camping World Team Series Thunder Days Live (03:00PM 09/28/25) [CW USA]</display-name>
   </channel>
@@ -3300,6 +3309,30 @@
   <channel id="Grand Slam of Curling Masters Men's Final (11:00AM 09/28/25) [SPORTSNET WEST]">
     <display-name lang="en">Grand Slam of Curling Masters Men's Final (11:00AM 09/28/25) [SPORTSNET WEST]</display-name>
   </channel>
+  <programme start="20250928000000 -0500" channel="Championship Night Riverhead (04:45PM 09/28/25) [FLORACING]" stop="20250928235959 -0500">
+    <title>03:45 PM - Championship Night Riverhead (04:45PM 09/28/25) [FLORACING]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250928000000 -0500" channel="2025 Kubota High Limit Racing at Path Valley Speedway (06:00PM 09/28/25) [FLORACING]" stop="20250928235959 -0500">
+    <title>05:00 PM - 2025 Kubota High Limit Racing at Path Valley Speedway (06:00PM 09/28/25) [FLORACING]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250928000000 -0500" channel="2025 Road to the Dome at Coles County Speedway (06:00PM 09/28/25) [FLORACING]" stop="20250928235959 -0500">
+    <title>05:00 PM - 2025 Road to the Dome at Coles County Speedway (06:00PM 09/28/25) [FLORACING]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20250928000000 -0500" channel="PBR Camping World Team Series Thunder Days Live (03:00PM 09/28/25) [CW USA]" stop="20250928235959 -0500">
     <title>02:00 PM - PBR Camping World Team Series Thunder Days Live (03:00PM 09/28/25) [CW USA]</title>
     <date>2025</date>
