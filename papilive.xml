@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20250929 -0500">
-  <channel id="Big Brother Naija 2025 (05:25AM 09/29/25) [MAINFEED]">
-    <display-name lang="en">Big Brother Naija 2025 (05:25AM 09/29/25) [MAINFEED]</display-name>
-  </channel>
   <channel id="Beyond the Gates Season 1 Episode 139 (02:00PM 09/29/25) [CBSNY USA]">
     <display-name lang="en">Beyond the Gates Season 1 Episode 139 (02:00PM 09/29/25) [CBSNY USA]</display-name>
   </channel>
@@ -840,6 +837,9 @@
   <channel id="Athletic : Modern Pentathlon World Cup Final Premiere (10:00AM 09/29/25) [NLSE]">
     <display-name lang="en">Athletic : Modern Pentathlon World Cup Final Premiere (10:00AM 09/29/25) [NLSE]</display-name>
   </channel>
+  <channel id="ATP - BEIJING : De Minaur A. vs Mensik J. (01:00AM 09/29/25) [TENNIS STREAM]">
+    <display-name lang="en">ATP - BEIJING : De Minaur A. vs Mensik J. (01:00AM 09/29/25) [TENNIS STREAM]</display-name>
+  </channel>
   <channel id="ATP - BEIJING : Sinner J. vs Marozsan F. (02:30AM 09/29/25) [TENNIS STREAM]">
     <display-name lang="en">ATP - BEIJING : Sinner J. vs Marozsan F. (02:30AM 09/29/25) [TENNIS STREAM]</display-name>
   </channel>
@@ -1194,14 +1194,6 @@
   <channel id="Regionalna vaterpolo liga : Pvk Jadran Herceg Novi vs. Vk Partizan Belgrade (01:00PM 09/29/25) [ARENA PREMIUM 3 SERBIA]">
     <display-name lang="en">Regionalna vaterpolo liga : Pvk Jadran Herceg Novi vs. Vk Partizan Belgrade (01:00PM 09/29/25) [ARENA PREMIUM 3 SERBIA]</display-name>
   </channel>
-  <programme start="20250929000000 -0500" channel="Big Brother Naija 2025 (05:25AM 09/29/25) [MAINFEED]" stop="20250929235959 -0500">
-    <title>04:25 AM - Big Brother Naija 2025 (05:25AM 09/29/25) [MAINFEED]</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20250929000000 -0500" channel="Beyond the Gates Season 1 Episode 139 (02:00PM 09/29/25) [CBSNY USA]" stop="20250929235959 -0500">
     <title>01:00 PM - Beyond the Gates Season 1 Episode 139 (02:00PM 09/29/25) [CBSNY USA]</title>
     <date>2025</date>
@@ -3428,6 +3420,14 @@
   </programme>
   <programme start="20250929000000 -0500" channel="Athletic : Modern Pentathlon World Cup Final Premiere (10:00AM 09/29/25) [NLSE]" stop="20250929235959 -0500">
     <title>09:00 AM - Athletic : Modern Pentathlon World Cup Final Premiere (10:00AM 09/29/25) [NLSE]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20250929000000 -0500" channel="ATP - BEIJING : De Minaur A. vs Mensik J. (01:00AM 09/29/25) [TENNIS STREAM]" stop="20250929235959 -0500">
+    <title>12:00 AM - ATP - BEIJING : De Minaur A. vs Mensik J. (01:00AM 09/29/25) [TENNIS STREAM]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
