@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251001 -0500">
+  <channel id="06:30PM| Bristol Motor Speedway (10/02/25) [EVENT PPV]">
+    <display-name lang="en">06:30PM| Bristol Motor Speedway (10/02/25) [EVENT PPV]</display-name>
+  </channel>
   <channel id="07:00AM| The Starting Lineup Live (10/02/25) [NBA TV USA]">
     <display-name lang="en">07:00AM| The Starting Lineup Live (10/02/25) [NBA TV USA]</display-name>
   </channel>
@@ -1632,6 +1635,9 @@
   <channel id="10:30AM| Czech Republic 1st Liga : Vhk Vsetin vs. HC Stadion Litomerice (10/02/25) [CT SPORT CZECH HD]">
     <display-name lang="en">10:30AM| Czech Republic 1st Liga : Vhk Vsetin vs. HC Stadion Litomerice (10/02/25) [CT SPORT CZECH HD]</display-name>
   </channel>
+  <channel id="11:30AM| Finland iiga : SaiPa vs HPK (10/02/25) [MTV URHEILU 3 FINLAND]">
+    <display-name lang="en">11:30AM| Finland iiga : SaiPa vs HPK (10/02/25) [MTV URHEILU 3 FINLAND]</display-name>
+  </channel>
   <channel id="12:00PM| Slovakia 1st Liga : HC 07 Detva vs. HK 36 Skalica (10/02/25) [JOJ SPORT SLOVAKIA 2 HD]">
     <display-name lang="en">12:00PM| Slovakia 1st Liga : HC 07 Detva vs. HK 36 Skalica (10/02/25) [JOJ SPORT SLOVAKIA 2 HD]</display-name>
   </channel>
@@ -1683,9 +1689,6 @@
   <channel id="10:00PM| NHL : Edmonton Oilers vs Seattle Kraken (10/01/25) [NHL GAMECENTER]">
     <display-name lang="en">10:00PM| NHL : Edmonton Oilers vs Seattle Kraken (10/01/25) [NHL GAMECENTER]</display-name>
   </channel>
-  <channel id="11:30AM| Finland iiga : SaiPa vs HPK (10/02/25) [MTV URHEILU 3 FINLAND]">
-    <display-name lang="en">11:30AM| Finland iiga : SaiPa vs HPK (10/02/25) [MTV URHEILU 3 FINLAND]</display-name>
-  </channel>
   <channel id="07:00PM| Women's College Volleyball : Duke vs. North Carolina (Chapel Hill) (10/02/25) [ACC NETWORK USA]">
     <display-name lang="en">07:00PM| Women's College Volleyball : Duke vs. North Carolina (Chapel Hill) (10/02/25) [ACC NETWORK USA]</display-name>
   </channel>
@@ -1695,6 +1698,14 @@
   <channel id="07:30PM| Women's College Volleyball : Minnesota at Michigan (10/02/25) [BTN USA]">
     <display-name lang="en">07:30PM| Women's College Volleyball : Minnesota at Michigan (10/02/25) [BTN USA]</display-name>
   </channel>
+  <programme start="20251001000000 -0500" channel="06:30PM| Bristol Motor Speedway (10/02/25) [EVENT PPV]" stop="20251001235959 -0500">
+    <title>05:30 PM - 06:30PM| Bristol Motor Speedway (10/02/25) [EVENT PPV]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251001000000 -0500" channel="07:00AM| The Starting Lineup Live (10/02/25) [NBA TV USA]" stop="20251001235959 -0500">
     <title>06:00 AM - 07:00AM| The Starting Lineup Live (10/02/25) [NBA TV USA]</title>
     <date>2025</date>
@@ -6047,6 +6058,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251001000000 -0500" channel="11:30AM| Finland iiga : SaiPa vs HPK (10/02/25) [MTV URHEILU 3 FINLAND]" stop="20251001235959 -0500">
+    <title>10:30 AM - 11:30AM| Finland iiga : SaiPa vs HPK (10/02/25) [MTV URHEILU 3 FINLAND]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251001000000 -0500" channel="12:00PM| Slovakia 1st Liga : HC 07 Detva vs. HK 36 Skalica (10/02/25) [JOJ SPORT SLOVAKIA 2 HD]" stop="20251001235959 -0500">
     <title>11:00 AM - 12:00PM| Slovakia 1st Liga : HC 07 Detva vs. HK 36 Skalica (10/02/25) [JOJ SPORT SLOVAKIA 2 HD]</title>
     <date>2025</date>
@@ -6177,14 +6196,6 @@
   </programme>
   <programme start="20251001000000 -0500" channel="10:00PM| NHL : Edmonton Oilers vs Seattle Kraken (10/01/25) [NHL GAMECENTER]" stop="20251001235959 -0500">
     <title>09:00 PM - 10:00PM| NHL : Edmonton Oilers vs Seattle Kraken (10/01/25) [NHL GAMECENTER]</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251001000000 -0500" channel="11:30AM| Finland iiga : SaiPa vs HPK (10/02/25) [MTV URHEILU 3 FINLAND]" stop="20251001235959 -0500">
-    <title>10:30 AM - 11:30AM| Finland iiga : SaiPa vs HPK (10/02/25) [MTV URHEILU 3 FINLAND]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
