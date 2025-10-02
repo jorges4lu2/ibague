@@ -3,6 +3,12 @@
   <channel id="06:30PM| Bristol Motor Speedway (10/02/25) [EVENT PPV]">
     <display-name lang="en">06:30PM| Bristol Motor Speedway (10/02/25) [EVENT PPV]</display-name>
   </channel>
+  <channel id="07:45PM| Millbridge Speedway (10/02/25) [DIRTVISION]">
+    <display-name lang="en">07:45PM| Millbridge Speedway (10/02/25) [DIRTVISION]</display-name>
+  </channel>
+  <channel id="08:00PM| USRA Nationals Lucas Oil Speedway 10/1/25 (10/01/25) [RACINGDIRT]">
+    <display-name lang="en">08:00PM| USRA Nationals Lucas Oil Speedway 10/1/25 (10/01/25) [RACINGDIRT]</display-name>
+  </channel>
   <channel id="07:00AM| The Starting Lineup Live (10/02/25) [NBA TV USA]">
     <display-name lang="en">07:00AM| The Starting Lineup Live (10/02/25) [NBA TV USA]</display-name>
   </channel>
@@ -3380,6 +3386,22 @@
   </channel>
   <programme start="20251001000000 -0500" channel="06:30PM| Bristol Motor Speedway (10/02/25) [EVENT PPV]" stop="20251001235959 -0500">
     <title>05:30 PM - 06:30PM| Bristol Motor Speedway (10/02/25) [EVENT PPV]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251001000000 -0500" channel="07:45PM| Millbridge Speedway (10/02/25) [DIRTVISION]" stop="20251001235959 -0500">
+    <title>06:45 PM - 07:45PM| Millbridge Speedway (10/02/25) [DIRTVISION]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251001000000 -0500" channel="08:00PM| USRA Nationals Lucas Oil Speedway 10/1/25 (10/01/25) [RACINGDIRT]" stop="20251001235959 -0500">
+    <title>07:00 PM - 08:00PM| USRA Nationals Lucas Oil Speedway 10/1/25 (10/01/25) [RACINGDIRT]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
