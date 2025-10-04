@@ -2985,6 +2985,9 @@
   <channel id="06:00PM| BKFC 82 : Michael Perry vs Jeremy Stephens (10/05/25) [CANAL+ SPORT 5 POLAND]">
     <display-name lang="en">06:00PM| BKFC 82 : Michael Perry vs Jeremy Stephens (10/05/25) [CANAL+ SPORT 5 POLAND]</display-name>
   </channel>
+  <channel id="06:00PM| BKFC 82 : Michael Perry vs Jeremy Stephens (10/05/25) [BKFC FHD FEED]">
+    <display-name lang="en">06:00PM| BKFC 82 : Michael Perry vs Jeremy Stephens (10/05/25) [BKFC FHD FEED]</display-name>
+  </channel>
   <channel id="08:00AM| RWS : Aguiar vs. Eduarda (10/05/25) [DAZN PPV]">
     <display-name lang="en">08:00AM| RWS : Aguiar vs. Eduarda (10/05/25) [DAZN PPV]</display-name>
   </channel>
@@ -3009,6 +3012,9 @@
   <channel id="06:00PM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/05/25) [UFC FIGHT PASS]">
     <display-name lang="en">06:00PM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/05/25) [UFC FIGHT PASS]</display-name>
   </channel>
+  <channel id="06:00PM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/05/25) [UFC FIGHT PASS II]">
+    <display-name lang="en">06:00PM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/05/25) [UFC FIGHT PASS II]</display-name>
+  </channel>
   <channel id="06:00PM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/05/25) [FX USA]">
     <display-name lang="en">06:00PM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/05/25) [FX USA]</display-name>
   </channel>
@@ -3017,6 +3023,9 @@
   </channel>
   <channel id="08:00PM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/04/25) [UFC FIGHT PASS]">
     <display-name lang="en">08:00PM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/04/25) [UFC FIGHT PASS]</display-name>
+  </channel>
+  <channel id="08:00PM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/04/25) [UFC FIGHT PASS II]">
+    <display-name lang="en">08:00PM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/04/25) [UFC FIGHT PASS II]</display-name>
   </channel>
   <channel id="08:00PM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/04/25) [TNT SPORTS 1 UK]">
     <display-name lang="en">08:00PM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/04/25) [TNT SPORTS 1 UK]</display-name>
@@ -3041,6 +3050,9 @@
   </channel>
   <channel id="10:00PM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/04/25) [UFC FIGHT PASS]">
     <display-name lang="en">10:00PM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/04/25) [UFC FIGHT PASS]</display-name>
+  </channel>
+  <channel id="10:00PM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/04/25) [UFC FIGHT PASS II]">
+    <display-name lang="en">10:00PM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/04/25) [UFC FIGHT PASS II]</display-name>
   </channel>
   <channel id="10:00PM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/04/25) [TNT SPORTS 1 UK]">
     <display-name lang="en">10:00PM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/04/25) [TNT SPORTS 1 UK]</display-name>
@@ -12187,6 +12199,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251004000000 -0500" channel="06:00PM| BKFC 82 : Michael Perry vs Jeremy Stephens (10/05/25) [BKFC FHD FEED]" stop="20251004235959 -0500">
+    <title>05:00 PM - 06:00PM| BKFC 82 : Michael Perry vs Jeremy Stephens (10/05/25) [BKFC FHD FEED]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251004000000 -0500" channel="08:00AM| RWS : Aguiar vs. Eduarda (10/05/25) [DAZN PPV]" stop="20251004235959 -0500">
     <title>07:00 AM - 08:00AM| RWS : Aguiar vs. Eduarda (10/05/25) [DAZN PPV]</title>
     <date>2025</date>
@@ -12251,6 +12271,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251004000000 -0500" channel="06:00PM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/05/25) [UFC FIGHT PASS II]" stop="20251004235959 -0500">
+    <title>05:00 PM - 06:00PM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/05/25) [UFC FIGHT PASS II]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251004000000 -0500" channel="06:00PM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/05/25) [FX USA]" stop="20251004235959 -0500">
     <title>05:00 PM - 06:00PM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/05/25) [FX USA]</title>
     <date>2025</date>
@@ -12269,6 +12297,14 @@
   </programme>
   <programme start="20251004000000 -0500" channel="08:00PM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/04/25) [UFC FIGHT PASS]" stop="20251004235959 -0500">
     <title>07:00 PM - 08:00PM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/04/25) [UFC FIGHT PASS]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251004000000 -0500" channel="08:00PM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/04/25) [UFC FIGHT PASS II]" stop="20251004235959 -0500">
+    <title>07:00 PM - 08:00PM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/04/25) [UFC FIGHT PASS II]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -12333,6 +12369,14 @@
   </programme>
   <programme start="20251004000000 -0500" channel="10:00PM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/04/25) [UFC FIGHT PASS]" stop="20251004235959 -0500">
     <title>09:00 PM - 10:00PM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/04/25) [UFC FIGHT PASS]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251004000000 -0500" channel="10:00PM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/04/25) [UFC FIGHT PASS II]" stop="20251004235959 -0500">
+    <title>09:00 PM - 10:00PM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/04/25) [UFC FIGHT PASS II]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
