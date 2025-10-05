@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251005 -0500">
+  <channel id="02:00PM| Boxing Influencers 2025 (10/06/25) [PPV EVENT]">
+    <display-name lang="en">02:00PM| Boxing Influencers 2025 (10/06/25) [PPV EVENT]</display-name>
+  </channel>
   <channel id="10:00AM| Sunday NFL Countdown Live (10/06/25) [ESPN USA]">
     <display-name lang="en">10:00AM| Sunday NFL Countdown Live (10/06/25) [ESPN USA]</display-name>
   </channel>
@@ -3816,6 +3819,14 @@
   <channel id="06:00PM| Curling PointsBet Invitational final men (10/06/25) [RDS 2 CA]">
     <display-name lang="en">06:00PM| Curling PointsBet Invitational final men (10/06/25) [RDS 2 CA]</display-name>
   </channel>
+  <programme start="20251005000000 -0500" channel="02:00PM| Boxing Influencers 2025 (10/06/25) [PPV EVENT]" stop="20251005235959 -0500">
+    <title>01:00 PM - 02:00PM| Boxing Influencers 2025 (10/06/25) [PPV EVENT]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251005000000 -0500" channel="10:00AM| Sunday NFL Countdown Live (10/06/25) [ESPN USA]" stop="20251005235959 -0500">
     <title>09:00 AM - 10:00AM| Sunday NFL Countdown Live (10/06/25) [ESPN USA]</title>
     <date>2025</date>
