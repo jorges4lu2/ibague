@@ -525,6 +525,9 @@
   <channel id="06:00PM| MLB : Los Angeles Dodgers vs Philadelphia Phillies (10/07/25) [UNIMAS]">
     <display-name lang="en">06:00PM| MLB : Los Angeles Dodgers vs Philadelphia Phillies (10/07/25) [UNIMAS]</display-name>
   </channel>
+  <channel id="06:00PM| MLB : Los Angeles Dodgers vs Philadelphia Phillies (10/07/25) [SPECTRUM SPORTSNET LA]">
+    <display-name lang="en">06:00PM| MLB : Los Angeles Dodgers vs Philadelphia Phillies (10/07/25) [SPECTRUM SPORTSNET LA]</display-name>
+  </channel>
   <channel id="08:30PM| MLB : Chicago Cubs vs Milwaukee Brewers (10/06/25) [MLB LEAGUE PASS]">
     <display-name lang="en">08:30PM| MLB : Chicago Cubs vs Milwaukee Brewers (10/06/25) [MLB LEAGUE PASS]</display-name>
   </channel>
@@ -2879,6 +2882,14 @@
   </programme>
   <programme start="20251006000000 -0500" channel="06:00PM| MLB : Los Angeles Dodgers vs Philadelphia Phillies (10/07/25) [UNIMAS]" stop="20251006235959 -0500">
     <title>05:00 PM - 06:00PM| MLB : Los Angeles Dodgers vs Philadelphia Phillies (10/07/25) [UNIMAS]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251006000000 -0500" channel="06:00PM| MLB : Los Angeles Dodgers vs Philadelphia Phillies (10/07/25) [SPECTRUM SPORTSNET LA]" stop="20251006235959 -0500">
+    <title>05:00 PM - 06:00PM| MLB : Los Angeles Dodgers vs Philadelphia Phillies (10/07/25) [SPECTRUM SPORTSNET LA]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
