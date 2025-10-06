@@ -759,9 +759,6 @@
   <channel id="08:00PM| Law &amp; Order: Special Victims Unit Season 26 Episode 1 (10/07/25) [USA NETWORK]">
     <display-name lang="en">08:00PM| Law &amp; Order: Special Victims Unit Season 26 Episode 1 (10/07/25) [USA NETWORK]</display-name>
   </channel>
-  <channel id="08:00PM| All Elite Wrestling (AEW) : Dynamite LIVE (10/07/25) [TBS USA]">
-    <display-name lang="en">08:00PM| All Elite Wrestling (AEW) : Dynamite LIVE (10/07/25) [TBS USA]</display-name>
-  </channel>
   <channel id="08:00PM| Dark Side of the 90s Season 1 Episode 1 (10/07/25) [VICE TV USA]">
     <display-name lang="en">08:00PM| Dark Side of the 90s Season 1 Episode 1 (10/07/25) [VICE TV USA]</display-name>
   </channel>
@@ -1067,6 +1064,9 @@
   </channel>
   <channel id="08:00PM| WWE NXT (10/07/25) [SUPERSPORT GRANDSTAND]">
     <display-name lang="en">08:00PM| WWE NXT (10/07/25) [SUPERSPORT GRANDSTAND]</display-name>
+  </channel>
+  <channel id="08:00PM| All Elite Wrestling (AEW) : Dynamite LIVE (10/07/25) [TBS USA]">
+    <display-name lang="en">08:00PM| All Elite Wrestling (AEW) : Dynamite LIVE (10/07/25) [TBS USA]</display-name>
   </channel>
   <channel id="05:30PM| College Golf 2025 NB3 Collegiate Match Play Day 1 (10/08/25) [GOLF CHANNEL USA]">
     <display-name lang="en">05:30PM| College Golf 2025 NB3 Collegiate Match Play Day 1 (10/08/25) [GOLF CHANNEL USA]</display-name>
@@ -3509,14 +3509,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251006000000 -0500" channel="08:00PM| All Elite Wrestling (AEW) : Dynamite LIVE (10/07/25) [TBS USA]" stop="20251006235959 -0500">
-    <title>07:00 PM - 08:00PM| All Elite Wrestling (AEW) : Dynamite LIVE (10/07/25) [TBS USA]</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251006000000 -0500" channel="08:00PM| Dark Side of the 90s Season 1 Episode 1 (10/07/25) [VICE TV USA]" stop="20251006235959 -0500">
     <title>07:00 PM - 08:00PM| Dark Side of the 90s Season 1 Episode 1 (10/07/25) [VICE TV USA]</title>
     <date>2025</date>
@@ -4327,6 +4319,14 @@
   </programme>
   <programme start="20251006000000 -0500" channel="08:00PM| WWE NXT (10/07/25) [SUPERSPORT GRANDSTAND]" stop="20251006235959 -0500">
     <title>07:00 PM - 08:00PM| WWE NXT (10/07/25) [SUPERSPORT GRANDSTAND]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251006000000 -0500" channel="08:00PM| All Elite Wrestling (AEW) : Dynamite LIVE (10/07/25) [TBS USA]" stop="20251006235959 -0500">
+    <title>07:00 PM - 08:00PM| All Elite Wrestling (AEW) : Dynamite LIVE (10/07/25) [TBS USA]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
