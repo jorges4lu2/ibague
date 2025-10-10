@@ -189,8 +189,20 @@
   <channel id="02. EPL | Goal Rush Match Day # 7 (Sun 14:00 UK)">
     <display-name lang="en">02. EPL | Goal Rush Match Day # 7 (Sun 14:00 UK)</display-name>
   </channel>
-  <channel id="MLS Pass 01 | LAFC vs Toronto (Thu 03:30 UK)">
-    <display-name lang="en">MLS Pass 01 | LAFC vs Toronto (Thu 03:30 UK)</display-name>
+  <channel id="MLS Pass 01 | Inter Miami vs Atlanta United (Sun 00:30 UK)">
+    <display-name lang="en">MLS Pass 01 | Inter Miami vs Atlanta United (Sun 00:30 UK)</display-name>
+  </channel>
+  <channel id="MLS Pass 02 | Orlando City vs Vancouver (Sun 00:30 UK)">
+    <display-name lang="en">MLS Pass 02 | Orlando City vs Vancouver (Sun 00:30 UK)</display-name>
+  </channel>
+  <channel id="MLS Pass 03 | Seattle Sounders vs Real Salt Lake (Sun 02:30 UK)">
+    <display-name lang="en">MLS Pass 03 | Seattle Sounders vs Real Salt Lake (Sun 02:30 UK)</display-name>
+  </channel>
+  <channel id="MLS Pass 04 | LA Galaxy vs FC Dallas (Sun 03:30 UK)">
+    <display-name lang="en">MLS Pass 04 | LA Galaxy vs FC Dallas (Sun 03:30 UK)</display-name>
+  </channel>
+  <channel id="MLS Pass 05 | Austin vs LAFC (Mon 00:00 UK)">
+    <display-name lang="en">MLS Pass 05 | Austin vs LAFC (Mon 00:00 UK)</display-name>
   </channel>
   <channel id="EFL01: Northampton Town 14:00 Rotherham United (L1) 11/10">
     <display-name lang="en">EFL01: Northampton Town 14:00 Rotherham United (L1) 11/10</display-name>
@@ -1038,8 +1050,20 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 - Oswego Speedway 12:50 pm">
-    <display-name lang="en">DIRTVISION 01 - Oswego Speedway 12:50 pm</display-name>
+  <channel id="DIRTVISION 01 - Oswego Speedway 1:50 pm">
+    <display-name lang="en">DIRTVISION 01 - Oswego Speedway 1:50 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 02 - New Egypt Speedway 6:15pm">
+    <display-name lang="en">DIRTVISION 02 - New Egypt Speedway 6:15pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 03 - Salt City Speedway 7:15pm">
+    <display-name lang="en">DIRTVISION 03 - Salt City Speedway 7:15pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 04 - Jacksonville Speedway 7:15pm">
+    <display-name lang="en">DIRTVISION 04 - Jacksonville Speedway 7:15pm</display-name>
+  </channel>
+  <channel id="Dirtvision 05 : Boothill Speedway 7:45pm">
+    <display-name lang="en">Dirtvision 05 : Boothill Speedway 7:45pm</display-name>
   </channel>
   <channel id="Super League Plus | Event 1 Hull KR v St Helens // UK Sat 4 Oct 5:25pm // ET Sat 4 Oct 12:25pm">
     <display-name lang="en">Super League Plus | Event 1 Hull KR v St Helens // UK Sat 4 Oct 5:25pm // ET Sat 4 Oct 12:25pm</display-name>
@@ -1236,11 +1260,11 @@
   <channel id="34. UEFA U21 Championship | Republic of Ireland U21 vs Slovakia U21 (Fri 19:30 UK)">
     <display-name lang="en">34. UEFA U21 Championship | Republic of Ireland U21 vs Slovakia U21 (Fri 19:30 UK)</display-name>
   </channel>
-  <channel id="UFC 320 | Magomed Ankalaev vs. Alex Pereira FHD (Sun 02:00 UK)">
-    <display-name lang="en">UFC 320 | Magomed Ankalaev vs. Alex Pereira FHD (Sun 02:00 UK)</display-name>
+  <channel id="UFC Fight Night: Charles Oliveira vs. Mateusz Gamrot (Sun 00:00 UK)">
+    <display-name lang="en">UFC Fight Night: Charles Oliveira vs. Mateusz Gamrot (Sun 00:00 UK)</display-name>
   </channel>
-  <channel id="UFC 320 | Magomed Ankalaev vs. Alex Pereira HD (Sun 02:00 UK)">
-    <display-name lang="en">UFC 320 | Magomed Ankalaev vs. Alex Pereira HD (Sun 02:00 UK)</display-name>
+  <channel id="WWE: Crown Jewel (Sat 13:00 UK)">
+    <display-name lang="en">WWE: Crown Jewel (Sat 13:00 UK)</display-name>
   </channel>
   <channel id="LIVE EVENT 01 - 8:30AM One Friday Fights 128 Irvine v Rambong">
     <display-name lang="en">LIVE EVENT 01 - 8:30AM One Friday Fights 128 Irvine v Rambong</display-name>
@@ -2451,8 +2475,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251010000000 -0500" channel="MLS Pass 01 | LAFC vs Toronto (Thu 03:30 UK)" stop="20251010235959 -0500">
-    <title>09:30 PM - MLS Pass 01 | LAFC vs Toronto (Thu 03:30 UK)</title>
+  <programme start="20251010000000 -0500" channel="MLS Pass 01 | Inter Miami vs Atlanta United (Sun 00:30 UK)" stop="20251010235959 -0500">
+    <title>06:30 PM - MLS Pass 01 | Inter Miami vs Atlanta United (Sun 00:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251010000000 -0500" channel="MLS Pass 02 | Orlando City vs Vancouver (Sun 00:30 UK)" stop="20251010235959 -0500">
+    <title>06:30 PM - MLS Pass 02 | Orlando City vs Vancouver (Sun 00:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251010000000 -0500" channel="MLS Pass 03 | Seattle Sounders vs Real Salt Lake (Sun 02:30 UK)" stop="20251010235959 -0500">
+    <title>08:30 PM - MLS Pass 03 | Seattle Sounders vs Real Salt Lake (Sun 02:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251010000000 -0500" channel="MLS Pass 04 | LA Galaxy vs FC Dallas (Sun 03:30 UK)" stop="20251010235959 -0500">
+    <title>09:30 PM - MLS Pass 04 | LA Galaxy vs FC Dallas (Sun 03:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251010000000 -0500" channel="MLS Pass 05 | Austin vs LAFC (Mon 00:00 UK)" stop="20251010235959 -0500">
+    <title>06:00 PM - MLS Pass 05 | Austin vs LAFC (Mon 00:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -4715,8 +4771,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251010000000 -0500" channel="DIRTVISION 01 - Oswego Speedway 12:50 pm" stop="20251010235959 -0500">
-    <title>11:50 AM - DIRTVISION 01 - Oswego Speedway 12:50 pm</title>
+  <programme start="20251010000000 -0500" channel="DIRTVISION 01 - Oswego Speedway 1:50 pm" stop="20251010235959 -0500">
+    <title>12:50 PM - DIRTVISION 01 - Oswego Speedway 1:50 pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251010000000 -0500" channel="DIRTVISION 02 - New Egypt Speedway 6:15pm" stop="20251010235959 -0500">
+    <title>12:15 PM - DIRTVISION 02 - New Egypt Speedway 6:15pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251010000000 -0500" channel="DIRTVISION 03 - Salt City Speedway 7:15pm" stop="20251010235959 -0500">
+    <title>01:15 PM - DIRTVISION 03 - Salt City Speedway 7:15pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251010000000 -0500" channel="DIRTVISION 04 - Jacksonville Speedway 7:15pm" stop="20251010235959 -0500">
+    <title>01:15 PM - DIRTVISION 04 - Jacksonville Speedway 7:15pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251010000000 -0500" channel="Dirtvision 05 : Boothill Speedway 7:45pm" stop="20251010235959 -0500">
+    <title>01:45 PM - Dirtvision 05 : Boothill Speedway 7:45pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -5243,16 +5331,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251010000000 -0500" channel="UFC 320 | Magomed Ankalaev vs. Alex Pereira FHD (Sun 02:00 UK)" stop="20251010235959 -0500">
-    <title>08:00 PM - UFC 320 | Magomed Ankalaev vs. Alex Pereira FHD (Sun 02:00 UK)</title>
+  <programme start="20251010000000 -0500" channel="UFC Fight Night: Charles Oliveira vs. Mateusz Gamrot (Sun 00:00 UK)" stop="20251010235959 -0500">
+    <title>06:00 PM - UFC Fight Night: Charles Oliveira vs. Mateusz Gamrot (Sun 00:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251010000000 -0500" channel="UFC 320 | Magomed Ankalaev vs. Alex Pereira HD (Sun 02:00 UK)" stop="20251010235959 -0500">
-    <title>08:00 PM - UFC 320 | Magomed Ankalaev vs. Alex Pereira HD (Sun 02:00 UK)</title>
+  <programme start="20251010000000 -0500" channel="WWE: Crown Jewel (Sat 13:00 UK)" stop="20251010235959 -0500">
+    <title>07:00 AM - WWE: Crown Jewel (Sat 13:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
