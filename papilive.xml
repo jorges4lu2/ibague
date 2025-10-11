@@ -30,6 +30,9 @@
   <channel id="06:45PM| 2025 IMCA Car Wars at 141 Speedway (10/12/25) [FLORACING]">
     <display-name lang="en">06:45PM| 2025 IMCA Car Wars at 141 Speedway (10/12/25) [FLORACING]</display-name>
   </channel>
+  <channel id="07:00PM| Saturday Prejudging - 2025 Olympia (10/12/25) [OLYMPIA PPV]">
+    <display-name lang="en">07:00PM| Saturday Prejudging - 2025 Olympia (10/12/25) [OLYMPIA PPV]</display-name>
+  </channel>
   <channel id="07:00PM| 2025 Kubota High Limit Racing at Lakeside Speedway (10/12/25) [FLORACING]">
     <display-name lang="en">07:00PM| 2025 Kubota High Limit Racing at Lakeside Speedway (10/12/25) [FLORACING]</display-name>
   </channel>
@@ -41,6 +44,9 @@
   </channel>
   <channel id="07:45PM| World of Outlaws Late Models Boothill (10/12/25) [EVENT PPV]">
     <display-name lang="en">07:45PM| World of Outlaws Late Models Boothill (10/12/25) [EVENT PPV]</display-name>
+  </channel>
+  <channel id="08:00PM| Sat EXPO coverage and podcasts - 2025 Olympia (10/11/25) [OLYMPIA PPV]">
+    <display-name lang="en">08:00PM| Sat EXPO coverage and podcasts - 2025 Olympia (10/11/25) [OLYMPIA PPV]</display-name>
   </channel>
   <channel id="09:00PM| Del Sol Boxing : Brawl in the Barrio (10/11/25) [EVENT PPV]">
     <display-name lang="en">09:00PM| Del Sol Boxing : Brawl in the Barrio (10/11/25) [EVENT PPV]</display-name>
@@ -1260,6 +1266,9 @@
   <channel id="02:00PM| Boxing : David Allen vs Arslanbek Makhmudov (10/12/25) [DAZN PPV]">
     <display-name lang="en">02:00PM| Boxing : David Allen vs Arslanbek Makhmudov (10/12/25) [DAZN PPV]</display-name>
   </channel>
+  <channel id="02:00PM| Boxing : David Allen vs Arslanbek Makhmudov (10/12/25) [DAZN PPV II]">
+    <display-name lang="en">02:00PM| Boxing : David Allen vs Arslanbek Makhmudov (10/12/25) [DAZN PPV II]</display-name>
+  </channel>
   <channel id="02:00PM| Boxing : David Allen vs Arslanbek Makhmudov (10/12/25) [ESPN 2 BR]">
     <display-name lang="en">02:00PM| Boxing : David Allen vs Arslanbek Makhmudov (10/12/25) [ESPN 2 BR]</display-name>
   </channel>
@@ -1272,11 +1281,17 @@
   <channel id="08:00AM| RWS : Rodriguez vs. Petchmorakot (10/12/25) [DAZN PPV]">
     <display-name lang="en">08:00AM| RWS : Rodriguez vs. Petchmorakot (10/12/25) [DAZN PPV]</display-name>
   </channel>
-  <channel id="12:00PM| GLORY 104 Preliminaries (10/12/25) [DAZN PPV]">
-    <display-name lang="en">12:00PM| GLORY 104 Preliminaries (10/12/25) [DAZN PPV]</display-name>
+  <channel id="12:00PM| GLORY 104 - Preliminaries (10/12/25) [DAZN PPV]">
+    <display-name lang="en">12:00PM| GLORY 104 - Preliminaries (10/12/25) [DAZN PPV]</display-name>
   </channel>
-  <channel id="02:00PM| GLORY 104 Main Card (10/12/25) [DAZN PPV]">
-    <display-name lang="en">02:00PM| GLORY 104 Main Card (10/12/25) [DAZN PPV]</display-name>
+  <channel id="12:00PM| GLORY 104 - Preliminaries (10/12/25) [DAZN PPV II]">
+    <display-name lang="en">12:00PM| GLORY 104 - Preliminaries (10/12/25) [DAZN PPV II]</display-name>
+  </channel>
+  <channel id="02:00PM| GLORY 104 - Main Card (10/12/25) [DAZN PPV]">
+    <display-name lang="en">02:00PM| GLORY 104 - Main Card (10/12/25) [DAZN PPV]</display-name>
+  </channel>
+  <channel id="02:00PM| GLORY 104 - Main Card (10/12/25) [DAZN PPV II]">
+    <display-name lang="en">02:00PM| GLORY 104 - Main Card (10/12/25) [DAZN PPV II]</display-name>
   </channel>
   <channel id="08:30PM| Shamrock FC 369 : Tyson Hicks vs Andrew Horowitz (10/11/25) [TRILLERTV]">
     <display-name lang="en">08:30PM| Shamrock FC 369 : Tyson Hicks vs Andrew Horowitz (10/11/25) [TRILLERTV]</display-name>
@@ -2837,6 +2852,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251011000000 -0500" channel="07:00PM| Saturday Prejudging - 2025 Olympia (10/12/25) [OLYMPIA PPV]" stop="20251011235959 -0500">
+    <title>06:00 PM - 07:00PM| Saturday Prejudging - 2025 Olympia (10/12/25) [OLYMPIA PPV]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251011000000 -0500" channel="07:00PM| 2025 Kubota High Limit Racing at Lakeside Speedway (10/12/25) [FLORACING]" stop="20251011235959 -0500">
     <title>06:00 PM - 07:00PM| 2025 Kubota High Limit Racing at Lakeside Speedway (10/12/25) [FLORACING]</title>
     <date>2025</date>
@@ -2863,6 +2886,14 @@
   </programme>
   <programme start="20251011000000 -0500" channel="07:45PM| World of Outlaws Late Models Boothill (10/12/25) [EVENT PPV]" stop="20251011235959 -0500">
     <title>06:45 PM - 07:45PM| World of Outlaws Late Models Boothill (10/12/25) [EVENT PPV]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251011000000 -0500" channel="08:00PM| Sat EXPO coverage and podcasts - 2025 Olympia (10/11/25) [OLYMPIA PPV]" stop="20251011235959 -0500">
+    <title>07:00 PM - 08:00PM| Sat EXPO coverage and podcasts - 2025 Olympia (10/11/25) [OLYMPIA PPV]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -6117,6 +6148,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251011000000 -0500" channel="02:00PM| Boxing : David Allen vs Arslanbek Makhmudov (10/12/25) [DAZN PPV II]" stop="20251011235959 -0500">
+    <title>01:00 PM - 02:00PM| Boxing : David Allen vs Arslanbek Makhmudov (10/12/25) [DAZN PPV II]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251011000000 -0500" channel="02:00PM| Boxing : David Allen vs Arslanbek Makhmudov (10/12/25) [ESPN 2 BR]" stop="20251011235959 -0500">
     <title>01:00 PM - 02:00PM| Boxing : David Allen vs Arslanbek Makhmudov (10/12/25) [ESPN 2 BR]</title>
     <date>2025</date>
@@ -6149,16 +6188,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251011000000 -0500" channel="12:00PM| GLORY 104 Preliminaries (10/12/25) [DAZN PPV]" stop="20251011235959 -0500">
-    <title>11:00 AM - 12:00PM| GLORY 104 Preliminaries (10/12/25) [DAZN PPV]</title>
+  <programme start="20251011000000 -0500" channel="12:00PM| GLORY 104 - Preliminaries (10/12/25) [DAZN PPV]" stop="20251011235959 -0500">
+    <title>11:00 AM - 12:00PM| GLORY 104 - Preliminaries (10/12/25) [DAZN PPV]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251011000000 -0500" channel="02:00PM| GLORY 104 Main Card (10/12/25) [DAZN PPV]" stop="20251011235959 -0500">
-    <title>01:00 PM - 02:00PM| GLORY 104 Main Card (10/12/25) [DAZN PPV]</title>
+  <programme start="20251011000000 -0500" channel="12:00PM| GLORY 104 - Preliminaries (10/12/25) [DAZN PPV II]" stop="20251011235959 -0500">
+    <title>11:00 AM - 12:00PM| GLORY 104 - Preliminaries (10/12/25) [DAZN PPV II]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251011000000 -0500" channel="02:00PM| GLORY 104 - Main Card (10/12/25) [DAZN PPV]" stop="20251011235959 -0500">
+    <title>01:00 PM - 02:00PM| GLORY 104 - Main Card (10/12/25) [DAZN PPV]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251011000000 -0500" channel="02:00PM| GLORY 104 - Main Card (10/12/25) [DAZN PPV II]" stop="20251011235959 -0500">
+    <title>01:00 PM - 02:00PM| GLORY 104 - Main Card (10/12/25) [DAZN PPV II]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
