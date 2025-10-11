@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251011 -0500">
+  <channel id="06:45PM| Mr Olympia 1 (10/12/25) [EVENT PPV]">
+    <display-name lang="en">06:45PM| Mr Olympia 1 (10/12/25) [EVENT PPV]</display-name>
+  </channel>
+  <channel id="06:45PM| Mr Olympia 1 (10/12/25) [EVENT PPV II]">
+    <display-name lang="en">06:45PM| Mr Olympia 1 (10/12/25) [EVENT PPV II]</display-name>
+  </channel>
+  <channel id="06:45PM| Mr Olympia 2 (10/12/25) [EVENT PPV]">
+    <display-name lang="en">06:45PM| Mr Olympia 2 (10/12/25) [EVENT PPV]</display-name>
+  </channel>
   <channel id="08:00AM| WWE Crown Jewel Perth PPV (10/12/25) [EVENT PPV]">
     <display-name lang="en">08:00AM| WWE Crown Jewel Perth PPV (10/12/25) [EVENT PPV]</display-name>
   </channel>
@@ -1355,6 +1364,9 @@
   </channel>
   <channel id="07:00PM| UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (10/12/25) [SPORT 5 LIVE ISRAEL]">
     <display-name lang="en">07:00PM| UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (10/12/25) [SPORT 5 LIVE ISRAEL]</display-name>
+  </channel>
+  <channel id="08:00PM| All Elite Wrestling : Collision (10/11/25) [TNT USA]">
+    <display-name lang="en">08:00PM| All Elite Wrestling : Collision (10/11/25) [TNT USA]</display-name>
   </channel>
   <channel id="08:00PM| GCW: Fight Club - The Art of War Games 2025 Night 1 (10/11/25) [TRILLERTV]">
     <display-name lang="en">08:00PM| GCW: Fight Club - The Art of War Games 2025 Night 1 (10/11/25) [TRILLERTV]</display-name>
@@ -4434,6 +4446,9 @@
   <channel id="06:00AM| Golden Trail Ledro Sky Trentino | Day 2 (10/13/25) [EUROSPORT 1 GREECE]">
     <display-name lang="en">06:00AM| Golden Trail Ledro Sky Trentino | Day 2 (10/13/25) [EUROSPORT 1 GREECE]</display-name>
   </channel>
+  <channel id="06:45PM| 179:45 Chicago Marathon '25 (10/13/25) [SUPERSPORT VARIETY 3]">
+    <display-name lang="en">06:45PM| 179:45 Chicago Marathon '25 (10/13/25) [SUPERSPORT VARIETY 3]</display-name>
+  </channel>
   <channel id="12:05AM| AFL Women : St Kilda W vs Collingwood Magpies W (10/13/25) [FOX SOCCER PLUS]">
     <display-name lang="en">12:05AM| AFL Women : St Kilda W vs Collingwood Magpies W (10/13/25) [FOX SOCCER PLUS]</display-name>
   </channel>
@@ -5097,6 +5112,30 @@
   <channel id="03:00PM| 2025 World Aquatics FINA Swimming World Cup (10/13/25) [SUPERSPORT VARIETY 2]">
     <display-name lang="en">03:00PM| 2025 World Aquatics FINA Swimming World Cup (10/13/25) [SUPERSPORT VARIETY 2]</display-name>
   </channel>
+  <programme start="20251011000000 -0500" channel="06:45PM| Mr Olympia 1 (10/12/25) [EVENT PPV]" stop="20251011235959 -0500">
+    <title>05:45 PM - 06:45PM| Mr Olympia 1 (10/12/25) [EVENT PPV]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251011000000 -0500" channel="06:45PM| Mr Olympia 1 (10/12/25) [EVENT PPV II]" stop="20251011235959 -0500">
+    <title>05:45 PM - 06:45PM| Mr Olympia 1 (10/12/25) [EVENT PPV II]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251011000000 -0500" channel="06:45PM| Mr Olympia 2 (10/12/25) [EVENT PPV]" stop="20251011235959 -0500">
+    <title>05:45 PM - 06:45PM| Mr Olympia 2 (10/12/25) [EVENT PPV]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251011000000 -0500" channel="08:00AM| WWE Crown Jewel Perth PPV (10/12/25) [EVENT PPV]" stop="20251011235959 -0500">
     <title>07:00 AM - 08:00AM| WWE Crown Jewel Perth PPV (10/12/25) [EVENT PPV]</title>
     <date>2025</date>
@@ -8707,6 +8746,14 @@
   </programme>
   <programme start="20251011000000 -0500" channel="07:00PM| UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (10/12/25) [SPORT 5 LIVE ISRAEL]" stop="20251011235959 -0500">
     <title>06:00 PM - 07:00PM| UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (10/12/25) [SPORT 5 LIVE ISRAEL]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251011000000 -0500" channel="08:00PM| All Elite Wrestling : Collision (10/11/25) [TNT USA]" stop="20251011235959 -0500">
+    <title>07:00 PM - 08:00PM| All Elite Wrestling : Collision (10/11/25) [TNT USA]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -16915,6 +16962,14 @@
   </programme>
   <programme start="20251011000000 -0500" channel="06:00AM| Golden Trail Ledro Sky Trentino | Day 2 (10/13/25) [EUROSPORT 1 GREECE]" stop="20251011235959 -0500">
     <title>05:00 AM - 06:00AM| Golden Trail Ledro Sky Trentino | Day 2 (10/13/25) [EUROSPORT 1 GREECE]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251011000000 -0500" channel="06:45PM| 179:45 Chicago Marathon '25 (10/13/25) [SUPERSPORT VARIETY 3]" stop="20251011235959 -0500">
+    <title>05:45 PM - 06:45PM| 179:45 Chicago Marathon '25 (10/13/25) [SUPERSPORT VARIETY 3]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
