@@ -3,8 +3,14 @@
   <channel id="Denver Broncos vs. New York Jets">
     <display-name lang="en">Denver Broncos vs. New York Jets</display-name>
   </channel>
-  <channel id="San Marino vs. Cyprus">
-    <display-name lang="en">San Marino vs. Cyprus</display-name>
+  <channel id="Scotland vs. Belarus">
+    <display-name lang="en">Scotland vs. Belarus</display-name>
+  </channel>
+  <channel id="Faroe Islands vs. Czechia">
+    <display-name lang="en">Faroe Islands vs. Czechia</display-name>
+  </channel>
+  <channel id="Netherlands vs. Finland">
+    <display-name lang="en">Netherlands vs. Finland</display-name>
   </channel>
   <channel id="NFL RedZone">
     <display-name lang="en">NFL RedZone</display-name>
@@ -71,15 +77,6 @@
   </channel>
   <channel id="World Grand Prix Darts (Day 7)">
     <display-name lang="en">World Grand Prix Darts (Day 7)</display-name>
-  </channel>
-  <channel id="Scotland vs. Belarus">
-    <display-name lang="en">Scotland vs. Belarus</display-name>
-  </channel>
-  <channel id="Faroe Islands vs. Czechia">
-    <display-name lang="en">Faroe Islands vs. Czechia</display-name>
-  </channel>
-  <channel id="Netherlands vs. Finland">
-    <display-name lang="en">Netherlands vs. Finland</display-name>
   </channel>
   <channel id="Croatia vs. Gibraltar">
     <display-name lang="en">Croatia vs. Gibraltar</display-name>
@@ -305,7 +302,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251012000000 -0500" channel="San Marino vs. Cyprus" stop="20251012235959 -0500">
+  <programme start="20251012000000 -0500" channel="Scotland vs. Belarus" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Faroe Islands vs. Czechia" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Netherlands vs. Finland" stop="20251012235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -483,30 +496,6 @@
   </programme>
   <programme start="20251012000000 -0500" channel="World Grand Prix Darts (Day 7)" stop="20251012235959 -0500">
     <title>02:00 PM 12/10/25 - World Grand Prix Darts (Day 7)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Scotland vs. Belarus" stop="20251012235959 -0500">
-    <title>11:00 AM 12/10/25 - Scotland vs. Belarus</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Faroe Islands vs. Czechia" stop="20251012235959 -0500">
-    <title>11:00 AM 12/10/25 - Faroe Islands vs. Czechia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Netherlands vs. Finland" stop="20251012235959 -0500">
-    <title>11:00 AM 12/10/25 - Netherlands vs. Finland</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
