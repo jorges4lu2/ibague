@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251012 -0500">
-  <channel id="Denver Broncos vs. New York Jets">
-    <display-name lang="en">Denver Broncos vs. New York Jets</display-name>
-  </channel>
-  <channel id="Scotland vs. Belarus">
-    <display-name lang="en">Scotland vs. Belarus</display-name>
-  </channel>
-  <channel id="Faroe Islands vs. Czechia">
-    <display-name lang="en">Faroe Islands vs. Czechia</display-name>
-  </channel>
-  <channel id="Netherlands vs. Finland">
-    <display-name lang="en">Netherlands vs. Finland</display-name>
-  </channel>
   <channel id="NFL RedZone">
     <display-name lang="en">NFL RedZone</display-name>
   </channel>
@@ -35,6 +23,15 @@
   </channel>
   <channel id="Los Angeles Rams vs. Baltimore Ravens">
     <display-name lang="en">Los Angeles Rams vs. Baltimore Ravens</display-name>
+  </channel>
+  <channel id="Scotland vs. Belarus">
+    <display-name lang="en">Scotland vs. Belarus</display-name>
+  </channel>
+  <channel id="Faroe Islands vs. Czechia">
+    <display-name lang="en">Faroe Islands vs. Czechia</display-name>
+  </channel>
+  <channel id="Netherlands vs. Finland">
+    <display-name lang="en">Netherlands vs. Finland</display-name>
   </channel>
   <channel id="Tennessee Titans vs. Las Vegas Raiders">
     <display-name lang="en">Tennessee Titans vs. Las Vegas Raiders</display-name>
@@ -279,6 +276,9 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
+  <channel id="Washington Capitals vs. New York Rangers">
+    <display-name lang="en">Washington Capitals vs. New York Rangers</display-name>
+  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -294,7 +294,63 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251012000000 -0500" channel="Denver Broncos vs. New York Jets" stop="20251012235959 -0500">
+  <programme start="20251012000000 -0500" channel="NFL RedZone" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Arizona Cardinals vs. Indianapolis Colts" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Los Angeles Chargers vs. Miami Dolphins" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="New England Patriots vs. New Orleans Saints" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Cleveland Browns vs. Pittsburgh Steelers" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Dallas Cowboys vs. Carolina Panthers" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Seattle Seahawks vs. Jacksonville Jaguars" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Los Angeles Rams vs. Baltimore Ravens" stop="20251012235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -320,70 +376,6 @@
   </programme>
   <programme start="20251012000000 -0500" channel="Netherlands vs. Finland" stop="20251012235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="NFL RedZone" stop="20251012235959 -0500">
-    <title>12:00 PM 12/10/25 - NFL RedZone</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Arizona Cardinals vs. Indianapolis Colts" stop="20251012235959 -0500">
-    <title>12:00 PM 12/10/25 - Arizona Cardinals vs. Indianapolis Colts</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Los Angeles Chargers vs. Miami Dolphins" stop="20251012235959 -0500">
-    <title>12:00 PM 12/10/25 - Los Angeles Chargers vs. Miami Dolphins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="New England Patriots vs. New Orleans Saints" stop="20251012235959 -0500">
-    <title>12:00 PM 12/10/25 - New England Patriots vs. New Orleans Saints</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Cleveland Browns vs. Pittsburgh Steelers" stop="20251012235959 -0500">
-    <title>12:00 PM 12/10/25 - Cleveland Browns vs. Pittsburgh Steelers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Dallas Cowboys vs. Carolina Panthers" stop="20251012235959 -0500">
-    <title>12:00 PM 12/10/25 - Dallas Cowboys vs. Carolina Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Seattle Seahawks vs. Jacksonville Jaguars" stop="20251012235959 -0500">
-    <title>12:00 PM 12/10/25 - Seattle Seahawks vs. Jacksonville Jaguars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Los Angeles Rams vs. Baltimore Ravens" stop="20251012235959 -0500">
-    <title>12:00 PM 12/10/25 - Los Angeles Rams vs. Baltimore Ravens</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1032,6 +1024,14 @@
   </programme>
   <programme start="20251012000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251012235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Washington Capitals vs. New York Rangers" stop="20251012235959 -0500">
+    <title>06:00 PM 12/10/25 - Washington Capitals vs. New York Rangers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
