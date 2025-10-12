@@ -15,8 +15,17 @@
   <channel id="Heat at Magic">
     <display-name lang="en">Heat at Magic</display-name>
   </channel>
-  <channel id="World Grand Prix Darts (Day 7)">
-    <display-name lang="en">World Grand Prix Darts (Day 7)</display-name>
+  <channel id="Cavaliers at Celtics">
+    <display-name lang="en">Cavaliers at Celtics</display-name>
+  </channel>
+  <channel id="Bucks at Bulls">
+    <display-name lang="en">Bucks at Bulls</display-name>
+  </channel>
+  <channel id="Washington Capitals vs. New York Rangers">
+    <display-name lang="en">Washington Capitals vs. New York Rangers</display-name>
+  </channel>
+  <channel id="TNA: Bound For Glory">
+    <display-name lang="en">TNA: Bound For Glory</display-name>
   </channel>
   <channel id="Detroit Lions vs. Kansas City Chiefs">
     <display-name lang="en">Detroit Lions vs. Kansas City Chiefs</display-name>
@@ -29,12 +38,6 @@
   </channel>
   <channel id="Seattle Mariners vs. Toronto Blue Jays">
     <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Cavaliers at Celtics">
-    <display-name lang="en">Cavaliers at Celtics</display-name>
-  </channel>
-  <channel id="Bucks at Bulls">
-    <display-name lang="en">Bucks at Bulls</display-name>
   </channel>
   <channel id="Warriors at Lakers">
     <display-name lang="en">Warriors at Lakers</display-name>
@@ -231,12 +234,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="Washington Capitals vs. New York Rangers">
-    <display-name lang="en">Washington Capitals vs. New York Rangers</display-name>
-  </channel>
-  <channel id="TNA: Bound For Glory">
-    <display-name lang="en">TNA: Bound For Glory</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -292,7 +289,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251012000000 -0500" channel="World Grand Prix Darts (Day 7)" stop="20251012235959 -0500">
+  <programme start="20251012000000 -0500" channel="Cavaliers at Celtics" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Bucks at Bulls" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Washington Capitals vs. New York Rangers" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="TNA: Bound For Glory" stop="20251012235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -326,22 +347,6 @@
   </programme>
   <programme start="20251012000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251012235959 -0500">
     <title>07:03 PM 12/10/25 - Seattle Mariners vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Cavaliers at Celtics" stop="20251012235959 -0500">
-    <title>06:00 PM 12/10/25 - Cavaliers at Celtics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Bucks at Bulls" stop="20251012235959 -0500">
-    <title>06:00 PM 12/10/25 - Bucks at Bulls</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -862,22 +867,6 @@
   </programme>
   <programme start="20251012000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251012235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Washington Capitals vs. New York Rangers" stop="20251012235959 -0500">
-    <title>06:00 PM 12/10/25 - Washington Capitals vs. New York Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="TNA: Bound For Glory" stop="20251012235959 -0500">
-    <title>06:00 PM 12/10/25 - TNA: Bound For Glory</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
