@@ -12,23 +12,11 @@
   <channel id="San Francisco 49ers vs. Tampa Bay Buccaneers">
     <display-name lang="en">San Francisco 49ers vs. Tampa Bay Buccaneers</display-name>
   </channel>
-  <channel id="Raptors at Wizards">
-    <display-name lang="en">Raptors at Wizards</display-name>
+  <channel id="Heat at Magic">
+    <display-name lang="en">Heat at Magic</display-name>
   </channel>
   <channel id="World Grand Prix Darts (Day 7)">
     <display-name lang="en">World Grand Prix Darts (Day 7)</display-name>
-  </channel>
-  <channel id="Croatia vs. Gibraltar">
-    <display-name lang="en">Croatia vs. Gibraltar</display-name>
-  </channel>
-  <channel id="Denmark vs. Greece">
-    <display-name lang="en">Denmark vs. Greece</display-name>
-  </channel>
-  <channel id="Lithuania vs. Poland">
-    <display-name lang="en">Lithuania vs. Poland</display-name>
-  </channel>
-  <channel id="Romania vs. Austria">
-    <display-name lang="en">Romania vs. Austria</display-name>
   </channel>
   <channel id="Detroit Lions vs. Kansas City Chiefs">
     <display-name lang="en">Detroit Lions vs. Kansas City Chiefs</display-name>
@@ -41,9 +29,6 @@
   </channel>
   <channel id="Seattle Mariners vs. Toronto Blue Jays">
     <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Heat at Magic">
-    <display-name lang="en">Heat at Magic</display-name>
   </channel>
   <channel id="Cavaliers at Celtics">
     <display-name lang="en">Cavaliers at Celtics</display-name>
@@ -249,6 +234,9 @@
   <channel id="Washington Capitals vs. New York Rangers">
     <display-name lang="en">Washington Capitals vs. New York Rangers</display-name>
   </channel>
+  <channel id="TNA: Bound For Glory">
+    <display-name lang="en">TNA: Bound For Glory</display-name>
+  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -296,7 +284,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251012000000 -0500" channel="Raptors at Wizards" stop="20251012235959 -0500">
+  <programme start="20251012000000 -0500" channel="Heat at Magic" stop="20251012235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -305,38 +293,6 @@
     </audio>
   </programme>
   <programme start="20251012000000 -0500" channel="World Grand Prix Darts (Day 7)" stop="20251012235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Croatia vs. Gibraltar" stop="20251012235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Denmark vs. Greece" stop="20251012235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Lithuania vs. Poland" stop="20251012235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Romania vs. Austria" stop="20251012235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -370,14 +326,6 @@
   </programme>
   <programme start="20251012000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251012235959 -0500">
     <title>07:03 PM 12/10/25 - Seattle Mariners vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Heat at Magic" stop="20251012235959 -0500">
-    <title>05:00 PM 12/10/25 - Heat at Magic</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -922,6 +870,14 @@
   </programme>
   <programme start="20251012000000 -0500" channel="Washington Capitals vs. New York Rangers" stop="20251012235959 -0500">
     <title>06:00 PM 12/10/25 - Washington Capitals vs. New York Rangers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="TNA: Bound For Glory" stop="20251012235959 -0500">
+    <title>06:00 PM 12/10/25 - TNA: Bound For Glory</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
