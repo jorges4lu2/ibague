@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251012 -0500">
-  <channel id="Heat at Magic">
-    <display-name lang="en">Heat at Magic</display-name>
+  <channel id="Detroit Lions vs. Kansas City Chiefs">
+    <display-name lang="en">Detroit Lions vs. Kansas City Chiefs</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. Toronto Blue Jays">
+    <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Cavaliers at Celtics">
     <display-name lang="en">Cavaliers at Celtics</display-name>
@@ -15,17 +18,11 @@
   <channel id="TNA: Bound For Glory">
     <display-name lang="en">TNA: Bound For Glory</display-name>
   </channel>
-  <channel id="Detroit Lions vs. Kansas City Chiefs">
-    <display-name lang="en">Detroit Lions vs. Kansas City Chiefs</display-name>
-  </channel>
   <channel id="Buffalo Bills vs. Atlanta Falcons">
     <display-name lang="en">Buffalo Bills vs. Atlanta Falcons</display-name>
   </channel>
   <channel id="Chicago Bears vs. Washington Commanders">
     <display-name lang="en">Chicago Bears vs. Washington Commanders</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Toronto Blue Jays">
-    <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Warriors at Lakers">
     <display-name lang="en">Warriors at Lakers</display-name>
@@ -255,7 +252,15 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251012000000 -0500" channel="Heat at Magic" stop="20251012235959 -0500">
+  <programme start="20251012000000 -0500" channel="Detroit Lions vs. Kansas City Chiefs" stop="20251012235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251012235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -295,14 +300,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251012000000 -0500" channel="Detroit Lions vs. Kansas City Chiefs" stop="20251012235959 -0500">
-    <title>07:20 PM 12/10/25 - Detroit Lions vs. Kansas City Chiefs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251012000000 -0500" channel="Buffalo Bills vs. Atlanta Falcons" stop="20251012235959 -0500">
     <title>06:15 PM 13/10/25 - Buffalo Bills vs. Atlanta Falcons</title>
     <date>2025</date>
@@ -313,14 +310,6 @@
   </programme>
   <programme start="20251012000000 -0500" channel="Chicago Bears vs. Washington Commanders" stop="20251012235959 -0500">
     <title>07:15 PM 13/10/25 - Chicago Bears vs. Washington Commanders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251012235959 -0500">
-    <title>07:03 PM 12/10/25 - Seattle Mariners vs. Toronto Blue Jays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
