@@ -12,6 +12,9 @@
   <channel id="Winnipeg Jets vs. New York Islanders">
     <display-name lang="en">Winnipeg Jets vs. New York Islanders</display-name>
   </channel>
+  <channel id="Detroit Red Wings vs. Toronto Maple Leafs">
+    <display-name lang="en">Detroit Red Wings vs. Toronto Maple Leafs</display-name>
+  </channel>
   <channel id="Buffalo Bills vs. Atlanta Falcons">
     <display-name lang="en">Buffalo Bills vs. Atlanta Falcons</display-name>
   </channel>
@@ -228,9 +231,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="Detroit Red Wings vs. Toronto Maple Leafs">
-    <display-name lang="en">Detroit Red Wings vs. Toronto Maple Leafs</display-name>
-  </channel>
   <channel id="Florida Panthers vs. Philadelphia Flyers">
     <display-name lang="en">Florida Panthers vs. Philadelphia Flyers</display-name>
   </channel>
@@ -301,6 +301,14 @@
     </audio>
   </programme>
   <programme start="20251013000000 -0500" channel="Winnipeg Jets vs. New York Islanders" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Detroit Red Wings vs. Toronto Maple Leafs" stop="20251013235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -878,14 +886,6 @@
   </programme>
   <programme start="20251013000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251013235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Detroit Red Wings vs. Toronto Maple Leafs" stop="20251013235959 -0500">
-    <title>01:00 PM 13/10/25 - Detroit Red Wings vs. Toronto Maple Leafs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
