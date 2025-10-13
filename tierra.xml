@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251013 -0500">
+  <channel id="Colorado Avalanche vs. Buffalo Sabres">
+    <display-name lang="en">Colorado Avalanche vs. Buffalo Sabres</display-name>
+  </channel>
+  <channel id="Tampa Bay Lightning vs. Boston Bruins">
+    <display-name lang="en">Tampa Bay Lightning vs. Boston Bruins</display-name>
+  </channel>
+  <channel id="Nashville Predators vs. Ottawa Senators">
+    <display-name lang="en">Nashville Predators vs. Ottawa Senators</display-name>
+  </channel>
+  <channel id="Winnipeg Jets vs. New York Islanders">
+    <display-name lang="en">Winnipeg Jets vs. New York Islanders</display-name>
+  </channel>
   <channel id="Buffalo Bills vs. Atlanta Falcons">
     <display-name lang="en">Buffalo Bills vs. Atlanta Falcons</display-name>
   </channel>
@@ -216,6 +228,24 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
+  <channel id="Detroit Red Wings vs. Toronto Maple Leafs">
+    <display-name lang="en">Detroit Red Wings vs. Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Philadelphia Flyers">
+    <display-name lang="en">Florida Panthers vs. Philadelphia Flyers</display-name>
+  </channel>
+  <channel id="New Jersey Devils vs. Columbus Blue Jackets">
+    <display-name lang="en">New Jersey Devils vs. Columbus Blue Jackets</display-name>
+  </channel>
+  <channel id="St. Louis Blues vs. Vancouver Canucks">
+    <display-name lang="en">St. Louis Blues vs. Vancouver Canucks</display-name>
+  </channel>
+  <channel id="Los Angeles Kings vs. Minnesota Wild">
+    <display-name lang="en">Los Angeles Kings vs. Minnesota Wild</display-name>
+  </channel>
+  <channel id="Utah Mammoth vs. Chicago Blackhawks">
+    <display-name lang="en">Utah Mammoth vs. Chicago Blackhawks</display-name>
+  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
   </channel>
@@ -246,6 +276,38 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251013000000 -0500" channel="Colorado Avalanche vs. Buffalo Sabres" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Tampa Bay Lightning vs. Boston Bruins" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Nashville Predators vs. Ottawa Senators" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Winnipeg Jets vs. New York Islanders" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251013000000 -0500" channel="Buffalo Bills vs. Atlanta Falcons" stop="20251013235959 -0500">
     <title>06:15 PM 13/10/25 - Buffalo Bills vs. Atlanta Falcons</title>
     <date>2025</date>
@@ -816,6 +878,54 @@
   </programme>
   <programme start="20251013000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251013235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Detroit Red Wings vs. Toronto Maple Leafs" stop="20251013235959 -0500">
+    <title>01:00 PM 13/10/25 - Detroit Red Wings vs. Toronto Maple Leafs</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Florida Panthers vs. Philadelphia Flyers" stop="20251013235959 -0500">
+    <title>06:00 PM 13/10/25 - Florida Panthers vs. Philadelphia Flyers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="New Jersey Devils vs. Columbus Blue Jackets" stop="20251013235959 -0500">
+    <title>06:00 PM 13/10/25 - New Jersey Devils vs. Columbus Blue Jackets</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="St. Louis Blues vs. Vancouver Canucks" stop="20251013235959 -0500">
+    <title>06:30 PM 13/10/25 - St. Louis Blues vs. Vancouver Canucks</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Los Angeles Kings vs. Minnesota Wild" stop="20251013235959 -0500">
+    <title>07:00 PM 13/10/25 - Los Angeles Kings vs. Minnesota Wild</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Utah Mammoth vs. Chicago Blackhawks" stop="20251013235959 -0500">
+    <title>07:30 PM 13/10/25 - Utah Mammoth vs. Chicago Blackhawks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
