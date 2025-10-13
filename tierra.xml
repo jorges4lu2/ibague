@@ -6,6 +6,15 @@
   <channel id="Heat at Hawks">
     <display-name lang="en">Heat at Hawks</display-name>
   </channel>
+  <channel id="Spurs at Pacers">
+    <display-name lang="en">Spurs at Pacers</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Philadelphia Flyers">
+    <display-name lang="en">Florida Panthers vs. Philadelphia Flyers</display-name>
+  </channel>
+  <channel id="New Jersey Devils vs. Columbus Blue Jackets">
+    <display-name lang="en">New Jersey Devils vs. Columbus Blue Jackets</display-name>
+  </channel>
   <channel id="Buffalo Bills vs. Atlanta Falcons">
     <display-name lang="en">Buffalo Bills vs. Atlanta Falcons</display-name>
   </channel>
@@ -14,9 +23,6 @@
   </channel>
   <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
     <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Spurs at Pacers">
-    <display-name lang="en">Spurs at Pacers</display-name>
   </channel>
   <channel id="Wizards at Knicks">
     <display-name lang="en">Wizards at Knicks</display-name>
@@ -192,12 +198,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="Florida Panthers vs. Philadelphia Flyers">
-    <display-name lang="en">Florida Panthers vs. Philadelphia Flyers</display-name>
-  </channel>
-  <channel id="New Jersey Devils vs. Columbus Blue Jackets">
-    <display-name lang="en">New Jersey Devils vs. Columbus Blue Jackets</display-name>
-  </channel>
   <channel id="St. Louis Blues vs. Vancouver Canucks">
     <display-name lang="en">St. Louis Blues vs. Vancouver Canucks</display-name>
   </channel>
@@ -253,6 +253,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251013000000 -0500" channel="Spurs at Pacers" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Florida Panthers vs. Philadelphia Flyers" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="New Jersey Devils vs. Columbus Blue Jackets" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251013000000 -0500" channel="Buffalo Bills vs. Atlanta Falcons" stop="20251013235959 -0500">
     <title>06:15 PM 13/10/25 - Buffalo Bills vs. Atlanta Falcons</title>
     <date>2025</date>
@@ -271,14 +295,6 @@
   </programme>
   <programme start="20251013000000 -0500" channel="Los Angeles Dodgers vs. Milwaukee Brewers" stop="20251013235959 -0500">
     <title>07:08 PM 13/10/25 - Los Angeles Dodgers vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Spurs at Pacers" stop="20251013235959 -0500">
-    <title>06:00 PM 13/10/25 - Spurs at Pacers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -743,22 +759,6 @@
   </programme>
   <programme start="20251013000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251013235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Florida Panthers vs. Philadelphia Flyers" stop="20251013235959 -0500">
-    <title>06:00 PM 13/10/25 - Florida Panthers vs. Philadelphia Flyers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="New Jersey Devils vs. Columbus Blue Jackets" stop="20251013235959 -0500">
-    <title>06:00 PM 13/10/25 - New Jersey Devils vs. Columbus Blue Jackets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
