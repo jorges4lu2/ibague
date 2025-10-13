@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251012 -0500">
-  <channel id="NFL RedZone">
-    <display-name lang="en">NFL RedZone</display-name>
-  </channel>
-  <channel id="Tennessee Titans vs. Las Vegas Raiders">
-    <display-name lang="en">Tennessee Titans vs. Las Vegas Raiders</display-name>
-  </channel>
-  <channel id="Cincinnati Bengals vs. Green Bay Packers">
-    <display-name lang="en">Cincinnati Bengals vs. Green Bay Packers</display-name>
-  </channel>
-  <channel id="San Francisco 49ers vs. Tampa Bay Buccaneers">
-    <display-name lang="en">San Francisco 49ers vs. Tampa Bay Buccaneers</display-name>
-  </channel>
   <channel id="Heat at Magic">
     <display-name lang="en">Heat at Magic</display-name>
   </channel>
@@ -234,6 +222,24 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
+  </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <channel id="AEW: Saturday Night Collision">
+    <display-name lang="en">AEW: Saturday Night Collision</display-name>
+  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -249,38 +255,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251012000000 -0500" channel="NFL RedZone" stop="20251012235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Tennessee Titans vs. Las Vegas Raiders" stop="20251012235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Cincinnati Bengals vs. Green Bay Packers" stop="20251012235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="San Francisco 49ers vs. Tampa Bay Buccaneers" stop="20251012235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251012000000 -0500" channel="Heat at Magic" stop="20251012235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -867,6 +841,54 @@
   </programme>
   <programme start="20251012000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251012235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="WWE: Monday Night RAW" stop="20251012235959 -0500">
+    <title>07:00 AM 13/10/25 - WWE: Monday Night RAW</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="WWE: NXT" stop="20251012235959 -0500">
+    <title>07:00 PM 14/10/25 - WWE: NXT</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20251012235959 -0500">
+    <title>07:00 PM 15/10/25 - AEW: Wednesday Night Dynamite</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="TNA: Impact" stop="20251012235959 -0500">
+    <title>07:00 PM 16/10/25 - TNA: Impact</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="WWE: Friday Night Smackdown" stop="20251012235959 -0500">
+    <title>07:00 PM 17/10/25 - WWE: Friday Night Smackdown</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251012000000 -0500" channel="AEW: Saturday Night Collision" stop="20251012235959 -0500">
+    <title>07:00 PM 18/10/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
