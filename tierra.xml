@@ -1,28 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251013 -0500">
-  <channel id="Iceland vs. France">
-    <display-name lang="en">Iceland vs. France</display-name>
+  <channel id="Seattle Mariners vs. Toronto Blue Jays">
+    <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
   </channel>
-  <channel id="Northern Ireland vs. Germany">
-    <display-name lang="en">Northern Ireland vs. Germany</display-name>
-  </channel>
-  <channel id="Ukraine vs. Azerbaijan">
-    <display-name lang="en">Ukraine vs. Azerbaijan</display-name>
-  </channel>
-  <channel id="Sweden vs. Kosovo">
-    <display-name lang="en">Sweden vs. Kosovo</display-name>
-  </channel>
-  <channel id="Wales vs. Belgium">
-    <display-name lang="en">Wales vs. Belgium</display-name>
-  </channel>
-  <channel id="Slovakia vs. Luxembourg">
-    <display-name lang="en">Slovakia vs. Luxembourg</display-name>
-  </channel>
-  <channel id="Slovenia vs. Switzerland">
-    <display-name lang="en">Slovenia vs. Switzerland</display-name>
-  </channel>
-  <channel id="North Macedonia vs. Kazakhstan">
-    <display-name lang="en">North Macedonia vs. Kazakhstan</display-name>
+  <channel id="Heat at Hawks">
+    <display-name lang="en">Heat at Hawks</display-name>
   </channel>
   <channel id="Buffalo Bills vs. Atlanta Falcons">
     <display-name lang="en">Buffalo Bills vs. Atlanta Falcons</display-name>
@@ -30,14 +12,8 @@
   <channel id="Chicago Bears vs. Washington Commanders">
     <display-name lang="en">Chicago Bears vs. Washington Commanders</display-name>
   </channel>
-  <channel id="Seattle Mariners vs. Toronto Blue Jays">
-    <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
-  </channel>
   <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
     <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Heat at Hawks">
-    <display-name lang="en">Heat at Hawks</display-name>
   </channel>
   <channel id="Spurs at Pacers">
     <display-name lang="en">Spurs at Pacers</display-name>
@@ -261,7 +237,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251013000000 -0500" channel="Iceland vs. France" stop="20251013235959 -0500">
+  <programme start="20251013000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251013235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -269,55 +245,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251013000000 -0500" channel="Northern Ireland vs. Germany" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Ukraine vs. Azerbaijan" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Sweden vs. Kosovo" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Wales vs. Belgium" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Slovakia vs. Luxembourg" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Slovenia vs. Switzerland" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="North Macedonia vs. Kazakhstan" stop="20251013235959 -0500">
+  <programme start="20251013000000 -0500" channel="Heat at Hawks" stop="20251013235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -341,24 +269,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251013000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251013235959 -0500">
-    <title>04:03 PM 13/10/25 - Seattle Mariners vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251013000000 -0500" channel="Los Angeles Dodgers vs. Milwaukee Brewers" stop="20251013235959 -0500">
     <title>07:08 PM 13/10/25 - Los Angeles Dodgers vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Heat at Hawks" stop="20251013235959 -0500">
-    <title>05:00 PM 13/10/25 - Heat at Hawks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
