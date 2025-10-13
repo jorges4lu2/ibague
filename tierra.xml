@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251012 -0500">
-  <channel id="Detroit Lions vs. Kansas City Chiefs">
-    <display-name lang="en">Detroit Lions vs. Kansas City Chiefs</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Toronto Blue Jays">
-    <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
-  </channel>
   <channel id="Warriors at Lakers">
     <display-name lang="en">Warriors at Lakers</display-name>
   </channel>
@@ -240,22 +234,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251012000000 -0500" channel="Detroit Lions vs. Kansas City Chiefs" stop="20251012235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251012000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251012235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251012000000 -0500" channel="Warriors at Lakers" stop="20251012235959 -0500">
     <title>Live</title>
     <date>2025</date>
