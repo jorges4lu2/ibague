@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251013 -0500">
+  <channel id="Iceland vs. France">
+    <display-name lang="en">Iceland vs. France</display-name>
+  </channel>
+  <channel id="Northern Ireland vs. Germany">
+    <display-name lang="en">Northern Ireland vs. Germany</display-name>
+  </channel>
+  <channel id="Ukraine vs. Azerbaijan">
+    <display-name lang="en">Ukraine vs. Azerbaijan</display-name>
+  </channel>
+  <channel id="Sweden vs. Kosovo">
+    <display-name lang="en">Sweden vs. Kosovo</display-name>
+  </channel>
+  <channel id="Wales vs. Belgium">
+    <display-name lang="en">Wales vs. Belgium</display-name>
+  </channel>
+  <channel id="Slovakia vs. Luxembourg">
+    <display-name lang="en">Slovakia vs. Luxembourg</display-name>
+  </channel>
+  <channel id="Slovenia vs. Switzerland">
+    <display-name lang="en">Slovenia vs. Switzerland</display-name>
+  </channel>
+  <channel id="North Macedonia vs. Kazakhstan">
+    <display-name lang="en">North Macedonia vs. Kazakhstan</display-name>
+  </channel>
   <channel id="Colorado Avalanche vs. Buffalo Sabres">
     <display-name lang="en">Colorado Avalanche vs. Buffalo Sabres</display-name>
   </channel>
@@ -41,30 +65,6 @@
   </channel>
   <channel id="Mavericks at Jazz">
     <display-name lang="en">Mavericks at Jazz</display-name>
-  </channel>
-  <channel id="Iceland vs. France">
-    <display-name lang="en">Iceland vs. France</display-name>
-  </channel>
-  <channel id="Northern Ireland vs. Germany">
-    <display-name lang="en">Northern Ireland vs. Germany</display-name>
-  </channel>
-  <channel id="Ukraine vs. Azerbaijan">
-    <display-name lang="en">Ukraine vs. Azerbaijan</display-name>
-  </channel>
-  <channel id="Sweden vs. Kosovo">
-    <display-name lang="en">Sweden vs. Kosovo</display-name>
-  </channel>
-  <channel id="Wales vs. Belgium">
-    <display-name lang="en">Wales vs. Belgium</display-name>
-  </channel>
-  <channel id="Slovakia vs. Luxembourg">
-    <display-name lang="en">Slovakia vs. Luxembourg</display-name>
-  </channel>
-  <channel id="Slovenia vs. Switzerland">
-    <display-name lang="en">Slovenia vs. Switzerland</display-name>
-  </channel>
-  <channel id="North Macedonia vs. Kazakhstan">
-    <display-name lang="en">North Macedonia vs. Kazakhstan</display-name>
   </channel>
   <channel id="Estonia vs. Moldova">
     <display-name lang="en">Estonia vs. Moldova</display-name>
@@ -276,6 +276,70 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251013000000 -0500" channel="Iceland vs. France" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Northern Ireland vs. Germany" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Ukraine vs. Azerbaijan" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Sweden vs. Kosovo" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Wales vs. Belgium" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Slovakia vs. Luxembourg" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Slovenia vs. Switzerland" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="North Macedonia vs. Kazakhstan" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251013000000 -0500" channel="Colorado Avalanche vs. Buffalo Sabres" stop="20251013235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -382,70 +446,6 @@
   </programme>
   <programme start="20251013000000 -0500" channel="Mavericks at Jazz" stop="20251013235959 -0500">
     <title>08:00 PM 13/10/25 - Mavericks at Jazz</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Iceland vs. France" stop="20251013235959 -0500">
-    <title>01:45 PM 13/10/25 - Iceland vs. France</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Northern Ireland vs. Germany" stop="20251013235959 -0500">
-    <title>01:45 PM 13/10/25 - Northern Ireland vs. Germany</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Ukraine vs. Azerbaijan" stop="20251013235959 -0500">
-    <title>01:45 PM 13/10/25 - Ukraine vs. Azerbaijan</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Sweden vs. Kosovo" stop="20251013235959 -0500">
-    <title>01:45 PM 13/10/25 - Sweden vs. Kosovo</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Wales vs. Belgium" stop="20251013235959 -0500">
-    <title>01:45 PM 13/10/25 - Wales vs. Belgium</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Slovakia vs. Luxembourg" stop="20251013235959 -0500">
-    <title>01:45 PM 13/10/25 - Slovakia vs. Luxembourg</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Slovenia vs. Switzerland" stop="20251013235959 -0500">
-    <title>01:45 PM 13/10/25 - Slovenia vs. Switzerland</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="North Macedonia vs. Kazakhstan" stop="20251013235959 -0500">
-    <title>01:45 PM 13/10/25 - North Macedonia vs. Kazakhstan</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
