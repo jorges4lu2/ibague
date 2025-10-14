@@ -1,7 +1,25 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251014 -0500">
-  <channel id="Estonia vs. Moldova">
-    <display-name lang="en">Estonia vs. Moldova</display-name>
+  <channel id="Latvia vs. England">
+    <display-name lang="en">Latvia vs. England</display-name>
+  </channel>
+  <channel id="Andorra vs. Serbia">
+    <display-name lang="en">Andorra vs. Serbia</display-name>
+  </channel>
+  <channel id="Spain vs. Bulgaria">
+    <display-name lang="en">Spain vs. Bulgaria</display-name>
+  </channel>
+  <channel id="Portugal vs. Hungary">
+    <display-name lang="en">Portugal vs. Hungary</display-name>
+  </channel>
+  <channel id="Italy vs. Israel">
+    <display-name lang="en">Italy vs. Israel</display-name>
+  </channel>
+  <channel id="T&#252;rki&#775;ye vs. Georgia">
+    <display-name lang="en">T&#252;rki&#775;ye vs. Georgia</display-name>
+  </channel>
+  <channel id="Republic of Ireland vs. Armenia">
+    <display-name lang="en">Republic of Ireland vs. Armenia</display-name>
   </channel>
   <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
     <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
@@ -23,27 +41,6 @@
   </channel>
   <channel id="Lakers at Suns">
     <display-name lang="en">Lakers at Suns</display-name>
-  </channel>
-  <channel id="Latvia vs. England">
-    <display-name lang="en">Latvia vs. England</display-name>
-  </channel>
-  <channel id="Andorra vs. Serbia">
-    <display-name lang="en">Andorra vs. Serbia</display-name>
-  </channel>
-  <channel id="Spain vs. Bulgaria">
-    <display-name lang="en">Spain vs. Bulgaria</display-name>
-  </channel>
-  <channel id="Portugal vs. Hungary">
-    <display-name lang="en">Portugal vs. Hungary</display-name>
-  </channel>
-  <channel id="Italy vs. Israel">
-    <display-name lang="en">Italy vs. Israel</display-name>
-  </channel>
-  <channel id="T&#252;rki&#775;ye vs. Georgia">
-    <display-name lang="en">T&#252;rki&#775;ye vs. Georgia</display-name>
-  </channel>
-  <channel id="Republic of Ireland vs. Armenia">
-    <display-name lang="en">Republic of Ireland vs. Armenia</display-name>
   </channel>
   <channel id="Union Berlin vs. Gladbach">
     <display-name lang="en">Union Berlin vs. Gladbach</display-name>
@@ -240,7 +237,55 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251014000000 -0500" channel="Estonia vs. Moldova" stop="20251014235959 -0500">
+  <programme start="20251014000000 -0500" channel="Latvia vs. England" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Andorra vs. Serbia" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Spain vs. Bulgaria" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Portugal vs. Hungary" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Italy vs. Israel" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="T&#252;rki&#775;ye vs. Georgia" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Republic of Ireland vs. Armenia" stop="20251014235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -298,62 +343,6 @@
   </programme>
   <programme start="20251014000000 -0500" channel="Lakers at Suns" stop="20251014235959 -0500">
     <title>09:00 PM 14/10/25 - Lakers at Suns</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Latvia vs. England" stop="20251014235959 -0500">
-    <title>01:45 PM 14/10/25 - Latvia vs. England</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Andorra vs. Serbia" stop="20251014235959 -0500">
-    <title>01:45 PM 14/10/25 - Andorra vs. Serbia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Spain vs. Bulgaria" stop="20251014235959 -0500">
-    <title>01:45 PM 14/10/25 - Spain vs. Bulgaria</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Portugal vs. Hungary" stop="20251014235959 -0500">
-    <title>01:45 PM 14/10/25 - Portugal vs. Hungary</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Italy vs. Israel" stop="20251014235959 -0500">
-    <title>01:45 PM 14/10/25 - Italy vs. Israel</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="T&#252;rki&#775;ye vs. Georgia" stop="20251014235959 -0500">
-    <title>01:45 PM 14/10/25 - T&#252;rki&#775;ye vs. Georgia</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Republic of Ireland vs. Armenia" stop="20251014235959 -0500">
-    <title>01:45 PM 14/10/25 - Republic of Ireland vs. Armenia</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
