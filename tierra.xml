@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251014 -0500">
+  <channel id="Estonia vs. Moldova">
+    <display-name lang="en">Estonia vs. Moldova</display-name>
+  </channel>
   <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
     <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
   </channel>
@@ -20,9 +23,6 @@
   </channel>
   <channel id="Lakers at Suns">
     <display-name lang="en">Lakers at Suns</display-name>
-  </channel>
-  <channel id="Estonia vs. Moldova">
-    <display-name lang="en">Estonia vs. Moldova</display-name>
   </channel>
   <channel id="Latvia vs. England">
     <display-name lang="en">Latvia vs. England</display-name>
@@ -216,6 +216,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251014000000 -0500" channel="Estonia vs. Moldova" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251014000000 -0500" channel="Los Angeles Dodgers vs. Milwaukee Brewers" stop="20251014235959 -0500">
     <title>07:08 PM 14/10/25 - Los Angeles Dodgers vs. Milwaukee Brewers</title>
     <date>2025</date>
@@ -266,14 +274,6 @@
   </programme>
   <programme start="20251014000000 -0500" channel="Lakers at Suns" stop="20251014235959 -0500">
     <title>09:00 PM 14/10/25 - Lakers at Suns</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Estonia vs. Moldova" stop="20251014235959 -0500">
-    <title>11:00 AM 14/10/25 - Estonia vs. Moldova</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
