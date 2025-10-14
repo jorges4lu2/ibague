@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251014 -0500">
+  <channel id="Pistons at Cavaliers">
+    <display-name lang="en">Pistons at Cavaliers</display-name>
+  </channel>
+  <channel id="Nashville Predators vs. Toronto Maple Leafs">
+    <display-name lang="en">Nashville Predators vs. Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="Seattle Kraken vs. Montreal Canadiens">
+    <display-name lang="en">Seattle Kraken vs. Montreal Canadiens</display-name>
+  </channel>
+  <channel id="Edmonton Oilers vs. New York Rangers">
+    <display-name lang="en">Edmonton Oilers vs. New York Rangers</display-name>
+  </channel>
+  <channel id="Tampa Bay Lightning vs. Washington Capitals">
+    <display-name lang="en">Tampa Bay Lightning vs. Washington Capitals</display-name>
+  </channel>
   <channel id="Pittsburgh Steelers vs. Cincinnati Bengals">
     <display-name lang="en">Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
   </channel>
@@ -108,9 +123,6 @@
   <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
     <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
   </channel>
-  <channel id="Pistons at Cavaliers">
-    <display-name lang="en">Pistons at Cavaliers</display-name>
-  </channel>
   <channel id="Rockets at Pelicans">
     <display-name lang="en">Rockets at Pelicans</display-name>
   </channel>
@@ -125,6 +137,9 @@
   </channel>
   <channel id="Lakers at Suns">
     <display-name lang="en">Lakers at Suns</display-name>
+  </channel>
+  <channel id="Dana White's Contender Series">
+    <display-name lang="en">Dana White's Contender Series</display-name>
   </channel>
   <channel id="Union Berlin vs. Gladbach">
     <display-name lang="en">Union Berlin vs. Gladbach</display-name>
@@ -267,18 +282,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="Nashville Predators vs. Toronto Maple Leafs">
-    <display-name lang="en">Nashville Predators vs. Toronto Maple Leafs</display-name>
-  </channel>
-  <channel id="Seattle Kraken vs. Montreal Canadiens">
-    <display-name lang="en">Seattle Kraken vs. Montreal Canadiens</display-name>
-  </channel>
-  <channel id="Edmonton Oilers vs. New York Rangers">
-    <display-name lang="en">Edmonton Oilers vs. New York Rangers</display-name>
-  </channel>
-  <channel id="Tampa Bay Lightning vs. Washington Capitals">
-    <display-name lang="en">Tampa Bay Lightning vs. Washington Capitals</display-name>
-  </channel>
   <channel id="Vegas Golden Knights vs. Calgary Flames">
     <display-name lang="en">Vegas Golden Knights vs. Calgary Flames</display-name>
   </channel>
@@ -321,6 +324,46 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251014000000 -0500" channel="Pistons at Cavaliers" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Nashville Predators vs. Toronto Maple Leafs" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Seattle Kraken vs. Montreal Canadiens" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Edmonton Oilers vs. New York Rangers" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Tampa Bay Lightning vs. Washington Capitals" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251014000000 -0500" channel="Pittsburgh Steelers vs. Cincinnati Bengals" stop="20251014235959 -0500">
     <title>07:15 PM 16/10/25 - Pittsburgh Steelers vs. Cincinnati Bengals</title>
     <date>2025</date>
@@ -609,14 +652,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251014000000 -0500" channel="Pistons at Cavaliers" stop="20251014235959 -0500">
-    <title>06:00 PM 14/10/25 - Pistons at Cavaliers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251014000000 -0500" channel="Rockets at Pelicans" stop="20251014235959 -0500">
     <title>07:00 PM 14/10/25 - Rockets at Pelicans</title>
     <date>2025</date>
@@ -651,6 +686,14 @@
   </programme>
   <programme start="20251014000000 -0500" channel="Lakers at Suns" stop="20251014235959 -0500">
     <title>09:00 PM 14/10/25 - Lakers at Suns</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Dana White's Contender Series" stop="20251014235959 -0500">
+    <title>07:00 PM 14/10/25 - Dana White's Contender Series</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1027,38 +1070,6 @@
   </programme>
   <programme start="20251014000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251014235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Nashville Predators vs. Toronto Maple Leafs" stop="20251014235959 -0500">
-    <title>06:00 PM 14/10/25 - Nashville Predators vs. Toronto Maple Leafs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Seattle Kraken vs. Montreal Canadiens" stop="20251014235959 -0500">
-    <title>06:00 PM 14/10/25 - Seattle Kraken vs. Montreal Canadiens</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Edmonton Oilers vs. New York Rangers" stop="20251014235959 -0500">
-    <title>06:00 PM 14/10/25 - Edmonton Oilers vs. New York Rangers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Tampa Bay Lightning vs. Washington Capitals" stop="20251014235959 -0500">
-    <title>06:00 PM 14/10/25 - Tampa Bay Lightning vs. Washington Capitals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
