@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251013 -0500">
+  <channel id="Buffalo Bills vs. Atlanta Falcons">
+    <display-name lang="en">Buffalo Bills vs. Atlanta Falcons</display-name>
+  </channel>
   <channel id="Seattle Mariners vs. Toronto Blue Jays">
     <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
   </channel>
@@ -9,26 +12,29 @@
   <channel id="Spurs at Pacers">
     <display-name lang="en">Spurs at Pacers</display-name>
   </channel>
+  <channel id="Wizards at Knicks">
+    <display-name lang="en">Wizards at Knicks</display-name>
+  </channel>
+  <channel id="Loong-Lions at Timberwolves">
+    <display-name lang="en">Loong-Lions at Timberwolves</display-name>
+  </channel>
   <channel id="Florida Panthers vs. Philadelphia Flyers">
     <display-name lang="en">Florida Panthers vs. Philadelphia Flyers</display-name>
   </channel>
   <channel id="New Jersey Devils vs. Columbus Blue Jackets">
     <display-name lang="en">New Jersey Devils vs. Columbus Blue Jackets</display-name>
   </channel>
-  <channel id="Buffalo Bills vs. Atlanta Falcons">
-    <display-name lang="en">Buffalo Bills vs. Atlanta Falcons</display-name>
+  <channel id="St. Louis Blues vs. Vancouver Canucks">
+    <display-name lang="en">St. Louis Blues vs. Vancouver Canucks</display-name>
+  </channel>
+  <channel id="Los Angeles Kings vs. Minnesota Wild">
+    <display-name lang="en">Los Angeles Kings vs. Minnesota Wild</display-name>
   </channel>
   <channel id="Chicago Bears vs. Washington Commanders">
     <display-name lang="en">Chicago Bears vs. Washington Commanders</display-name>
   </channel>
   <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
     <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Wizards at Knicks">
-    <display-name lang="en">Wizards at Knicks</display-name>
-  </channel>
-  <channel id="Loong-Lions at Timberwolves">
-    <display-name lang="en">Loong-Lions at Timberwolves</display-name>
   </channel>
   <channel id="Mavericks at Jazz">
     <display-name lang="en">Mavericks at Jazz</display-name>
@@ -198,12 +204,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="St. Louis Blues vs. Vancouver Canucks">
-    <display-name lang="en">St. Louis Blues vs. Vancouver Canucks</display-name>
-  </channel>
-  <channel id="Los Angeles Kings vs. Minnesota Wild">
-    <display-name lang="en">Los Angeles Kings vs. Minnesota Wild</display-name>
-  </channel>
   <channel id="Utah Mammoth vs. Chicago Blackhawks">
     <display-name lang="en">Utah Mammoth vs. Chicago Blackhawks</display-name>
   </channel>
@@ -237,6 +237,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251013000000 -0500" channel="Buffalo Bills vs. Atlanta Falcons" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251013000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251013235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -261,6 +269,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251013000000 -0500" channel="Wizards at Knicks" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Loong-Lions at Timberwolves" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251013000000 -0500" channel="Florida Panthers vs. Philadelphia Flyers" stop="20251013235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -277,8 +301,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251013000000 -0500" channel="Buffalo Bills vs. Atlanta Falcons" stop="20251013235959 -0500">
-    <title>06:15 PM 13/10/25 - Buffalo Bills vs. Atlanta Falcons</title>
+  <programme start="20251013000000 -0500" channel="St. Louis Blues vs. Vancouver Canucks" stop="20251013235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251013000000 -0500" channel="Los Angeles Kings vs. Minnesota Wild" stop="20251013235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -295,22 +327,6 @@
   </programme>
   <programme start="20251013000000 -0500" channel="Los Angeles Dodgers vs. Milwaukee Brewers" stop="20251013235959 -0500">
     <title>07:08 PM 13/10/25 - Los Angeles Dodgers vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Wizards at Knicks" stop="20251013235959 -0500">
-    <title>06:30 PM 13/10/25 - Wizards at Knicks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Loong-Lions at Timberwolves" stop="20251013235959 -0500">
-    <title>07:00 PM 13/10/25 - Loong-Lions at Timberwolves</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -759,22 +775,6 @@
   </programme>
   <programme start="20251013000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251013235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="St. Louis Blues vs. Vancouver Canucks" stop="20251013235959 -0500">
-    <title>06:30 PM 13/10/25 - St. Louis Blues vs. Vancouver Canucks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Los Angeles Kings vs. Minnesota Wild" stop="20251013235959 -0500">
-    <title>07:00 PM 13/10/25 - Los Angeles Kings vs. Minnesota Wild</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
