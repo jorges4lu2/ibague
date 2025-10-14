@@ -1,28 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251013 -0500">
-  <channel id="Buffalo Bills vs. Atlanta Falcons">
-    <display-name lang="en">Buffalo Bills vs. Atlanta Falcons</display-name>
-  </channel>
   <channel id="Chicago Bears vs. Washington Commanders">
     <display-name lang="en">Chicago Bears vs. Washington Commanders</display-name>
   </channel>
   <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
     <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
   </channel>
-  <channel id="Wizards at Knicks">
-    <display-name lang="en">Wizards at Knicks</display-name>
-  </channel>
-  <channel id="Loong-Lions at Timberwolves">
-    <display-name lang="en">Loong-Lions at Timberwolves</display-name>
-  </channel>
   <channel id="Mavericks at Jazz">
     <display-name lang="en">Mavericks at Jazz</display-name>
-  </channel>
-  <channel id="St. Louis Blues vs. Vancouver Canucks">
-    <display-name lang="en">St. Louis Blues vs. Vancouver Canucks</display-name>
-  </channel>
-  <channel id="Los Angeles Kings vs. Minnesota Wild">
-    <display-name lang="en">Los Angeles Kings vs. Minnesota Wild</display-name>
   </channel>
   <channel id="Utah Mammoth vs. Chicago Blackhawks">
     <display-name lang="en">Utah Mammoth vs. Chicago Blackhawks</display-name>
@@ -222,14 +207,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251013000000 -0500" channel="Buffalo Bills vs. Atlanta Falcons" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251013000000 -0500" channel="Chicago Bears vs. Washington Commanders" stop="20251013235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -246,39 +223,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251013000000 -0500" channel="Wizards at Knicks" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Loong-Lions at Timberwolves" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251013000000 -0500" channel="Mavericks at Jazz" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="St. Louis Blues vs. Vancouver Canucks" stop="20251013235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251013000000 -0500" channel="Los Angeles Kings vs. Minnesota Wild" stop="20251013235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
