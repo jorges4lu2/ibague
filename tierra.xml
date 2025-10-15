@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251015 -0500">
+  <channel id="PDC: Players Championship 32 - Board 2">
+    <display-name lang="en">PDC: Players Championship 32 - Board 2</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 32 - Board 1">
+    <display-name lang="en">PDC: Players Championship 32 - Board 1</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 32 - Board 3">
+    <display-name lang="en">PDC: Players Championship 32 - Board 3</display-name>
+  </channel>
+  <channel id="PDC: Players Championship 32 - Board 4">
+    <display-name lang="en">PDC: Players Championship 32 - Board 4</display-name>
+  </channel>
   <channel id="Pittsburgh Steelers vs. Cincinnati Bengals">
     <display-name lang="en">Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
   </channel>
@@ -288,6 +300,38 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251015000000 -0500" channel="PDC: Players Championship 32 - Board 2" stop="20251015235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251015000000 -0500" channel="PDC: Players Championship 32 - Board 1" stop="20251015235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251015000000 -0500" channel="PDC: Players Championship 32 - Board 3" stop="20251015235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251015000000 -0500" channel="PDC: Players Championship 32 - Board 4" stop="20251015235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251015000000 -0500" channel="Pittsburgh Steelers vs. Cincinnati Bengals" stop="20251015235959 -0500">
     <title>07:15 PM 16/10/25 - Pittsburgh Steelers vs. Cincinnati Bengals</title>
     <date>2025</date>
