@@ -3,6 +3,15 @@
   <channel id="Pistons at Cavaliers">
     <display-name lang="en">Pistons at Cavaliers</display-name>
   </channel>
+  <channel id="Rockets at Pelicans">
+    <display-name lang="en">Rockets at Pelicans</display-name>
+  </channel>
+  <channel id="Thunder at Bucks">
+    <display-name lang="en">Thunder at Bucks</display-name>
+  </channel>
+  <channel id="Dana White's Contender Series">
+    <display-name lang="en">Dana White's Contender Series</display-name>
+  </channel>
   <channel id="Nashville Predators vs. Toronto Maple Leafs">
     <display-name lang="en">Nashville Predators vs. Toronto Maple Leafs</display-name>
   </channel>
@@ -14,6 +23,9 @@
   </channel>
   <channel id="Tampa Bay Lightning vs. Washington Capitals">
     <display-name lang="en">Tampa Bay Lightning vs. Washington Capitals</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="Pittsburgh Steelers vs. Cincinnati Bengals">
     <display-name lang="en">Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
@@ -123,12 +135,6 @@
   <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
     <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
   </channel>
-  <channel id="Rockets at Pelicans">
-    <display-name lang="en">Rockets at Pelicans</display-name>
-  </channel>
-  <channel id="Thunder at Bucks">
-    <display-name lang="en">Thunder at Bucks</display-name>
-  </channel>
   <channel id="Bulls at Nuggets">
     <display-name lang="en">Bulls at Nuggets</display-name>
   </channel>
@@ -137,9 +143,6 @@
   </channel>
   <channel id="Lakers at Suns">
     <display-name lang="en">Lakers at Suns</display-name>
-  </channel>
-  <channel id="Dana White's Contender Series">
-    <display-name lang="en">Dana White's Contender Series</display-name>
   </channel>
   <channel id="Union Berlin vs. Gladbach">
     <display-name lang="en">Union Berlin vs. Gladbach</display-name>
@@ -294,9 +297,6 @@
   <channel id="Pittsburgh Penguins vs. Anaheim Ducks">
     <display-name lang="en">Pittsburgh Penguins vs. Anaheim Ducks</display-name>
   </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
-  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -332,6 +332,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251014000000 -0500" channel="Rockets at Pelicans" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Thunder at Bucks" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Dana White's Contender Series" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251014000000 -0500" channel="Nashville Predators vs. Toronto Maple Leafs" stop="20251014235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -357,6 +381,14 @@
     </audio>
   </programme>
   <programme start="20251014000000 -0500" channel="Tampa Bay Lightning vs. Washington Capitals" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="WWE: NXT" stop="20251014235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -652,22 +684,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251014000000 -0500" channel="Rockets at Pelicans" stop="20251014235959 -0500">
-    <title>07:00 PM 14/10/25 - Rockets at Pelicans</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Thunder at Bucks" stop="20251014235959 -0500">
-    <title>07:00 PM 14/10/25 - Thunder at Bucks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251014000000 -0500" channel="Bulls at Nuggets" stop="20251014235959 -0500">
     <title>08:00 PM 14/10/25 - Bulls at Nuggets</title>
     <date>2025</date>
@@ -686,14 +702,6 @@
   </programme>
   <programme start="20251014000000 -0500" channel="Lakers at Suns" stop="20251014235959 -0500">
     <title>09:00 PM 14/10/25 - Lakers at Suns</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Dana White's Contender Series" stop="20251014235959 -0500">
-    <title>07:00 PM 14/10/25 - Dana White's Contender Series</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1102,14 +1110,6 @@
   </programme>
   <programme start="20251014000000 -0500" channel="Pittsburgh Penguins vs. Anaheim Ducks" stop="20251014235959 -0500">
     <title>09:30 PM 14/10/25 - Pittsburgh Penguins vs. Anaheim Ducks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="WWE: NXT" stop="20251014235959 -0500">
-    <title>07:00 PM 14/10/25 - WWE: NXT</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
