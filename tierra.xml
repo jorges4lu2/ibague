@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251014 -0500">
+  <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
+    <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
+  </channel>
   <channel id="Pistons at Cavaliers">
     <display-name lang="en">Pistons at Cavaliers</display-name>
   </channel>
@@ -8,6 +11,9 @@
   </channel>
   <channel id="Thunder at Bucks">
     <display-name lang="en">Thunder at Bucks</display-name>
+  </channel>
+  <channel id="Bulls at Nuggets">
+    <display-name lang="en">Bulls at Nuggets</display-name>
   </channel>
   <channel id="Dana White's Contender Series">
     <display-name lang="en">Dana White's Contender Series</display-name>
@@ -23,6 +29,9 @@
   </channel>
   <channel id="Tampa Bay Lightning vs. Washington Capitals">
     <display-name lang="en">Tampa Bay Lightning vs. Washington Capitals</display-name>
+  </channel>
+  <channel id="Vegas Golden Knights vs. Calgary Flames">
+    <display-name lang="en">Vegas Golden Knights vs. Calgary Flames</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -131,12 +140,6 @@
   </channel>
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
-    <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
-  </channel>
-  <channel id="Bulls at Nuggets">
-    <display-name lang="en">Bulls at Nuggets</display-name>
   </channel>
   <channel id="Warriors at Trail Blazers">
     <display-name lang="en">Warriors at Trail Blazers</display-name>
@@ -285,9 +288,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="Vegas Golden Knights vs. Calgary Flames">
-    <display-name lang="en">Vegas Golden Knights vs. Calgary Flames</display-name>
-  </channel>
   <channel id="Minnesota Wild vs. Dallas Stars">
     <display-name lang="en">Minnesota Wild vs. Dallas Stars</display-name>
   </channel>
@@ -324,6 +324,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251014000000 -0500" channel="Los Angeles Dodgers vs. Milwaukee Brewers" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251014000000 -0500" channel="Pistons at Cavaliers" stop="20251014235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -341,6 +349,14 @@
     </audio>
   </programme>
   <programme start="20251014000000 -0500" channel="Thunder at Bucks" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Bulls at Nuggets" stop="20251014235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -381,6 +397,14 @@
     </audio>
   </programme>
   <programme start="20251014000000 -0500" channel="Tampa Bay Lightning vs. Washington Capitals" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Vegas Golden Knights vs. Calgary Flames" stop="20251014235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -670,22 +694,6 @@
   </programme>
   <programme start="20251014000000 -0500" channel="Houston Texans vs. Seattle Seahawks" stop="20251014235959 -0500">
     <title>09:00 PM 20/10/25 - Houston Texans vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Los Angeles Dodgers vs. Milwaukee Brewers" stop="20251014235959 -0500">
-    <title>07:08 PM 14/10/25 - Los Angeles Dodgers vs. Milwaukee Brewers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Bulls at Nuggets" stop="20251014235959 -0500">
-    <title>08:00 PM 14/10/25 - Bulls at Nuggets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1078,14 +1086,6 @@
   </programme>
   <programme start="20251014000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251014235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Vegas Golden Knights vs. Calgary Flames" stop="20251014235959 -0500">
-    <title>08:00 PM 14/10/25 - Vegas Golden Knights vs. Calgary Flames</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
