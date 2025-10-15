@@ -3,9 +3,6 @@
   <channel id="Los Angeles Dodgers vs. Milwaukee Brewers">
     <display-name lang="en">Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
   </channel>
-  <channel id="Pistons at Cavaliers">
-    <display-name lang="en">Pistons at Cavaliers</display-name>
-  </channel>
   <channel id="Rockets at Pelicans">
     <display-name lang="en">Rockets at Pelicans</display-name>
   </channel>
@@ -15,23 +12,23 @@
   <channel id="Bulls at Nuggets">
     <display-name lang="en">Bulls at Nuggets</display-name>
   </channel>
+  <channel id="Warriors at Trail Blazers">
+    <display-name lang="en">Warriors at Trail Blazers</display-name>
+  </channel>
+  <channel id="Lakers at Suns">
+    <display-name lang="en">Lakers at Suns</display-name>
+  </channel>
   <channel id="Dana White's Contender Series">
     <display-name lang="en">Dana White's Contender Series</display-name>
   </channel>
-  <channel id="Nashville Predators vs. Toronto Maple Leafs">
-    <display-name lang="en">Nashville Predators vs. Toronto Maple Leafs</display-name>
-  </channel>
-  <channel id="Seattle Kraken vs. Montreal Canadiens">
-    <display-name lang="en">Seattle Kraken vs. Montreal Canadiens</display-name>
-  </channel>
-  <channel id="Edmonton Oilers vs. New York Rangers">
-    <display-name lang="en">Edmonton Oilers vs. New York Rangers</display-name>
-  </channel>
-  <channel id="Tampa Bay Lightning vs. Washington Capitals">
-    <display-name lang="en">Tampa Bay Lightning vs. Washington Capitals</display-name>
-  </channel>
   <channel id="Vegas Golden Knights vs. Calgary Flames">
     <display-name lang="en">Vegas Golden Knights vs. Calgary Flames</display-name>
+  </channel>
+  <channel id="Minnesota Wild vs. Dallas Stars">
+    <display-name lang="en">Minnesota Wild vs. Dallas Stars</display-name>
+  </channel>
+  <channel id="Carolina Hurricanes vs. San Jose Sharks">
+    <display-name lang="en">Carolina Hurricanes vs. San Jose Sharks</display-name>
   </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
@@ -140,12 +137,6 @@
   </channel>
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
-  </channel>
-  <channel id="Warriors at Trail Blazers">
-    <display-name lang="en">Warriors at Trail Blazers</display-name>
-  </channel>
-  <channel id="Lakers at Suns">
-    <display-name lang="en">Lakers at Suns</display-name>
   </channel>
   <channel id="Union Berlin vs. Gladbach">
     <display-name lang="en">Union Berlin vs. Gladbach</display-name>
@@ -288,12 +279,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="Minnesota Wild vs. Dallas Stars">
-    <display-name lang="en">Minnesota Wild vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Carolina Hurricanes vs. San Jose Sharks">
-    <display-name lang="en">Carolina Hurricanes vs. San Jose Sharks</display-name>
-  </channel>
   <channel id="Pittsburgh Penguins vs. Anaheim Ducks">
     <display-name lang="en">Pittsburgh Penguins vs. Anaheim Ducks</display-name>
   </channel>
@@ -332,14 +317,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251014000000 -0500" channel="Pistons at Cavaliers" stop="20251014235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251014000000 -0500" channel="Rockets at Pelicans" stop="20251014235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -364,6 +341,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251014000000 -0500" channel="Warriors at Trail Blazers" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Lakers at Suns" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251014000000 -0500" channel="Dana White's Contender Series" stop="20251014235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -372,39 +365,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251014000000 -0500" channel="Nashville Predators vs. Toronto Maple Leafs" stop="20251014235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Seattle Kraken vs. Montreal Canadiens" stop="20251014235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Edmonton Oilers vs. New York Rangers" stop="20251014235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Tampa Bay Lightning vs. Washington Capitals" stop="20251014235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251014000000 -0500" channel="Vegas Golden Knights vs. Calgary Flames" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Minnesota Wild vs. Dallas Stars" stop="20251014235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251014000000 -0500" channel="Carolina Hurricanes vs. San Jose Sharks" stop="20251014235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -694,22 +671,6 @@
   </programme>
   <programme start="20251014000000 -0500" channel="Houston Texans vs. Seattle Seahawks" stop="20251014235959 -0500">
     <title>09:00 PM 20/10/25 - Houston Texans vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Warriors at Trail Blazers" stop="20251014235959 -0500">
-    <title>09:00 PM 14/10/25 - Warriors at Trail Blazers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Lakers at Suns" stop="20251014235959 -0500">
-    <title>09:00 PM 14/10/25 - Lakers at Suns</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1086,22 +1047,6 @@
   </programme>
   <programme start="20251014000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251014235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Minnesota Wild vs. Dallas Stars" stop="20251014235959 -0500">
-    <title>08:30 PM 14/10/25 - Minnesota Wild vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251014000000 -0500" channel="Carolina Hurricanes vs. San Jose Sharks" stop="20251014235959 -0500">
-    <title>09:00 PM 14/10/25 - Carolina Hurricanes vs. San Jose Sharks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
