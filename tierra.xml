@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251015 -0500">
+  <channel id="Grizzlies at Hornets">
+    <display-name lang="en">Grizzlies at Hornets</display-name>
+  </channel>
+  <channel id="Ottawa Senators vs. Buffalo Sabres">
+    <display-name lang="en">Ottawa Senators vs. Buffalo Sabres</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. Detroit Red Wings">
+    <display-name lang="en">Florida Panthers vs. Detroit Red Wings</display-name>
+  </channel>
   <channel id="Pittsburgh Steelers vs. Cincinnati Bengals">
     <display-name lang="en">Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
   </channel>
@@ -107,9 +116,6 @@
   </channel>
   <channel id="Toronto Blue Jays vs. Seattle Mariners">
     <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Grizzlies at Hornets">
-    <display-name lang="en">Grizzlies at Hornets</display-name>
   </channel>
   <channel id="Raptors at Celtics">
     <display-name lang="en">Raptors at Celtics</display-name>
@@ -264,12 +270,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="Ottawa Senators vs. Buffalo Sabres">
-    <display-name lang="en">Ottawa Senators vs. Buffalo Sabres</display-name>
-  </channel>
-  <channel id="Florida Panthers vs. Detroit Red Wings">
-    <display-name lang="en">Florida Panthers vs. Detroit Red Wings</display-name>
-  </channel>
   <channel id="Chicago Blackhawks vs. St. Louis Blues">
     <display-name lang="en">Chicago Blackhawks vs. St. Louis Blues</display-name>
   </channel>
@@ -303,6 +303,30 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251015000000 -0500" channel="Grizzlies at Hornets" stop="20251015235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251015000000 -0500" channel="Ottawa Senators vs. Buffalo Sabres" stop="20251015235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251015000000 -0500" channel="Florida Panthers vs. Detroit Red Wings" stop="20251015235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251015000000 -0500" channel="Pittsburgh Steelers vs. Cincinnati Bengals" stop="20251015235959 -0500">
     <title>07:15 PM 16/10/25 - Pittsburgh Steelers vs. Cincinnati Bengals</title>
     <date>2025</date>
@@ -585,14 +609,6 @@
   </programme>
   <programme start="20251015000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20251015235959 -0500">
     <title>07:08 PM 15/10/25 - Toronto Blue Jays vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="Grizzlies at Hornets" stop="20251015235959 -0500">
-    <title>06:00 PM 15/10/25 - Grizzlies at Hornets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1001,22 +1017,6 @@
   </programme>
   <programme start="20251015000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251015235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="Ottawa Senators vs. Buffalo Sabres" stop="20251015235959 -0500">
-    <title>06:00 PM 15/10/25 - Ottawa Senators vs. Buffalo Sabres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="Florida Panthers vs. Detroit Red Wings" stop="20251015235959 -0500">
-    <title>06:00 PM 15/10/25 - Florida Panthers vs. Detroit Red Wings</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
