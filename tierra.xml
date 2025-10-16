@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251016 -0500">
+  <channel id="Milwaukee Brewers vs. Los Angeles Dodgers">
+    <display-name lang="en">Milwaukee Brewers vs. Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="Pelicans at Magic">
+    <display-name lang="en">Pelicans at Magic</display-name>
+  </channel>
+  <channel id="Wizards at Pistons">
+    <display-name lang="en">Wizards at Pistons</display-name>
+  </channel>
+  <channel id="New York Rangers vs. Toronto Maple Leafs">
+    <display-name lang="en">New York Rangers vs. Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="Nashville Predators vs. Montreal Canadiens">
+    <display-name lang="en">Nashville Predators vs. Montreal Canadiens</display-name>
+  </channel>
+  <channel id="Seattle Kraken vs. Ottawa Senators">
+    <display-name lang="en">Seattle Kraken vs. Ottawa Senators</display-name>
+  </channel>
+  <channel id="Florida Panthers vs. New Jersey Devils">
+    <display-name lang="en">Florida Panthers vs. New Jersey Devils</display-name>
+  </channel>
+  <channel id="Winnipeg Jets vs. Philadelphia Flyers">
+    <display-name lang="en">Winnipeg Jets vs. Philadelphia Flyers</display-name>
+  </channel>
+  <channel id="Colorado Avalanche vs. Columbus Blue Jackets">
+    <display-name lang="en">Colorado Avalanche vs. Columbus Blue Jackets</display-name>
+  </channel>
   <channel id="Pittsburgh Steelers vs. Cincinnati Bengals">
     <display-name lang="en">Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
   </channel>
@@ -105,17 +132,8 @@
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
   </channel>
-  <channel id="Milwaukee Brewers vs. Los Angeles Dodgers">
-    <display-name lang="en">Milwaukee Brewers vs. Los Angeles Dodgers</display-name>
-  </channel>
   <channel id="Toronto Blue Jays vs. Seattle Mariners">
     <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Pelicans at Magic">
-    <display-name lang="en">Pelicans at Magic</display-name>
-  </channel>
-  <channel id="Wizards at Pistons">
-    <display-name lang="en">Wizards at Pistons</display-name>
   </channel>
   <channel id="Rockets at Hawks">
     <display-name lang="en">Rockets at Hawks</display-name>
@@ -288,24 +306,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="New York Rangers vs. Toronto Maple Leafs">
-    <display-name lang="en">New York Rangers vs. Toronto Maple Leafs</display-name>
-  </channel>
-  <channel id="Nashville Predators vs. Montreal Canadiens">
-    <display-name lang="en">Nashville Predators vs. Montreal Canadiens</display-name>
-  </channel>
-  <channel id="Seattle Kraken vs. Ottawa Senators">
-    <display-name lang="en">Seattle Kraken vs. Ottawa Senators</display-name>
-  </channel>
-  <channel id="Florida Panthers vs. New Jersey Devils">
-    <display-name lang="en">Florida Panthers vs. New Jersey Devils</display-name>
-  </channel>
-  <channel id="Winnipeg Jets vs. Philadelphia Flyers">
-    <display-name lang="en">Winnipeg Jets vs. Philadelphia Flyers</display-name>
-  </channel>
-  <channel id="Colorado Avalanche vs. Columbus Blue Jackets">
-    <display-name lang="en">Colorado Avalanche vs. Columbus Blue Jackets</display-name>
-  </channel>
   <channel id="Edmonton Oilers vs. New York Islanders">
     <display-name lang="en">Edmonton Oilers vs. New York Islanders</display-name>
   </channel>
@@ -360,6 +360,78 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251016000000 -0500" channel="Milwaukee Brewers vs. Los Angeles Dodgers" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="Pelicans at Magic" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="Wizards at Pistons" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="New York Rangers vs. Toronto Maple Leafs" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="Nashville Predators vs. Montreal Canadiens" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="Seattle Kraken vs. Ottawa Senators" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="Florida Panthers vs. New Jersey Devils" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="Winnipeg Jets vs. Philadelphia Flyers" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="Colorado Avalanche vs. Columbus Blue Jackets" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251016000000 -0500" channel="Pittsburgh Steelers vs. Cincinnati Bengals" stop="20251016235959 -0500">
     <title>07:15 PM 16/10/25 - Pittsburgh Steelers vs. Cincinnati Bengals</title>
     <date>2025</date>
@@ -640,32 +712,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251016000000 -0500" channel="Milwaukee Brewers vs. Los Angeles Dodgers" stop="20251016235959 -0500">
-    <title>05:08 PM 16/10/25 - Milwaukee Brewers vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251016000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20251016235959 -0500">
     <title>07:33 PM 16/10/25 - Toronto Blue Jays vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="Pelicans at Magic" stop="20251016235959 -0500">
-    <title>06:00 PM 16/10/25 - Pelicans at Magic</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="Wizards at Pistons" stop="20251016235959 -0500">
-    <title>06:00 PM 16/10/25 - Wizards at Pistons</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1122,54 +1170,6 @@
   </programme>
   <programme start="20251016000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251016235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="New York Rangers vs. Toronto Maple Leafs" stop="20251016235959 -0500">
-    <title>06:00 PM 16/10/25 - New York Rangers vs. Toronto Maple Leafs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="Nashville Predators vs. Montreal Canadiens" stop="20251016235959 -0500">
-    <title>06:00 PM 16/10/25 - Nashville Predators vs. Montreal Canadiens</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="Seattle Kraken vs. Ottawa Senators" stop="20251016235959 -0500">
-    <title>06:00 PM 16/10/25 - Seattle Kraken vs. Ottawa Senators</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="Florida Panthers vs. New Jersey Devils" stop="20251016235959 -0500">
-    <title>06:00 PM 16/10/25 - Florida Panthers vs. New Jersey Devils</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="Winnipeg Jets vs. Philadelphia Flyers" stop="20251016235959 -0500">
-    <title>06:00 PM 16/10/25 - Winnipeg Jets vs. Philadelphia Flyers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="Colorado Avalanche vs. Columbus Blue Jackets" stop="20251016235959 -0500">
-    <title>06:00 PM 16/10/25 - Colorado Avalanche vs. Columbus Blue Jackets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
