@@ -3,17 +3,17 @@
   <channel id="Toronto Blue Jays vs. Seattle Mariners">
     <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="Grizzlies at Hornets">
-    <display-name lang="en">Grizzlies at Hornets</display-name>
-  </channel>
   <channel id="Raptors at Celtics">
     <display-name lang="en">Raptors at Celtics</display-name>
   </channel>
-  <channel id="Ottawa Senators vs. Buffalo Sabres">
-    <display-name lang="en">Ottawa Senators vs. Buffalo Sabres</display-name>
+  <channel id="Clippers at Kings">
+    <display-name lang="en">Clippers at Kings</display-name>
   </channel>
-  <channel id="Florida Panthers vs. Detroit Red Wings">
-    <display-name lang="en">Florida Panthers vs. Detroit Red Wings</display-name>
+  <channel id="Chicago Blackhawks vs. St. Louis Blues">
+    <display-name lang="en">Chicago Blackhawks vs. St. Louis Blues</display-name>
+  </channel>
+  <channel id="Calgary Flames vs. Utah Mammoth">
+    <display-name lang="en">Calgary Flames vs. Utah Mammoth</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -122,9 +122,6 @@
   </channel>
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
-  </channel>
-  <channel id="Clippers at Kings">
-    <display-name lang="en">Clippers at Kings</display-name>
   </channel>
   <channel id="Mavericks at Lakers">
     <display-name lang="en">Mavericks at Lakers</display-name>
@@ -273,12 +270,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="Chicago Blackhawks vs. St. Louis Blues">
-    <display-name lang="en">Chicago Blackhawks vs. St. Louis Blues</display-name>
-  </channel>
-  <channel id="Calgary Flames vs. Utah Mammoth">
-    <display-name lang="en">Calgary Flames vs. Utah Mammoth</display-name>
-  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
@@ -311,14 +302,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Grizzlies at Hornets" stop="20251015235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251015000000 -0500" channel="Raptors at Celtics" stop="20251015235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -327,7 +310,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Ottawa Senators vs. Buffalo Sabres" stop="20251015235959 -0500">
+  <programme start="20251015000000 -0500" channel="Clippers at Kings" stop="20251015235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -335,7 +318,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Florida Panthers vs. Detroit Red Wings" stop="20251015235959 -0500">
+  <programme start="20251015000000 -0500" channel="Chicago Blackhawks vs. St. Louis Blues" stop="20251015235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251015000000 -0500" channel="Calgary Flames vs. Utah Mammoth" stop="20251015235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -625,14 +616,6 @@
   </programme>
   <programme start="20251015000000 -0500" channel="Houston Texans vs. Seattle Seahawks" stop="20251015235959 -0500">
     <title>09:00 PM 20/10/25 - Houston Texans vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="Clippers at Kings" stop="20251015235959 -0500">
-    <title>09:00 PM 15/10/25 - Clippers at Kings</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1025,22 +1008,6 @@
   </programme>
   <programme start="20251015000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251015235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="Chicago Blackhawks vs. St. Louis Blues" stop="20251015235959 -0500">
-    <title>08:30 PM 15/10/25 - Chicago Blackhawks vs. St. Louis Blues</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="Calgary Flames vs. Utah Mammoth" stop="20251015235959 -0500">
-    <title>08:30 PM 15/10/25 - Calgary Flames vs. Utah Mammoth</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
