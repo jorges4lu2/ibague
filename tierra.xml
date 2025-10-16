@@ -1,16 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20251015 -0500">
-  <channel id="Clippers at Kings">
-    <display-name lang="en">Clippers at Kings</display-name>
-  </channel>
+<tv date="20251016 -0500">
   <channel id="Mavericks at Lakers">
     <display-name lang="en">Mavericks at Lakers</display-name>
-  </channel>
-  <channel id="Chicago Blackhawks vs. St. Louis Blues">
-    <display-name lang="en">Chicago Blackhawks vs. St. Louis Blues</display-name>
-  </channel>
-  <channel id="Calgary Flames vs. Utah Mammoth">
-    <display-name lang="en">Calgary Flames vs. Utah Mammoth</display-name>
   </channel>
   <channel id="Pittsburgh Steelers vs. Cincinnati Bengals">
     <display-name lang="en">Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
@@ -116,6 +107,12 @@
   </channel>
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
+  </channel>
+  <channel id="Milwaukee Brewers vs. Los Angeles Dodgers">
+    <display-name lang="en">Milwaukee Brewers vs. Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. Seattle Mariners">
+    <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
   </channel>
   <channel id="UFC Fight Night: De Ridder vs. Allen">
     <display-name lang="en">UFC Fight Night: De Ridder vs. Allen</display-name>
@@ -285,7 +282,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251015000000 -0500" channel="Clippers at Kings" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Mavericks at Lakers" stop="20251016235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -293,31 +290,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Mavericks at Lakers" stop="20251015235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="Chicago Blackhawks vs. St. Louis Blues" stop="20251015235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="Calgary Flames vs. Utah Mammoth" stop="20251015235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="Pittsburgh Steelers vs. Cincinnati Bengals" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Pittsburgh Steelers vs. Cincinnati Bengals" stop="20251016235959 -0500">
     <title>07:15 PM 16/10/25 - Pittsburgh Steelers vs. Cincinnati Bengals</title>
     <date>2025</date>
     <category>Sports</category>
@@ -325,7 +298,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Louisville Cardinals vs. Miami Hurricanes" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Louisville Cardinals vs. Miami Hurricanes" stop="20251016235959 -0500">
     <title>06:00 PM 17/10/25 - Louisville Cardinals vs. Miami Hurricanes</title>
     <date>2025</date>
     <category>Sports</category>
@@ -333,7 +306,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Nebraska Cornhuskers vs. Minnesota Golden Gophers" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Nebraska Cornhuskers vs. Minnesota Golden Gophers" stop="20251016235959 -0500">
     <title>07:00 PM 17/10/25 - Nebraska Cornhuskers vs. Minnesota Golden Gophers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -341,7 +314,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="LSU Tigers vs. Vanderbilt Commodores" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="LSU Tigers vs. Vanderbilt Commodores" stop="20251016235959 -0500">
     <title>11:00 AM 18/10/25 - LSU Tigers vs. Vanderbilt Commodores</title>
     <date>2025</date>
     <category>Sports</category>
@@ -349,7 +322,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Georgia Tech Yellow Jackets vs. Duke Blue Devils" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Georgia Tech Yellow Jackets vs. Duke Blue Devils" stop="20251016235959 -0500">
     <title>11:00 AM 18/10/25 - Georgia Tech Yellow Jackets vs. Duke Blue Devils</title>
     <date>2025</date>
     <category>Sports</category>
@@ -357,7 +330,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Oklahoma Sooners vs. South Carolina Gamecocks" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Oklahoma Sooners vs. South Carolina Gamecocks" stop="20251016235959 -0500">
     <title>11:45 AM 18/10/25 - Oklahoma Sooners vs. South Carolina Gamecocks</title>
     <date>2025</date>
     <category>Sports</category>
@@ -365,7 +338,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Ohio State Buckeyes vs. Wisconsin Badgers" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Ohio State Buckeyes vs. Wisconsin Badgers" stop="20251016235959 -0500">
     <title>02:30 PM 18/10/25 - Ohio State Buckeyes vs. Wisconsin Badgers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -373,7 +346,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Michigan State Spartans vs. Indiana Hoosiers" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Michigan State Spartans vs. Indiana Hoosiers" stop="20251016235959 -0500">
     <title>02:30 PM 18/10/25 - Michigan State Spartans vs. Indiana Hoosiers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -381,7 +354,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Texas A&amp;amp;M Aggies vs. Arkansas Razorbacks" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Texas A&amp;amp;M Aggies vs. Arkansas Razorbacks" stop="20251016235959 -0500">
     <title>02:30 PM 18/10/25 - Texas A&amp;amp;M Aggies vs. Arkansas Razorbacks</title>
     <date>2025</date>
     <category>Sports</category>
@@ -389,7 +362,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Ole Miss Rebels vs. Georgia Bulldogs" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Ole Miss Rebels vs. Georgia Bulldogs" stop="20251016235959 -0500">
     <title>02:30 PM 18/10/25 - Ole Miss Rebels vs. Georgia Bulldogs</title>
     <date>2025</date>
     <category>Sports</category>
@@ -397,7 +370,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Texas Tech Red Raiders vs. Arizona State Sun Devils" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Texas Tech Red Raiders vs. Arizona State Sun Devils" stop="20251016235959 -0500">
     <title>03:00 PM 18/10/25 - Texas Tech Red Raiders vs. Arizona State Sun Devils</title>
     <date>2025</date>
     <category>Sports</category>
@@ -405,7 +378,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Memphis Tigers vs. UAB Blazers" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Memphis Tigers vs. UAB Blazers" stop="20251016235959 -0500">
     <title>03:00 PM 18/10/25 - Memphis Tigers vs. UAB Blazers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -413,7 +386,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Oregon Ducks vs. Rutgers Scarlet Knights" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Oregon Ducks vs. Rutgers Scarlet Knights" stop="20251016235959 -0500">
     <title>05:30 PM 18/10/25 - Oregon Ducks vs. Rutgers Scarlet Knights</title>
     <date>2025</date>
     <category>Sports</category>
@@ -421,7 +394,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Washington State Cougars vs. Virginia Cavaliers" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Washington State Cougars vs. Virginia Cavaliers" stop="20251016235959 -0500">
     <title>05:30 PM 18/10/25 - Washington State Cougars vs. Virginia Cavaliers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -429,7 +402,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Texas Longhorns vs. Kentucky Wildcats" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Texas Longhorns vs. Kentucky Wildcats" stop="20251016235959 -0500">
     <title>06:00 PM 18/10/25 - Texas Longhorns vs. Kentucky Wildcats</title>
     <date>2025</date>
     <category>Sports</category>
@@ -437,7 +410,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Tennessee Volunteers vs. Alabama Crimson Tide" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Tennessee Volunteers vs. Alabama Crimson Tide" stop="20251016235959 -0500">
     <title>06:30 PM 18/10/25 - Tennessee Volunteers vs. Alabama Crimson Tide</title>
     <date>2025</date>
     <category>Sports</category>
@@ -445,7 +418,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="USC Trojans vs. Notre Dame Fighting Irish" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="USC Trojans vs. Notre Dame Fighting Irish" stop="20251016235959 -0500">
     <title>06:30 PM 18/10/25 - USC Trojans vs. Notre Dame Fighting Irish</title>
     <date>2025</date>
     <category>Sports</category>
@@ -453,7 +426,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Florida Atlantic Owls vs. South Florida Bulls" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Florida Atlantic Owls vs. South Florida Bulls" stop="20251016235959 -0500">
     <title>06:30 PM 18/10/25 - Florida Atlantic Owls vs. South Florida Bulls</title>
     <date>2025</date>
     <category>Sports</category>
@@ -461,7 +434,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Missouri Tigers vs. Auburn Tigers" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Missouri Tigers vs. Auburn Tigers" stop="20251016235959 -0500">
     <title>06:45 PM 18/10/25 - Missouri Tigers vs. Auburn Tigers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -469,7 +442,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Utah Utes vs. BYU Cougars" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Utah Utes vs. BYU Cougars" stop="20251016235959 -0500">
     <title>07:00 PM 18/10/25 - Utah Utes vs. BYU Cougars</title>
     <date>2025</date>
     <category>Sports</category>
@@ -477,7 +450,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Cincinnati Bearcats vs. Oklahoma State Cowboys" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Cincinnati Bearcats vs. Oklahoma State Cowboys" stop="20251016235959 -0500">
     <title>07:00 PM 18/10/25 - Cincinnati Bearcats vs. Oklahoma State Cowboys</title>
     <date>2025</date>
     <category>Sports</category>
@@ -485,7 +458,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Los Angeles Rams vs. Jacksonville Jaguars" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Los Angeles Rams vs. Jacksonville Jaguars" stop="20251016235959 -0500">
     <title>08:30 AM 19/10/25 - Los Angeles Rams vs. Jacksonville Jaguars</title>
     <date>2025</date>
     <category>Sports</category>
@@ -493,7 +466,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="New Orleans Saints vs. Chicago Bears" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="New Orleans Saints vs. Chicago Bears" stop="20251016235959 -0500">
     <title>12:00 PM 19/10/25 - New Orleans Saints vs. Chicago Bears</title>
     <date>2025</date>
     <category>Sports</category>
@@ -501,7 +474,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Miami Dolphins vs. Cleveland Browns" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Miami Dolphins vs. Cleveland Browns" stop="20251016235959 -0500">
     <title>12:00 PM 19/10/25 - Miami Dolphins vs. Cleveland Browns</title>
     <date>2025</date>
     <category>Sports</category>
@@ -509,7 +482,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="New England Patriots vs. Tennessee Titans" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="New England Patriots vs. Tennessee Titans" stop="20251016235959 -0500">
     <title>12:00 PM 19/10/25 - New England Patriots vs. Tennessee Titans</title>
     <date>2025</date>
     <category>Sports</category>
@@ -517,7 +490,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Las Vegas Raiders vs. Kansas City Chiefs" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Las Vegas Raiders vs. Kansas City Chiefs" stop="20251016235959 -0500">
     <title>12:00 PM 19/10/25 - Las Vegas Raiders vs. Kansas City Chiefs</title>
     <date>2025</date>
     <category>Sports</category>
@@ -525,7 +498,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Philadelphia Eagles vs. Minnesota Vikings" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Philadelphia Eagles vs. Minnesota Vikings" stop="20251016235959 -0500">
     <title>12:00 PM 19/10/25 - Philadelphia Eagles vs. Minnesota Vikings</title>
     <date>2025</date>
     <category>Sports</category>
@@ -533,7 +506,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Carolina Panthers vs. New York Jets" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Carolina Panthers vs. New York Jets" stop="20251016235959 -0500">
     <title>12:00 PM 19/10/25 - Carolina Panthers vs. New York Jets</title>
     <date>2025</date>
     <category>Sports</category>
@@ -541,7 +514,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="New York Giants vs. Denver Broncos" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="New York Giants vs. Denver Broncos" stop="20251016235959 -0500">
     <title>03:05 PM 19/10/25 - New York Giants vs. Denver Broncos</title>
     <date>2025</date>
     <category>Sports</category>
@@ -549,7 +522,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Indianapolis Colts vs. Los Angeles Chargers" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Indianapolis Colts vs. Los Angeles Chargers" stop="20251016235959 -0500">
     <title>03:05 PM 19/10/25 - Indianapolis Colts vs. Los Angeles Chargers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -557,7 +530,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Washington Commanders vs. Dallas Cowboys" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Washington Commanders vs. Dallas Cowboys" stop="20251016235959 -0500">
     <title>03:25 PM 19/10/25 - Washington Commanders vs. Dallas Cowboys</title>
     <date>2025</date>
     <category>Sports</category>
@@ -565,7 +538,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Green Bay Packers vs. Arizona Cardinals" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Green Bay Packers vs. Arizona Cardinals" stop="20251016235959 -0500">
     <title>03:25 PM 19/10/25 - Green Bay Packers vs. Arizona Cardinals</title>
     <date>2025</date>
     <category>Sports</category>
@@ -573,7 +546,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Atlanta Falcons vs. San Francisco 49ers" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Atlanta Falcons vs. San Francisco 49ers" stop="20251016235959 -0500">
     <title>07:20 PM 19/10/25 - Atlanta Falcons vs. San Francisco 49ers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -581,7 +554,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Tampa Bay Buccaneers vs. Detroit Lions" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Tampa Bay Buccaneers vs. Detroit Lions" stop="20251016235959 -0500">
     <title>06:00 PM 20/10/25 - Tampa Bay Buccaneers vs. Detroit Lions</title>
     <date>2025</date>
     <category>Sports</category>
@@ -589,7 +562,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Houston Texans vs. Seattle Seahawks" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Houston Texans vs. Seattle Seahawks" stop="20251016235959 -0500">
     <title>09:00 PM 20/10/25 - Houston Texans vs. Seattle Seahawks</title>
     <date>2025</date>
     <category>Sports</category>
@@ -597,7 +570,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="UFC Fight Night: De Ridder vs. Allen" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Milwaukee Brewers vs. Los Angeles Dodgers" stop="20251016235959 -0500">
+    <title>05:08 PM 16/10/25 - Milwaukee Brewers vs. Los Angeles Dodgers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20251016235959 -0500">
+    <title>07:33 PM 16/10/25 - Toronto Blue Jays vs. Seattle Mariners</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="UFC Fight Night: De Ridder vs. Allen" stop="20251016235959 -0500">
     <title>03:00 PM 18/10/25 - UFC Fight Night: De Ridder vs. Allen</title>
     <date>2025</date>
     <category>Sports</category>
@@ -605,7 +594,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Union Berlin vs. Gladbach" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Union Berlin vs. Gladbach" stop="20251016235959 -0500">
     <title>01:30 PM 17/10/25 - Union Berlin vs. Gladbach</title>
     <date>2025</date>
     <category>Sports</category>
@@ -613,7 +602,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="PSG vs. Strasbourg" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="PSG vs. Strasbourg" stop="20251016235959 -0500">
     <title>01:45 PM 17/10/25 - PSG vs. Strasbourg</title>
     <date>2025</date>
     <category>Sports</category>
@@ -621,7 +610,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Real Oviedo vs. RCD Espanyol de Barcelona" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Real Oviedo vs. RCD Espanyol de Barcelona" stop="20251016235959 -0500">
     <title>02:00 PM 17/10/25 - Real Oviedo vs. RCD Espanyol de Barcelona</title>
     <date>2025</date>
     <category>Sports</category>
@@ -629,7 +618,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Nottingham Forest vs. Chelsea" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Nottingham Forest vs. Chelsea" stop="20251016235959 -0500">
     <title>06:30 AM 18/10/25 - Nottingham Forest vs. Chelsea</title>
     <date>2025</date>
     <category>Sports</category>
@@ -637,7 +626,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Sevilla FC vs. RCD Mallorca" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Sevilla FC vs. RCD Mallorca" stop="20251016235959 -0500">
     <title>07:00 AM 18/10/25 - Sevilla FC vs. RCD Mallorca</title>
     <date>2025</date>
     <category>Sports</category>
@@ -645,7 +634,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Lecce vs. Sassuolo" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Lecce vs. Sassuolo" stop="20251016235959 -0500">
     <title>08:00 AM 18/10/25 - Lecce vs. Sassuolo</title>
     <date>2025</date>
     <category>Sports</category>
@@ -653,7 +642,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Pisa vs. Hellas Verona" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Pisa vs. Hellas Verona" stop="20251016235959 -0500">
     <title>08:00 AM 18/10/25 - Pisa vs. Hellas Verona</title>
     <date>2025</date>
     <category>Sports</category>
@@ -661,7 +650,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Heidenheim vs. Bremen" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Heidenheim vs. Bremen" stop="20251016235959 -0500">
     <title>08:30 AM 18/10/25 - Heidenheim vs. Bremen</title>
     <date>2025</date>
     <category>Sports</category>
@@ -669,7 +658,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Cologne vs. Augsburg" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Cologne vs. Augsburg" stop="20251016235959 -0500">
     <title>08:30 AM 18/10/25 - Cologne vs. Augsburg</title>
     <date>2025</date>
     <category>Sports</category>
@@ -677,7 +666,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Mainz vs. Leverkusen" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Mainz vs. Leverkusen" stop="20251016235959 -0500">
     <title>08:30 AM 18/10/25 - Mainz vs. Leverkusen</title>
     <date>2025</date>
     <category>Sports</category>
@@ -685,7 +674,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="RB Leipzig vs. Hamburg" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="RB Leipzig vs. Hamburg" stop="20251016235959 -0500">
     <title>08:30 AM 18/10/25 - RB Leipzig vs. Hamburg</title>
     <date>2025</date>
     <category>Sports</category>
@@ -693,7 +682,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Wolfsburg vs. Stuttgart" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Wolfsburg vs. Stuttgart" stop="20251016235959 -0500">
     <title>08:30 AM 18/10/25 - Wolfsburg vs. Stuttgart</title>
     <date>2025</date>
     <category>Sports</category>
@@ -701,7 +690,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Brighton and Hove Albion vs. Newcastle United" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Brighton and Hove Albion vs. Newcastle United" stop="20251016235959 -0500">
     <title>09:00 AM 18/10/25 - Brighton and Hove Albion vs. Newcastle United</title>
     <date>2025</date>
     <category>Sports</category>
@@ -709,7 +698,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Burnley vs. Leeds United" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Burnley vs. Leeds United" stop="20251016235959 -0500">
     <title>09:00 AM 18/10/25 - Burnley vs. Leeds United</title>
     <date>2025</date>
     <category>Sports</category>
@@ -717,7 +706,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Crystal Palace vs. Bournemouth" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Crystal Palace vs. Bournemouth" stop="20251016235959 -0500">
     <title>09:00 AM 18/10/25 - Crystal Palace vs. Bournemouth</title>
     <date>2025</date>
     <category>Sports</category>
@@ -725,7 +714,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Manchester City vs. Everton" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Manchester City vs. Everton" stop="20251016235959 -0500">
     <title>09:00 AM 18/10/25 - Manchester City vs. Everton</title>
     <date>2025</date>
     <category>Sports</category>
@@ -733,7 +722,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Sunderland vs. Wolverhampton Wanderers" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Sunderland vs. Wolverhampton Wanderers" stop="20251016235959 -0500">
     <title>09:00 AM 18/10/25 - Sunderland vs. Wolverhampton Wanderers</title>
     <date>2025</date>
     <category>Sports</category>
@@ -741,7 +730,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="FC Barcelona vs. Girona FC" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="FC Barcelona vs. Girona FC" stop="20251016235959 -0500">
     <title>09:15 AM 18/10/25 - FC Barcelona vs. Girona FC</title>
     <date>2025</date>
     <category>Sports</category>
@@ -749,7 +738,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="OGC Nice vs. OL" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="OGC Nice vs. OL" stop="20251016235959 -0500">
     <title>10:00 AM 18/10/25 - OGC Nice vs. OL</title>
     <date>2025</date>
     <category>Sports</category>
@@ -757,7 +746,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Torino vs. Napoli" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Torino vs. Napoli" stop="20251016235959 -0500">
     <title>11:00 AM 18/10/25 - Torino vs. Napoli</title>
     <date>2025</date>
     <category>Sports</category>
@@ -765,7 +754,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Fulham vs. Arsenal" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Fulham vs. Arsenal" stop="20251016235959 -0500">
     <title>11:30 AM 18/10/25 - Fulham vs. Arsenal</title>
     <date>2025</date>
     <category>Sports</category>
@@ -773,7 +762,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Villarreal CF vs. Real Betis" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Villarreal CF vs. Real Betis" stop="20251016235959 -0500">
     <title>11:30 AM 18/10/25 - Villarreal CF vs. Real Betis</title>
     <date>2025</date>
     <category>Sports</category>
@@ -781,7 +770,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Bayern vs. Dortmund" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Bayern vs. Dortmund" stop="20251016235959 -0500">
     <title>11:30 AM 18/10/25 - Bayern vs. Dortmund</title>
     <date>2025</date>
     <category>Sports</category>
@@ -789,7 +778,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Angers SCO vs. AS Monaco" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Angers SCO vs. AS Monaco" stop="20251016235959 -0500">
     <title>12:00 PM 18/10/25 - Angers SCO vs. AS Monaco</title>
     <date>2025</date>
     <category>Sports</category>
@@ -797,7 +786,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Roma vs. Inter" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Roma vs. Inter" stop="20251016235959 -0500">
     <title>01:45 PM 18/10/25 - Roma vs. Inter</title>
     <date>2025</date>
     <category>Sports</category>
@@ -805,7 +794,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Atl&#233;tico de Madrid vs. CA Osasuna" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Atl&#233;tico de Madrid vs. CA Osasuna" stop="20251016235959 -0500">
     <title>02:00 PM 18/10/25 - Atl&#233;tico de Madrid vs. CA Osasuna</title>
     <date>2025</date>
     <category>Sports</category>
@@ -813,7 +802,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="OM vs. Havre AC" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="OM vs. Havre AC" stop="20251016235959 -0500">
     <title>02:05 PM 18/10/25 - OM vs. Havre AC</title>
     <date>2025</date>
     <category>Sports</category>
@@ -821,7 +810,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Como vs. Juventus" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Como vs. Juventus" stop="20251016235959 -0500">
     <title>05:30 AM 19/10/25 - Como vs. Juventus</title>
     <date>2025</date>
     <category>Sports</category>
@@ -829,7 +818,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Elche CF vs. Athletic Club" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Elche CF vs. Athletic Club" stop="20251016235959 -0500">
     <title>07:00 AM 19/10/25 - Elche CF vs. Athletic Club</title>
     <date>2025</date>
     <category>Sports</category>
@@ -837,7 +826,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Tottenham Hotspur vs. Aston Villa" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Tottenham Hotspur vs. Aston Villa" stop="20251016235959 -0500">
     <title>08:00 AM 19/10/25 - Tottenham Hotspur vs. Aston Villa</title>
     <date>2025</date>
     <category>Sports</category>
@@ -845,7 +834,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="RC Lens vs. Paris FC" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="RC Lens vs. Paris FC" stop="20251016235959 -0500">
     <title>08:00 AM 19/10/25 - RC Lens vs. Paris FC</title>
     <date>2025</date>
     <category>Sports</category>
@@ -853,7 +842,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Cagliari vs. Bologna" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Cagliari vs. Bologna" stop="20251016235959 -0500">
     <title>08:00 AM 19/10/25 - Cagliari vs. Bologna</title>
     <date>2025</date>
     <category>Sports</category>
@@ -861,7 +850,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Genoa vs. Parma" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Genoa vs. Parma" stop="20251016235959 -0500">
     <title>08:00 AM 19/10/25 - Genoa vs. Parma</title>
     <date>2025</date>
     <category>Sports</category>
@@ -869,7 +858,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Freiburg vs. Frankfurt" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Freiburg vs. Frankfurt" stop="20251016235959 -0500">
     <title>08:30 AM 19/10/25 - Freiburg vs. Frankfurt</title>
     <date>2025</date>
     <category>Sports</category>
@@ -877,7 +866,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Celta vs. Real Sociedad" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Celta vs. Real Sociedad" stop="20251016235959 -0500">
     <title>09:15 AM 19/10/25 - Celta vs. Real Sociedad</title>
     <date>2025</date>
     <category>Sports</category>
@@ -885,7 +874,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="FC Lorient vs. Brest" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="FC Lorient vs. Brest" stop="20251016235959 -0500">
     <title>10:15 AM 19/10/25 - FC Lorient vs. Brest</title>
     <date>2025</date>
     <category>Sports</category>
@@ -893,7 +882,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Rennes vs. AJ Auxerre" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Rennes vs. AJ Auxerre" stop="20251016235959 -0500">
     <title>10:15 AM 19/10/25 - Rennes vs. AJ Auxerre</title>
     <date>2025</date>
     <category>Sports</category>
@@ -901,7 +890,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Toulouse FC vs. FC Metz" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Toulouse FC vs. FC Metz" stop="20251016235959 -0500">
     <title>10:15 AM 19/10/25 - Toulouse FC vs. FC Metz</title>
     <date>2025</date>
     <category>Sports</category>
@@ -909,7 +898,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Liverpool vs. Manchester United" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Liverpool vs. Manchester United" stop="20251016235959 -0500">
     <title>10:30 AM 19/10/25 - Liverpool vs. Manchester United</title>
     <date>2025</date>
     <category>Sports</category>
@@ -917,7 +906,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="St. Pauli vs. Hoffenheim" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="St. Pauli vs. Hoffenheim" stop="20251016235959 -0500">
     <title>10:30 AM 19/10/25 - St. Pauli vs. Hoffenheim</title>
     <date>2025</date>
     <category>Sports</category>
@@ -925,7 +914,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Atalanta vs. Lazio" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Atalanta vs. Lazio" stop="20251016235959 -0500">
     <title>11:00 AM 19/10/25 - Atalanta vs. Lazio</title>
     <date>2025</date>
     <category>Sports</category>
@@ -933,7 +922,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Levante UD vs. Rayo Vallecano" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Levante UD vs. Rayo Vallecano" stop="20251016235959 -0500">
     <title>11:30 AM 19/10/25 - Levante UD vs. Rayo Vallecano</title>
     <date>2025</date>
     <category>Sports</category>
@@ -941,7 +930,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="FC Nantes vs. LOSC" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="FC Nantes vs. LOSC" stop="20251016235959 -0500">
     <title>01:45 PM 19/10/25 - FC Nantes vs. LOSC</title>
     <date>2025</date>
     <category>Sports</category>
@@ -949,7 +938,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Milan vs. Fiorentina" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Milan vs. Fiorentina" stop="20251016235959 -0500">
     <title>01:45 PM 19/10/25 - Milan vs. Fiorentina</title>
     <date>2025</date>
     <category>Sports</category>
@@ -957,7 +946,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Getafe CF vs. Real Madrid" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Getafe CF vs. Real Madrid" stop="20251016235959 -0500">
     <title>02:00 PM 19/10/25 - Getafe CF vs. Real Madrid</title>
     <date>2025</date>
     <category>Sports</category>
@@ -965,7 +954,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Cremonese vs. Udinese" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Cremonese vs. Udinese" stop="20251016235959 -0500">
     <title>01:45 PM 20/10/25 - Cremonese vs. Udinese</title>
     <date>2025</date>
     <category>Sports</category>
@@ -973,7 +962,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251016235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
     <date>2025</date>
     <category>Sports</category>
@@ -981,7 +970,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="TNA: Impact" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="TNA: Impact" stop="20251016235959 -0500">
     <title>07:00 PM 16/10/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
@@ -989,7 +978,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="WWE: Friday Night Smackdown" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="WWE: Friday Night Smackdown" stop="20251016235959 -0500">
     <title>07:00 PM 17/10/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
@@ -997,7 +986,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="AEW: Saturday Night Collision" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="AEW: Saturday Night Collision" stop="20251016235959 -0500">
     <title>07:00 PM 18/10/25 - AEW: Saturday Night Collision</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1005,7 +994,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="24/7 South Park" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="24/7 South Park" stop="20251016235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1013,7 +1002,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="24/7 COWS" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="24/7 COWS" stop="20251016235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1021,7 +1010,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203; Guy" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203; Guy" stop="20251016235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1029,7 +1018,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="24/7 The Simpsons" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="24/7 The Simpsons" stop="20251016235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1037,7 +1026,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Master stream test" stop="20251015235959 -0500">
+  <programme start="20251016000000 -0500" channel="Master stream test" stop="20251016235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
