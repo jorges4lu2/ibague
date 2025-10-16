@@ -3,20 +3,17 @@
   <channel id="Toronto Blue Jays vs. Seattle Mariners">
     <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
   </channel>
-  <channel id="Raptors at Celtics">
-    <display-name lang="en">Raptors at Celtics</display-name>
-  </channel>
   <channel id="Clippers at Kings">
     <display-name lang="en">Clippers at Kings</display-name>
+  </channel>
+  <channel id="Mavericks at Lakers">
+    <display-name lang="en">Mavericks at Lakers</display-name>
   </channel>
   <channel id="Chicago Blackhawks vs. St. Louis Blues">
     <display-name lang="en">Chicago Blackhawks vs. St. Louis Blues</display-name>
   </channel>
   <channel id="Calgary Flames vs. Utah Mammoth">
     <display-name lang="en">Calgary Flames vs. Utah Mammoth</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="Pittsburgh Steelers vs. Cincinnati Bengals">
     <display-name lang="en">Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
@@ -122,9 +119,6 @@
   </channel>
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
-  </channel>
-  <channel id="Mavericks at Lakers">
-    <display-name lang="en">Mavericks at Lakers</display-name>
   </channel>
   <channel id="UFC Fight Night: De Ridder vs. Allen">
     <display-name lang="en">UFC Fight Night: De Ridder vs. Allen</display-name>
@@ -302,7 +296,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Raptors at Celtics" stop="20251015235959 -0500">
+  <programme start="20251015000000 -0500" channel="Clippers at Kings" stop="20251015235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -310,7 +304,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251015000000 -0500" channel="Clippers at Kings" stop="20251015235959 -0500">
+  <programme start="20251015000000 -0500" channel="Mavericks at Lakers" stop="20251015235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -327,14 +321,6 @@
     </audio>
   </programme>
   <programme start="20251015000000 -0500" channel="Calgary Flames vs. Utah Mammoth" stop="20251015235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20251015235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -616,14 +602,6 @@
   </programme>
   <programme start="20251015000000 -0500" channel="Houston Texans vs. Seattle Seahawks" stop="20251015235959 -0500">
     <title>09:00 PM 20/10/25 - Houston Texans vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251015000000 -0500" channel="Mavericks at Lakers" stop="20251015235959 -0500">
-    <title>09:30 PM 15/10/25 - Mavericks at Lakers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
