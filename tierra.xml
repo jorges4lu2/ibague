@@ -321,6 +321,21 @@
   <channel id="Pittsburgh Penguins vs. Los Angeles Kings">
     <display-name lang="en">Pittsburgh Penguins vs. Los Angeles Kings</display-name>
   </channel>
+  <channel id="United States Grand Prix (FP1)">
+    <display-name lang="en">United States Grand Prix (FP1)</display-name>
+  </channel>
+  <channel id="United States Grand Prix (Sprint Qualifying)">
+    <display-name lang="en">United States Grand Prix (Sprint Qualifying)</display-name>
+  </channel>
+  <channel id="United States Grand Prix (Sprint)">
+    <display-name lang="en">United States Grand Prix (Sprint)</display-name>
+  </channel>
+  <channel id="United States Grand Prix (Qualifying)">
+    <display-name lang="en">United States Grand Prix (Qualifying)</display-name>
+  </channel>
+  <channel id="United States Grand Prix (Race)">
+    <display-name lang="en">United States Grand Prix (Race)</display-name>
+  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
@@ -1195,6 +1210,46 @@
   </programme>
   <programme start="20251016000000 -0500" channel="Pittsburgh Penguins vs. Los Angeles Kings" stop="20251016235959 -0500">
     <title>09:00 PM 16/10/25 - Pittsburgh Penguins vs. Los Angeles Kings</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="United States Grand Prix (FP1)" stop="20251016235959 -0500">
+    <title>12:30 PM 17/10/25 - United States Grand Prix (FP1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="United States Grand Prix (Sprint Qualifying)" stop="20251016235959 -0500">
+    <title>04:30 PM 17/10/25 - United States Grand Prix (Sprint Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="United States Grand Prix (Sprint)" stop="20251016235959 -0500">
+    <title>12:00 PM 18/10/25 - United States Grand Prix (Sprint)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="United States Grand Prix (Qualifying)" stop="20251016235959 -0500">
+    <title>04:00 PM 18/10/25 - United States Grand Prix (Qualifying)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="United States Grand Prix (Race)" stop="20251016235959 -0500">
+    <title>02:00 PM 19/10/25 - United States Grand Prix (Race)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
