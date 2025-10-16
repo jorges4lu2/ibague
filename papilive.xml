@@ -1,10 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251016 -0500">
-  <channel id="06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [EVENT PPV]">
-    <display-name lang="en">06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [EVENT PPV]</display-name>
+  <channel id="06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [FLORACING]">
+    <display-name lang="en">06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [FLORACING]</display-name>
   </channel>
-  <channel id="06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [EVENT PPV]">
-    <display-name lang="en">06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [EVENT PPV]</display-name>
+  <channel id="06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [FLORACING PPV]">
+    <display-name lang="en">06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [FLORACING PPV]</display-name>
+  </channel>
+  <channel id="07:00PM| OVW Live #1366 (10/17/25) [TRILLER TV]">
+    <display-name lang="en">07:00PM| OVW Live #1366 (10/17/25) [TRILLER TV]</display-name>
+  </channel>
+  <channel id="06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [FLORACING]">
+    <display-name lang="en">06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [FLORACING]</display-name>
+  </channel>
+  <channel id="06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [FLORACING PPV]">
+    <display-name lang="en">06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [FLORACING PPV]</display-name>
+  </channel>
+  <channel id="07:30PM| 2025 Trophy Cup at Tulare Thunderbowl Raceway (10/17/25) [FLORACING]">
+    <display-name lang="en">07:30PM| 2025 Trophy Cup at Tulare Thunderbowl Raceway (10/17/25) [FLORACING]</display-name>
   </channel>
   <channel id="08:00AM| Spidey and Iron Man: Avengers Team-Up! (10/17/25) [DISNEY JR]">
     <display-name lang="en">08:00AM| Spidey and Iron Man: Avengers Team-Up! (10/17/25) [DISNEY JR]</display-name>
@@ -3714,16 +3726,48 @@
   <channel id="07:00PM| Swimming WC: Westmont Day 1 (10/18/25) [SPORT 5 PLUS ISRAEL]">
     <display-name lang="en">07:00PM| Swimming WC: Westmont Day 1 (10/18/25) [SPORT 5 PLUS ISRAEL]</display-name>
   </channel>
-  <programme start="20251016000000 -0500" channel="06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [EVENT PPV]" stop="20251016235959 -0500">
-    <title>05:00 PM - 06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [EVENT PPV]</title>
+  <programme start="20251016000000 -0500" channel="06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [FLORACING]" stop="20251016235959 -0500">
+    <title>05:00 PM - 06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [FLORACING]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251016000000 -0500" channel="06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [EVENT PPV]" stop="20251016235959 -0500">
-    <title>05:30 PM - 06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [EVENT PPV]</title>
+  <programme start="20251016000000 -0500" channel="06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [FLORACING PPV]" stop="20251016235959 -0500">
+    <title>05:00 PM - 06:00PM| 2025 Dirt Track World Championship at Eldora Speedway (10/17/25) [FLORACING PPV]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="07:00PM| OVW Live #1366 (10/17/25) [TRILLER TV]" stop="20251016235959 -0500">
+    <title>06:00 PM - 07:00PM| OVW Live #1366 (10/17/25) [TRILLER TV]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [FLORACING]" stop="20251016235959 -0500">
+    <title>05:30 PM - 06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [FLORACING]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [FLORACING PPV]" stop="20251016235959 -0500">
+    <title>05:30 PM - 06:30PM| KKM Giveback Classic at Port City Raceway (10/17/25) [FLORACING PPV]</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="07:30PM| 2025 Trophy Cup at Tulare Thunderbowl Raceway (10/17/25) [FLORACING]" stop="20251016235959 -0500">
+    <title>06:30 PM - 07:30PM| 2025 Trophy Cup at Tulare Thunderbowl Raceway (10/17/25) [FLORACING]</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
