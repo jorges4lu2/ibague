@@ -1,10 +1,25 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251017 -0500">
-  <channel id="United States Grand Prix (Sprint Qualifying)">
-    <display-name lang="en">United States Grand Prix (Sprint Qualifying)</display-name>
-  </channel>
   <channel id="Louisville Cardinals vs. Miami Hurricanes">
     <display-name lang="en">Louisville Cardinals vs. Miami Hurricanes</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. Seattle Mariners">
+    <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
+  </channel>
+  <channel id="Nets at Raptors">
+    <display-name lang="en">Nets at Raptors</display-name>
+  </channel>
+  <channel id="Timberwolves at 76ers">
+    <display-name lang="en">Timberwolves at 76ers</display-name>
+  </channel>
+  <channel id="Tampa Bay Lightning vs. Detroit Red Wings">
+    <display-name lang="en">Tampa Bay Lightning vs. Detroit Red Wings</display-name>
+  </channel>
+  <channel id="Minnesota Wild vs. Washington Capitals">
+    <display-name lang="en">Minnesota Wild vs. Washington Capitals</display-name>
+  </channel>
+  <channel id="United States Grand Prix (Sprint Qualifying)">
+    <display-name lang="en">United States Grand Prix (Sprint Qualifying)</display-name>
   </channel>
   <channel id="Nebraska Cornhuskers vs. Minnesota Golden Gophers">
     <display-name lang="en">Nebraska Cornhuskers vs. Minnesota Golden Gophers</display-name>
@@ -105,17 +120,8 @@
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
   </channel>
-  <channel id="Toronto Blue Jays vs. Seattle Mariners">
-    <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
-  </channel>
   <channel id="Milwaukee Brewers vs. Los Angeles Dodgers">
     <display-name lang="en">Milwaukee Brewers vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Nets at Raptors">
-    <display-name lang="en">Nets at Raptors</display-name>
-  </channel>
-  <channel id="Timberwolves at 76ers">
-    <display-name lang="en">Timberwolves at 76ers</display-name>
   </channel>
   <channel id="Hornets at Knicks">
     <display-name lang="en">Hornets at Knicks</display-name>
@@ -282,12 +288,6 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
-  <channel id="Tampa Bay Lightning vs. Detroit Red Wings">
-    <display-name lang="en">Tampa Bay Lightning vs. Detroit Red Wings</display-name>
-  </channel>
-  <channel id="Minnesota Wild vs. Washington Capitals">
-    <display-name lang="en">Minnesota Wild vs. Washington Capitals</display-name>
-  </channel>
   <channel id="Vancouver Canucks vs. Chicago Blackhawks">
     <display-name lang="en">Vancouver Canucks vs. Chicago Blackhawks</display-name>
   </channel>
@@ -324,7 +324,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251017000000 -0500" channel="United States Grand Prix (Sprint Qualifying)" stop="20251017235959 -0500">
+  <programme start="20251017000000 -0500" channel="Louisville Cardinals vs. Miami Hurricanes" stop="20251017235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -332,8 +332,48 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251017000000 -0500" channel="Louisville Cardinals vs. Miami Hurricanes" stop="20251017235959 -0500">
-    <title>06:00 PM 17/10/25 - Louisville Cardinals vs. Miami Hurricanes</title>
+  <programme start="20251017000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="Nets at Raptors" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="Timberwolves at 76ers" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="Tampa Bay Lightning vs. Detroit Red Wings" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="Minnesota Wild vs. Washington Capitals" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="United States Grand Prix (Sprint Qualifying)" stop="20251017235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -604,32 +644,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251017000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20251017235959 -0500">
-    <title>05:08 PM 17/10/25 - Toronto Blue Jays vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251017000000 -0500" channel="Milwaukee Brewers vs. Los Angeles Dodgers" stop="20251017235959 -0500">
     <title>07:38 PM 17/10/25 - Milwaukee Brewers vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="Nets at Raptors" stop="20251017235959 -0500">
-    <title>06:00 PM 17/10/25 - Nets at Raptors</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="Timberwolves at 76ers" stop="20251017235959 -0500">
-    <title>06:00 PM 17/10/25 - Timberwolves at 76ers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1070,22 +1086,6 @@
   </programme>
   <programme start="20251017000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251017235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="Tampa Bay Lightning vs. Detroit Red Wings" stop="20251017235959 -0500">
-    <title>06:00 PM 17/10/25 - Tampa Bay Lightning vs. Detroit Red Wings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="Minnesota Wild vs. Washington Capitals" stop="20251017235959 -0500">
-    <title>06:00 PM 17/10/25 - Minnesota Wild vs. Washington Capitals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
