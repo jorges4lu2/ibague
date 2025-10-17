@@ -3,6 +3,15 @@
   <channel id="PDC: German Darts Championship (Day 1 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 1 Evening)</display-name>
   </channel>
+  <channel id="Union Berlin vs. Gladbach">
+    <display-name lang="en">Union Berlin vs. Gladbach</display-name>
+  </channel>
+  <channel id="PSG vs. Strasbourg">
+    <display-name lang="en">PSG vs. Strasbourg</display-name>
+  </channel>
+  <channel id="Real Oviedo vs. RCD Espanyol de Barcelona">
+    <display-name lang="en">Real Oviedo vs. RCD Espanyol de Barcelona</display-name>
+  </channel>
   <channel id="United States Grand Prix (FP1)">
     <display-name lang="en">United States Grand Prix (FP1)</display-name>
   </channel>
@@ -152,15 +161,6 @@
   </channel>
   <channel id="PDC: German Darts Championship (Day 3 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 3 Evening)</display-name>
-  </channel>
-  <channel id="Union Berlin vs. Gladbach">
-    <display-name lang="en">Union Berlin vs. Gladbach</display-name>
-  </channel>
-  <channel id="PSG vs. Strasbourg">
-    <display-name lang="en">PSG vs. Strasbourg</display-name>
-  </channel>
-  <channel id="Real Oviedo vs. RCD Espanyol de Barcelona">
-    <display-name lang="en">Real Oviedo vs. RCD Espanyol de Barcelona</display-name>
   </channel>
   <channel id="Nottingham Forest vs. Chelsea">
     <display-name lang="en">Nottingham Forest vs. Chelsea</display-name>
@@ -340,6 +340,30 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20251017000000 -0500" channel="PDC: German Darts Championship (Day 1 Evening)" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="Union Berlin vs. Gladbach" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="PSG vs. Strasbourg" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="Real Oviedo vs. RCD Espanyol de Barcelona" stop="20251017235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -741,30 +765,6 @@
   </programme>
   <programme start="20251017000000 -0500" channel="PDC: German Darts Championship (Day 3 Evening)" stop="20251017235959 -0500">
     <title>12:00 PM 19/10/25 - PDC: German Darts Championship (Day 3 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="Union Berlin vs. Gladbach" stop="20251017235959 -0500">
-    <title>01:30 PM 17/10/25 - Union Berlin vs. Gladbach</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="PSG vs. Strasbourg" stop="20251017235959 -0500">
-    <title>01:45 PM 17/10/25 - PSG vs. Strasbourg</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="Real Oviedo vs. RCD Espanyol de Barcelona" stop="20251017235959 -0500">
-    <title>02:00 PM 17/10/25 - Real Oviedo vs. RCD Espanyol de Barcelona</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
