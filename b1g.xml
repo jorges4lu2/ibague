@@ -174,9 +174,6 @@
   <channel id="USA | NHL Game 03&#9447;: Utah Mammoth vs San Jose Sharks | Fri 17th Oct 9:00 PM ET">
     <display-name lang="en">USA | NHL Game 03&#9447;: Utah Mammoth vs San Jose Sharks | Fri 17th Oct 9:00 PM ET</display-name>
   </channel>
-  <channel id="USA | NHL Game 06&#9447;: New York Islanders vs Edmonton Oilers | Thu 16th Oct 7:30 PM ET">
-    <display-name lang="en">USA | NHL Game 06&#9447;: New York Islanders vs Edmonton Oilers | Thu 16th Oct 7:30 PM ET</display-name>
-  </channel>
   <channel id="L1 Pass 01 | PSG vs Strasbourg (Fri 19:45 UK)">
     <display-name lang="en">L1 Pass 01 | PSG vs Strasbourg (Fri 19:45 UK)</display-name>
   </channel>
@@ -1269,8 +1266,14 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 - Millbridge Speedway 6:15 pm">
-    <display-name lang="en">DIRTVISION 01 - Millbridge Speedway 6:15 pm</display-name>
+  <channel id="DIRTVISION 01 - Brockville Ontario Speedway 4:45 pm">
+    <display-name lang="en">DIRTVISION 01 - Brockville Ontario Speedway 4:45 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 02 - Lincoln Park Speedway 6:15 PM">
+    <display-name lang="en">DIRTVISION 02 - Lincoln Park Speedway 6:15 PM</display-name>
+  </channel>
+  <channel id="DIRTVISION 03 - Tulsa Speedway 7:45 PM">
+    <display-name lang="en">DIRTVISION 03 - Tulsa Speedway 7:45 PM</display-name>
   </channel>
   <channel id="Super League Plus | Event 1 Hull KR v St Helens // UK Sat 4 Oct 5:25pm // ET Sat 4 Oct 12:25pm">
     <display-name lang="en">Super League Plus | Event 1 Hull KR v St Helens // UK Sat 4 Oct 5:25pm // ET Sat 4 Oct 12:25pm</display-name>
@@ -1460,6 +1463,9 @@
   </channel>
   <channel id="LIVE EVENT 15 - 7:30PM Trophy Cup Tulare Thunderbowl">
     <display-name lang="en">LIVE EVENT 15 - 7:30PM Trophy Cup Tulare Thunderbowl</display-name>
+  </channel>
+  <channel id="LIVE EVENT 16 - 7:45PM American Sprint Car Series Tulsa">
+    <display-name lang="en">LIVE EVENT 16 - 7:45PM American Sprint Car Series Tulsa</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -2615,14 +2621,6 @@
   </programme>
   <programme start="20251017000000 -0500" channel="USA | NHL Game 03&#9447;: Utah Mammoth vs San Jose Sharks | Fri 17th Oct 9:00 PM ET" stop="20251017235959 -0500">
     <title>08:00 PM - USA | NHL Game 03&#9447;: Utah Mammoth vs San Jose Sharks | Fri 17th Oct 9:00 PM ET</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="USA | NHL Game 06&#9447;: New York Islanders vs Edmonton Oilers | Thu 16th Oct 7:30 PM ET" stop="20251017235959 -0500">
-    <title>06:30 PM - USA | NHL Game 06&#9447;: New York Islanders vs Edmonton Oilers | Thu 16th Oct 7:30 PM ET</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -5541,8 +5539,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251017000000 -0500" channel="DIRTVISION 01 - Millbridge Speedway 6:15 pm" stop="20251017235959 -0500">
-    <title>05:15 PM - DIRTVISION 01 - Millbridge Speedway 6:15 pm</title>
+  <programme start="20251017000000 -0500" channel="DIRTVISION 01 - Brockville Ontario Speedway 4:45 pm" stop="20251017235959 -0500">
+    <title>03:45 PM - DIRTVISION 01 - Brockville Ontario Speedway 4:45 pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="DIRTVISION 02 - Lincoln Park Speedway 6:15 PM" stop="20251017235959 -0500">
+    <title>05:15 PM - DIRTVISION 02 - Lincoln Park Speedway 6:15 PM</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="DIRTVISION 03 - Tulsa Speedway 7:45 PM" stop="20251017235959 -0500">
+    <title>06:45 PM - DIRTVISION 03 - Tulsa Speedway 7:45 PM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -6047,6 +6061,14 @@
   </programme>
   <programme start="20251017000000 -0500" channel="LIVE EVENT 15 - 7:30PM Trophy Cup Tulare Thunderbowl" stop="20251017235959 -0500">
     <title>06:30 PM - LIVE EVENT 15 - 7:30PM Trophy Cup Tulare Thunderbowl</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="LIVE EVENT 16 - 7:45PM American Sprint Car Series Tulsa" stop="20251017235959 -0500">
+    <title>06:45 PM - LIVE EVENT 16 - 7:45PM American Sprint Car Series Tulsa</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
