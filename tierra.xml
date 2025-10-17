@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251016 -0500">
+  <channel id="Pittsburgh Steelers vs. Cincinnati Bengals">
+    <display-name lang="en">Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
+  </channel>
   <channel id="Milwaukee Brewers vs. Los Angeles Dodgers">
     <display-name lang="en">Milwaukee Brewers vs. Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="Toronto Blue Jays vs. Seattle Mariners">
+    <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
   </channel>
   <channel id="Pelicans at Magic">
     <display-name lang="en">Pelicans at Magic</display-name>
@@ -14,6 +20,9 @@
   </channel>
   <channel id="Timberwolves at Bulls">
     <display-name lang="en">Timberwolves at Bulls</display-name>
+  </channel>
+  <channel id="Trail Blazers at Jazz">
+    <display-name lang="en">Trail Blazers at Jazz</display-name>
   </channel>
   <channel id="New York Rangers vs. Toronto Maple Leafs">
     <display-name lang="en">New York Rangers vs. Toronto Maple Leafs</display-name>
@@ -41,9 +50,6 @@
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
-  </channel>
-  <channel id="Pittsburgh Steelers vs. Cincinnati Bengals">
-    <display-name lang="en">Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
   </channel>
   <channel id="Louisville Cardinals vs. Miami Hurricanes">
     <display-name lang="en">Louisville Cardinals vs. Miami Hurricanes</display-name>
@@ -146,12 +152,6 @@
   </channel>
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Seattle Mariners">
-    <display-name lang="en">Toronto Blue Jays vs. Seattle Mariners</display-name>
-  </channel>
-  <channel id="Trail Blazers at Jazz">
-    <display-name lang="en">Trail Blazers at Jazz</display-name>
   </channel>
   <channel id="UFC Fight Night: De Ridder vs. Allen">
     <display-name lang="en">UFC Fight Night: De Ridder vs. Allen</display-name>
@@ -360,7 +360,23 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251016000000 -0500" channel="Pittsburgh Steelers vs. Cincinnati Bengals" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251016000000 -0500" channel="Milwaukee Brewers vs. Los Angeles Dodgers" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20251016235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -393,6 +409,14 @@
     </audio>
   </programme>
   <programme start="20251016000000 -0500" channel="Timberwolves at Bulls" stop="20251016235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251016000000 -0500" channel="Trail Blazers at Jazz" stop="20251016235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -466,14 +490,6 @@
   </programme>
   <programme start="20251016000000 -0500" channel="TNA: Impact" stop="20251016235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="Pittsburgh Steelers vs. Cincinnati Bengals" stop="20251016235959 -0500">
-    <title>07:15 PM 16/10/25 - Pittsburgh Steelers vs. Cincinnati Bengals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -746,22 +762,6 @@
   </programme>
   <programme start="20251016000000 -0500" channel="Houston Texans vs. Seattle Seahawks" stop="20251016235959 -0500">
     <title>09:00 PM 20/10/25 - Houston Texans vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="Toronto Blue Jays vs. Seattle Mariners" stop="20251016235959 -0500">
-    <title>07:33 PM 16/10/25 - Toronto Blue Jays vs. Seattle Mariners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251016000000 -0500" channel="Trail Blazers at Jazz" stop="20251016235959 -0500">
-    <title>08:00 PM 16/10/25 - Trail Blazers at Jazz</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
