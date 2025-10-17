@@ -3,6 +3,9 @@
   <channel id="PDC: German Darts Championship (Day 1 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 1 Evening)</display-name>
   </channel>
+  <channel id="United States Grand Prix (FP1)">
+    <display-name lang="en">United States Grand Prix (FP1)</display-name>
+  </channel>
   <channel id="Louisville Cardinals vs. Miami Hurricanes">
     <display-name lang="en">Louisville Cardinals vs. Miami Hurricanes</display-name>
   </channel>
@@ -303,9 +306,6 @@
   <channel id="San Jose Sharks vs. Utah Mammoth">
     <display-name lang="en">San Jose Sharks vs. Utah Mammoth</display-name>
   </channel>
-  <channel id="United States Grand Prix (FP1)">
-    <display-name lang="en">United States Grand Prix (FP1)</display-name>
-  </channel>
   <channel id="United States Grand Prix (Sprint Qualifying)">
     <display-name lang="en">United States Grand Prix (Sprint Qualifying)</display-name>
   </channel>
@@ -340,6 +340,14 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20251017000000 -0500" channel="PDC: German Darts Championship (Day 1 Evening)" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="United States Grand Prix (FP1)" stop="20251017235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1141,14 +1149,6 @@
   </programme>
   <programme start="20251017000000 -0500" channel="San Jose Sharks vs. Utah Mammoth" stop="20251017235959 -0500">
     <title>08:00 PM 17/10/25 - San Jose Sharks vs. Utah Mammoth</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="United States Grand Prix (FP1)" stop="20251017235959 -0500">
-    <title>12:30 PM 17/10/25 - United States Grand Prix (FP1)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
