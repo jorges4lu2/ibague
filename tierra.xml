@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251017 -0500">
+  <channel id="PDC: German Darts Championship (Day 1 Evening)">
+    <display-name lang="en">PDC: German Darts Championship (Day 1 Evening)</display-name>
+  </channel>
   <channel id="Louisville Cardinals vs. Miami Hurricanes">
     <display-name lang="en">Louisville Cardinals vs. Miami Hurricanes</display-name>
   </channel>
@@ -134,9 +137,6 @@
   </channel>
   <channel id="UFC Fight Night: De Ridder vs. Allen">
     <display-name lang="en">UFC Fight Night: De Ridder vs. Allen</display-name>
-  </channel>
-  <channel id="PDC: German Darts Championship (Day 1 Evening)">
-    <display-name lang="en">PDC: German Darts Championship (Day 1 Evening)</display-name>
   </channel>
   <channel id="PDC: German Darts Championship (Day 2 Afternoon)">
     <display-name lang="en">PDC: German Darts Championship (Day 2 Afternoon)</display-name>
@@ -291,6 +291,18 @@
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
   </channel>
+  <channel id="Tampa Bay Lightning vs. Detroit Red Wings">
+    <display-name lang="en">Tampa Bay Lightning vs. Detroit Red Wings</display-name>
+  </channel>
+  <channel id="Minnesota Wild vs. Washington Capitals">
+    <display-name lang="en">Minnesota Wild vs. Washington Capitals</display-name>
+  </channel>
+  <channel id="Vancouver Canucks vs. Chicago Blackhawks">
+    <display-name lang="en">Vancouver Canucks vs. Chicago Blackhawks</display-name>
+  </channel>
+  <channel id="San Jose Sharks vs. Utah Mammoth">
+    <display-name lang="en">San Jose Sharks vs. Utah Mammoth</display-name>
+  </channel>
   <channel id="United States Grand Prix (FP1)">
     <display-name lang="en">United States Grand Prix (FP1)</display-name>
   </channel>
@@ -327,6 +339,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251017000000 -0500" channel="PDC: German Darts Championship (Day 1 Evening)" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251017000000 -0500" channel="Louisville Cardinals vs. Miami Hurricanes" stop="20251017235959 -0500">
     <title>06:00 PM 17/10/25 - Louisville Cardinals vs. Miami Hurricanes</title>
     <date>2025</date>
@@ -681,14 +701,6 @@
   </programme>
   <programme start="20251017000000 -0500" channel="UFC Fight Night: De Ridder vs. Allen" stop="20251017235959 -0500">
     <title>03:00 PM 18/10/25 - UFC Fight Night: De Ridder vs. Allen</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="PDC: German Darts Championship (Day 1 Evening)" stop="20251017235959 -0500">
-    <title>12:00 PM 17/10/25 - PDC: German Darts Championship (Day 1 Evening)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1097,6 +1109,38 @@
   </programme>
   <programme start="20251017000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251017235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="Tampa Bay Lightning vs. Detroit Red Wings" stop="20251017235959 -0500">
+    <title>06:00 PM 17/10/25 - Tampa Bay Lightning vs. Detroit Red Wings</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="Minnesota Wild vs. Washington Capitals" stop="20251017235959 -0500">
+    <title>06:00 PM 17/10/25 - Minnesota Wild vs. Washington Capitals</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="Vancouver Canucks vs. Chicago Blackhawks" stop="20251017235959 -0500">
+    <title>07:30 PM 17/10/25 - Vancouver Canucks vs. Chicago Blackhawks</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="San Jose Sharks vs. Utah Mammoth" stop="20251017235959 -0500">
+    <title>08:00 PM 17/10/25 - San Jose Sharks vs. Utah Mammoth</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
