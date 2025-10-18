@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251018 -0500">
-  <channel id="PDC: German Darts Championship (Day 2 Afternoon)">
-    <display-name lang="en">PDC: German Darts Championship (Day 2 Afternoon)</display-name>
-  </channel>
-  <channel id="Nottingham Forest vs. Chelsea">
-    <display-name lang="en">Nottingham Forest vs. Chelsea</display-name>
-  </channel>
-  <channel id="Sevilla FC vs. RCD Mallorca">
-    <display-name lang="en">Sevilla FC vs. RCD Mallorca</display-name>
-  </channel>
   <channel id="Lecce vs. Sassuolo">
     <display-name lang="en">Lecce vs. Sassuolo</display-name>
   </channel>
@@ -48,6 +39,12 @@
   <channel id="Sunderland vs. Wolverhampton Wanderers">
     <display-name lang="en">Sunderland vs. Wolverhampton Wanderers</display-name>
   </channel>
+  <channel id="FC Barcelona vs. Girona FC">
+    <display-name lang="en">FC Barcelona vs. Girona FC</display-name>
+  </channel>
+  <channel id="OGC Nice vs. OL">
+    <display-name lang="en">OGC Nice vs. OL</display-name>
+  </channel>
   <channel id="LSU Tigers vs. Vanderbilt Commodores">
     <display-name lang="en">LSU Tigers vs. Vanderbilt Commodores</display-name>
   </channel>
@@ -77,9 +74,6 @@
   </channel>
   <channel id="Oregon Ducks vs. Rutgers Scarlet Knights">
     <display-name lang="en">Oregon Ducks vs. Rutgers Scarlet Knights</display-name>
-  </channel>
-  <channel id="Washington State Cougars vs. Virginia Cavaliers">
-    <display-name lang="en">Washington State Cougars vs. Virginia Cavaliers</display-name>
   </channel>
   <channel id="Texas Longhorns vs. Kentucky Wildcats">
     <display-name lang="en">Texas Longhorns vs. Kentucky Wildcats</display-name>
@@ -155,12 +149,6 @@
   </channel>
   <channel id="PDC: German Darts Championship (Day 3 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 3 Evening)</display-name>
-  </channel>
-  <channel id="FC Barcelona vs. Girona FC">
-    <display-name lang="en">FC Barcelona vs. Girona FC</display-name>
-  </channel>
-  <channel id="OGC Nice vs. OL">
-    <display-name lang="en">OGC Nice vs. OL</display-name>
   </channel>
   <channel id="Torino vs. Napoli">
     <display-name lang="en">Torino vs. Napoli</display-name>
@@ -273,30 +261,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251018000000 -0500" channel="PDC: German Darts Championship (Day 2 Afternoon)" stop="20251018235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Nottingham Forest vs. Chelsea" stop="20251018235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Sevilla FC vs. RCD Mallorca" stop="20251018235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251018000000 -0500" channel="Lecce vs. Sassuolo" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -401,6 +365,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251018000000 -0500" channel="FC Barcelona vs. Girona FC" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="OGC Nice vs. OL" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251018000000 -0500" channel="LSU Tigers vs. Vanderbilt Commodores" stop="20251018235959 -0500">
     <title>11:00 AM 18/10/25 - LSU Tigers vs. Vanderbilt Commodores</title>
     <date>2025</date>
@@ -475,14 +455,6 @@
   </programme>
   <programme start="20251018000000 -0500" channel="Oregon Ducks vs. Rutgers Scarlet Knights" stop="20251018235959 -0500">
     <title>05:30 PM 18/10/25 - Oregon Ducks vs. Rutgers Scarlet Knights</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Washington State Cougars vs. Virginia Cavaliers" stop="20251018235959 -0500">
-    <title>05:30 PM 18/10/25 - Washington State Cougars vs. Virginia Cavaliers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -683,22 +655,6 @@
   </programme>
   <programme start="20251018000000 -0500" channel="PDC: German Darts Championship (Day 3 Evening)" stop="20251018235959 -0500">
     <title>12:00 PM 19/10/25 - PDC: German Darts Championship (Day 3 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="FC Barcelona vs. Girona FC" stop="20251018235959 -0500">
-    <title>09:15 AM 18/10/25 - FC Barcelona vs. Girona FC</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="OGC Nice vs. OL" stop="20251018235959 -0500">
-    <title>10:00 AM 18/10/25 - OGC Nice vs. OL</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
