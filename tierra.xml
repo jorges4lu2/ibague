@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251018 -0500">
-  <channel id="Lecce vs. Sassuolo">
-    <display-name lang="en">Lecce vs. Sassuolo</display-name>
+  <channel id="LSU Tigers vs. Vanderbilt Commodores">
+    <display-name lang="en">LSU Tigers vs. Vanderbilt Commodores</display-name>
   </channel>
-  <channel id="Pisa vs. Hellas Verona">
-    <display-name lang="en">Pisa vs. Hellas Verona</display-name>
+  <channel id="Georgia Tech Yellow Jackets vs. Duke Blue Devils">
+    <display-name lang="en">Georgia Tech Yellow Jackets vs. Duke Blue Devils</display-name>
+  </channel>
+  <channel id="OKTAGON 78 (English)">
+    <display-name lang="en">OKTAGON 78 (English)</display-name>
+  </channel>
+  <channel id="OKTAGON 78 (German)">
+    <display-name lang="en">OKTAGON 78 (German)</display-name>
+  </channel>
+  <channel id="OKTAGON 78 (Czech)">
+    <display-name lang="en">OKTAGON 78 (Czech)</display-name>
   </channel>
   <channel id="Heidenheim vs. Bremen">
     <display-name lang="en">Heidenheim vs. Bremen</display-name>
@@ -45,11 +54,8 @@
   <channel id="OGC Nice vs. OL">
     <display-name lang="en">OGC Nice vs. OL</display-name>
   </channel>
-  <channel id="LSU Tigers vs. Vanderbilt Commodores">
-    <display-name lang="en">LSU Tigers vs. Vanderbilt Commodores</display-name>
-  </channel>
-  <channel id="Georgia Tech Yellow Jackets vs. Duke Blue Devils">
-    <display-name lang="en">Georgia Tech Yellow Jackets vs. Duke Blue Devils</display-name>
+  <channel id="Torino vs. Napoli">
+    <display-name lang="en">Torino vs. Napoli</display-name>
   </channel>
   <channel id="Oklahoma Sooners vs. South Carolina Gamecocks">
     <display-name lang="en">Oklahoma Sooners vs. South Carolina Gamecocks</display-name>
@@ -149,9 +155,6 @@
   </channel>
   <channel id="PDC: German Darts Championship (Day 3 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 3 Evening)</display-name>
-  </channel>
-  <channel id="Torino vs. Napoli">
-    <display-name lang="en">Torino vs. Napoli</display-name>
   </channel>
   <channel id="Fulham vs. Arsenal">
     <display-name lang="en">Fulham vs. Arsenal</display-name>
@@ -261,7 +264,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251018000000 -0500" channel="Lecce vs. Sassuolo" stop="20251018235959 -0500">
+  <programme start="20251018000000 -0500" channel="LSU Tigers vs. Vanderbilt Commodores" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -269,7 +272,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251018000000 -0500" channel="Pisa vs. Hellas Verona" stop="20251018235959 -0500">
+  <programme start="20251018000000 -0500" channel="Georgia Tech Yellow Jackets vs. Duke Blue Devils" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="OKTAGON 78 (English)" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="OKTAGON 78 (German)" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="OKTAGON 78 (Czech)" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -381,16 +408,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251018000000 -0500" channel="LSU Tigers vs. Vanderbilt Commodores" stop="20251018235959 -0500">
-    <title>11:00 AM 18/10/25 - LSU Tigers vs. Vanderbilt Commodores</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Georgia Tech Yellow Jackets vs. Duke Blue Devils" stop="20251018235959 -0500">
-    <title>11:00 AM 18/10/25 - Georgia Tech Yellow Jackets vs. Duke Blue Devils</title>
+  <programme start="20251018000000 -0500" channel="Torino vs. Napoli" stop="20251018235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -655,14 +674,6 @@
   </programme>
   <programme start="20251018000000 -0500" channel="PDC: German Darts Championship (Day 3 Evening)" stop="20251018235959 -0500">
     <title>12:00 PM 19/10/25 - PDC: German Darts Championship (Day 3 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Torino vs. Napoli" stop="20251018235959 -0500">
-    <title>11:00 AM 18/10/25 - Torino vs. Napoli</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
