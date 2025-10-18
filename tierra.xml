@@ -138,6 +138,9 @@
   <channel id="Wolfsburg vs. Stuttgart">
     <display-name lang="en">Wolfsburg vs. Stuttgart</display-name>
   </channel>
+  <channel id="Goal Rush">
+    <display-name lang="en">Goal Rush</display-name>
+  </channel>
   <channel id="Brighton and Hove Albion vs. Newcastle United">
     <display-name lang="en">Brighton and Hove Albion vs. Newcastle United</display-name>
   </channel>
@@ -632,6 +635,14 @@
   </programme>
   <programme start="20251018000000 -0500" channel="Wolfsburg vs. Stuttgart" stop="20251018235959 -0500">
     <title>08:30 AM 18/10/25 - Wolfsburg vs. Stuttgart</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Goal Rush" stop="20251018235959 -0500">
+    <title>09:00 AM 18/10/25 - Goal Rush</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
