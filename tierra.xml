@@ -9,6 +9,12 @@
   <channel id="Sevilla FC vs. RCD Mallorca">
     <display-name lang="en">Sevilla FC vs. RCD Mallorca</display-name>
   </channel>
+  <channel id="Lecce vs. Sassuolo">
+    <display-name lang="en">Lecce vs. Sassuolo</display-name>
+  </channel>
+  <channel id="Pisa vs. Hellas Verona">
+    <display-name lang="en">Pisa vs. Hellas Verona</display-name>
+  </channel>
   <channel id="LSU Tigers vs. Vanderbilt Commodores">
     <display-name lang="en">LSU Tigers vs. Vanderbilt Commodores</display-name>
   </channel>
@@ -116,12 +122,6 @@
   </channel>
   <channel id="PDC: German Darts Championship (Day 3 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 3 Evening)</display-name>
-  </channel>
-  <channel id="Lecce vs. Sassuolo">
-    <display-name lang="en">Lecce vs. Sassuolo</display-name>
-  </channel>
-  <channel id="Pisa vs. Hellas Verona">
-    <display-name lang="en">Pisa vs. Hellas Verona</display-name>
   </channel>
   <channel id="Heidenheim vs. Bremen">
     <display-name lang="en">Heidenheim vs. Bremen</display-name>
@@ -290,6 +290,22 @@
     </audio>
   </programme>
   <programme start="20251018000000 -0500" channel="Sevilla FC vs. RCD Mallorca" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Lecce vs. Sassuolo" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Pisa vs. Hellas Verona" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -579,22 +595,6 @@
   </programme>
   <programme start="20251018000000 -0500" channel="PDC: German Darts Championship (Day 3 Evening)" stop="20251018235959 -0500">
     <title>12:00 PM 19/10/25 - PDC: German Darts Championship (Day 3 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Lecce vs. Sassuolo" stop="20251018235959 -0500">
-    <title>08:00 AM 18/10/25 - Lecce vs. Sassuolo</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Pisa vs. Hellas Verona" stop="20251018235959 -0500">
-    <title>08:00 AM 18/10/25 - Pisa vs. Hellas Verona</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
