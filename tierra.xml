@@ -1,37 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251017 -0500">
-  <channel id="Louisville Cardinals vs. Miami Hurricanes">
-    <display-name lang="en">Louisville Cardinals vs. Miami Hurricanes</display-name>
-  </channel>
   <channel id="Nebraska Cornhuskers vs. Minnesota Golden Gophers">
     <display-name lang="en">Nebraska Cornhuskers vs. Minnesota Golden Gophers</display-name>
   </channel>
   <channel id="Milwaukee Brewers vs. Los Angeles Dodgers">
     <display-name lang="en">Milwaukee Brewers vs. Los Angeles Dodgers</display-name>
   </channel>
-  <channel id="Hornets at Knicks">
-    <display-name lang="en">Hornets at Knicks</display-name>
-  </channel>
-  <channel id="Grizzlies at Heat">
-    <display-name lang="en">Grizzlies at Heat</display-name>
-  </channel>
-  <channel id="Nuggets at Thunder">
-    <display-name lang="en">Nuggets at Thunder</display-name>
-  </channel>
-  <channel id="Pacers at Spurs">
-    <display-name lang="en">Pacers at Spurs</display-name>
-  </channel>
   <channel id="Clippers at Warriors">
     <display-name lang="en">Clippers at Warriors</display-name>
+  </channel>
+  <channel id="Kings at Lakers">
+    <display-name lang="en">Kings at Lakers</display-name>
   </channel>
   <channel id="Vancouver Canucks vs. Chicago Blackhawks">
     <display-name lang="en">Vancouver Canucks vs. Chicago Blackhawks</display-name>
   </channel>
   <channel id="San Jose Sharks vs. Utah Mammoth">
     <display-name lang="en">San Jose Sharks vs. Utah Mammoth</display-name>
-  </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="LSU Tigers vs. Vanderbilt Commodores">
     <display-name lang="en">LSU Tigers vs. Vanderbilt Commodores</display-name>
@@ -128,9 +113,6 @@
   </channel>
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
-  </channel>
-  <channel id="Kings at Lakers">
-    <display-name lang="en">Kings at Lakers</display-name>
   </channel>
   <channel id="UFC Fight Night: De Ridder vs. Allen">
     <display-name lang="en">UFC Fight Night: De Ridder vs. Allen</display-name>
@@ -306,14 +288,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251017000000 -0500" channel="Louisville Cardinals vs. Miami Hurricanes" stop="20251017235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251017000000 -0500" channel="Nebraska Cornhuskers vs. Minnesota Golden Gophers" stop="20251017235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -330,39 +304,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251017000000 -0500" channel="Hornets at Knicks" stop="20251017235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="Grizzlies at Heat" stop="20251017235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="Nuggets at Thunder" stop="20251017235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="Pacers at Spurs" stop="20251017235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251017000000 -0500" channel="Clippers at Warriors" stop="20251017235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251017000000 -0500" channel="Kings at Lakers" stop="20251017235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -379,14 +329,6 @@
     </audio>
   </programme>
   <programme start="20251017000000 -0500" channel="San Jose Sharks vs. Utah Mammoth" stop="20251017235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="WWE: Friday Night Smackdown" stop="20251017235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -644,14 +586,6 @@
   </programme>
   <programme start="20251017000000 -0500" channel="Houston Texans vs. Seattle Seahawks" stop="20251017235959 -0500">
     <title>09:00 PM 20/10/25 - Houston Texans vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251017000000 -0500" channel="Kings at Lakers" stop="20251017235959 -0500">
-    <title>09:30 PM 17/10/25 - Kings at Lakers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
