@@ -21,9 +21,6 @@
   <channel id="PDC: German Darts Championship (Day 2 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 2 Evening)</display-name>
   </channel>
-  <channel id="Torino vs. Napoli">
-    <display-name lang="en">Torino vs. Napoli</display-name>
-  </channel>
   <channel id="Fulham vs. Arsenal">
     <display-name lang="en">Fulham vs. Arsenal</display-name>
   </channel>
@@ -36,11 +33,17 @@
   <channel id="Angers SCO vs. AS Monaco">
     <display-name lang="en">Angers SCO vs. AS Monaco</display-name>
   </channel>
+  <channel id="Roma vs. Inter">
+    <display-name lang="en">Roma vs. Inter</display-name>
+  </channel>
+  <channel id="Atl&#233;tico de Madrid vs. CA Osasuna">
+    <display-name lang="en">Atl&#233;tico de Madrid vs. CA Osasuna</display-name>
+  </channel>
   <channel id="Florida Panthers vs. Buffalo Sabres">
     <display-name lang="en">Florida Panthers vs. Buffalo Sabres</display-name>
   </channel>
-  <channel id="United States Grand Prix (Sprint)">
-    <display-name lang="en">United States Grand Prix (Sprint)</display-name>
+  <channel id="New York Islanders vs. Ottawa Senators">
+    <display-name lang="en">New York Islanders vs. Ottawa Senators</display-name>
   </channel>
   <channel id="Ohio State Buckeyes vs. Wisconsin Badgers">
     <display-name lang="en">Ohio State Buckeyes vs. Wisconsin Badgers</display-name>
@@ -135,12 +138,6 @@
   <channel id="PDC: German Darts Championship (Day 3 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 3 Evening)</display-name>
   </channel>
-  <channel id="Roma vs. Inter">
-    <display-name lang="en">Roma vs. Inter</display-name>
-  </channel>
-  <channel id="Atl&#233;tico de Madrid vs. CA Osasuna">
-    <display-name lang="en">Atl&#233;tico de Madrid vs. CA Osasuna</display-name>
-  </channel>
   <channel id="OM vs. Havre AC">
     <display-name lang="en">OM vs. Havre AC</display-name>
   </channel>
@@ -203,9 +200,6 @@
   </channel>
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
-  </channel>
-  <channel id="New York Islanders vs. Ottawa Senators">
-    <display-name lang="en">New York Islanders vs. Ottawa Senators</display-name>
   </channel>
   <channel id="Edmonton Oilers vs. New Jersey Devils">
     <display-name lang="en">Edmonton Oilers vs. New Jersey Devils</display-name>
@@ -320,14 +314,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251018000000 -0500" channel="Torino vs. Napoli" stop="20251018235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251018000000 -0500" channel="Fulham vs. Arsenal" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -360,6 +346,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251018000000 -0500" channel="Roma vs. Inter" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Atl&#233;tico de Madrid vs. CA Osasuna" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251018000000 -0500" channel="Florida Panthers vs. Buffalo Sabres" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -368,7 +370,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251018000000 -0500" channel="United States Grand Prix (Sprint)" stop="20251018235959 -0500">
+  <programme start="20251018000000 -0500" channel="New York Islanders vs. Ottawa Senators" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -624,22 +626,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251018000000 -0500" channel="Roma vs. Inter" stop="20251018235959 -0500">
-    <title>01:45 PM 18/10/25 - Roma vs. Inter</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Atl&#233;tico de Madrid vs. CA Osasuna" stop="20251018235959 -0500">
-    <title>02:00 PM 18/10/25 - Atl&#233;tico de Madrid vs. CA Osasuna</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251018000000 -0500" channel="OM vs. Havre AC" stop="20251018235959 -0500">
     <title>02:05 PM 18/10/25 - OM vs. Havre AC</title>
     <date>2025</date>
@@ -802,14 +788,6 @@
   </programme>
   <programme start="20251018000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251018235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="New York Islanders vs. Ottawa Senators" stop="20251018235959 -0500">
-    <title>02:00 PM 18/10/25 - New York Islanders vs. Ottawa Senators</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
