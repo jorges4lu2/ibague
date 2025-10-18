@@ -3,6 +3,12 @@
   <channel id="PDC: German Darts Championship (Day 2 Afternoon)">
     <display-name lang="en">PDC: German Darts Championship (Day 2 Afternoon)</display-name>
   </channel>
+  <channel id="Nottingham Forest vs. Chelsea">
+    <display-name lang="en">Nottingham Forest vs. Chelsea</display-name>
+  </channel>
+  <channel id="Sevilla FC vs. RCD Mallorca">
+    <display-name lang="en">Sevilla FC vs. RCD Mallorca</display-name>
+  </channel>
   <channel id="LSU Tigers vs. Vanderbilt Commodores">
     <display-name lang="en">LSU Tigers vs. Vanderbilt Commodores</display-name>
   </channel>
@@ -110,12 +116,6 @@
   </channel>
   <channel id="PDC: German Darts Championship (Day 3 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 3 Evening)</display-name>
-  </channel>
-  <channel id="Nottingham Forest vs. Chelsea">
-    <display-name lang="en">Nottingham Forest vs. Chelsea</display-name>
-  </channel>
-  <channel id="Sevilla FC vs. RCD Mallorca">
-    <display-name lang="en">Sevilla FC vs. RCD Mallorca</display-name>
   </channel>
   <channel id="Lecce vs. Sassuolo">
     <display-name lang="en">Lecce vs. Sassuolo</display-name>
@@ -264,8 +264,8 @@
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
-  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8204; Guy">
-    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8204; Guy</display-name>
+  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204; Guy">
+    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204; Guy</display-name>
   </channel>
   <channel id="24/7 The Simpsons">
     <display-name lang="en">24/7 The Simpsons</display-name>
@@ -274,6 +274,22 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20251018000000 -0500" channel="PDC: German Darts Championship (Day 2 Afternoon)" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Nottingham Forest vs. Chelsea" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Sevilla FC vs. RCD Mallorca" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -563,22 +579,6 @@
   </programme>
   <programme start="20251018000000 -0500" channel="PDC: German Darts Championship (Day 3 Evening)" stop="20251018235959 -0500">
     <title>12:00 PM 19/10/25 - PDC: German Darts Championship (Day 3 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Nottingham Forest vs. Chelsea" stop="20251018235959 -0500">
-    <title>06:30 AM 18/10/25 - Nottingham Forest vs. Chelsea</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Sevilla FC vs. RCD Mallorca" stop="20251018235959 -0500">
-    <title>07:00 AM 18/10/25 - Sevilla FC vs. RCD Mallorca</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -977,7 +977,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251018000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8204; Guy" stop="20251018235959 -0500">
+  <programme start="20251018000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204; Guy" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
