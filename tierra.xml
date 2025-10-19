@@ -1,10 +1,28 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251019 -0500">
-  <channel id="Los Angeles Rams vs. Jacksonville Jaguars">
-    <display-name lang="en">Los Angeles Rams vs. Jacksonville Jaguars</display-name>
+  <channel id="NFL RedZone">
+    <display-name lang="en">NFL RedZone</display-name>
   </channel>
-  <channel id="Freiburg vs. Frankfurt">
-    <display-name lang="en">Freiburg vs. Frankfurt</display-name>
+  <channel id="New Orleans Saints vs. Chicago Bears">
+    <display-name lang="en">New Orleans Saints vs. Chicago Bears</display-name>
+  </channel>
+  <channel id="Miami Dolphins vs. Cleveland Browns">
+    <display-name lang="en">Miami Dolphins vs. Cleveland Browns</display-name>
+  </channel>
+  <channel id="New England Patriots vs. Tennessee Titans">
+    <display-name lang="en">New England Patriots vs. Tennessee Titans</display-name>
+  </channel>
+  <channel id="Las Vegas Raiders vs. Kansas City Chiefs">
+    <display-name lang="en">Las Vegas Raiders vs. Kansas City Chiefs</display-name>
+  </channel>
+  <channel id="Philadelphia Eagles vs. Minnesota Vikings">
+    <display-name lang="en">Philadelphia Eagles vs. Minnesota Vikings</display-name>
+  </channel>
+  <channel id="Carolina Panthers vs. New York Jets">
+    <display-name lang="en">Carolina Panthers vs. New York Jets</display-name>
+  </channel>
+  <channel id="PDC: German Darts Championship (Day 3 Evening)">
+    <display-name lang="en">PDC: German Darts Championship (Day 3 Evening)</display-name>
   </channel>
   <channel id="Celta vs. Real Sociedad">
     <display-name lang="en">Celta vs. Real Sociedad</display-name>
@@ -27,23 +45,11 @@
   <channel id="Atalanta vs. Lazio">
     <display-name lang="en">Atalanta vs. Lazio</display-name>
   </channel>
-  <channel id="New Orleans Saints vs. Chicago Bears">
-    <display-name lang="en">New Orleans Saints vs. Chicago Bears</display-name>
+  <channel id="Levante UD vs. Rayo Vallecano">
+    <display-name lang="en">Levante UD vs. Rayo Vallecano</display-name>
   </channel>
-  <channel id="Miami Dolphins vs. Cleveland Browns">
-    <display-name lang="en">Miami Dolphins vs. Cleveland Browns</display-name>
-  </channel>
-  <channel id="New England Patriots vs. Tennessee Titans">
-    <display-name lang="en">New England Patriots vs. Tennessee Titans</display-name>
-  </channel>
-  <channel id="Las Vegas Raiders vs. Kansas City Chiefs">
-    <display-name lang="en">Las Vegas Raiders vs. Kansas City Chiefs</display-name>
-  </channel>
-  <channel id="Philadelphia Eagles vs. Minnesota Vikings">
-    <display-name lang="en">Philadelphia Eagles vs. Minnesota Vikings</display-name>
-  </channel>
-  <channel id="Carolina Panthers vs. New York Jets">
-    <display-name lang="en">Carolina Panthers vs. New York Jets</display-name>
+  <channel id="Vancouver Canucks vs. Washington Capitals">
+    <display-name lang="en">Vancouver Canucks vs. Washington Capitals</display-name>
   </channel>
   <channel id="New York Giants vs. Denver Broncos">
     <display-name lang="en">New York Giants vs. Denver Broncos</display-name>
@@ -69,12 +75,6 @@
   <channel id="Seattle Mariners vs. Toronto Blue Jays">
     <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
   </channel>
-  <channel id="PDC: German Darts Championship (Day 3 Evening)">
-    <display-name lang="en">PDC: German Darts Championship (Day 3 Evening)</display-name>
-  </channel>
-  <channel id="Levante UD vs. Rayo Vallecano">
-    <display-name lang="en">Levante UD vs. Rayo Vallecano</display-name>
-  </channel>
   <channel id="FC Nantes vs. LOSC">
     <display-name lang="en">FC Nantes vs. LOSC</display-name>
   </channel>
@@ -89,6 +89,15 @@
   </channel>
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
+  </channel>
+  <channel id="Edmonton Oilers vs. Detroit Red Wings">
+    <display-name lang="en">Edmonton Oilers vs. Detroit Red Wings</display-name>
+  </channel>
+  <channel id="Anaheim Ducks vs. Chicago Blackhawks">
+    <display-name lang="en">Anaheim Ducks vs. Chicago Blackhawks</display-name>
+  </channel>
+  <channel id="Boston Bruins vs. Utah Mammoth">
+    <display-name lang="en">Boston Bruins vs. Utah Mammoth</display-name>
   </channel>
   <channel id="United States Grand Prix (Race)">
     <display-name lang="en">United States Grand Prix (Race)</display-name>
@@ -108,7 +117,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251019000000 -0500" channel="Los Angeles Rams vs. Jacksonville Jaguars" stop="20251019235959 -0500">
+  <programme start="20251019000000 -0500" channel="NFL RedZone" stop="20251019235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -116,7 +125,55 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251019000000 -0500" channel="Freiburg vs. Frankfurt" stop="20251019235959 -0500">
+  <programme start="20251019000000 -0500" channel="New Orleans Saints vs. Chicago Bears" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Miami Dolphins vs. Cleveland Browns" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="New England Patriots vs. Tennessee Titans" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Las Vegas Raiders vs. Kansas City Chiefs" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Philadelphia Eagles vs. Minnesota Vikings" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Carolina Panthers vs. New York Jets" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="PDC: German Darts Championship (Day 3 Evening)" stop="20251019235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -180,48 +237,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251019000000 -0500" channel="New Orleans Saints vs. Chicago Bears" stop="20251019235959 -0500">
-    <title>12:00 PM 19/10/25 - New Orleans Saints vs. Chicago Bears</title>
+  <programme start="20251019000000 -0500" channel="Levante UD vs. Rayo Vallecano" stop="20251019235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251019000000 -0500" channel="Miami Dolphins vs. Cleveland Browns" stop="20251019235959 -0500">
-    <title>12:00 PM 19/10/25 - Miami Dolphins vs. Cleveland Browns</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="New England Patriots vs. Tennessee Titans" stop="20251019235959 -0500">
-    <title>12:00 PM 19/10/25 - New England Patriots vs. Tennessee Titans</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Las Vegas Raiders vs. Kansas City Chiefs" stop="20251019235959 -0500">
-    <title>12:00 PM 19/10/25 - Las Vegas Raiders vs. Kansas City Chiefs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Philadelphia Eagles vs. Minnesota Vikings" stop="20251019235959 -0500">
-    <title>12:00 PM 19/10/25 - Philadelphia Eagles vs. Minnesota Vikings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Carolina Panthers vs. New York Jets" stop="20251019235959 -0500">
-    <title>12:00 PM 19/10/25 - Carolina Panthers vs. New York Jets</title>
+  <programme start="20251019000000 -0500" channel="Vancouver Canucks vs. Washington Capitals" stop="20251019235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -292,22 +317,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251019000000 -0500" channel="PDC: German Darts Championship (Day 3 Evening)" stop="20251019235959 -0500">
-    <title>12:00 PM 19/10/25 - PDC: German Darts Championship (Day 3 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Levante UD vs. Rayo Vallecano" stop="20251019235959 -0500">
-    <title>11:30 AM 19/10/25 - Levante UD vs. Rayo Vallecano</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251019000000 -0500" channel="FC Nantes vs. LOSC" stop="20251019235959 -0500">
     <title>01:45 PM 19/10/25 - FC Nantes vs. LOSC</title>
     <date>2025</date>
@@ -342,6 +351,30 @@
   </programme>
   <programme start="20251019000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251019235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Edmonton Oilers vs. Detroit Red Wings" stop="20251019235959 -0500">
+    <title>02:00 PM 19/10/25 - Edmonton Oilers vs. Detroit Red Wings</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Anaheim Ducks vs. Chicago Blackhawks" stop="20251019235959 -0500">
+    <title>06:00 PM 19/10/25 - Anaheim Ducks vs. Chicago Blackhawks</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Boston Bruins vs. Utah Mammoth" stop="20251019235959 -0500">
+    <title>06:00 PM 19/10/25 - Boston Bruins vs. Utah Mammoth</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
