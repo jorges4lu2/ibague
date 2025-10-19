@@ -3,23 +3,29 @@
   <channel id="Los Angeles Rams vs. Jacksonville Jaguars">
     <display-name lang="en">Los Angeles Rams vs. Jacksonville Jaguars</display-name>
   </channel>
-  <channel id="Tottenham Hotspur vs. Aston Villa">
-    <display-name lang="en">Tottenham Hotspur vs. Aston Villa</display-name>
-  </channel>
-  <channel id="RC Lens vs. Paris FC">
-    <display-name lang="en">RC Lens vs. Paris FC</display-name>
-  </channel>
-  <channel id="Cagliari vs. Bologna">
-    <display-name lang="en">Cagliari vs. Bologna</display-name>
-  </channel>
-  <channel id="Genoa vs. Parma">
-    <display-name lang="en">Genoa vs. Parma</display-name>
-  </channel>
   <channel id="Freiburg vs. Frankfurt">
     <display-name lang="en">Freiburg vs. Frankfurt</display-name>
   </channel>
   <channel id="Celta vs. Real Sociedad">
     <display-name lang="en">Celta vs. Real Sociedad</display-name>
+  </channel>
+  <channel id="FC Lorient vs. Brest">
+    <display-name lang="en">FC Lorient vs. Brest</display-name>
+  </channel>
+  <channel id="Rennes vs. AJ Auxerre">
+    <display-name lang="en">Rennes vs. AJ Auxerre</display-name>
+  </channel>
+  <channel id="Toulouse FC vs. FC Metz">
+    <display-name lang="en">Toulouse FC vs. FC Metz</display-name>
+  </channel>
+  <channel id="Liverpool vs. Manchester United">
+    <display-name lang="en">Liverpool vs. Manchester United</display-name>
+  </channel>
+  <channel id="St. Pauli vs. Hoffenheim">
+    <display-name lang="en">St. Pauli vs. Hoffenheim</display-name>
+  </channel>
+  <channel id="Atalanta vs. Lazio">
+    <display-name lang="en">Atalanta vs. Lazio</display-name>
   </channel>
   <channel id="New Orleans Saints vs. Chicago Bears">
     <display-name lang="en">New Orleans Saints vs. Chicago Bears</display-name>
@@ -66,24 +72,6 @@
   <channel id="PDC: German Darts Championship (Day 3 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 3 Evening)</display-name>
   </channel>
-  <channel id="FC Lorient vs. Brest">
-    <display-name lang="en">FC Lorient vs. Brest</display-name>
-  </channel>
-  <channel id="Rennes vs. AJ Auxerre">
-    <display-name lang="en">Rennes vs. AJ Auxerre</display-name>
-  </channel>
-  <channel id="Toulouse FC vs. FC Metz">
-    <display-name lang="en">Toulouse FC vs. FC Metz</display-name>
-  </channel>
-  <channel id="Liverpool vs. Manchester United">
-    <display-name lang="en">Liverpool vs. Manchester United</display-name>
-  </channel>
-  <channel id="St. Pauli vs. Hoffenheim">
-    <display-name lang="en">St. Pauli vs. Hoffenheim</display-name>
-  </channel>
-  <channel id="Atalanta vs. Lazio">
-    <display-name lang="en">Atalanta vs. Lazio</display-name>
-  </channel>
   <channel id="Levante UD vs. Rayo Vallecano">
     <display-name lang="en">Levante UD vs. Rayo Vallecano</display-name>
   </channel>
@@ -128,38 +116,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251019000000 -0500" channel="Tottenham Hotspur vs. Aston Villa" stop="20251019235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="RC Lens vs. Paris FC" stop="20251019235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Cagliari vs. Bologna" stop="20251019235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Genoa vs. Parma" stop="20251019235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251019000000 -0500" channel="Freiburg vs. Frankfurt" stop="20251019235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -169,6 +125,54 @@
     </audio>
   </programme>
   <programme start="20251019000000 -0500" channel="Celta vs. Real Sociedad" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="FC Lorient vs. Brest" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Rennes vs. AJ Auxerre" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Toulouse FC vs. FC Metz" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Liverpool vs. Manchester United" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="St. Pauli vs. Hoffenheim" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Atalanta vs. Lazio" stop="20251019235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -290,54 +294,6 @@
   </programme>
   <programme start="20251019000000 -0500" channel="PDC: German Darts Championship (Day 3 Evening)" stop="20251019235959 -0500">
     <title>12:00 PM 19/10/25 - PDC: German Darts Championship (Day 3 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="FC Lorient vs. Brest" stop="20251019235959 -0500">
-    <title>10:15 AM 19/10/25 - FC Lorient vs. Brest</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Rennes vs. AJ Auxerre" stop="20251019235959 -0500">
-    <title>10:15 AM 19/10/25 - Rennes vs. AJ Auxerre</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Toulouse FC vs. FC Metz" stop="20251019235959 -0500">
-    <title>10:15 AM 19/10/25 - Toulouse FC vs. FC Metz</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Liverpool vs. Manchester United" stop="20251019235959 -0500">
-    <title>10:30 AM 19/10/25 - Liverpool vs. Manchester United</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="St. Pauli vs. Hoffenheim" stop="20251019235959 -0500">
-    <title>10:30 AM 19/10/25 - St. Pauli vs. Hoffenheim</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Atalanta vs. Lazio" stop="20251019235959 -0500">
-    <title>11:00 AM 19/10/25 - Atalanta vs. Lazio</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
