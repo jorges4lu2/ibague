@@ -45,6 +45,12 @@
   <channel id="Nashville Predators vs. Winnipeg Jets">
     <display-name lang="en">Nashville Predators vs. Winnipeg Jets</display-name>
   </channel>
+  <channel id="Boston Bruins vs. Colorado Avalanche">
+    <display-name lang="en">Boston Bruins vs. Colorado Avalanche</display-name>
+  </channel>
+  <channel id="Carolina Hurricanes vs. Los Angeles Kings">
+    <display-name lang="en">Carolina Hurricanes vs. Los Angeles Kings</display-name>
+  </channel>
   <channel id="AEW: WrestleDream">
     <display-name lang="en">AEW: WrestleDream</display-name>
   </channel>
@@ -155,12 +161,6 @@
   </channel>
   <channel id="Deportivo Alav&#233;s vs. Valencia CF">
     <display-name lang="en">Deportivo Alav&#233;s vs. Valencia CF</display-name>
-  </channel>
-  <channel id="Boston Bruins vs. Colorado Avalanche">
-    <display-name lang="en">Boston Bruins vs. Colorado Avalanche</display-name>
-  </channel>
-  <channel id="Carolina Hurricanes vs. Los Angeles Kings">
-    <display-name lang="en">Carolina Hurricanes vs. Los Angeles Kings</display-name>
   </channel>
   <channel id="Calgary Flames vs. Vegas Golden Knights">
     <display-name lang="en">Calgary Flames vs. Vegas Golden Knights</display-name>
@@ -299,6 +299,22 @@
     </audio>
   </programme>
   <programme start="20251018000000 -0500" channel="Nashville Predators vs. Winnipeg Jets" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Boston Bruins vs. Colorado Avalanche" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Carolina Hurricanes vs. Los Angeles Kings" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -596,22 +612,6 @@
   </programme>
   <programme start="20251018000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251018235959 -0500">
     <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Boston Bruins vs. Colorado Avalanche" stop="20251018235959 -0500">
-    <title>08:00 PM 18/10/25 - Boston Bruins vs. Colorado Avalanche</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Carolina Hurricanes vs. Los Angeles Kings" stop="20251018235959 -0500">
-    <title>08:00 PM 18/10/25 - Carolina Hurricanes vs. Los Angeles Kings</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
