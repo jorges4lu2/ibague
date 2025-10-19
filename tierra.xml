@@ -15,8 +15,11 @@
   <channel id="Green Bay Packers vs. Arizona Cardinals">
     <display-name lang="en">Green Bay Packers vs. Arizona Cardinals</display-name>
   </channel>
-  <channel id="United States Grand Prix (Race)">
-    <display-name lang="en">United States Grand Prix (Race)</display-name>
+  <channel id="Anaheim Ducks vs. Chicago Blackhawks">
+    <display-name lang="en">Anaheim Ducks vs. Chicago Blackhawks</display-name>
+  </channel>
+  <channel id="Boston Bruins vs. Utah Mammoth">
+    <display-name lang="en">Boston Bruins vs. Utah Mammoth</display-name>
   </channel>
   <channel id="Atlanta Falcons vs. San Francisco 49ers">
     <display-name lang="en">Atlanta Falcons vs. San Francisco 49ers</display-name>
@@ -300,12 +303,6 @@
   <channel id="Lazio vs. Juventus">
     <display-name lang="en">Lazio vs. Juventus</display-name>
   </channel>
-  <channel id="Anaheim Ducks vs. Chicago Blackhawks">
-    <display-name lang="en">Anaheim Ducks vs. Chicago Blackhawks</display-name>
-  </channel>
-  <channel id="Boston Bruins vs. Utah Mammoth">
-    <display-name lang="en">Boston Bruins vs. Utah Mammoth</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -361,7 +358,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251019000000 -0500" channel="United States Grand Prix (Race)" stop="20251019235959 -0500">
+  <programme start="20251019000000 -0500" channel="Anaheim Ducks vs. Chicago Blackhawks" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Boston Bruins vs. Utah Mammoth" stop="20251019235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1115,22 +1120,6 @@
   </programme>
   <programme start="20251019000000 -0500" channel="Lazio vs. Juventus" stop="20251019235959 -0500">
     <title>02:45 PM 26/10/25 - Lazio vs. Juventus</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Anaheim Ducks vs. Chicago Blackhawks" stop="20251019235959 -0500">
-    <title>06:00 PM 19/10/25 - Anaheim Ducks vs. Chicago Blackhawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Boston Bruins vs. Utah Mammoth" stop="20251019235959 -0500">
-    <title>06:00 PM 19/10/25 - Boston Bruins vs. Utah Mammoth</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
