@@ -1,16 +1,28 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251018 -0500">
-  <channel id="Texas Tech Red Raiders vs. Arizona State Sun Devils">
-    <display-name lang="en">Texas Tech Red Raiders vs. Arizona State Sun Devils</display-name>
-  </channel>
-  <channel id="Memphis Tigers vs. UAB Blazers">
-    <display-name lang="en">Memphis Tigers vs. UAB Blazers</display-name>
-  </channel>
   <channel id="Oregon Ducks vs. Rutgers Scarlet Knights">
     <display-name lang="en">Oregon Ducks vs. Rutgers Scarlet Knights</display-name>
   </channel>
   <channel id="Texas Longhorns vs. Kentucky Wildcats">
     <display-name lang="en">Texas Longhorns vs. Kentucky Wildcats</display-name>
+  </channel>
+  <channel id="Tennessee Volunteers vs. Alabama Crimson Tide">
+    <display-name lang="en">Tennessee Volunteers vs. Alabama Crimson Tide</display-name>
+  </channel>
+  <channel id="USC Trojans vs. Notre Dame Fighting Irish">
+    <display-name lang="en">USC Trojans vs. Notre Dame Fighting Irish</display-name>
+  </channel>
+  <channel id="Florida Atlantic Owls vs. South Florida Bulls">
+    <display-name lang="en">Florida Atlantic Owls vs. South Florida Bulls</display-name>
+  </channel>
+  <channel id="Missouri Tigers vs. Auburn Tigers">
+    <display-name lang="en">Missouri Tigers vs. Auburn Tigers</display-name>
+  </channel>
+  <channel id="Utah Utes vs. BYU Cougars">
+    <display-name lang="en">Utah Utes vs. BYU Cougars</display-name>
+  </channel>
+  <channel id="Cincinnati Bearcats vs. Oklahoma State Cowboys">
+    <display-name lang="en">Cincinnati Bearcats vs. Oklahoma State Cowboys</display-name>
   </channel>
   <channel id="UFC Fight Night: De Ridder vs. Allen">
     <display-name lang="en">UFC Fight Night: De Ridder vs. Allen</display-name>
@@ -33,26 +45,8 @@
   <channel id="Nashville Predators vs. Winnipeg Jets">
     <display-name lang="en">Nashville Predators vs. Winnipeg Jets</display-name>
   </channel>
-  <channel id="United States Grand Prix (Qualifying)">
-    <display-name lang="en">United States Grand Prix (Qualifying)</display-name>
-  </channel>
-  <channel id="Tennessee Volunteers vs. Alabama Crimson Tide">
-    <display-name lang="en">Tennessee Volunteers vs. Alabama Crimson Tide</display-name>
-  </channel>
-  <channel id="USC Trojans vs. Notre Dame Fighting Irish">
-    <display-name lang="en">USC Trojans vs. Notre Dame Fighting Irish</display-name>
-  </channel>
-  <channel id="Florida Atlantic Owls vs. South Florida Bulls">
-    <display-name lang="en">Florida Atlantic Owls vs. South Florida Bulls</display-name>
-  </channel>
-  <channel id="Missouri Tigers vs. Auburn Tigers">
-    <display-name lang="en">Missouri Tigers vs. Auburn Tigers</display-name>
-  </channel>
-  <channel id="Utah Utes vs. BYU Cougars">
-    <display-name lang="en">Utah Utes vs. BYU Cougars</display-name>
-  </channel>
-  <channel id="Cincinnati Bearcats vs. Oklahoma State Cowboys">
-    <display-name lang="en">Cincinnati Bearcats vs. Oklahoma State Cowboys</display-name>
+  <channel id="AEW: WrestleDream">
+    <display-name lang="en">AEW: WrestleDream</display-name>
   </channel>
   <channel id="Los Angeles Rams vs. Jacksonville Jaguars">
     <display-name lang="en">Los Angeles Rams vs. Jacksonville Jaguars</display-name>
@@ -177,9 +171,6 @@
   <channel id="United States Grand Prix (Race)">
     <display-name lang="en">United States Grand Prix (Race)</display-name>
   </channel>
-  <channel id="AEW: WrestleDream">
-    <display-name lang="en">AEW: WrestleDream</display-name>
-  </channel>
   <channel id="24/7 South Park">
     <display-name lang="en">24/7 South Park</display-name>
   </channel>
@@ -195,22 +186,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251018000000 -0500" channel="Texas Tech Red Raiders vs. Arizona State Sun Devils" stop="20251018235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Memphis Tigers vs. UAB Blazers" stop="20251018235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251018000000 -0500" channel="Oregon Ducks vs. Rutgers Scarlet Knights" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -220,6 +195,54 @@
     </audio>
   </programme>
   <programme start="20251018000000 -0500" channel="Texas Longhorns vs. Kentucky Wildcats" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Tennessee Volunteers vs. Alabama Crimson Tide" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="USC Trojans vs. Notre Dame Fighting Irish" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Florida Atlantic Owls vs. South Florida Bulls" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Missouri Tigers vs. Auburn Tigers" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Utah Utes vs. BYU Cougars" stop="20251018235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251018000000 -0500" channel="Cincinnati Bearcats vs. Oklahoma State Cowboys" stop="20251018235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -283,56 +306,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251018000000 -0500" channel="United States Grand Prix (Qualifying)" stop="20251018235959 -0500">
+  <programme start="20251018000000 -0500" channel="AEW: WrestleDream" stop="20251018235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Tennessee Volunteers vs. Alabama Crimson Tide" stop="20251018235959 -0500">
-    <title>06:30 PM 18/10/25 - Tennessee Volunteers vs. Alabama Crimson Tide</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="USC Trojans vs. Notre Dame Fighting Irish" stop="20251018235959 -0500">
-    <title>06:30 PM 18/10/25 - USC Trojans vs. Notre Dame Fighting Irish</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Florida Atlantic Owls vs. South Florida Bulls" stop="20251018235959 -0500">
-    <title>06:30 PM 18/10/25 - Florida Atlantic Owls vs. South Florida Bulls</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Missouri Tigers vs. Auburn Tigers" stop="20251018235959 -0500">
-    <title>06:45 PM 18/10/25 - Missouri Tigers vs. Auburn Tigers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Utah Utes vs. BYU Cougars" stop="20251018235959 -0500">
-    <title>07:00 PM 18/10/25 - Utah Utes vs. BYU Cougars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="Cincinnati Bearcats vs. Oklahoma State Cowboys" stop="20251018235959 -0500">
-    <title>07:00 PM 18/10/25 - Cincinnati Bearcats vs. Oklahoma State Cowboys</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -661,14 +636,6 @@
   </programme>
   <programme start="20251018000000 -0500" channel="United States Grand Prix (Race)" stop="20251018235959 -0500">
     <title>02:00 PM 19/10/25 - United States Grand Prix (Race)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251018000000 -0500" channel="AEW: WrestleDream" stop="20251018235959 -0500">
-    <title>07:00 PM 18/10/25 - AEW: WrestleDream</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
