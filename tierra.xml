@@ -3,12 +3,6 @@
   <channel id="Los Angeles Rams vs. Jacksonville Jaguars">
     <display-name lang="en">Los Angeles Rams vs. Jacksonville Jaguars</display-name>
   </channel>
-  <channel id="PDC: German Darts Championship (Day 3 Afternoon)">
-    <display-name lang="en">PDC: German Darts Championship (Day 3 Afternoon)</display-name>
-  </channel>
-  <channel id="Elche CF vs. Athletic Club">
-    <display-name lang="en">Elche CF vs. Athletic Club</display-name>
-  </channel>
   <channel id="Tottenham Hotspur vs. Aston Villa">
     <display-name lang="en">Tottenham Hotspur vs. Aston Villa</display-name>
   </channel>
@@ -23,6 +17,9 @@
   </channel>
   <channel id="Freiburg vs. Frankfurt">
     <display-name lang="en">Freiburg vs. Frankfurt</display-name>
+  </channel>
+  <channel id="Celta vs. Real Sociedad">
+    <display-name lang="en">Celta vs. Real Sociedad</display-name>
   </channel>
   <channel id="New Orleans Saints vs. Chicago Bears">
     <display-name lang="en">New Orleans Saints vs. Chicago Bears</display-name>
@@ -68,9 +65,6 @@
   </channel>
   <channel id="PDC: German Darts Championship (Day 3 Evening)">
     <display-name lang="en">PDC: German Darts Championship (Day 3 Evening)</display-name>
-  </channel>
-  <channel id="Celta vs. Real Sociedad">
-    <display-name lang="en">Celta vs. Real Sociedad</display-name>
   </channel>
   <channel id="FC Lorient vs. Brest">
     <display-name lang="en">FC Lorient vs. Brest</display-name>
@@ -134,22 +128,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251019000000 -0500" channel="PDC: German Darts Championship (Day 3 Afternoon)" stop="20251019235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Elche CF vs. Athletic Club" stop="20251019235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251019000000 -0500" channel="Tottenham Hotspur vs. Aston Villa" stop="20251019235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -183,6 +161,14 @@
     </audio>
   </programme>
   <programme start="20251019000000 -0500" channel="Freiburg vs. Frankfurt" stop="20251019235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251019000000 -0500" channel="Celta vs. Real Sociedad" stop="20251019235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -304,14 +290,6 @@
   </programme>
   <programme start="20251019000000 -0500" channel="PDC: German Darts Championship (Day 3 Evening)" stop="20251019235959 -0500">
     <title>12:00 PM 19/10/25 - PDC: German Darts Championship (Day 3 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251019000000 -0500" channel="Celta vs. Real Sociedad" stop="20251019235959 -0500">
-    <title>09:15 AM 19/10/25 - Celta vs. Real Sociedad</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
