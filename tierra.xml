@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251020 -0500">
-  <channel id="Tampa Bay Buccaneers vs. Detroit Lions">
-    <display-name lang="en">Tampa Bay Buccaneers vs. Detroit Lions</display-name>
-  </channel>
-  <channel id="Houston Texans vs. Seattle Seahawks">
-    <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Toronto Blue Jays">
-    <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
-  </channel>
   <channel id="Cremonese vs. Udinese">
     <display-name lang="en">Cremonese vs. Udinese</display-name>
   </channel>
@@ -17,6 +8,15 @@
   </channel>
   <channel id="West Ham United vs. Brentford">
     <display-name lang="en">West Ham United vs. Brentford</display-name>
+  </channel>
+  <channel id="Tampa Bay Buccaneers vs. Detroit Lions">
+    <display-name lang="en">Tampa Bay Buccaneers vs. Detroit Lions</display-name>
+  </channel>
+  <channel id="Houston Texans vs. Seattle Seahawks">
+    <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
+  </channel>
+  <channel id="Seattle Mariners vs. Toronto Blue Jays">
+    <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="Barcelona vs. Olympiacos">
     <display-name lang="en">Barcelona vs. Olympiacos</display-name>
@@ -327,6 +327,30 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251020000000 -0500" channel="Cremonese vs. Udinese" stop="20251020235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251020000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251020235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251020000000 -0500" channel="West Ham United vs. Brentford" stop="20251020235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251020000000 -0500" channel="Tampa Bay Buccaneers vs. Detroit Lions" stop="20251020235959 -0500">
     <title>06:00 PM 20/10/25 - Tampa Bay Buccaneers vs. Detroit Lions</title>
     <date>2025</date>
@@ -345,30 +369,6 @@
   </programme>
   <programme start="20251020000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251020235959 -0500">
     <title>07:08 PM 20/10/25 - Seattle Mariners vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251020000000 -0500" channel="Cremonese vs. Udinese" stop="20251020235959 -0500">
-    <title>01:45 PM 20/10/25 - Cremonese vs. Udinese</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251020000000 -0500" channel="Deportivo Alav&#233;s vs. Valencia CF" stop="20251020235959 -0500">
-    <title>02:00 PM 20/10/25 - Deportivo Alav&#233;s vs. Valencia CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251020000000 -0500" channel="West Ham United vs. Brentford" stop="20251020235959 -0500">
-    <title>02:00 PM 20/10/25 - West Ham United vs. Brentford</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
