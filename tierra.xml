@@ -1,25 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251020 -0500">
-  <channel id="Tampa Bay Buccaneers vs. Detroit Lions">
-    <display-name lang="en">Tampa Bay Buccaneers vs. Detroit Lions</display-name>
-  </channel>
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
   </channel>
   <channel id="Seattle Mariners vs. Toronto Blue Jays">
     <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
   </channel>
-  <channel id="Buffalo Sabres vs. Montreal Canadiens">
-    <display-name lang="en">Buffalo Sabres vs. Montreal Canadiens</display-name>
-  </channel>
   <channel id="Winnipeg Jets vs. Calgary Flames">
     <display-name lang="en">Winnipeg Jets vs. Calgary Flames</display-name>
   </channel>
   <channel id="Carolina Hurricanes vs. Vegas Golden Knights">
     <display-name lang="en">Carolina Hurricanes vs. Vegas Golden Knights</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
   </channel>
   <channel id="UFC 321: Aspinall vs. Gane">
     <display-name lang="en">UFC 321: Aspinall vs. Gane</display-name>
@@ -318,14 +309,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251020000000 -0500" channel="Tampa Bay Buccaneers vs. Detroit Lions" stop="20251020235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251020000000 -0500" channel="Houston Texans vs. Seattle Seahawks" stop="20251020235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -342,14 +325,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251020000000 -0500" channel="Buffalo Sabres vs. Montreal Canadiens" stop="20251020235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251020000000 -0500" channel="Winnipeg Jets vs. Calgary Flames" stop="20251020235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -359,14 +334,6 @@
     </audio>
   </programme>
   <programme start="20251020000000 -0500" channel="Carolina Hurricanes vs. Vegas Golden Knights" stop="20251020235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251020000000 -0500" channel="WWE: Monday Night RAW" stop="20251020235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
