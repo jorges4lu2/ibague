@@ -1,7 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251021 -0500">
-  <channel id="The Golazo Show">
-    <display-name lang="en">The Golazo Show</display-name>
+  <channel id="New Jersey Devils vs. Toronto Maple Leafs">
+    <display-name lang="en">New Jersey Devils vs. Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="Edmonton Oilers vs. Ottawa Senators">
+    <display-name lang="en">Edmonton Oilers vs. Ottawa Senators</display-name>
+  </channel>
+  <channel id="San Jose Sharks vs. New York Islanders">
+    <display-name lang="en">San Jose Sharks vs. New York Islanders</display-name>
+  </channel>
+  <channel id="Vancouver Canucks vs. Pittsburgh Penguins">
+    <display-name lang="en">Vancouver Canucks vs. Pittsburgh Penguins</display-name>
+  </channel>
+  <channel id="Seattle Kraken vs. Washington Capitals">
+    <display-name lang="en">Seattle Kraken vs. Washington Capitals</display-name>
   </channel>
   <channel id="Rockets at Thunder">
     <display-name lang="en">Rockets at Thunder</display-name>
@@ -17,6 +29,9 @@
   </channel>
   <channel id="Athletic Club vs. Qaraba&#287;">
     <display-name lang="en">Athletic Club vs. Qaraba&#287;</display-name>
+  </channel>
+  <channel id="The Golazo Show">
+    <display-name lang="en">The Golazo Show</display-name>
   </channel>
   <channel id="Chelsea vs. Ajax">
     <display-name lang="en">Chelsea vs. Ajax</display-name>
@@ -276,21 +291,6 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
-  <channel id="New Jersey Devils vs. Toronto Maple Leafs">
-    <display-name lang="en">New Jersey Devils vs. Toronto Maple Leafs</display-name>
-  </channel>
-  <channel id="Edmonton Oilers vs. Ottawa Senators">
-    <display-name lang="en">Edmonton Oilers vs. Ottawa Senators</display-name>
-  </channel>
-  <channel id="San Jose Sharks vs. New York Islanders">
-    <display-name lang="en">San Jose Sharks vs. New York Islanders</display-name>
-  </channel>
-  <channel id="Vancouver Canucks vs. Pittsburgh Penguins">
-    <display-name lang="en">Vancouver Canucks vs. Pittsburgh Penguins</display-name>
-  </channel>
-  <channel id="Seattle Kraken vs. Washington Capitals">
-    <display-name lang="en">Seattle Kraken vs. Washington Capitals</display-name>
-  </channel>
   <channel id="Florida Panthers vs. Boston Bruins">
     <display-name lang="en">Florida Panthers vs. Boston Bruins</display-name>
   </channel>
@@ -336,7 +336,39 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251021000000 -0500" channel="The Golazo Show" stop="20251021235959 -0500">
+  <programme start="20251021000000 -0500" channel="New Jersey Devils vs. Toronto Maple Leafs" stop="20251021235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251021000000 -0500" channel="Edmonton Oilers vs. Ottawa Senators" stop="20251021235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251021000000 -0500" channel="San Jose Sharks vs. New York Islanders" stop="20251021235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251021000000 -0500" channel="Vancouver Canucks vs. Pittsburgh Penguins" stop="20251021235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251021000000 -0500" channel="Seattle Kraken vs. Washington Capitals" stop="20251021235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -378,6 +410,14 @@
   </programme>
   <programme start="20251021000000 -0500" channel="Athletic Club vs. Qaraba&#287;" stop="20251021235959 -0500">
     <title>11:45 AM 22/10/25 - Athletic Club vs. Qaraba&#287;</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251021000000 -0500" channel="The Golazo Show" stop="20251021235959 -0500">
+    <title>02:00 PM 22/10/25 - The Golazo Show</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1066,46 +1106,6 @@
   </programme>
   <programme start="20251021000000 -0500" channel="Real Betis vs. Atl&#233;tico de Madrid" stop="20251021235959 -0500">
     <title>03:00 PM 27/10/25 - Real Betis vs. Atl&#233;tico de Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251021000000 -0500" channel="New Jersey Devils vs. Toronto Maple Leafs" stop="20251021235959 -0500">
-    <title>06:00 PM 21/10/25 - New Jersey Devils vs. Toronto Maple Leafs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251021000000 -0500" channel="Edmonton Oilers vs. Ottawa Senators" stop="20251021235959 -0500">
-    <title>06:00 PM 21/10/25 - Edmonton Oilers vs. Ottawa Senators</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251021000000 -0500" channel="San Jose Sharks vs. New York Islanders" stop="20251021235959 -0500">
-    <title>06:00 PM 21/10/25 - San Jose Sharks vs. New York Islanders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251021000000 -0500" channel="Vancouver Canucks vs. Pittsburgh Penguins" stop="20251021235959 -0500">
-    <title>06:00 PM 21/10/25 - Vancouver Canucks vs. Pittsburgh Penguins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251021000000 -0500" channel="Seattle Kraken vs. Washington Capitals" stop="20251021235959 -0500">
-    <title>06:00 PM 21/10/25 - Seattle Kraken vs. Washington Capitals</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
