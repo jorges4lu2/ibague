@@ -3,6 +3,9 @@
   <channel id="Tampa Bay Buccaneers vs. Detroit Lions">
     <display-name lang="en">Tampa Bay Buccaneers vs. Detroit Lions</display-name>
   </channel>
+  <channel id="Seattle Mariners vs. Toronto Blue Jays">
+    <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
+  </channel>
   <channel id="Minnesota Wild vs. New York Rangers">
     <display-name lang="en">Minnesota Wild vs. New York Rangers</display-name>
   </channel>
@@ -17,9 +20,6 @@
   </channel>
   <channel id="Houston Texans vs. Seattle Seahawks">
     <display-name lang="en">Houston Texans vs. Seattle Seahawks</display-name>
-  </channel>
-  <channel id="Seattle Mariners vs. Toronto Blue Jays">
-    <display-name lang="en">Seattle Mariners vs. Toronto Blue Jays</display-name>
   </channel>
   <channel id="UFC 321: Aspinall vs. Gane">
     <display-name lang="en">UFC 321: Aspinall vs. Gane</display-name>
@@ -332,6 +332,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251020000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251020235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251020000000 -0500" channel="Minnesota Wild vs. New York Rangers" stop="20251020235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -366,14 +374,6 @@
   </programme>
   <programme start="20251020000000 -0500" channel="Houston Texans vs. Seattle Seahawks" stop="20251020235959 -0500">
     <title>09:00 PM 20/10/25 - Houston Texans vs. Seattle Seahawks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251020000000 -0500" channel="Seattle Mariners vs. Toronto Blue Jays" stop="20251020235959 -0500">
-    <title>07:08 PM 20/10/25 - Seattle Mariners vs. Toronto Blue Jays</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
