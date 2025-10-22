@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251021 -0500">
+  <channel id="Rockets at Thunder">
+    <display-name lang="en">Rockets at Thunder</display-name>
+  </channel>
   <channel id="New Jersey Devils vs. Toronto Maple Leafs">
     <display-name lang="en">New Jersey Devils vs. Toronto Maple Leafs</display-name>
   </channel>
@@ -15,8 +18,20 @@
   <channel id="Seattle Kraken vs. Washington Capitals">
     <display-name lang="en">Seattle Kraken vs. Washington Capitals</display-name>
   </channel>
-  <channel id="Rockets at Thunder">
-    <display-name lang="en">Rockets at Thunder</display-name>
+  <channel id="Florida Panthers vs. Boston Bruins">
+    <display-name lang="en">Florida Panthers vs. Boston Bruins</display-name>
+  </channel>
+  <channel id="Los Angeles Kings vs. St. Louis Blues">
+    <display-name lang="en">Los Angeles Kings vs. St. Louis Blues</display-name>
+  </channel>
+  <channel id="Anaheim Ducks vs. Nashville Predators">
+    <display-name lang="en">Anaheim Ducks vs. Nashville Predators</display-name>
+  </channel>
+  <channel id="Columbus Blue Jackets vs. Dallas Stars">
+    <display-name lang="en">Columbus Blue Jackets vs. Dallas Stars</display-name>
+  </channel>
+  <channel id="WWE: NXT">
+    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="Warriors at Lakers">
     <display-name lang="en">Warriors at Lakers</display-name>
@@ -291,23 +306,8 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
-  <channel id="Florida Panthers vs. Boston Bruins">
-    <display-name lang="en">Florida Panthers vs. Boston Bruins</display-name>
-  </channel>
-  <channel id="Los Angeles Kings vs. St. Louis Blues">
-    <display-name lang="en">Los Angeles Kings vs. St. Louis Blues</display-name>
-  </channel>
-  <channel id="Anaheim Ducks vs. Nashville Predators">
-    <display-name lang="en">Anaheim Ducks vs. Nashville Predators</display-name>
-  </channel>
-  <channel id="Columbus Blue Jackets vs. Dallas Stars">
-    <display-name lang="en">Columbus Blue Jackets vs. Dallas Stars</display-name>
-  </channel>
   <channel id="Colorado Avalanche vs. Utah Mammoth">
     <display-name lang="en">Colorado Avalanche vs. Utah Mammoth</display-name>
-  </channel>
-  <channel id="WWE: NXT">
-    <display-name lang="en">WWE: NXT</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -336,6 +336,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251021000000 -0500" channel="Rockets at Thunder" stop="20251021235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251021000000 -0500" channel="New Jersey Devils vs. Toronto Maple Leafs" stop="20251021235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -376,8 +384,40 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251021000000 -0500" channel="Rockets at Thunder" stop="20251021235959 -0500">
-    <title>06:30 PM 21/10/25 - Rockets at Thunder</title>
+  <programme start="20251021000000 -0500" channel="Florida Panthers vs. Boston Bruins" stop="20251021235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251021000000 -0500" channel="Los Angeles Kings vs. St. Louis Blues" stop="20251021235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251021000000 -0500" channel="Anaheim Ducks vs. Nashville Predators" stop="20251021235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251021000000 -0500" channel="Columbus Blue Jackets vs. Dallas Stars" stop="20251021235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251021000000 -0500" channel="WWE: NXT" stop="20251021235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1112,48 +1152,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251021000000 -0500" channel="Florida Panthers vs. Boston Bruins" stop="20251021235959 -0500">
-    <title>06:30 PM 21/10/25 - Florida Panthers vs. Boston Bruins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251021000000 -0500" channel="Los Angeles Kings vs. St. Louis Blues" stop="20251021235959 -0500">
-    <title>07:00 PM 21/10/25 - Los Angeles Kings vs. St. Louis Blues</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251021000000 -0500" channel="Anaheim Ducks vs. Nashville Predators" stop="20251021235959 -0500">
-    <title>07:00 PM 21/10/25 - Anaheim Ducks vs. Nashville Predators</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251021000000 -0500" channel="Columbus Blue Jackets vs. Dallas Stars" stop="20251021235959 -0500">
-    <title>07:00 PM 21/10/25 - Columbus Blue Jackets vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251021000000 -0500" channel="Colorado Avalanche vs. Utah Mammoth" stop="20251021235959 -0500">
     <title>09:00 PM 21/10/25 - Colorado Avalanche vs. Utah Mammoth</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251021000000 -0500" channel="WWE: NXT" stop="20251021235959 -0500">
-    <title>07:00 PM 21/10/25 - WWE: NXT</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
