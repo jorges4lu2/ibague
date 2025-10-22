@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251022 -0500">
+  <channel id="Galatasaray vs. Bod&#248;/Glimt">
+    <display-name lang="en">Galatasaray vs. Bod&#248;/Glimt</display-name>
+  </channel>
+  <channel id="Athletic Club vs. Qaraba&#287;">
+    <display-name lang="en">Athletic Club vs. Qaraba&#287;</display-name>
+  </channel>
   <channel id="Cleveland Cavaliers vs. New York Knicks">
     <display-name lang="en">Cleveland Cavaliers vs. New York Knicks</display-name>
   </channel>
@@ -38,12 +44,6 @@
   </channel>
   <channel id="UFC 321: Aspinall vs. Gane">
     <display-name lang="en">UFC 321: Aspinall vs. Gane</display-name>
-  </channel>
-  <channel id="Galatasaray vs. Bod&#248;/Glimt">
-    <display-name lang="en">Galatasaray vs. Bod&#248;/Glimt</display-name>
-  </channel>
-  <channel id="Athletic Club vs. Qaraba&#287;">
-    <display-name lang="en">Athletic Club vs. Qaraba&#287;</display-name>
   </channel>
   <channel id="The Golazo Show">
     <display-name lang="en">The Golazo Show</display-name>
@@ -306,6 +306,15 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
+  <channel id="Minnesota Wild vs. New Jersey Devils">
+    <display-name lang="en">Minnesota Wild vs. New Jersey Devils</display-name>
+  </channel>
+  <channel id="Detroit Red Wings vs. Buffalo Sabres">
+    <display-name lang="en">Detroit Red Wings vs. Buffalo Sabres</display-name>
+  </channel>
+  <channel id="Montreal Canadiens vs. Calgary Flames">
+    <display-name lang="en">Montreal Canadiens vs. Calgary Flames</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -333,6 +342,22 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251022000000 -0500" channel="Galatasaray vs. Bod&#248;/Glimt" stop="20251022235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251022000000 -0500" channel="Athletic Club vs. Qaraba&#287;" stop="20251022235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251022000000 -0500" channel="Cleveland Cavaliers vs. New York Knicks" stop="20251022235959 -0500">
     <title>06:00 PM 22/10/25 - Cleveland Cavaliers vs. New York Knicks</title>
     <date>2025</date>
@@ -431,22 +456,6 @@
   </programme>
   <programme start="20251022000000 -0500" channel="UFC 321: Aspinall vs. Gane" stop="20251022235959 -0500">
     <title>09:00 AM 25/10/25 - UFC 321: Aspinall vs. Gane</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="Galatasaray vs. Bod&#248;/Glimt" stop="20251022235959 -0500">
-    <title>11:45 AM 22/10/25 - Galatasaray vs. Bod&#248;/Glimt</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="Athletic Club vs. Qaraba&#287;" stop="20251022235959 -0500">
-    <title>11:45 AM 22/10/25 - Athletic Club vs. Qaraba&#287;</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1143,6 +1152,30 @@
   </programme>
   <programme start="20251022000000 -0500" channel="Real Betis vs. Atl&#233;tico de Madrid" stop="20251022235959 -0500">
     <title>03:00 PM 27/10/25 - Real Betis vs. Atl&#233;tico de Madrid</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251022000000 -0500" channel="Minnesota Wild vs. New Jersey Devils" stop="20251022235959 -0500">
+    <title>06:00 PM 22/10/25 - Minnesota Wild vs. New Jersey Devils</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251022000000 -0500" channel="Detroit Red Wings vs. Buffalo Sabres" stop="20251022235959 -0500">
+    <title>06:30 PM 22/10/25 - Detroit Red Wings vs. Buffalo Sabres</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251022000000 -0500" channel="Montreal Canadiens vs. Calgary Flames" stop="20251022235959 -0500">
+    <title>07:30 PM 22/10/25 - Montreal Canadiens vs. Calgary Flames</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
