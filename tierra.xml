@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251022 -0500">
-  <channel id="Cleveland Cavaliers vs. New York Knicks">
-    <display-name lang="en">Cleveland Cavaliers vs. New York Knicks</display-name>
-  </channel>
-  <channel id="Brooklyn Nets vs. Charlotte Hornets">
-    <display-name lang="en">Brooklyn Nets vs. Charlotte Hornets</display-name>
-  </channel>
-  <channel id="Miami Heat vs. Orlando Magic">
-    <display-name lang="en">Miami Heat vs. Orlando Magic</display-name>
-  </channel>
   <channel id="Toronto Raptors vs. Atlanta Hawks">
     <display-name lang="en">Toronto Raptors vs. Atlanta Hawks</display-name>
   </channel>
@@ -27,8 +18,14 @@
   <channel id="LA Clippers vs. Utah Jazz">
     <display-name lang="en">LA Clippers vs. Utah Jazz</display-name>
   </channel>
-  <channel id="Minnesota Wild vs. New Jersey Devils">
-    <display-name lang="en">Minnesota Wild vs. New Jersey Devils</display-name>
+  <channel id="San Antonio Spurs vs. Dallas Mavericks">
+    <display-name lang="en">San Antonio Spurs vs. Dallas Mavericks</display-name>
+  </channel>
+  <channel id="Sacramento Kings vs. Phoenix Suns">
+    <display-name lang="en">Sacramento Kings vs. Phoenix Suns</display-name>
+  </channel>
+  <channel id="Minnesota Timberwolves vs. Portland Trail Blazers">
+    <display-name lang="en">Minnesota Timberwolves vs. Portland Trail Blazers</display-name>
   </channel>
   <channel id="Detroit Red Wings vs. Buffalo Sabres">
     <display-name lang="en">Detroit Red Wings vs. Buffalo Sabres</display-name>
@@ -38,15 +35,6 @@
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
-  <channel id="San Antonio Spurs vs. Dallas Mavericks">
-    <display-name lang="en">San Antonio Spurs vs. Dallas Mavericks</display-name>
-  </channel>
-  <channel id="Sacramento Kings vs. Phoenix Suns">
-    <display-name lang="en">Sacramento Kings vs. Phoenix Suns</display-name>
-  </channel>
-  <channel id="Minnesota Timberwolves vs. Portland Trail Blazers">
-    <display-name lang="en">Minnesota Timberwolves vs. Portland Trail Blazers</display-name>
   </channel>
   <channel id="UFC 321: Aspinall vs. Gane">
     <display-name lang="en">UFC 321: Aspinall vs. Gane</display-name>
@@ -315,30 +303,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251022000000 -0500" channel="Cleveland Cavaliers vs. New York Knicks" stop="20251022235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="Brooklyn Nets vs. Charlotte Hornets" stop="20251022235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="Miami Heat vs. Orlando Magic" stop="20251022235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251022000000 -0500" channel="Toronto Raptors vs. Atlanta Hawks" stop="20251022235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -387,7 +351,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251022000000 -0500" channel="Minnesota Wild vs. New Jersey Devils" stop="20251022235959 -0500">
+  <programme start="20251022000000 -0500" channel="San Antonio Spurs vs. Dallas Mavericks" stop="20251022235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251022000000 -0500" channel="Sacramento Kings vs. Phoenix Suns" stop="20251022235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251022000000 -0500" channel="Minnesota Timberwolves vs. Portland Trail Blazers" stop="20251022235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -413,30 +393,6 @@
   </programme>
   <programme start="20251022000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20251022235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="San Antonio Spurs vs. Dallas Mavericks" stop="20251022235959 -0500">
-    <title>08:30 PM 22/10/25 - San Antonio Spurs vs. Dallas Mavericks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="Sacramento Kings vs. Phoenix Suns" stop="20251022235959 -0500">
-    <title>09:00 PM 22/10/25 - Sacramento Kings vs. Phoenix Suns</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="Minnesota Timberwolves vs. Portland Trail Blazers" stop="20251022235959 -0500">
-    <title>09:00 PM 22/10/25 - Minnesota Timberwolves vs. Portland Trail Blazers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
