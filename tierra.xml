@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251023 -0500">
+  <channel id="Chicago Blackhawks vs. Tampa Bay Lightning">
+    <display-name lang="en">Chicago Blackhawks vs. Tampa Bay Lightning</display-name>
+  </channel>
+  <channel id="Anaheim Ducks vs. Boston Bruins">
+    <display-name lang="en">Anaheim Ducks vs. Boston Bruins</display-name>
+  </channel>
+  <channel id="Philadelphia Flyers vs. Ottawa Senators">
+    <display-name lang="en">Philadelphia Flyers vs. Ottawa Senators</display-name>
+  </channel>
+  <channel id="Pittsburgh Penguins vs. Florida Panthers">
+    <display-name lang="en">Pittsburgh Penguins vs. Florida Panthers</display-name>
+  </channel>
+  <channel id="Detroit Red Wings vs. New York Islanders">
+    <display-name lang="en">Detroit Red Wings vs. New York Islanders</display-name>
+  </channel>
+  <channel id="San Jose Sharks vs. New York Rangers">
+    <display-name lang="en">San Jose Sharks vs. New York Rangers</display-name>
+  </channel>
   <channel id="Oklahoma City Thunder vs. Indiana Pacers">
     <display-name lang="en">Oklahoma City Thunder vs. Indiana Pacers</display-name>
   </channel>
@@ -153,24 +171,6 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
-  <channel id="Chicago Blackhawks vs. Tampa Bay Lightning">
-    <display-name lang="en">Chicago Blackhawks vs. Tampa Bay Lightning</display-name>
-  </channel>
-  <channel id="Anaheim Ducks vs. Boston Bruins">
-    <display-name lang="en">Anaheim Ducks vs. Boston Bruins</display-name>
-  </channel>
-  <channel id="Philadelphia Flyers vs. Ottawa Senators">
-    <display-name lang="en">Philadelphia Flyers vs. Ottawa Senators</display-name>
-  </channel>
-  <channel id="Pittsburgh Penguins vs. Florida Panthers">
-    <display-name lang="en">Pittsburgh Penguins vs. Florida Panthers</display-name>
-  </channel>
-  <channel id="Detroit Red Wings vs. New York Islanders">
-    <display-name lang="en">Detroit Red Wings vs. New York Islanders</display-name>
-  </channel>
-  <channel id="San Jose Sharks vs. New York Rangers">
-    <display-name lang="en">San Jose Sharks vs. New York Rangers</display-name>
-  </channel>
   <channel id="Utah Mammoth vs. St. Louis Blues">
     <display-name lang="en">Utah Mammoth vs. St. Louis Blues</display-name>
   </channel>
@@ -213,6 +213,54 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251023000000 -0500" channel="Chicago Blackhawks vs. Tampa Bay Lightning" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Anaheim Ducks vs. Boston Bruins" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Philadelphia Flyers vs. Ottawa Senators" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Pittsburgh Penguins vs. Florida Panthers" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Detroit Red Wings vs. New York Islanders" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="San Jose Sharks vs. New York Rangers" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251023000000 -0500" channel="Oklahoma City Thunder vs. Indiana Pacers" stop="20251023235959 -0500">
     <title>06:30 PM 23/10/25 - Oklahoma City Thunder vs. Indiana Pacers</title>
     <date>2025</date>
@@ -615,54 +663,6 @@
   </programme>
   <programme start="20251023000000 -0500" channel="Real Betis vs. Atl&#233;tico de Madrid" stop="20251023235959 -0500">
     <title>03:00 PM 27/10/25 - Real Betis vs. Atl&#233;tico de Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="Chicago Blackhawks vs. Tampa Bay Lightning" stop="20251023235959 -0500">
-    <title>05:45 PM 23/10/25 - Chicago Blackhawks vs. Tampa Bay Lightning</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="Anaheim Ducks vs. Boston Bruins" stop="20251023235959 -0500">
-    <title>06:00 PM 23/10/25 - Anaheim Ducks vs. Boston Bruins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="Philadelphia Flyers vs. Ottawa Senators" stop="20251023235959 -0500">
-    <title>06:00 PM 23/10/25 - Philadelphia Flyers vs. Ottawa Senators</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="Pittsburgh Penguins vs. Florida Panthers" stop="20251023235959 -0500">
-    <title>06:00 PM 23/10/25 - Pittsburgh Penguins vs. Florida Panthers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="Detroit Red Wings vs. New York Islanders" stop="20251023235959 -0500">
-    <title>06:00 PM 23/10/25 - Detroit Red Wings vs. New York Islanders</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="San Jose Sharks vs. New York Rangers" stop="20251023235959 -0500">
-    <title>06:00 PM 23/10/25 - San Jose Sharks vs. New York Rangers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
