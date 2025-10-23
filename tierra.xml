@@ -9,9 +9,6 @@
   <channel id="Miami Heat vs. Orlando Magic">
     <display-name lang="en">Miami Heat vs. Orlando Magic</display-name>
   </channel>
-  <channel id="Minnesota Wild vs. New Jersey Devils">
-    <display-name lang="en">Minnesota Wild vs. New Jersey Devils</display-name>
-  </channel>
   <channel id="Toronto Raptors vs. Atlanta Hawks">
     <display-name lang="en">Toronto Raptors vs. Atlanta Hawks</display-name>
   </channel>
@@ -26,6 +23,15 @@
   </channel>
   <channel id="Washington Wizards vs. Milwaukee Bucks">
     <display-name lang="en">Washington Wizards vs. Milwaukee Bucks</display-name>
+  </channel>
+  <channel id="Minnesota Wild vs. New Jersey Devils">
+    <display-name lang="en">Minnesota Wild vs. New Jersey Devils</display-name>
+  </channel>
+  <channel id="Detroit Red Wings vs. Buffalo Sabres">
+    <display-name lang="en">Detroit Red Wings vs. Buffalo Sabres</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite">
+    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="LA Clippers vs. Utah Jazz">
     <display-name lang="en">LA Clippers vs. Utah Jazz</display-name>
@@ -282,14 +288,8 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
-  <channel id="Detroit Red Wings vs. Buffalo Sabres">
-    <display-name lang="en">Detroit Red Wings vs. Buffalo Sabres</display-name>
-  </channel>
   <channel id="Montreal Canadiens vs. Calgary Flames">
     <display-name lang="en">Montreal Canadiens vs. Calgary Flames</display-name>
-  </channel>
-  <channel id="AEW: Wednesday Night Dynamite">
-    <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
@@ -339,6 +339,46 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251022000000 -0500" channel="Toronto Raptors vs. Atlanta Hawks" stop="20251022235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251022000000 -0500" channel="Philadelphia 76ers vs. Boston Celtics" stop="20251022235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251022000000 -0500" channel="Detroit Pistons vs. Chicago Bulls" stop="20251022235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251022000000 -0500" channel="New Orleans Pelicans vs. Memphis Grizzlies" stop="20251022235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251022000000 -0500" channel="Washington Wizards vs. Milwaukee Bucks" stop="20251022235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251022000000 -0500" channel="Minnesota Wild vs. New Jersey Devils" stop="20251022235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -347,40 +387,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251022000000 -0500" channel="Toronto Raptors vs. Atlanta Hawks" stop="20251022235959 -0500">
-    <title>06:30 PM 22/10/25 - Toronto Raptors vs. Atlanta Hawks</title>
+  <programme start="20251022000000 -0500" channel="Detroit Red Wings vs. Buffalo Sabres" stop="20251022235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251022000000 -0500" channel="Philadelphia 76ers vs. Boston Celtics" stop="20251022235959 -0500">
-    <title>06:30 PM 22/10/25 - Philadelphia 76ers vs. Boston Celtics</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="Detroit Pistons vs. Chicago Bulls" stop="20251022235959 -0500">
-    <title>07:00 PM 22/10/25 - Detroit Pistons vs. Chicago Bulls</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="New Orleans Pelicans vs. Memphis Grizzlies" stop="20251022235959 -0500">
-    <title>07:00 PM 22/10/25 - New Orleans Pelicans vs. Memphis Grizzlies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="Washington Wizards vs. Milwaukee Bucks" stop="20251022235959 -0500">
-    <title>07:00 PM 22/10/25 - Washington Wizards vs. Milwaukee Bucks</title>
+  <programme start="20251022000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20251022235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1067,24 +1083,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251022000000 -0500" channel="Detroit Red Wings vs. Buffalo Sabres" stop="20251022235959 -0500">
-    <title>06:30 PM 22/10/25 - Detroit Red Wings vs. Buffalo Sabres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251022000000 -0500" channel="Montreal Canadiens vs. Calgary Flames" stop="20251022235959 -0500">
     <title>07:30 PM 22/10/25 - Montreal Canadiens vs. Calgary Flames</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20251022235959 -0500">
-    <title>07:00 PM 22/10/25 - AEW: Wednesday Night Dynamite</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
