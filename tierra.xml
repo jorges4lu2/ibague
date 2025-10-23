@@ -24,17 +24,20 @@
   <channel id="Washington Wizards vs. Milwaukee Bucks">
     <display-name lang="en">Washington Wizards vs. Milwaukee Bucks</display-name>
   </channel>
+  <channel id="LA Clippers vs. Utah Jazz">
+    <display-name lang="en">LA Clippers vs. Utah Jazz</display-name>
+  </channel>
   <channel id="Minnesota Wild vs. New Jersey Devils">
     <display-name lang="en">Minnesota Wild vs. New Jersey Devils</display-name>
   </channel>
   <channel id="Detroit Red Wings vs. Buffalo Sabres">
     <display-name lang="en">Detroit Red Wings vs. Buffalo Sabres</display-name>
   </channel>
+  <channel id="Montreal Canadiens vs. Calgary Flames">
+    <display-name lang="en">Montreal Canadiens vs. Calgary Flames</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
-  </channel>
-  <channel id="LA Clippers vs. Utah Jazz">
-    <display-name lang="en">LA Clippers vs. Utah Jazz</display-name>
   </channel>
   <channel id="San Antonio Spurs vs. Dallas Mavericks">
     <display-name lang="en">San Antonio Spurs vs. Dallas Mavericks</display-name>
@@ -288,9 +291,6 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
-  <channel id="Montreal Canadiens vs. Calgary Flames">
-    <display-name lang="en">Montreal Canadiens vs. Calgary Flames</display-name>
-  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
   </channel>
@@ -379,6 +379,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251022000000 -0500" channel="LA Clippers vs. Utah Jazz" stop="20251022235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251022000000 -0500" channel="Minnesota Wild vs. New Jersey Devils" stop="20251022235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -395,7 +403,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251022000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20251022235959 -0500">
+  <programme start="20251022000000 -0500" channel="Montreal Canadiens vs. Calgary Flames" stop="20251022235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -403,8 +411,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251022000000 -0500" channel="LA Clippers vs. Utah Jazz" stop="20251022235959 -0500">
-    <title>08:00 PM 22/10/25 - LA Clippers vs. Utah Jazz</title>
+  <programme start="20251022000000 -0500" channel="AEW: Wednesday Night Dynamite" stop="20251022235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1077,14 +1085,6 @@
   </programme>
   <programme start="20251022000000 -0500" channel="Real Betis vs. Atl&#233;tico de Madrid" stop="20251022235959 -0500">
     <title>03:00 PM 27/10/25 - Real Betis vs. Atl&#233;tico de Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251022000000 -0500" channel="Montreal Canadiens vs. Calgary Flames" stop="20251022235959 -0500">
-    <title>07:30 PM 22/10/25 - Montreal Canadiens vs. Calgary Flames</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
