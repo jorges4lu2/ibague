@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251023 -0500">
+  <channel id="Oklahoma City Thunder vs. Indiana Pacers">
+    <display-name lang="en">Oklahoma City Thunder vs. Indiana Pacers</display-name>
+  </channel>
   <channel id="Chicago Blackhawks vs. Tampa Bay Lightning">
     <display-name lang="en">Chicago Blackhawks vs. Tampa Bay Lightning</display-name>
   </channel>
@@ -18,8 +21,17 @@
   <channel id="San Jose Sharks vs. New York Rangers">
     <display-name lang="en">San Jose Sharks vs. New York Rangers</display-name>
   </channel>
-  <channel id="Oklahoma City Thunder vs. Indiana Pacers">
-    <display-name lang="en">Oklahoma City Thunder vs. Indiana Pacers</display-name>
+  <channel id="Utah Mammoth vs. St. Louis Blues">
+    <display-name lang="en">Utah Mammoth vs. St. Louis Blues</display-name>
+  </channel>
+  <channel id="Vancouver Canucks vs. Nashville Predators">
+    <display-name lang="en">Vancouver Canucks vs. Nashville Predators</display-name>
+  </channel>
+  <channel id="Seattle Kraken vs. Winnipeg Jets">
+    <display-name lang="en">Seattle Kraken vs. Winnipeg Jets</display-name>
+  </channel>
+  <channel id="TNA: Impact">
+    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="Denver Nuggets vs. Golden State Warriors">
     <display-name lang="en">Denver Nuggets vs. Golden State Warriors</display-name>
@@ -171,15 +183,6 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
-  <channel id="Utah Mammoth vs. St. Louis Blues">
-    <display-name lang="en">Utah Mammoth vs. St. Louis Blues</display-name>
-  </channel>
-  <channel id="Vancouver Canucks vs. Nashville Predators">
-    <display-name lang="en">Vancouver Canucks vs. Nashville Predators</display-name>
-  </channel>
-  <channel id="Seattle Kraken vs. Winnipeg Jets">
-    <display-name lang="en">Seattle Kraken vs. Winnipeg Jets</display-name>
-  </channel>
   <channel id="Los Angeles Kings vs. Dallas Stars">
     <display-name lang="en">Los Angeles Kings vs. Dallas Stars</display-name>
   </channel>
@@ -188,9 +191,6 @@
   </channel>
   <channel id="Montreal Canadiens vs. Edmonton Oilers">
     <display-name lang="en">Montreal Canadiens vs. Edmonton Oilers</display-name>
-  </channel>
-  <channel id="TNA: Impact">
-    <display-name lang="en">TNA: Impact</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -213,6 +213,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251023000000 -0500" channel="Oklahoma City Thunder vs. Indiana Pacers" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251023000000 -0500" channel="Chicago Blackhawks vs. Tampa Bay Lightning" stop="20251023235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -261,8 +269,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251023000000 -0500" channel="Oklahoma City Thunder vs. Indiana Pacers" stop="20251023235959 -0500">
-    <title>06:30 PM 23/10/25 - Oklahoma City Thunder vs. Indiana Pacers</title>
+  <programme start="20251023000000 -0500" channel="Utah Mammoth vs. St. Louis Blues" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Vancouver Canucks vs. Nashville Predators" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Seattle Kraken vs. Winnipeg Jets" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="TNA: Impact" stop="20251023235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -669,30 +701,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251023000000 -0500" channel="Utah Mammoth vs. St. Louis Blues" stop="20251023235959 -0500">
-    <title>07:00 PM 23/10/25 - Utah Mammoth vs. St. Louis Blues</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="Vancouver Canucks vs. Nashville Predators" stop="20251023235959 -0500">
-    <title>07:00 PM 23/10/25 - Vancouver Canucks vs. Nashville Predators</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="Seattle Kraken vs. Winnipeg Jets" stop="20251023235959 -0500">
-    <title>07:00 PM 23/10/25 - Seattle Kraken vs. Winnipeg Jets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251023000000 -0500" channel="Los Angeles Kings vs. Dallas Stars" stop="20251023235959 -0500">
     <title>08:00 PM 23/10/25 - Los Angeles Kings vs. Dallas Stars</title>
     <date>2025</date>
@@ -711,14 +719,6 @@
   </programme>
   <programme start="20251023000000 -0500" channel="Montreal Canadiens vs. Edmonton Oilers" stop="20251023235959 -0500">
     <title>08:00 PM 23/10/25 - Montreal Canadiens vs. Edmonton Oilers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="TNA: Impact" stop="20251023235959 -0500">
-    <title>07:00 PM 23/10/25 - TNA: Impact</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
