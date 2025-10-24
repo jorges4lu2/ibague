@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251024 -0500">
+  <channel id="Rijeka vs. Sparta Praha">
+    <display-name lang="en">Rijeka vs. Sparta Praha</display-name>
+  </channel>
   <channel id="Miami Dolphins vs. Atlanta Falcons">
     <display-name lang="en">Miami Dolphins vs. Atlanta Falcons</display-name>
   </channel>
@@ -95,9 +98,6 @@
   </channel>
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
-  </channel>
-  <channel id="Rijeka vs. Sparta Praha">
-    <display-name lang="en">Rijeka vs. Sparta Praha</display-name>
   </channel>
   <channel id="Bremen vs. Union Berlin">
     <display-name lang="en">Bremen vs. Union Berlin</display-name>
@@ -264,6 +264,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251024000000 -0500" channel="Rijeka vs. Sparta Praha" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251024000000 -0500" channel="Miami Dolphins vs. Atlanta Falcons" stop="20251024235959 -0500">
     <title>12:00 PM 26/10/25 - Miami Dolphins vs. Atlanta Falcons</title>
     <date>2025</date>
@@ -514,14 +522,6 @@
   </programme>
   <programme start="20251024000000 -0500" channel="Machineseeker European Championship (Day 4 Evening)" stop="20251024235959 -0500">
     <title>01:00 PM 26/10/25 - Machineseeker European Championship (Day 4 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Rijeka vs. Sparta Praha" stop="20251024235959 -0500">
-    <title>09:00 AM 24/10/25 - Rijeka vs. Sparta Praha</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
