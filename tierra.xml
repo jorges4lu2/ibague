@@ -78,6 +78,9 @@
   <channel id="UFC 321: Aspinall vs. Gane">
     <display-name lang="en">UFC 321: Aspinall vs. Gane</display-name>
   </channel>
+  <channel id="Parker vs. Wardley">
+    <display-name lang="en">Parker vs. Wardley</display-name>
+  </channel>
   <channel id="Machineseeker European Championship (Day 2)">
     <display-name lang="en">Machineseeker European Championship (Day 2)</display-name>
   </channel>
@@ -92,6 +95,9 @@
   </channel>
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
+  </channel>
+  <channel id="Rijeka vs. Sparta Praha">
+    <display-name lang="en">Rijeka vs. Sparta Praha</display-name>
   </channel>
   <channel id="Bremen vs. Union Berlin">
     <display-name lang="en">Bremen vs. Union Berlin</display-name>
@@ -221,6 +227,21 @@
   </channel>
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
+  </channel>
+  <channel id="Mexican Grand Prix - FP1">
+    <display-name lang="en">Mexican Grand Prix - FP1</display-name>
+  </channel>
+  <channel id="Mexican Grand Prix - FP2">
+    <display-name lang="en">Mexican Grand Prix - FP2</display-name>
+  </channel>
+  <channel id="Mexican Grand Prix - FP3">
+    <display-name lang="en">Mexican Grand Prix - FP3</display-name>
+  </channel>
+  <channel id="Mexican Grand Prix - Qualifying">
+    <display-name lang="en">Mexican Grand Prix - Qualifying</display-name>
+  </channel>
+  <channel id="Mexican Grand Prix - Race">
+    <display-name lang="en">Mexican Grand Prix - Race</display-name>
   </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
@@ -451,6 +472,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251024000000 -0500" channel="Parker vs. Wardley" stop="20251024235959 -0500">
+    <title>12:30 PM 25/10/25 - Parker vs. Wardley</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251024000000 -0500" channel="Machineseeker European Championship (Day 2)" stop="20251024235959 -0500">
     <title>12:00 PM 24/10/25 - Machineseeker European Championship (Day 2)</title>
     <date>2025</date>
@@ -485,6 +514,14 @@
   </programme>
   <programme start="20251024000000 -0500" channel="Machineseeker European Championship (Day 4 Evening)" stop="20251024235959 -0500">
     <title>01:00 PM 26/10/25 - Machineseeker European Championship (Day 4 Evening)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Rijeka vs. Sparta Praha" stop="20251024235959 -0500">
+    <title>09:00 AM 24/10/25 - Rijeka vs. Sparta Praha</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -829,6 +866,46 @@
   </programme>
   <programme start="20251024000000 -0500" channel="Real Betis vs. Atl&#233;tico de Madrid" stop="20251024235959 -0500">
     <title>03:00 PM 27/10/25 - Real Betis vs. Atl&#233;tico de Madrid</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Mexican Grand Prix - FP1" stop="20251024235959 -0500">
+    <title>01:30 PM 24/10/25 - Mexican Grand Prix - FP1</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Mexican Grand Prix - FP2" stop="20251024235959 -0500">
+    <title>05:00 PM 24/10/25 - Mexican Grand Prix - FP2</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Mexican Grand Prix - FP3" stop="20251024235959 -0500">
+    <title>12:30 PM 25/10/25 - Mexican Grand Prix - FP3</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Mexican Grand Prix - Qualifying" stop="20251024235959 -0500">
+    <title>04:00 PM 25/10/25 - Mexican Grand Prix - Qualifying</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Mexican Grand Prix - Race" stop="20251024235959 -0500">
+    <title>03:00 PM 26/10/25 - Mexican Grand Prix - Race</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
