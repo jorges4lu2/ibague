@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251024 -0500">
-  <channel id="Rijeka vs. Sparta Praha">
-    <display-name lang="en">Rijeka vs. Sparta Praha</display-name>
+  <channel id="Machineseeker European Championship (Day 2)">
+    <display-name lang="en">Machineseeker European Championship (Day 2)</display-name>
   </channel>
   <channel id="Miami Dolphins vs. Atlanta Falcons">
     <display-name lang="en">Miami Dolphins vs. Atlanta Falcons</display-name>
@@ -83,9 +83,6 @@
   </channel>
   <channel id="Parker vs. Wardley">
     <display-name lang="en">Parker vs. Wardley</display-name>
-  </channel>
-  <channel id="Machineseeker European Championship (Day 2)">
-    <display-name lang="en">Machineseeker European Championship (Day 2)</display-name>
   </channel>
   <channel id="Machineseeker European Championship (Day 3 Afternoon)">
     <display-name lang="en">Machineseeker European Championship (Day 3 Afternoon)</display-name>
@@ -228,6 +225,18 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
+  <channel id="Toronto Maple Leafs vs. Buffalo Sabres">
+    <display-name lang="en">Toronto Maple Leafs vs. Buffalo Sabres</display-name>
+  </channel>
+  <channel id="San Jose Sharks vs. New Jersey Devils">
+    <display-name lang="en">San Jose Sharks vs. New Jersey Devils</display-name>
+  </channel>
+  <channel id="Washington Capitals vs. Columbus Blue Jackets">
+    <display-name lang="en">Washington Capitals vs. Columbus Blue Jackets</display-name>
+  </channel>
+  <channel id="Calgary Flames vs. Winnipeg Jets">
+    <display-name lang="en">Calgary Flames vs. Winnipeg Jets</display-name>
+  </channel>
   <channel id="Mexican Grand Prix - FP1">
     <display-name lang="en">Mexican Grand Prix - FP1</display-name>
   </channel>
@@ -264,7 +273,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251024000000 -0500" channel="Rijeka vs. Sparta Praha" stop="20251024235959 -0500">
+  <programme start="20251024000000 -0500" channel="Machineseeker European Championship (Day 2)" stop="20251024235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -482,14 +491,6 @@
   </programme>
   <programme start="20251024000000 -0500" channel="Parker vs. Wardley" stop="20251024235959 -0500">
     <title>12:30 PM 25/10/25 - Parker vs. Wardley</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Machineseeker European Championship (Day 2)" stop="20251024235959 -0500">
-    <title>12:00 PM 24/10/25 - Machineseeker European Championship (Day 2)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -866,6 +867,38 @@
   </programme>
   <programme start="20251024000000 -0500" channel="Real Betis vs. Atl&#233;tico de Madrid" stop="20251024235959 -0500">
     <title>03:00 PM 27/10/25 - Real Betis vs. Atl&#233;tico de Madrid</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Toronto Maple Leafs vs. Buffalo Sabres" stop="20251024235959 -0500">
+    <title>06:00 PM 24/10/25 - Toronto Maple Leafs vs. Buffalo Sabres</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="San Jose Sharks vs. New Jersey Devils" stop="20251024235959 -0500">
+    <title>06:00 PM 24/10/25 - San Jose Sharks vs. New Jersey Devils</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Washington Capitals vs. Columbus Blue Jackets" stop="20251024235959 -0500">
+    <title>06:00 PM 24/10/25 - Washington Capitals vs. Columbus Blue Jackets</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Calgary Flames vs. Winnipeg Jets" stop="20251024235959 -0500">
+    <title>07:00 PM 24/10/25 - Calgary Flames vs. Winnipeg Jets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
