@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251023 -0500">
+  <channel id="Minnesota Vikings vs. Los Angeles Chargers">
+    <display-name lang="en">Minnesota Vikings vs. Los Angeles Chargers</display-name>
+  </channel>
   <channel id="Oklahoma City Thunder vs. Indiana Pacers">
     <display-name lang="en">Oklahoma City Thunder vs. Indiana Pacers</display-name>
   </channel>
@@ -30,8 +33,53 @@
   <channel id="Seattle Kraken vs. Winnipeg Jets">
     <display-name lang="en">Seattle Kraken vs. Winnipeg Jets</display-name>
   </channel>
+  <channel id="Los Angeles Kings vs. Dallas Stars">
+    <display-name lang="en">Los Angeles Kings vs. Dallas Stars</display-name>
+  </channel>
+  <channel id="Carolina Hurricanes vs. Colorado Avalanche">
+    <display-name lang="en">Carolina Hurricanes vs. Colorado Avalanche</display-name>
+  </channel>
+  <channel id="Montreal Canadiens vs. Edmonton Oilers">
+    <display-name lang="en">Montreal Canadiens vs. Edmonton Oilers</display-name>
+  </channel>
   <channel id="TNA: Impact">
     <display-name lang="en">TNA: Impact</display-name>
+  </channel>
+  <channel id="Miami Dolphins vs. Atlanta Falcons">
+    <display-name lang="en">Miami Dolphins vs. Atlanta Falcons</display-name>
+  </channel>
+  <channel id="New York Jets vs. Cincinnati Bengals">
+    <display-name lang="en">New York Jets vs. Cincinnati Bengals</display-name>
+  </channel>
+  <channel id="Cleveland Browns vs. New England Patriots">
+    <display-name lang="en">Cleveland Browns vs. New England Patriots</display-name>
+  </channel>
+  <channel id="New York Giants vs. Philadelphia Eagles">
+    <display-name lang="en">New York Giants vs. Philadelphia Eagles</display-name>
+  </channel>
+  <channel id="Buffalo Bills vs. Carolina Panthers">
+    <display-name lang="en">Buffalo Bills vs. Carolina Panthers</display-name>
+  </channel>
+  <channel id="Chicago Bears vs. Baltimore Ravens">
+    <display-name lang="en">Chicago Bears vs. Baltimore Ravens</display-name>
+  </channel>
+  <channel id="San Francisco 49ers vs. Houston Texans">
+    <display-name lang="en">San Francisco 49ers vs. Houston Texans</display-name>
+  </channel>
+  <channel id="Tampa Bay Buccaneers vs. New Orleans Saints">
+    <display-name lang="en">Tampa Bay Buccaneers vs. New Orleans Saints</display-name>
+  </channel>
+  <channel id="Dallas Cowboys vs. Denver Broncos">
+    <display-name lang="en">Dallas Cowboys vs. Denver Broncos</display-name>
+  </channel>
+  <channel id="Tennessee Titans vs. Indianapolis Colts">
+    <display-name lang="en">Tennessee Titans vs. Indianapolis Colts</display-name>
+  </channel>
+  <channel id="Green Bay Packers vs. Pittsburgh Steelers">
+    <display-name lang="en">Green Bay Packers vs. Pittsburgh Steelers</display-name>
+  </channel>
+  <channel id="Washington Commanders vs. Kansas City Chiefs">
+    <display-name lang="en">Washington Commanders vs. Kansas City Chiefs</display-name>
   </channel>
   <channel id="Denver Nuggets vs. Golden State Warriors">
     <display-name lang="en">Denver Nuggets vs. Golden State Warriors</display-name>
@@ -183,15 +231,6 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
-  <channel id="Los Angeles Kings vs. Dallas Stars">
-    <display-name lang="en">Los Angeles Kings vs. Dallas Stars</display-name>
-  </channel>
-  <channel id="Carolina Hurricanes vs. Colorado Avalanche">
-    <display-name lang="en">Carolina Hurricanes vs. Colorado Avalanche</display-name>
-  </channel>
-  <channel id="Montreal Canadiens vs. Edmonton Oilers">
-    <display-name lang="en">Montreal Canadiens vs. Edmonton Oilers</display-name>
-  </channel>
   <channel id="WWE: Friday Night Smackdown">
     <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
@@ -213,6 +252,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251023000000 -0500" channel="Minnesota Vikings vs. Los Angeles Chargers" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251023000000 -0500" channel="Oklahoma City Thunder vs. Indiana Pacers" stop="20251023235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -293,8 +340,128 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251023000000 -0500" channel="Los Angeles Kings vs. Dallas Stars" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Carolina Hurricanes vs. Colorado Avalanche" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Montreal Canadiens vs. Edmonton Oilers" stop="20251023235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251023000000 -0500" channel="TNA: Impact" stop="20251023235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Miami Dolphins vs. Atlanta Falcons" stop="20251023235959 -0500">
+    <title>12:00 PM 26/10/25 - Miami Dolphins vs. Atlanta Falcons</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="New York Jets vs. Cincinnati Bengals" stop="20251023235959 -0500">
+    <title>12:00 PM 26/10/25 - New York Jets vs. Cincinnati Bengals</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Cleveland Browns vs. New England Patriots" stop="20251023235959 -0500">
+    <title>12:00 PM 26/10/25 - Cleveland Browns vs. New England Patriots</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="New York Giants vs. Philadelphia Eagles" stop="20251023235959 -0500">
+    <title>12:00 PM 26/10/25 - New York Giants vs. Philadelphia Eagles</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Buffalo Bills vs. Carolina Panthers" stop="20251023235959 -0500">
+    <title>12:00 PM 26/10/25 - Buffalo Bills vs. Carolina Panthers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Chicago Bears vs. Baltimore Ravens" stop="20251023235959 -0500">
+    <title>12:00 PM 26/10/25 - Chicago Bears vs. Baltimore Ravens</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="San Francisco 49ers vs. Houston Texans" stop="20251023235959 -0500">
+    <title>12:00 PM 26/10/25 - San Francisco 49ers vs. Houston Texans</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Tampa Bay Buccaneers vs. New Orleans Saints" stop="20251023235959 -0500">
+    <title>03:05 PM 26/10/25 - Tampa Bay Buccaneers vs. New Orleans Saints</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Dallas Cowboys vs. Denver Broncos" stop="20251023235959 -0500">
+    <title>03:25 PM 26/10/25 - Dallas Cowboys vs. Denver Broncos</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Tennessee Titans vs. Indianapolis Colts" stop="20251023235959 -0500">
+    <title>03:25 PM 26/10/25 - Tennessee Titans vs. Indianapolis Colts</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Green Bay Packers vs. Pittsburgh Steelers" stop="20251023235959 -0500">
+    <title>07:20 PM 26/10/25 - Green Bay Packers vs. Pittsburgh Steelers</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251023000000 -0500" channel="Washington Commanders vs. Kansas City Chiefs" stop="20251023235959 -0500">
+    <title>07:15 PM 27/10/25 - Washington Commanders vs. Kansas City Chiefs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -695,30 +862,6 @@
   </programme>
   <programme start="20251023000000 -0500" channel="Real Betis vs. Atl&#233;tico de Madrid" stop="20251023235959 -0500">
     <title>03:00 PM 27/10/25 - Real Betis vs. Atl&#233;tico de Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="Los Angeles Kings vs. Dallas Stars" stop="20251023235959 -0500">
-    <title>08:00 PM 23/10/25 - Los Angeles Kings vs. Dallas Stars</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="Carolina Hurricanes vs. Colorado Avalanche" stop="20251023235959 -0500">
-    <title>08:00 PM 23/10/25 - Carolina Hurricanes vs. Colorado Avalanche</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251023000000 -0500" channel="Montreal Canadiens vs. Edmonton Oilers" stop="20251023235959 -0500">
-    <title>08:00 PM 23/10/25 - Montreal Canadiens vs. Edmonton Oilers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
