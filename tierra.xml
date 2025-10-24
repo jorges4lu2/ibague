@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251024 -0500">
+  <channel id="Milwaukee Bucks vs. Toronto Raptors">
+    <display-name lang="en">Milwaukee Bucks vs. Toronto Raptors</display-name>
+  </channel>
+  <channel id="Atlanta Hawks vs. Orlando Magic">
+    <display-name lang="en">Atlanta Hawks vs. Orlando Magic</display-name>
+  </channel>
+  <channel id="Toronto Maple Leafs vs. Buffalo Sabres">
+    <display-name lang="en">Toronto Maple Leafs vs. Buffalo Sabres</display-name>
+  </channel>
+  <channel id="San Jose Sharks vs. New Jersey Devils">
+    <display-name lang="en">San Jose Sharks vs. New Jersey Devils</display-name>
+  </channel>
+  <channel id="Washington Capitals vs. Columbus Blue Jackets">
+    <display-name lang="en">Washington Capitals vs. Columbus Blue Jackets</display-name>
+  </channel>
   <channel id="Mexican Grand Prix - FP2">
     <display-name lang="en">Mexican Grand Prix - FP2</display-name>
   </channel>
@@ -98,12 +113,6 @@
   </channel>
   <channel id="Los Angeles Dodgers vs. Toronto Blue Jays">
     <display-name lang="en">Los Angeles Dodgers vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Milwaukee Bucks vs. Toronto Raptors">
-    <display-name lang="en">Milwaukee Bucks vs. Toronto Raptors</display-name>
-  </channel>
-  <channel id="Atlanta Hawks vs. Orlando Magic">
-    <display-name lang="en">Atlanta Hawks vs. Orlando Magic</display-name>
   </channel>
   <channel id="Boston Celtics vs. New York Knicks">
     <display-name lang="en">Boston Celtics vs. New York Knicks</display-name>
@@ -267,15 +276,6 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
-  <channel id="Toronto Maple Leafs vs. Buffalo Sabres">
-    <display-name lang="en">Toronto Maple Leafs vs. Buffalo Sabres</display-name>
-  </channel>
-  <channel id="San Jose Sharks vs. New Jersey Devils">
-    <display-name lang="en">San Jose Sharks vs. New Jersey Devils</display-name>
-  </channel>
-  <channel id="Washington Capitals vs. Columbus Blue Jackets">
-    <display-name lang="en">Washington Capitals vs. Columbus Blue Jackets</display-name>
-  </channel>
   <channel id="Calgary Flames vs. Winnipeg Jets">
     <display-name lang="en">Calgary Flames vs. Winnipeg Jets</display-name>
   </channel>
@@ -309,6 +309,46 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251024000000 -0500" channel="Milwaukee Bucks vs. Toronto Raptors" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Atlanta Hawks vs. Orlando Magic" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Toronto Maple Leafs vs. Buffalo Sabres" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="San Jose Sharks vs. New Jersey Devils" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Washington Capitals vs. Columbus Blue Jackets" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251024000000 -0500" channel="Mexican Grand Prix - FP2" stop="20251024235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -567,22 +607,6 @@
   </programme>
   <programme start="20251024000000 -0500" channel="Los Angeles Dodgers vs. Toronto Blue Jays" stop="20251024235959 -0500">
     <title>07:00 PM 24/10/25 - Los Angeles Dodgers vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Milwaukee Bucks vs. Toronto Raptors" stop="20251024235959 -0500">
-    <title>05:30 PM 24/10/25 - Milwaukee Bucks vs. Toronto Raptors</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Atlanta Hawks vs. Orlando Magic" stop="20251024235959 -0500">
-    <title>06:00 PM 24/10/25 - Atlanta Hawks vs. Orlando Magic</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1015,30 +1039,6 @@
   </programme>
   <programme start="20251024000000 -0500" channel="Real Betis vs. Atl&#233;tico de Madrid" stop="20251024235959 -0500">
     <title>03:00 PM 27/10/25 - Real Betis vs. Atl&#233;tico de Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Toronto Maple Leafs vs. Buffalo Sabres" stop="20251024235959 -0500">
-    <title>06:00 PM 24/10/25 - Toronto Maple Leafs vs. Buffalo Sabres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="San Jose Sharks vs. New Jersey Devils" stop="20251024235959 -0500">
-    <title>06:00 PM 24/10/25 - San Jose Sharks vs. New Jersey Devils</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Washington Capitals vs. Columbus Blue Jackets" stop="20251024235959 -0500">
-    <title>06:00 PM 24/10/25 - Washington Capitals vs. Columbus Blue Jackets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
