@@ -3,6 +3,9 @@
   <channel id="Machineseeker European Championship (Day 3 Afternoon)">
     <display-name lang="en">Machineseeker European Championship (Day 3 Afternoon)</display-name>
   </channel>
+  <channel id="Girona FC vs. Real Oviedo">
+    <display-name lang="en">Girona FC vs. Real Oviedo</display-name>
+  </channel>
   <channel id="UCLA Bruins vs. Indiana Hoosiers">
     <display-name lang="en">UCLA Bruins vs. Indiana Hoosiers</display-name>
   </channel>
@@ -128,9 +131,6 @@
   </channel>
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
-  </channel>
-  <channel id="Girona FC vs. Real Oviedo">
-    <display-name lang="en">Girona FC vs. Real Oviedo</display-name>
   </channel>
   <channel id="Udinese vs. Lecce">
     <display-name lang="en">Udinese vs. Lecce</display-name>
@@ -264,8 +264,8 @@
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
-  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203; Guy">
-    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203; Guy</display-name>
+  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204; Guy">
+    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204; Guy</display-name>
   </channel>
   <channel id="24/7 The Simpsons">
     <display-name lang="en">24/7 The Simpsons</display-name>
@@ -274,6 +274,14 @@
     <display-name lang="en">Master stream test</display-name>
   </channel>
   <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 3 Afternoon)" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Girona FC vs. Real Oviedo" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -611,14 +619,6 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 4 Evening)" stop="20251025235959 -0500">
     <title>01:00 PM 26/10/25 - Machineseeker European Championship (Day 4 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Girona FC vs. Real Oviedo" stop="20251025235959 -0500">
-    <title>07:00 AM 25/10/25 - Girona FC vs. Real Oviedo</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -977,7 +977,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203; Guy" stop="20251025235959 -0500">
+  <programme start="20251025000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203;&#8204;&#8204; Guy" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
