@@ -120,11 +120,11 @@
   <channel id="Machineseeker European Championship (Day 3 Afternoon)">
     <display-name lang="en">Machineseeker European Championship (Day 3 Afternoon)</display-name>
   </channel>
-  <channel id="Machineseeker European Championship (Day 4 Afternoon)">
-    <display-name lang="en">Machineseeker European Championship (Day 4 Afternoon)</display-name>
-  </channel>
   <channel id="Machineseeker European Championship (Day 3 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 3 Evening)</display-name>
+  </channel>
+  <channel id="Machineseeker European Championship (Day 4 Afternoon)">
+    <display-name lang="en">Machineseeker European Championship (Day 4 Afternoon)</display-name>
   </channel>
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
@@ -251,6 +251,9 @@
   </channel>
   <channel id="Mexican Grand Prix - Race">
     <display-name lang="en">Mexican Grand Prix - Race</display-name>
+  </channel>
+  <channel id="WWE: NXT Halloween Havoc">
+    <display-name lang="en">WWE: NXT Halloween Havoc</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -590,16 +593,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 4 Afternoon)" stop="20251025235959 -0500">
-    <title>06:45 AM 26/10/25 - Machineseeker European Championship (Day 4 Afternoon)</title>
+  <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 3 Evening)" stop="20251025235959 -0500">
+    <title>12:00 PM 25/10/25 - Machineseeker European Championship (Day 3 Evening)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 3 Evening)" stop="20251025235959 -0500">
-    <title>01:00 PM 26/10/25 - Machineseeker European Championship (Day 3 Evening)</title>
+  <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 4 Afternoon)" stop="20251025235959 -0500">
+    <title>06:45 AM 26/10/25 - Machineseeker European Championship (Day 4 Afternoon)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -936,6 +939,14 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Mexican Grand Prix - Race" stop="20251025235959 -0500">
     <title>03:00 PM 26/10/25 - Mexican Grand Prix - Race</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="WWE: NXT Halloween Havoc" stop="20251025235959 -0500">
+    <title>06:00 PM 25/10/25 - WWE: NXT Halloween Havoc</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
