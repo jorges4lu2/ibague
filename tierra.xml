@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251025 -0500">
+  <channel id="Machineseeker European Championship (Day 3 Afternoon)">
+    <display-name lang="en">Machineseeker European Championship (Day 3 Afternoon)</display-name>
+  </channel>
   <channel id="UCLA Bruins vs. Indiana Hoosiers">
     <display-name lang="en">UCLA Bruins vs. Indiana Hoosiers</display-name>
   </channel>
@@ -116,9 +119,6 @@
   </channel>
   <channel id="Parker vs. Wardley">
     <display-name lang="en">Parker vs. Wardley</display-name>
-  </channel>
-  <channel id="Machineseeker European Championship (Day 3 Afternoon)">
-    <display-name lang="en">Machineseeker European Championship (Day 3 Afternoon)</display-name>
   </channel>
   <channel id="Machineseeker European Championship (Day 3 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 3 Evening)</display-name>
@@ -273,6 +273,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 3 Afternoon)" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251025000000 -0500" channel="UCLA Bruins vs. Indiana Hoosiers" stop="20251025235959 -0500">
     <title>11:00 AM 25/10/25 - UCLA Bruins vs. Indiana Hoosiers</title>
     <date>2025</date>
@@ -579,14 +587,6 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Parker vs. Wardley" stop="20251025235959 -0500">
     <title>12:30 PM 25/10/25 - Parker vs. Wardley</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 3 Afternoon)" stop="20251025235959 -0500">
-    <title>05:45 AM 25/10/25 - Machineseeker European Championship (Day 3 Afternoon)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
