@@ -1,10 +1,28 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251024 -0500">
+  <channel id="Los Angeles Dodgers vs. Toronto Blue Jays">
+    <display-name lang="en">Los Angeles Dodgers vs. Toronto Blue Jays</display-name>
+  </channel>
   <channel id="Milwaukee Bucks vs. Toronto Raptors">
     <display-name lang="en">Milwaukee Bucks vs. Toronto Raptors</display-name>
   </channel>
   <channel id="Atlanta Hawks vs. Orlando Magic">
     <display-name lang="en">Atlanta Hawks vs. Orlando Magic</display-name>
+  </channel>
+  <channel id="Boston Celtics vs. New York Knicks">
+    <display-name lang="en">Boston Celtics vs. New York Knicks</display-name>
+  </channel>
+  <channel id="Cleveland Cavaliers vs. Brooklyn Nets">
+    <display-name lang="en">Cleveland Cavaliers vs. Brooklyn Nets</display-name>
+  </channel>
+  <channel id="Detroit Pistons vs. Houston Rockets">
+    <display-name lang="en">Detroit Pistons vs. Houston Rockets</display-name>
+  </channel>
+  <channel id="Miami Heat vs. Memphis Grizzlies">
+    <display-name lang="en">Miami Heat vs. Memphis Grizzlies</display-name>
+  </channel>
+  <channel id="San Antonio Spurs vs. New Orleans Pelicans">
+    <display-name lang="en">San Antonio Spurs vs. New Orleans Pelicans</display-name>
   </channel>
   <channel id="Toronto Maple Leafs vs. Buffalo Sabres">
     <display-name lang="en">Toronto Maple Leafs vs. Buffalo Sabres</display-name>
@@ -15,8 +33,11 @@
   <channel id="Washington Capitals vs. Columbus Blue Jackets">
     <display-name lang="en">Washington Capitals vs. Columbus Blue Jackets</display-name>
   </channel>
-  <channel id="Mexican Grand Prix - FP2">
-    <display-name lang="en">Mexican Grand Prix - FP2</display-name>
+  <channel id="Calgary Flames vs. Winnipeg Jets">
+    <display-name lang="en">Calgary Flames vs. Winnipeg Jets</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown">
+    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="UCLA Bruins vs. Indiana Hoosiers">
     <display-name lang="en">UCLA Bruins vs. Indiana Hoosiers</display-name>
@@ -110,24 +131,6 @@
   </channel>
   <channel id="Washington Commanders vs. Kansas City Chiefs">
     <display-name lang="en">Washington Commanders vs. Kansas City Chiefs</display-name>
-  </channel>
-  <channel id="Los Angeles Dodgers vs. Toronto Blue Jays">
-    <display-name lang="en">Los Angeles Dodgers vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Boston Celtics vs. New York Knicks">
-    <display-name lang="en">Boston Celtics vs. New York Knicks</display-name>
-  </channel>
-  <channel id="Cleveland Cavaliers vs. Brooklyn Nets">
-    <display-name lang="en">Cleveland Cavaliers vs. Brooklyn Nets</display-name>
-  </channel>
-  <channel id="Detroit Pistons vs. Houston Rockets">
-    <display-name lang="en">Detroit Pistons vs. Houston Rockets</display-name>
-  </channel>
-  <channel id="Miami Heat vs. Memphis Grizzlies">
-    <display-name lang="en">Miami Heat vs. Memphis Grizzlies</display-name>
-  </channel>
-  <channel id="San Antonio Spurs vs. New Orleans Pelicans">
-    <display-name lang="en">San Antonio Spurs vs. New Orleans Pelicans</display-name>
   </channel>
   <channel id="Washington Wizards vs. Dallas Mavericks">
     <display-name lang="en">Washington Wizards vs. Dallas Mavericks</display-name>
@@ -276,9 +279,6 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
-  <channel id="Calgary Flames vs. Winnipeg Jets">
-    <display-name lang="en">Calgary Flames vs. Winnipeg Jets</display-name>
-  </channel>
   <channel id="Mexican Grand Prix - FP3">
     <display-name lang="en">Mexican Grand Prix - FP3</display-name>
   </channel>
@@ -287,9 +287,6 @@
   </channel>
   <channel id="Mexican Grand Prix - Race">
     <display-name lang="en">Mexican Grand Prix - Race</display-name>
-  </channel>
-  <channel id="WWE: Friday Night Smackdown">
-    <display-name lang="en">WWE: Friday Night Smackdown</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -309,6 +306,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251024000000 -0500" channel="Los Angeles Dodgers vs. Toronto Blue Jays" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251024000000 -0500" channel="Milwaukee Bucks vs. Toronto Raptors" stop="20251024235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -318,6 +323,46 @@
     </audio>
   </programme>
   <programme start="20251024000000 -0500" channel="Atlanta Hawks vs. Orlando Magic" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Boston Celtics vs. New York Knicks" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Cleveland Cavaliers vs. Brooklyn Nets" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Detroit Pistons vs. Houston Rockets" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Miami Heat vs. Memphis Grizzlies" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="San Antonio Spurs vs. New Orleans Pelicans" stop="20251024235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -349,7 +394,15 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251024000000 -0500" channel="Mexican Grand Prix - FP2" stop="20251024235959 -0500">
+  <programme start="20251024000000 -0500" channel="Calgary Flames vs. Winnipeg Jets" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="WWE: Friday Night Smackdown" stop="20251024235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -599,54 +652,6 @@
   </programme>
   <programme start="20251024000000 -0500" channel="Washington Commanders vs. Kansas City Chiefs" stop="20251024235959 -0500">
     <title>07:15 PM 27/10/25 - Washington Commanders vs. Kansas City Chiefs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Los Angeles Dodgers vs. Toronto Blue Jays" stop="20251024235959 -0500">
-    <title>07:00 PM 24/10/25 - Los Angeles Dodgers vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Boston Celtics vs. New York Knicks" stop="20251024235959 -0500">
-    <title>06:30 PM 24/10/25 - Boston Celtics vs. New York Knicks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Cleveland Cavaliers vs. Brooklyn Nets" stop="20251024235959 -0500">
-    <title>06:30 PM 24/10/25 - Cleveland Cavaliers vs. Brooklyn Nets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Detroit Pistons vs. Houston Rockets" stop="20251024235959 -0500">
-    <title>07:00 PM 24/10/25 - Detroit Pistons vs. Houston Rockets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Miami Heat vs. Memphis Grizzlies" stop="20251024235959 -0500">
-    <title>07:00 PM 24/10/25 - Miami Heat vs. Memphis Grizzlies</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="San Antonio Spurs vs. New Orleans Pelicans" stop="20251024235959 -0500">
-    <title>07:00 PM 24/10/25 - San Antonio Spurs vs. New Orleans Pelicans</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1045,14 +1050,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251024000000 -0500" channel="Calgary Flames vs. Winnipeg Jets" stop="20251024235959 -0500">
-    <title>07:00 PM 24/10/25 - Calgary Flames vs. Winnipeg Jets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251024000000 -0500" channel="Mexican Grand Prix - FP3" stop="20251024235959 -0500">
     <title>12:30 PM 25/10/25 - Mexican Grand Prix - FP3</title>
     <date>2025</date>
@@ -1071,14 +1068,6 @@
   </programme>
   <programme start="20251024000000 -0500" channel="Mexican Grand Prix - Race" stop="20251024235959 -0500">
     <title>03:00 PM 26/10/25 - Mexican Grand Prix - Race</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="WWE: Friday Night Smackdown" stop="20251024235959 -0500">
-    <title>07:00 PM 24/10/25 - WWE: Friday Night Smackdown</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
