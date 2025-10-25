@@ -6,6 +6,12 @@
   <channel id="Girona FC vs. Real Oviedo">
     <display-name lang="en">Girona FC vs. Real Oviedo</display-name>
   </channel>
+  <channel id="Udinese vs. Lecce">
+    <display-name lang="en">Udinese vs. Lecce</display-name>
+  </channel>
+  <channel id="Parma vs. Como">
+    <display-name lang="en">Parma vs. Como</display-name>
+  </channel>
   <channel id="UCLA Bruins vs. Indiana Hoosiers">
     <display-name lang="en">UCLA Bruins vs. Indiana Hoosiers</display-name>
   </channel>
@@ -131,12 +137,6 @@
   </channel>
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
-  </channel>
-  <channel id="Udinese vs. Lecce">
-    <display-name lang="en">Udinese vs. Lecce</display-name>
-  </channel>
-  <channel id="Parma vs. Como">
-    <display-name lang="en">Parma vs. Como</display-name>
   </channel>
   <channel id="Gladbach vs. Bayern">
     <display-name lang="en">Gladbach vs. Bayern</display-name>
@@ -282,6 +282,22 @@
     </audio>
   </programme>
   <programme start="20251025000000 -0500" channel="Girona FC vs. Real Oviedo" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Udinese vs. Lecce" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Parma vs. Como" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -619,22 +635,6 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 4 Evening)" stop="20251025235959 -0500">
     <title>01:00 PM 26/10/25 - Machineseeker European Championship (Day 4 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Udinese vs. Lecce" stop="20251025235959 -0500">
-    <title>08:00 AM 25/10/25 - Udinese vs. Lecce</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Parma vs. Como" stop="20251025235959 -0500">
-    <title>08:00 AM 25/10/25 - Parma vs. Como</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
