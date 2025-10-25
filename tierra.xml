@@ -6,9 +6,6 @@
   <channel id="Machineseeker European Championship (Day 3 Afternoon)">
     <display-name lang="en">Machineseeker European Championship (Day 3 Afternoon)</display-name>
   </channel>
-  <channel id="Girona FC vs. Real Oviedo">
-    <display-name lang="en">Girona FC vs. Real Oviedo</display-name>
-  </channel>
   <channel id="Udinese vs. Lecce">
     <display-name lang="en">Udinese vs. Lecce</display-name>
   </channel>
@@ -38,6 +35,12 @@
   </channel>
   <channel id="Newcastle United vs. Fulham">
     <display-name lang="en">Newcastle United vs. Fulham</display-name>
+  </channel>
+  <channel id="RCD Espanyol de Barcelona vs. Elche CF">
+    <display-name lang="en">RCD Espanyol de Barcelona vs. Elche CF</display-name>
+  </channel>
+  <channel id="Brest vs. PSG">
+    <display-name lang="en">Brest vs. PSG</display-name>
   </channel>
   <channel id="UCLA Bruins vs. Indiana Hoosiers">
     <display-name lang="en">UCLA Bruins vs. Indiana Hoosiers</display-name>
@@ -161,12 +164,6 @@
   </channel>
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
-  </channel>
-  <channel id="RCD Espanyol de Barcelona vs. Elche CF">
-    <display-name lang="en">RCD Espanyol de Barcelona vs. Elche CF</display-name>
-  </channel>
-  <channel id="Brest vs. PSG">
-    <display-name lang="en">Brest vs. PSG</display-name>
   </channel>
   <channel id="Napoli vs. Inter">
     <display-name lang="en">Napoli vs. Inter</display-name>
@@ -292,14 +289,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Girona FC vs. Real Oviedo" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251025000000 -0500" channel="Udinese vs. Lecce" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -373,6 +362,22 @@
     </audio>
   </programme>
   <programme start="20251025000000 -0500" channel="Newcastle United vs. Fulham" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="RCD Espanyol de Barcelona vs. Elche CF" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Brest vs. PSG" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -702,22 +707,6 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 4 Evening)" stop="20251025235959 -0500">
     <title>01:00 PM 26/10/25 - Machineseeker European Championship (Day 4 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="RCD Espanyol de Barcelona vs. Elche CF" stop="20251025235959 -0500">
-    <title>09:15 AM 25/10/25 - RCD Espanyol de Barcelona vs. Elche CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Brest vs. PSG" stop="20251025235959 -0500">
-    <title>10:00 AM 25/10/25 - Brest vs. PSG</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
