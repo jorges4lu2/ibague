@@ -1,16 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251025 -0500">
+  <channel id="UCLA Bruins vs. Indiana Hoosiers">
+    <display-name lang="en">UCLA Bruins vs. Indiana Hoosiers</display-name>
+  </channel>
+  <channel id="Syracuse Orange vs. Georgia Tech Yellow Jackets">
+    <display-name lang="en">Syracuse Orange vs. Georgia Tech Yellow Jackets</display-name>
+  </channel>
+  <channel id="Ole Miss Rebels vs. Oklahoma Sooners">
+    <display-name lang="en">Ole Miss Rebels vs. Oklahoma Sooners</display-name>
+  </channel>
+  <channel id="Virginia Cavaliers vs. North Carolina Tar Heels">
+    <display-name lang="en">Virginia Cavaliers vs. North Carolina Tar Heels</display-name>
+  </channel>
+  <channel id="South Florida Bulls vs. Memphis Tigers">
+    <display-name lang="en">South Florida Bulls vs. Memphis Tigers</display-name>
+  </channel>
   <channel id="UFC 321: Aspinall vs. Gane">
     <display-name lang="en">UFC 321: Aspinall vs. Gane</display-name>
-  </channel>
-  <channel id="Machineseeker European Championship (Day 3 Afternoon)">
-    <display-name lang="en">Machineseeker European Championship (Day 3 Afternoon)</display-name>
-  </channel>
-  <channel id="Udinese vs. Lecce">
-    <display-name lang="en">Udinese vs. Lecce</display-name>
-  </channel>
-  <channel id="Parma vs. Como">
-    <display-name lang="en">Parma vs. Como</display-name>
   </channel>
   <channel id="Gladbach vs. Bayern">
     <display-name lang="en">Gladbach vs. Bayern</display-name>
@@ -42,20 +48,8 @@
   <channel id="Brest vs. PSG">
     <display-name lang="en">Brest vs. PSG</display-name>
   </channel>
-  <channel id="UCLA Bruins vs. Indiana Hoosiers">
-    <display-name lang="en">UCLA Bruins vs. Indiana Hoosiers</display-name>
-  </channel>
-  <channel id="Syracuse Orange vs. Georgia Tech Yellow Jackets">
-    <display-name lang="en">Syracuse Orange vs. Georgia Tech Yellow Jackets</display-name>
-  </channel>
-  <channel id="Ole Miss Rebels vs. Oklahoma Sooners">
-    <display-name lang="en">Ole Miss Rebels vs. Oklahoma Sooners</display-name>
-  </channel>
-  <channel id="Virginia Cavaliers vs. North Carolina Tar Heels">
-    <display-name lang="en">Virginia Cavaliers vs. North Carolina Tar Heels</display-name>
-  </channel>
-  <channel id="South Florida Bulls vs. Memphis Tigers">
-    <display-name lang="en">South Florida Bulls vs. Memphis Tigers</display-name>
+  <channel id="Napoli vs. Inter">
+    <display-name lang="en">Napoli vs. Inter</display-name>
   </channel>
   <channel id="Alabama Crimson Tide vs. South Carolina Gamecocks">
     <display-name lang="en">Alabama Crimson Tide vs. South Carolina Gamecocks</display-name>
@@ -165,9 +159,6 @@
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
   </channel>
-  <channel id="Napoli vs. Inter">
-    <display-name lang="en">Napoli vs. Inter</display-name>
-  </channel>
   <channel id="Manchester United vs. Brighton and Hove Albion">
     <display-name lang="en">Manchester United vs. Brighton and Hove Albion</display-name>
   </channel>
@@ -273,31 +264,47 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251025000000 -0500" channel="UCLA Bruins vs. Indiana Hoosiers" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Syracuse Orange vs. Georgia Tech Yellow Jackets" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Ole Miss Rebels vs. Oklahoma Sooners" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Virginia Cavaliers vs. North Carolina Tar Heels" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="South Florida Bulls vs. Memphis Tigers" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251025000000 -0500" channel="UFC 321: Aspinall vs. Gane" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 3 Afternoon)" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Udinese vs. Lecce" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Parma vs. Como" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -385,40 +392,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="UCLA Bruins vs. Indiana Hoosiers" stop="20251025235959 -0500">
-    <title>11:00 AM 25/10/25 - UCLA Bruins vs. Indiana Hoosiers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Syracuse Orange vs. Georgia Tech Yellow Jackets" stop="20251025235959 -0500">
-    <title>11:00 AM 25/10/25 - Syracuse Orange vs. Georgia Tech Yellow Jackets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Ole Miss Rebels vs. Oklahoma Sooners" stop="20251025235959 -0500">
-    <title>11:00 AM 25/10/25 - Ole Miss Rebels vs. Oklahoma Sooners</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Virginia Cavaliers vs. North Carolina Tar Heels" stop="20251025235959 -0500">
-    <title>11:00 AM 25/10/25 - Virginia Cavaliers vs. North Carolina Tar Heels</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="South Florida Bulls vs. Memphis Tigers" stop="20251025235959 -0500">
-    <title>11:00 AM 25/10/25 - South Florida Bulls vs. Memphis Tigers</title>
+  <programme start="20251025000000 -0500" channel="Napoli vs. Inter" stop="20251025235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -707,14 +682,6 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 4 Evening)" stop="20251025235959 -0500">
     <title>01:00 PM 26/10/25 - Machineseeker European Championship (Day 4 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Napoli vs. Inter" stop="20251025235959 -0500">
-    <title>11:00 AM 25/10/25 - Napoli vs. Inter</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
