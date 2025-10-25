@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251025 -0500">
+  <channel id="UFC 321: Aspinall vs. Gane">
+    <display-name lang="en">UFC 321: Aspinall vs. Gane</display-name>
+  </channel>
   <channel id="Machineseeker European Championship (Day 3 Afternoon)">
     <display-name lang="en">Machineseeker European Championship (Day 3 Afternoon)</display-name>
   </channel>
@@ -11,6 +14,30 @@
   </channel>
   <channel id="Parma vs. Como">
     <display-name lang="en">Parma vs. Como</display-name>
+  </channel>
+  <channel id="Gladbach vs. Bayern">
+    <display-name lang="en">Gladbach vs. Bayern</display-name>
+  </channel>
+  <channel id="Frankfurt vs. St. Pauli">
+    <display-name lang="en">Frankfurt vs. St. Pauli</display-name>
+  </channel>
+  <channel id="Augsburg vs. RB Leipzig">
+    <display-name lang="en">Augsburg vs. RB Leipzig</display-name>
+  </channel>
+  <channel id="Hamburg vs. Wolfsburg">
+    <display-name lang="en">Hamburg vs. Wolfsburg</display-name>
+  </channel>
+  <channel id="Hoffenheim vs. Heidenheim">
+    <display-name lang="en">Hoffenheim vs. Heidenheim</display-name>
+  </channel>
+  <channel id="Goal Arena">
+    <display-name lang="en">Goal Arena</display-name>
+  </channel>
+  <channel id="Chelsea vs. Sunderland">
+    <display-name lang="en">Chelsea vs. Sunderland</display-name>
+  </channel>
+  <channel id="Newcastle United vs. Fulham">
+    <display-name lang="en">Newcastle United vs. Fulham</display-name>
   </channel>
   <channel id="UCLA Bruins vs. Indiana Hoosiers">
     <display-name lang="en">UCLA Bruins vs. Indiana Hoosiers</display-name>
@@ -123,9 +150,6 @@
   <channel id="Phoenix Suns vs. Denver Nuggets">
     <display-name lang="en">Phoenix Suns vs. Denver Nuggets</display-name>
   </channel>
-  <channel id="UFC 321: Aspinall vs. Gane">
-    <display-name lang="en">UFC 321: Aspinall vs. Gane</display-name>
-  </channel>
   <channel id="Parker vs. Wardley">
     <display-name lang="en">Parker vs. Wardley</display-name>
   </channel>
@@ -137,27 +161,6 @@
   </channel>
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
-  </channel>
-  <channel id="Gladbach vs. Bayern">
-    <display-name lang="en">Gladbach vs. Bayern</display-name>
-  </channel>
-  <channel id="Frankfurt vs. St. Pauli">
-    <display-name lang="en">Frankfurt vs. St. Pauli</display-name>
-  </channel>
-  <channel id="Augsburg vs. RB Leipzig">
-    <display-name lang="en">Augsburg vs. RB Leipzig</display-name>
-  </channel>
-  <channel id="Hamburg vs. Wolfsburg">
-    <display-name lang="en">Hamburg vs. Wolfsburg</display-name>
-  </channel>
-  <channel id="Hoffenheim vs. Heidenheim">
-    <display-name lang="en">Hoffenheim vs. Heidenheim</display-name>
-  </channel>
-  <channel id="Chelsea vs. Sunderland">
-    <display-name lang="en">Chelsea vs. Sunderland</display-name>
-  </channel>
-  <channel id="Newcastle United vs. Fulham">
-    <display-name lang="en">Newcastle United vs. Fulham</display-name>
   </channel>
   <channel id="RCD Espanyol de Barcelona vs. Elche CF">
     <display-name lang="en">RCD Espanyol de Barcelona vs. Elche CF</display-name>
@@ -273,6 +276,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251025000000 -0500" channel="UFC 321: Aspinall vs. Gane" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 3 Afternoon)" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -298,6 +309,70 @@
     </audio>
   </programme>
   <programme start="20251025000000 -0500" channel="Parma vs. Como" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Gladbach vs. Bayern" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Frankfurt vs. St. Pauli" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Augsburg vs. RB Leipzig" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Hamburg vs. Wolfsburg" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Hoffenheim vs. Heidenheim" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Goal Arena" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Chelsea vs. Sunderland" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Newcastle United vs. Fulham" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -601,14 +676,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="UFC 321: Aspinall vs. Gane" stop="20251025235959 -0500">
-    <title>09:00 AM 25/10/25 - UFC 321: Aspinall vs. Gane</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251025000000 -0500" channel="Parker vs. Wardley" stop="20251025235959 -0500">
     <title>12:30 PM 25/10/25 - Parker vs. Wardley</title>
     <date>2025</date>
@@ -635,62 +702,6 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Machineseeker European Championship (Day 4 Evening)" stop="20251025235959 -0500">
     <title>01:00 PM 26/10/25 - Machineseeker European Championship (Day 4 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Gladbach vs. Bayern" stop="20251025235959 -0500">
-    <title>08:30 AM 25/10/25 - Gladbach vs. Bayern</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Frankfurt vs. St. Pauli" stop="20251025235959 -0500">
-    <title>08:30 AM 25/10/25 - Frankfurt vs. St. Pauli</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Augsburg vs. RB Leipzig" stop="20251025235959 -0500">
-    <title>08:30 AM 25/10/25 - Augsburg vs. RB Leipzig</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Hamburg vs. Wolfsburg" stop="20251025235959 -0500">
-    <title>08:30 AM 25/10/25 - Hamburg vs. Wolfsburg</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Hoffenheim vs. Heidenheim" stop="20251025235959 -0500">
-    <title>08:30 AM 25/10/25 - Hoffenheim vs. Heidenheim</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Chelsea vs. Sunderland" stop="20251025235959 -0500">
-    <title>09:00 AM 25/10/25 - Chelsea vs. Sunderland</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Newcastle United vs. Fulham" stop="20251025235959 -0500">
-    <title>09:00 AM 25/10/25 - Newcastle United vs. Fulham</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
