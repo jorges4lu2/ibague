@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251025 -0500">
-  <channel id="Alabama Crimson Tide vs. South Carolina Gamecocks">
-    <display-name lang="en">Alabama Crimson Tide vs. South Carolina Gamecocks</display-name>
-  </channel>
-  <channel id="Missouri Tigers vs. Vanderbilt Commodores">
-    <display-name lang="en">Missouri Tigers vs. Vanderbilt Commodores</display-name>
-  </channel>
-  <channel id="BYU Cougars vs. Iowa State Cyclones">
-    <display-name lang="en">BYU Cougars vs. Iowa State Cyclones</display-name>
-  </channel>
-  <channel id="Illinois Fighting Illini vs. Washington Huskies">
-    <display-name lang="en">Illinois Fighting Illini vs. Washington Huskies</display-name>
-  </channel>
   <channel id="Oklahoma State Cowboys vs. Texas Tech Red Raiders">
     <display-name lang="en">Oklahoma State Cowboys vs. Texas Tech Red Raiders</display-name>
   </channel>
@@ -21,11 +9,17 @@
   <channel id="Texas Longhorns vs. Mississippi State Bulldogs">
     <display-name lang="en">Texas Longhorns vs. Mississippi State Bulldogs</display-name>
   </channel>
+  <channel id="Wisconsin Badgers vs. Oregon Ducks">
+    <display-name lang="en">Wisconsin Badgers vs. Oregon Ducks</display-name>
+  </channel>
+  <channel id="Stanford Cardinal vs. Miami Hurricanes">
+    <display-name lang="en">Stanford Cardinal vs. Miami Hurricanes</display-name>
+  </channel>
+  <channel id="Chicago Bulls vs. Orlando Magic">
+    <display-name lang="en">Chicago Bulls vs. Orlando Magic</display-name>
+  </channel>
   <channel id="Parker vs. Wardley">
     <display-name lang="en">Parker vs. Wardley</display-name>
-  </channel>
-  <channel id="RC Lens vs. OM">
-    <display-name lang="en">RC Lens vs. OM</display-name>
   </channel>
   <channel id="Anaheim Ducks vs. Tampa Bay Lightning">
     <display-name lang="en">Anaheim Ducks vs. Tampa Bay Lightning</display-name>
@@ -39,14 +33,20 @@
   <channel id="Utah Mammoth vs. Minnesota Wild">
     <display-name lang="en">Utah Mammoth vs. Minnesota Wild</display-name>
   </channel>
-  <channel id="Mexican Grand Prix - Qualifying">
-    <display-name lang="en">Mexican Grand Prix - Qualifying</display-name>
+  <channel id="St. Louis Blues vs. Detroit Red Wings">
+    <display-name lang="en">St. Louis Blues vs. Detroit Red Wings</display-name>
   </channel>
-  <channel id="Wisconsin Badgers vs. Oregon Ducks">
-    <display-name lang="en">Wisconsin Badgers vs. Oregon Ducks</display-name>
+  <channel id="Columbus Blue Jackets vs. Pittsburgh Penguins">
+    <display-name lang="en">Columbus Blue Jackets vs. Pittsburgh Penguins</display-name>
   </channel>
-  <channel id="Stanford Cardinal vs. Miami Hurricanes">
-    <display-name lang="en">Stanford Cardinal vs. Miami Hurricanes</display-name>
+  <channel id="Ottawa Senators vs. Washington Capitals">
+    <display-name lang="en">Ottawa Senators vs. Washington Capitals</display-name>
+  </channel>
+  <channel id="Montreal Canadiens vs. Vancouver Canucks">
+    <display-name lang="en">Montreal Canadiens vs. Vancouver Canucks</display-name>
+  </channel>
+  <channel id="WWE: NXT Halloween Havoc">
+    <display-name lang="en">WWE: NXT Halloween Havoc</display-name>
   </channel>
   <channel id="Texas A&amp;amp;M Aggies vs. LSU Tigers">
     <display-name lang="en">Texas A&amp;amp;M Aggies vs. LSU Tigers</display-name>
@@ -101,9 +101,6 @@
   </channel>
   <channel id="Los Angeles Dodgers vs. Toronto Blue Jays">
     <display-name lang="en">Los Angeles Dodgers vs. Toronto Blue Jays</display-name>
-  </channel>
-  <channel id="Chicago Bulls vs. Orlando Magic">
-    <display-name lang="en">Chicago Bulls vs. Orlando Magic</display-name>
   </channel>
   <channel id="Oklahoma City Thunder vs. Atlanta Hawks">
     <display-name lang="en">Oklahoma City Thunder vs. Atlanta Hawks</display-name>
@@ -174,18 +171,6 @@
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
   </channel>
-  <channel id="St. Louis Blues vs. Detroit Red Wings">
-    <display-name lang="en">St. Louis Blues vs. Detroit Red Wings</display-name>
-  </channel>
-  <channel id="Columbus Blue Jackets vs. Pittsburgh Penguins">
-    <display-name lang="en">Columbus Blue Jackets vs. Pittsburgh Penguins</display-name>
-  </channel>
-  <channel id="Ottawa Senators vs. Washington Capitals">
-    <display-name lang="en">Ottawa Senators vs. Washington Capitals</display-name>
-  </channel>
-  <channel id="Montreal Canadiens vs. Vancouver Canucks">
-    <display-name lang="en">Montreal Canadiens vs. Vancouver Canucks</display-name>
-  </channel>
   <channel id="Los Angeles Kings vs. Nashville Predators">
     <display-name lang="en">Los Angeles Kings vs. Nashville Predators</display-name>
   </channel>
@@ -197,9 +182,6 @@
   </channel>
   <channel id="Mexican Grand Prix - Race">
     <display-name lang="en">Mexican Grand Prix - Race</display-name>
-  </channel>
-  <channel id="WWE: NXT Halloween Havoc">
-    <display-name lang="en">WWE: NXT Halloween Havoc</display-name>
   </channel>
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
@@ -219,38 +201,6 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251025000000 -0500" channel="Alabama Crimson Tide vs. South Carolina Gamecocks" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Missouri Tigers vs. Vanderbilt Commodores" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="BYU Cougars vs. Iowa State Cyclones" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Illinois Fighting Illini vs. Washington Huskies" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251025000000 -0500" channel="Oklahoma State Cowboys vs. Texas Tech Red Raiders" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -275,7 +225,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Parker vs. Wardley" stop="20251025235959 -0500">
+  <programme start="20251025000000 -0500" channel="Wisconsin Badgers vs. Oregon Ducks" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -283,7 +233,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="RC Lens vs. OM" stop="20251025235959 -0500">
+  <programme start="20251025000000 -0500" channel="Stanford Cardinal vs. Miami Hurricanes" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Chicago Bulls vs. Orlando Magic" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Parker vs. Wardley" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -323,7 +289,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Mexican Grand Prix - Qualifying" stop="20251025235959 -0500">
+  <programme start="20251025000000 -0500" channel="St. Louis Blues vs. Detroit Red Wings" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -331,16 +297,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Wisconsin Badgers vs. Oregon Ducks" stop="20251025235959 -0500">
-    <title>06:00 PM 25/10/25 - Wisconsin Badgers vs. Oregon Ducks</title>
+  <programme start="20251025000000 -0500" channel="Columbus Blue Jackets vs. Pittsburgh Penguins" stop="20251025235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Stanford Cardinal vs. Miami Hurricanes" stop="20251025235959 -0500">
-    <title>06:00 PM 25/10/25 - Stanford Cardinal vs. Miami Hurricanes</title>
+  <programme start="20251025000000 -0500" channel="Ottawa Senators vs. Washington Capitals" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Montreal Canadiens vs. Vancouver Canucks" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="WWE: NXT Halloween Havoc" stop="20251025235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -485,14 +467,6 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Los Angeles Dodgers vs. Toronto Blue Jays" stop="20251025235959 -0500">
     <title>07:00 PM 25/10/25 - Los Angeles Dodgers vs. Toronto Blue Jays</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Chicago Bulls vs. Orlando Magic" stop="20251025235959 -0500">
-    <title>06:00 PM 25/10/25 - Chicago Bulls vs. Orlando Magic</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -683,38 +657,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="St. Louis Blues vs. Detroit Red Wings" stop="20251025235959 -0500">
-    <title>06:00 PM 25/10/25 - St. Louis Blues vs. Detroit Red Wings</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Columbus Blue Jackets vs. Pittsburgh Penguins" stop="20251025235959 -0500">
-    <title>06:00 PM 25/10/25 - Columbus Blue Jackets vs. Pittsburgh Penguins</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Ottawa Senators vs. Washington Capitals" stop="20251025235959 -0500">
-    <title>06:00 PM 25/10/25 - Ottawa Senators vs. Washington Capitals</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Montreal Canadiens vs. Vancouver Canucks" stop="20251025235959 -0500">
-    <title>06:00 PM 25/10/25 - Montreal Canadiens vs. Vancouver Canucks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251025000000 -0500" channel="Los Angeles Kings vs. Nashville Predators" stop="20251025235959 -0500">
     <title>07:00 PM 25/10/25 - Los Angeles Kings vs. Nashville Predators</title>
     <date>2025</date>
@@ -741,14 +683,6 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Mexican Grand Prix - Race" stop="20251025235959 -0500">
     <title>03:00 PM 26/10/25 - Mexican Grand Prix - Race</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="WWE: NXT Halloween Havoc" stop="20251025235959 -0500">
-    <title>06:00 PM 25/10/25 - WWE: NXT Halloween Havoc</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
