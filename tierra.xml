@@ -24,23 +24,29 @@
   <channel id="Machineseeker European Championship (Day 3 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 3 Evening)</display-name>
   </channel>
-  <channel id="Napoli vs. Inter">
-    <display-name lang="en">Napoli vs. Inter</display-name>
-  </channel>
   <channel id="Manchester United vs. Brighton and Hove Albion">
     <display-name lang="en">Manchester United vs. Brighton and Hove Albion</display-name>
   </channel>
   <channel id="Dortmund vs. Cologne">
     <display-name lang="en">Dortmund vs. Cologne</display-name>
   </channel>
-  <channel id="Athletic Club vs. Getafe CF">
-    <display-name lang="en">Athletic Club vs. Getafe CF</display-name>
-  </channel>
   <channel id="AS Monaco vs. Toulouse FC">
     <display-name lang="en">AS Monaco vs. Toulouse FC</display-name>
   </channel>
+  <channel id="Cremonese vs. Atalanta">
+    <display-name lang="en">Cremonese vs. Atalanta</display-name>
+  </channel>
+  <channel id="Brentford vs. Liverpool">
+    <display-name lang="en">Brentford vs. Liverpool</display-name>
+  </channel>
+  <channel id="Valencia CF vs. Villarreal CF">
+    <display-name lang="en">Valencia CF vs. Villarreal CF</display-name>
+  </channel>
   <channel id="New York Islanders vs. Philadelphia Flyers">
     <display-name lang="en">New York Islanders vs. Philadelphia Flyers</display-name>
+  </channel>
+  <channel id="Colorado Avalanche vs. Boston Bruins">
+    <display-name lang="en">Colorado Avalanche vs. Boston Bruins</display-name>
   </channel>
   <channel id="Mexican Grand Prix - FP3">
     <display-name lang="en">Mexican Grand Prix - FP3</display-name>
@@ -147,15 +153,6 @@
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
   </channel>
-  <channel id="Cremonese vs. Atalanta">
-    <display-name lang="en">Cremonese vs. Atalanta</display-name>
-  </channel>
-  <channel id="Brentford vs. Liverpool">
-    <display-name lang="en">Brentford vs. Liverpool</display-name>
-  </channel>
-  <channel id="Valencia CF vs. Villarreal CF">
-    <display-name lang="en">Valencia CF vs. Villarreal CF</display-name>
-  </channel>
   <channel id="RC Lens vs. OM">
     <display-name lang="en">RC Lens vs. OM</display-name>
   </channel>
@@ -209,9 +206,6 @@
   </channel>
   <channel id="Real Betis vs. Atl&#233;tico de Madrid">
     <display-name lang="en">Real Betis vs. Atl&#233;tico de Madrid</display-name>
-  </channel>
-  <channel id="Colorado Avalanche vs. Boston Bruins">
-    <display-name lang="en">Colorado Avalanche vs. Boston Bruins</display-name>
   </channel>
   <channel id="Anaheim Ducks vs. Tampa Bay Lightning">
     <display-name lang="en">Anaheim Ducks vs. Tampa Bay Lightning</display-name>
@@ -337,14 +331,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Napoli vs. Inter" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251025000000 -0500" channel="Manchester United vs. Brighton and Hove Albion" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -361,14 +347,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Athletic Club vs. Getafe CF" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251025000000 -0500" channel="AS Monaco vs. Toulouse FC" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -377,7 +355,39 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251025000000 -0500" channel="Cremonese vs. Atalanta" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Brentford vs. Liverpool" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Valencia CF vs. Villarreal CF" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251025000000 -0500" channel="New York Islanders vs. Philadelphia Flyers" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Colorado Avalanche vs. Boston Bruins" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -665,30 +675,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Cremonese vs. Atalanta" stop="20251025235959 -0500">
-    <title>01:45 PM 25/10/25 - Cremonese vs. Atalanta</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Brentford vs. Liverpool" stop="20251025235959 -0500">
-    <title>02:00 PM 25/10/25 - Brentford vs. Liverpool</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Valencia CF vs. Villarreal CF" stop="20251025235959 -0500">
-    <title>02:00 PM 25/10/25 - Valencia CF vs. Villarreal CF</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251025000000 -0500" channel="RC Lens vs. OM" stop="20251025235959 -0500">
     <title>02:05 PM 25/10/25 - RC Lens vs. OM</title>
     <date>2025</date>
@@ -827,14 +813,6 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Real Betis vs. Atl&#233;tico de Madrid" stop="20251025235959 -0500">
     <title>03:00 PM 27/10/25 - Real Betis vs. Atl&#233;tico de Madrid</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Colorado Avalanche vs. Boston Bruins" stop="20251025235959 -0500">
-    <title>02:00 PM 25/10/25 - Colorado Avalanche vs. Boston Bruins</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
