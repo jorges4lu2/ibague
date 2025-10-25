@@ -24,6 +24,9 @@
   <channel id="San Antonio Spurs vs. New Orleans Pelicans">
     <display-name lang="en">San Antonio Spurs vs. New Orleans Pelicans</display-name>
   </channel>
+  <channel id="Washington Wizards vs. Dallas Mavericks">
+    <display-name lang="en">Washington Wizards vs. Dallas Mavericks</display-name>
+  </channel>
   <channel id="Toronto Maple Leafs vs. Buffalo Sabres">
     <display-name lang="en">Toronto Maple Leafs vs. Buffalo Sabres</display-name>
   </channel>
@@ -131,9 +134,6 @@
   </channel>
   <channel id="Washington Commanders vs. Kansas City Chiefs">
     <display-name lang="en">Washington Commanders vs. Kansas City Chiefs</display-name>
-  </channel>
-  <channel id="Washington Wizards vs. Dallas Mavericks">
-    <display-name lang="en">Washington Wizards vs. Dallas Mavericks</display-name>
   </channel>
   <channel id="Minnesota Timberwolves vs. Los Angeles Lakers">
     <display-name lang="en">Minnesota Timberwolves vs. Los Angeles Lakers</display-name>
@@ -363,6 +363,14 @@
     </audio>
   </programme>
   <programme start="20251024000000 -0500" channel="San Antonio Spurs vs. New Orleans Pelicans" stop="20251024235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251024000000 -0500" channel="Washington Wizards vs. Dallas Mavericks" stop="20251024235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -652,14 +660,6 @@
   </programme>
   <programme start="20251024000000 -0500" channel="Washington Commanders vs. Kansas City Chiefs" stop="20251024235959 -0500">
     <title>07:15 PM 27/10/25 - Washington Commanders vs. Kansas City Chiefs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251024000000 -0500" channel="Washington Wizards vs. Dallas Mavericks" stop="20251024235959 -0500">
-    <title>07:30 PM 24/10/25 - Washington Wizards vs. Dallas Mavericks</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
