@@ -387,11 +387,11 @@
   <channel id="EFL33: Walsall 15:00 Barrow (L2) 18/10">
     <display-name lang="en">EFL33: Walsall 15:00 Barrow (L2) 18/10</display-name>
   </channel>
-  <channel id="LOI 1 | Sligo Rovers v Cork City start:2025-10-25 19:30:00 stop:2025-10-25 22:30:00">
-    <display-name lang="en">LOI 1 | Sligo Rovers v Cork City start:2025-10-25 19:30:00 stop:2025-10-25 22:30:00</display-name>
+  <channel id="LOI 1 | Derry City v Shamrock Rovers start:2025-10-26 14:45:00 stop:2025-10-26 17:45:00">
+    <display-name lang="en">LOI 1 | Derry City v Shamrock Rovers start:2025-10-26 14:45:00 stop:2025-10-26 17:45:00</display-name>
   </channel>
-  <channel id="LOI 2 | St. Patricks Athletic v Water... start:2025-10-24 19:30:00 stop:2025-10-24 22:30:00">
-    <display-name lang="en">LOI 2 | St. Patricks Athletic v Water... start:2025-10-24 19:30:00 stop:2025-10-24 22:30:00</display-name>
+  <channel id="LOI 2 | Bohemians v Shelbourne start:2025-10-26 15:45:00 stop:2025-10-26 18:45:00">
+    <display-name lang="en">LOI 2 | Bohemians v Shelbourne start:2025-10-26 15:45:00 stop:2025-10-26 18:45:00</display-name>
   </channel>
   <channel id="LOI 3 | Treaty United v Cobh Ramblers start:2025-10-24 19:30:00 stop:2025-10-24 22:30:00">
     <display-name lang="en">LOI 3 | Treaty United v Cobh Ramblers start:2025-10-24 19:30:00 stop:2025-10-24 22:30:00</display-name>
@@ -1311,12 +1311,6 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 - Indianapolis Raceway Park 2:00 pm">
-    <display-name lang="en">DIRTVISION 01 - Indianapolis Raceway Park 2:00 pm</display-name>
-  </channel>
-  <channel id="DIRTVISION 02 - Volusia Speedway Park 6:00 pm">
-    <display-name lang="en">DIRTVISION 02 - Volusia Speedway Park 6:00 pm</display-name>
-  </channel>
   <channel id="Super League Plus | Event 1 Hull KR v St Helens // UK Sat 4 Oct 5:25pm // ET Sat 4 Oct 12:25pm">
     <display-name lang="en">Super League Plus | Event 1 Hull KR v St Helens // UK Sat 4 Oct 5:25pm // ET Sat 4 Oct 12:25pm</display-name>
   </channel>
@@ -1514,6 +1508,12 @@
   </channel>
   <channel id="BOXING: Joseph Parker vs. Fabio Wardley (Sat 16:05 UK)">
     <display-name lang="en">BOXING: Joseph Parker vs. Fabio Wardley (Sat 16:05 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 01 - 2PM Eastern States Weekend Night 3">
+    <display-name lang="en">LIVE EVENT 01 - 2PM Eastern States Weekend Night 3</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 - 7PM BJJ Clubes">
+    <display-name lang="en">LIVE EVENT 02 - 7PM BJJ Clubes</display-name>
   </channel>
   <channel id="LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET">
     <display-name lang="en">LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET</display-name>
@@ -3246,16 +3246,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251026000000 -0500" channel="LOI 1 | Sligo Rovers v Cork City start:2025-10-25 19:30:00 stop:2025-10-25 22:30:00" stop="20251026235959 -0500">
-    <title>01:30 PM - LOI 1 | Sligo Rovers v Cork City start:2025-10-25 19:30:00 stop:2025-10-25 22:30:00</title>
+  <programme start="20251026000000 -0500" channel="LOI 1 | Derry City v Shamrock Rovers start:2025-10-26 14:45:00 stop:2025-10-26 17:45:00" stop="20251026235959 -0500">
+    <title>08:45 AM - LOI 1 | Derry City v Shamrock Rovers start:2025-10-26 14:45:00 stop:2025-10-26 17:45:00</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251026000000 -0500" channel="LOI 2 | St. Patricks Athletic v Water... start:2025-10-24 19:30:00 stop:2025-10-24 22:30:00" stop="20251026235959 -0500">
-    <title>01:30 PM - LOI 2 | St. Patricks Athletic v Water... start:2025-10-24 19:30:00 stop:2025-10-24 22:30:00</title>
+  <programme start="20251026000000 -0500" channel="LOI 2 | Bohemians v Shelbourne start:2025-10-26 15:45:00 stop:2025-10-26 18:45:00" stop="20251026235959 -0500">
+    <title>09:45 AM - LOI 2 | Bohemians v Shelbourne start:2025-10-26 15:45:00 stop:2025-10-26 18:45:00</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -5710,22 +5710,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251026000000 -0500" channel="DIRTVISION 01 - Indianapolis Raceway Park 2:00 pm" stop="20251026235959 -0500">
-    <title>01:00 PM - DIRTVISION 01 - Indianapolis Raceway Park 2:00 pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251026000000 -0500" channel="DIRTVISION 02 - Volusia Speedway Park 6:00 pm" stop="20251026235959 -0500">
-    <title>05:00 PM - DIRTVISION 02 - Volusia Speedway Park 6:00 pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251026000000 -0500" channel="Super League Plus | Event 1 Hull KR v St Helens // UK Sat 4 Oct 5:25pm // ET Sat 4 Oct 12:25pm" stop="20251026235959 -0500">
     <title>11:25 AM - Super League Plus | Event 1 Hull KR v St Helens // UK Sat 4 Oct 5:25pm // ET Sat 4 Oct 12:25pm</title>
     <date>2025</date>
@@ -6248,6 +6232,22 @@
   </programme>
   <programme start="20251026000000 -0500" channel="BOXING: Joseph Parker vs. Fabio Wardley (Sat 16:05 UK)" stop="20251026235959 -0500">
     <title>10:05 AM - BOXING: Joseph Parker vs. Fabio Wardley (Sat 16:05 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251026000000 -0500" channel="LIVE EVENT 01 - 2PM Eastern States Weekend Night 3" stop="20251026235959 -0500">
+    <title>01:00 PM - LIVE EVENT 01 - 2PM Eastern States Weekend Night 3</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251026000000 -0500" channel="LIVE EVENT 02 - 7PM BJJ Clubes" stop="20251026235959 -0500">
+    <title>06:00 PM - LIVE EVENT 02 - 7PM BJJ Clubes</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
