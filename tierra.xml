@@ -24,9 +24,6 @@
   <channel id="Los Angeles Dodgers vs. Toronto Blue Jays">
     <display-name lang="en">Los Angeles Dodgers vs. Toronto Blue Jays</display-name>
   </channel>
-  <channel id="Chicago Bulls vs. Orlando Magic">
-    <display-name lang="en">Chicago Bulls vs. Orlando Magic</display-name>
-  </channel>
   <channel id="Oklahoma City Thunder vs. Atlanta Hawks">
     <display-name lang="en">Oklahoma City Thunder vs. Atlanta Hawks</display-name>
   </channel>
@@ -39,23 +36,14 @@
   <channel id="Phoenix Suns vs. Denver Nuggets">
     <display-name lang="en">Phoenix Suns vs. Denver Nuggets</display-name>
   </channel>
-  <channel id="St. Louis Blues vs. Detroit Red Wings">
-    <display-name lang="en">St. Louis Blues vs. Detroit Red Wings</display-name>
-  </channel>
-  <channel id="Columbus Blue Jackets vs. Pittsburgh Penguins">
-    <display-name lang="en">Columbus Blue Jackets vs. Pittsburgh Penguins</display-name>
-  </channel>
-  <channel id="Ottawa Senators vs. Washington Capitals">
-    <display-name lang="en">Ottawa Senators vs. Washington Capitals</display-name>
-  </channel>
-  <channel id="Montreal Canadiens vs. Vancouver Canucks">
-    <display-name lang="en">Montreal Canadiens vs. Vancouver Canucks</display-name>
-  </channel>
   <channel id="Los Angeles Kings vs. Nashville Predators">
     <display-name lang="en">Los Angeles Kings vs. Nashville Predators</display-name>
   </channel>
   <channel id="Carolina Hurricanes vs. Dallas Stars">
     <display-name lang="en">Carolina Hurricanes vs. Dallas Stars</display-name>
+  </channel>
+  <channel id="Edmonton Oilers vs. Seattle Kraken">
+    <display-name lang="en">Edmonton Oilers vs. Seattle Kraken</display-name>
   </channel>
   <channel id="WWE: NXT Halloween Havoc">
     <display-name lang="en">WWE: NXT Halloween Havoc</display-name>
@@ -225,9 +213,6 @@
   <channel id="Brest vs. OL">
     <display-name lang="en">Brest vs. OL</display-name>
   </channel>
-  <channel id="Edmonton Oilers vs. Seattle Kraken">
-    <display-name lang="en">Edmonton Oilers vs. Seattle Kraken</display-name>
-  </channel>
   <channel id="Mexican Grand Prix - Race">
     <display-name lang="en">Mexican Grand Prix - Race</display-name>
   </channel>
@@ -310,14 +295,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="Chicago Bulls vs. Orlando Magic" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251025000000 -0500" channel="Oklahoma City Thunder vs. Atlanta Hawks" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -350,38 +327,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251025000000 -0500" channel="St. Louis Blues vs. Detroit Red Wings" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Columbus Blue Jackets vs. Pittsburgh Penguins" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Ottawa Senators vs. Washington Capitals" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Montreal Canadiens vs. Vancouver Canucks" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251025000000 -0500" channel="Los Angeles Kings vs. Nashville Predators" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -391,6 +336,14 @@
     </audio>
   </programme>
   <programme start="20251025000000 -0500" channel="Carolina Hurricanes vs. Dallas Stars" stop="20251025235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="Edmonton Oilers vs. Seattle Kraken" stop="20251025235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -840,14 +793,6 @@
   </programme>
   <programme start="20251025000000 -0500" channel="Brest vs. OL" stop="20251025235959 -0500">
     <title>02:45 PM 02/11/25 - Brest vs. OL</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Edmonton Oilers vs. Seattle Kraken" stop="20251025235959 -0500">
-    <title>09:00 PM 25/10/25 - Edmonton Oilers vs. Seattle Kraken</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
