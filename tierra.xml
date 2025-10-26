@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251025 -0500">
-  <channel id="Tennessee Volunteers vs. Kentucky Wildcats">
-    <display-name lang="en">Tennessee Volunteers vs. Kentucky Wildcats</display-name>
-  </channel>
-  <channel id="Houston Cougars vs. Arizona State Sun Devils">
-    <display-name lang="en">Houston Cougars vs. Arizona State Sun Devils</display-name>
-  </channel>
-  <channel id="Phoenix Suns vs. Denver Nuggets">
-    <display-name lang="en">Phoenix Suns vs. Denver Nuggets</display-name>
-  </channel>
   <channel id="Edmonton Oilers vs. Seattle Kraken">
     <display-name lang="en">Edmonton Oilers vs. Seattle Kraken</display-name>
+  </channel>
+  <channel id="NFL RedZone">
+    <display-name lang="en">NFL RedZone</display-name>
   </channel>
   <channel id="Miami Dolphins vs. Atlanta Falcons">
     <display-name lang="en">Miami Dolphins vs. Atlanta Falcons</display-name>
@@ -192,32 +186,16 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251025000000 -0500" channel="Tennessee Volunteers vs. Kentucky Wildcats" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Houston Cougars vs. Arizona State Sun Devils" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251025000000 -0500" channel="Phoenix Suns vs. Denver Nuggets" stop="20251025235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251025000000 -0500" channel="Edmonton Oilers vs. Seattle Kraken" stop="20251025235959 -0500">
     <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251025000000 -0500" channel="NFL RedZone" stop="20251025235959 -0500">
+    <title>12:00 PM 26/10/25 - NFL RedZone</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
