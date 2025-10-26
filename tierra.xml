@@ -6,6 +6,9 @@
   <channel id="Torino vs. Genoa">
     <display-name lang="en">Torino vs. Genoa</display-name>
   </channel>
+  <channel id="RCD Mallorca vs. Levante UD">
+    <display-name lang="en">RCD Mallorca vs. Levante UD</display-name>
+  </channel>
   <channel id="NFL RedZone">
     <display-name lang="en">NFL RedZone</display-name>
   </channel>
@@ -74,9 +77,6 @@
   </channel>
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
-  </channel>
-  <channel id="RCD Mallorca vs. Levante UD">
-    <display-name lang="en">RCD Mallorca vs. Levante UD</display-name>
   </channel>
   <channel id="Bournemouth vs. Nottingham Forest">
     <display-name lang="en">Bournemouth vs. Nottingham Forest</display-name>
@@ -219,6 +219,14 @@
     </audio>
   </programme>
   <programme start="20251026000000 -0500" channel="Torino vs. Genoa" stop="20251026235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251026000000 -0500" channel="RCD Mallorca vs. Levante UD" stop="20251026235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -404,14 +412,6 @@
   </programme>
   <programme start="20251026000000 -0500" channel="Machineseeker European Championship (Day 4 Evening)" stop="20251026235959 -0500">
     <title>01:00 PM 26/10/25 - Machineseeker European Championship (Day 4 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251026000000 -0500" channel="RCD Mallorca vs. Levante UD" stop="20251026235959 -0500">
-    <title>08:00 AM 26/10/25 - RCD Mallorca vs. Levante UD</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
