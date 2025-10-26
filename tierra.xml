@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251026 -0500">
+  <channel id="Machineseeker European Championship (Day 4 Afternoon)">
+    <display-name lang="en">Machineseeker European Championship (Day 4 Afternoon)</display-name>
+  </channel>
+  <channel id="Torino vs. Genoa">
+    <display-name lang="en">Torino vs. Genoa</display-name>
+  </channel>
   <channel id="NFL RedZone">
     <display-name lang="en">NFL RedZone</display-name>
   </channel>
@@ -66,14 +72,8 @@
   <channel id="Los Angeles Lakers vs. Sacramento Kings">
     <display-name lang="en">Los Angeles Lakers vs. Sacramento Kings</display-name>
   </channel>
-  <channel id="Machineseeker European Championship (Day 4 Afternoon)">
-    <display-name lang="en">Machineseeker European Championship (Day 4 Afternoon)</display-name>
-  </channel>
   <channel id="Machineseeker European Championship (Day 4 Evening)">
     <display-name lang="en">Machineseeker European Championship (Day 4 Evening)</display-name>
-  </channel>
-  <channel id="Torino vs. Genoa">
-    <display-name lang="en">Torino vs. Genoa</display-name>
   </channel>
   <channel id="RCD Mallorca vs. Levante UD">
     <display-name lang="en">RCD Mallorca vs. Levante UD</display-name>
@@ -201,8 +201,8 @@
   <channel id="24/7 COWS">
     <display-name lang="en">24/7 COWS</display-name>
   </channel>
-  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203; Guy">
-    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203; Guy</display-name>
+  <channel id="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203; Guy">
+    <display-name lang="en">24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203; Guy</display-name>
   </channel>
   <channel id="24/7 The Simpsons">
     <display-name lang="en">24/7 The Simpsons</display-name>
@@ -210,6 +210,22 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251026000000 -0500" channel="Machineseeker European Championship (Day 4 Afternoon)" stop="20251026235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251026000000 -0500" channel="Torino vs. Genoa" stop="20251026235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251026000000 -0500" channel="NFL RedZone" stop="20251026235959 -0500">
     <title>12:00 PM 26/10/25 - NFL RedZone</title>
     <date>2025</date>
@@ -386,24 +402,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251026000000 -0500" channel="Machineseeker European Championship (Day 4 Afternoon)" stop="20251026235959 -0500">
-    <title>06:45 AM 26/10/25 - Machineseeker European Championship (Day 4 Afternoon)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251026000000 -0500" channel="Machineseeker European Championship (Day 4 Evening)" stop="20251026235959 -0500">
     <title>01:00 PM 26/10/25 - Machineseeker European Championship (Day 4 Evening)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251026000000 -0500" channel="Torino vs. Genoa" stop="20251026235959 -0500">
-    <title>06:30 AM 26/10/25 - Torino vs. Genoa</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -746,7 +746,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251026000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8204;&#8204;&#8204;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203; Guy" stop="20251026235959 -0500">
+  <programme start="20251026000000 -0500" channel="24/7 Family&#8204;&#8203;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8203;&#8204;&#8203;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8204;&#8203;&#8204;&#8204;&#8203;&#8203;&#8203;&#8203;&#8204;&#8203;&#8204;&#8203;&#8203; Guy" stop="20251026235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
