@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251028 -0500">
+  <channel id="Lecce vs. Napoli">
+    <display-name lang="en">Lecce vs. Napoli</display-name>
+  </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
   </channel>
@@ -17,9 +20,6 @@
   </channel>
   <channel id="LA Clippers vs. Golden State Warriors">
     <display-name lang="en">LA Clippers vs. Golden State Warriors</display-name>
-  </channel>
-  <channel id="Lecce vs. Napoli">
-    <display-name lang="en">Lecce vs. Napoli</display-name>
   </channel>
   <channel id="Atalanta vs. Milan">
     <display-name lang="en">Atalanta vs. Milan</display-name>
@@ -261,6 +261,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251028000000 -0500" channel="Lecce vs. Napoli" stop="20251028235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251028000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20251028235959 -0500">
     <title>07:00 PM 28/10/25 - Toronto Blue Jays vs. Los Angeles Dodgers</title>
     <date>2025</date>
@@ -303,14 +311,6 @@
   </programme>
   <programme start="20251028000000 -0500" channel="LA Clippers vs. Golden State Warriors" stop="20251028235959 -0500">
     <title>10:00 PM 28/10/25 - LA Clippers vs. Golden State Warriors</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Lecce vs. Napoli" stop="20251028235959 -0500">
-    <title>12:30 PM 28/10/25 - Lecce vs. Napoli</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
