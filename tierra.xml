@@ -1,7 +1,16 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251028 -0500">
-  <channel id="Lecce vs. Napoli">
-    <display-name lang="en">Lecce vs. Napoli</display-name>
+  <channel id="Atalanta vs. Milan">
+    <display-name lang="en">Atalanta vs. Milan</display-name>
+  </channel>
+  <channel id="Grimsby vs. Brentford">
+    <display-name lang="en">Grimsby vs. Brentford</display-name>
+  </channel>
+  <channel id="Wycombe vs. Fulham">
+    <display-name lang="en">Wycombe vs. Fulham</display-name>
+  </channel>
+  <channel id="Wrexham vs. Cardiff">
+    <display-name lang="en">Wrexham vs. Cardiff</display-name>
   </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
@@ -20,18 +29,6 @@
   </channel>
   <channel id="LA Clippers vs. Golden State Warriors">
     <display-name lang="en">LA Clippers vs. Golden State Warriors</display-name>
-  </channel>
-  <channel id="Atalanta vs. Milan">
-    <display-name lang="en">Atalanta vs. Milan</display-name>
-  </channel>
-  <channel id="Grimsby vs. Brentford">
-    <display-name lang="en">Grimsby vs. Brentford</display-name>
-  </channel>
-  <channel id="Wycombe vs. Fulham">
-    <display-name lang="en">Wycombe vs. Fulham</display-name>
-  </channel>
-  <channel id="Wrexham vs. Cardiff">
-    <display-name lang="en">Wrexham vs. Cardiff</display-name>
   </channel>
   <channel id="Como vs. Hellas Verona">
     <display-name lang="en">Como vs. Hellas Verona</display-name>
@@ -261,7 +258,31 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251028000000 -0500" channel="Lecce vs. Napoli" stop="20251028235959 -0500">
+  <programme start="20251028000000 -0500" channel="Atalanta vs. Milan" stop="20251028235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251028000000 -0500" channel="Grimsby vs. Brentford" stop="20251028235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251028000000 -0500" channel="Wycombe vs. Fulham" stop="20251028235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251028000000 -0500" channel="Wrexham vs. Cardiff" stop="20251028235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -311,38 +332,6 @@
   </programme>
   <programme start="20251028000000 -0500" channel="LA Clippers vs. Golden State Warriors" stop="20251028235959 -0500">
     <title>10:00 PM 28/10/25 - LA Clippers vs. Golden State Warriors</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Atalanta vs. Milan" stop="20251028235959 -0500">
-    <title>02:45 PM 28/10/25 - Atalanta vs. Milan</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Grimsby vs. Brentford" stop="20251028235959 -0500">
-    <title>02:45 PM 28/10/25 - Grimsby vs. Brentford</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Wycombe vs. Fulham" stop="20251028235959 -0500">
-    <title>02:45 PM 28/10/25 - Wycombe vs. Fulham</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Wrexham vs. Cardiff" stop="20251028235959 -0500">
-    <title>03:00 PM 28/10/25 - Wrexham vs. Cardiff</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
