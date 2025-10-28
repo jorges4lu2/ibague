@@ -1,19 +1,13 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251027 -0500">
+  <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
+    <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
+  </channel>
   <channel id="Cleveland Cavaliers vs. Detroit Pistons">
     <display-name lang="en">Cleveland Cavaliers vs. Detroit Pistons</display-name>
   </channel>
   <channel id="Orlando Magic vs. Philadelphia 76ers">
     <display-name lang="en">Orlando Magic vs. Philadelphia 76ers</display-name>
-  </channel>
-  <channel id="St. Louis Blues vs. Pittsburgh Penguins">
-    <display-name lang="en">St. Louis Blues vs. Pittsburgh Penguins</display-name>
-  </channel>
-  <channel id="Washington Commanders vs. Kansas City Chiefs">
-    <display-name lang="en">Washington Commanders vs. Kansas City Chiefs</display-name>
-  </channel>
-  <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
-    <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
   </channel>
   <channel id="Atlanta Hawks vs. Chicago Bulls">
     <display-name lang="en">Atlanta Hawks vs. Chicago Bulls</display-name>
@@ -26,6 +20,18 @@
   </channel>
   <channel id="Toronto Raptors vs. San Antonio Spurs">
     <display-name lang="en">Toronto Raptors vs. San Antonio Spurs</display-name>
+  </channel>
+  <channel id="St. Louis Blues vs. Pittsburgh Penguins">
+    <display-name lang="en">St. Louis Blues vs. Pittsburgh Penguins</display-name>
+  </channel>
+  <channel id="Boston Bruins vs. Ottawa Senators">
+    <display-name lang="en">Boston Bruins vs. Ottawa Senators</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW">
+    <display-name lang="en">WWE: Monday Night RAW</display-name>
+  </channel>
+  <channel id="Washington Commanders vs. Kansas City Chiefs">
+    <display-name lang="en">Washington Commanders vs. Kansas City Chiefs</display-name>
   </channel>
   <channel id="Oklahoma City Thunder vs. Dallas Mavericks">
     <display-name lang="en">Oklahoma City Thunder vs. Dallas Mavericks</display-name>
@@ -207,12 +213,6 @@
   <channel id="Sunderland vs. Everton">
     <display-name lang="en">Sunderland vs. Everton</display-name>
   </channel>
-  <channel id="Boston Bruins vs. Ottawa Senators">
-    <display-name lang="en">Boston Bruins vs. Ottawa Senators</display-name>
-  </channel>
-  <channel id="WWE: Monday Night RAW">
-    <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
   <channel id="WWE: NXT">
     <display-name lang="en">WWE: NXT</display-name>
   </channel>
@@ -243,6 +243,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251027000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20251027235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251027000000 -0500" channel="Cleveland Cavaliers vs. Detroit Pistons" stop="20251027235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -259,7 +267,55 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251027000000 -0500" channel="Atlanta Hawks vs. Chicago Bulls" stop="20251027235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251027000000 -0500" channel="Brooklyn Nets vs. Houston Rockets" stop="20251027235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251027000000 -0500" channel="Boston Celtics vs. New Orleans Pelicans" stop="20251027235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251027000000 -0500" channel="Toronto Raptors vs. San Antonio Spurs" stop="20251027235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251027000000 -0500" channel="St. Louis Blues vs. Pittsburgh Penguins" stop="20251027235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251027000000 -0500" channel="Boston Bruins vs. Ottawa Senators" stop="20251027235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251027000000 -0500" channel="WWE: Monday Night RAW" stop="20251027235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -269,46 +325,6 @@
   </programme>
   <programme start="20251027000000 -0500" channel="Washington Commanders vs. Kansas City Chiefs" stop="20251027235959 -0500">
     <title>07:15 PM 27/10/25 - Washington Commanders vs. Kansas City Chiefs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251027000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20251027235959 -0500">
-    <title>07:00 PM 27/10/25 - Toronto Blue Jays vs. Los Angeles Dodgers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251027000000 -0500" channel="Atlanta Hawks vs. Chicago Bulls" stop="20251027235959 -0500">
-    <title>07:00 PM 27/10/25 - Atlanta Hawks vs. Chicago Bulls</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251027000000 -0500" channel="Brooklyn Nets vs. Houston Rockets" stop="20251027235959 -0500">
-    <title>07:00 PM 27/10/25 - Brooklyn Nets vs. Houston Rockets</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251027000000 -0500" channel="Boston Celtics vs. New Orleans Pelicans" stop="20251027235959 -0500">
-    <title>07:00 PM 27/10/25 - Boston Celtics vs. New Orleans Pelicans</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251027000000 -0500" channel="Toronto Raptors vs. San Antonio Spurs" stop="20251027235959 -0500">
-    <title>07:00 PM 27/10/25 - Toronto Raptors vs. San Antonio Spurs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -789,22 +805,6 @@
   </programme>
   <programme start="20251027000000 -0500" channel="Sunderland vs. Everton" stop="20251027235959 -0500">
     <title>03:00 PM 03/11/25 - Sunderland vs. Everton</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251027000000 -0500" channel="Boston Bruins vs. Ottawa Senators" stop="20251027235959 -0500">
-    <title>06:30 PM 27/10/25 - Boston Bruins vs. Ottawa Senators</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251027000000 -0500" channel="WWE: Monday Night RAW" stop="20251027235959 -0500">
-    <title>07:00 PM 27/10/25 - WWE: Monday Night RAW</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
