@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251027 -0500">
+  <channel id="Washington Commanders vs. Kansas City Chiefs">
+    <display-name lang="en">Washington Commanders vs. Kansas City Chiefs</display-name>
+  </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
   </channel>
@@ -21,6 +24,12 @@
   <channel id="Toronto Raptors vs. San Antonio Spurs">
     <display-name lang="en">Toronto Raptors vs. San Antonio Spurs</display-name>
   </channel>
+  <channel id="Oklahoma City Thunder vs. Dallas Mavericks">
+    <display-name lang="en">Oklahoma City Thunder vs. Dallas Mavericks</display-name>
+  </channel>
+  <channel id="Phoenix Suns vs. Utah Jazz">
+    <display-name lang="en">Phoenix Suns vs. Utah Jazz</display-name>
+  </channel>
   <channel id="St. Louis Blues vs. Pittsburgh Penguins">
     <display-name lang="en">St. Louis Blues vs. Pittsburgh Penguins</display-name>
   </channel>
@@ -29,15 +38,6 @@
   </channel>
   <channel id="WWE: Monday Night RAW">
     <display-name lang="en">WWE: Monday Night RAW</display-name>
-  </channel>
-  <channel id="Washington Commanders vs. Kansas City Chiefs">
-    <display-name lang="en">Washington Commanders vs. Kansas City Chiefs</display-name>
-  </channel>
-  <channel id="Oklahoma City Thunder vs. Dallas Mavericks">
-    <display-name lang="en">Oklahoma City Thunder vs. Dallas Mavericks</display-name>
-  </channel>
-  <channel id="Phoenix Suns vs. Utah Jazz">
-    <display-name lang="en">Phoenix Suns vs. Utah Jazz</display-name>
   </channel>
   <channel id="Denver Nuggets vs. Minnesota Timberwolves">
     <display-name lang="en">Denver Nuggets vs. Minnesota Timberwolves</display-name>
@@ -243,6 +243,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251027000000 -0500" channel="Washington Commanders vs. Kansas City Chiefs" stop="20251027235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251027000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20251027235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -299,6 +307,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251027000000 -0500" channel="Oklahoma City Thunder vs. Dallas Mavericks" stop="20251027235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251027000000 -0500" channel="Phoenix Suns vs. Utah Jazz" stop="20251027235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251027000000 -0500" channel="St. Louis Blues vs. Pittsburgh Penguins" stop="20251027235959 -0500">
     <title>Live</title>
     <date>2025</date>
@@ -317,30 +341,6 @@
   </programme>
   <programme start="20251027000000 -0500" channel="WWE: Monday Night RAW" stop="20251027235959 -0500">
     <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251027000000 -0500" channel="Washington Commanders vs. Kansas City Chiefs" stop="20251027235959 -0500">
-    <title>07:15 PM 27/10/25 - Washington Commanders vs. Kansas City Chiefs</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251027000000 -0500" channel="Oklahoma City Thunder vs. Dallas Mavericks" stop="20251027235959 -0500">
-    <title>07:30 PM 27/10/25 - Oklahoma City Thunder vs. Dallas Mavericks</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251027000000 -0500" channel="Phoenix Suns vs. Utah Jazz" stop="20251027235959 -0500">
-    <title>08:00 PM 27/10/25 - Phoenix Suns vs. Utah Jazz</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
