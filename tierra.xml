@@ -1,16 +1,7 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251028 -0500">
-  <channel id="Atalanta vs. Milan">
-    <display-name lang="en">Atalanta vs. Milan</display-name>
-  </channel>
-  <channel id="Grimsby vs. Brentford">
-    <display-name lang="en">Grimsby vs. Brentford</display-name>
-  </channel>
-  <channel id="Wycombe vs. Fulham">
-    <display-name lang="en">Wycombe vs. Fulham</display-name>
-  </channel>
-  <channel id="Wrexham vs. Cardiff">
-    <display-name lang="en">Wrexham vs. Cardiff</display-name>
+  <channel id="Philadelphia 76ers vs. Washington Wizards">
+    <display-name lang="en">Philadelphia 76ers vs. Washington Wizards</display-name>
   </channel>
   <channel id="Pittsburgh Penguins vs. Philadelphia Flyers">
     <display-name lang="en">Pittsburgh Penguins vs. Philadelphia Flyers</display-name>
@@ -18,11 +9,17 @@
   <channel id="Calgary Flames vs. Toronto Maple Leafs">
     <display-name lang="en">Calgary Flames vs. Toronto Maple Leafs</display-name>
   </channel>
+  <channel id="Vegas Golden Knights vs. Carolina Hurricanes">
+    <display-name lang="en">Vegas Golden Knights vs. Carolina Hurricanes</display-name>
+  </channel>
+  <channel id="Columbus Blue Jackets vs. Buffalo Sabres">
+    <display-name lang="en">Columbus Blue Jackets vs. Buffalo Sabres</display-name>
+  </channel>
+  <channel id="Anaheim Ducks vs. Florida Panthers">
+    <display-name lang="en">Anaheim Ducks vs. Florida Panthers</display-name>
+  </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
-  </channel>
-  <channel id="Philadelphia 76ers vs. Washington Wizards">
-    <display-name lang="en">Philadelphia 76ers vs. Washington Wizards</display-name>
   </channel>
   <channel id="Charlotte Hornets vs. Miami Heat">
     <display-name lang="en">Charlotte Hornets vs. Miami Heat</display-name>
@@ -186,15 +183,6 @@
   <channel id="Sunderland vs. Everton">
     <display-name lang="en">Sunderland vs. Everton</display-name>
   </channel>
-  <channel id="Vegas Golden Knights vs. Carolina Hurricanes">
-    <display-name lang="en">Vegas Golden Knights vs. Carolina Hurricanes</display-name>
-  </channel>
-  <channel id="Columbus Blue Jackets vs. Buffalo Sabres">
-    <display-name lang="en">Columbus Blue Jackets vs. Buffalo Sabres</display-name>
-  </channel>
-  <channel id="Anaheim Ducks vs. Florida Panthers">
-    <display-name lang="en">Anaheim Ducks vs. Florida Panthers</display-name>
-  </channel>
   <channel id="New York Islanders vs. Boston Bruins">
     <display-name lang="en">New York Islanders vs. Boston Bruins</display-name>
   </channel>
@@ -258,31 +246,7 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
-  <programme start="20251028000000 -0500" channel="Atalanta vs. Milan" stop="20251028235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Grimsby vs. Brentford" stop="20251028235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Wycombe vs. Fulham" stop="20251028235959 -0500">
-    <title>Live</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Wrexham vs. Cardiff" stop="20251028235959 -0500">
+  <programme start="20251028000000 -0500" channel="Philadelphia 76ers vs. Washington Wizards" stop="20251028235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -306,16 +270,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251028000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20251028235959 -0500">
-    <title>07:00 PM 28/10/25 - Toronto Blue Jays vs. Los Angeles Dodgers</title>
+  <programme start="20251028000000 -0500" channel="Vegas Golden Knights vs. Carolina Hurricanes" stop="20251028235959 -0500">
+    <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251028000000 -0500" channel="Philadelphia 76ers vs. Washington Wizards" stop="20251028235959 -0500">
-    <title>06:00 PM 28/10/25 - Philadelphia 76ers vs. Washington Wizards</title>
+  <programme start="20251028000000 -0500" channel="Columbus Blue Jackets vs. Buffalo Sabres" stop="20251028235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251028000000 -0500" channel="Anaheim Ducks vs. Florida Panthers" stop="20251028235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251028000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20251028235959 -0500">
+    <title>07:00 PM 28/10/25 - Toronto Blue Jays vs. Los Angeles Dodgers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -748,30 +728,6 @@
   </programme>
   <programme start="20251028000000 -0500" channel="Sunderland vs. Everton" stop="20251028235959 -0500">
     <title>03:00 PM 03/11/25 - Sunderland vs. Everton</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Vegas Golden Knights vs. Carolina Hurricanes" stop="20251028235959 -0500">
-    <title>05:30 PM 28/10/25 - Vegas Golden Knights vs. Carolina Hurricanes</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Columbus Blue Jackets vs. Buffalo Sabres" stop="20251028235959 -0500">
-    <title>05:45 PM 28/10/25 - Columbus Blue Jackets vs. Buffalo Sabres</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Anaheim Ducks vs. Florida Panthers" stop="20251028235959 -0500">
-    <title>06:00 PM 28/10/25 - Anaheim Ducks vs. Florida Panthers</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
