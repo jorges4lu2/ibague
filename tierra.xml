@@ -12,6 +12,12 @@
   <channel id="Wrexham vs. Cardiff">
     <display-name lang="en">Wrexham vs. Cardiff</display-name>
   </channel>
+  <channel id="Pittsburgh Penguins vs. Philadelphia Flyers">
+    <display-name lang="en">Pittsburgh Penguins vs. Philadelphia Flyers</display-name>
+  </channel>
+  <channel id="Calgary Flames vs. Toronto Maple Leafs">
+    <display-name lang="en">Calgary Flames vs. Toronto Maple Leafs</display-name>
+  </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
   </channel>
@@ -180,12 +186,6 @@
   <channel id="Sunderland vs. Everton">
     <display-name lang="en">Sunderland vs. Everton</display-name>
   </channel>
-  <channel id="Pittsburgh Penguins vs. Philadelphia Flyers">
-    <display-name lang="en">Pittsburgh Penguins vs. Philadelphia Flyers</display-name>
-  </channel>
-  <channel id="Calgary Flames vs. Toronto Maple Leafs">
-    <display-name lang="en">Calgary Flames vs. Toronto Maple Leafs</display-name>
-  </channel>
   <channel id="Vegas Golden Knights vs. Carolina Hurricanes">
     <display-name lang="en">Vegas Golden Knights vs. Carolina Hurricanes</display-name>
   </channel>
@@ -283,6 +283,22 @@
     </audio>
   </programme>
   <programme start="20251028000000 -0500" channel="Wrexham vs. Cardiff" stop="20251028235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251028000000 -0500" channel="Pittsburgh Penguins vs. Philadelphia Flyers" stop="20251028235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251028000000 -0500" channel="Calgary Flames vs. Toronto Maple Leafs" stop="20251028235959 -0500">
     <title>Live</title>
     <date>2025</date>
     <category>Sports</category>
@@ -732,22 +748,6 @@
   </programme>
   <programme start="20251028000000 -0500" channel="Sunderland vs. Everton" stop="20251028235959 -0500">
     <title>03:00 PM 03/11/25 - Sunderland vs. Everton</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Pittsburgh Penguins vs. Philadelphia Flyers" stop="20251028235959 -0500">
-    <title>05:00 PM 28/10/25 - Pittsburgh Penguins vs. Philadelphia Flyers</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251028000000 -0500" channel="Calgary Flames vs. Toronto Maple Leafs" stop="20251028235959 -0500">
-    <title>05:00 PM 28/10/25 - Calgary Flames vs. Toronto Maple Leafs</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
