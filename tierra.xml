@@ -102,6 +102,12 @@
   <channel id="Augsburg vs. Dortmund">
     <display-name lang="en">Augsburg vs. Dortmund</display-name>
   </channel>
+  <channel id="Getafe CF vs. Girona FC">
+    <display-name lang="en">Getafe CF vs. Girona FC</display-name>
+  </channel>
+  <channel id="Villarreal CF vs. Rayo Vallecano">
+    <display-name lang="en">Villarreal CF vs. Rayo Vallecano</display-name>
+  </channel>
   <channel id="Heidenheim vs. Frankfurt">
     <display-name lang="en">Heidenheim vs. Frankfurt</display-name>
   </channel>
@@ -132,6 +138,9 @@
   <channel id="Nottingham Forest vs. Manchester United">
     <display-name lang="en">Nottingham Forest vs. Manchester United</display-name>
   </channel>
+  <channel id="Atl&#233;tico de Madrid vs. Sevilla FC">
+    <display-name lang="en">Atl&#233;tico de Madrid vs. Sevilla FC</display-name>
+  </channel>
   <channel id="PSG vs. OGC Nice">
     <display-name lang="en">PSG vs. OGC Nice</display-name>
   </channel>
@@ -141,14 +150,23 @@
   <channel id="Bayern vs. Leverkusen">
     <display-name lang="en">Bayern vs. Leverkusen</display-name>
   </channel>
+  <channel id="Real Sociedad vs. Athletic Club">
+    <display-name lang="en">Real Sociedad vs. Athletic Club</display-name>
+  </channel>
   <channel id="AS Monaco vs. Paris FC">
     <display-name lang="en">AS Monaco vs. Paris FC</display-name>
   </channel>
   <channel id="Liverpool vs. Aston Villa">
     <display-name lang="en">Liverpool vs. Aston Villa</display-name>
   </channel>
+  <channel id="Real Madrid vs. Valencia CF">
+    <display-name lang="en">Real Madrid vs. Valencia CF</display-name>
+  </channel>
   <channel id="AJ Auxerre vs. OM">
     <display-name lang="en">AJ Auxerre vs. OM</display-name>
+  </channel>
+  <channel id="Levante UD vs. Celta">
+    <display-name lang="en">Levante UD vs. Celta</display-name>
   </channel>
   <channel id="Rennes vs. Strasbourg">
     <display-name lang="en">Rennes vs. Strasbourg</display-name>
@@ -158,6 +176,9 @@
   </channel>
   <channel id="Cologne vs. Hamburg">
     <display-name lang="en">Cologne vs. Hamburg</display-name>
+  </channel>
+  <channel id="Deportivo Alav&#233;s vs. RCD Espanyol de Barcelona">
+    <display-name lang="en">Deportivo Alav&#233;s vs. RCD Espanyol de Barcelona</display-name>
   </channel>
   <channel id="RC Lens vs. FC Lorient">
     <display-name lang="en">RC Lens vs. FC Lorient</display-name>
@@ -177,11 +198,20 @@
   <channel id="Wolfsburg vs. Hoffenheim">
     <display-name lang="en">Wolfsburg vs. Hoffenheim</display-name>
   </channel>
+  <channel id="FC Barcelona vs. Elche CF">
+    <display-name lang="en">FC Barcelona vs. Elche CF</display-name>
+  </channel>
   <channel id="Brest vs. OL">
     <display-name lang="en">Brest vs. OL</display-name>
   </channel>
+  <channel id="Real Betis vs. RCD Mallorca">
+    <display-name lang="en">Real Betis vs. RCD Mallorca</display-name>
+  </channel>
   <channel id="Sunderland vs. Everton">
     <display-name lang="en">Sunderland vs. Everton</display-name>
+  </channel>
+  <channel id="Real Oviedo vs. CA Osasuna">
+    <display-name lang="en">Real Oviedo vs. CA Osasuna</display-name>
   </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
@@ -482,6 +512,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251029000000 -0500" channel="Getafe CF vs. Girona FC" stop="20251029235959 -0500">
+    <title>03:00 PM 31/10/25 - Getafe CF vs. Girona FC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="Villarreal CF vs. Rayo Vallecano" stop="20251029235959 -0500">
+    <title>08:00 AM 01/11/25 - Villarreal CF vs. Rayo Vallecano</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251029000000 -0500" channel="Heidenheim vs. Frankfurt" stop="20251029235959 -0500">
     <title>09:30 AM 01/11/25 - Heidenheim vs. Frankfurt</title>
     <date>2025</date>
@@ -562,6 +608,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251029000000 -0500" channel="Atl&#233;tico de Madrid vs. Sevilla FC" stop="20251029235959 -0500">
+    <title>10:15 AM 01/11/25 - Atl&#233;tico de Madrid vs. Sevilla FC</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251029000000 -0500" channel="PSG vs. OGC Nice" stop="20251029235959 -0500">
     <title>11:00 AM 01/11/25 - PSG vs. OGC Nice</title>
     <date>2025</date>
@@ -586,6 +640,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251029000000 -0500" channel="Real Sociedad vs. Athletic Club" stop="20251029235959 -0500">
+    <title>12:30 PM 01/11/25 - Real Sociedad vs. Athletic Club</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251029000000 -0500" channel="AS Monaco vs. Paris FC" stop="20251029235959 -0500">
     <title>01:00 PM 01/11/25 - AS Monaco vs. Paris FC</title>
     <date>2025</date>
@@ -602,8 +664,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251029000000 -0500" channel="Real Madrid vs. Valencia CF" stop="20251029235959 -0500">
+    <title>03:00 PM 01/11/25 - Real Madrid vs. Valencia CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251029000000 -0500" channel="AJ Auxerre vs. OM" stop="20251029235959 -0500">
     <title>03:05 PM 01/11/25 - AJ Auxerre vs. OM</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="Levante UD vs. Celta" stop="20251029235959 -0500">
+    <title>08:00 AM 02/11/25 - Levante UD vs. Celta</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -628,6 +706,14 @@
   </programme>
   <programme start="20251029000000 -0500" channel="Cologne vs. Hamburg" stop="20251029235959 -0500">
     <title>09:30 AM 02/11/25 - Cologne vs. Hamburg</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="Deportivo Alav&#233;s vs. RCD Espanyol de Barcelona" stop="20251029235959 -0500">
+    <title>10:15 AM 02/11/25 - Deportivo Alav&#233;s vs. RCD Espanyol de Barcelona</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -682,6 +768,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251029000000 -0500" channel="FC Barcelona vs. Elche CF" stop="20251029235959 -0500">
+    <title>12:30 PM 02/11/25 - FC Barcelona vs. Elche CF</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251029000000 -0500" channel="Brest vs. OL" stop="20251029235959 -0500">
     <title>02:45 PM 02/11/25 - Brest vs. OL</title>
     <date>2025</date>
@@ -690,8 +784,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251029000000 -0500" channel="Real Betis vs. RCD Mallorca" stop="20251029235959 -0500">
+    <title>03:00 PM 02/11/25 - Real Betis vs. RCD Mallorca</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251029000000 -0500" channel="Sunderland vs. Everton" stop="20251029235959 -0500">
     <title>03:00 PM 03/11/25 - Sunderland vs. Everton</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="Real Oviedo vs. CA Osasuna" stop="20251029235959 -0500">
+    <title>03:00 PM 03/11/25 - Real Oviedo vs. CA Osasuna</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
