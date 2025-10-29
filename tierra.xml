@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251029 -0500">
+  <channel id="Como vs. Hellas Verona">
+    <display-name lang="en">Como vs. Hellas Verona</display-name>
+  </channel>
+  <channel id="Juventus vs. Udinese">
+    <display-name lang="en">Juventus vs. Udinese</display-name>
+  </channel>
+  <channel id="Roma vs. Parma">
+    <display-name lang="en">Roma vs. Parma</display-name>
+  </channel>
+  <channel id="Havre AC vs. Brest">
+    <display-name lang="en">Havre AC vs. Brest</display-name>
+  </channel>
+  <channel id="FC Lorient vs. PSG">
+    <display-name lang="en">FC Lorient vs. PSG</display-name>
+  </channel>
+  <channel id="FC Metz vs. RC Lens">
+    <display-name lang="en">FC Metz vs. RC Lens</display-name>
+  </channel>
+  <channel id="OGC Nice vs. LOSC">
+    <display-name lang="en">OGC Nice vs. LOSC</display-name>
+  </channel>
   <channel id="Toronto Blue Jays vs. Los Angeles Dodgers">
     <display-name lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
   </channel>
@@ -32,27 +53,6 @@
   </channel>
   <channel id="Memphis Grizzlies vs. Phoenix Suns">
     <display-name lang="en">Memphis Grizzlies vs. Phoenix Suns</display-name>
-  </channel>
-  <channel id="Como vs. Hellas Verona">
-    <display-name lang="en">Como vs. Hellas Verona</display-name>
-  </channel>
-  <channel id="Juventus vs. Udinese">
-    <display-name lang="en">Juventus vs. Udinese</display-name>
-  </channel>
-  <channel id="Roma vs. Parma">
-    <display-name lang="en">Roma vs. Parma</display-name>
-  </channel>
-  <channel id="Havre AC vs. Brest">
-    <display-name lang="en">Havre AC vs. Brest</display-name>
-  </channel>
-  <channel id="FC Lorient vs. PSG">
-    <display-name lang="en">FC Lorient vs. PSG</display-name>
-  </channel>
-  <channel id="FC Metz vs. RC Lens">
-    <display-name lang="en">FC Metz vs. RC Lens</display-name>
-  </channel>
-  <channel id="OGC Nice vs. LOSC">
-    <display-name lang="en">OGC Nice vs. LOSC</display-name>
   </channel>
   <channel id="Bologna vs. Torino">
     <display-name lang="en">Bologna vs. Torino</display-name>
@@ -213,6 +213,9 @@
   <channel id="Real Oviedo vs. CA Osasuna">
     <display-name lang="en">Real Oviedo vs. CA Osasuna</display-name>
   </channel>
+  <channel id="Toronto Maple Leafs vs. Columbus Blue Jackets">
+    <display-name lang="en">Toronto Maple Leafs vs. Columbus Blue Jackets</display-name>
+  </channel>
   <channel id="AEW: Wednesday Night Dynamite">
     <display-name lang="en">AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -240,6 +243,62 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251029000000 -0500" channel="Como vs. Hellas Verona" stop="20251029235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="Juventus vs. Udinese" stop="20251029235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="Roma vs. Parma" stop="20251029235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="Havre AC vs. Brest" stop="20251029235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="FC Lorient vs. PSG" stop="20251029235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="FC Metz vs. RC Lens" stop="20251029235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="OGC Nice vs. LOSC" stop="20251029235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251029000000 -0500" channel="Toronto Blue Jays vs. Los Angeles Dodgers" stop="20251029235959 -0500">
     <title>07:00 PM 29/10/25 - Toronto Blue Jays vs. Los Angeles Dodgers</title>
     <date>2025</date>
@@ -322,62 +381,6 @@
   </programme>
   <programme start="20251029000000 -0500" channel="Memphis Grizzlies vs. Phoenix Suns" stop="20251029235959 -0500">
     <title>09:00 PM 29/10/25 - Memphis Grizzlies vs. Phoenix Suns</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251029000000 -0500" channel="Como vs. Hellas Verona" stop="20251029235959 -0500">
-    <title>12:30 PM 29/10/25 - Como vs. Hellas Verona</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251029000000 -0500" channel="Juventus vs. Udinese" stop="20251029235959 -0500">
-    <title>12:30 PM 29/10/25 - Juventus vs. Udinese</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251029000000 -0500" channel="Roma vs. Parma" stop="20251029235959 -0500">
-    <title>12:30 PM 29/10/25 - Roma vs. Parma</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251029000000 -0500" channel="Havre AC vs. Brest" stop="20251029235959 -0500">
-    <title>01:00 PM 29/10/25 - Havre AC vs. Brest</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251029000000 -0500" channel="FC Lorient vs. PSG" stop="20251029235959 -0500">
-    <title>01:00 PM 29/10/25 - FC Lorient vs. PSG</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251029000000 -0500" channel="FC Metz vs. RC Lens" stop="20251029235959 -0500">
-    <title>01:00 PM 29/10/25 - FC Metz vs. RC Lens</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251029000000 -0500" channel="OGC Nice vs. LOSC" stop="20251029235959 -0500">
-    <title>01:00 PM 29/10/25 - OGC Nice vs. LOSC</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -802,6 +805,14 @@
   </programme>
   <programme start="20251029000000 -0500" channel="Real Oviedo vs. CA Osasuna" stop="20251029235959 -0500">
     <title>03:00 PM 03/11/25 - Real Oviedo vs. CA Osasuna</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251029000000 -0500" channel="Toronto Maple Leafs vs. Columbus Blue Jackets" stop="20251029235959 -0500">
+    <title>06:30 PM 29/10/25 - Toronto Maple Leafs vs. Columbus Blue Jackets</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
