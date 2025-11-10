@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251110 -0500">
+  <channel id="Grand Slam of Darts - Day 3">
+    <display-name lang="en">Grand Slam of Darts - Day 3</display-name>
+  </channel>
   <channel id="Philadelphia Eagles vs. Green Bay Packers">
     <display-name lang="en">Philadelphia Eagles vs. Green Bay Packers</display-name>
   </channel>
@@ -29,9 +32,6 @@
   </channel>
   <channel id="Atlanta Hawks vs. LA Clippers">
     <display-name lang="en">Atlanta Hawks vs. LA Clippers</display-name>
-  </channel>
-  <channel id="Grand Slam of Darts - Day 3">
-    <display-name lang="en">Grand Slam of Darts - Day 3</display-name>
   </channel>
   <channel id="Grand Slam of Darts - Day 4">
     <display-name lang="en">Grand Slam of Darts - Day 4</display-name>
@@ -207,6 +207,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251110000000 -0500" channel="Grand Slam of Darts - Day 3" stop="20251110235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251110000000 -0500" channel="Philadelphia Eagles vs. Green Bay Packers" stop="20251110235959 -0500">
     <title>08:15 PM 10/11/25 - Philadelphia Eagles vs. Green Bay Packers (ABC)</title>
     <date>2025</date>
@@ -281,14 +289,6 @@
   </programme>
   <programme start="20251110000000 -0500" channel="Atlanta Hawks vs. LA Clippers" stop="20251110235959 -0500">
     <title>10:30 PM 10/11/25 - Atlanta Hawks vs. LA Clippers (NBA TV)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251110000000 -0500" channel="Grand Slam of Darts - Day 3" stop="20251110235959 -0500">
-    <title>02:00 PM 10/11/25 - Grand Slam of Darts - Day 3 (PDC Darts)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
