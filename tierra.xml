@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251111 -0500">
+  <channel id="Grand Slam of Darts - Day 4">
+    <display-name lang="en">Grand Slam of Darts - Day 4</display-name>
+  </channel>
   <channel id="Toronto Raptors vs. Brooklyn Nets">
     <display-name lang="en">Toronto Raptors vs. Brooklyn Nets</display-name>
   </channel>
@@ -17,9 +20,6 @@
   </channel>
   <channel id="Denver Nuggets vs. Sacramento Kings">
     <display-name lang="en">Denver Nuggets vs. Sacramento Kings</display-name>
-  </channel>
-  <channel id="Grand Slam of Darts - Day 4">
-    <display-name lang="en">Grand Slam of Darts - Day 4</display-name>
   </channel>
   <channel id="Grand Slam of Darts - Day 5">
     <display-name lang="en">Grand Slam of Darts - Day 5</display-name>
@@ -189,6 +189,14 @@
   <channel id="Master stream test">
     <display-name lang="en">Master stream test</display-name>
   </channel>
+  <programme start="20251111000000 -0500" channel="Grand Slam of Darts - Day 4" stop="20251111235959 -0500">
+    <title>Live</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251111193001 -0500" channel="Toronto Raptors vs. Brooklyn Nets" stop="20251111235959 -0500">
     <title>07:30 PM 11/11/25 - Toronto Raptors vs. Brooklyn Nets (YES)</title>
     <date>2025</date>
@@ -231,14 +239,6 @@
   </programme>
   <programme start="20251111230001 -0500" channel="Denver Nuggets vs. Sacramento Kings" stop="20251111235959 -0500">
     <title>11:00 PM 11/11/25 - Denver Nuggets vs. Sacramento Kings (Peacock)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251111140001 -0500" channel="Grand Slam of Darts - Day 4" stop="20251111235959 -0500">
-    <title>02:00 PM 11/11/25 - Grand Slam of Darts - Day 4 (PDC Darts)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
