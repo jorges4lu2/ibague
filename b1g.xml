@@ -816,8 +816,8 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 -World of Outlaws Celebration  7:00 PM">
-    <display-name lang="en">DIRTVISION 01 -World of Outlaws Celebration  7:00 PM</display-name>
+  <channel id="DIRTVISION 01 - Millbridge Speedway  6:15 PM">
+    <display-name lang="en">DIRTVISION 01 - Millbridge Speedway  6:15 PM</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -1172,6 +1172,12 @@
   </channel>
   <channel id="Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm">
     <display-name lang="en">Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm</display-name>
+  </channel>
+  <channel id="National League 01 | Forest Green vs Tamworth // UK Tue 11 Nov 7:45pm // ET Tue 11 Nov 2:45pm">
+    <display-name lang="en">National League 01 | Forest Green vs Tamworth // UK Tue 11 Nov 7:45pm // ET Tue 11 Nov 2:45pm</display-name>
+  </channel>
+  <channel id="National League 02 | York vs Rochdale // UK Tue 11 Nov 7:45pm // ET Tue 11 Nov 2:45pm">
+    <display-name lang="en">National League 02 | York vs Rochdale // UK Tue 11 Nov 7:45pm // ET Tue 11 Nov 2:45pm</display-name>
   </channel>
   <channel id="01. PDC | Grand Slam of Darts (Tue 19:00 UK)">
     <display-name lang="en">01. PDC | Grand Slam of Darts (Tue 19:00 UK)</display-name>
@@ -3670,8 +3676,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251111000000 -0500" channel="DIRTVISION 01 -World of Outlaws Celebration  7:00 PM" stop="20251111235959 -0500">
-    <title>06:00 PM - DIRTVISION 01 -World of Outlaws Celebration  7:00 PM</title>
+  <programme start="20251111000000 -0500" channel="DIRTVISION 01 - Millbridge Speedway  6:15 PM" stop="20251111235959 -0500">
+    <title>05:15 PM - DIRTVISION 01 - Millbridge Speedway  6:15 PM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -4616,6 +4622,22 @@
   </programme>
   <programme start="20251111000000 -0500" channel="Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm" stop="20251111235959 -0500">
     <title>02:55 PM - Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251111000000 -0500" channel="National League 01 | Forest Green vs Tamworth // UK Tue 11 Nov 7:45pm // ET Tue 11 Nov 2:45pm" stop="20251111235959 -0500">
+    <title>02:45 PM - National League 01 | Forest Green vs Tamworth // UK Tue 11 Nov 7:45pm // ET Tue 11 Nov 2:45pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251111000000 -0500" channel="National League 02 | York vs Rochdale // UK Tue 11 Nov 7:45pm // ET Tue 11 Nov 2:45pm" stop="20251111235959 -0500">
+    <title>02:45 PM - National League 02 | York vs Rochdale // UK Tue 11 Nov 7:45pm // ET Tue 11 Nov 2:45pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
