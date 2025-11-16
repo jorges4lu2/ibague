@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251115 -0500">
-  <channel id="Florida Gators vs. Ole Miss Rebels">
-    <display-name lang="en">Florida Gators vs. Ole Miss Rebels</display-name>
-  </channel>
-  <channel id="Utah Utes vs. Baylor Bears">
-    <display-name lang="en">Utah Utes vs. Baylor Bears</display-name>
-  </channel>
   <channel id="UCLA Bruins vs. Ohio State Buckeyes">
     <display-name lang="en">UCLA Bruins vs. Ohio State Buckeyes</display-name>
   </channel>
@@ -17,6 +11,9 @@
   </channel>
   <channel id="Washington Commanders vs. Miami Dolphins">
     <display-name lang="en">Washington Commanders vs. Miami Dolphins</display-name>
+  </channel>
+  <channel id="NFL RedZone">
+    <display-name lang="en">NFL RedZone</display-name>
   </channel>
   <channel id="Carolina Panthers vs. Atlanta Falcons">
     <display-name lang="en">Carolina Panthers vs. Atlanta Falcons</display-name>
@@ -57,23 +54,11 @@
   <channel id="Dallas Cowboys vs. Las Vegas Raiders">
     <display-name lang="en">Dallas Cowboys vs. Las Vegas Raiders</display-name>
   </channel>
-  <channel id="Oklahoma City Thunder vs. Charlotte Hornets">
-    <display-name lang="en">Oklahoma City Thunder vs. Charlotte Hornets</display-name>
-  </channel>
-  <channel id="Toronto Raptors vs. Indiana Pacers">
-    <display-name lang="en">Toronto Raptors vs. Indiana Pacers</display-name>
-  </channel>
-  <channel id="BYU Cougars vs. UConn Huskies">
-    <display-name lang="en">BYU Cougars vs. UConn Huskies</display-name>
-  </channel>
   <channel id="Los Angeles Lakers vs. Milwaukee Bucks">
     <display-name lang="en">Los Angeles Lakers vs. Milwaukee Bucks</display-name>
   </channel>
   <channel id="Denver Nuggets vs. Minnesota Timberwolves">
     <display-name lang="en">Denver Nuggets vs. Minnesota Timberwolves</display-name>
-  </channel>
-  <channel id="UFC 322: Della Maddalena vs. Makhachev (ESPN+)">
-    <display-name lang="en">UFC 322: Della Maddalena vs. Makhachev (ESPN+)</display-name>
   </channel>
   <channel id="Grand Slam of Darts - Day 9 Afternoon">
     <display-name lang="en">Grand Slam of Darts - Day 9 Afternoon</display-name>
@@ -123,27 +108,6 @@
   <channel id="Netherlands vs. Lithuania">
     <display-name lang="en">Netherlands vs. Lithuania</display-name>
   </channel>
-  <channel id="Boston Bruins vs. Montreal Canadiens">
-    <display-name lang="en">Boston Bruins vs. Montreal Canadiens</display-name>
-  </channel>
-  <channel id="Los Angeles Kings vs. Ottawa Senators">
-    <display-name lang="en">Los Angeles Kings vs. Ottawa Senators</display-name>
-  </channel>
-  <channel id="Buffalo Sabres vs. Detroit Red Wings">
-    <display-name lang="en">Buffalo Sabres vs. Detroit Red Wings</display-name>
-  </channel>
-  <channel id="New Jersey Devils vs. Washington Capitals">
-    <display-name lang="en">New Jersey Devils vs. Washington Capitals</display-name>
-  </channel>
-  <channel id="Edmonton Oilers vs. Carolina Hurricanes">
-    <display-name lang="en">Edmonton Oilers vs. Carolina Hurricanes</display-name>
-  </channel>
-  <channel id="New York Rangers vs. Columbus Blue Jackets">
-    <display-name lang="en">New York Rangers vs. Columbus Blue Jackets</display-name>
-  </channel>
-  <channel id="Toronto Maple Leafs vs. Chicago Blackhawks">
-    <display-name lang="en">Toronto Maple Leafs vs. Chicago Blackhawks</display-name>
-  </channel>
   <channel id="Vegas Golden Knights vs. St. Louis Blues">
     <display-name lang="en">Vegas Golden Knights vs. St. Louis Blues</display-name>
   </channel>
@@ -162,39 +126,7 @@
   <channel id="AEW: Saturday Night Collision">
     <display-name lang="en">AEW: Saturday Night Collision</display-name>
   </channel>
-  <programme start="20251115190002 -0500" channel="Florida Gators vs. Ole Miss Rebels" stop="20251115235959 -0500">
-    <title>Florida Gators vs. Ole Miss Rebels (ESPN)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="Florida Gators vs. Ole Miss Rebels" stop="20251115190002 -0500">
-    <title>Next event: 15 Nov 07:00 PM - Florida Gators vs. Ole Miss Rebels (ESPN)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115190002 -0500" channel="Utah Utes vs. Baylor Bears" stop="20251115235959 -0500">
-    <title>Utah Utes vs. Baylor Bears (ESPN2)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="Utah Utes vs. Baylor Bears" stop="20251115190002 -0500">
-    <title>Next event: 15 Nov 07:00 PM - Utah Utes vs. Baylor Bears (ESPN2)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115193002 -0500" channel="UCLA Bruins vs. Ohio State Buckeyes" stop="20251115235959 -0500">
+  <programme start="20251115193001 -0500" channel="UCLA Bruins vs. Ohio State Buckeyes" stop="20251115235959 -0500">
     <title>UCLA Bruins vs. Ohio State Buckeyes (NBC)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -202,7 +134,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="UCLA Bruins vs. Ohio State Buckeyes" stop="20251115193002 -0500">
+  <programme start="20251115190110 -0500" channel="UCLA Bruins vs. Ohio State Buckeyes" stop="20251115193001 -0500">
     <title>Next event: 15 Nov 07:30 PM - UCLA Bruins vs. Ohio State Buckeyes (NBC)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -210,7 +142,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115193002 -0500" channel="Texas Longhorns vs. Georgia Bulldogs" stop="20251115235959 -0500">
+  <programme start="20251115193001 -0500" channel="Texas Longhorns vs. Georgia Bulldogs" stop="20251115235959 -0500">
     <title>Texas Longhorns vs. Georgia Bulldogs (ABC)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -218,7 +150,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Texas Longhorns vs. Georgia Bulldogs" stop="20251115193002 -0500">
+  <programme start="20251115190110 -0500" channel="Texas Longhorns vs. Georgia Bulldogs" stop="20251115193001 -0500">
     <title>Next event: 15 Nov 07:30 PM - Texas Longhorns vs. Georgia Bulldogs (ABC)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -226,7 +158,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115221502 -0500" channel="TCU Horned Frogs vs. BYU Cougars" stop="20251115235959 -0500">
+  <programme start="20251115221501 -0500" channel="TCU Horned Frogs vs. BYU Cougars" stop="20251115235959 -0500">
     <title>TCU Horned Frogs vs. BYU Cougars (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -234,7 +166,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="TCU Horned Frogs vs. BYU Cougars" stop="20251115221502 -0500">
+  <programme start="20251115190110 -0500" channel="TCU Horned Frogs vs. BYU Cougars" stop="20251115221501 -0500">
     <title>Next event: 15 Nov 10:15 PM - TCU Horned Frogs vs. BYU Cougars (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -250,8 +182,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Washington Commanders vs. Miami Dolphins" stop="20251116093001 -0500">
+  <programme start="20251115190110 -0500" channel="Washington Commanders vs. Miami Dolphins" stop="20251116093001 -0500">
     <title>Next event: 16 Nov 09:30 AM - Washington Commanders vs. Miami Dolphins (NFL Net)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251116130001 -0500" channel="NFL RedZone" stop="20251116235959 -0500">
+    <title>NFL RedZone (NFL RedZone)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251115190110 -0500" channel="NFL RedZone" stop="20251116130001 -0500">
+    <title>Next event: 16 Nov 01:00 PM - NFL RedZone (NFL RedZone)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -266,7 +214,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Carolina Panthers vs. Atlanta Falcons" stop="20251116130001 -0500">
+  <programme start="20251115190110 -0500" channel="Carolina Panthers vs. Atlanta Falcons" stop="20251116130001 -0500">
     <title>Next event: 16 Nov 01:00 PM - Carolina Panthers vs. Atlanta Falcons (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -282,7 +230,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Tampa Bay Buccaneers vs. Buffalo Bills" stop="20251116130001 -0500">
+  <programme start="20251115190110 -0500" channel="Tampa Bay Buccaneers vs. Buffalo Bills" stop="20251116130001 -0500">
     <title>Next event: 16 Nov 01:00 PM - Tampa Bay Buccaneers vs. Buffalo Bills (CBS)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -298,7 +246,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Houston Texans vs. Tennessee Titans" stop="20251116130001 -0500">
+  <programme start="20251115190110 -0500" channel="Houston Texans vs. Tennessee Titans" stop="20251116130001 -0500">
     <title>Next event: 16 Nov 01:00 PM - Houston Texans vs. Tennessee Titans (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -314,7 +262,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Chicago Bears vs. Minnesota Vikings" stop="20251116130001 -0500">
+  <programme start="20251115190110 -0500" channel="Chicago Bears vs. Minnesota Vikings" stop="20251116130001 -0500">
     <title>Next event: 16 Nov 01:00 PM - Chicago Bears vs. Minnesota Vikings (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -330,7 +278,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Green Bay Packers vs. New York Giants" stop="20251116130001 -0500">
+  <programme start="20251115190110 -0500" channel="Green Bay Packers vs. New York Giants" stop="20251116130001 -0500">
     <title>Next event: 16 Nov 01:00 PM - Green Bay Packers vs. New York Giants (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -346,7 +294,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Cincinnati Bengals vs. Pittsburgh Steelers" stop="20251116130001 -0500">
+  <programme start="20251115190110 -0500" channel="Cincinnati Bengals vs. Pittsburgh Steelers" stop="20251116130001 -0500">
     <title>Next event: 16 Nov 01:00 PM - Cincinnati Bengals vs. Pittsburgh Steelers (CBS)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -362,7 +310,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Los Angeles Chargers vs. Jacksonville Jaguars" stop="20251116130001 -0500">
+  <programme start="20251115190110 -0500" channel="Los Angeles Chargers vs. Jacksonville Jaguars" stop="20251116130001 -0500">
     <title>Next event: 16 Nov 01:00 PM - Los Angeles Chargers vs. Jacksonville Jaguars (CBS)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -378,7 +326,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Seattle Seahawks vs. Los Angeles Rams" stop="20251116160501 -0500">
+  <programme start="20251115190110 -0500" channel="Seattle Seahawks vs. Los Angeles Rams" stop="20251116160501 -0500">
     <title>Next event: 16 Nov 04:05 PM - Seattle Seahawks vs. Los Angeles Rams (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -394,7 +342,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="San Francisco 49ers vs. Arizona Cardinals" stop="20251116160501 -0500">
+  <programme start="20251115190110 -0500" channel="San Francisco 49ers vs. Arizona Cardinals" stop="20251116160501 -0500">
     <title>Next event: 16 Nov 04:05 PM - San Francisco 49ers vs. Arizona Cardinals (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -410,7 +358,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Baltimore Ravens vs. Cleveland Browns" stop="20251116162501 -0500">
+  <programme start="20251115190110 -0500" channel="Baltimore Ravens vs. Cleveland Browns" stop="20251116162501 -0500">
     <title>Next event: 16 Nov 04:25 PM - Baltimore Ravens vs. Cleveland Browns (CBS)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -426,7 +374,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Kansas City Chiefs vs. Denver Broncos" stop="20251116162501 -0500">
+  <programme start="20251115190110 -0500" channel="Kansas City Chiefs vs. Denver Broncos" stop="20251116162501 -0500">
     <title>Next event: 16 Nov 04:25 PM - Kansas City Chiefs vs. Denver Broncos (CBS)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -442,7 +390,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Detroit Lions vs. Philadelphia Eagles" stop="20251116202001 -0500">
+  <programme start="20251115190110 -0500" channel="Detroit Lions vs. Philadelphia Eagles" stop="20251116202001 -0500">
     <title>Next event: 16 Nov 08:20 PM - Detroit Lions vs. Philadelphia Eagles (NBC)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -458,7 +406,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Dallas Cowboys vs. Las Vegas Raiders" stop="20251117201501 -0500">
+  <programme start="20251115190110 -0500" channel="Dallas Cowboys vs. Las Vegas Raiders" stop="20251117201501 -0500">
     <title>Next event: 17 Nov 08:15 PM - Dallas Cowboys vs. Las Vegas Raiders (ABC)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -466,55 +414,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115190001 -0500" channel="Oklahoma City Thunder vs. Charlotte Hornets" stop="20251115235959 -0500">
-    <title>Oklahoma City Thunder vs. Charlotte Hornets (FDSNSE-CHA)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="Oklahoma City Thunder vs. Charlotte Hornets" stop="20251115190001 -0500">
-    <title>Next event: 15 Nov 07:00 PM - Oklahoma City Thunder vs. Charlotte Hornets (FDSNSE-CHA)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115190001 -0500" channel="Toronto Raptors vs. Indiana Pacers" stop="20251115235959 -0500">
-    <title>Toronto Raptors vs. Indiana Pacers (FDSNIN)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="Toronto Raptors vs. Indiana Pacers" stop="20251115190001 -0500">
-    <title>Next event: 15 Nov 07:00 PM - Toronto Raptors vs. Indiana Pacers (FDSNIN)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115190001 -0500" channel="BYU Cougars vs. UConn Huskies" stop="20251115235959 -0500">
-    <title>BYU Cougars vs. UConn Huskies (FOX)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="BYU Cougars vs. UConn Huskies" stop="20251115190001 -0500">
-    <title>Next event: 15 Nov 07:00 PM - BYU Cougars vs. UConn Huskies (FOX)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115200001 -0500" channel="Los Angeles Lakers vs. Milwaukee Bucks" stop="20251115235959 -0500">
+  <programme start="20251115200000 -0500" channel="Los Angeles Lakers vs. Milwaukee Bucks" stop="20251115235959 -0500">
     <title>Los Angeles Lakers vs. Milwaukee Bucks (NBA TV)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -522,7 +422,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Los Angeles Lakers vs. Milwaukee Bucks" stop="20251115200001 -0500">
+  <programme start="20251115190110 -0500" channel="Los Angeles Lakers vs. Milwaukee Bucks" stop="20251115200000 -0500">
     <title>Next event: 15 Nov 08:00 PM - Los Angeles Lakers vs. Milwaukee Bucks (NBA TV)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -530,7 +430,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115200001 -0500" channel="Denver Nuggets vs. Minnesota Timberwolves" stop="20251115235959 -0500">
+  <programme start="20251115200000 -0500" channel="Denver Nuggets vs. Minnesota Timberwolves" stop="20251115235959 -0500">
     <title>Denver Nuggets vs. Minnesota Timberwolves (FDSNNO)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -538,7 +438,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Denver Nuggets vs. Minnesota Timberwolves" stop="20251115200001 -0500">
+  <programme start="20251115190110 -0500" channel="Denver Nuggets vs. Minnesota Timberwolves" stop="20251115200000 -0500">
     <title>Next event: 15 Nov 08:00 PM - Denver Nuggets vs. Minnesota Timberwolves (FDSNNO)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -546,23 +446,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115220001 -0500" channel="UFC 322: Della Maddalena vs. Makhachev (ESPN+)" stop="20251115235959 -0500">
-    <title>UFC 322: Della Maddalena vs. Makhachev (ESPN+) (ESPN+)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="UFC 322: Della Maddalena vs. Makhachev (ESPN+)" stop="20251115220001 -0500">
-    <title>Next event: 15 Nov 10:00 PM - UFC 322: Della Maddalena vs. Makhachev (ESPN+) (ESPN+)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251116080001 -0500" channel="Grand Slam of Darts - Day 9 Afternoon" stop="20251116235959 -0500">
+  <programme start="20251116080000 -0500" channel="Grand Slam of Darts - Day 9 Afternoon" stop="20251116235959 -0500">
     <title>Grand Slam of Darts - Day 9 Afternoon (PDC Darts)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -570,7 +454,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Grand Slam of Darts - Day 9 Afternoon" stop="20251116080001 -0500">
+  <programme start="20251115190110 -0500" channel="Grand Slam of Darts - Day 9 Afternoon" stop="20251116080000 -0500">
     <title>Next event: 16 Nov 08:00 AM - Grand Slam of Darts - Day 9 Afternoon (PDC Darts)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -578,7 +462,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251116143001 -0500" channel="Grand Slam of Darts - Day 9 Evening" stop="20251116235959 -0500">
+  <programme start="20251116143000 -0500" channel="Grand Slam of Darts - Day 9 Evening" stop="20251116235959 -0500">
     <title>Grand Slam of Darts - Day 9 Evening (PDC Darts)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -586,7 +470,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Grand Slam of Darts - Day 9 Evening" stop="20251116143001 -0500">
+  <programme start="20251115190110 -0500" channel="Grand Slam of Darts - Day 9 Evening" stop="20251116143000 -0500">
     <title>Next event: 16 Nov 02:30 PM - Grand Slam of Darts - Day 9 Evening (PDC Darts)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -594,7 +478,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251116090001 -0500" channel="Hungary vs. Republic of Ireland" stop="20251116235959 -0500">
+  <programme start="20251116090000 -0500" channel="Hungary vs. Republic of Ireland" stop="20251116235959 -0500">
     <title>Hungary vs. Republic of Ireland (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -602,7 +486,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Hungary vs. Republic of Ireland" stop="20251116090001 -0500">
+  <programme start="20251115190110 -0500" channel="Hungary vs. Republic of Ireland" stop="20251116090000 -0500">
     <title>Next event: 16 Nov 09:00 AM - Hungary vs. Republic of Ireland (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -610,7 +494,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251116090001 -0500" channel="Portugal vs. Armenia" stop="20251116235959 -0500">
+  <programme start="20251116090000 -0500" channel="Portugal vs. Armenia" stop="20251116235959 -0500">
     <title>Portugal vs. Armenia (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -618,7 +502,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Portugal vs. Armenia" stop="20251116090001 -0500">
+  <programme start="20251115190110 -0500" channel="Portugal vs. Armenia" stop="20251116090000 -0500">
     <title>Next event: 16 Nov 09:00 AM - Portugal vs. Armenia (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -626,7 +510,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251116120001 -0500" channel="Ukraine vs. Iceland" stop="20251116235959 -0500">
+  <programme start="20251116120000 -0500" channel="Ukraine vs. Iceland" stop="20251116235959 -0500">
     <title>Ukraine vs. Iceland (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -634,7 +518,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Ukraine vs. Iceland" stop="20251116120001 -0500">
+  <programme start="20251115190110 -0500" channel="Ukraine vs. Iceland" stop="20251116120000 -0500">
     <title>Next event: 16 Nov 12:00 PM - Ukraine vs. Iceland (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -650,7 +534,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Serbia vs. Latvia" stop="20251116120001 -0500">
+  <programme start="20251115190110 -0500" channel="Serbia vs. Latvia" stop="20251116120001 -0500">
     <title>Next event: 16 Nov 12:00 PM - Serbia vs. Latvia (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -666,7 +550,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Albania vs. England" stop="20251116120001 -0500">
+  <programme start="20251115190110 -0500" channel="Albania vs. England" stop="20251116120001 -0500">
     <title>Next event: 16 Nov 12:00 PM - Albania vs. England (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -682,7 +566,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Azerbaijan vs. France" stop="20251116120001 -0500">
+  <programme start="20251115190110 -0500" channel="Azerbaijan vs. France" stop="20251116120001 -0500">
     <title>Next event: 16 Nov 12:00 PM - Azerbaijan vs. France (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -698,7 +582,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Italy vs. Norway" stop="20251116144501 -0500">
+  <programme start="20251115190110 -0500" channel="Italy vs. Norway" stop="20251116144501 -0500">
     <title>Next event: 16 Nov 02:45 PM - Italy vs. Norway (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -714,7 +598,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Israel vs. Moldova" stop="20251116144501 -0500">
+  <programme start="20251115190110 -0500" channel="Israel vs. Moldova" stop="20251116144501 -0500">
     <title>Next event: 16 Nov 02:45 PM - Israel vs. Moldova (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -730,7 +614,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Czechia vs. Gibraltar" stop="20251117144501 -0500">
+  <programme start="20251115190110 -0500" channel="Czechia vs. Gibraltar" stop="20251117144501 -0500">
     <title>Next event: 17 Nov 02:45 PM - Czechia vs. Gibraltar (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -746,7 +630,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Northern Ireland vs. Luxembourg" stop="20251117144501 -0500">
+  <programme start="20251115190110 -0500" channel="Northern Ireland vs. Luxembourg" stop="20251117144501 -0500">
     <title>Next event: 17 Nov 02:45 PM - Northern Ireland vs. Luxembourg (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -762,7 +646,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Montenegro vs. Croatia" stop="20251117144501 -0500">
+  <programme start="20251115190110 -0500" channel="Montenegro vs. Croatia" stop="20251117144501 -0500">
     <title>Next event: 17 Nov 02:45 PM - Montenegro vs. Croatia (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -778,7 +662,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Malta vs. Poland" stop="20251117144501 -0500">
+  <programme start="20251115190110 -0500" channel="Malta vs. Poland" stop="20251117144501 -0500">
     <title>Next event: 17 Nov 02:45 PM - Malta vs. Poland (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -794,7 +678,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Germany vs. Slovakia" stop="20251117144501 -0500">
+  <programme start="20251115190110 -0500" channel="Germany vs. Slovakia" stop="20251117144501 -0500">
     <title>Next event: 17 Nov 02:45 PM - Germany vs. Slovakia (WC Qualifying)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -810,120 +694,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Netherlands vs. Lithuania" stop="20251117144501 -0500">
+  <programme start="20251115190110 -0500" channel="Netherlands vs. Lithuania" stop="20251117144501 -0500">
     <title>Next event: 17 Nov 02:45 PM - Netherlands vs. Lithuania (WC Qualifying)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115190001 -0500" channel="Boston Bruins vs. Montreal Canadiens" stop="20251115235959 -0500">
-    <title>Boston Bruins vs. Montreal Canadiens (NESN)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="Boston Bruins vs. Montreal Canadiens" stop="20251115190001 -0500">
-    <title>Next event: 15 Nov 07:00 PM - Boston Bruins vs. Montreal Canadiens (NESN)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115190001 -0500" channel="Los Angeles Kings vs. Ottawa Senators" stop="20251115235959 -0500">
-    <title>Los Angeles Kings vs. Ottawa Senators (ESPN+)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="Los Angeles Kings vs. Ottawa Senators" stop="20251115190001 -0500">
-    <title>Next event: 15 Nov 07:00 PM - Los Angeles Kings vs. Ottawa Senators (ESPN+)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115190001 -0500" channel="Buffalo Sabres vs. Detroit Red Wings" stop="20251115235959 -0500">
-    <title>Buffalo Sabres vs. Detroit Red Wings (FanDuel SN DET)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="Buffalo Sabres vs. Detroit Red Wings" stop="20251115190001 -0500">
-    <title>Next event: 15 Nov 07:00 PM - Buffalo Sabres vs. Detroit Red Wings (FanDuel SN DET)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115190001 -0500" channel="New Jersey Devils vs. Washington Capitals" stop="20251115235959 -0500">
-    <title>New Jersey Devils vs. Washington Capitals (MNMT)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="New Jersey Devils vs. Washington Capitals" stop="20251115190001 -0500">
-    <title>Next event: 15 Nov 07:00 PM - New Jersey Devils vs. Washington Capitals (MNMT)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115190001 -0500" channel="Edmonton Oilers vs. Carolina Hurricanes" stop="20251115235959 -0500">
-    <title>Edmonton Oilers vs. Carolina Hurricanes (FanDuel SN South)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="Edmonton Oilers vs. Carolina Hurricanes" stop="20251115190001 -0500">
-    <title>Next event: 15 Nov 07:00 PM - Edmonton Oilers vs. Carolina Hurricanes (FanDuel SN South)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115190001 -0500" channel="New York Rangers vs. Columbus Blue Jackets" stop="20251115235959 -0500">
-    <title>New York Rangers vs. Columbus Blue Jackets (FanDuel SN OH)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="New York Rangers vs. Columbus Blue Jackets" stop="20251115190001 -0500">
-    <title>Next event: 15 Nov 07:00 PM - New York Rangers vs. Columbus Blue Jackets (FanDuel SN OH)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115190001 -0500" channel="Toronto Maple Leafs vs. Chicago Blackhawks" stop="20251115235959 -0500">
-    <title>Toronto Maple Leafs vs. Chicago Blackhawks (CHSN)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251115180111 -0500" channel="Toronto Maple Leafs vs. Chicago Blackhawks" stop="20251115190001 -0500">
-    <title>Next event: 15 Nov 07:00 PM - Toronto Maple Leafs vs. Chicago Blackhawks (CHSN)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -938,7 +710,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Vegas Golden Knights vs. St. Louis Blues" stop="20251115200001 -0500">
+  <programme start="20251115190110 -0500" channel="Vegas Golden Knights vs. St. Louis Blues" stop="20251115200001 -0500">
     <title>Next event: 15 Nov 08:00 PM - Vegas Golden Knights vs. St. Louis Blues (FanDuel SN MW)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -954,7 +726,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Philadelphia Flyers vs. Dallas Stars" stop="20251115200001 -0500">
+  <programme start="20251115190110 -0500" channel="Philadelphia Flyers vs. Dallas Stars" stop="20251115200001 -0500">
     <title>Next event: 15 Nov 08:00 PM - Philadelphia Flyers vs. Dallas Stars (Victory+)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -970,7 +742,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Winnipeg Jets vs. Calgary Flames" stop="20251115220001 -0500">
+  <programme start="20251115190110 -0500" channel="Winnipeg Jets vs. Calgary Flames" stop="20251115220001 -0500">
     <title>Next event: 15 Nov 10:00 PM - Winnipeg Jets vs. Calgary Flames (ESPN+)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -986,7 +758,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="San Jose Sharks vs. Seattle Kraken" stop="20251115220001 -0500">
+  <programme start="20251115190110 -0500" channel="San Jose Sharks vs. Seattle Kraken" stop="20251115220001 -0500">
     <title>Next event: 15 Nov 10:00 PM - San Jose Sharks vs. Seattle Kraken (KONG)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1002,7 +774,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="Providence vs Merrimack" stop="20251116180001 -0500">
+  <programme start="20251115190110 -0500" channel="Providence vs Merrimack" stop="20251116180001 -0500">
     <title>Next event: 16 Nov 06:00 PM - Providence vs Merrimack (ESPN+)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1018,7 +790,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251115180111 -0500" channel="AEW: Saturday Night Collision" stop="20251115200001 -0500">
+  <programme start="20251115190110 -0500" channel="AEW: Saturday Night Collision" stop="20251115200001 -0500">
     <title>Next event: 15 Nov 08:00 PM - AEW: Saturday Night Collision (TNT)</title>
     <date>2025</date>
     <category>Sports</category>
