@@ -570,6 +570,9 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
+  <channel id="DIRTVISION 01 - Volusia Speedway Park 8:00 pm">
+    <display-name lang="en">DIRTVISION 01 - Volusia Speedway Park 8:00 pm</display-name>
+  </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
   </channel>
@@ -980,6 +983,12 @@
   </channel>
   <channel id="BOXING: Chris Eubank vs. Conor Benn (Sat 16:45 UK)">
     <display-name lang="en">BOXING: Chris Eubank vs. Conor Benn (Sat 16:45 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 01 - 8PM WWE Monday Night Raw">
+    <display-name lang="en">LIVE EVENT 01 - 8PM WWE Monday Night Raw</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 - 8PM World of Outlaws Pro Series Volusia">
+    <display-name lang="en">LIVE EVENT 02 - 8PM World of Outlaws Pro Series Volusia</display-name>
   </channel>
   <channel id="LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET">
     <display-name lang="en">LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET</display-name>
@@ -2750,6 +2759,14 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251117000000 -0500" channel="DIRTVISION 01 - Volusia Speedway Park 8:00 pm" stop="20251117235959 -0500">
+    <title>07:00 PM - DIRTVISION 01 - Volusia Speedway Park 8:00 pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251117000000 -0500" channel="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET" stop="20251117235959 -0500">
     <title>02:58 PM - Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</title>
     <date>2025</date>
@@ -3840,6 +3857,22 @@
   </programme>
   <programme start="20251117000000 -0500" channel="BOXING: Chris Eubank vs. Conor Benn (Sat 16:45 UK)" stop="20251117235959 -0500">
     <title>11:45 AM - BOXING: Chris Eubank vs. Conor Benn (Sat 16:45 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251117000000 -0500" channel="LIVE EVENT 01 - 8PM WWE Monday Night Raw" stop="20251117235959 -0500">
+    <title>07:00 PM - LIVE EVENT 01 - 8PM WWE Monday Night Raw</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251117000000 -0500" channel="LIVE EVENT 02 - 8PM World of Outlaws Pro Series Volusia" stop="20251117235959 -0500">
+    <title>07:00 PM - LIVE EVENT 02 - 8PM World of Outlaws Pro Series Volusia</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
