@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251119 -0500">
-  <channel id="MAX US01 :Soccer: USMNT vs Uruguay @ Nov 18 18:30 PM">
-    <display-name lang="en">MAX US01 :Soccer: USMNT vs Uruguay @ Nov 18 18:30 PM</display-name>
+  <channel id="MAX US01 :Hockey: Oilers at Capitals @ Nov 19 18:30 PM">
+    <display-name lang="en">MAX US01 :Hockey: Oilers at Capitals @ Nov 19 18:30 PM</display-name>
   </channel>
-  <channel id="MAX US02 :Golf: Capital One MLB Open @ Nov 18 21:30 PM">
-    <display-name lang="en">MAX US02 :Golf: Capital One MLB Open @ Nov 18 21:30 PM</display-name>
+  <channel id="MAX US02 :Basketball: Dayton at Marquette @ Nov 19 19:30 PM">
+    <display-name lang="en">MAX US02 :Basketball: Dayton at Marquette @ Nov 19 19:30 PM</display-name>
+  </channel>
+  <channel id="MAX US03 :Wrestling: AEW Dynamite @ Nov 19 20:00 PM">
+    <display-name lang="en">MAX US03 :Wrestling: AEW Dynamite @ Nov 19 20:00 PM</display-name>
+  </channel>
+  <channel id="MAX US04 :Hockey: Hurricanes at Wild @ Nov 19 21:30 PM">
+    <display-name lang="en">MAX US04 :Hockey: Hurricanes at Wild @ Nov 19 21:30 PM</display-name>
+  </channel>
+  <channel id="MAX US05 :Wrestling: AEW Collision + Countdown to Full Gear 2025 @ Nov 19 22:00 PM">
+    <display-name lang="en">MAX US05 :Wrestling: AEW Collision + Countdown to Full Gear 2025 @ Nov 19 22:00 PM</display-name>
   </channel>
   <channel id="Paramount+ 01 :Men&#8217;s World Rugby: USA Eagles vs Romania @ Nov 15 9:50 AM">
     <display-name lang="en">Paramount+ 01 :Men&#8217;s World Rugby: USA Eagles vs Romania @ Nov 15 9:50 AM</display-name>
@@ -1395,16 +1404,40 @@
   <channel id="CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM">
     <display-name lang="en">CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM</display-name>
   </channel>
-  <programme start="20251119000000 -0500" channel="MAX US01 :Soccer: USMNT vs Uruguay @ Nov 18 18:30 PM" stop="20251119235959 -0500">
-    <title>07:30 PM - MAX US01 :Soccer: USMNT vs Uruguay @ Nov 18 18:30 PM</title>
+  <programme start="20251119000000 -0500" channel="MAX US01 :Hockey: Oilers at Capitals @ Nov 19 18:30 PM" stop="20251119235959 -0500">
+    <title>07:30 PM - MAX US01 :Hockey: Oilers at Capitals @ Nov 19 18:30 PM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251119000000 -0500" channel="MAX US02 :Golf: Capital One MLB Open @ Nov 18 21:30 PM" stop="20251119235959 -0500">
-    <title>12:30 PM - MAX US02 :Golf: Capital One MLB Open @ Nov 18 21:30 PM</title>
+  <programme start="20251119000000 -0500" channel="MAX US02 :Basketball: Dayton at Marquette @ Nov 19 19:30 PM" stop="20251119235959 -0500">
+    <title>08:30 PM - MAX US02 :Basketball: Dayton at Marquette @ Nov 19 19:30 PM</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251119000000 -0500" channel="MAX US03 :Wrestling: AEW Dynamite @ Nov 19 20:00 PM" stop="20251119235959 -0500">
+    <title>03:00 PM - MAX US03 :Wrestling: AEW Dynamite @ Nov 19 20:00 PM</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251119000000 -0500" channel="MAX US04 :Hockey: Hurricanes at Wild @ Nov 19 21:30 PM" stop="20251119235959 -0500">
+    <title>12:30 PM - MAX US04 :Hockey: Hurricanes at Wild @ Nov 19 21:30 PM</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251119000000 -0500" channel="MAX US05 :Wrestling: AEW Collision + Countdown to Full Gear 2025 @ Nov 19 22:00 PM" stop="20251119235959 -0500">
+    <title>01:00 PM - MAX US05 :Wrestling: AEW Collision + Countdown to Full Gear 2025 @ Nov 19 22:00 PM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
