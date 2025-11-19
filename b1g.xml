@@ -39,8 +39,11 @@
   <channel id="Flo Racing 10 :Tyler Wolf Memorial at Silver Dollar @ Jul 18 8:30 PM">
     <display-name lang="en">Flo Racing 10 :Tyler Wolf Memorial at Silver Dollar @ Jul 18 8:30 PM</display-name>
   </channel>
-  <channel id="Tennis 01 :Italy vs Austria @ Nov 19 16:00 PM - Davis Cup">
-    <display-name lang="en">Tennis 01 :Italy vs Austria @ Nov 19 16:00 PM - Davis Cup</display-name>
+  <channel id="Tennis 01 : Cobolli, Flavio vs Misolic, Filip - Davis Cup @ nov 19 12:25 pm">
+    <display-name lang="en">Tennis 01 : Cobolli, Flavio vs Misolic, Filip - Davis Cup @ nov 19 12:25 pm</display-name>
+  </channel>
+  <channel id="Tennis 02 : Bolelli S, Vavassori A vs Erler A, Miedler L - Davis Cup @ nov 19 13:30 pm">
+    <display-name lang="en">Tennis 02 : Bolelli S, Vavassori A vs Erler A, Miedler L - Davis Cup @ nov 19 13:30 pm</display-name>
   </channel>
   <channel id="MLB 1 | Dodgers x Blue Jays start:2025-11-02 12:00am Sun">
     <display-name lang="en">MLB 1 | Dodgers x Blue Jays start:2025-11-02 12:00am Sun</display-name>
@@ -1466,8 +1469,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251119000000 -0500" channel="Tennis 01 :Italy vs Austria @ Nov 19 16:00 PM - Davis Cup" stop="20251119235959 -0500">
-    <title>05:00 PM - Tennis 01 :Italy vs Austria @ Nov 19 16:00 PM - Davis Cup</title>
+  <programme start="20251119000000 -0500" channel="Tennis 01 : Cobolli, Flavio vs Misolic, Filip - Davis Cup @ nov 19 12:25 pm" stop="20251119235959 -0500">
+    <title>11:25 AM - Tennis 01 : Cobolli, Flavio vs Misolic, Filip - Davis Cup @ nov 19 12:25 pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251119000000 -0500" channel="Tennis 02 : Bolelli S, Vavassori A vs Erler A, Miedler L - Davis Cup @ nov 19 13:30 pm" stop="20251119235959 -0500">
+    <title>02:30 PM - Tennis 02 : Bolelli S, Vavassori A vs Erler A, Miedler L - Davis Cup @ nov 19 13:30 pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
