@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20251121 -0500">
+<tv date="20251122 -0500">
   <channel id="Rutgers Scarlet Knights vs. Ohio State Buckeyes [12:00 PM ET / 10:00 AM MT / 17:00 UK]">
     <display-name lang="en">Rutgers Scarlet Knights vs. Ohio State Buckeyes [12:00 PM ET / 10:00 AM MT / 17:00 UK]</display-name>
   </channel>
@@ -335,6 +335,15 @@
   </channel>
   <channel id="UFC Fight Night: Tsarukyan vs. Hooker [10:00 AM ET / 08:00 AM MT / 15:00 UK]">
     <display-name lang="en">UFC Fight Night: Tsarukyan vs. Hooker [10:00 AM ET / 08:00 AM MT / 15:00 UK]</display-name>
+  </channel>
+  <channel id="LA Clippers vs. Charlotte Hornets [01:00 PM ET / 11:00 AM MT / 18:00 UK]">
+    <display-name lang="en">LA Clippers vs. Charlotte Hornets [01:00 PM ET / 11:00 AM MT / 18:00 UK]</display-name>
+  </channel>
+  <channel id="New York Knicks vs. Orlando Magic [05:00 PM ET / 03:00 PM MT / 22:00 UK]">
+    <display-name lang="en">New York Knicks vs. Orlando Magic [05:00 PM ET / 03:00 PM MT / 22:00 UK]</display-name>
+  </channel>
+  <channel id="Atlanta Hawks vs. New Orleans Pelicans [07:00 PM ET / 05:00 PM MT / 00:00 UK]">
+    <display-name lang="en">Atlanta Hawks vs. New Orleans Pelicans [07:00 PM ET / 05:00 PM MT / 00:00 UK]</display-name>
   </channel>
   <programme start="20251122120000 -0500" channel="Rutgers Scarlet Knights vs. Ohio State Buckeyes [12:00 PM ET / 10:00 AM MT / 17:00 UK]" stop="20251122235959 -0500">
     <title>Rutgers Scarlet Knights vs. Ohio State Buckeyes (FOX)</title>
@@ -2122,6 +2131,54 @@
   </programme>
   <programme start="20251121200115 -0500" channel="UFC Fight Night: Tsarukyan vs. Hooker [10:00 AM ET / 08:00 AM MT / 15:00 UK]" stop="20251122100000 -0500">
     <title>Next event: 22 Nov 10:00 AM - UFC Fight Night: Tsarukyan vs. Hooker (ESPN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122130002 -0500" channel="LA Clippers vs. Charlotte Hornets [01:00 PM ET / 11:00 AM MT / 18:00 UK]" stop="20251122235959 -0500">
+    <title>LA Clippers vs. Charlotte Hornets (FDSNSE-CHA)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122000113 -0500" channel="LA Clippers vs. Charlotte Hornets [01:00 PM ET / 11:00 AM MT / 18:00 UK]" stop="20251122130002 -0500">
+    <title>Next event: 22 Nov 01:00 PM - LA Clippers vs. Charlotte Hornets (FDSNSE-CHA)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122170002 -0500" channel="New York Knicks vs. Orlando Magic [05:00 PM ET / 03:00 PM MT / 22:00 UK]" stop="20251122235959 -0500">
+    <title>New York Knicks vs. Orlando Magic (NBA TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122000113 -0500" channel="New York Knicks vs. Orlando Magic [05:00 PM ET / 03:00 PM MT / 22:00 UK]" stop="20251122170002 -0500">
+    <title>Next event: 22 Nov 05:00 PM - New York Knicks vs. Orlando Magic (NBA TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122190002 -0500" channel="Atlanta Hawks vs. New Orleans Pelicans [07:00 PM ET / 05:00 PM MT / 00:00 UK]" stop="20251122235959 -0500">
+    <title>Atlanta Hawks vs. New Orleans Pelicans (GCSEN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122000113 -0500" channel="Atlanta Hawks vs. New Orleans Pelicans [07:00 PM ET / 05:00 PM MT / 00:00 UK]" stop="20251122190002 -0500">
+    <title>Next event: 22 Nov 07:00 PM - Atlanta Hawks vs. New Orleans Pelicans (GCSEN)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
