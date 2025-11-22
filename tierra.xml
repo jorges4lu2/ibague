@@ -378,6 +378,12 @@
   <channel id="AEW: Full Gear [08:00 PM ET / 06:00 PM MT / 01:00 UK]">
     <display-name lang="en">AEW: Full Gear [08:00 PM ET / 06:00 PM MT / 01:00 UK]</display-name>
   </channel>
+  <channel id="Cage Warriors 198 [01:30 PM ET / 11:30 AM MT / 18:30 UK]">
+    <display-name lang="en">Cage Warriors 198 [LIVE]</display-name>
+  </channel>
+  <channel id="Ring IV: Night Of Champions - Benavidez vs. Yarde [03:00 PM ET / 01:00 PM MT / 20:00 UK]">
+    <display-name lang="en">Ring IV: Night Of Champions - Benavidez vs. Yarde [LIVE]</display-name>
+  </channel>
   <programme start="20251122120000 -0500" channel="Rutgers Scarlet Knights vs. Ohio State Buckeyes [12:00 PM ET / 10:00 AM MT / 17:00 UK]" stop="20251122235959 -0500">
     <title>Rutgers Scarlet Knights vs. Ohio State Buckeyes (FOX)</title>
     <date>2025</date>
@@ -2388,6 +2394,38 @@
   </programme>
   <programme start="20251122090110 -0500" channel="AEW: Full Gear [08:00 PM ET / 06:00 PM MT / 01:00 UK]" stop="20251122200001 -0500">
     <title>Next event: 22 Nov 08:00 PM - AEW: Full Gear (TrillerTV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122133000 -0500" channel="Cage Warriors 198 [01:30 PM ET / 11:30 AM MT / 18:30 UK]" stop="20251122235959 -0500">
+    <title>Cage Warriors 198 (UFC Fight Pass)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122095832 -0500" channel="Cage Warriors 198 [01:30 PM ET / 11:30 AM MT / 18:30 UK]" stop="20251122133000 -0500">
+    <title>Next event: 22 Nov 01:30 PM - Cage Warriors 198 (UFC Fight Pass)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122150000 -0500" channel="Ring IV: Night Of Champions - Benavidez vs. Yarde [03:00 PM ET / 01:00 PM MT / 20:00 UK]" stop="20251122235959 -0500">
+    <title>Ring IV: Night Of Champions - Benavidez vs. Yarde (DAZN PPV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122095832 -0500" channel="Ring IV: Night Of Champions - Benavidez vs. Yarde [03:00 PM ET / 01:00 PM MT / 20:00 UK]" stop="20251122150000 -0500">
+    <title>Next event: 22 Nov 03:00 PM - Ring IV: Night Of Champions - Benavidez vs. Yarde (DAZN PPV)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
