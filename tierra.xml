@@ -333,6 +333,9 @@
   <channel id="AEW: Saturday Night Collision [08:00 PM ET / 06:00 PM MT / 01:00 UK]">
     <display-name lang="en">AEW: Saturday Night Collision [08:00 PM ET / 06:00 PM MT / 01:00 UK]</display-name>
   </channel>
+  <channel id="UFC Fight Night: Tsarukyan vs. Hooker [10:00 AM ET / 08:00 AM MT / 15:00 UK]">
+    <display-name lang="en">UFC Fight Night: Tsarukyan vs. Hooker [10:00 AM ET / 08:00 AM MT / 15:00 UK]</display-name>
+  </channel>
   <programme start="20251122120000 -0500" channel="Rutgers Scarlet Knights vs. Ohio State Buckeyes [12:00 PM ET / 10:00 AM MT / 17:00 UK]" stop="20251122235959 -0500">
     <title>Rutgers Scarlet Knights vs. Ohio State Buckeyes (FOX)</title>
     <date>2025</date>
@@ -2103,6 +2106,22 @@
   </programme>
   <programme start="20251121180109 -0500" channel="AEW: Saturday Night Collision [08:00 PM ET / 06:00 PM MT / 01:00 UK]" stop="20251122200001 -0500">
     <title>Next event: 22 Nov 08:00 PM - AEW: Saturday Night Collision (TNT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251122100000 -0500" channel="UFC Fight Night: Tsarukyan vs. Hooker [10:00 AM ET / 08:00 AM MT / 15:00 UK]" stop="20251122235959 -0500">
+    <title>UFC Fight Night: Tsarukyan vs. Hooker (ESPN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251121200115 -0500" channel="UFC Fight Night: Tsarukyan vs. Hooker [10:00 AM ET / 08:00 AM MT / 15:00 UK]" stop="20251122100000 -0500">
+    <title>Next event: 22 Nov 10:00 AM - UFC Fight Night: Tsarukyan vs. Hooker (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
