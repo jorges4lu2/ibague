@@ -720,9 +720,6 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 - Volusia Speedway Park 5:45 PM">
-    <display-name lang="en">DIRTVISION 01 - Volusia Speedway Park 5:45 PM</display-name>
-  </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
   </channel>
@@ -1256,6 +1253,15 @@
   </channel>
   <channel id="BOXING: David Benavidez vs. Anthony Yarde HD (Sat 20:00 UK)">
     <display-name lang="en">BOXING: David Benavidez vs. Anthony Yarde HD (Sat 20:00 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 01 - 1PM wXw Hamburg Day 2">
+    <display-name lang="en">LIVE EVENT 01 - 1PM wXw Hamburg Day 2</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 -  1PM Plantic v Bwogi">
+    <display-name lang="en">LIVE EVENT 02 -  1PM Plantic v Bwogi</display-name>
+  </channel>
+  <channel id="LIVE EVENT 03 - 6PM Anthony Pettis FC 21">
+    <display-name lang="en">LIVE EVENT 03 - 6PM Anthony Pettis FC 21</display-name>
   </channel>
   <channel id="LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET">
     <display-name lang="en">LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET</display-name>
@@ -3450,14 +3456,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251123000000 -0500" channel="DIRTVISION 01 - Volusia Speedway Park 5:45 PM" stop="20251123235959 -0500">
-    <title>04:45 PM - DIRTVISION 01 - Volusia Speedway Park 5:45 PM</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251123000000 -0500" channel="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET" stop="20251123235959 -0500">
     <title>02:58 PM - Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</title>
     <date>2025</date>
@@ -4876,6 +4874,30 @@
   </programme>
   <programme start="20251123000000 -0500" channel="BOXING: David Benavidez vs. Anthony Yarde HD (Sat 20:00 UK)" stop="20251123235959 -0500">
     <title>03:00 PM - BOXING: David Benavidez vs. Anthony Yarde HD (Sat 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251123000000 -0500" channel="LIVE EVENT 01 - 1PM wXw Hamburg Day 2" stop="20251123235959 -0500">
+    <title>12:00 PM - LIVE EVENT 01 - 1PM wXw Hamburg Day 2</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251123000000 -0500" channel="LIVE EVENT 02 -  1PM Plantic v Bwogi" stop="20251123235959 -0500">
+    <title>12:00 PM - LIVE EVENT 02 -  1PM Plantic v Bwogi</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251123000000 -0500" channel="LIVE EVENT 03 - 6PM Anthony Pettis FC 21" stop="20251123235959 -0500">
+    <title>05:00 PM - LIVE EVENT 03 - 6PM Anthony Pettis FC 21</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
