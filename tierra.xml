@@ -256,6 +256,26 @@
     <display-name lang="en">Calgary Flames vs. Vancouver Canucks [09:00 PM ET / 07:00 PM MT / 02:00 UK]</display-name>
     <display-name lang="en">Calgary Flames vs. Vancouver Canucks [LIVE]</display-name>
   </channel>
+  <channel id="Qatar Grand Prix - FP1 [08:30 AM ET / 06:30 AM MT / 13:30 UK]">
+    <display-name lang="en">Qatar Grand Prix - FP1 [08:30 AM ET / 06:30 AM MT / 13:30 UK]</display-name>
+    <display-name lang="en">Qatar Grand Prix - FP1 [LIVE]</display-name>
+  </channel>
+  <channel id="Qatar Grand Prix - Sprint Q [12:30 PM ET / 10:30 AM MT / 17:30 UK]">
+    <display-name lang="en">Qatar Grand Prix - Sprint Q [12:30 PM ET / 10:30 AM MT / 17:30 UK]</display-name>
+    <display-name lang="en">Qatar Grand Prix - Sprint Q [LIVE]</display-name>
+  </channel>
+  <channel id="Qatar Grand Prix - Sprint [09:00 AM ET / 07:00 AM MT / 14:00 UK]">
+    <display-name lang="en">Qatar Grand Prix - Sprint [09:00 AM ET / 07:00 AM MT / 14:00 UK]</display-name>
+    <display-name lang="en">Qatar Grand Prix - Sprint [LIVE]</display-name>
+  </channel>
+  <channel id="Qatar Grand Prix - Qualifying [01:00 PM ET / 11:00 AM MT / 18:00 UK]">
+    <display-name lang="en">Qatar Grand Prix - Qualifying [01:00 PM ET / 11:00 AM MT / 18:00 UK]</display-name>
+    <display-name lang="en">Qatar Grand Prix - Qualifying [LIVE]</display-name>
+  </channel>
+  <channel id="Qatar Grand Prix - Race [11:00 AM ET / 09:00 AM MT / 16:00 UK]">
+    <display-name lang="en">Qatar Grand Prix - Race [11:00 AM ET / 09:00 AM MT / 16:00 UK]</display-name>
+    <display-name lang="en">Qatar Grand Prix - Race [LIVE]</display-name>
+  </channel>
   <programme start="20251123130001 -0500" channel="Pittsburgh Steelers vs. Chicago Bears [01:00 PM ET / 11:00 AM MT / 18:00 UK]" stop="20251123235959 -0500">
     <title>Pittsburgh Steelers vs. Chicago Bears (CBS)</title>
     <date>2025</date>
@@ -1274,6 +1294,86 @@
   </programme>
   <programme start="20251123160110 -0500" channel="Calgary Flames vs. Vancouver Canucks [09:00 PM ET / 07:00 PM MT / 02:00 UK]" stop="20251123210001 -0500">
     <title>Next event: 23 Nov 09:00 PM - Calgary Flames vs. Vancouver Canucks (ESPN+)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251128083001 -0500" channel="Qatar Grand Prix - FP1 [08:30 AM ET / 06:30 AM MT / 13:30 UK]" stop="20251128235959 -0500">
+    <title>Qatar Grand Prix - FP1 (Formula 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251123190110 -0500" channel="Qatar Grand Prix - FP1 [08:30 AM ET / 06:30 AM MT / 13:30 UK]" stop="20251128083001 -0500">
+    <title>Next event: 28 Nov 08:30 AM - Qatar Grand Prix - FP1 (Formula 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251128123001 -0500" channel="Qatar Grand Prix - Sprint Q [12:30 PM ET / 10:30 AM MT / 17:30 UK]" stop="20251128235959 -0500">
+    <title>Qatar Grand Prix - Sprint Q (Formula 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251123190110 -0500" channel="Qatar Grand Prix - Sprint Q [12:30 PM ET / 10:30 AM MT / 17:30 UK]" stop="20251128123001 -0500">
+    <title>Next event: 28 Nov 12:30 PM - Qatar Grand Prix - Sprint Q (Formula 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251129090001 -0500" channel="Qatar Grand Prix - Sprint [09:00 AM ET / 07:00 AM MT / 14:00 UK]" stop="20251129235959 -0500">
+    <title>Qatar Grand Prix - Sprint (Formula 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251123190110 -0500" channel="Qatar Grand Prix - Sprint [09:00 AM ET / 07:00 AM MT / 14:00 UK]" stop="20251129090001 -0500">
+    <title>Next event: 29 Nov 09:00 AM - Qatar Grand Prix - Sprint (Formula 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251129130001 -0500" channel="Qatar Grand Prix - Qualifying [01:00 PM ET / 11:00 AM MT / 18:00 UK]" stop="20251129235959 -0500">
+    <title>Qatar Grand Prix - Qualifying (Formula 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251123190110 -0500" channel="Qatar Grand Prix - Qualifying [01:00 PM ET / 11:00 AM MT / 18:00 UK]" stop="20251129130001 -0500">
+    <title>Next event: 29 Nov 01:00 PM - Qatar Grand Prix - Qualifying (Formula 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251130110001 -0500" channel="Qatar Grand Prix - Race [11:00 AM ET / 09:00 AM MT / 16:00 UK]" stop="20251130235959 -0500">
+    <title>Qatar Grand Prix - Race (Formula 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251123190110 -0500" channel="Qatar Grand Prix - Race [11:00 AM ET / 09:00 AM MT / 16:00 UK]" stop="20251130110001 -0500">
+    <title>Next event: 30 Nov 11:00 AM - Qatar Grand Prix - Race (Formula 1)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
