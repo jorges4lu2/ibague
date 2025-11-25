@@ -496,6 +496,14 @@
     <display-name lang="en">India vs. South Africa [10:30 PM ET / 08:30 PM MT / 03:30 UK]</display-name>
     <display-name lang="en">India vs. South Africa [LIVE]</display-name>
   </channel>
+  <channel id="CBS Sports Golazo Show [03:00 PM ET / 01:00 PM MT / 20:00 UK]">
+    <display-name lang="en">CBS Sports Golazo Show [03:00 PM ET / 01:00 PM MT / 20:00 UK]</display-name>
+    <display-name lang="en">CBS Sports Golazo Show [LIVE]</display-name>
+  </channel>
+  <channel id="TNT Sports Goals Show [03:00 PM ET / 01:00 PM MT / 20:00 UK]">
+    <display-name lang="en">TNT Sports Goals Show [03:00 PM ET / 01:00 PM MT / 20:00 UK]</display-name>
+    <display-name lang="en">TNT Sports Goals Show [LIVE]</display-name>
+  </channel>
   <programme start="20251127130001 -0500" channel="Green Bay Packers vs. Detroit Lions [01:00 PM ET / 11:00 AM MT / 18:00 UK]" stop="20251127235959 -0500">
     <title>Green Bay Packers vs. Detroit Lions (FOX)</title>
     <date>2025</date>
@@ -2474,6 +2482,38 @@
   </programme>
   <programme start="20251125080118 -0500" channel="India vs. South Africa [10:30 PM ET / 08:30 PM MT / 03:30 UK]" stop="20251125223006 -0500">
     <title>Next event: 25 Nov 10:30 PM - India vs. South Africa (TNT Sports)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125150000 -0500" channel="CBS Sports Golazo Show [03:00 PM ET / 01:00 PM MT / 20:00 UK]" stop="20251125235959 -0500">
+    <title>CBS Sports Golazo Show (Champions League)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125130110 -0500" channel="CBS Sports Golazo Show [03:00 PM ET / 01:00 PM MT / 20:00 UK]" stop="20251125150000 -0500">
+    <title>Next event: 25 Nov 03:00 PM - CBS Sports Golazo Show (Champions League)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125150000 -0500" channel="TNT Sports Goals Show [03:00 PM ET / 01:00 PM MT / 20:00 UK]" stop="20251125235959 -0500">
+    <title>TNT Sports Goals Show (Champions League)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125130110 -0500" channel="TNT Sports Goals Show [03:00 PM ET / 01:00 PM MT / 20:00 UK]" stop="20251125150000 -0500">
+    <title>Next event: 25 Nov 03:00 PM - TNT Sports Goals Show (Champions League)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
