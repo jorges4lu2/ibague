@@ -496,6 +496,26 @@
     <display-name lang="en">AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
     <display-name lang="en">AEW: Saturday Night Collision [LIVE]</display-name>
   </channel>
+  <channel id="Auburn Tigers vs. Michigan Wolverines - 08:30 PM ET / 06:30 PM MT / 01:30 UK">
+    <display-name lang="en">Auburn Tigers vs. Michigan Wolverines - 08:30 PM ET / 06:30 PM MT / 01:30 UK</display-name>
+    <display-name lang="en">Auburn Tigers vs. Michigan Wolverines [LIVE]</display-name>
+  </channel>
+  <channel id="Maryland Terrapins vs. Gonzaga Bulldogs - 09:30 PM ET / 07:30 PM MT / 02:30 UK">
+    <display-name lang="en">Maryland Terrapins vs. Gonzaga Bulldogs - 09:30 PM ET / 07:30 PM MT / 02:30 UK</display-name>
+    <display-name lang="en">Maryland Terrapins vs. Gonzaga Bulldogs [LIVE]</display-name>
+  </channel>
+  <channel id="UCLA Bruins vs. California Golden Bears - 10:00 PM ET / 08:00 PM MT / 03:00 UK">
+    <display-name lang="en">UCLA Bruins vs. California Golden Bears - 10:00 PM ET / 08:00 PM MT / 03:00 UK</display-name>
+    <display-name lang="en">UCLA Bruins vs. California Golden Bears [LIVE]</display-name>
+  </channel>
+  <channel id="UNLV Rebels vs. Alabama Crimson Tide - 11:59 PM ET / 09:59 PM MT / 04:59 UK">
+    <display-name lang="en">UNLV Rebels vs. Alabama Crimson Tide - 11:59 PM ET / 09:59 PM MT / 04:59 UK</display-name>
+    <display-name lang="en">UNLV Rebels vs. Alabama Crimson Tide [LIVE]</display-name>
+  </channel>
+  <channel id="Dallas Stars vs. Edmonton Oilers - 09:00 PM ET / 07:00 PM MT / 02:00 UK">
+    <display-name lang="en">Dallas Stars vs. Edmonton Oilers - 09:00 PM ET / 07:00 PM MT / 02:00 UK</display-name>
+    <display-name lang="en">Dallas Stars vs. Edmonton Oilers [LIVE]</display-name>
+  </channel>
   <programme start="20251127130000 -0500" channel="Green Bay Packers vs. Detroit Lions - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251127235959 -0500">
     <title>Green Bay Packers vs. Detroit Lions (FOX)</title>
     <date>2025</date>
@@ -2474,6 +2494,86 @@
   </programme>
   <programme start="20251125142545 -0500" channel="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251129200000 -0500">
     <title>Next event: 29 Nov 08:00 PM - AEW: Saturday Night Collision (TNT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125203001 -0500" channel="Auburn Tigers vs. Michigan Wolverines - 08:30 PM ET / 06:30 PM MT / 01:30 UK" stop="20251125235959 -0500">
+    <title>Auburn Tigers vs. Michigan Wolverines (TNT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125200110 -0500" channel="Auburn Tigers vs. Michigan Wolverines - 08:30 PM ET / 06:30 PM MT / 01:30 UK" stop="20251125203001 -0500">
+    <title>Next event: 25 Nov 08:30 PM - Auburn Tigers vs. Michigan Wolverines (TNT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125213001 -0500" channel="Maryland Terrapins vs. Gonzaga Bulldogs - 09:30 PM ET / 07:30 PM MT / 02:30 UK" stop="20251125235959 -0500">
+    <title>Maryland Terrapins vs. Gonzaga Bulldogs (truTV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125200110 -0500" channel="Maryland Terrapins vs. Gonzaga Bulldogs - 09:30 PM ET / 07:30 PM MT / 02:30 UK" stop="20251125213001 -0500">
+    <title>Next event: 25 Nov 09:30 PM - Maryland Terrapins vs. Gonzaga Bulldogs (truTV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125220001 -0500" channel="UCLA Bruins vs. California Golden Bears - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251125235959 -0500">
+    <title>UCLA Bruins vs. California Golden Bears (ESPN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125200110 -0500" channel="UCLA Bruins vs. California Golden Bears - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251125220001 -0500">
+    <title>Next event: 25 Nov 10:00 PM - UCLA Bruins vs. California Golden Bears (ESPN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125235901 -0500" channel="UNLV Rebels vs. Alabama Crimson Tide - 11:59 PM ET / 09:59 PM MT / 04:59 UK" stop="20251125235959 -0500">
+    <title>UNLV Rebels vs. Alabama Crimson Tide (truTV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125200110 -0500" channel="UNLV Rebels vs. Alabama Crimson Tide - 11:59 PM ET / 09:59 PM MT / 04:59 UK" stop="20251125235901 -0500">
+    <title>Next event: 25 Nov 11:59 PM - UNLV Rebels vs. Alabama Crimson Tide (truTV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125210001 -0500" channel="Dallas Stars vs. Edmonton Oilers - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20251125235959 -0500">
+    <title>Dallas Stars vs. Edmonton Oilers (ESPN+)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251125200110 -0500" channel="Dallas Stars vs. Edmonton Oilers - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20251125210001 -0500">
+    <title>Next event: 25 Nov 09:00 PM - Dallas Stars vs. Edmonton Oilers (ESPN+)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
