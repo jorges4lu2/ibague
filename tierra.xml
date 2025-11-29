@@ -332,6 +332,14 @@
     <display-name lang="en">AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
     <display-name lang="en">AEW: Saturday Night Collision [LIVE]</display-name>
   </channel>
+  <channel id="Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK">
+    <display-name lang="en">Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK</display-name>
+    <display-name lang="en">Goal Arena [LIVE]</display-name>
+  </channel>
+  <channel id="WWE Survivor Series: WarGames - 07:00 PM ET / 05:00 PM MT / 00:00 UK">
+    <display-name lang="en">WWE Survivor Series: WarGames - 07:00 PM ET / 05:00 PM MT / 00:00 UK</display-name>
+    <display-name lang="en">WWE Survivor Series: WarGames [LIVE]</display-name>
+  </channel>
   <programme start="20251129120001 -0500" channel="Ohio State Buckeyes vs. Michigan Wolverines - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251129235959 -0500">
     <title>Ohio State Buckeyes vs. Michigan Wolverines (FOX)</title>
     <date>2025</date>
@@ -1654,6 +1662,38 @@
   </programme>
   <programme start="20251129010109 -0500" channel="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251129200001 -0500">
     <title>Next event: 29 Nov 08:00 PM - AEW: Saturday Night Collision (TNT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251129093003 -0500" channel="Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20251129235959 -0500">
+    <title>Goal Arena (Bundesliga)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251129080115 -0500" channel="Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20251129093003 -0500">
+    <title>Next event: 29 Nov 09:30 AM - Goal Arena (Bundesliga)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251129190003 -0500" channel="WWE Survivor Series: WarGames - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251129235959 -0500">
+    <title>WWE Survivor Series: WarGames (ESPN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251129080115 -0500" channel="WWE Survivor Series: WarGames - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251129190003 -0500">
+    <title>Next event: 29 Nov 07:00 PM - WWE Survivor Series: WarGames (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
