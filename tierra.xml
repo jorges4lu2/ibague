@@ -340,6 +340,10 @@
     <display-name lang="en">WWE Survivor Series: WarGames - 07:00 PM ET / 05:00 PM MT / 00:00 UK</display-name>
     <display-name lang="en">WWE Survivor Series: WarGames [LIVE]</display-name>
   </channel>
+  <channel id="Ben Whittaker vs. Benjamin Gavazi - 12:15 PM ET / 10:15 AM MT / 17:15 UK">
+    <display-name lang="en">Ben Whittaker vs. Benjamin Gavazi - 12:15 PM ET / 10:15 AM MT / 17:15 UK</display-name>
+    <display-name lang="en">Ben Whittaker vs. Benjamin Gavazi [LIVE]</display-name>
+  </channel>
   <programme start="20251129120001 -0500" channel="Ohio State Buckeyes vs. Michigan Wolverines - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251129235959 -0500">
     <title>Ohio State Buckeyes vs. Michigan Wolverines (FOX)</title>
     <date>2025</date>
@@ -1694,6 +1698,22 @@
   </programme>
   <programme start="20251129080115 -0500" channel="WWE Survivor Series: WarGames - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251129190003 -0500">
     <title>Next event: 29 Nov 07:00 PM - WWE Survivor Series: WarGames (ESPN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251129121501 -0500" channel="Ben Whittaker vs. Benjamin Gavazi - 12:15 PM ET / 10:15 AM MT / 17:15 UK" stop="20251129235959 -0500">
+    <title>Ben Whittaker vs. Benjamin Gavazi (DAZN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251129110109 -0500" channel="Ben Whittaker vs. Benjamin Gavazi - 12:15 PM ET / 10:15 AM MT / 17:15 UK" stop="20251129121501 -0500">
+    <title>Next event: 29 Nov 12:15 PM - Ben Whittaker vs. Benjamin Gavazi (DAZN)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
