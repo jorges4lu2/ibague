@@ -188,6 +188,22 @@
     <display-name lang="en">Qatar Grand Prix - Race - 11:00 AM ET / 09:00 AM MT / 16:00 UK</display-name>
     <display-name lang="en">Qatar Grand Prix - Race [LIVE]</display-name>
   </channel>
+  <channel id="Washington Capitals vs. New York Islanders - 01:00 PM ET / 11:00 AM MT / 18:00 UK">
+    <display-name lang="en">Washington Capitals vs. New York Islanders - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
+    <display-name lang="en">Washington Capitals vs. New York Islanders [LIVE]</display-name>
+  </channel>
+  <channel id="Anaheim Ducks vs. Chicago Blackhawks - 03:30 PM ET / 01:30 PM MT / 20:30 UK">
+    <display-name lang="en">Anaheim Ducks vs. Chicago Blackhawks - 03:30 PM ET / 01:30 PM MT / 20:30 UK</display-name>
+    <display-name lang="en">Anaheim Ducks vs. Chicago Blackhawks [LIVE]</display-name>
+  </channel>
+  <channel id="Calgary Flames vs. Carolina Hurricanes - 05:00 PM ET / 03:00 PM MT / 22:00 UK">
+    <display-name lang="en">Calgary Flames vs. Carolina Hurricanes - 05:00 PM ET / 03:00 PM MT / 22:00 UK</display-name>
+    <display-name lang="en">Calgary Flames vs. Carolina Hurricanes [LIVE]</display-name>
+  </channel>
+  <channel id="Ottawa Senators vs. Dallas Stars - 06:00 PM ET / 04:00 PM MT / 23:00 UK">
+    <display-name lang="en">Ottawa Senators vs. Dallas Stars - 06:00 PM ET / 04:00 PM MT / 23:00 UK</display-name>
+    <display-name lang="en">Ottawa Senators vs. Dallas Stars [LIVE]</display-name>
+  </channel>
   <programme start="20251130130001 -0500" channel="NFL RedZone - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251130235959 -0500">
     <title>NFL RedZone (NFL RedZone)</title>
     <date>2025</date>
@@ -934,6 +950,70 @@
   </programme>
   <programme start="20251130010109 -0500" channel="Qatar Grand Prix - Race - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20251130110000 -0500">
     <title>Next event: 30 Nov 11:00 AM - Qatar Grand Prix - Race (Formula 1)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251130130001 -0500" channel="Washington Capitals vs. New York Islanders - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251130235959 -0500">
+    <title>Washington Capitals vs. New York Islanders (MNMT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251130120110 -0500" channel="Washington Capitals vs. New York Islanders - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251130130001 -0500">
+    <title>Next event: 30 Nov 01:00 PM - Washington Capitals vs. New York Islanders (MNMT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251130153001 -0500" channel="Anaheim Ducks vs. Chicago Blackhawks - 03:30 PM ET / 01:30 PM MT / 20:30 UK" stop="20251130235959 -0500">
+    <title>Anaheim Ducks vs. Chicago Blackhawks (CHSN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251130120110 -0500" channel="Anaheim Ducks vs. Chicago Blackhawks - 03:30 PM ET / 01:30 PM MT / 20:30 UK" stop="20251130153001 -0500">
+    <title>Next event: 30 Nov 03:30 PM - Anaheim Ducks vs. Chicago Blackhawks (CHSN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251130170001 -0500" channel="Calgary Flames vs. Carolina Hurricanes - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20251130235959 -0500">
+    <title>Calgary Flames vs. Carolina Hurricanes (FanDuel SN South)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251130120110 -0500" channel="Calgary Flames vs. Carolina Hurricanes - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20251130170001 -0500">
+    <title>Next event: 30 Nov 05:00 PM - Calgary Flames vs. Carolina Hurricanes (FanDuel SN South)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251130180001 -0500" channel="Ottawa Senators vs. Dallas Stars - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20251130235959 -0500">
+    <title>Ottawa Senators vs. Dallas Stars (Victory+)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251130120110 -0500" channel="Ottawa Senators vs. Dallas Stars - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20251130180001 -0500">
+    <title>Next event: 30 Nov 06:00 PM - Ottawa Senators vs. Dallas Stars (Victory+)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
