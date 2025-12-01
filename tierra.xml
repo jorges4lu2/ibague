@@ -292,6 +292,22 @@
     <display-name lang="en">AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
     <display-name lang="en">AEW: Saturday Night Collision [LIVE]</display-name>
   </channel>
+  <channel id="Columbus Blue Jackets vs. New Jersey Devils - 07:00 PM ET / 05:00 PM MT / 00:00 UK">
+    <display-name lang="en">Columbus Blue Jackets vs. New Jersey Devils - 07:00 PM ET / 05:00 PM MT / 00:00 UK</display-name>
+    <display-name lang="en">Columbus Blue Jackets vs. New Jersey Devils [LIVE]</display-name>
+  </channel>
+  <channel id="Pittsburgh Penguins vs. Philadelphia Flyers - 07:00 PM ET / 05:00 PM MT / 00:00 UK">
+    <display-name lang="en">Pittsburgh Penguins vs. Philadelphia Flyers - 07:00 PM ET / 05:00 PM MT / 00:00 UK</display-name>
+    <display-name lang="en">Pittsburgh Penguins vs. Philadelphia Flyers [LIVE]</display-name>
+  </channel>
+  <channel id="Winnipeg Jets vs. Buffalo Sabres - 07:30 PM ET / 05:30 PM MT / 00:30 UK">
+    <display-name lang="en">Winnipeg Jets vs. Buffalo Sabres - 07:30 PM ET / 05:30 PM MT / 00:30 UK</display-name>
+    <display-name lang="en">Winnipeg Jets vs. Buffalo Sabres [LIVE]</display-name>
+  </channel>
+  <channel id="Utah Mammoth vs. San Jose Sharks - 10:00 PM ET / 08:00 PM MT / 03:00 UK">
+    <display-name lang="en">Utah Mammoth vs. San Jose Sharks - 10:00 PM ET / 08:00 PM MT / 03:00 UK</display-name>
+    <display-name lang="en">Utah Mammoth vs. San Jose Sharks [LIVE]</display-name>
+  </channel>
   <programme start="20251201201501 -0500" channel="New York Giants vs. New England Patriots - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251201235959 -0500">
     <title>New York Giants vs. New England Patriots (ESPN)</title>
     <date>2025</date>
@@ -1454,6 +1470,70 @@
   </programme>
   <programme start="20251201060111 -0500" channel="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251206200002 -0500">
     <title>Next event: 06 Dec 08:00 PM - AEW: Saturday Night Collision (TNT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251201190001 -0500" channel="Columbus Blue Jackets vs. New Jersey Devils - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251201235959 -0500">
+    <title>Columbus Blue Jackets vs. New Jersey Devils (MSGSN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251201120109 -0500" channel="Columbus Blue Jackets vs. New Jersey Devils - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251201190001 -0500">
+    <title>Next event: 01 Dec 07:00 PM - Columbus Blue Jackets vs. New Jersey Devils (MSGSN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251201190001 -0500" channel="Pittsburgh Penguins vs. Philadelphia Flyers - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251201235959 -0500">
+    <title>Pittsburgh Penguins vs. Philadelphia Flyers (NBC Sports Phil)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251201120109 -0500" channel="Pittsburgh Penguins vs. Philadelphia Flyers - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251201190001 -0500">
+    <title>Next event: 01 Dec 07:00 PM - Pittsburgh Penguins vs. Philadelphia Flyers (NBC Sports Phil)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251201193001 -0500" channel="Winnipeg Jets vs. Buffalo Sabres - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20251201235959 -0500">
+    <title>Winnipeg Jets vs. Buffalo Sabres (MSGB)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251201120109 -0500" channel="Winnipeg Jets vs. Buffalo Sabres - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20251201193001 -0500">
+    <title>Next event: 01 Dec 07:30 PM - Winnipeg Jets vs. Buffalo Sabres (MSGB)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251201220001 -0500" channel="Utah Mammoth vs. San Jose Sharks - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251201235959 -0500">
+    <title>Utah Mammoth vs. San Jose Sharks (NBC Sports BA)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251201120109 -0500" channel="Utah Mammoth vs. San Jose Sharks - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251201220001 -0500">
+    <title>Next event: 01 Dec 10:00 PM - Utah Mammoth vs. San Jose Sharks (NBC Sports BA)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
