@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251202 -0500">
-  <channel id="MAX US01 :Soccer: USWNT vs Italy @ Dec 1 18:30 PM">
-    <display-name lang="en">MAX US01 :Soccer: USWNT vs Italy @ Dec 1 18:30 PM</display-name>
+  <channel id="MAX US01 :Basketball: Eastern Michigan at Butler @ Dec 2 18:30 PM">
+    <display-name lang="en">MAX US01 :Basketball: Eastern Michigan at Butler @ Dec 2 18:30 PM</display-name>
   </channel>
-  <channel id="MAX US02 :Basketball: St Francis PA at Xavier @ Dec 1 19:00 PM">
-    <display-name lang="en">MAX US02 :Basketball: St Francis PA at Xavier @ Dec 1 19:00 PM</display-name>
+  <channel id="MAX US02 :Basketball: Nicholls St at Creighton @ Dec 2 21:00 PM">
+    <display-name lang="en">MAX US02 :Basketball: Nicholls St at Creighton @ Dec 2 21:00 PM</display-name>
   </channel>
   <channel id="Paramount+ 01 :Serie A: Bologna vs Cremonese @ Dec 1 2:35 PM">
     <display-name lang="en">Paramount+ 01 :Serie A: Bologna vs Cremonese @ Dec 1 2:35 PM</display-name>
   </channel>
   <channel id="Paramount+ 02 :English Football League: Birmingham City vs Watford @ Dec 1 2:50 PM">
     <display-name lang="en">Paramount+ 02 :English Football League: Birmingham City vs Watford @ Dec 1 2:50 PM</display-name>
+  </channel>
+  <channel id="Flo Racing 02 :Snowball Derby Kickoff Show @ Dec 2 7:00 PM">
+    <display-name lang="en">Flo Racing 02 :Snowball Derby Kickoff Show @ Dec 2 7:00 PM</display-name>
   </channel>
   <channel id="Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM">
     <display-name lang="en">Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM</display-name>
@@ -1227,16 +1230,16 @@
   <channel id="CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM">
     <display-name lang="en">CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM</display-name>
   </channel>
-  <programme start="20251202000000 -0500" channel="MAX US01 :Soccer: USWNT vs Italy @ Dec 1 18:30 PM" stop="20251202235959 -0500">
-    <title>07:30 PM - MAX US01 :Soccer: USWNT vs Italy @ Dec 1 18:30 PM</title>
+  <programme start="20251202000000 -0500" channel="MAX US01 :Basketball: Eastern Michigan at Butler @ Dec 2 18:30 PM" stop="20251202235959 -0500">
+    <title>07:30 PM - MAX US01 :Basketball: Eastern Michigan at Butler @ Dec 2 18:30 PM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251202000000 -0500" channel="MAX US02 :Basketball: St Francis PA at Xavier @ Dec 1 19:00 PM" stop="20251202235959 -0500">
-    <title>08:00 PM - MAX US02 :Basketball: St Francis PA at Xavier @ Dec 1 19:00 PM</title>
+  <programme start="20251202000000 -0500" channel="MAX US02 :Basketball: Nicholls St at Creighton @ Dec 2 21:00 PM" stop="20251202235959 -0500">
+    <title>12:00 PM - MAX US02 :Basketball: Nicholls St at Creighton @ Dec 2 21:00 PM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1253,6 +1256,14 @@
   </programme>
   <programme start="20251202000000 -0500" channel="Paramount+ 02 :English Football League: Birmingham City vs Watford @ Dec 1 2:50 PM" stop="20251202235959 -0500">
     <title>01:50 PM - Paramount+ 02 :English Football League: Birmingham City vs Watford @ Dec 1 2:50 PM</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251202000000 -0500" channel="Flo Racing 02 :Snowball Derby Kickoff Show @ Dec 2 7:00 PM" stop="20251202235959 -0500">
+    <title>06:00 PM - Flo Racing 02 :Snowball Derby Kickoff Show @ Dec 2 7:00 PM</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
