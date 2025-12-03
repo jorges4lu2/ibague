@@ -1,16 +1,31 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251203 -0500">
-  <channel id="MAX US01 :Basketball: Eastern Michigan at Butler @ Dec 2 18:30 PM">
-    <display-name lang="en">MAX US01 :Basketball: Eastern Michigan at Butler @ Dec 2 18:30 PM</display-name>
+  <channel id="Hockey: Sabres at Flyers @ Dec 3 19:00 PM :MAX US 01">
+    <display-name lang="en">Hockey: Sabres at Flyers @ Dec 3 19:00 PM :MAX US 01</display-name>
   </channel>
-  <channel id="MAX US02 :Basketball: Nicholls St at Creighton @ Dec 2 21:00 PM">
-    <display-name lang="en">MAX US02 :Basketball: Nicholls St at Creighton @ Dec 2 21:00 PM</display-name>
+  <channel id="Basketball: UMBC at Georgetown @ Dec 3 20:00 PM :MAX US 02">
+    <display-name lang="en">Basketball: UMBC at Georgetown @ Dec 3 20:00 PM :MAX US 02</display-name>
   </channel>
-  <channel id="Paramount+ 01 :Serie A: Juventus vs Udinese @ Dec 2 2:50 PM">
-    <display-name lang="en">Paramount+ 01 :Serie A: Juventus vs Udinese @ Dec 2 2:50 PM</display-name>
+  <channel id="Wrestling: AEW Dynamite @ Dec 3 20:00 PM :MAX US 03">
+    <display-name lang="en">Wrestling: AEW Dynamite @ Dec 3 20:00 PM :MAX US 03</display-name>
   </channel>
-  <channel id="Flo Racing 02 :Snowball Derby Kickoff Show @ Dec 2 7:00 PM">
-    <display-name lang="en">Flo Racing 02 :Snowball Derby Kickoff Show @ Dec 2 7:00 PM</display-name>
+  <channel id="Hockey: Mammoth at Ducks @ Dec 3 22:00 PM :MAX US 04">
+    <display-name lang="en">Hockey: Mammoth at Ducks @ Dec 3 22:00 PM :MAX US 04</display-name>
+  </channel>
+  <channel id="Serie A: Atalanta vs Genoa @ Dec 3 8:50 AM :Paramount+  01">
+    <display-name lang="en">Serie A: Atalanta vs Genoa @ Dec 3 8:50 AM :Paramount+  01</display-name>
+  </channel>
+  <channel id="Serie A: Napoli vs Cagliari @ Dec 3 11:50 AM :Paramount+  02">
+    <display-name lang="en">Serie A: Napoli vs Cagliari @ Dec 3 11:50 AM :Paramount+  02</display-name>
+  </channel>
+  <channel id="SPFL: Dundee United vs Rangers @ Dec 3 2:40 PM :Paramount+  03">
+    <display-name lang="en">SPFL: Dundee United vs Rangers @ Dec 3 2:40 PM :Paramount+  03</display-name>
+  </channel>
+  <channel id="Serie A: Inter vs Venezia @ Dec 3 2:50 PM :Paramount+  04">
+    <display-name lang="en">Serie A: Inter vs Venezia @ Dec 3 2:50 PM :Paramount+  04</display-name>
+  </channel>
+  <channel id="Snowball Derby at Five Flags @ Dec 3 6:45 PM :Flo Racing  02">
+    <display-name lang="en">Snowball Derby at Five Flags @ Dec 3 6:45 PM :Flo Racing  02</display-name>
   </channel>
   <channel id="Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM">
     <display-name lang="en">Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM</display-name>
@@ -1263,32 +1278,72 @@
   <channel id="CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM">
     <display-name lang="en">CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM</display-name>
   </channel>
-  <programme start="20251203000000 -0500" channel="MAX US01 :Basketball: Eastern Michigan at Butler @ Dec 2 18:30 PM" stop="20251203235959 -0500">
-    <title>07:30 PM - MAX US01 :Basketball: Eastern Michigan at Butler @ Dec 2 18:30 PM</title>
+  <programme start="20251203000000 -0500" channel="Hockey: Sabres at Flyers @ Dec 3 19:00 PM :MAX US 01" stop="20251203235959 -0500">
+    <title>08:00 PM - Hockey: Sabres at Flyers @ Dec 3 19:00 PM :MAX US 01</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251203000000 -0500" channel="MAX US02 :Basketball: Nicholls St at Creighton @ Dec 2 21:00 PM" stop="20251203235959 -0500">
-    <title>12:00 PM - MAX US02 :Basketball: Nicholls St at Creighton @ Dec 2 21:00 PM</title>
+  <programme start="20251203000000 -0500" channel="Basketball: UMBC at Georgetown @ Dec 3 20:00 PM :MAX US 02" stop="20251203235959 -0500">
+    <title>03:00 PM - Basketball: UMBC at Georgetown @ Dec 3 20:00 PM :MAX US 02</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251203000000 -0500" channel="Paramount+ 01 :Serie A: Juventus vs Udinese @ Dec 2 2:50 PM" stop="20251203235959 -0500">
-    <title>01:50 PM - Paramount+ 01 :Serie A: Juventus vs Udinese @ Dec 2 2:50 PM</title>
+  <programme start="20251203000000 -0500" channel="Wrestling: AEW Dynamite @ Dec 3 20:00 PM :MAX US 03" stop="20251203235959 -0500">
+    <title>03:00 PM - Wrestling: AEW Dynamite @ Dec 3 20:00 PM :MAX US 03</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251203000000 -0500" channel="Flo Racing 02 :Snowball Derby Kickoff Show @ Dec 2 7:00 PM" stop="20251203235959 -0500">
-    <title>06:00 PM - Flo Racing 02 :Snowball Derby Kickoff Show @ Dec 2 7:00 PM</title>
+  <programme start="20251203000000 -0500" channel="Hockey: Mammoth at Ducks @ Dec 3 22:00 PM :MAX US 04" stop="20251203235959 -0500">
+    <title>01:00 PM - Hockey: Mammoth at Ducks @ Dec 3 22:00 PM :MAX US 04</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251203000000 -0500" channel="Serie A: Atalanta vs Genoa @ Dec 3 8:50 AM :Paramount+  01" stop="20251203235959 -0500">
+    <title>07:50 AM - Serie A: Atalanta vs Genoa @ Dec 3 8:50 AM :Paramount+  01</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251203000000 -0500" channel="Serie A: Napoli vs Cagliari @ Dec 3 11:50 AM :Paramount+  02" stop="20251203235959 -0500">
+    <title>10:50 AM - Serie A: Napoli vs Cagliari @ Dec 3 11:50 AM :Paramount+  02</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251203000000 -0500" channel="SPFL: Dundee United vs Rangers @ Dec 3 2:40 PM :Paramount+  03" stop="20251203235959 -0500">
+    <title>01:40 PM - SPFL: Dundee United vs Rangers @ Dec 3 2:40 PM :Paramount+  03</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251203000000 -0500" channel="Serie A: Inter vs Venezia @ Dec 3 2:50 PM :Paramount+  04" stop="20251203235959 -0500">
+    <title>01:50 PM - Serie A: Inter vs Venezia @ Dec 3 2:50 PM :Paramount+  04</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251203000000 -0500" channel="Snowball Derby at Five Flags @ Dec 3 6:45 PM :Flo Racing  02" stop="20251203235959 -0500">
+    <title>05:45 PM - Snowball Derby at Five Flags @ Dec 3 6:45 PM :Flo Racing  02</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
