@@ -300,6 +300,10 @@
     <display-name lang="en">Australia vs. England - 11:00 PM ET / 09:00 PM MT / 04:00 UK</display-name>
     <display-name lang="en">Australia vs. England [LIVE]</display-name>
   </channel>
+  <channel id="Cowboys vs. Lions - 08:15 PM ET / 06:15 PM MT / 01:15 UK">
+    <display-name lang="en">Cowboys vs. Lions - 08:15 PM ET / 06:15 PM MT / 01:15 UK</display-name>
+    <display-name lang="en">Cowboys vs. Lions [LIVE]</display-name>
+  </channel>
   <programme start="20251204190001 -0500" channel="Golden State Warriors vs. Philadelphia 76ers - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251204235959 -0500">
     <title>Golden State Warriors vs. Philadelphia 76ers (NBA TV)</title>
     <date>2025</date>
@@ -1494,6 +1498,22 @@
   </programme>
   <programme start="20251204100110 -0500" channel="Australia vs. England - 11:00 PM ET / 09:00 PM MT / 04:00 UK" stop="20251204230001 -0500">
     <title>Next event: 04 Dec 11:00 PM - Australia vs. England (TNT Sports)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251204201501 -0500" channel="Cowboys vs. Lions - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251204235959 -0500">
+    <title>Cowboys vs. Lions (NFL)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251204150109 -0500" channel="Cowboys vs. Lions - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251204201501 -0500">
+    <title>Next event: 04 Dec 08:15 PM - Cowboys vs. Lions (NFL)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
