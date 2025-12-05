@@ -300,6 +300,10 @@
     <display-name lang="en">Washington Capitals vs. Anaheim Ducks - 10:00 PM ET / 08:00 PM MT / 03:00 UK</display-name>
     <display-name lang="en">Washington Capitals vs. Anaheim Ducks [LIVE]</display-name>
   </channel>
+  <channel id="Australia vs. England - 11:00 PM ET / 09:00 PM MT / 04:00 UK">
+    <display-name lang="en">Australia vs. England - 11:00 PM ET / 09:00 PM MT / 04:00 UK</display-name>
+    <display-name lang="en">Australia vs. England [LIVE]</display-name>
+  </channel>
   <programme start="20251206130001 -0500" channel="Shabaz Masoud vs. Peter McGrail - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251206235959 -0500">
     <title>Shabaz Masoud vs. Peter McGrail (DAZN)</title>
     <date>2025</date>
@@ -1494,6 +1498,22 @@
   </programme>
   <programme start="20251205070116 -0500" channel="Washington Capitals vs. Anaheim Ducks - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251205220005 -0500">
     <title>Next event: 05 Dec 10:00 PM - Washington Capitals vs. Anaheim Ducks (KCOP)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251205230006 -0500" channel="Australia vs. England - 11:00 PM ET / 09:00 PM MT / 04:00 UK" stop="20251205235959 -0500">
+    <title>Australia vs. England (TNT Sports)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251205080118 -0500" channel="Australia vs. England - 11:00 PM ET / 09:00 PM MT / 04:00 UK" stop="20251205230006 -0500">
+    <title>Next event: 05 Dec 11:00 PM - Australia vs. England (TNT Sports)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
