@@ -324,6 +324,42 @@
     <display-name lang="en">AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
     <display-name lang="en">AEW: Saturday Night Collision [LIVE]</display-name>
   </channel>
+  <channel id="New Orleans Pelicans vs. Brooklyn Nets - 05:00 PM ET / 03:00 PM MT / 22:00 UK">
+    <display-name lang="en">New Orleans Pelicans vs. Brooklyn Nets - 05:00 PM ET / 03:00 PM MT / 22:00 UK</display-name>
+    <display-name lang="en">New Orleans Pelicans vs. Brooklyn Nets [LIVE]</display-name>
+  </channel>
+  <channel id="Atlanta Hawks vs. Washington Wizards - 07:00 PM ET / 05:00 PM MT / 00:00 UK">
+    <display-name lang="en">Atlanta Hawks vs. Washington Wizards - 07:00 PM ET / 05:00 PM MT / 00:00 UK</display-name>
+    <display-name lang="en">Atlanta Hawks vs. Washington Wizards [LIVE]</display-name>
+  </channel>
+  <channel id="Golden State Warriors vs. Cleveland Cavaliers - 07:30 PM ET / 05:30 PM MT / 00:30 UK">
+    <display-name lang="en">Golden State Warriors vs. Cleveland Cavaliers - 07:30 PM ET / 05:30 PM MT / 00:30 UK</display-name>
+    <display-name lang="en">Golden State Warriors vs. Cleveland Cavaliers [LIVE]</display-name>
+  </channel>
+  <channel id="Milwaukee Bucks vs. Detroit Pistons - 07:30 PM ET / 05:30 PM MT / 00:30 UK">
+    <display-name lang="en">Milwaukee Bucks vs. Detroit Pistons - 07:30 PM ET / 05:30 PM MT / 00:30 UK</display-name>
+    <display-name lang="en">Milwaukee Bucks vs. Detroit Pistons [LIVE]</display-name>
+  </channel>
+  <channel id="Sacramento Kings vs. Miami Heat - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">Sacramento Kings vs. Miami Heat - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">Sacramento Kings vs. Miami Heat [LIVE]</display-name>
+  </channel>
+  <channel id="LA Clippers vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">LA Clippers vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">LA Clippers vs. Minnesota Timberwolves [LIVE]</display-name>
+  </channel>
+  <channel id="Houston Rockets vs. Dallas Mavericks - 08:30 PM ET / 06:30 PM MT / 01:30 UK">
+    <display-name lang="en">Houston Rockets vs. Dallas Mavericks - 08:30 PM ET / 06:30 PM MT / 01:30 UK</display-name>
+    <display-name lang="en">Houston Rockets vs. Dallas Mavericks [LIVE]</display-name>
+  </channel>
+  <channel id="Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK">
+    <display-name lang="en">Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK</display-name>
+    <display-name lang="en">Goal Arena [LIVE]</display-name>
+  </channel>
+  <channel id="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK">
+    <display-name lang="en">Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
+    <display-name lang="en">Goal Rush [LIVE]</display-name>
+  </channel>
   <programme start="20251206120001 -0500" channel="BYU Cougars vs. Texas Tech Red Raiders - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251206235959 -0500">
     <title>BYU Cougars vs. Texas Tech Red Raiders (ABC)</title>
     <date>2025</date>
@@ -1614,6 +1650,150 @@
   </programme>
   <programme start="20251206010109 -0500" channel="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251206200001 -0500">
     <title>Next event: 06 Dec 08:00 PM - AEW: Saturday Night Collision (TNT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206170001 -0500" channel="New Orleans Pelicans vs. Brooklyn Nets - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20251206235959 -0500">
+    <title>New Orleans Pelicans vs. Brooklyn Nets (YES)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206050111 -0500" channel="New Orleans Pelicans vs. Brooklyn Nets - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20251206170001 -0500">
+    <title>Next event: 06 Dec 05:00 PM - New Orleans Pelicans vs. Brooklyn Nets (YES)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206190001 -0500" channel="Atlanta Hawks vs. Washington Wizards - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251206235959 -0500">
+    <title>Atlanta Hawks vs. Washington Wizards (MNMT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206050111 -0500" channel="Atlanta Hawks vs. Washington Wizards - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251206190001 -0500">
+    <title>Next event: 06 Dec 07:00 PM - Atlanta Hawks vs. Washington Wizards (MNMT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206193001 -0500" channel="Golden State Warriors vs. Cleveland Cavaliers - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20251206235959 -0500">
+    <title>Golden State Warriors vs. Cleveland Cavaliers (NBA TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206050111 -0500" channel="Golden State Warriors vs. Cleveland Cavaliers - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20251206193001 -0500">
+    <title>Next event: 06 Dec 07:30 PM - Golden State Warriors vs. Cleveland Cavaliers (NBA TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206193001 -0500" channel="Milwaukee Bucks vs. Detroit Pistons - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20251206235959 -0500">
+    <title>Milwaukee Bucks vs. Detroit Pistons (FanDuel SN DET)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206050111 -0500" channel="Milwaukee Bucks vs. Detroit Pistons - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20251206193001 -0500">
+    <title>Next event: 06 Dec 07:30 PM - Milwaukee Bucks vs. Detroit Pistons (FanDuel SN DET)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206200001 -0500" channel="Sacramento Kings vs. Miami Heat - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251206235959 -0500">
+    <title>Sacramento Kings vs. Miami Heat (NBC Sports CA)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206050111 -0500" channel="Sacramento Kings vs. Miami Heat - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251206200001 -0500">
+    <title>Next event: 06 Dec 08:00 PM - Sacramento Kings vs. Miami Heat (NBC Sports CA)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206200001 -0500" channel="LA Clippers vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251206235959 -0500">
+    <title>LA Clippers vs. Minnesota Timberwolves (FanDuel SN North)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206050111 -0500" channel="LA Clippers vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251206200001 -0500">
+    <title>Next event: 06 Dec 08:00 PM - LA Clippers vs. Minnesota Timberwolves (FanDuel SN North)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206203001 -0500" channel="Houston Rockets vs. Dallas Mavericks - 08:30 PM ET / 06:30 PM MT / 01:30 UK" stop="20251206235959 -0500">
+    <title>Houston Rockets vs. Dallas Mavericks (KFAA-TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206050111 -0500" channel="Houston Rockets vs. Dallas Mavericks - 08:30 PM ET / 06:30 PM MT / 01:30 UK" stop="20251206203001 -0500">
+    <title>Next event: 06 Dec 08:30 PM - Houston Rockets vs. Dallas Mavericks (KFAA-TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206093001 -0500" channel="Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20251206235959 -0500">
+    <title>Goal Arena (Bundesliga)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206050111 -0500" channel="Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20251206093001 -0500">
+    <title>Next event: 06 Dec 09:30 AM - Goal Arena (Bundesliga)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206100001 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20251206235959 -0500">
+    <title>Goal Rush (Peacock)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251206050111 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20251206100001 -0500">
+    <title>Next event: 06 Dec 10:00 AM - Goal Rush (Peacock)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
