@@ -1,2 +1,63 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<tv date="20251209 -0500" />
+<tv date="20251209 -0500">
+  <channel id="Atlanta Falcons vs. Tampa Bay Buccaneers - 08:15 PM ET / 06:15 PM MT / 01:15 UK">
+    <display-name lang="en">Atlanta Falcons vs. Tampa Bay Buccaneers - 08:15 PM ET / 06:15 PM MT / 01:15 UK</display-name>
+    <display-name lang="en">Atlanta Falcons vs. Tampa Bay Buccaneers [LIVE]</display-name>
+  </channel>
+  <channel id="Cleveland Browns vs. Chicago Bears - 01:00 PM ET / 11:00 AM MT / 18:00 UK">
+    <display-name lang="en">Cleveland Browns vs. Chicago Bears - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
+    <display-name lang="en">Cleveland Browns vs. Chicago Bears [LIVE]</display-name>
+  </channel>
+  <channel id="Baltimore Ravens vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK">
+    <display-name lang="en">Baltimore Ravens vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
+    <display-name lang="en">Baltimore Ravens vs. Cincinnati Bengals [LIVE]</display-name>
+  </channel>
+  <programme start="20251211201500 -0500" channel="Atlanta Falcons vs. Tampa Bay Buccaneers - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251211235959 -0500">
+    <title>Atlanta Falcons vs. Tampa Bay Buccaneers (Prime Video)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209010109 -0500" channel="Atlanta Falcons vs. Tampa Bay Buccaneers - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251211201500 -0500">
+    <title>Next event: 11 Dec 08:15 PM - Atlanta Falcons vs. Tampa Bay Buccaneers (Prime Video)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251214130000 -0500" channel="Cleveland Browns vs. Chicago Bears - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251214235959 -0500">
+    <title>Cleveland Browns vs. Chicago Bears (FOX)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209010109 -0500" channel="Cleveland Browns vs. Chicago Bears - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251214130000 -0500">
+    <title>Next event: 14 Dec 01:00 PM - Cleveland Browns vs. Chicago Bears (FOX)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251214130000 -0500" channel="Baltimore Ravens vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251214235959 -0500">
+    <title>Baltimore Ravens vs. Cincinnati Bengals (CBS)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209010109 -0500" channel="Baltimore Ravens vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251214130000 -0500">
+    <title>Next event: 14 Dec 01:00 PM - Baltimore Ravens vs. Cincinnati Bengals (CBS)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+</tv>
