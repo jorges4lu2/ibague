@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251209 -0500">
+  <channel id="Hockey: Golden Knights at Islanders @ Dec 9 18:30 PM :MAX US 01">
+    <display-name lang="en">Hockey: Golden Knights at Islanders @ Dec 9 18:30 PM :MAX US 01</display-name>
+  </channel>
+  <channel id="Basketball: Brown at Providence @ Dec 9 19:30 PM :MAX US 02">
+    <display-name lang="en">Basketball: Brown at Providence @ Dec 9 19:30 PM :MAX US 02</display-name>
+  </channel>
+  <channel id="Hockey: Avalanche at Predators @ Dec 9 21:30 PM :MAX US 03">
+    <display-name lang="en">Hockey: Avalanche at Predators @ Dec 9 21:30 PM :MAX US 03</display-name>
+  </channel>
   <channel id="Serie A: Pisa vs Parma @ Dec 8 8:50 AM :Paramount+  01">
     <display-name lang="en">Serie A: Pisa vs Parma @ Dec 8 8:50 AM :Paramount+  01</display-name>
   </channel>
@@ -9,8 +18,8 @@
   <channel id="Serie A: Torino vs Milan @ Dec 8 2:35 PM :Paramount+  03">
     <display-name lang="en">Serie A: Torino vs Milan @ Dec 8 2:35 PM :Paramount+  03</display-name>
   </channel>
-  <channel id="Snowball Derby at Five Flags @ Dec 8 1:30 PM :Flo Racing  02">
-    <display-name lang="en">Snowball Derby at Five Flags @ Dec 8 1:30 PM :Flo Racing  02</display-name>
+  <channel id="Snowball Derby at Five Flags @ Dec 9 5:00 PM :Flo Racing  03">
+    <display-name lang="en">Snowball Derby at Five Flags @ Dec 9 5:00 PM :Flo Racing  03</display-name>
   </channel>
   <channel id="Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM">
     <display-name lang="en">Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM</display-name>
@@ -69,11 +78,11 @@
   <channel id="MLB 16 | Marlins x Rockies start:2025-09-17 01:40:00 stop:2025-09-17 08:53:20">
     <display-name lang="en">MLB 16 | Marlins x Rockies start:2025-09-17 01:40:00 stop:2025-09-17 08:53:20</display-name>
   </channel>
-  <channel id="01. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)">
-    <display-name lang="en">01. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)</display-name>
+  <channel id="01. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)">
+    <display-name lang="en">01. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)</display-name>
   </channel>
-  <channel id="02. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)">
-    <display-name lang="en">02. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)</display-name>
+  <channel id="02. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)">
+    <display-name lang="en">02. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)</display-name>
   </channel>
   <channel id="USA | NHL Game 00&#9447;: Nashville Predators vs New York Rangers | Mon Nov 10th 7:00 PM ET">
     <display-name lang="en">USA | NHL Game 00&#9447;: Nashville Predators vs New York Rangers | Mon Nov 10th 7:00 PM ET</display-name>
@@ -132,12 +141,6 @@
   <channel id="WSL 06 | Chelsea vs Everton (Sun 14:30 UK)">
     <display-name lang="en">WSL 06 | Chelsea vs Everton (Sun 14:30 UK)</display-name>
   </channel>
-  <channel id="LEVANTE UD (Mon 20:00 UK)">
-    <display-name lang="en">LEVANTE UD (Mon 20:00 UK)</display-name>
-  </channel>
-  <channel id="CA OSASUNA (Mon 20:00 UK)">
-    <display-name lang="en">CA OSASUNA (Mon 20:00 UK)</display-name>
-  </channel>
   <channel id="01. EPL | Goal Rush Match Day # 15 (Sat 15:00 UK)">
     <display-name lang="en">01. EPL | Goal Rush Match Day # 15 (Sat 15:00 UK)</display-name>
   </channel>
@@ -168,44 +171,104 @@
   <channel id="10. EPL 02 | Manchester City vs Sunderland (Sat 15:00 UK)">
     <display-name lang="en">10. EPL 02 | Manchester City vs Sunderland (Sat 15:00 UK)</display-name>
   </channel>
-  <channel id="EFL01: Charlton Athletic 12:30 Portsmouth (CH) 06/12">
-    <display-name lang="en">EFL01: Charlton Athletic 12:30 Portsmouth (CH) 06/12</display-name>
+  <channel id="EFL01: Sheffield United 19:45 Norwich City (CH) 09/12">
+    <display-name lang="en">EFL01: Sheffield United 19:45 Norwich City (CH) 09/12</display-name>
   </channel>
-  <channel id="EFL02: Ipswich Town 15:00 Coventry City (CH) 06/12">
-    <display-name lang="en">EFL02: Ipswich Town 15:00 Coventry City (CH) 06/12</display-name>
+  <channel id="EFL02: Preston North End 19:45 Coventry City (CH) 09/12">
+    <display-name lang="en">EFL02: Preston North End 19:45 Coventry City (CH) 09/12</display-name>
   </channel>
-  <channel id="EFL03: Queens Park Rangers 15:00 West Bromwich Albion (CH) 06/12">
-    <display-name lang="en">EFL03: Queens Park Rangers 15:00 West Bromwich Albion (CH) 06/12</display-name>
+  <channel id="EFL03: Southampton 19:45 West Bromwich Albion (CH) 09/12">
+    <display-name lang="en">EFL03: Southampton 19:45 West Bromwich Albion (CH) 09/12</display-name>
   </channel>
-  <channel id="EFL04: Preston North End 15:00 Wrexham (CH) 06/12">
-    <display-name lang="en">EFL04: Preston North End 15:00 Wrexham (CH) 06/12</display-name>
+  <channel id="EFL04: Charlton Athletic 19:45 Middlesbrough (CH) 09/12">
+    <display-name lang="en">EFL04: Charlton Athletic 19:45 Middlesbrough (CH) 09/12</display-name>
   </channel>
-  <channel id="EFL05: Blackburn Rovers 15:00 Sheffield Wednesday (CH) 06/12">
-    <display-name lang="en">EFL05: Blackburn Rovers 15:00 Sheffield Wednesday (CH) 06/12</display-name>
+  <channel id="EFL05: Blackburn Rovers 19:45 Oxford United (CH) 09/12">
+    <display-name lang="en">EFL05: Blackburn Rovers 19:45 Oxford United (CH) 09/12</display-name>
   </channel>
-  <channel id="EFL06: Bristol City 15:00 Millwall (CH) 06/12">
-    <display-name lang="en">EFL06: Bristol City 15:00 Millwall (CH) 06/12</display-name>
+  <channel id="EFL06: Swansea City 19:45 Portsmouth (CH) 09/12">
+    <display-name lang="en">EFL06: Swansea City 19:45 Portsmouth (CH) 09/12</display-name>
   </channel>
-  <channel id="EFL07: Sheffield United 15:00 Stoke City (CH) 06/12">
-    <display-name lang="en">EFL07: Sheffield United 15:00 Stoke City (CH) 06/12</display-name>
+  <channel id="EFL07: Watford 19:45 Sheffield Wednesday (CH) 09/12">
+    <display-name lang="en">EFL07: Watford 19:45 Sheffield Wednesday (CH) 09/12</display-name>
   </channel>
-  <channel id="EFL08: Southampton 15:00 Birmingham City (CH) 06/12">
-    <display-name lang="en">EFL08: Southampton 15:00 Birmingham City (CH) 06/12</display-name>
+  <channel id="EFL08: Colchester United 19:45 West Ham United U21 (EFLT) 09/12">
+    <display-name lang="en">EFL08: Colchester United 19:45 West Ham United U21 (EFLT) 09/12</display-name>
   </channel>
-  <channel id="EFL09: Swansea City 15:00 Oxford United (CH)&#160; 06/12">
-    <display-name lang="en">EFL09: Swansea City 15:00 Oxford United (CH)&#160; 06/12</display-name>
+  <channel id="EFL09: Doncaster Rovers 19:45 Stockport County (L1) 09/12">
+    <display-name lang="en">EFL09: Doncaster Rovers 19:45 Stockport County (L1) 09/12</display-name>
   </channel>
-  <channel id="EFL10: Cardiff City 12:30 Huddersfield Town (CH) 06/12">
-    <display-name lang="en">EFL10: Cardiff City 12:30 Huddersfield Town (CH) 06/12</display-name>
+  <channel id="EFL10: Exeter City 19:45 AFC Wimbledon (L1) 09/12">
+    <display-name lang="en">EFL10: Exeter City 19:45 AFC Wimbledon (L1) 09/12</display-name>
   </channel>
-  <channel id="EFL11: Plymouth Argyle 12:30 Bradford City (CH) 06/12">
-    <display-name lang="en">EFL11: Plymouth Argyle 12:30 Bradford City (CH) 06/12</display-name>
+  <channel id="EFL11: Leyton Orient 19:45 Luton Town (L1) 09/12">
+    <display-name lang="en">EFL11: Leyton Orient 19:45 Luton Town (L1) 09/12</display-name>
   </channel>
-  <channel id="EFL12: Colchester United 12:30 Gillingham (CH) 06/12">
-    <display-name lang="en">EFL12: Colchester United 12:30 Gillingham (CH) 06/12</display-name>
+  <channel id="EFL12: Lincoln City 19:45 Barnsley (L1) 09/12">
+    <display-name lang="en">EFL12: Lincoln City 19:45 Barnsley (L1) 09/12</display-name>
   </channel>
-  <channel id="EFL13: Watford 12:30 Norwich City (CH) 06/12">
-    <display-name lang="en">EFL13: Watford 12:30 Norwich City (CH) 06/12</display-name>
+  <channel id="EFL13: Mansfield Town 19:45 Bolton Wanderers (L1) 09/12">
+    <display-name lang="en">EFL13: Mansfield Town 19:45 Bolton Wanderers (L1) 09/12</display-name>
+  </channel>
+  <channel id="EFL14: Northampton Town 19:45 Huddersfield Town (L1) 09/12">
+    <display-name lang="en">EFL14: Northampton Town 19:45 Huddersfield Town (L1) 09/12</display-name>
+  </channel>
+  <channel id="EFL15: Port Vale 19:45 Bradford City (L1) 09/12">
+    <display-name lang="en">EFL15: Port Vale 19:45 Bradford City (L1) 09/12</display-name>
+  </channel>
+  <channel id="EFL16: Stevenage 19:45 Cardiff City (L1) 09/12">
+    <display-name lang="en">EFL16: Stevenage 19:45 Cardiff City (L1) 09/12</display-name>
+  </channel>
+  <channel id="EFL17: Wycombe Wanderers 19:45 Plymouth Argyle (L1) 09/12">
+    <display-name lang="en">EFL17: Wycombe Wanderers 19:45 Plymouth Argyle (L1) 09/12</display-name>
+  </channel>
+  <channel id="EFL18: Reading 20:00 Peterborough United (L1) 09/12">
+    <display-name lang="en">EFL18: Reading 20:00 Peterborough United (L1) 09/12</display-name>
+  </channel>
+  <channel id="EFL19: Barnet 19:45 Bristol Rovers (L2) 09/12">
+    <display-name lang="en">EFL19: Barnet 19:45 Bristol Rovers (L2) 09/12</display-name>
+  </channel>
+  <channel id="EFL20: Barrow 19:45 Tranmere Rovers (L2) 09/12">
+    <display-name lang="en">EFL20: Barrow 19:45 Tranmere Rovers (L2) 09/12</display-name>
+  </channel>
+  <channel id="EFL21: Bromley 19:45 Crawley Town (L2) 09/12">
+    <display-name lang="en">EFL21: Bromley 19:45 Crawley Town (L2) 09/12</display-name>
+  </channel>
+  <channel id="EFL22: Cambridge United 19:45 Chesterfield (L2) 09/12">
+    <display-name lang="en">EFL22: Cambridge United 19:45 Chesterfield (L2) 09/12</display-name>
+  </channel>
+  <channel id="EFL23: Fleetwood Town 19:45 Salford City (L2) 09/12">
+    <display-name lang="en">EFL23: Fleetwood Town 19:45 Salford City (L2) 09/12</display-name>
+  </channel>
+  <channel id="EFL24: Harrogate Town 19:45 Accrington Stanley (L2) 09/12">
+    <display-name lang="en">EFL24: Harrogate Town 19:45 Accrington Stanley (L2) 09/12</display-name>
+  </channel>
+  <channel id="EFL25: Notts County 19:45 Milton Keynes Dons (L2) 09/12">
+    <display-name lang="en">EFL25: Notts County 19:45 Milton Keynes Dons (L2) 09/12</display-name>
+  </channel>
+  <channel id="EFL26: Shrewsbury Town 19:45 Grimsby Town (L2) 09/12">
+    <display-name lang="en">EFL26: Shrewsbury Town 19:45 Grimsby Town (L2) 09/12</display-name>
+  </channel>
+  <channel id="EFL27: Swindon Town 19:45 Cheltenham Town (L2) 09/12">
+    <display-name lang="en">EFL27: Swindon Town 19:45 Cheltenham Town (L2) 09/12</display-name>
+  </channel>
+  <channel id="EFL28: Bristol City 19:45 Leicester City (CH) 10/12">
+    <display-name lang="en">EFL28: Bristol City 19:45 Leicester City (CH) 10/12</display-name>
+  </channel>
+  <channel id="EFL29: Ipswich Town 19:45 Stoke City (CH) 10/12">
+    <display-name lang="en">EFL29: Ipswich Town 19:45 Stoke City (CH) 10/12</display-name>
+  </channel>
+  <channel id="EFL30: Derby County 19:45 Millwall (CH) 10/12">
+    <display-name lang="en">EFL30: Derby County 19:45 Millwall (CH) 10/12</display-name>
+  </channel>
+  <channel id="EFL31: Rotherham United 19:45 Blackpool (L1) 10/12">
+    <display-name lang="en">EFL31: Rotherham United 19:45 Blackpool (L1) 10/12</display-name>
+  </channel>
+  <channel id="EFL32: Crewe Alexandra 19:45 Newport County (L2) 10/12">
+    <display-name lang="en">EFL32: Crewe Alexandra 19:45 Newport County (L2) 10/12</display-name>
+  </channel>
+  <channel id="EFL33: Oldham Athletic 19:45 Walsall (L2) 10/12">
+    <display-name lang="en">EFL33: Oldham Athletic 19:45 Walsall (L2) 10/12</display-name>
   </channel>
   <channel id="LOI 1 | Shamrock Rovers v Cork City start:2025-11-09 14:45:00 stop:2025-11-09 17:45:00">
     <display-name lang="en">LOI 1 | Shamrock Rovers v Cork City start:2025-11-09 14:45:00 stop:2025-11-09 17:45:00</display-name>
@@ -308,12 +371,6 @@
   </channel>
   <channel id="Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm">
     <display-name lang="en">Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm</display-name>
-  </channel>
-  <channel id="MANCHESTER UNITED F.C (Mon 20:00 UK)">
-    <display-name lang="en">MANCHESTER UNITED F.C (Mon 20:00 UK)</display-name>
-  </channel>
-  <channel id="WOLVERHAMPTON WANDERERS F.C (Mon 20:00 UK)">
-    <display-name lang="en">WOLVERHAMPTON WANDERERS F.C (Mon 20:00 UK)</display-name>
   </channel>
   <channel id="11. EPL 03 | Newcastle United vs Burnley (Sat 15:00 UK)">
     <display-name lang="en">11. EPL 03 | Newcastle United vs Burnley (Sat 15:00 UK)</display-name>
@@ -483,11 +540,11 @@
   <channel id="Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM">
     <display-name lang="en">Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM</display-name>
   </channel>
-  <channel id="NBA 01: Pacers (IND) x Kings (SAC) start:2025-12-08 23:50:00 stop:2025-12-09 03:50:00">
-    <display-name lang="en">NBA 01: Pacers (IND) x Kings (SAC) start:2025-12-08 23:50:00 stop:2025-12-09 03:50:00</display-name>
+  <channel id="NBA 01: Magic (ORL) x Heat (MIA) start:2025-12-09 22:50:00 stop:2025-12-10 02:50:00">
+    <display-name lang="en">NBA 01: Magic (ORL) x Heat (MIA) start:2025-12-09 22:50:00 stop:2025-12-10 02:50:00</display-name>
   </channel>
-  <channel id="NBA 02 : Timberwolves (MIN) x Suns (PHX) start:2025-12-09 00:20:00 stop:2025-12-09 04:20:00">
-    <display-name lang="en">NBA 02 : Timberwolves (MIN) x Suns (PHX) start:2025-12-09 00:20:00 stop:2025-12-09 04:20:00</display-name>
+  <channel id="NBA 02 : Raptors (TOR) x Knicks (NYK) start:2025-12-10 01:20:00 stop:2025-12-10 05:20:00">
+    <display-name lang="en">NBA 02 : Raptors (TOR) x Knicks (NYK) start:2025-12-10 01:20:00 stop:2025-12-10 05:20:00</display-name>
   </channel>
   <channel id="NBA 03: Pelicans (NOP) x Spurs (SAS) start:2025-12-09 00:50:00 stop:2025-12-09 04:50:00">
     <display-name lang="en">NBA 03: Pelicans (NOP) x Spurs (SAS) start:2025-12-09 00:50:00 stop:2025-12-09 04:50:00</display-name>
@@ -942,80 +999,116 @@
   <channel id="Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm">
     <display-name lang="en">Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm</display-name>
   </channel>
-  <channel id="National League 01 | Morecambe vs Boston United // UK Sat 6 Dec 12:30pm // ET Sat 6 Dec 7:30am">
-    <display-name lang="en">National League 01 | Morecambe vs Boston United // UK Sat 6 Dec 12:30pm // ET Sat 6 Dec 7:30am</display-name>
+  <channel id="01. UEFA WCL | St Polten vs Juventus (Tue 17:45 UK)">
+    <display-name lang="en">01. UEFA WCL | St Polten vs Juventus (Tue 17:45 UK)</display-name>
   </channel>
-  <channel id="National League 02 | Forest Green vs Solihull Moors // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am">
-    <display-name lang="en">National League 02 | Forest Green vs Solihull Moors // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am</display-name>
+  <channel id="02. UEFA WCL | Arsenal vs Twente (Tue 20:00 UK)">
+    <display-name lang="en">02. UEFA WCL | Arsenal vs Twente (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="National League 03 | Hartlepool United vs Yeovil Town // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am">
-    <display-name lang="en">National League 03 | Hartlepool United vs Yeovil Town // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am</display-name>
+  <channel id="03. UEFA WCL | PSG vs Oh Leuven (Tue 20:00 UK)">
+    <display-name lang="en">03. UEFA WCL | PSG vs Oh Leuven (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="National League 04 | FC Halifax Town vs Braintree // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am">
-    <display-name lang="en">National League 04 | FC Halifax Town vs Braintree // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am</display-name>
+  <channel id="04. UEFA WCL | Real Madrid vs Wolfsburg (Tue 20:00 UK)">
+    <display-name lang="en">04. UEFA WCL | Real Madrid vs Wolfsburg (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="National League 05 | Aldershot vs Altrincham // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am">
-    <display-name lang="en">National League 05 | Aldershot vs Altrincham // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am</display-name>
+  <channel id="03. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)">
+    <display-name lang="en">03. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)</display-name>
   </channel>
-  <channel id="National League 06 | Rochdale vs Southend // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am">
-    <display-name lang="en">National League 06 | Rochdale vs Southend // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am</display-name>
+  <channel id="04. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)">
+    <display-name lang="en">04. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)</display-name>
   </channel>
-  <channel id="National League 07 | Scunthorpe vs Tamworth // UK Sat 6 Dec 5:30pm // ET Sat 6 Dec 12:30pm">
-    <display-name lang="en">National League 07 | Scunthorpe vs Tamworth // UK Sat 6 Dec 5:30pm // ET Sat 6 Dec 12:30pm</display-name>
+  <channel id="05. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)">
+    <display-name lang="en">05. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)</display-name>
   </channel>
-  <channel id="01. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)">
-    <display-name lang="en">01. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</display-name>
+  <channel id="06. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)">
+    <display-name lang="en">06. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)</display-name>
   </channel>
-  <channel id="02. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)">
-    <display-name lang="en">02. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</display-name>
+  <channel id="07. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)">
+    <display-name lang="en">07. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)</display-name>
   </channel>
-  <channel id="03. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)">
-    <display-name lang="en">03. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</display-name>
+  <channel id="08. UEFA CL | Goals Show (Tue 20:00 UK)">
+    <display-name lang="en">08. UEFA CL | Goals Show (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="04. Freestyle Skiing | Ruka (Mon 14:15 UK)">
-    <display-name lang="en">04. Freestyle Skiing | Ruka (Mon 14:15 UK)</display-name>
+  <channel id="09. UEFA CL | Goals Show (Tue 20:00 UK)">
+    <display-name lang="en">09. UEFA CL | Goals Show (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="03. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)">
-    <display-name lang="en">03. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)</display-name>
+  <channel id="10. UEFA CL | Goals Show (Tue 20:00 UK)">
+    <display-name lang="en">10. UEFA CL | Goals Show (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="04. Emirates FA Cup | Brackley vs Burton (Mon 19:30 UK)">
-    <display-name lang="en">04. Emirates FA Cup | Brackley vs Burton (Mon 19:30 UK)</display-name>
+  <channel id="11. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)">
+    <display-name lang="en">11. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="05. Emirates FA Cup | Brackley vs Burton (Mon 19:30 UK)">
-    <display-name lang="en">05. Emirates FA Cup | Brackley vs Burton (Mon 19:30 UK)</display-name>
+  <channel id="12. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)">
+    <display-name lang="en">12. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="06. Serie A | Pisa vs Parma (Mon 14:00 UK)">
-    <display-name lang="en">06. Serie A | Pisa vs Parma (Mon 14:00 UK)</display-name>
+  <channel id="13. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)">
+    <display-name lang="en">13. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="07. Serie A | Pisa vs Parma (Mon 14:00 UK)">
-    <display-name lang="en">07. Serie A | Pisa vs Parma (Mon 14:00 UK)</display-name>
+  <channel id="14. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)">
+    <display-name lang="en">14. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="08. Serie A | Udinese vs Genoa (Mon 17:00 UK)">
-    <display-name lang="en">08. Serie A | Udinese vs Genoa (Mon 17:00 UK)</display-name>
+  <channel id="15. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)">
+    <display-name lang="en">15. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="09. Serie A | Udinese vs Genoa (Mon 17:00 UK)">
-    <display-name lang="en">09. Serie A | Udinese vs Genoa (Mon 17:00 UK)</display-name>
+  <channel id="16. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)">
+    <display-name lang="en">16. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="10. Serie A | Torino vs AC Milan (Mon 19:45 UK)">
-    <display-name lang="en">10. Serie A | Torino vs AC Milan (Mon 19:45 UK)</display-name>
+  <channel id="17. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)">
+    <display-name lang="en">17. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="11. Serie A | Torino vs AC Milan (Mon 19:45 UK)">
-    <display-name lang="en">11. Serie A | Torino vs AC Milan (Mon 19:45 UK)</display-name>
+  <channel id="18. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)">
+    <display-name lang="en">18. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="12. Football | Baller League (Mon 17:15 UK)">
-    <display-name lang="en">12. Football | Baller League (Mon 17:15 UK)</display-name>
+  <channel id="19. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)">
+    <display-name lang="en">19. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="13. Argentina Primera Division | Gimnasia vs Estudiantes (Mon 20:00 UK)">
-    <display-name lang="en">13. Argentina Primera Division | Gimnasia vs Estudiantes (Mon 20:00 UK)</display-name>
+  <channel id="20. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)">
+    <display-name lang="en">20. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="14. Argentina Primera Division | Gimnasia vs Estudiantes (Mon 20:00 UK)">
-    <display-name lang="en">14. Argentina Primera Division | Gimnasia vs Estudiantes (Mon 20:00 UK)</display-name>
+  <channel id="21. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)">
+    <display-name lang="en">21. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="15. Turkish Super Lig | Goztepe vs Trabzonspor (Mon 17:00 UK)">
-    <display-name lang="en">15. Turkish Super Lig | Goztepe vs Trabzonspor (Mon 17:00 UK)</display-name>
+  <channel id="22. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)">
+    <display-name lang="en">22. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="16. Turkish Super Lig | Goztepe vs Trabzonspor (Mon 17:00 UK)">
-    <display-name lang="en">16. Turkish Super Lig | Goztepe vs Trabzonspor (Mon 17:00 UK)</display-name>
+  <channel id="23. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)">
+    <display-name lang="en">23. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="24. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)">
+    <display-name lang="en">24. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="25. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)">
+    <display-name lang="en">25. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="26. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)">
+    <display-name lang="en">26. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="27. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)">
+    <display-name lang="en">27. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="28. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)">
+    <display-name lang="en">28. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="29. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)">
+    <display-name lang="en">29. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="30. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)">
+    <display-name lang="en">30. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="31. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)">
+    <display-name lang="en">31. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="32. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)">
+    <display-name lang="en">32. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="33. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)">
+    <display-name lang="en">33. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="34. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)">
+    <display-name lang="en">34. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="35. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)">
+    <display-name lang="en">35. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)</display-name>
   </channel>
   <channel id="UFC 323: Merab Dvalishvili vs. Petr Yan 2 FHD (Sun 03:00 UK)">
     <display-name lang="en">UFC 323: Merab Dvalishvili vs. Petr Yan 2 FHD (Sun 03:00 UK)</display-name>
@@ -1035,14 +1128,14 @@
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
   </channel>
-  <channel id="Fite TV 2 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: Desert Vipers vs Gulf Giants - Mon,08 Dec 09:30 EST">
-    <display-name lang="en">Fite TV 2 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: Desert Vipers vs Gulf Giants - Mon,08 Dec 09:30 EST</display-name>
+  <channel id="Fite TV 2 HD (D): TrillerTV-Willow by Cricbuzz South Africa Tour &#208;&#190;f India 2025 1st &#208;&#162;20I - Tue,09 Dec 08:30 EST">
+    <display-name lang="en">Fite TV 2 HD (D): TrillerTV-Willow by Cricbuzz South Africa Tour &#208;&#190;f India 2025 1st &#208;&#162;20I - Tue,09 Dec 08:30 EST</display-name>
   </channel>
-  <channel id="Fite TV 3 HD (D): TrillerTV-Willow by Cricbuzz South Africa Tour &#208;&#190;f India 2025 1st &#208;&#162;20I - Tue,09 Dec 08:30 EST">
-    <display-name lang="en">Fite TV 3 HD (D): TrillerTV-Willow by Cricbuzz South Africa Tour &#208;&#190;f India 2025 1st &#208;&#162;20I - Tue,09 Dec 08:30 EST</display-name>
+  <channel id="Fite TV 3 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: MI Emirates vs Desert Vipers - Tue,09 Dec 09:30 EST">
+    <display-name lang="en">Fite TV 3 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: MI Emirates vs Desert Vipers - Tue,09 Dec 09:30 EST</display-name>
   </channel>
-  <channel id="Fite TV 4 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: MI Emirates vs Desert Vipers - Tue,09 Dec 09:30 EST">
-    <display-name lang="en">Fite TV 4 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: MI Emirates vs Desert Vipers - Tue,09 Dec 09:30 EST</display-name>
+  <channel id="Fite TV 4 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 128 - Tue,09 Dec 12:05 EST">
+    <display-name lang="en">Fite TV 4 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 128 - Tue,09 Dec 12:05 EST</display-name>
   </channel>
   <channel id="Fite TV 5 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: Gulf Giants vs Sharjah Warriorz - Wed,10 Dec 09:30 EST">
     <display-name lang="en">Fite TV 5 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: Gulf Giants vs Sharjah Warriorz - Wed,10 Dec 09:30 EST</display-name>
@@ -1056,17 +1149,17 @@
   <channel id="Fite TV 8 HD (D): TrillerTV-NORTH Wrestling NCL 60: The Big North Weekender, Night 1 - Thu,11 Dec 15:00 EST">
     <display-name lang="en">Fite TV 8 HD (D): TrillerTV-NORTH Wrestling NCL 60: The Big North Weekender, Night 1 - Thu,11 Dec 15:00 EST</display-name>
   </channel>
-  <channel id="Fite TV 9 HD (D): TrillerTV-Xtreme Fighting League XFN 405 - Fri,12 Dec 21:00 EST">
-    <display-name lang="en">Fite TV 9 HD (D): TrillerTV-Xtreme Fighting League XFN 405 - Fri,12 Dec 21:00 EST</display-name>
+  <channel id="Fite TV 9 HD (D): TrillerTV-Pro Wrestling Revolution Pro Wrestling Revolution: Lucha Libre - San Jose, December 2025 (en Espa&#195;&#177;ol) - Fri,12 Dec 19:00 EST">
+    <display-name lang="en">Fite TV 9 HD (D): TrillerTV-Pro Wrestling Revolution Pro Wrestling Revolution: Lucha Libre - San Jose, December 2025 (en Espa&#195;&#177;ol) - Fri,12 Dec 19:00 EST</display-name>
   </channel>
-  <channel id="Fite TV 10 HD (D): TrillerTV-Willow by Cricbuzz Ireland Women Tour of South Africa 2025, 1st ODI - Sat,13 Dec 03:00 EST">
-    <display-name lang="en">Fite TV 10 HD (D): TrillerTV-Willow by Cricbuzz Ireland Women Tour of South Africa 2025, 1st ODI - Sat,13 Dec 03:00 EST</display-name>
+  <channel id="Fite TV 10 HD (D): TrillerTV-Xtreme Fighting League XFN 405 - Fri,12 Dec 21:00 EST">
+    <display-name lang="en">Fite TV 10 HD (D): TrillerTV-Xtreme Fighting League XFN 405 - Fri,12 Dec 21:00 EST</display-name>
   </channel>
-  <channel id="Fite TV 11 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Wahda vs Al Jazira - Sat,13 Dec 07:40 EST">
-    <display-name lang="en">Fite TV 11 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Wahda vs Al Jazira - Sat,13 Dec 07:40 EST</display-name>
+  <channel id="Fite TV 11 HD (D): TrillerTV-Willow by Cricbuzz Ireland Women Tour of South Africa 2025, 1st ODI - Sat,13 Dec 03:00 EST">
+    <display-name lang="en">Fite TV 11 HD (D): TrillerTV-Willow by Cricbuzz Ireland Women Tour of South Africa 2025, 1st ODI - Sat,13 Dec 03:00 EST</display-name>
   </channel>
-  <channel id="Fite TV 12 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Ain vs Al Nasr - Sat,13 Dec 10:20 EST">
-    <display-name lang="en">Fite TV 12 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Ain vs Al Nasr - Sat,13 Dec 10:20 EST</display-name>
+  <channel id="Fite TV 12 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Wahda vs Al Jazira - Sat,13 Dec 07:40 EST">
+    <display-name lang="en">Fite TV 12 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Wahda vs Al Jazira - Sat,13 Dec 07:40 EST</display-name>
   </channel>
   <channel id="UK-BBC Three FHD (From 19:00 UK)">
     <display-name lang="en">UK-BBC Three FHD (From 19:00 UK)</display-name>
@@ -1095,14 +1188,23 @@
   <channel id="05. 2nd Ashes | Australia vs England (Thu-Mon 04:00 UK)">
     <display-name lang="en">05. 2nd Ashes | Australia vs England (Thu-Mon 04:00 UK)</display-name>
   </channel>
-  <channel id="06. ILT20 | Vipers vs Giants (Mon 14:30 UK)">
-    <display-name lang="en">06. ILT20 | Vipers vs Giants (Mon 14:30 UK)</display-name>
+  <channel id="06. ILT20 | Emirates vs Vipers (Tue 14:30 UK)">
+    <display-name lang="en">06. ILT20 | Emirates vs Vipers (Tue 14:30 UK)</display-name>
   </channel>
-  <channel id="07. ILT20 | Vipers vs Giants (Mon 14:30 UK)">
-    <display-name lang="en">07. ILT20 | Vipers vs Giants (Mon 14:30 UK)</display-name>
+  <channel id="07. ILT20 | Emirates vs Vipers (Tue 14:30 UK)">
+    <display-name lang="en">07. ILT20 | Emirates vs Vipers (Tue 14:30 UK)</display-name>
   </channel>
-  <channel id="08. ILT20 | Vipers vs Giants (Mon 14:30 UK)">
-    <display-name lang="en">08. ILT20 | Vipers vs Giants (Mon 14:30 UK)</display-name>
+  <channel id="08. 2nd Test | New Zealand vs West Indies (Tue-Sat 22:00 UK)">
+    <display-name lang="en">08. 2nd Test | New Zealand vs West Indies (Tue-Sat 22:00 UK)</display-name>
+  </channel>
+  <channel id="09. 2nd Test | New Zealand vs West Indies (Tue-Sat 22:00 UK)">
+    <display-name lang="en">09. 2nd Test | New Zealand vs West Indies (Tue-Sat 22:00 UK)</display-name>
+  </channel>
+  <channel id="10. 1st T20i | India vs South Africa (Tue 13:30 UK)">
+    <display-name lang="en">10. 1st T20i | India vs South Africa (Tue 13:30 UK)</display-name>
+  </channel>
+  <channel id="11. 1st T20i | India vs South Africa (Tue 13:30 UK)">
+    <display-name lang="en">11. 1st T20i | India vs South Africa (Tue 13:30 UK)</display-name>
   </channel>
   <channel id="36. EPL 09 | Fulham vs Crystal Palace (Sun 16:30 UK)">
     <display-name lang="en">36. EPL 09 | Fulham vs Crystal Palace (Sun 16:30 UK)</display-name>
@@ -1293,6 +1395,30 @@
   <channel id="CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM">
     <display-name lang="en">CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM</display-name>
   </channel>
+  <programme start="20251209000000 -0500" channel="Hockey: Golden Knights at Islanders @ Dec 9 18:30 PM :MAX US 01" stop="20251209235959 -0500">
+    <title>07:30 PM - Hockey: Golden Knights at Islanders @ Dec 9 18:30 PM :MAX US 01</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="Basketball: Brown at Providence @ Dec 9 19:30 PM :MAX US 02" stop="20251209235959 -0500">
+    <title>08:30 PM - Basketball: Brown at Providence @ Dec 9 19:30 PM :MAX US 02</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="Hockey: Avalanche at Predators @ Dec 9 21:30 PM :MAX US 03" stop="20251209235959 -0500">
+    <title>12:30 PM - Hockey: Avalanche at Predators @ Dec 9 21:30 PM :MAX US 03</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251209000000 -0500" channel="Serie A: Pisa vs Parma @ Dec 8 8:50 AM :Paramount+  01" stop="20251209235959 -0500">
     <title>07:50 AM - Serie A: Pisa vs Parma @ Dec 8 8:50 AM :Paramount+  01</title>
     <date>2025</date>
@@ -1317,8 +1443,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="Snowball Derby at Five Flags @ Dec 8 1:30 PM :Flo Racing  02" stop="20251209235959 -0500">
-    <title>12:30 PM - Snowball Derby at Five Flags @ Dec 8 1:30 PM :Flo Racing  02</title>
+  <programme start="20251209000000 -0500" channel="Snowball Derby at Five Flags @ Dec 9 5:00 PM :Flo Racing  03" stop="20251209235959 -0500">
+    <title>04:00 PM - Snowball Derby at Five Flags @ Dec 9 5:00 PM :Flo Racing  03</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1477,16 +1603,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="01. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)" stop="20251209235959 -0500">
-    <title>01:30 PM - 01. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)</title>
+  <programme start="20251209000000 -0500" channel="01. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)" stop="20251209235959 -0500">
+    <title>10:30 AM - 01. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="02. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)" stop="20251209235959 -0500">
-    <title>01:30 PM - 02. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)</title>
+  <programme start="20251209000000 -0500" channel="02. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)" stop="20251209235959 -0500">
+    <title>10:30 AM - 02. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1645,22 +1771,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="LEVANTE UD (Mon 20:00 UK)" stop="20251209235959 -0500">
-    <title>03:00 PM - LEVANTE UD (Mon 20:00 UK)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251209000000 -0500" channel="CA OSASUNA (Mon 20:00 UK)" stop="20251209235959 -0500">
-    <title>03:00 PM - CA OSASUNA (Mon 20:00 UK)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251209000000 -0500" channel="01. EPL | Goal Rush Match Day # 15 (Sat 15:00 UK)" stop="20251209235959 -0500">
     <title>10:00 AM - 01. EPL | Goal Rush Match Day # 15 (Sat 15:00 UK)</title>
     <date>2025</date>
@@ -1741,104 +1851,264 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL01: Charlton Athletic 12:30 Portsmouth (CH) 06/12" stop="20251209235959 -0500">
-    <title>07:30 AM - EFL01: Charlton Athletic 12:30 Portsmouth (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL01: Sheffield United 19:45 Norwich City (CH) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL01: Sheffield United 19:45 Norwich City (CH) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL02: Ipswich Town 15:00 Coventry City (CH) 06/12" stop="20251209235959 -0500">
-    <title>10:00 AM - EFL02: Ipswich Town 15:00 Coventry City (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL02: Preston North End 19:45 Coventry City (CH) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL02: Preston North End 19:45 Coventry City (CH) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL03: Queens Park Rangers 15:00 West Bromwich Albion (CH) 06/12" stop="20251209235959 -0500">
-    <title>10:00 AM - EFL03: Queens Park Rangers 15:00 West Bromwich Albion (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL03: Southampton 19:45 West Bromwich Albion (CH) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL03: Southampton 19:45 West Bromwich Albion (CH) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL04: Preston North End 15:00 Wrexham (CH) 06/12" stop="20251209235959 -0500">
-    <title>10:00 AM - EFL04: Preston North End 15:00 Wrexham (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL04: Charlton Athletic 19:45 Middlesbrough (CH) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL04: Charlton Athletic 19:45 Middlesbrough (CH) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL05: Blackburn Rovers 15:00 Sheffield Wednesday (CH) 06/12" stop="20251209235959 -0500">
-    <title>10:00 AM - EFL05: Blackburn Rovers 15:00 Sheffield Wednesday (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL05: Blackburn Rovers 19:45 Oxford United (CH) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL05: Blackburn Rovers 19:45 Oxford United (CH) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL06: Bristol City 15:00 Millwall (CH) 06/12" stop="20251209235959 -0500">
-    <title>10:00 AM - EFL06: Bristol City 15:00 Millwall (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL06: Swansea City 19:45 Portsmouth (CH) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL06: Swansea City 19:45 Portsmouth (CH) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL07: Sheffield United 15:00 Stoke City (CH) 06/12" stop="20251209235959 -0500">
-    <title>10:00 AM - EFL07: Sheffield United 15:00 Stoke City (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL07: Watford 19:45 Sheffield Wednesday (CH) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL07: Watford 19:45 Sheffield Wednesday (CH) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL08: Southampton 15:00 Birmingham City (CH) 06/12" stop="20251209235959 -0500">
-    <title>10:00 AM - EFL08: Southampton 15:00 Birmingham City (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL08: Colchester United 19:45 West Ham United U21 (EFLT) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL08: Colchester United 19:45 West Ham United U21 (EFLT) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL09: Swansea City 15:00 Oxford United (CH)&#160; 06/12" stop="20251209235959 -0500">
-    <title>10:00 AM - EFL09: Swansea City 15:00 Oxford United (CH)&#160; 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL09: Doncaster Rovers 19:45 Stockport County (L1) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL09: Doncaster Rovers 19:45 Stockport County (L1) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL10: Cardiff City 12:30 Huddersfield Town (CH) 06/12" stop="20251209235959 -0500">
-    <title>07:30 AM - EFL10: Cardiff City 12:30 Huddersfield Town (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL10: Exeter City 19:45 AFC Wimbledon (L1) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL10: Exeter City 19:45 AFC Wimbledon (L1) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL11: Plymouth Argyle 12:30 Bradford City (CH) 06/12" stop="20251209235959 -0500">
-    <title>07:30 AM - EFL11: Plymouth Argyle 12:30 Bradford City (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL11: Leyton Orient 19:45 Luton Town (L1) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL11: Leyton Orient 19:45 Luton Town (L1) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL12: Colchester United 12:30 Gillingham (CH) 06/12" stop="20251209235959 -0500">
-    <title>07:30 AM - EFL12: Colchester United 12:30 Gillingham (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL12: Lincoln City 19:45 Barnsley (L1) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL12: Lincoln City 19:45 Barnsley (L1) 09/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="EFL13: Watford 12:30 Norwich City (CH) 06/12" stop="20251209235959 -0500">
-    <title>07:30 AM - EFL13: Watford 12:30 Norwich City (CH) 06/12</title>
+  <programme start="20251209000000 -0500" channel="EFL13: Mansfield Town 19:45 Bolton Wanderers (L1) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL13: Mansfield Town 19:45 Bolton Wanderers (L1) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL14: Northampton Town 19:45 Huddersfield Town (L1) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL14: Northampton Town 19:45 Huddersfield Town (L1) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL15: Port Vale 19:45 Bradford City (L1) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL15: Port Vale 19:45 Bradford City (L1) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL16: Stevenage 19:45 Cardiff City (L1) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL16: Stevenage 19:45 Cardiff City (L1) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL17: Wycombe Wanderers 19:45 Plymouth Argyle (L1) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL17: Wycombe Wanderers 19:45 Plymouth Argyle (L1) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL18: Reading 20:00 Peterborough United (L1) 09/12" stop="20251209235959 -0500">
+    <title>03:00 PM - EFL18: Reading 20:00 Peterborough United (L1) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL19: Barnet 19:45 Bristol Rovers (L2) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL19: Barnet 19:45 Bristol Rovers (L2) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL20: Barrow 19:45 Tranmere Rovers (L2) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL20: Barrow 19:45 Tranmere Rovers (L2) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL21: Bromley 19:45 Crawley Town (L2) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL21: Bromley 19:45 Crawley Town (L2) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL22: Cambridge United 19:45 Chesterfield (L2) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL22: Cambridge United 19:45 Chesterfield (L2) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL23: Fleetwood Town 19:45 Salford City (L2) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL23: Fleetwood Town 19:45 Salford City (L2) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL24: Harrogate Town 19:45 Accrington Stanley (L2) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL24: Harrogate Town 19:45 Accrington Stanley (L2) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL25: Notts County 19:45 Milton Keynes Dons (L2) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL25: Notts County 19:45 Milton Keynes Dons (L2) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL26: Shrewsbury Town 19:45 Grimsby Town (L2) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL26: Shrewsbury Town 19:45 Grimsby Town (L2) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL27: Swindon Town 19:45 Cheltenham Town (L2) 09/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL27: Swindon Town 19:45 Cheltenham Town (L2) 09/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL28: Bristol City 19:45 Leicester City (CH) 10/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL28: Bristol City 19:45 Leicester City (CH) 10/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL29: Ipswich Town 19:45 Stoke City (CH) 10/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL29: Ipswich Town 19:45 Stoke City (CH) 10/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL30: Derby County 19:45 Millwall (CH) 10/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL30: Derby County 19:45 Millwall (CH) 10/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL31: Rotherham United 19:45 Blackpool (L1) 10/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL31: Rotherham United 19:45 Blackpool (L1) 10/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL32: Crewe Alexandra 19:45 Newport County (L2) 10/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL32: Crewe Alexandra 19:45 Newport County (L2) 10/12</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="EFL33: Oldham Athletic 19:45 Walsall (L2) 10/12" stop="20251209235959 -0500">
+    <title>02:45 PM - EFL33: Oldham Athletic 19:45 Walsall (L2) 10/12</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -2111,22 +2381,6 @@
   </programme>
   <programme start="20251209000000 -0500" channel="Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm" stop="20251209235959 -0500">
     <title>02:00 PM - Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251209000000 -0500" channel="MANCHESTER UNITED F.C (Mon 20:00 UK)" stop="20251209235959 -0500">
-    <title>03:00 PM - MANCHESTER UNITED F.C (Mon 20:00 UK)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251209000000 -0500" channel="WOLVERHAMPTON WANDERERS F.C (Mon 20:00 UK)" stop="20251209235959 -0500">
-    <title>03:00 PM - WOLVERHAMPTON WANDERERS F.C (Mon 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -2581,16 +2835,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="NBA 01: Pacers (IND) x Kings (SAC) start:2025-12-08 23:50:00 stop:2025-12-09 03:50:00" stop="20251209235959 -0500">
-    <title>06:50 PM - NBA 01: Pacers (IND) x Kings (SAC) start:2025-12-08 23:50:00 stop:2025-12-09 03:50:00</title>
+  <programme start="20251209000000 -0500" channel="NBA 01: Magic (ORL) x Heat (MIA) start:2025-12-09 22:50:00 stop:2025-12-10 02:50:00" stop="20251209235959 -0500">
+    <title>05:50 PM - NBA 01: Magic (ORL) x Heat (MIA) start:2025-12-09 22:50:00 stop:2025-12-10 02:50:00</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="NBA 02 : Timberwolves (MIN) x Suns (PHX) start:2025-12-09 00:20:00 stop:2025-12-09 04:20:00" stop="20251209235959 -0500">
-    <title>07:20 PM - NBA 02 : Timberwolves (MIN) x Suns (PHX) start:2025-12-09 00:20:00 stop:2025-12-09 04:20:00</title>
+  <programme start="20251209000000 -0500" channel="NBA 02 : Raptors (TOR) x Knicks (NYK) start:2025-12-10 01:20:00 stop:2025-12-10 05:20:00" stop="20251209235959 -0500">
+    <title>08:20 PM - NBA 02 : Raptors (TOR) x Knicks (NYK) start:2025-12-10 01:20:00 stop:2025-12-10 05:20:00</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -3805,200 +4059,296 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="National League 01 | Morecambe vs Boston United // UK Sat 6 Dec 12:30pm // ET Sat 6 Dec 7:30am" stop="20251209235959 -0500">
-    <title>07:30 AM - National League 01 | Morecambe vs Boston United // UK Sat 6 Dec 12:30pm // ET Sat 6 Dec 7:30am</title>
+  <programme start="20251209000000 -0500" channel="01. UEFA WCL | St Polten vs Juventus (Tue 17:45 UK)" stop="20251209235959 -0500">
+    <title>12:45 PM - 01. UEFA WCL | St Polten vs Juventus (Tue 17:45 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="National League 02 | Forest Green vs Solihull Moors // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am" stop="20251209235959 -0500">
-    <title>10:00 AM - National League 02 | Forest Green vs Solihull Moors // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am</title>
+  <programme start="20251209000000 -0500" channel="02. UEFA WCL | Arsenal vs Twente (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 02. UEFA WCL | Arsenal vs Twente (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="National League 03 | Hartlepool United vs Yeovil Town // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am" stop="20251209235959 -0500">
-    <title>10:00 AM - National League 03 | Hartlepool United vs Yeovil Town // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am</title>
+  <programme start="20251209000000 -0500" channel="03. UEFA WCL | PSG vs Oh Leuven (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 03. UEFA WCL | PSG vs Oh Leuven (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="National League 04 | FC Halifax Town vs Braintree // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am" stop="20251209235959 -0500">
-    <title>10:00 AM - National League 04 | FC Halifax Town vs Braintree // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am</title>
+  <programme start="20251209000000 -0500" channel="04. UEFA WCL | Real Madrid vs Wolfsburg (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 04. UEFA WCL | Real Madrid vs Wolfsburg (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="National League 05 | Aldershot vs Altrincham // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am" stop="20251209235959 -0500">
-    <title>10:00 AM - National League 05 | Aldershot vs Altrincham // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am</title>
+  <programme start="20251209000000 -0500" channel="03. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)" stop="20251209235959 -0500">
+    <title>10:30 AM - 03. UEFA CL | Kairat vs Olympiacos (Tue 15:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="National League 06 | Rochdale vs Southend // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am" stop="20251209235959 -0500">
-    <title>10:00 AM - National League 06 | Rochdale vs Southend // UK Sat 6 Dec 3:00pm // ET Sat 6 Dec 10:00am</title>
+  <programme start="20251209000000 -0500" channel="04. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)" stop="20251209235959 -0500">
+    <title>12:45 PM - 04. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="National League 07 | Scunthorpe vs Tamworth // UK Sat 6 Dec 5:30pm // ET Sat 6 Dec 12:30pm" stop="20251209235959 -0500">
-    <title>12:30 PM - National League 07 | Scunthorpe vs Tamworth // UK Sat 6 Dec 5:30pm // ET Sat 6 Dec 12:30pm</title>
+  <programme start="20251209000000 -0500" channel="05. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)" stop="20251209235959 -0500">
+    <title>12:45 PM - 05. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="01. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)" stop="20251209235959 -0500">
-    <title>01:00 PM - 01. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="06. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)" stop="20251209235959 -0500">
+    <title>12:45 PM - 06. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="02. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)" stop="20251209235959 -0500">
-    <title>01:00 PM - 02. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="07. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)" stop="20251209235959 -0500">
+    <title>12:45 PM - 07. UEFA CL | Bayern Munich vs Sporting (Tue 17:45 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="03. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)" stop="20251209235959 -0500">
-    <title>01:00 PM - 03. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="08. UEFA CL | Goals Show (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 08. UEFA CL | Goals Show (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="04. Freestyle Skiing | Ruka (Mon 14:15 UK)" stop="20251209235959 -0500">
-    <title>09:15 AM - 04. Freestyle Skiing | Ruka (Mon 14:15 UK)</title>
+  <programme start="20251209000000 -0500" channel="09. UEFA CL | Goals Show (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 09. UEFA CL | Goals Show (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="03. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)" stop="20251209235959 -0500">
-    <title>01:30 PM - 03. Emirates FA Cup | Third Round Draw (Mon 18:30 UK)</title>
+  <programme start="20251209000000 -0500" channel="10. UEFA CL | Goals Show (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 10. UEFA CL | Goals Show (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="04. Emirates FA Cup | Brackley vs Burton (Mon 19:30 UK)" stop="20251209235959 -0500">
-    <title>02:30 PM - 04. Emirates FA Cup | Brackley vs Burton (Mon 19:30 UK)</title>
+  <programme start="20251209000000 -0500" channel="11. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 11. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="05. Emirates FA Cup | Brackley vs Burton (Mon 19:30 UK)" stop="20251209235959 -0500">
-    <title>02:30 PM - 05. Emirates FA Cup | Brackley vs Burton (Mon 19:30 UK)</title>
+  <programme start="20251209000000 -0500" channel="12. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 12. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="06. Serie A | Pisa vs Parma (Mon 14:00 UK)" stop="20251209235959 -0500">
-    <title>09:00 AM - 06. Serie A | Pisa vs Parma (Mon 14:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="13. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 13. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="07. Serie A | Pisa vs Parma (Mon 14:00 UK)" stop="20251209235959 -0500">
-    <title>09:00 AM - 07. Serie A | Pisa vs Parma (Mon 14:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="14. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 14. UEFA CL | Inter Milan vs Liverpool (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="08. Serie A | Udinese vs Genoa (Mon 17:00 UK)" stop="20251209235959 -0500">
-    <title>12:00 PM - 08. Serie A | Udinese vs Genoa (Mon 17:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="15. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 15. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="09. Serie A | Udinese vs Genoa (Mon 17:00 UK)" stop="20251209235959 -0500">
-    <title>12:00 PM - 09. Serie A | Udinese vs Genoa (Mon 17:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="16. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 16. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="10. Serie A | Torino vs AC Milan (Mon 19:45 UK)" stop="20251209235959 -0500">
-    <title>02:45 PM - 10. Serie A | Torino vs AC Milan (Mon 19:45 UK)</title>
+  <programme start="20251209000000 -0500" channel="17. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 17. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="11. Serie A | Torino vs AC Milan (Mon 19:45 UK)" stop="20251209235959 -0500">
-    <title>02:45 PM - 11. Serie A | Torino vs AC Milan (Mon 19:45 UK)</title>
+  <programme start="20251209000000 -0500" channel="18. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 18. UEFA CL | Tottenham vs Slavia Prague (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="12. Football | Baller League (Mon 17:15 UK)" stop="20251209235959 -0500">
-    <title>12:15 PM - 12. Football | Baller League (Mon 17:15 UK)</title>
+  <programme start="20251209000000 -0500" channel="19. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 19. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="13. Argentina Primera Division | Gimnasia vs Estudiantes (Mon 20:00 UK)" stop="20251209235959 -0500">
-    <title>03:00 PM - 13. Argentina Primera Division | Gimnasia vs Estudiantes (Mon 20:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="20. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 20. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="14. Argentina Primera Division | Gimnasia vs Estudiantes (Mon 20:00 UK)" stop="20251209235959 -0500">
-    <title>03:00 PM - 14. Argentina Primera Division | Gimnasia vs Estudiantes (Mon 20:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="21. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 21. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="15. Turkish Super Lig | Goztepe vs Trabzonspor (Mon 17:00 UK)" stop="20251209235959 -0500">
-    <title>12:00 PM - 15. Turkish Super Lig | Goztepe vs Trabzonspor (Mon 17:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="22. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 22. UEFA CL | Atalanta vs Chelsea (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="16. Turkish Super Lig | Goztepe vs Trabzonspor (Mon 17:00 UK)" stop="20251209235959 -0500">
-    <title>12:00 PM - 16. Turkish Super Lig | Goztepe vs Trabzonspor (Mon 17:00 UK)</title>
+  <programme start="20251209000000 -0500" channel="23. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 23. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="24. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 24. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="25. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 25. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="26. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 26. UEFA CL | Barcelona vs Frankfurt (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="27. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 27. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="28. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 28. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="29. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 29. UEFA CL | PSV vs Atletico Madrid (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="30. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 30. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="31. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 31. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="32. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 32. UEFA CL | Monaco vs Galatasaray (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="33. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 33. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="34. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 34. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="35. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)" stop="20251209235959 -0500">
+    <title>03:00 PM - 35. UEFA CL | Union SG vs Marseille (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -4053,24 +4403,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="Fite TV 2 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: Desert Vipers vs Gulf Giants - Mon,08 Dec 09:30 EST" stop="20251209235959 -0500">
-    <title>04:30 AM - Fite TV 2 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: Desert Vipers vs Gulf Giants - Mon,08 Dec 09:30 EST</title>
+  <programme start="20251209000000 -0500" channel="Fite TV 2 HD (D): TrillerTV-Willow by Cricbuzz South Africa Tour &#208;&#190;f India 2025 1st &#208;&#162;20I - Tue,09 Dec 08:30 EST" stop="20251209235959 -0500">
+    <title>03:30 AM - Fite TV 2 HD (D): TrillerTV-Willow by Cricbuzz South Africa Tour &#208;&#190;f India 2025 1st &#208;&#162;20I - Tue,09 Dec 08:30 EST</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="Fite TV 3 HD (D): TrillerTV-Willow by Cricbuzz South Africa Tour &#208;&#190;f India 2025 1st &#208;&#162;20I - Tue,09 Dec 08:30 EST" stop="20251209235959 -0500">
-    <title>03:30 AM - Fite TV 3 HD (D): TrillerTV-Willow by Cricbuzz South Africa Tour &#208;&#190;f India 2025 1st &#208;&#162;20I - Tue,09 Dec 08:30 EST</title>
+  <programme start="20251209000000 -0500" channel="Fite TV 3 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: MI Emirates vs Desert Vipers - Tue,09 Dec 09:30 EST" stop="20251209235959 -0500">
+    <title>04:30 AM - Fite TV 3 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: MI Emirates vs Desert Vipers - Tue,09 Dec 09:30 EST</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="Fite TV 4 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: MI Emirates vs Desert Vipers - Tue,09 Dec 09:30 EST" stop="20251209235959 -0500">
-    <title>04:30 AM - Fite TV 4 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: MI Emirates vs Desert Vipers - Tue,09 Dec 09:30 EST</title>
+  <programme start="20251209000000 -0500" channel="Fite TV 4 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 128 - Tue,09 Dec 12:05 EST" stop="20251209235959 -0500">
+    <title>07:05 AM - Fite TV 4 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 128 - Tue,09 Dec 12:05 EST</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -4109,32 +4459,32 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="Fite TV 9 HD (D): TrillerTV-Xtreme Fighting League XFN 405 - Fri,12 Dec 21:00 EST" stop="20251209235959 -0500">
-    <title>04:00 PM - Fite TV 9 HD (D): TrillerTV-Xtreme Fighting League XFN 405 - Fri,12 Dec 21:00 EST</title>
+  <programme start="20251209000000 -0500" channel="Fite TV 9 HD (D): TrillerTV-Pro Wrestling Revolution Pro Wrestling Revolution: Lucha Libre - San Jose, December 2025 (en Espa&#195;&#177;ol) - Fri,12 Dec 19:00 EST" stop="20251209235959 -0500">
+    <title>02:00 PM - Fite TV 9 HD (D): TrillerTV-Pro Wrestling Revolution Pro Wrestling Revolution: Lucha Libre - San Jose, December 2025 (en Espa&#195;&#177;ol) - Fri,12 Dec 19:00 EST</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="Fite TV 10 HD (D): TrillerTV-Willow by Cricbuzz Ireland Women Tour of South Africa 2025, 1st ODI - Sat,13 Dec 03:00 EST" stop="20251209235959 -0500">
-    <title>10:00 PM - Fite TV 10 HD (D): TrillerTV-Willow by Cricbuzz Ireland Women Tour of South Africa 2025, 1st ODI - Sat,13 Dec 03:00 EST</title>
+  <programme start="20251209000000 -0500" channel="Fite TV 10 HD (D): TrillerTV-Xtreme Fighting League XFN 405 - Fri,12 Dec 21:00 EST" stop="20251209235959 -0500">
+    <title>04:00 PM - Fite TV 10 HD (D): TrillerTV-Xtreme Fighting League XFN 405 - Fri,12 Dec 21:00 EST</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="Fite TV 11 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Wahda vs Al Jazira - Sat,13 Dec 07:40 EST" stop="20251209235959 -0500">
-    <title>02:40 AM - Fite TV 11 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Wahda vs Al Jazira - Sat,13 Dec 07:40 EST</title>
+  <programme start="20251209000000 -0500" channel="Fite TV 11 HD (D): TrillerTV-Willow by Cricbuzz Ireland Women Tour of South Africa 2025, 1st ODI - Sat,13 Dec 03:00 EST" stop="20251209235959 -0500">
+    <title>10:00 PM - Fite TV 11 HD (D): TrillerTV-Willow by Cricbuzz Ireland Women Tour of South Africa 2025, 1st ODI - Sat,13 Dec 03:00 EST</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="Fite TV 12 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Ain vs Al Nasr - Sat,13 Dec 10:20 EST" stop="20251209235959 -0500">
-    <title>05:20 AM - Fite TV 12 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Ain vs Al Nasr - Sat,13 Dec 10:20 EST</title>
+  <programme start="20251209000000 -0500" channel="Fite TV 12 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Wahda vs Al Jazira - Sat,13 Dec 07:40 EST" stop="20251209235959 -0500">
+    <title>02:40 AM - Fite TV 12 HD (D): TrillerTV-UAE Pro League ADIB Cup 2025/26: Al Wahda vs Al Jazira - Sat,13 Dec 07:40 EST</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -4213,24 +4563,48 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="06. ILT20 | Vipers vs Giants (Mon 14:30 UK)" stop="20251209235959 -0500">
-    <title>09:30 AM - 06. ILT20 | Vipers vs Giants (Mon 14:30 UK)</title>
+  <programme start="20251209000000 -0500" channel="06. ILT20 | Emirates vs Vipers (Tue 14:30 UK)" stop="20251209235959 -0500">
+    <title>09:30 AM - 06. ILT20 | Emirates vs Vipers (Tue 14:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="07. ILT20 | Vipers vs Giants (Mon 14:30 UK)" stop="20251209235959 -0500">
-    <title>09:30 AM - 07. ILT20 | Vipers vs Giants (Mon 14:30 UK)</title>
+  <programme start="20251209000000 -0500" channel="07. ILT20 | Emirates vs Vipers (Tue 14:30 UK)" stop="20251209235959 -0500">
+    <title>09:30 AM - 07. ILT20 | Emirates vs Vipers (Tue 14:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251209000000 -0500" channel="08. ILT20 | Vipers vs Giants (Mon 14:30 UK)" stop="20251209235959 -0500">
-    <title>09:30 AM - 08. ILT20 | Vipers vs Giants (Mon 14:30 UK)</title>
+  <programme start="20251209000000 -0500" channel="08. 2nd Test | New Zealand vs West Indies (Tue-Sat 22:00 UK)" stop="20251209235959 -0500">
+    <title>05:00 PM - 08. 2nd Test | New Zealand vs West Indies (Tue-Sat 22:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="09. 2nd Test | New Zealand vs West Indies (Tue-Sat 22:00 UK)" stop="20251209235959 -0500">
+    <title>05:00 PM - 09. 2nd Test | New Zealand vs West Indies (Tue-Sat 22:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="10. 1st T20i | India vs South Africa (Tue 13:30 UK)" stop="20251209235959 -0500">
+    <title>08:30 AM - 10. 1st T20i | India vs South Africa (Tue 13:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251209000000 -0500" channel="11. 1st T20i | India vs South Africa (Tue 13:30 UK)" stop="20251209235959 -0500">
+    <title>08:30 AM - 11. 1st T20i | India vs South Africa (Tue 13:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
