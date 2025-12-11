@@ -516,6 +516,10 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="CBS Sports Golazo Show - 12:45 PM ET / 10:45 AM MT / 17:45 UK">
+    <display-name lang="en">CBS Sports Golazo Show - 12:45 PM ET / 10:45 AM MT / 17:45 UK</display-name>
+    <display-name lang="en">CBS Sports Golazo Show [LIVE]</display-name>
+  </channel>
   <programme start="20251211201500 -0500" channel="Atlanta Falcons vs. Tampa Bay Buccaneers - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251211234500 -0500">
     <title>Atlanta Falcons vs. Tampa Bay Buccaneers (Prime Video)</title>
     <date>2025</date>
@@ -2574,6 +2578,22 @@
   </programme>
   <programme start="20251211122411 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825010000 -0500">
     <title>Next event: 25 Aug 01:00 AM - Master stream test (South Park/PPV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251211124500 -0500" channel="CBS Sports Golazo Show - 12:45 PM ET / 10:45 AM MT / 17:45 UK" stop="20251211184500 -0500">
+    <title>CBS Sports Golazo Show (Champions League)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251211160103 -0500" channel="CBS Sports Golazo Show - 12:45 PM ET / 10:45 AM MT / 17:45 UK" stop="20251211124500 -0500">
+    <title>Next event: 11 Dec 12:45 PM - CBS Sports Golazo Show (Champions League)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
