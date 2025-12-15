@@ -220,6 +220,34 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK">
+    <display-name lang="en">World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK</display-name>
+    <display-name lang="en">World Darts Championship [LIVE]</display-name>
+  </channel>
+  <channel id="WWE: Monday Night RAW - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">WWE: Monday Night RAW - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">WWE: Monday Night RAW [LIVE]</display-name>
+  </channel>
+  <channel id="WWE: NXT - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">WWE: NXT - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">WWE: NXT [LIVE]</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">AEW: Wednesday Night Dynamite [LIVE]</display-name>
+  </channel>
+  <channel id="TNA: Impact - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">TNA: Impact - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">TNA: Impact [LIVE]</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">WWE: Friday Night Smackdown [LIVE]</display-name>
+  </channel>
+  <channel id="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">AEW: Saturday Night Collision [LIVE]</display-name>
+  </channel>
   <programme start="20251215201500 -0500" channel="Miami Dolphins vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251215234500 -0500">
     <title>Miami Dolphins vs. Pittsburgh Steelers (ESPN)</title>
     <date>2025</date>
@@ -1094,6 +1122,118 @@
   </programme>
   <programme start="20251215010102 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825010000 -0500">
     <title>Next event: 25 Aug 01:00 AM - Master stream test (South Park/PPV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251215073000 -0500" channel="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251215183000 -0500">
+    <title>World Darts Championship (PDC Darts)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251215060103 -0500" channel="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251215073000 -0500">
+    <title>Next event: 15 Dec 07:30 AM - World Darts Championship (PDC Darts)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251215200000 -0500" channel="WWE: Monday Night RAW - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251215230000 -0500">
+    <title>WWE: Monday Night RAW (Netflix)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251215060103 -0500" channel="WWE: Monday Night RAW - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251215200000 -0500">
+    <title>Next event: 15 Dec 08:00 PM - WWE: Monday Night RAW (Netflix)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251216200000 -0500" channel="WWE: NXT - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251216230000 -0500">
+    <title>WWE: NXT (Netflix)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251215060103 -0500" channel="WWE: NXT - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251216200000 -0500">
+    <title>Next event: 16 Dec 08:00 PM - WWE: NXT (Netflix)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251217200000 -0500" channel="AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251217230000 -0500">
+    <title>AEW: Wednesday Night Dynamite (TBS)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251215060103 -0500" channel="AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251217200000 -0500">
+    <title>Next event: 17 Dec 08:00 PM - AEW: Wednesday Night Dynamite (TBS)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251218200000 -0500" channel="TNA: Impact - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251218230000 -0500">
+    <title>TNA: Impact (AXS TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251215060103 -0500" channel="TNA: Impact - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251218200000 -0500">
+    <title>Next event: 18 Dec 08:00 PM - TNA: Impact (AXS TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251219200000 -0500" channel="WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251219230000 -0500">
+    <title>WWE: Friday Night Smackdown (USA Network)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251215060103 -0500" channel="WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251219200000 -0500">
+    <title>Next event: 19 Dec 08:00 PM - WWE: Friday Night Smackdown (USA Network)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251220200000 -0500" channel="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251220230000 -0500">
+    <title>AEW: Saturday Night Collision (TNT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251215060103 -0500" channel="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251220200000 -0500">
+    <title>Next event: 20 Dec 08:00 PM - AEW: Saturday Night Collision (TNT)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
