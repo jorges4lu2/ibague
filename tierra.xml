@@ -296,6 +296,14 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="IPL Auction 2026 - 04:00 AM ET / 02:00 AM MT / 09:00 UK">
+    <display-name lang="en">IPL Auction 2026 - 04:00 AM ET / 02:00 AM MT / 09:00 UK</display-name>
+    <display-name lang="en">IPL Auction 2026 [LIVE]</display-name>
+  </channel>
+  <channel id="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK">
+    <display-name lang="en">World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK</display-name>
+    <display-name lang="en">World Darts Championship [LIVE]</display-name>
+  </channel>
   <programme start="20251218201500 -0500" channel="Los Angeles Rams vs. Seattle Seahawks - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251218234500 -0500">
     <title>Los Angeles Rams vs. Seattle Seahawks (Prime Video)</title>
     <date>2025</date>
@@ -1474,6 +1482,38 @@
   </programme>
   <programme start="20251216010102 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825010000 -0500">
     <title>Next event: 25 Aug 01:00 AM - Master stream test (South Park/PPV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251216040000 -0500" channel="IPL Auction 2026 - 04:00 AM ET / 02:00 AM MT / 09:00 UK" stop="20251216110000 -0500">
+    <title>IPL Auction 2026 (Sky Sport 3 NZ)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251216050102 -0500" channel="IPL Auction 2026 - 04:00 AM ET / 02:00 AM MT / 09:00 UK" stop="20251216040000 -0500">
+    <title>Next event: 16 Dec 04:00 AM - IPL Auction 2026 (Sky Sport 3 NZ)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251216073000 -0500" channel="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251216183000 -0500">
+    <title>World Darts Championship (PDC Darts)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251216050102 -0500" channel="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251216073000 -0500">
+    <title>Next event: 16 Dec 07:30 AM - World Darts Championship (PDC Darts)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
