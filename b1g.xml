@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251216 -0500">
+  <channel id="Hockey: Oilers at Penguins @ Dec 16 19:00 PM :MAX US 01">
+    <display-name lang="en">Hockey: Oilers at Penguins @ Dec 16 19:00 PM :MAX US 01</display-name>
+  </channel>
+  <channel id="Hockey: Avalanche at Kraken @ Dec 16 22:00 PM :MAX US 02">
+    <display-name lang="en">Hockey: Avalanche at Kraken @ Dec 16 22:00 PM :MAX US 02</display-name>
+  </channel>
   <channel id="Serie A: Roma vs Como @ Dec 15 2:30 PM :Paramount+  01">
     <display-name lang="en">Serie A: Roma vs Como @ Dec 15 2:30 PM :Paramount+  01</display-name>
   </channel>
@@ -63,11 +69,11 @@
   <channel id="MLB 16 | Marlins x Rockies start:2025-09-17 01:40:00 stop:2025-09-17 08:53:20">
     <display-name lang="en">MLB 16 | Marlins x Rockies start:2025-09-17 01:40:00 stop:2025-09-17 08:53:20</display-name>
   </channel>
-  <channel id="01. Serie A | AS Roma vs Como (Mon 19:45 UK)">
-    <display-name lang="en">01. Serie A | AS Roma vs Como (Mon 19:45 UK)</display-name>
+  <channel id="01. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)">
+    <display-name lang="en">01. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="02. Serie A | AS Roma vs Como (Mon 19:45 UK)">
-    <display-name lang="en">02. Serie A | AS Roma vs Como (Mon 19:45 UK)</display-name>
+  <channel id="02. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)">
+    <display-name lang="en">02. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)</display-name>
   </channel>
   <channel id="USA | NHL Game 00&#9447;: Nashville Predators vs New York Rangers | Mon Nov 10th 7:00 PM ET">
     <display-name lang="en">USA | NHL Game 00&#9447;: Nashville Predators vs New York Rangers | Mon Nov 10th 7:00 PM ET</display-name>
@@ -362,12 +368,6 @@
   </channel>
   <channel id="Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm">
     <display-name lang="en">Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm</display-name>
-  </channel>
-  <channel id="A.F.C BOURNEMOUTH (Mon 20:00 UK)">
-    <display-name lang="en">A.F.C BOURNEMOUTH (Mon 20:00 UK)</display-name>
-  </channel>
-  <channel id="MANCHESTER UNITED F.C (Mon 20:00 UK)">
-    <display-name lang="en">MANCHESTER UNITED F.C (Mon 20:00 UK)</display-name>
   </channel>
   <channel id="11. EPL 03 | Burnley vs Fulham (Sat 17:30 UK)">
     <display-name lang="en">11. EPL 03 | Burnley vs Fulham (Sat 17:30 UK)</display-name>
@@ -996,62 +996,65 @@
   <channel id="Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm">
     <display-name lang="en">Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm</display-name>
   </channel>
-  <channel id="01. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)">
-    <display-name lang="en">01. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</display-name>
+  <channel id="01. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)">
+    <display-name lang="en">01. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</display-name>
   </channel>
-  <channel id="02. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)">
-    <display-name lang="en">02. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</display-name>
+  <channel id="02. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)">
+    <display-name lang="en">02. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</display-name>
   </channel>
-  <channel id="03. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)">
-    <display-name lang="en">03. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</display-name>
+  <channel id="03. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)">
+    <display-name lang="en">03. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</display-name>
   </channel>
-  <channel id="04. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)">
-    <display-name lang="en">04. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</display-name>
+  <channel id="04. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)">
+    <display-name lang="en">04. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</display-name>
   </channel>
-  <channel id="05. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)">
-    <display-name lang="en">05. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</display-name>
+  <channel id="05. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)">
+    <display-name lang="en">05. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</display-name>
   </channel>
-  <channel id="06. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)">
-    <display-name lang="en">06. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</display-name>
+  <channel id="06. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)">
+    <display-name lang="en">06. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</display-name>
   </channel>
-  <channel id="07. WST | Scottish Open (Mon 13:00 UK)">
-    <display-name lang="en">07. WST | Scottish Open (Mon 13:00 UK)</display-name>
+  <channel id="07. WST | Scottish Open (Tue 13:00 UK)">
+    <display-name lang="en">07. WST | Scottish Open (Tue 13:00 UK)</display-name>
   </channel>
-  <channel id="08. WST | Scottish Open (Mon 13:00 UK)">
-    <display-name lang="en">08. WST | Scottish Open (Mon 13:00 UK)</display-name>
+  <channel id="08. WST | Scottish Open (Tue 13:00 UK)">
+    <display-name lang="en">08. WST | Scottish Open (Tue 13:00 UK)</display-name>
   </channel>
-  <channel id="09. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)">
-    <display-name lang="en">09. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</display-name>
+  <channel id="09. Tennis | Scotland Open Tour (Tue 09:30 UK)">
+    <display-name lang="en">09. Tennis | Scotland Open Tour (Tue 09:30 UK)</display-name>
   </channel>
-  <channel id="10. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)">
-    <display-name lang="en">10. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</display-name>
+  <channel id="10. Tennis | Scotland Open Tour (Tue 09:30 UK)">
+    <display-name lang="en">10. Tennis | Scotland Open Tour (Tue 09:30 UK)</display-name>
   </channel>
-  <channel id="11. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)">
-    <display-name lang="en">11. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</display-name>
+  <channel id="11. Badminton | World Tour Finals (Wed 01:30 UK)">
+    <display-name lang="en">11. Badminton | World Tour Finals (Wed 01:30 UK)</display-name>
   </channel>
-  <channel id="12. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)">
-    <display-name lang="en">12. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</display-name>
+  <channel id="12. Badminton | World Tour Finals (Wed 01:30 UK)">
+    <display-name lang="en">12. Badminton | World Tour Finals (Wed 01:30 UK)</display-name>
   </channel>
-  <channel id="25. Cross Country Skiing | Davos (Sun 12:30 UK)">
-    <display-name lang="en">25. Cross Country Skiing | Davos (Sun 12:30 UK)</display-name>
+  <channel id="13. Badminton | World Tour Finals (Wed 01:30 UK)">
+    <display-name lang="en">13. Badminton | World Tour Finals (Wed 01:30 UK)</display-name>
   </channel>
-  <channel id="03. Super Lig | Fenerbahce vs Konyaspor (Mon 17:00 UK)">
-    <display-name lang="en">03. Super Lig | Fenerbahce vs Konyaspor (Mon 17:00 UK)</display-name>
+  <channel id="14. Alpine Skiing | Courchevel (Tue 16:30/19:15 UK)">
+    <display-name lang="en">14. Alpine Skiing | Courchevel (Tue 16:30/19:15 UK)</display-name>
   </channel>
-  <channel id="04. Super Lig | Fenerbahce vs Konyaspor (Mon 17:00 UK)">
-    <display-name lang="en">04. Super Lig | Fenerbahce vs Konyaspor (Mon 17:00 UK)</display-name>
+  <channel id="15. Freestyle Skiing | Arosa (Tue 18:00 UK)">
+    <display-name lang="en">15. Freestyle Skiing | Arosa (Tue 18:00 UK)</display-name>
   </channel>
-  <channel id="05. FIFA Arab Cup | Morocco v UAE (Mon 14:30 UK)">
-    <display-name lang="en">05. FIFA Arab Cup | Morocco v UAE (Mon 14:30 UK)</display-name>
+  <channel id="03. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)">
+    <display-name lang="en">03. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="06. FIFA Arab Cup | Saudi Arabia vs Jordan (Mon 14:30 UK)">
-    <display-name lang="en">06. FIFA Arab Cup | Saudi Arabia vs Jordan (Mon 14:30 UK)</display-name>
+  <channel id="04. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)">
+    <display-name lang="en">04. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="07. Football | Baller League (Mon 17:15 UK)">
-    <display-name lang="en">07. Football | Baller League (Mon 17:15 UK)</display-name>
+  <channel id="05. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)">
+    <display-name lang="en">05. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="08. Liga Portugal | Porto vs Estrela (Mon 20:45 UK)">
-    <display-name lang="en">08. Liga Portugal | Porto vs Estrela (Mon 20:45 UK)</display-name>
+  <channel id="06. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)">
+    <display-name lang="en">06. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)</display-name>
+  </channel>
+  <channel id="07. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)">
+    <display-name lang="en">07. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)</display-name>
   </channel>
   <channel id="UFC Vegas 122: Brandon Royval vs. Manel Kape (Sun 03:00 UK)">
     <display-name lang="en">UFC Vegas 122: Brandon Royval vs. Manel Kape (Sun 03:00 UK)</display-name>
@@ -1332,6 +1335,22 @@
   <channel id="CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM">
     <display-name lang="en">CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM</display-name>
   </channel>
+  <programme start="20251216000000 -0500" channel="Hockey: Oilers at Penguins @ Dec 16 19:00 PM :MAX US 01" stop="20251216235959 -0500">
+    <title>08:00 PM - Hockey: Oilers at Penguins @ Dec 16 19:00 PM :MAX US 01</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251216000000 -0500" channel="Hockey: Avalanche at Kraken @ Dec 16 22:00 PM :MAX US 02" stop="20251216235959 -0500">
+    <title>01:00 PM - Hockey: Avalanche at Kraken @ Dec 16 22:00 PM :MAX US 02</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251216000000 -0500" channel="Serie A: Roma vs Como @ Dec 15 2:30 PM :Paramount+  01" stop="20251216235959 -0500">
     <title>01:30 PM - Serie A: Roma vs Como @ Dec 15 2:30 PM :Paramount+  01</title>
     <date>2025</date>
@@ -1500,16 +1519,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="01. Serie A | AS Roma vs Como (Mon 19:45 UK)" stop="20251216235959 -0500">
-    <title>02:45 PM - 01. Serie A | AS Roma vs Como (Mon 19:45 UK)</title>
+  <programme start="20251216000000 -0500" channel="01. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)" stop="20251216235959 -0500">
+    <title>03:00 PM - 01. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="02. Serie A | AS Roma vs Como (Mon 19:45 UK)" stop="20251216235959 -0500">
-    <title>02:45 PM - 02. Serie A | AS Roma vs Como (Mon 19:45 UK)</title>
+  <programme start="20251216000000 -0500" channel="02. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)" stop="20251216235959 -0500">
+    <title>03:00 PM - 02. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -2294,22 +2313,6 @@
   </programme>
   <programme start="20251216000000 -0500" channel="Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm" stop="20251216235959 -0500">
     <title>02:00 PM - Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251216000000 -0500" channel="A.F.C BOURNEMOUTH (Mon 20:00 UK)" stop="20251216235959 -0500">
-    <title>03:00 PM - A.F.C BOURNEMOUTH (Mon 20:00 UK)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251216000000 -0500" channel="MANCHESTER UNITED F.C (Mon 20:00 UK)" stop="20251216235959 -0500">
-    <title>03:00 PM - MANCHESTER UNITED F.C (Mon 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -3988,152 +3991,160 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="01. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)" stop="20251216235959 -0500">
-    <title>02:00 PM - 01. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="01. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)" stop="20251216235959 -0500">
+    <title>02:00 PM - 01. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="02. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)" stop="20251216235959 -0500">
-    <title>02:00 PM - 02. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="02. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)" stop="20251216235959 -0500">
+    <title>02:00 PM - 02. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="03. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)" stop="20251216235959 -0500">
-    <title>02:00 PM - 03. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="03. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)" stop="20251216235959 -0500">
+    <title>02:00 PM - 03. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="04. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)" stop="20251216235959 -0500">
-    <title>02:00 PM - 04. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="04. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)" stop="20251216235959 -0500">
+    <title>02:00 PM - 04. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="05. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)" stop="20251216235959 -0500">
-    <title>02:00 PM - 05. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="05. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)" stop="20251216235959 -0500">
+    <title>02:00 PM - 05. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="06. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)" stop="20251216235959 -0500">
-    <title>02:00 PM - 06. Darts | World Darts Championship 2025 (Mon 12:30/19:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="06. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)" stop="20251216235959 -0500">
+    <title>02:00 PM - 06. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="07. WST | Scottish Open (Mon 13:00 UK)" stop="20251216235959 -0500">
-    <title>08:00 AM - 07. WST | Scottish Open (Mon 13:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="07. WST | Scottish Open (Tue 13:00 UK)" stop="20251216235959 -0500">
+    <title>08:00 AM - 07. WST | Scottish Open (Tue 13:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="08. WST | Scottish Open (Mon 13:00 UK)" stop="20251216235959 -0500">
-    <title>08:00 AM - 08. WST | Scottish Open (Mon 13:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="08. WST | Scottish Open (Tue 13:00 UK)" stop="20251216235959 -0500">
+    <title>08:00 AM - 08. WST | Scottish Open (Tue 13:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="09. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)" stop="20251216235959 -0500">
-    <title>01:00 PM - 09. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="09. Tennis | Scotland Open Tour (Tue 09:30 UK)" stop="20251216235959 -0500">
+    <title>04:30 AM - 09. Tennis | Scotland Open Tour (Tue 09:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="10. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)" stop="20251216235959 -0500">
-    <title>01:00 PM - 10. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="10. Tennis | Scotland Open Tour (Tue 09:30 UK)" stop="20251216235959 -0500">
+    <title>04:30 AM - 10. Tennis | Scotland Open Tour (Tue 09:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="11. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)" stop="20251216235959 -0500">
-    <title>01:00 PM - 11. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="11. Badminton | World Tour Finals (Wed 01:30 UK)" stop="20251216235959 -0500">
+    <title>08:30 PM - 11. Badminton | World Tour Finals (Wed 01:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="12. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)" stop="20251216235959 -0500">
-    <title>01:00 PM - 12. Ultimate Pool | Mixed Pairs Cup (Mon 18:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="12. Badminton | World Tour Finals (Wed 01:30 UK)" stop="20251216235959 -0500">
+    <title>08:30 PM - 12. Badminton | World Tour Finals (Wed 01:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="25. Cross Country Skiing | Davos (Sun 12:30 UK)" stop="20251216235959 -0500">
-    <title>07:30 AM - 25. Cross Country Skiing | Davos (Sun 12:30 UK)</title>
+  <programme start="20251216000000 -0500" channel="13. Badminton | World Tour Finals (Wed 01:30 UK)" stop="20251216235959 -0500">
+    <title>08:30 PM - 13. Badminton | World Tour Finals (Wed 01:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="03. Super Lig | Fenerbahce vs Konyaspor (Mon 17:00 UK)" stop="20251216235959 -0500">
-    <title>12:00 PM - 03. Super Lig | Fenerbahce vs Konyaspor (Mon 17:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="14. Alpine Skiing | Courchevel (Tue 16:30/19:15 UK)" stop="20251216235959 -0500">
+    <title>02:15 PM - 14. Alpine Skiing | Courchevel (Tue 16:30/19:15 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="04. Super Lig | Fenerbahce vs Konyaspor (Mon 17:00 UK)" stop="20251216235959 -0500">
-    <title>12:00 PM - 04. Super Lig | Fenerbahce vs Konyaspor (Mon 17:00 UK)</title>
+  <programme start="20251216000000 -0500" channel="15. Freestyle Skiing | Arosa (Tue 18:00 UK)" stop="20251216235959 -0500">
+    <title>01:00 PM - 15. Freestyle Skiing | Arosa (Tue 18:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="05. FIFA Arab Cup | Morocco v UAE (Mon 14:30 UK)" stop="20251216235959 -0500">
-    <title>09:30 AM - 05. FIFA Arab Cup | Morocco v UAE (Mon 14:30 UK)</title>
+  <programme start="20251216000000 -0500" channel="03. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)" stop="20251216235959 -0500">
+    <title>03:00 PM - 03. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="06. FIFA Arab Cup | Saudi Arabia vs Jordan (Mon 14:30 UK)" stop="20251216235959 -0500">
-    <title>09:30 AM - 06. FIFA Arab Cup | Saudi Arabia vs Jordan (Mon 14:30 UK)</title>
+  <programme start="20251216000000 -0500" channel="04. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)" stop="20251216235959 -0500">
+    <title>03:00 PM - 04. Carabao Cup | Cardiff vs Chelsea (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="07. Football | Baller League (Mon 17:15 UK)" stop="20251216235959 -0500">
-    <title>12:15 PM - 07. Football | Baller League (Mon 17:15 UK)</title>
+  <programme start="20251216000000 -0500" channel="05. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)" stop="20251216235959 -0500">
+    <title>03:00 PM - 05. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="08. Liga Portugal | Porto vs Estrela (Mon 20:45 UK)" stop="20251216235959 -0500">
-    <title>03:45 PM - 08. Liga Portugal | Porto vs Estrela (Mon 20:45 UK)</title>
+  <programme start="20251216000000 -0500" channel="06. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)" stop="20251216235959 -0500">
+    <title>03:00 PM - 06. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251216000000 -0500" channel="07. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)" stop="20251216235959 -0500">
+    <title>03:00 PM - 07. Copa del Rey | Guadalajara vs Barcelona (Tue 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
