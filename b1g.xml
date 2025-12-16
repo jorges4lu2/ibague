@@ -6,11 +6,8 @@
   <channel id="Hockey: Avalanche at Kraken @ Dec 16 22:00 PM :MAX US 02">
     <display-name lang="en">Hockey: Avalanche at Kraken @ Dec 16 22:00 PM :MAX US 02</display-name>
   </channel>
-  <channel id="Serie A: Roma vs Como @ Dec 15 2:30 PM :Paramount+  01">
-    <display-name lang="en">Serie A: Roma vs Como @ Dec 15 2:30 PM :Paramount+  01</display-name>
-  </channel>
-  <channel id="English Football League: Sheffield Wednesday vs Derby County @ Dec 15 2:50 PM :Paramount+  02">
-    <display-name lang="en">English Football League: Sheffield Wednesday vs Derby County @ Dec 15 2:50 PM :Paramount+  02</display-name>
+  <channel id="Carabao Cup: Cardiff City vs Chelsea @ Dec 16 2:30 PM :Paramount+  01">
+    <display-name lang="en">Carabao Cup: Cardiff City vs Chelsea @ Dec 16 2:30 PM :Paramount+  01</display-name>
   </channel>
   <channel id="Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM">
     <display-name lang="en">Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM</display-name>
@@ -131,12 +128,6 @@
   </channel>
   <channel id="WSL 06 | Manchester United vs Totttenham (Sun 14:30 UK)">
     <display-name lang="en">WSL 06 | Manchester United vs Totttenham (Sun 14:30 UK)</display-name>
-  </channel>
-  <channel id="RAYO VALLECANO (Mon 20:00 UK)">
-    <display-name lang="en">RAYO VALLECANO (Mon 20:00 UK)</display-name>
-  </channel>
-  <channel id="REAL BETIS (Mon 20:00 UK)">
-    <display-name lang="en">REAL BETIS (Mon 20:00 UK)</display-name>
   </channel>
   <channel id="01. EPL | Goal Rush Match Day # 16 (Sun 14:00 UK)">
     <display-name lang="en">01. EPL | Goal Rush Match Day # 16 (Sun 14:00 UK)</display-name>
@@ -996,6 +987,12 @@
   <channel id="Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm">
     <display-name lang="en">Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm</display-name>
   </channel>
+  <channel id="National League 01 | Dorking vs WestonsuperMare // UK Tue 16 Dec 7:45pm // ET Tue 16 Dec 2:45pm">
+    <display-name lang="en">National League 01 | Dorking vs WestonsuperMare // UK Tue 16 Dec 7:45pm // ET Tue 16 Dec 2:45pm</display-name>
+  </channel>
+  <channel id="National League 02 | Truro vs Wealdstone // UK Tue 16 Dec 7:45pm // ET Tue 16 Dec 2:45pm">
+    <display-name lang="en">National League 02 | Truro vs Wealdstone // UK Tue 16 Dec 7:45pm // ET Tue 16 Dec 2:45pm</display-name>
+  </channel>
   <channel id="01. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)">
     <display-name lang="en">01. Darts | World Darts Championship 2025 (Tue 12:30/19:00 UK)</display-name>
   </channel>
@@ -1357,16 +1354,8 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251216000000 -0500" channel="Serie A: Roma vs Como @ Dec 15 2:30 PM :Paramount+  01" stop="20251216235959 -0500">
-    <title>01:30 PM - Serie A: Roma vs Como @ Dec 15 2:30 PM :Paramount+  01</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251216000000 -0500" channel="English Football League: Sheffield Wednesday vs Derby County @ Dec 15 2:50 PM :Paramount+  02" stop="20251216235959 -0500">
-    <title>01:50 PM - English Football League: Sheffield Wednesday vs Derby County @ Dec 15 2:50 PM :Paramount+  02</title>
+  <programme start="20251216000000 -0500" channel="Carabao Cup: Cardiff City vs Chelsea @ Dec 16 2:30 PM :Paramount+  01" stop="20251216235959 -0500">
+    <title>01:30 PM - Carabao Cup: Cardiff City vs Chelsea @ Dec 16 2:30 PM :Paramount+  01</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1687,22 +1676,6 @@
   </programme>
   <programme start="20251216000000 -0500" channel="WSL 06 | Manchester United vs Totttenham (Sun 14:30 UK)" stop="20251216235959 -0500">
     <title>09:30 AM - WSL 06 | Manchester United vs Totttenham (Sun 14:30 UK)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251216000000 -0500" channel="RAYO VALLECANO (Mon 20:00 UK)" stop="20251216235959 -0500">
-    <title>03:00 PM - RAYO VALLECANO (Mon 20:00 UK)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251216000000 -0500" channel="REAL BETIS (Mon 20:00 UK)" stop="20251216235959 -0500">
-    <title>03:00 PM - REAL BETIS (Mon 20:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -3991,6 +3964,22 @@
   </programme>
   <programme start="20251216000000 -0500" channel="Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm" stop="20251216235959 -0500">
     <title>02:55 PM - Super League Plus | Event 4 Wigan Warriors v Leeds Rhinos | Betfred Super League Round 27 // UK Fri 19 Sep 7:55pm // ET Fri 19 Sep 2:55pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251216000000 -0500" channel="National League 01 | Dorking vs WestonsuperMare // UK Tue 16 Dec 7:45pm // ET Tue 16 Dec 2:45pm" stop="20251216235959 -0500">
+    <title>02:45 PM - National League 01 | Dorking vs WestonsuperMare // UK Tue 16 Dec 7:45pm // ET Tue 16 Dec 2:45pm</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251216000000 -0500" channel="National League 02 | Truro vs Wealdstone // UK Tue 16 Dec 7:45pm // ET Tue 16 Dec 2:45pm" stop="20251216235959 -0500">
+    <title>02:45 PM - National League 02 | Truro vs Wealdstone // UK Tue 16 Dec 7:45pm // ET Tue 16 Dec 2:45pm</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
