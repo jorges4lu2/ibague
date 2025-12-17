@@ -400,6 +400,10 @@
     <display-name lang="en">Paris Saint-Germain vs. CR Flamengo - 12:00 PM ET / 10:00 AM MT / 17:00 UK</display-name>
     <display-name lang="en">Paris Saint-Germain vs. CR Flamengo [LIVE]</display-name>
   </channel>
+  <channel id="Jake Paul vs. Anthony Joshua - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">Jake Paul vs. Anthony Joshua - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">Jake Paul vs. Anthony Joshua [LIVE]</display-name>
+  </channel>
   <programme start="20251218201500 -0500" channel="Los Angeles Rams vs. Seattle Seahawks - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251218234500 -0500">
     <title>Los Angeles Rams vs. Seattle Seahawks (Prime Video)</title>
     <date>2025</date>
@@ -1994,6 +1998,22 @@
   </programme>
   <programme start="20251217120102 -0500" channel="Paris Saint-Germain vs. CR Flamengo - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251217120000 -0500">
     <title>Next event: 17 Dec 12:00 PM - Paris Saint-Germain vs. CR Flamengo (FIFA+)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251219200000 -0500" channel="Jake Paul vs. Anthony Joshua - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251220020000 -0500">
+    <title>Jake Paul vs. Anthony Joshua (Netflix)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251217130102 -0500" channel="Jake Paul vs. Anthony Joshua - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251219200000 -0500">
+    <title>Next event: 19 Dec 08:00 PM - Jake Paul vs. Anthony Joshua (Netflix)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
