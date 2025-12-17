@@ -384,6 +384,14 @@
     <display-name lang="en">New Jersey Devils vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK</display-name>
     <display-name lang="en">New Jersey Devils vs. Vegas Golden Knights [LIVE]</display-name>
   </channel>
+  <channel id="World Darts Championship - 02:00 PM ET / 12:00 PM MT / 19:00 UK">
+    <display-name lang="en">World Darts Championship - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
+    <display-name lang="en">World Darts Championship [LIVE]</display-name>
+  </channel>
+  <channel id="Talavera vs. Real Madrid - 03:00 PM ET / 01:00 PM MT / 20:00 UK">
+    <display-name lang="en">Talavera vs. Real Madrid - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
+    <display-name lang="en">Talavera vs. Real Madrid [LIVE]</display-name>
+  </channel>
   <programme start="20251218201500 -0500" channel="Los Angeles Rams vs. Seattle Seahawks - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251218234500 -0500">
     <title>Los Angeles Rams vs. Seattle Seahawks (Prime Video)</title>
     <date>2025</date>
@@ -1914,6 +1922,38 @@
   </programme>
   <programme start="20251217070102 -0500" channel="New Jersey Devils vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251217220000 -0500">
     <title>Next event: 17 Dec 10:00 PM - New Jersey Devils vs. Vegas Golden Knights (TNT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251217140000 -0500" channel="World Darts Championship - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251218010000 -0500">
+    <title>World Darts Championship (PDC Darts)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251217090102 -0500" channel="World Darts Championship - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251217140000 -0500">
+    <title>Next event: 17 Dec 02:00 PM - World Darts Championship (PDC Darts)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251217150000 -0500" channel="Talavera vs. Real Madrid - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20251217173000 -0500">
+    <title>Talavera vs. Real Madrid (ESPN+)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251217090102 -0500" channel="Talavera vs. Real Madrid - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20251217150000 -0500">
+    <title>Next event: 17 Dec 03:00 PM - Talavera vs. Real Madrid (ESPN+)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
