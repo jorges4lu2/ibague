@@ -408,6 +408,14 @@
     <display-name lang="en">Australia vs. England - 06:30 PM ET / 04:30 PM MT / 23:30 UK</display-name>
     <display-name lang="en">Australia vs. England [LIVE]</display-name>
   </channel>
+  <channel id="Australia vs. England (TNT Broadcast) - 06:30 PM ET / 04:30 PM MT / 23:30 UK">
+    <display-name lang="en">Australia vs. England (TNT Broadcast) - 06:30 PM ET / 04:30 PM MT / 23:30 UK</display-name>
+    <display-name lang="en">Australia vs. England (TNT Broadcast) [LIVE]</display-name>
+  </channel>
+  <channel id="Australia vs. England (FOX Broadcast) - 06:30 PM ET / 04:30 PM MT / 23:30 UK">
+    <display-name lang="en">Australia vs. England (FOX Broadcast) - 06:30 PM ET / 04:30 PM MT / 23:30 UK</display-name>
+    <display-name lang="en">Australia vs. England (FOX Broadcast) [LIVE]</display-name>
+  </channel>
   <programme start="20251218201500 -0500" channel="Los Angeles Rams vs. Seattle Seahawks - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251218234500 -0500">
     <title>Los Angeles Rams vs. Seattle Seahawks (Prime Video)</title>
     <date>2025</date>
@@ -2034,6 +2042,38 @@
   </programme>
   <programme start="20251217190103 -0500" channel="Australia vs. England - 06:30 PM ET / 04:30 PM MT / 23:30 UK" stop="20251217183000 -0500">
     <title>Next event: 17 Dec 06:30 PM - Australia vs. England (TNT Sports)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251217183000 -0500" channel="Australia vs. England (TNT Broadcast) - 06:30 PM ET / 04:30 PM MT / 23:30 UK" stop="20251218023000 -0500">
+    <title>Australia vs. England (TNT Broadcast) (TNT Sports)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251217210102 -0500" channel="Australia vs. England (TNT Broadcast) - 06:30 PM ET / 04:30 PM MT / 23:30 UK" stop="20251217183000 -0500">
+    <title>Next event: 17 Dec 06:30 PM - Australia vs. England (TNT Broadcast) (TNT Sports)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251217183000 -0500" channel="Australia vs. England (FOX Broadcast) - 06:30 PM ET / 04:30 PM MT / 23:30 UK" stop="20251218023000 -0500">
+    <title>Australia vs. England (FOX Broadcast) (FOX Cricket)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251217210102 -0500" channel="Australia vs. England (FOX Broadcast) - 06:30 PM ET / 04:30 PM MT / 23:30 UK" stop="20251217183000 -0500">
+    <title>Next event: 17 Dec 06:30 PM - Australia vs. England (FOX Broadcast) (FOX Cricket)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
