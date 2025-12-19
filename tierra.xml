@@ -324,6 +324,10 @@
     <display-name lang="en">Australia vs. England - 06:30 PM ET / 04:30 PM MT / 23:30 UK</display-name>
     <display-name lang="en">Australia vs. England [LIVE]</display-name>
   </channel>
+  <channel id="Bologna vs. Inter Milan - 02:00 PM ET / 12:00 PM MT / 19:00 UK">
+    <display-name lang="en">Bologna vs. Inter Milan - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
+    <display-name lang="en">Bologna vs. Inter Milan [LIVE]</display-name>
+  </channel>
   <programme start="20251219200000 -0500" channel="CFP: #9 Alabama vs. #8 Oklahoma (First Round) - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251220000000 -0500">
     <title>CFP: #9 Alabama vs. #8 Oklahoma (First Round) (ABC)</title>
     <date>2025</date>
@@ -1614,6 +1618,22 @@
   </programme>
   <programme start="20251219110102 -0500" channel="Australia vs. England - 06:30 PM ET / 04:30 PM MT / 23:30 UK" stop="20251219183000 -0500">
     <title>Next event: 19 Dec 06:30 PM - Australia vs. England (TNT Sports)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251219140000 -0500" channel="Bologna vs. Inter Milan - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251219163000 -0500">
+    <title>Bologna vs. Inter Milan (Italian Supercup)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251219130102 -0500" channel="Bologna vs. Inter Milan - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251219140000 -0500">
+    <title>Next event: 19 Dec 02:00 PM - Bologna vs. Inter Milan (Italian Supercup)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
