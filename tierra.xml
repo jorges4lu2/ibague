@@ -300,6 +300,10 @@
     <display-name lang="en">NFL RedZone - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
     <display-name lang="en">NFL RedZone [LIVE]</display-name>
   </channel>
+  <channel id="Napoli vs. Bologna - 02:00 PM ET / 12:00 PM MT / 19:00 UK">
+    <display-name lang="en">Napoli vs. Bologna - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
+    <display-name lang="en">Napoli vs. Bologna [LIVE]</display-name>
+  </channel>
   <programme start="20251221130000 -0500" channel="Buffalo Bills vs. Cleveland Browns - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251221163000 -0500">
     <title>Buffalo Bills vs. Cleveland Browns (CBS)</title>
     <date>2025</date>
@@ -1494,6 +1498,22 @@
   </programme>
   <programme start="20251221110102 -0500" channel="NFL RedZone - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251221130000 -0500">
     <title>Next event: 21 Dec 01:00 PM - NFL RedZone (NFL RedZone)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251222140000 -0500" channel="Napoli vs. Bologna - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251222163000 -0500">
+    <title>Napoli vs. Bologna (Italian Supercup)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251221170102 -0500" channel="Napoli vs. Bologna - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251222140000 -0500">
+    <title>Next event: 22 Dec 02:00 PM - Napoli vs. Bologna (Italian Supercup)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
