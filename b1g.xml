@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251222 -0500">
-  <channel id="Basketball: Southern at Baylor @ Dec 21 12:30 PM :MAX US 01">
-    <display-name lang="en">Basketball: Southern at Baylor @ Dec 21 12:30 PM :MAX US 01</display-name>
+  <channel id="Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 07:42 AM :MAX US 01">
+    <display-name lang="en">Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 07:42 AM :MAX US 01</display-name>
+  </channel>
+  <channel id="Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 08:57 AM :MAX US 02">
+    <display-name lang="en">Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 08:57 AM :MAX US 02</display-name>
   </channel>
   <channel id="Serie A: Cagliari vs Pisa @ Dec 21 6:20 AM :Paramount+  01">
     <display-name lang="en">Serie A: Cagliari vs Pisa @ Dec 21 6:20 AM :Paramount+  01</display-name>
@@ -15,9 +18,6 @@
   <channel id="Serie A: Genoa vs Atalanta @ Dec 21 2:00 PM :Paramount+  04">
     <display-name lang="en">Serie A: Genoa vs Atalanta @ Dec 21 2:00 PM :Paramount+  04</display-name>
   </channel>
-  <channel id="Hartford Snocross Rounds 1 &amp; 2 @ Dec 21 10:30 AM :Flo Racing  03">
-    <display-name lang="en">Hartford Snocross Rounds 1 &amp; 2 @ Dec 21 10:30 AM :Flo Racing  03</display-name>
-  </channel>
   <channel id="Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM">
     <display-name lang="en">Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM</display-name>
   </channel>
@@ -26,9 +26,6 @@
   </channel>
   <channel id="Flo Racing 10 :Tyler Wolf Memorial at Silver Dollar @ Jul 18 8:30 PM">
     <display-name lang="en">Flo Racing 10 :Tyler Wolf Memorial at Silver Dollar @ Jul 18 8:30 PM</display-name>
-  </channel>
-  <channel id="Tien, Learner vs Blockx, Alexander @ Dec 21 18:00 PM - Next Gen ATP Finals :Tennis  01">
-    <display-name lang="en">Tien, Learner vs Blockx, Alexander @ Dec 21 18:00 PM - Next Gen ATP Finals :Tennis  01</display-name>
   </channel>
   <channel id="MLB 1 | Dodgers x Blue Jays start:2025-11-02 12:00am Sun">
     <display-name lang="en">MLB 1 | Dodgers x Blue Jays start:2025-11-02 12:00am Sun</display-name>
@@ -1446,8 +1443,16 @@
   <channel id="CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM">
     <display-name lang="en">CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM</display-name>
   </channel>
-  <programme start="20251222000000 -0500" channel="Basketball: Southern at Baylor @ Dec 21 12:30 PM :MAX US 01" stop="20251222235959 -0500">
-    <title>11:30 AM - Basketball: Southern at Baylor @ Dec 21 12:30 PM :MAX US 01</title>
+  <programme start="20251222000000 -0500" channel="Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 07:42 AM :MAX US 01" stop="20251222235959 -0500">
+    <title>02:42 AM - Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 07:42 AM :MAX US 01</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251222000000 -0500" channel="Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 08:57 AM :MAX US 02" stop="20251222235959 -0500">
+    <title>03:57 AM - Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 08:57 AM :MAX US 02</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -1486,14 +1491,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251222000000 -0500" channel="Hartford Snocross Rounds 1 &amp; 2 @ Dec 21 10:30 AM :Flo Racing  03" stop="20251222235959 -0500">
-    <title>09:30 AM - Hartford Snocross Rounds 1 &amp; 2 @ Dec 21 10:30 AM :Flo Racing  03</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20251222000000 -0500" channel="Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM" stop="20251222235959 -0500">
     <title>06:00 PM - Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM</title>
     <date>2025</date>
@@ -1512,14 +1509,6 @@
   </programme>
   <programme start="20251222000000 -0500" channel="Flo Racing 10 :Tyler Wolf Memorial at Silver Dollar @ Jul 18 8:30 PM" stop="20251222235959 -0500">
     <title>07:30 PM - Flo Racing 10 :Tyler Wolf Memorial at Silver Dollar @ Jul 18 8:30 PM</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251222000000 -0500" channel="Tien, Learner vs Blockx, Alexander @ Dec 21 18:00 PM - Next Gen ATP Finals :Tennis  01" stop="20251222235959 -0500">
-    <title>07:00 PM - Tien, Learner vs Blockx, Alexander @ Dec 21 18:00 PM - Next Gen ATP Finals :Tennis  01</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
