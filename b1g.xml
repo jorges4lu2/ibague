@@ -1,10 +1,25 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251223 -0500">
-  <channel id="Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 07:42 AM :MAX US 01">
-    <display-name lang="en">Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 07:42 AM :MAX US 01</display-name>
+  <channel id="Cyclo-cross: Superprestige | Heusden Zolder @ Dec 23 07:37 AM :MAX US 01">
+    <display-name lang="en">Cyclo-cross: Superprestige | Heusden Zolder @ Dec 23 07:37 AM :MAX US 01</display-name>
   </channel>
-  <channel id="Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 08:57 AM :MAX US 02">
-    <display-name lang="en">Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 08:57 AM :MAX US 02</display-name>
+  <channel id="Cyclo-cross: Superprestige | Heusden Zolder @ Dec 23 09:07 AM :MAX US 02">
+    <display-name lang="en">Cyclo-cross: Superprestige | Heusden Zolder @ Dec 23 09:07 AM :MAX US 02</display-name>
+  </channel>
+  <channel id="Hockey: Road To The NHL Winter Classic Ep 3 @ Dec 23 15:00 PM :MAX US 03">
+    <display-name lang="en">Hockey: Road To The NHL Winter Classic Ep 3 @ Dec 23 15:00 PM :MAX US 03</display-name>
+  </channel>
+  <channel id="Hockey: Penguins at Maple Leafs @ Dec 23 15:30 PM :MAX US 04">
+    <display-name lang="en">Hockey: Penguins at Maple Leafs @ Dec 23 15:30 PM :MAX US 04</display-name>
+  </channel>
+  <channel id="Hockey: Stars at Red Wings @ Dec 23 18:30 PM :MAX US 05">
+    <display-name lang="en">Hockey: Stars at Red Wings @ Dec 23 18:30 PM :MAX US 05</display-name>
+  </channel>
+  <channel id="Hockey: Flyers at Blackhawks @ Dec 23 21:00 PM :MAX US 06">
+    <display-name lang="en">Hockey: Flyers at Blackhawks @ Dec 23 21:00 PM :MAX US 06</display-name>
+  </channel>
+  <channel id="Hockey: Cheap Seats Altcast with the Sklar Brothers @ Dec 23 21:00 PM :MAX US 07">
+    <display-name lang="en">Hockey: Cheap Seats Altcast with the Sklar Brothers @ Dec 23 21:00 PM :MAX US 07</display-name>
   </channel>
   <channel id="Serie A: Napoli vs Bologna @ Dec 22 1:00 PM :Paramount+  01">
     <display-name lang="en">Serie A: Napoli vs Bologna @ Dec 22 1:00 PM :Paramount+  01</display-name>
@@ -1332,16 +1347,56 @@
   <channel id="CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM">
     <display-name lang="en">CA-DAZN 51: WRC| Central European Rally: Stage 14| Sat 18 Oct 12:25 PM</display-name>
   </channel>
-  <programme start="20251223000000 -0500" channel="Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 07:42 AM :MAX US 01" stop="20251223235959 -0500">
-    <title>02:42 AM - Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 07:42 AM :MAX US 01</title>
+  <programme start="20251223000000 -0500" channel="Cyclo-cross: Superprestige | Heusden Zolder @ Dec 23 07:37 AM :MAX US 01" stop="20251223235959 -0500">
+    <title>02:37 AM - Cyclo-cross: Superprestige | Heusden Zolder @ Dec 23 07:37 AM :MAX US 01</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251223000000 -0500" channel="Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 08:57 AM :MAX US 02" stop="20251223235959 -0500">
-    <title>03:57 AM - Cyclo-cross: Trofee Veldrijden | Hofstade @ Dec 22 08:57 AM :MAX US 02</title>
+  <programme start="20251223000000 -0500" channel="Cyclo-cross: Superprestige | Heusden Zolder @ Dec 23 09:07 AM :MAX US 02" stop="20251223235959 -0500">
+    <title>04:07 AM - Cyclo-cross: Superprestige | Heusden Zolder @ Dec 23 09:07 AM :MAX US 02</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251223000000 -0500" channel="Hockey: Road To The NHL Winter Classic Ep 3 @ Dec 23 15:00 PM :MAX US 03" stop="20251223235959 -0500">
+    <title>04:00 PM - Hockey: Road To The NHL Winter Classic Ep 3 @ Dec 23 15:00 PM :MAX US 03</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251223000000 -0500" channel="Hockey: Penguins at Maple Leafs @ Dec 23 15:30 PM :MAX US 04" stop="20251223235959 -0500">
+    <title>04:30 PM - Hockey: Penguins at Maple Leafs @ Dec 23 15:30 PM :MAX US 04</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251223000000 -0500" channel="Hockey: Stars at Red Wings @ Dec 23 18:30 PM :MAX US 05" stop="20251223235959 -0500">
+    <title>07:30 PM - Hockey: Stars at Red Wings @ Dec 23 18:30 PM :MAX US 05</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251223000000 -0500" channel="Hockey: Flyers at Blackhawks @ Dec 23 21:00 PM :MAX US 06" stop="20251223235959 -0500">
+    <title>12:00 PM - Hockey: Flyers at Blackhawks @ Dec 23 21:00 PM :MAX US 06</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251223000000 -0500" channel="Hockey: Cheap Seats Altcast with the Sklar Brothers @ Dec 23 21:00 PM :MAX US 07" stop="20251223235959 -0500">
+    <title>12:00 PM - Hockey: Cheap Seats Altcast with the Sklar Brothers @ Dec 23 21:00 PM :MAX US 07</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
