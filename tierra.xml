@@ -272,6 +272,14 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="AEW: Wednesday Night Dynamite - 06:00 PM ET / 04:00 PM MT / 23:00 UK">
+    <display-name lang="en">AEW: Wednesday Night Dynamite - 06:00 PM ET / 04:00 PM MT / 23:00 UK</display-name>
+    <display-name lang="en">AEW: Wednesday Night Dynamite [LIVE]</display-name>
+  </channel>
+  <channel id="AEW: Saturday Night Collision - 09:00 PM ET / 07:00 PM MT / 02:00 UK">
+    <display-name lang="en">AEW: Saturday Night Collision - 09:00 PM ET / 07:00 PM MT / 02:00 UK</display-name>
+    <display-name lang="en">AEW: Saturday Night Collision [LIVE]</display-name>
+  </channel>
   <programme start="20251225130000 -0500" channel="Dallas Cowboys vs. Washington Commanders - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251225163000 -0500">
     <title>Dallas Cowboys vs. Washington Commanders (Netflix)</title>
     <date>2025</date>
@@ -1354,6 +1362,38 @@
   </programme>
   <programme start="20251224010102 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825010000 -0500">
     <title>Next event: 25 Aug 01:00 AM - Master stream test (South Park/PPV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251224180000 -0500" channel="AEW: Wednesday Night Dynamite - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20251224200600 -0500">
+    <title>AEW: Wednesday Night Dynamite (TBS)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251224150102 -0500" channel="AEW: Wednesday Night Dynamite - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20251224180000 -0500">
+    <title>Next event: 24 Dec 06:00 PM - AEW: Wednesday Night Dynamite (TBS)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251225210000 -0500" channel="AEW: Saturday Night Collision - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20251226000000 -0500">
+    <title>AEW: Saturday Night Collision (TNT)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251224150102 -0500" channel="AEW: Saturday Night Collision - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20251225210000 -0500">
+    <title>Next event: 25 Dec 09:00 PM - AEW: Saturday Night Collision (TNT)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
