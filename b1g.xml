@@ -123,6 +123,12 @@
   <channel id="MLB 16 | Marlins x Rockies start:2025-09-17 01:40:00 stop:2025-09-17 08:53:20">
     <display-name lang="en">MLB 16 | Marlins x Rockies start:2025-09-17 01:40:00 stop:2025-09-17 08:53:20</display-name>
   </channel>
+  <channel id="01. SPL | Al-Hilal vs Al-Khaleej (Fri 17:30 UK)">
+    <display-name lang="en">01. SPL | Al-Hilal vs Al-Khaleej (Fri 17:30 UK)</display-name>
+  </channel>
+  <channel id="02. SPL | Al-Hilal vs Al-Khaleej (Fri 17:30 UK)">
+    <display-name lang="en">02. SPL | Al-Hilal vs Al-Khaleej (Fri 17:30 UK)</display-name>
+  </channel>
   <channel id="USA | NHL Game 00&#9447;: Nashville Predators vs New York Rangers | Mon Nov 10th 7:00 PM ET">
     <display-name lang="en">USA | NHL Game 00&#9447;: Nashville Predators vs New York Rangers | Mon Nov 10th 7:00 PM ET</display-name>
   </channel>
@@ -482,6 +488,27 @@
   </channel>
   <channel id="TH | MonoMax PL 10: Crystal Palace vs Tottenham Hotspur (Sun 16:30 UK)">
     <display-name lang="en">TH | MonoMax PL 10: Crystal Palace vs Tottenham Hotspur (Sun 16:30 UK)</display-name>
+  </channel>
+  <channel id="01. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)">
+    <display-name lang="en">01. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)</display-name>
+  </channel>
+  <channel id="02. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)">
+    <display-name lang="en">02. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)</display-name>
+  </channel>
+  <channel id="03. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)">
+    <display-name lang="en">03. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)</display-name>
+  </channel>
+  <channel id="04. URC | Cardiff vs Dragons (Fri 15:00 UK)">
+    <display-name lang="en">04. URC | Cardiff vs Dragons (Fri 15:00 UK)</display-name>
+  </channel>
+  <channel id="05. URC | Cardiff vs Dragons (Fri 15:00 UK)">
+    <display-name lang="en">05. URC | Cardiff vs Dragons (Fri 15:00 UK)</display-name>
+  </channel>
+  <channel id="06. URC | Scarlets vs Ospreys (Fri 17:30 UK)">
+    <display-name lang="en">06. URC | Scarlets vs Ospreys (Fri 17:30 UK)</display-name>
+  </channel>
+  <channel id="07. URC | Scarlets vs Ospreys (Fri 17:30 UK)">
+    <display-name lang="en">07. URC | Scarlets vs Ospreys (Fri 17:30 UK)</display-name>
   </channel>
   <channel id="UFC 00 : CAGE FURY FC 149 start:2025-12-21 02:25:00 stop:2025-12-21 07:30:00">
     <display-name lang="en">UFC 00 : CAGE FURY FC 149 start:2025-12-21 02:25:00 stop:2025-12-21 07:30:00</display-name>
@@ -1052,6 +1079,15 @@
   </channel>
   <channel id="06. Darts | World Darts Championship 2025 (Sat 12:30/19:00 UK)">
     <display-name lang="en">06. Darts | World Darts Championship 2025 (Sat 12:30/19:00 UK)</display-name>
+  </channel>
+  <channel id="07. Cyclocross | Gavere (Fri 12:30 UK)">
+    <display-name lang="en">07. Cyclocross | Gavere (Fri 12:30 UK)</display-name>
+  </channel>
+  <channel id="08. Snooker | British Seniors Open (Fri 13:00 UK)">
+    <display-name lang="en">08. Snooker | British Seniors Open (Fri 13:00 UK)</display-name>
+  </channel>
+  <channel id="09. Snooker | British Seniors Open (Fri 19:00 UK)">
+    <display-name lang="en">09. Snooker | British Seniors Open (Fri 19:00 UK)</display-name>
   </channel>
   <channel id="BOXING: Craig Richards vs. Dan Azeez (Sat 17:00 UK)">
     <display-name lang="en">BOXING: Craig Richards vs. Dan Azeez (Sat 17:00 UK)</display-name>
@@ -1654,6 +1690,22 @@
   </programme>
   <programme start="20251226000000 -0500" channel="MLB 16 | Marlins x Rockies start:2025-09-17 01:40:00 stop:2025-09-17 08:53:20" stop="20251226235959 -0500">
     <title>08:40 PM - MLB 16 | Marlins x Rockies start:2025-09-17 01:40:00 stop:2025-09-17 08:53:20</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="01. SPL | Al-Hilal vs Al-Khaleej (Fri 17:30 UK)" stop="20251226235959 -0500">
+    <title>12:30 PM - 01. SPL | Al-Hilal vs Al-Khaleej (Fri 17:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="02. SPL | Al-Hilal vs Al-Khaleej (Fri 17:30 UK)" stop="20251226235959 -0500">
+    <title>12:30 PM - 02. SPL | Al-Hilal vs Al-Khaleej (Fri 17:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -2614,6 +2666,62 @@
   </programme>
   <programme start="20251226000000 -0500" channel="TH | MonoMax PL 10: Crystal Palace vs Tottenham Hotspur (Sun 16:30 UK)" stop="20251226235959 -0500">
     <title>11:30 AM - TH | MonoMax PL 10: Crystal Palace vs Tottenham Hotspur (Sun 16:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="01. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)" stop="20251226235959 -0500">
+    <title>12:30 PM - 01. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="02. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)" stop="20251226235959 -0500">
+    <title>12:30 PM - 02. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="03. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)" stop="20251226235959 -0500">
+    <title>12:30 PM - 03. Gallagher Prem | Sale vs Harlequins (Fri 17:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="04. URC | Cardiff vs Dragons (Fri 15:00 UK)" stop="20251226235959 -0500">
+    <title>10:00 AM - 04. URC | Cardiff vs Dragons (Fri 15:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="05. URC | Cardiff vs Dragons (Fri 15:00 UK)" stop="20251226235959 -0500">
+    <title>10:00 AM - 05. URC | Cardiff vs Dragons (Fri 15:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="06. URC | Scarlets vs Ospreys (Fri 17:30 UK)" stop="20251226235959 -0500">
+    <title>12:30 PM - 06. URC | Scarlets vs Ospreys (Fri 17:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="07. URC | Scarlets vs Ospreys (Fri 17:30 UK)" stop="20251226235959 -0500">
+    <title>12:30 PM - 07. URC | Scarlets vs Ospreys (Fri 17:30 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
@@ -4134,6 +4242,30 @@
   </programme>
   <programme start="20251226000000 -0500" channel="06. Darts | World Darts Championship 2025 (Sat 12:30/19:00 UK)" stop="20251226235959 -0500">
     <title>02:00 PM - 06. Darts | World Darts Championship 2025 (Sat 12:30/19:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="07. Cyclocross | Gavere (Fri 12:30 UK)" stop="20251226235959 -0500">
+    <title>07:30 AM - 07. Cyclocross | Gavere (Fri 12:30 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="08. Snooker | British Seniors Open (Fri 13:00 UK)" stop="20251226235959 -0500">
+    <title>08:00 AM - 08. Snooker | British Seniors Open (Fri 13:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251226000000 -0500" channel="09. Snooker | British Seniors Open (Fri 19:00 UK)" stop="20251226235959 -0500">
+    <title>02:00 PM - 09. Snooker | British Seniors Open (Fri 19:00 UK)</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
