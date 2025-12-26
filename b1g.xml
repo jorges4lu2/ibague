@@ -333,6 +333,12 @@
   <channel id="Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm">
     <display-name lang="en">Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm</display-name>
   </channel>
+  <channel id="MANCHESTER UNITED F.C (Fri 20:00 UK)">
+    <display-name lang="en">MANCHESTER UNITED F.C (Fri 20:00 UK)</display-name>
+  </channel>
+  <channel id="NEWCASTLE UNITED F.C (Fri 20:00 UK)">
+    <display-name lang="en">NEWCASTLE UNITED F.C (Fri 20:00 UK)</display-name>
+  </channel>
   <channel id="11. EPL 03 | Arsenal vs Brighton (Sat 15:00 UK)">
     <display-name lang="en">11. EPL 03 | Arsenal vs Brighton (Sat 15:00 UK)</display-name>
   </channel>
@@ -500,9 +506,6 @@
   </channel>
   <channel id="Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM">
     <display-name lang="en">Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM</display-name>
-  </channel>
-  <channel id="NFL  | 01 - 12/25 1PM Cowboys at Commanders">
-    <display-name lang="en">NFL  | 01 - 12/25 1PM Cowboys at Commanders</display-name>
   </channel>
   <channel id="NFL  | 02 - 12/25 4:30PM Lions at Vikings">
     <display-name lang="en">NFL  | 02 - 12/25 4:30PM Lions at Vikings</display-name>
@@ -2184,6 +2187,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20251225000000 -0500" channel="MANCHESTER UNITED F.C (Fri 20:00 UK)" stop="20251225235959 -0500">
+    <title>03:00 PM - MANCHESTER UNITED F.C (Fri 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251225000000 -0500" channel="NEWCASTLE UNITED F.C (Fri 20:00 UK)" stop="20251225235959 -0500">
+    <title>03:00 PM - NEWCASTLE UNITED F.C (Fri 20:00 UK)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20251225000000 -0500" channel="11. EPL 03 | Arsenal vs Brighton (Sat 15:00 UK)" stop="20251225235959 -0500">
     <title>10:00 AM - 11. EPL 03 | Arsenal vs Brighton (Sat 15:00 UK)</title>
     <date>2025</date>
@@ -2626,14 +2645,6 @@
   </programme>
   <programme start="20251225000000 -0500" channel="Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM" stop="20251225235959 -0500">
     <title>07:00 AM - Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251225000000 -0500" channel="NFL  | 01 - 12/25 1PM Cowboys at Commanders" stop="20251225235959 -0500">
-    <title>12:00 PM - NFL  | 01 - 12/25 1PM Cowboys at Commanders</title>
     <date>2025</date>
     <category>Sports</category>
     <audio>
