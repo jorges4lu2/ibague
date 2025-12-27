@@ -416,6 +416,14 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="Ring V: Night of the Samurai: Inoue vs. Picasso - 05:00 AM ET / 03:00 AM MT / 10:00 UK">
+    <display-name lang="en">Ring V: Night of the Samurai: Inoue vs. Picasso - 05:00 AM ET / 03:00 AM MT / 10:00 UK</display-name>
+    <display-name lang="en">Ring V: Night of the Samurai: Inoue vs. Picasso [LIVE]</display-name>
+  </channel>
+  <channel id="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK">
+    <display-name lang="en">Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
+    <display-name lang="en">Goal Rush [LIVE]</display-name>
+  </channel>
   <programme start="20251227010102 -0500" channel="Pittsburgh Panthers vs. East Carolina Pirates - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20251227110000 -0500">
     <title>Next event: 27 Dec 11:00 AM - Pittsburgh Panthers vs. East Carolina Pirates (ESPN)</title>
     <date>2025</date>
@@ -2905,6 +2913,54 @@
     </audio>
   </programme>
   <programme start="20250825050000 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825235959 -0500">
+    <title>Event has ended</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251227050102 -0500" channel="Ring V: Night of the Samurai: Inoue vs. Picasso - 05:00 AM ET / 03:00 AM MT / 10:00 UK" stop="20251227050000 -0500">
+    <title>Next event: 27 Dec 05:00 AM - Ring V: Night of the Samurai: Inoue vs. Picasso (DAZN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251227050000 -0500" channel="Ring V: Night of the Samurai: Inoue vs. Picasso - 05:00 AM ET / 03:00 AM MT / 10:00 UK" stop="20251227130000 -0500">
+    <title>Ring V: Night of the Samurai: Inoue vs. Picasso (DAZN)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251227130000 -0500" channel="Ring V: Night of the Samurai: Inoue vs. Picasso - 05:00 AM ET / 03:00 AM MT / 10:00 UK" stop="20251227235959 -0500">
+    <title>Event has ended</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251227050102 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20251227100000 -0500">
+    <title>Next event: 27 Dec 10:00 AM - Goal Rush (Peacock)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251227100000 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20251227123000 -0500">
+    <title>Goal Rush (Peacock)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251227123000 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20251227235959 -0500">
     <title>Event has ended</title>
     <date>2025</date>
     <category>Sports</category>
