@@ -424,6 +424,10 @@
     <display-name lang="en">Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
     <display-name lang="en">Goal Rush [LIVE]</display-name>
   </channel>
+  <channel id="AEW: World's End - 07:00 PM ET / 05:00 PM MT / 00:00 UK">
+    <display-name lang="en">AEW: World's End - 07:00 PM ET / 05:00 PM MT / 00:00 UK</display-name>
+    <display-name lang="en">AEW: World's End [LIVE]</display-name>
+  </channel>
   <programme start="20251227010102 -0500" channel="Pittsburgh Panthers vs. East Carolina Pirates - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20251227110000 -0500">
     <title>Next event: 27 Dec 11:00 AM - Pittsburgh Panthers vs. East Carolina Pirates (ESPN)</title>
     <date>2025</date>
@@ -2961,6 +2965,30 @@
     </audio>
   </programme>
   <programme start="20251227123000 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20251227235959 -0500">
+    <title>Event has ended</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251227100102 -0500" channel="AEW: World's End - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251227190000 -0500">
+    <title>Next event: 27 Dec 07:00 PM - AEW: World's End (PPV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251227190000 -0500" channel="AEW: World's End - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251228000000 -0500">
+    <title>AEW: World's End (PPV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228000000 -0500" channel="AEW: World's End - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251227235959 -0500">
     <title>Event has ended</title>
     <date>2025</date>
     <category>Sports</category>
