@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20251228 -0500">
-  <channel id="LSU Tigers vs. Houston Cougars - 09:15 PM ET / 07:15 PM MT / 02:15 UK">
-    <display-name lang="en">LSU Tigers vs. Houston Cougars - 09:15 PM ET / 07:15 PM MT / 02:15 UK</display-name>
-    <display-name lang="en">LSU Tigers vs. Houston Cougars [LIVE]</display-name>
-  </channel>
   <channel id="Arizona Cardinals vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK">
     <display-name lang="en">Arizona Cardinals vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
     <display-name lang="en">Arizona Cardinals vs. Cincinnati Bengals [LIVE]</display-name>
@@ -208,18 +204,6 @@
     <display-name lang="en">AS Roma vs. Genoa - 02:45 PM ET / 12:45 PM MT / 19:45 UK</display-name>
     <display-name lang="en">AS Roma vs. Genoa [LIVE]</display-name>
   </channel>
-  <channel id="Edmonton Oilers vs. Calgary Flames - 10:00 PM ET / 08:00 PM MT / 03:00 UK">
-    <display-name lang="en">Edmonton Oilers vs. Calgary Flames - 10:00 PM ET / 08:00 PM MT / 03:00 UK</display-name>
-    <display-name lang="en">Edmonton Oilers vs. Calgary Flames [LIVE]</display-name>
-  </channel>
-  <channel id="San Jose Sharks vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK">
-    <display-name lang="en">San Jose Sharks vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK</display-name>
-    <display-name lang="en">San Jose Sharks vs. Vancouver Canucks [LIVE]</display-name>
-  </channel>
-  <channel id="Colorado Avalanche vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK">
-    <display-name lang="en">Colorado Avalanche vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK</display-name>
-    <display-name lang="en">Colorado Avalanche vs. Vegas Golden Knights [LIVE]</display-name>
-  </channel>
   <channel id="Sweden vs. Switzerland - 02:00 PM ET / 12:00 PM MT / 19:00 UK">
     <display-name lang="en">Sweden vs. Switzerland - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
     <display-name lang="en">Sweden vs. Switzerland [LIVE]</display-name>
@@ -268,31 +252,7 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
-  <programme start="20251228000102 -0500" channel="LSU Tigers vs. Houston Cougars - 09:15 PM ET / 07:15 PM MT / 02:15 UK" stop="20251227211500 -0500">
-    <title>Next event: 27 Dec 09:15 PM - LSU Tigers vs. Houston Cougars (ESPN)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251227211500 -0500" channel="LSU Tigers vs. Houston Cougars - 09:15 PM ET / 07:15 PM MT / 02:15 UK" stop="20251228004500 -0500">
-    <title>LSU Tigers vs. Houston Cougars (ESPN)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251228004500 -0500" channel="LSU Tigers vs. Houston Cougars - 09:15 PM ET / 07:15 PM MT / 02:15 UK" stop="20251227235959 -0500">
-    <title>Event has ended</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251228000102 -0500" channel="Arizona Cardinals vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
+  <programme start="20251228010102 -0500" channel="Arizona Cardinals vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
     <title>Next event: 28 Dec 01:00 PM - Arizona Cardinals vs. Cincinnati Bengals (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -316,7 +276,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Pittsburgh Steelers vs. Cleveland Browns - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
+  <programme start="20251228010102 -0500" channel="Pittsburgh Steelers vs. Cleveland Browns - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
     <title>Next event: 28 Dec 01:00 PM - Pittsburgh Steelers vs. Cleveland Browns (CBS)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -340,7 +300,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="New Orleans Saints vs. Tennessee Titans - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
+  <programme start="20251228010102 -0500" channel="New Orleans Saints vs. Tennessee Titans - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
     <title>Next event: 28 Dec 01:00 PM - New Orleans Saints vs. Tennessee Titans (CBS)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -364,7 +324,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Jacksonville Jaguars vs. Indianapolis Colts - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
+  <programme start="20251228010102 -0500" channel="Jacksonville Jaguars vs. Indianapolis Colts - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
     <title>Next event: 28 Dec 01:00 PM - Jacksonville Jaguars vs. Indianapolis Colts (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -388,7 +348,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Tampa Bay Buccaneers vs. Miami Dolphins - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
+  <programme start="20251228010102 -0500" channel="Tampa Bay Buccaneers vs. Miami Dolphins - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
     <title>Next event: 28 Dec 01:00 PM - Tampa Bay Buccaneers vs. Miami Dolphins (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -412,7 +372,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="New England Patriots vs. New York Jets - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
+  <programme start="20251228010102 -0500" channel="New England Patriots vs. New York Jets - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
     <title>Next event: 28 Dec 01:00 PM - New England Patriots vs. New York Jets (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -436,7 +396,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Seattle Seahawks vs. Carolina Panthers - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
+  <programme start="20251228010102 -0500" channel="Seattle Seahawks vs. Carolina Panthers - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
     <title>Next event: 28 Dec 01:00 PM - Seattle Seahawks vs. Carolina Panthers (CBS)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -460,7 +420,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="New York Giants vs. Las Vegas Raiders - 04:05 PM ET / 02:05 PM MT / 21:05 UK" stop="20251228160500 -0500">
+  <programme start="20251228010102 -0500" channel="New York Giants vs. Las Vegas Raiders - 04:05 PM ET / 02:05 PM MT / 21:05 UK" stop="20251228160500 -0500">
     <title>Next event: 28 Dec 04:05 PM - New York Giants vs. Las Vegas Raiders (CBS)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -484,7 +444,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Philadelphia Eagles vs. Buffalo Bills - 04:25 PM ET / 02:25 PM MT / 21:25 UK" stop="20251228162500 -0500">
+  <programme start="20251228010102 -0500" channel="Philadelphia Eagles vs. Buffalo Bills - 04:25 PM ET / 02:25 PM MT / 21:25 UK" stop="20251228162500 -0500">
     <title>Next event: 28 Dec 04:25 PM - Philadelphia Eagles vs. Buffalo Bills (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -508,7 +468,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Chicago Bears vs. San Francisco 49ers - 08:20 PM ET / 06:20 PM MT / 01:20 UK" stop="20251228202000 -0500">
+  <programme start="20251228010102 -0500" channel="Chicago Bears vs. San Francisco 49ers - 08:20 PM ET / 06:20 PM MT / 01:20 UK" stop="20251228202000 -0500">
     <title>Next event: 28 Dec 08:20 PM - Chicago Bears vs. San Francisco 49ers (NBC)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -532,7 +492,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Georgia Southern Eagles vs. App State Mountaineers - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251229140000 -0500">
+  <programme start="20251228010102 -0500" channel="Georgia Southern Eagles vs. App State Mountaineers - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251229140000 -0500">
     <title>Next event: 29 Dec 02:00 PM - Georgia Southern Eagles vs. App State Mountaineers (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -556,7 +516,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Los Angeles Rams vs. Atlanta Falcons - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251229201500 -0500">
+  <programme start="20251228010102 -0500" channel="Los Angeles Rams vs. Atlanta Falcons - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20251229201500 -0500">
     <title>Next event: 29 Dec 08:15 PM - Los Angeles Rams vs. Atlanta Falcons (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -580,7 +540,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251230140000 -0500">
+  <programme start="20251228010102 -0500" channel="Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251230140000 -0500">
     <title>Next event: 30 Dec 02:00 PM - Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -604,7 +564,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Tennessee Volunteers vs. Illinois Fighting Illini - 05:30 PM ET / 03:30 PM MT / 22:30 UK" stop="20251230173000 -0500">
+  <programme start="20251228010102 -0500" channel="Tennessee Volunteers vs. Illinois Fighting Illini - 05:30 PM ET / 03:30 PM MT / 22:30 UK" stop="20251230173000 -0500">
     <title>Next event: 30 Dec 05:30 PM - Tennessee Volunteers vs. Illinois Fighting Illini (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -628,7 +588,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="USC Trojans vs. TCU Horned Frogs - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20251230210000 -0500">
+  <programme start="20251228010102 -0500" channel="USC Trojans vs. TCU Horned Frogs - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20251230210000 -0500">
     <title>Next event: 30 Dec 09:00 PM - USC Trojans vs. TCU Horned Frogs (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -652,7 +612,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Iowa Hawkeyes vs. Vanderbilt Commodores - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251231120000 -0500">
+  <programme start="20251228010102 -0500" channel="Iowa Hawkeyes vs. Vanderbilt Commodores - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251231120000 -0500">
     <title>Next event: 31 Dec 12:00 PM - Iowa Hawkeyes vs. Vanderbilt Commodores (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -676,7 +636,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Arizona State Sun Devils vs. Duke Blue Devils - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251231140000 -0500">
+  <programme start="20251228010102 -0500" channel="Arizona State Sun Devils vs. Duke Blue Devils - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251231140000 -0500">
     <title>Next event: 31 Dec 02:00 PM - Arizona State Sun Devils vs. Duke Blue Devils (CBS)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -700,7 +660,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Michigan Wolverines vs. Texas Longhorns - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20251231150000 -0500">
+  <programme start="20251228010102 -0500" channel="Michigan Wolverines vs. Texas Longhorns - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20251231150000 -0500">
     <title>Next event: 31 Dec 03:00 PM - Michigan Wolverines vs. Texas Longhorns (ABC)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -724,7 +684,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Nebraska Cornhuskers vs. Utah Utes - 03:30 PM ET / 01:30 PM MT / 20:30 UK" stop="20251231153000 -0500">
+  <programme start="20251228010102 -0500" channel="Nebraska Cornhuskers vs. Utah Utes - 03:30 PM ET / 01:30 PM MT / 20:30 UK" stop="20251231153000 -0500">
     <title>Next event: 31 Dec 03:30 PM - Nebraska Cornhuskers vs. Utah Utes (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -748,7 +708,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Miami Hurricanes vs. Ohio State Buckeyes - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20251231193000 -0500">
+  <programme start="20251228010102 -0500" channel="Miami Hurricanes vs. Ohio State Buckeyes - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20251231193000 -0500">
     <title>Next event: 31 Dec 07:30 PM - Miami Hurricanes vs. Ohio State Buckeyes (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -772,7 +732,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Oregon Ducks vs. Texas Tech Red Raiders - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20260101120000 -0500">
+  <programme start="20251228010102 -0500" channel="Oregon Ducks vs. Texas Tech Red Raiders - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20260101120000 -0500">
     <title>Next event: 01 Jan 12:00 PM - Oregon Ducks vs. Texas Tech Red Raiders (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -796,7 +756,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Alabama Crimson Tide vs. Indiana Hoosiers - 04:00 PM ET / 02:00 PM MT / 21:00 UK" stop="20260101160000 -0500">
+  <programme start="20251228010102 -0500" channel="Alabama Crimson Tide vs. Indiana Hoosiers - 04:00 PM ET / 02:00 PM MT / 21:00 UK" stop="20260101160000 -0500">
     <title>Next event: 01 Jan 04:00 PM - Alabama Crimson Tide vs. Indiana Hoosiers (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -820,7 +780,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Ole Miss Rebels vs. Georgia Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260101200000 -0500">
+  <programme start="20251228010102 -0500" channel="Ole Miss Rebels vs. Georgia Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260101200000 -0500">
     <title>Next event: 01 Jan 08:00 PM - Ole Miss Rebels vs. Georgia Bulldogs (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -844,7 +804,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Rice Owls vs. Texas State Bobcats - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260102130000 -0500">
+  <programme start="20251228010102 -0500" channel="Rice Owls vs. Texas State Bobcats - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260102130000 -0500">
     <title>Next event: 02 Jan 01:00 PM - Rice Owls vs. Texas State Bobcats (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -868,7 +828,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Navy Midshipmen vs. Cincinnati Bearcats - 04:30 PM ET / 02:30 PM MT / 21:30 UK" stop="20260102163000 -0500">
+  <programme start="20251228010102 -0500" channel="Navy Midshipmen vs. Cincinnati Bearcats - 04:30 PM ET / 02:30 PM MT / 21:30 UK" stop="20260102163000 -0500">
     <title>Next event: 02 Jan 04:30 PM - Navy Midshipmen vs. Cincinnati Bearcats (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -892,7 +852,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Arizona Wildcats vs. SMU Mustangs - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260102200000 -0500">
+  <programme start="20251228010102 -0500" channel="Arizona Wildcats vs. SMU Mustangs - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260102200000 -0500">
     <title>Next event: 02 Jan 08:00 PM - Arizona Wildcats vs. SMU Mustangs (FOX)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -916,7 +876,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Wake Forest Demon Deacons vs. Mississippi State Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260102200000 -0500">
+  <programme start="20251228010102 -0500" channel="Wake Forest Demon Deacons vs. Mississippi State Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260102200000 -0500">
     <title>Next event: 02 Jan 08:00 PM - Wake Forest Demon Deacons vs. Mississippi State Bulldogs (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -940,7 +900,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Illinois State Redbirds vs. Montana State Bobcats - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260105193000 -0500">
+  <programme start="20251228010102 -0500" channel="Illinois State Redbirds vs. Montana State Bobcats - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260105193000 -0500">
     <title>Next event: 05 Jan 07:30 PM - Illinois State Redbirds vs. Montana State Bobcats (ESPN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -964,7 +924,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Golden State Warriors vs. Toronto Raptors - 03:30 PM ET / 01:30 PM MT / 20:30 UK" stop="20251228153000 -0500">
+  <programme start="20251228010102 -0500" channel="Golden State Warriors vs. Toronto Raptors - 03:30 PM ET / 01:30 PM MT / 20:30 UK" stop="20251228153000 -0500">
     <title>Next event: 28 Dec 03:30 PM - Golden State Warriors vs. Toronto Raptors (Sportsnet)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -988,7 +948,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Philadelphia 76ers vs. Oklahoma City Thunder - 03:30 PM ET / 01:30 PM MT / 20:30 UK" stop="20251228153000 -0500">
+  <programme start="20251228010102 -0500" channel="Philadelphia 76ers vs. Oklahoma City Thunder - 03:30 PM ET / 01:30 PM MT / 20:30 UK" stop="20251228153000 -0500">
     <title>Next event: 28 Dec 03:30 PM - Philadelphia 76ers vs. Oklahoma City Thunder (FanDuel SN OK)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1012,7 +972,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Memphis Grizzlies vs. Washington Wizards - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20251228180000 -0500">
+  <programme start="20251228010102 -0500" channel="Memphis Grizzlies vs. Washington Wizards - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20251228180000 -0500">
     <title>Next event: 28 Dec 06:00 PM - Memphis Grizzlies vs. Washington Wizards (MNMT)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1036,7 +996,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Boston Celtics vs. Portland Trail Blazers - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20251228180000 -0500">
+  <programme start="20251228010102 -0500" channel="Boston Celtics vs. Portland Trail Blazers - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20251228180000 -0500">
     <title>Next event: 28 Dec 06:00 PM - Boston Celtics vs. Portland Trail Blazers (BlazerVision)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1060,7 +1020,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Detroit Pistons vs. LA Clippers - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20251228210000 -0500">
+  <programme start="20251228010102 -0500" channel="Detroit Pistons vs. LA Clippers - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20251228210000 -0500">
     <title>Next event: 28 Dec 09:00 PM - Detroit Pistons vs. LA Clippers (FanDuel SN SoCal)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1084,7 +1044,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Sacramento Kings vs. Los Angeles Lakers - 09:30 PM ET / 07:30 PM MT / 02:30 UK" stop="20251228213000 -0500">
+  <programme start="20251228010102 -0500" channel="Sacramento Kings vs. Los Angeles Lakers - 09:30 PM ET / 07:30 PM MT / 02:30 UK" stop="20251228213000 -0500">
     <title>Next event: 28 Dec 09:30 PM - Sacramento Kings vs. Los Angeles Lakers (Spectrum Sports Net)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1108,7 +1068,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20260124190000 -0500">
+  <programme start="20251228010102 -0500" channel="UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20260124190000 -0500">
     <title>Next event: 24 Jan 07:00 PM - UFC 324: Gaethje vs. Pimblett (Paramount+)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1132,7 +1092,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251228073000 -0500">
+  <programme start="20251228010102 -0500" channel="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251228073000 -0500">
     <title>Next event: 28 Dec 07:30 AM - World Darts Championship (PDC Darts)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1156,7 +1116,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="AC Milan vs. Hellas Verona - 06:30 AM ET / 04:30 AM MT / 11:30 UK" stop="20251228063000 -0500">
+  <programme start="20251228010102 -0500" channel="AC Milan vs. Hellas Verona - 06:30 AM ET / 04:30 AM MT / 11:30 UK" stop="20251228063000 -0500">
     <title>Next event: 28 Dec 06:30 AM - AC Milan vs. Hellas Verona (Serie A)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1180,7 +1140,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Gabon vs. Mozambique - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251228073000 -0500">
+  <programme start="20251228010102 -0500" channel="Gabon vs. Mozambique - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251228073000 -0500">
     <title>Next event: 28 Dec 07:30 AM - Gabon vs. Mozambique (AFCON)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1204,7 +1164,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Sunderland vs. Leeds United - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20251228090000 -0500">
+  <programme start="20251228010102 -0500" channel="Sunderland vs. Leeds United - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20251228090000 -0500">
     <title>Next event: 28 Dec 09:00 AM - Sunderland vs. Leeds United (Premier League)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1228,7 +1188,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Cremonese vs. Napoli - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20251228090000 -0500">
+  <programme start="20251228010102 -0500" channel="Cremonese vs. Napoli - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20251228090000 -0500">
     <title>Next event: 28 Dec 09:00 AM - Cremonese vs. Napoli (Serie A)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1252,7 +1212,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Equatorial Guinea vs. Sudan - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20251228100000 -0500">
+  <programme start="20251228010102 -0500" channel="Equatorial Guinea vs. Sudan - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20251228100000 -0500">
     <title>Next event: 28 Dec 10:00 AM - Equatorial Guinea vs. Sudan (AFCON)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1276,7 +1236,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Crystal Palace vs. Tottenham Hotspur - 11:30 AM ET / 09:30 AM MT / 16:30 UK" stop="20251228113000 -0500">
+  <programme start="20251228010102 -0500" channel="Crystal Palace vs. Tottenham Hotspur - 11:30 AM ET / 09:30 AM MT / 16:30 UK" stop="20251228113000 -0500">
     <title>Next event: 28 Dec 11:30 AM - Crystal Palace vs. Tottenham Hotspur (Premier League)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1300,7 +1260,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Bologna vs. Sassuolo - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228120000 -0500">
+  <programme start="20251228010102 -0500" channel="Bologna vs. Sassuolo - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228120000 -0500">
     <title>Next event: 28 Dec 12:00 PM - Bologna vs. Sassuolo (Serie A)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1324,7 +1284,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Algeria vs. Burkina Faso - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20251228123000 -0500">
+  <programme start="20251228010102 -0500" channel="Algeria vs. Burkina Faso - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20251228123000 -0500">
     <title>Next event: 28 Dec 12:30 PM - Algeria vs. Burkina Faso (AFCON)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1348,7 +1308,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Atalanta vs. Inter Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20251228144500 -0500">
+  <programme start="20251228010102 -0500" channel="Atalanta vs. Inter Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20251228144500 -0500">
     <title>Next event: 28 Dec 02:45 PM - Atalanta vs. Inter Milan (Serie A)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1372,7 +1332,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Ivory Coast vs. Cameroon - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20251228150000 -0500">
+  <programme start="20251228010102 -0500" channel="Ivory Coast vs. Cameroon - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20251228150000 -0500">
     <title>Next event: 28 Dec 03:00 PM - Ivory Coast vs. Cameroon (AFCON)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1396,7 +1356,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Angola vs. Egypt - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20251229110000 -0500">
+  <programme start="20251228010102 -0500" channel="Angola vs. Egypt - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20251229110000 -0500">
     <title>Next event: 29 Dec 11:00 AM - Angola vs. Egypt (AFCON)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1420,7 +1380,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Zimbabwe vs. South Africa - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20251229110000 -0500">
+  <programme start="20251228010102 -0500" channel="Zimbabwe vs. South Africa - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20251229110000 -0500">
     <title>Next event: 29 Dec 11:00 AM - Zimbabwe vs. South Africa (AFCON)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1444,7 +1404,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Comoros vs. Mali - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251229140000 -0500">
+  <programme start="20251228010102 -0500" channel="Comoros vs. Mali - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251229140000 -0500">
     <title>Next event: 29 Dec 02:00 PM - Comoros vs. Mali (AFCON)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1468,7 +1428,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Zambia vs. Morocco - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251229140000 -0500">
+  <programme start="20251228010102 -0500" channel="Zambia vs. Morocco - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251229140000 -0500">
     <title>Next event: 29 Dec 02:00 PM - Zambia vs. Morocco (AFCON)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1492,7 +1452,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="AS Roma vs. Genoa - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20251229144500 -0500">
+  <programme start="20251228010102 -0500" channel="AS Roma vs. Genoa - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20251229144500 -0500">
     <title>Next event: 29 Dec 02:45 PM - AS Roma vs. Genoa (Serie A)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1516,79 +1476,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Edmonton Oilers vs. Calgary Flames - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251227220000 -0500">
-    <title>Next event: 27 Dec 10:00 PM - Edmonton Oilers vs. Calgary Flames (ESPN+)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251227220000 -0500" channel="Edmonton Oilers vs. Calgary Flames - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251228010000 -0500">
-    <title>Edmonton Oilers vs. Calgary Flames (ESPN+)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251228010000 -0500" channel="Edmonton Oilers vs. Calgary Flames - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251227235959 -0500">
-    <title>Event has ended</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251228000102 -0500" channel="San Jose Sharks vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251227220000 -0500">
-    <title>Next event: 27 Dec 10:00 PM - San Jose Sharks vs. Vancouver Canucks (ESPN+)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251227220000 -0500" channel="San Jose Sharks vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251228010000 -0500">
-    <title>San Jose Sharks vs. Vancouver Canucks (ESPN+)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251228010000 -0500" channel="San Jose Sharks vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251227235959 -0500">
-    <title>Event has ended</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251228000102 -0500" channel="Colorado Avalanche vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251227220000 -0500">
-    <title>Next event: 27 Dec 10:00 PM - Colorado Avalanche vs. Vegas Golden Knights (Scripps Sports)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251227220000 -0500" channel="Colorado Avalanche vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251228010000 -0500">
-    <title>Colorado Avalanche vs. Vegas Golden Knights (Scripps Sports)</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251228010000 -0500" channel="Colorado Avalanche vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20251227235959 -0500">
-    <title>Event has ended</title>
-    <date>2025</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20251228000102 -0500" channel="Sweden vs. Switzerland - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251228140000 -0500">
+  <programme start="20251228010102 -0500" channel="Sweden vs. Switzerland - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251228140000 -0500">
     <title>Next event: 28 Dec 02:00 PM - Sweden vs. Switzerland (IIHF WJC)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1612,7 +1500,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Finland vs. Latvia - 04:30 PM ET / 02:30 PM MT / 21:30 UK" stop="20251228163000 -0500">
+  <programme start="20251228010102 -0500" channel="Finland vs. Latvia - 04:30 PM ET / 02:30 PM MT / 21:30 UK" stop="20251228163000 -0500">
     <title>Next event: 28 Dec 04:30 PM - Finland vs. Latvia (IIHF WJC)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1636,7 +1524,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Montreal Canadiens vs. Tampa Bay Lightning - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20251228170000 -0500">
+  <programme start="20251228010102 -0500" channel="Montreal Canadiens vs. Tampa Bay Lightning - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20251228170000 -0500">
     <title>Next event: 28 Dec 05:00 PM - Montreal Canadiens vs. Tampa Bay Lightning (The Spot - MTN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1660,7 +1548,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="New York Islanders vs. Columbus Blue Jackets - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20251228170000 -0500">
+  <programme start="20251228010102 -0500" channel="New York Islanders vs. Columbus Blue Jackets - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20251228170000 -0500">
     <title>Next event: 28 Dec 05:00 PM - New York Islanders vs. Columbus Blue Jackets (FanDuel SN OH)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1684,7 +1572,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Toronto Maple Leafs vs. Detroit Red Wings - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251228190000 -0500">
+  <programme start="20251228010102 -0500" channel="Toronto Maple Leafs vs. Detroit Red Wings - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251228190000 -0500">
     <title>Next event: 28 Dec 07:00 PM - Toronto Maple Leafs vs. Detroit Red Wings (FanDuel SN DET)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1708,7 +1596,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Pittsburgh Penguins vs. Chicago Blackhawks - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251228190000 -0500">
+  <programme start="20251228010102 -0500" channel="Pittsburgh Penguins vs. Chicago Blackhawks - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20251228190000 -0500">
     <title>Next event: 28 Dec 07:00 PM - Pittsburgh Penguins vs. Chicago Blackhawks (CHSN)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1732,7 +1620,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Philadelphia Flyers vs. Seattle Kraken - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251228200000 -0500">
+  <programme start="20251228010102 -0500" channel="Philadelphia Flyers vs. Seattle Kraken - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20251228200000 -0500">
     <title>Next event: 28 Dec 08:00 PM - Philadelphia Flyers vs. Seattle Kraken (KONG)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1756,7 +1644,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="24/7 South Park - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="19691231190000 -0500">
+  <programme start="20251228010102 -0500" channel="24/7 South Park - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - 24/7 South Park (24/7 channel)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1780,7 +1668,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="24/7 COWS - 12:00 AM ET / 10:00 PM MT / 05:00 UK" stop="20250118000000 -0500">
+  <programme start="20251228010102 -0500" channel="24/7 COWS - 12:00 AM ET / 10:00 PM MT / 05:00 UK" stop="20250118000000 -0500">
     <title>Next event: 18 Jan 12:00 AM - 24/7 COWS (24/7 channel)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1804,7 +1692,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="24/7 Family Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK" stop="20250118030000 -0500">
+  <programme start="20251228010102 -0500" channel="24/7 Family Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK" stop="20250118030000 -0500">
     <title>Next event: 18 Jan 03:00 AM - 24/7 Family Guy (24/7 channel)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1828,7 +1716,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK" stop="20250118052800 -0500">
+  <programme start="20251228010102 -0500" channel="24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK" stop="20250118052800 -0500">
     <title>Next event: 18 Jan 05:28 AM - 24/7 The Simpsons (24/7 channel)</title>
     <date>2025</date>
     <category>Sports</category>
@@ -1852,7 +1740,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20251228000102 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825010000 -0500">
+  <programme start="20251228010102 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825010000 -0500">
     <title>Next event: 25 Aug 01:00 AM - Master stream test (South Park/PPV)</title>
     <date>2025</date>
     <category>Sports</category>
