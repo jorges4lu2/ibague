@@ -252,6 +252,22 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="NFL RedZone - 01:00 PM ET / 11:00 AM MT / 18:00 UK">
+    <display-name lang="en">NFL RedZone - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
+    <display-name lang="en">NFL RedZone [LIVE]</display-name>
+  </channel>
+  <channel id="OKTAGON 81 (English) - 12:00 PM ET / 10:00 AM MT / 17:00 UK">
+    <display-name lang="en">OKTAGON 81 (English) - 12:00 PM ET / 10:00 AM MT / 17:00 UK</display-name>
+    <display-name lang="en">OKTAGON 81 (English) [LIVE]</display-name>
+  </channel>
+  <channel id="OKTAGON 81 (German) - 12:00 PM ET / 10:00 AM MT / 17:00 UK">
+    <display-name lang="en">OKTAGON 81 (German) - 12:00 PM ET / 10:00 AM MT / 17:00 UK</display-name>
+    <display-name lang="en">OKTAGON 81 (German) [LIVE]</display-name>
+  </channel>
+  <channel id="OKTAGON 81 (Czech) - 12:00 PM ET / 10:00 AM MT / 17:00 UK">
+    <display-name lang="en">OKTAGON 81 (Czech) - 12:00 PM ET / 10:00 AM MT / 17:00 UK</display-name>
+    <display-name lang="en">OKTAGON 81 (Czech) [LIVE]</display-name>
+  </channel>
   <programme start="20251228010102 -0500" channel="Arizona Cardinals vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
     <title>Next event: 28 Dec 01:00 PM - Arizona Cardinals vs. Cincinnati Bengals (FOX)</title>
     <date>2025</date>
@@ -1757,6 +1773,102 @@
     </audio>
   </programme>
   <programme start="20250825050000 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825235959 -0500">
+    <title>Event has ended</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228120102 -0500" channel="NFL RedZone - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228130000 -0500">
+    <title>Next event: 28 Dec 01:00 PM - NFL RedZone (NFL RedZone)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228130000 -0500" channel="NFL RedZone - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228200000 -0500">
+    <title>NFL RedZone (NFL RedZone)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228200000 -0500" channel="NFL RedZone - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20251228235959 -0500">
+    <title>Event has ended</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228120102 -0500" channel="OKTAGON 81 (English) - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228120000 -0500">
+    <title>Next event: 28 Dec 12:00 PM - OKTAGON 81 (English) (OKTAGON.TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228120000 -0500" channel="OKTAGON 81 (English) - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228180000 -0500">
+    <title>OKTAGON 81 (English) (OKTAGON.TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228180000 -0500" channel="OKTAGON 81 (English) - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228235959 -0500">
+    <title>Event has ended</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228120102 -0500" channel="OKTAGON 81 (German) - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228120000 -0500">
+    <title>Next event: 28 Dec 12:00 PM - OKTAGON 81 (German) (OKTAGON.TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228120000 -0500" channel="OKTAGON 81 (German) - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228180000 -0500">
+    <title>OKTAGON 81 (German) (OKTAGON.TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228180000 -0500" channel="OKTAGON 81 (German) - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228235959 -0500">
+    <title>Event has ended</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228120102 -0500" channel="OKTAGON 81 (Czech) - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228120000 -0500">
+    <title>Next event: 28 Dec 12:00 PM - OKTAGON 81 (Czech) (OKTAGON.TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228120000 -0500" channel="OKTAGON 81 (Czech) - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228180000 -0500">
+    <title>OKTAGON 81 (Czech) (OKTAGON.TV)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251228180000 -0500" channel="OKTAGON 81 (Czech) - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20251228235959 -0500">
     <title>Event has ended</title>
     <date>2025</date>
     <category>Sports</category>
