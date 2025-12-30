@@ -448,6 +448,10 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK">
+    <display-name lang="en">World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK</display-name>
+    <display-name lang="en">World Darts Championship [LIVE]</display-name>
+  </channel>
   <programme start="20251230010102 -0500" channel="Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20251230140000 -0500">
     <title>Next event: 30 Dec 02:00 PM - Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs (ESPN)</title>
     <date>2025</date>
@@ -3129,6 +3133,30 @@
     </audio>
   </programme>
   <programme start="20250825050000 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825235959 -0500">
+    <title>Event has ended</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251230050102 -0500" channel="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251230073000 -0500">
+    <title>Next event: 30 Dec 07:30 AM - World Darts Championship (PDC Darts)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251230073000 -0500" channel="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251230183000 -0500">
+    <title>World Darts Championship (PDC Darts)</title>
+    <date>2025</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20251230183000 -0500" channel="World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20251230235959 -0500">
     <title>Event has ended</title>
     <date>2025</date>
     <category>Sports</category>
