@@ -360,6 +360,10 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="World Darts Championship - 02:30 PM ET / 12:30 PM MT / 19:30 UK">
+    <display-name lang="en">World Darts Championship - 02:30 PM ET / 12:30 PM MT / 19:30 UK</display-name>
+    <display-name lang="en">World Darts Championship [LIVE]</display-name>
+  </channel>
   <programme start="20260101010103 -0500" channel="Oregon Ducks vs. Texas Tech Red Raiders - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20260101120000 -0500">
     <title>Next event: 01 Jan 12:00 PM - Oregon Ducks vs. Texas Tech Red Raiders (ESPN)</title>
     <date>2026</date>
@@ -2513,6 +2517,30 @@
     </audio>
   </programme>
   <programme start="20250825050000 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260101180103 -0500" channel="World Darts Championship - 02:30 PM ET / 12:30 PM MT / 19:30 UK" stop="20260102143000 -0500">
+    <title>Next event: 02 Jan 02:30 PM - World Darts Championship (PDC Darts)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260102143000 -0500" channel="World Darts Championship - 02:30 PM ET / 12:30 PM MT / 19:30 UK" stop="20260102193000 -0500">
+    <title>World Darts Championship (PDC Darts)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260102193000 -0500" channel="World Darts Championship - 02:30 PM ET / 12:30 PM MT / 19:30 UK" stop="20260102235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
