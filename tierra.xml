@@ -356,6 +356,10 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="Inter Milan vs. Bologna - 02:45 PM ET / 12:45 PM MT / 19:45 UK">
+    <display-name lang="en">Inter Milan vs. Bologna - 02:45 PM ET / 12:45 PM MT / 19:45 UK</display-name>
+    <display-name lang="en">Inter Milan vs. Bologna [LIVE]</display-name>
+  </channel>
   <programme start="20260102010102 -0500" channel="Rice Owls vs. Texas State Bobcats - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260102130000 -0500">
     <title>Next event: 02 Jan 01:00 PM - Rice Owls vs. Texas State Bobcats (ESPN)</title>
     <date>2026</date>
@@ -2485,6 +2489,30 @@
     </audio>
   </programme>
   <programme start="20250825050000 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260102050103 -0500" channel="Inter Milan vs. Bologna - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260104144500 -0500">
+    <title>Next event: 04 Jan 02:45 PM - Inter Milan vs. Bologna (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260104144500 -0500" channel="Inter Milan vs. Bologna - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260104171500 -0500">
+    <title>Inter Milan vs. Bologna (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260104171500 -0500" channel="Inter Milan vs. Bologna - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260104235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
