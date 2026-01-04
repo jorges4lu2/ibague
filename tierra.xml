@@ -240,6 +240,14 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="Australia vs. England - 06:00 PM ET / 04:00 PM MT / 23:00 UK">
+    <display-name lang="en">Australia vs. England - 06:00 PM ET / 04:00 PM MT / 23:00 UK</display-name>
+    <display-name lang="en">Australia vs. England [LIVE]</display-name>
+  </channel>
+  <channel id="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK">
+    <display-name lang="en">Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
+    <display-name lang="en">Goal Rush [LIVE]</display-name>
+  </channel>
   <programme start="20260104010102 -0500" channel="New Orleans Saints vs. Atlanta Falcons - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260104130000 -0500">
     <title>Next event: 04 Jan 01:00 PM - New Orleans Saints vs. Atlanta Falcons (FOX)</title>
     <date>2026</date>
@@ -1673,6 +1681,54 @@
     </audio>
   </programme>
   <programme start="20250825050000 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260104050102 -0500" channel="Australia vs. England - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20260104180000 -0500">
+    <title>Next event: 04 Jan 06:00 PM - Australia vs. England (FOX Cricket)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260104180000 -0500" channel="Australia vs. England - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20260105040000 -0500">
+    <title>Australia vs. England (FOX Cricket)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260105040000 -0500" channel="Australia vs. England - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20260104235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260104050102 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260104100000 -0500">
+    <title>Next event: 04 Jan 10:00 AM - Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260104100000 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260104123000 -0500">
+    <title>Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260104123000 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260104235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
