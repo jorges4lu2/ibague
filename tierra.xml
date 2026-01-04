@@ -248,6 +248,10 @@
     <display-name lang="en">Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
     <display-name lang="en">Goal Rush [LIVE]</display-name>
   </channel>
+  <channel id="Fulham vs. Liverpool - 10:15 AM ET / 08:15 AM MT / 15:15 UK">
+    <display-name lang="en">Fulham vs. Liverpool - 10:15 AM ET / 08:15 AM MT / 15:15 UK</display-name>
+    <display-name lang="en">Fulham vs. Liverpool [LIVE]</display-name>
+  </channel>
   <programme start="20260104010102 -0500" channel="New Orleans Saints vs. Atlanta Falcons - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260104130000 -0500">
     <title>Next event: 04 Jan 01:00 PM - New Orleans Saints vs. Atlanta Falcons (FOX)</title>
     <date>2026</date>
@@ -1729,6 +1733,30 @@
     </audio>
   </programme>
   <programme start="20260104123000 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260104235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260104110102 -0500" channel="Fulham vs. Liverpool - 10:15 AM ET / 08:15 AM MT / 15:15 UK" stop="20260104101500 -0500">
+    <title>Next event: 04 Jan 10:15 AM - Fulham vs. Liverpool (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260104101500 -0500" channel="Fulham vs. Liverpool - 10:15 AM ET / 08:15 AM MT / 15:15 UK" stop="20260104124500 -0500">
+    <title>Fulham vs. Liverpool (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260104124500 -0500" channel="Fulham vs. Liverpool - 10:15 AM ET / 08:15 AM MT / 15:15 UK" stop="20260104235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
