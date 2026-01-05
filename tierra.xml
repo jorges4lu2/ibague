@@ -336,6 +336,18 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="Nebraska Cornhuskers vs. Ohio State Buckeyes - 06:30 PM ET / 04:30 PM MT / 23:30 UK">
+    <display-name lang="en">Nebraska Cornhuskers vs. Ohio State Buckeyes - 06:30 PM ET / 04:30 PM MT / 23:30 UK</display-name>
+    <display-name lang="en">Nebraska Cornhuskers vs. Ohio State Buckeyes [LIVE]</display-name>
+  </channel>
+  <channel id="USC Trojans vs. Michigan State Spartans - 08:30 PM ET / 06:30 PM MT / 01:30 UK">
+    <display-name lang="en">USC Trojans vs. Michigan State Spartans - 08:30 PM ET / 06:30 PM MT / 01:30 UK</display-name>
+    <display-name lang="en">USC Trojans vs. Michigan State Spartans [LIVE]</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown - 02:00 PM ET / 12:00 PM MT / 19:00 UK">
+    <display-name lang="en">WWE: Friday Night Smackdown - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
+    <display-name lang="en">WWE: Friday Night Smackdown [LIVE]</display-name>
+  </channel>
   <programme start="20260105010102 -0500" channel="Illinois State Redbirds vs. Montana State Bobcats - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260105193000 -0500">
     <title>Next event: 05 Jan 07:30 PM - Illinois State Redbirds vs. Montana State Bobcats (ESPN)</title>
     <date>2026</date>
@@ -2345,6 +2357,78 @@
     </audio>
   </programme>
   <programme start="20250825050000 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260105170102 -0500" channel="Nebraska Cornhuskers vs. Ohio State Buckeyes - 06:30 PM ET / 04:30 PM MT / 23:30 UK" stop="20260105183000 -0500">
+    <title>Next event: 05 Jan 06:30 PM - Nebraska Cornhuskers vs. Ohio State Buckeyes (FS1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260105183000 -0500" channel="Nebraska Cornhuskers vs. Ohio State Buckeyes - 06:30 PM ET / 04:30 PM MT / 23:30 UK" stop="20260105220000 -0500">
+    <title>Nebraska Cornhuskers vs. Ohio State Buckeyes (FS1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260105220000 -0500" channel="Nebraska Cornhuskers vs. Ohio State Buckeyes - 06:30 PM ET / 04:30 PM MT / 23:30 UK" stop="20260105235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260105170102 -0500" channel="USC Trojans vs. Michigan State Spartans - 08:30 PM ET / 06:30 PM MT / 01:30 UK" stop="20260105203000 -0500">
+    <title>Next event: 05 Jan 08:30 PM - USC Trojans vs. Michigan State Spartans (FS1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260105203000 -0500" channel="USC Trojans vs. Michigan State Spartans - 08:30 PM ET / 06:30 PM MT / 01:30 UK" stop="20260106000000 -0500">
+    <title>USC Trojans vs. Michigan State Spartans (FS1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260106000000 -0500" channel="USC Trojans vs. Michigan State Spartans - 08:30 PM ET / 06:30 PM MT / 01:30 UK" stop="20260105235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260105170102 -0500" channel="WWE: Friday Night Smackdown - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260109140000 -0500">
+    <title>Next event: 09 Jan 02:00 PM - WWE: Friday Night Smackdown (USA Network)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260109140000 -0500" channel="WWE: Friday Night Smackdown - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260109170000 -0500">
+    <title>WWE: Friday Night Smackdown (USA Network)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260109170000 -0500" channel="WWE: Friday Night Smackdown - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260109235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
