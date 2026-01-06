@@ -344,6 +344,10 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK">
+    <display-name lang="en">Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
+    <display-name lang="en">Supercross: Anaheim [LIVE]</display-name>
+  </channel>
   <programme start="20260106010103 -0500" channel="Miami Hurricanes vs. Ole Miss Rebels - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260108193000 -0500">
     <title>Next event: 08 Jan 07:30 PM - Miami Hurricanes vs. Ole Miss Rebels (ESPN)</title>
     <date>2026</date>
@@ -2401,6 +2405,30 @@
     </audio>
   </programme>
   <programme start="20250825050000 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260106130102 -0500" channel="Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260110130000 -0500">
+    <title>Next event: 10 Jan 01:00 PM - Supercross: Anaheim (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110130000 -0500" channel="Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260110230000 -0500">
+    <title>Supercross: Anaheim (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110230000 -0500" channel="Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260110235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
