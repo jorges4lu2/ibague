@@ -324,6 +324,14 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="Goal Rush - 02:30 PM ET / 12:30 PM MT / 19:30 UK">
+    <display-name lang="en">Goal Rush - 02:30 PM ET / 12:30 PM MT / 19:30 UK</display-name>
+    <display-name lang="en">Goal Rush [LIVE]</display-name>
+  </channel>
+  <channel id="Parma vs. Inter Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK">
+    <display-name lang="en">Parma vs. Inter Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK</display-name>
+    <display-name lang="en">Parma vs. Inter Milan [LIVE]</display-name>
+  </channel>
   <programme start="20260107010102 -0500" channel="Miami Hurricanes vs. Ole Miss Rebels - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260108193000 -0500">
     <title>Next event: 08 Jan 07:30 PM - Miami Hurricanes vs. Ole Miss Rebels (ESPN)</title>
     <date>2026</date>
@@ -2261,6 +2269,54 @@
     </audio>
   </programme>
   <programme start="20250825050000 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260107050102 -0500" channel="Goal Rush - 02:30 PM ET / 12:30 PM MT / 19:30 UK" stop="20260107143000 -0500">
+    <title>Next event: 07 Jan 02:30 PM - Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260107143000 -0500" channel="Goal Rush - 02:30 PM ET / 12:30 PM MT / 19:30 UK" stop="20260107173000 -0500">
+    <title>Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260107173000 -0500" channel="Goal Rush - 02:30 PM ET / 12:30 PM MT / 19:30 UK" stop="20260107235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260107050102 -0500" channel="Parma vs. Inter Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260107144500 -0500">
+    <title>Next event: 07 Jan 02:45 PM - Parma vs. Inter Milan (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260107144500 -0500" channel="Parma vs. Inter Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260107171500 -0500">
+    <title>Parma vs. Inter Milan (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260107171500 -0500" channel="Parma vs. Inter Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260107235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
