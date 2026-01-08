@@ -264,6 +264,14 @@
     <display-name lang="en">Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK</display-name>
     <display-name lang="en">Master stream test [LIVE]</display-name>
   </channel>
+  <channel id="Paris Saint-Germain vs. Marseille - 01:00 PM ET / 11:00 AM MT / 18:00 UK">
+    <display-name lang="en">Paris Saint-Germain vs. Marseille - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
+    <display-name lang="en">Paris Saint-Germain vs. Marseille [LIVE]</display-name>
+  </channel>
+  <channel id="Atl&#233;tico Madrid vs. Real Madrid - 02:00 PM ET / 12:00 PM MT / 19:00 UK">
+    <display-name lang="en">Atl&#233;tico Madrid vs. Real Madrid - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
+    <display-name lang="en">Atl&#233;tico Madrid vs. Real Madrid [LIVE]</display-name>
+  </channel>
   <programme start="20260108010102 -0500" channel="Miami Hurricanes vs. Ole Miss Rebels - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260108193000 -0500">
     <title>Next event: 08 Jan 07:30 PM - Miami Hurricanes vs. Ole Miss Rebels (ESPN)</title>
     <date>2026</date>
@@ -1841,6 +1849,54 @@
     </audio>
   </programme>
   <programme start="20250825050000 -0500" channel="Master stream test - 01:00 AM ET / 11:00 PM MT / 06:00 UK" stop="20250825235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260108060103 -0500" channel="Paris Saint-Germain vs. Marseille - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260108130000 -0500">
+    <title>Next event: 08 Jan 01:00 PM - Paris Saint-Germain vs. Marseille (Trophee des Champions)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260108130000 -0500" channel="Paris Saint-Germain vs. Marseille - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260108153000 -0500">
+    <title>Paris Saint-Germain vs. Marseille (Trophee des Champions)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260108153000 -0500" channel="Paris Saint-Germain vs. Marseille - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260108235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260108060103 -0500" channel="Atl&#233;tico Madrid vs. Real Madrid - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260108140000 -0500">
+    <title>Next event: 08 Jan 02:00 PM - Atl&#233;tico Madrid vs. Real Madrid (Spanish Supercup)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260108140000 -0500" channel="Atl&#233;tico Madrid vs. Real Madrid - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260108163000 -0500">
+    <title>Atl&#233;tico Madrid vs. Real Madrid (Spanish Supercup)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260108163000 -0500" channel="Atl&#233;tico Madrid vs. Real Madrid - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260108235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
