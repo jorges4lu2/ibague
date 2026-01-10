@@ -316,6 +316,14 @@
     <display-name lang="en">The Masters - 08:00 AM ET / 06:00 AM MT / 13:00 UK</display-name>
     <display-name lang="en">The Masters [LIVE]</display-name>
   </channel>
+  <channel id="Agit Kabayel vs. Damian Knyba - 10:00 AM ET / 08:00 AM MT / 15:00 UK">
+    <display-name lang="en">Agit Kabayel vs. Damian Knyba - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
+    <display-name lang="en">Agit Kabayel vs. Damian Knyba [LIVE]</display-name>
+  </channel>
+  <channel id="Barcelona vs. Real Madrid - 02:00 PM ET / 12:00 PM MT / 19:00 UK">
+    <display-name lang="en">Barcelona vs. Real Madrid - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
+    <display-name lang="en">Barcelona vs. Real Madrid [LIVE]</display-name>
+  </channel>
   <programme start="20260110010102 -0500" channel="Los Angeles Rams vs. Carolina Panthers - 04:30 PM ET / 02:30 PM MT / 21:30 UK" stop="20260110163000 -0500">
     <title>Next event: 10 Jan 04:30 PM - Los Angeles Rams vs. Carolina Panthers (FOX)</title>
     <date>2026</date>
@@ -2205,6 +2213,54 @@
     </audio>
   </programme>
   <programme start="20260110170000 -0500" channel="The Masters - 08:00 AM ET / 06:00 AM MT / 13:00 UK" stop="20260110235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110100102 -0500" channel="Agit Kabayel vs. Damian Knyba - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260110100000 -0500">
+    <title>Next event: 10 Jan 10:00 AM - Agit Kabayel vs. Damian Knyba (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110100000 -0500" channel="Agit Kabayel vs. Damian Knyba - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260110180000 -0500">
+    <title>Agit Kabayel vs. Damian Knyba (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110180000 -0500" channel="Agit Kabayel vs. Damian Knyba - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260110235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110100102 -0500" channel="Barcelona vs. Real Madrid - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260111140000 -0500">
+    <title>Next event: 11 Jan 02:00 PM - Barcelona vs. Real Madrid (Spanish Supercup)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260111140000 -0500" channel="Barcelona vs. Real Madrid - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260111163000 -0500">
+    <title>Barcelona vs. Real Madrid (Spanish Supercup)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260111163000 -0500" channel="Barcelona vs. Real Madrid - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260111235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
