@@ -308,6 +308,10 @@
     <display-name lang="en">24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK</display-name>
     <display-name lang="en">24/7 The Simpsons [LIVE]</display-name>
   </channel>
+  <channel id="FA Cup Goals Show - 07:15 AM ET / 05:15 AM MT / 12:15 UK">
+    <display-name lang="en">FA Cup Goals Show - 07:15 AM ET / 05:15 AM MT / 12:15 UK</display-name>
+    <display-name lang="en">FA Cup Goals Show [LIVE]</display-name>
+  </channel>
   <programme start="20260110010102 -0500" channel="Los Angeles Rams vs. Carolina Panthers - 04:30 PM ET / 02:30 PM MT / 21:30 UK" stop="20260110163000 -0500">
     <title>Next event: 10 Jan 04:30 PM - Los Angeles Rams vs. Carolina Panthers (FOX)</title>
     <date>2026</date>
@@ -2149,6 +2153,30 @@
     </audio>
   </programme>
   <programme start="20250118052800 -0500" channel="24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK" stop="20250118235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110060103 -0500" channel="FA Cup Goals Show - 07:15 AM ET / 05:15 AM MT / 12:15 UK" stop="20260110071500 -0500">
+    <title>Next event: 10 Jan 07:15 AM - FA Cup Goals Show (English FA Cup)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110071500 -0500" channel="FA Cup Goals Show - 07:15 AM ET / 05:15 AM MT / 12:15 UK" stop="20260110123000 -0500">
+    <title>FA Cup Goals Show (English FA Cup)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110123000 -0500" channel="FA Cup Goals Show - 07:15 AM ET / 05:15 AM MT / 12:15 UK" stop="20260110235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
