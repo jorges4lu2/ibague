@@ -1092,14 +1092,26 @@
   <channel id="BOXING: Amanda Serrano vs. Reina Tellez BU (Sat 19:30 UK)">
     <display-name lang="en">BOXING: Amanda Serrano vs. Reina Tellez BU (Sat 19:30 UK)</display-name>
   </channel>
-  <channel id="LIVE EVENT 01 - 12PM ACA 198">
-    <display-name lang="en">LIVE EVENT 01 - 12PM ACA 198</display-name>
+  <channel id="LIVE EVENT 01 - 10AM/12:45PM Kabayel v Knyba">
+    <display-name lang="en">LIVE EVENT 01 - 10AM/12:45PM Kabayel v Knyba</display-name>
   </channel>
-  <channel id="LIVE EVENT 03 - 7PM BKB Biloxi">
-    <display-name lang="en">LIVE EVENT 03 - 7PM BKB Biloxi</display-name>
+  <channel id="LIVE EVENT 02 - 8PM Matias v Smith">
+    <display-name lang="en">LIVE EVENT 02 - 8PM Matias v Smith</display-name>
   </channel>
-  <channel id="LIVE EVENT 04 - 9PM 559 Fights 120">
-    <display-name lang="en">LIVE EVENT 04 - 9PM 559 Fights 120</display-name>
+  <channel id="LIVE EVENT 03 - 8PM Real American Freestyle">
+    <display-name lang="en">LIVE EVENT 03 - 8PM Real American Freestyle</display-name>
+  </channel>
+  <channel id="LIVE EVENT 04 - 1PM AMA Supercross Championship Anaheim">
+    <display-name lang="en">LIVE EVENT 04 - 1PM AMA Supercross Championship Anaheim</display-name>
+  </channel>
+  <channel id="LIVE EVENT 05 - 1PM Millbridge Sprints">
+    <display-name lang="en">LIVE EVENT 05 - 1PM Millbridge Sprints</display-name>
+  </channel>
+  <channel id="LIVE EVENT 06 - 3PM Snocross National Canterbury">
+    <display-name lang="en">LIVE EVENT 06 - 3PM Snocross National Canterbury</display-name>
+  </channel>
+  <channel id="LIVE EVENT 07 - 8PM Battle at the Barn XVIII">
+    <display-name lang="en">LIVE EVENT 07 - 8PM Battle at the Barn XVIII</display-name>
   </channel>
   <channel id="LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET">
     <display-name lang="en">LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET</display-name>
@@ -4286,24 +4298,56 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260110000000 -0500" channel="LIVE EVENT 01 - 12PM ACA 198" stop="20260110235959 -0500">
-    <title>11:00 AM - LIVE EVENT 01 - 12PM ACA 198</title>
+  <programme start="20260110000000 -0500" channel="LIVE EVENT 01 - 10AM/12:45PM Kabayel v Knyba" stop="20260110235959 -0500">
+    <title>11:45 AM - LIVE EVENT 01 - 10AM/12:45PM Kabayel v Knyba</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260110000000 -0500" channel="LIVE EVENT 03 - 7PM BKB Biloxi" stop="20260110235959 -0500">
-    <title>06:00 PM - LIVE EVENT 03 - 7PM BKB Biloxi</title>
+  <programme start="20260110000000 -0500" channel="LIVE EVENT 02 - 8PM Matias v Smith" stop="20260110235959 -0500">
+    <title>07:00 PM - LIVE EVENT 02 - 8PM Matias v Smith</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260110000000 -0500" channel="LIVE EVENT 04 - 9PM 559 Fights 120" stop="20260110235959 -0500">
-    <title>08:00 PM - LIVE EVENT 04 - 9PM 559 Fights 120</title>
+  <programme start="20260110000000 -0500" channel="LIVE EVENT 03 - 8PM Real American Freestyle" stop="20260110235959 -0500">
+    <title>07:00 PM - LIVE EVENT 03 - 8PM Real American Freestyle</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110000000 -0500" channel="LIVE EVENT 04 - 1PM AMA Supercross Championship Anaheim" stop="20260110235959 -0500">
+    <title>12:00 PM - LIVE EVENT 04 - 1PM AMA Supercross Championship Anaheim</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110000000 -0500" channel="LIVE EVENT 05 - 1PM Millbridge Sprints" stop="20260110235959 -0500">
+    <title>12:00 PM - LIVE EVENT 05 - 1PM Millbridge Sprints</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110000000 -0500" channel="LIVE EVENT 06 - 3PM Snocross National Canterbury" stop="20260110235959 -0500">
+    <title>02:00 PM - LIVE EVENT 06 - 3PM Snocross National Canterbury</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260110000000 -0500" channel="LIVE EVENT 07 - 8PM Battle at the Barn XVIII" stop="20260110235959 -0500">
+    <title>07:00 PM - LIVE EVENT 07 - 8PM Battle at the Barn XVIII</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
