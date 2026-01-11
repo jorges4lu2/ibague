@@ -172,6 +172,10 @@
     <display-name lang="en">24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK</display-name>
     <display-name lang="en">24/7 The Simpsons [LIVE]</display-name>
   </channel>
+  <channel id="Inter Milan vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK">
+    <display-name lang="en">Inter Milan vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK</display-name>
+    <display-name lang="en">Inter Milan vs. Napoli [LIVE]</display-name>
+  </channel>
   <programme start="20260111010102 -0500" channel="Buffalo Bills vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260111130000 -0500">
     <title>Next event: 11 Jan 01:00 PM - Buffalo Bills vs. Jacksonville Jaguars (CBS)</title>
     <date>2026</date>
@@ -1197,6 +1201,30 @@
     </audio>
   </programme>
   <programme start="20250118052800 -0500" channel="24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK" stop="20250118235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260111050102 -0500" channel="Inter Milan vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260111144500 -0500">
+    <title>Next event: 11 Jan 02:45 PM - Inter Milan vs. Napoli (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260111144500 -0500" channel="Inter Milan vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260111171500 -0500">
+    <title>Inter Milan vs. Napoli (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260111171500 -0500" channel="Inter Milan vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260111235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
