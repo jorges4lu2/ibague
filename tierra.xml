@@ -380,6 +380,10 @@
     <display-name lang="en">Chelsea vs. Arsenal - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
     <display-name lang="en">Chelsea vs. Arsenal [LIVE]</display-name>
   </channel>
+  <channel id="Paris Saint-Germain vs. Paris FC - 03:10 PM ET / 01:10 PM MT / 20:10 UK">
+    <display-name lang="en">Paris Saint-Germain vs. Paris FC - 03:10 PM ET / 01:10 PM MT / 20:10 UK</display-name>
+    <display-name lang="en">Paris Saint-Germain vs. Paris FC [LIVE]</display-name>
+  </channel>
   <programme start="20260112010102 -0500" channel="Houston Texans vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20260112201500 -0500">
     <title>Next event: 12 Jan 08:15 PM - Houston Texans vs. Pittsburgh Steelers (ESPN/ABC)</title>
     <date>2026</date>
@@ -2653,6 +2657,30 @@
     </audio>
   </programme>
   <programme start="20260114173000 -0500" channel="Chelsea vs. Arsenal - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260114235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260112090102 -0500" channel="Paris Saint-Germain vs. Paris FC - 03:10 PM ET / 01:10 PM MT / 20:10 UK" stop="20260112151000 -0500">
+    <title>Next event: 12 Jan 03:10 PM - Paris Saint-Germain vs. Paris FC (Coupe de France)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260112151000 -0500" channel="Paris Saint-Germain vs. Paris FC - 03:10 PM ET / 01:10 PM MT / 20:10 UK" stop="20260112174000 -0500">
+    <title>Paris Saint-Germain vs. Paris FC (Coupe de France)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260112174000 -0500" channel="Paris Saint-Germain vs. Paris FC - 03:10 PM ET / 01:10 PM MT / 20:10 UK" stop="20260112235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
