@@ -368,6 +368,10 @@
     <display-name lang="en">24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK</display-name>
     <display-name lang="en">24/7 The Simpsons [LIVE]</display-name>
   </channel>
+  <channel id="The Masters - 08:00 AM ET / 06:00 AM MT / 13:00 UK">
+    <display-name lang="en">The Masters - 08:00 AM ET / 06:00 AM MT / 13:00 UK</display-name>
+    <display-name lang="en">The Masters [LIVE]</display-name>
+  </channel>
   <programme start="20260112010102 -0500" channel="Houston Texans vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK" stop="20260112201500 -0500">
     <title>Next event: 12 Jan 08:15 PM - Houston Texans vs. Pittsburgh Steelers (ESPN/ABC)</title>
     <date>2026</date>
@@ -2569,6 +2573,30 @@
     </audio>
   </programme>
   <programme start="20250118052800 -0500" channel="24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK" stop="20250118235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260112030102 -0500" channel="The Masters - 08:00 AM ET / 06:00 AM MT / 13:00 UK" stop="20260112080000 -0500">
+    <title>Next event: 12 Jan 08:00 AM - The Masters (TNT Sports)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260112080000 -0500" channel="The Masters - 08:00 AM ET / 06:00 AM MT / 13:00 UK" stop="20260112160000 -0500">
+    <title>The Masters (TNT Sports)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260112160000 -0500" channel="The Masters - 08:00 AM ET / 06:00 AM MT / 13:00 UK" stop="20260112235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
