@@ -316,6 +316,10 @@
     <display-name lang="en">24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK</display-name>
     <display-name lang="en">24/7 The Simpsons [LIVE]</display-name>
   </channel>
+  <channel id="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK">
+    <display-name lang="en">Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
+    <display-name lang="en">Goal Rush [LIVE]</display-name>
+  </channel>
   <programme start="20260117010102 -0500" channel="Buffalo Bills vs. Denver Broncos - 04:30 PM ET / 02:30 PM MT / 21:30 UK" stop="20260117163000 -0500">
     <title>Next event: 17 Jan 04:30 PM - Buffalo Bills vs. Denver Broncos (CBS)</title>
     <date>2026</date>
@@ -2205,6 +2209,30 @@
     </audio>
   </programme>
   <programme start="20250118052800 -0500" channel="24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK" stop="20250118235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260117050102 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260117100000 -0500">
+    <title>Next event: 17 Jan 10:00 AM - Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260117100000 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260117123000 -0500">
+    <title>Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260117123000 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260117235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
