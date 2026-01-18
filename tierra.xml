@@ -336,6 +336,10 @@
     <display-name lang="en">The Masters - 08:00 AM ET / 06:00 AM MT / 13:00 UK</display-name>
     <display-name lang="en">The Masters [LIVE]</display-name>
   </channel>
+  <channel id="TNA Genesis - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">TNA Genesis - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">TNA Genesis [LIVE]</display-name>
+  </channel>
   <programme start="20260117010102 -0500" channel="Buffalo Bills vs. Denver Broncos - 04:30 PM ET / 02:30 PM MT / 21:30 UK" stop="20260117163000 -0500">
     <title>Next event: 17 Jan 04:30 PM - Buffalo Bills vs. Denver Broncos (CBS)</title>
     <date>2026</date>
@@ -2345,6 +2349,30 @@
     </audio>
   </programme>
   <programme start="20260117180000 -0500" channel="The Masters - 08:00 AM ET / 06:00 AM MT / 13:00 UK" stop="20260117235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260117200102 -0500" channel="TNA Genesis - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260117200000 -0500">
+    <title>Next event: 17 Jan 08:00 PM - TNA Genesis (PPV)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260117200000 -0500" channel="TNA Genesis - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260118000000 -0500">
+    <title>TNA Genesis (PPV)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260118000000 -0500" channel="TNA Genesis - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260117235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
