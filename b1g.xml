@@ -1344,6 +1344,12 @@
   <channel id="LIVE EVENT 02 - 6PM GCW Crime Wave">
     <display-name lang="en">LIVE EVENT 02 - 6PM GCW Crime Wave</display-name>
   </channel>
+  <channel id="LIVE EVENT 03 - 2:30PM Chilly Willy Tucson">
+    <display-name lang="en">LIVE EVENT 03 - 2:30PM Chilly Willy Tucson</display-name>
+  </channel>
+  <channel id="LIVE EVENT 04 - 5PM Wild West Shootout">
+    <display-name lang="en">LIVE EVENT 04 - 5PM Wild West Shootout</display-name>
+  </channel>
   <channel id="LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET">
     <display-name lang="en">LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET</display-name>
   </channel>
@@ -5195,6 +5201,22 @@
   </programme>
   <programme start="20260118000000 -0500" channel="LIVE EVENT 02 - 6PM GCW Crime Wave" stop="20260118235959 -0500">
     <title>05:00 PM - LIVE EVENT 02 - 6PM GCW Crime Wave</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260118000000 -0500" channel="LIVE EVENT 03 - 2:30PM Chilly Willy Tucson" stop="20260118235959 -0500">
+    <title>01:30 PM - LIVE EVENT 03 - 2:30PM Chilly Willy Tucson</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260118000000 -0500" channel="LIVE EVENT 04 - 5PM Wild West Shootout" stop="20260118235959 -0500">
+    <title>04:00 PM - LIVE EVENT 04 - 5PM Wild West Shootout</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
