@@ -340,6 +340,10 @@
     <display-name lang="en">WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
     <display-name lang="en">WWE: Friday Night Smackdown [LIVE]</display-name>
   </channel>
+  <channel id="Miami Hurricanes vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK">
+    <display-name lang="en">Miami Hurricanes vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK</display-name>
+    <display-name lang="en">Miami Hurricanes vs. Indiana Hoosiers [LIVE]</display-name>
+  </channel>
   <programme start="20260119010102 -0500" channel="Milwaukee Bucks vs. Atlanta Hawks - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260119130000 -0500">
     <title>Next event: 19 Jan 01:00 PM - Milwaukee Bucks vs. Atlanta Hawks (Peacock)</title>
     <date>2026</date>
@@ -2373,6 +2377,30 @@
     </audio>
   </programme>
   <programme start="20260123230000 -0500" channel="WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260123235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119110102 -0500" channel="Miami Hurricanes vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260119193000 -0500">
+    <title>Next event: 19 Jan 07:30 PM - Miami Hurricanes vs. Indiana Hoosiers (ESPN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119193000 -0500" channel="Miami Hurricanes vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260119230000 -0500">
+    <title>Miami Hurricanes vs. Indiana Hoosiers (ESPN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119230000 -0500" channel="Miami Hurricanes vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260119235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
