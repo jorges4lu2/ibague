@@ -332,6 +332,14 @@
     <display-name lang="en">24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK</display-name>
     <display-name lang="en">24/7 The Simpsons [LIVE]</display-name>
   </channel>
+  <channel id="WWE: Monday Night RAW - 03:00 PM ET / 01:00 PM MT / 20:00 UK">
+    <display-name lang="en">WWE: Monday Night RAW - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
+    <display-name lang="en">WWE: Monday Night RAW [LIVE]</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">WWE: Friday Night Smackdown [LIVE]</display-name>
+  </channel>
   <programme start="20260119010102 -0500" channel="Milwaukee Bucks vs. Atlanta Hawks - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260119130000 -0500">
     <title>Next event: 19 Jan 01:00 PM - Milwaukee Bucks vs. Atlanta Hawks (Peacock)</title>
     <date>2026</date>
@@ -2317,6 +2325,54 @@
     </audio>
   </programme>
   <programme start="20250118052800 -0500" channel="24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK" stop="20250118235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119060102 -0500" channel="WWE: Monday Night RAW - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119150000 -0500">
+    <title>Next event: 19 Jan 03:00 PM - WWE: Monday Night RAW (Netflix)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119150000 -0500" channel="WWE: Monday Night RAW - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119180000 -0500">
+    <title>WWE: Monday Night RAW (Netflix)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119180000 -0500" channel="WWE: Monday Night RAW - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119060102 -0500" channel="WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260123200000 -0500">
+    <title>Next event: 23 Jan 08:00 PM - WWE: Friday Night Smackdown (USA)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260123200000 -0500" channel="WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260123230000 -0500">
+    <title>WWE: Friday Night Smackdown (USA)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260123230000 -0500" channel="WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260123235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
