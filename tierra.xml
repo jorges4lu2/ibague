@@ -344,6 +344,10 @@
     <display-name lang="en">Miami Hurricanes vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK</display-name>
     <display-name lang="en">Miami Hurricanes vs. Indiana Hoosiers [LIVE]</display-name>
   </channel>
+  <channel id="World Series of Darts: Saudi Arabia - 11:00 AM ET / 09:00 AM MT / 16:00 UK">
+    <display-name lang="en">World Series of Darts: Saudi Arabia - 11:00 AM ET / 09:00 AM MT / 16:00 UK</display-name>
+    <display-name lang="en">World Series of Darts: Saudi Arabia [LIVE]</display-name>
+  </channel>
   <programme start="20260119010102 -0500" channel="Milwaukee Bucks vs. Atlanta Hawks - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260119130000 -0500">
     <title>Next event: 19 Jan 01:00 PM - Milwaukee Bucks vs. Atlanta Hawks (Peacock)</title>
     <date>2026</date>
@@ -2401,6 +2405,30 @@
     </audio>
   </programme>
   <programme start="20260119230000 -0500" channel="Miami Hurricanes vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260119235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119150102 -0500" channel="World Series of Darts: Saudi Arabia - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20260119110000 -0500">
+    <title>Next event: 19 Jan 11:00 AM - World Series of Darts: Saudi Arabia (PDC Darts)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119110000 -0500" channel="World Series of Darts: Saudi Arabia - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20260119170000 -0500">
+    <title>World Series of Darts: Saudi Arabia (PDC Darts)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119170000 -0500" channel="World Series of Darts: Saudi Arabia - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20260119235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
