@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20260119 -0500">
-  <channel id="Toronto Raptors vs. Los Angeles Lakers - 09:30 PM ET / 07:30 PM MT / 02:30 UK">
-    <display-name lang="en">Toronto Raptors vs. Los Angeles Lakers - 09:30 PM ET / 07:30 PM MT / 02:30 UK</display-name>
-    <display-name lang="en">Toronto Raptors vs. Los Angeles Lakers [LIVE]</display-name>
-  </channel>
   <channel id="Milwaukee Bucks vs. Atlanta Hawks - 01:00 PM ET / 11:00 AM MT / 18:00 UK">
     <display-name lang="en">Milwaukee Bucks vs. Atlanta Hawks - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
     <display-name lang="en">Milwaukee Bucks vs. Atlanta Hawks [LIVE]</display-name>
@@ -60,17 +56,33 @@
     <display-name lang="en">Brighton &amp; Hove Albion vs. AFC Bournemouth - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
     <display-name lang="en">Brighton &amp; Hove Albion vs. AFC Bournemouth [LIVE]</display-name>
   </channel>
+  <channel id="AJ Auxerre vs. Paris Saint-Germain - 02:00 PM ET / 12:00 PM MT / 19:00 UK">
+    <display-name lang="en">AJ Auxerre vs. Paris Saint-Germain - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
+    <display-name lang="en">AJ Auxerre vs. Paris Saint-Germain [LIVE]</display-name>
+  </channel>
   <channel id="St. Pauli vs. Hamburg SV - 02:30 PM ET / 12:30 PM MT / 19:30 UK">
     <display-name lang="en">St. Pauli vs. Hamburg SV - 02:30 PM ET / 12:30 PM MT / 19:30 UK</display-name>
     <display-name lang="en">St. Pauli vs. Hamburg SV [LIVE]</display-name>
+  </channel>
+  <channel id="Inter Milan vs. Pisa - 02:45 PM ET / 12:45 PM MT / 19:45 UK">
+    <display-name lang="en">Inter Milan vs. Pisa - 02:45 PM ET / 12:45 PM MT / 19:45 UK</display-name>
+    <display-name lang="en">Inter Milan vs. Pisa [LIVE]</display-name>
   </channel>
   <channel id="Levante vs. Elche - 03:00 PM ET / 01:00 PM MT / 20:00 UK">
     <display-name lang="en">Levante vs. Elche - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
     <display-name lang="en">Levante vs. Elche [LIVE]</display-name>
   </channel>
+  <channel id="West Ham United vs. Sunderland - 07:30 AM ET / 05:30 AM MT / 12:30 UK">
+    <display-name lang="en">West Ham United vs. Sunderland - 07:30 AM ET / 05:30 AM MT / 12:30 UK</display-name>
+    <display-name lang="en">West Ham United vs. Sunderland [LIVE]</display-name>
+  </channel>
   <channel id="Rayo Vallecano vs. Osasuna - 08:00 AM ET / 06:00 AM MT / 13:00 UK">
     <display-name lang="en">Rayo Vallecano vs. Osasuna - 08:00 AM ET / 06:00 AM MT / 13:00 UK</display-name>
     <display-name lang="en">Rayo Vallecano vs. Osasuna [LIVE]</display-name>
+  </channel>
+  <channel id="Como vs. Torino - 09:00 AM ET / 07:00 AM MT / 14:00 UK">
+    <display-name lang="en">Como vs. Torino - 09:00 AM ET / 07:00 AM MT / 14:00 UK</display-name>
+    <display-name lang="en">Como vs. Torino [LIVE]</display-name>
   </channel>
   <channel id="1. FC Heidenheim 1846 vs. RB Leipzig - 09:30 AM ET / 07:30 AM MT / 14:30 UK">
     <display-name lang="en">1. FC Heidenheim 1846 vs. RB Leipzig - 09:30 AM ET / 07:30 AM MT / 14:30 UK</display-name>
@@ -84,37 +96,157 @@
     <display-name lang="en">Bayern Munich vs. FC Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK</display-name>
     <display-name lang="en">Bayern Munich vs. FC Augsburg [LIVE]</display-name>
   </channel>
+  <channel id="Eintracht Frankfurt vs. TSG Hoffenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK">
+    <display-name lang="en">Eintracht Frankfurt vs. TSG Hoffenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK</display-name>
+    <display-name lang="en">Eintracht Frankfurt vs. TSG Hoffenheim [LIVE]</display-name>
+  </channel>
+  <channel id="Mainz vs. VfL Wolfsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK">
+    <display-name lang="en">Mainz vs. VfL Wolfsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK</display-name>
+    <display-name lang="en">Mainz vs. VfL Wolfsburg [LIVE]</display-name>
+  </channel>
+  <channel id="Burnley vs. Tottenham Hotspur - 10:00 AM ET / 08:00 AM MT / 15:00 UK">
+    <display-name lang="en">Burnley vs. Tottenham Hotspur - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
+    <display-name lang="en">Burnley vs. Tottenham Hotspur [LIVE]</display-name>
+  </channel>
+  <channel id="Fulham vs. Brighton &amp; Hove Albion - 10:00 AM ET / 08:00 AM MT / 15:00 UK">
+    <display-name lang="en">Fulham vs. Brighton &amp; Hove Albion - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
+    <display-name lang="en">Fulham vs. Brighton &amp; Hove Albion [LIVE]</display-name>
+  </channel>
+  <channel id="Manchester City vs. Wolverhampton Wanderers - 10:00 AM ET / 08:00 AM MT / 15:00 UK">
+    <display-name lang="en">Manchester City vs. Wolverhampton Wanderers - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
+    <display-name lang="en">Manchester City vs. Wolverhampton Wanderers [LIVE]</display-name>
+  </channel>
   <channel id="Valencia vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK">
     <display-name lang="en">Valencia vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK</display-name>
     <display-name lang="en">Valencia vs. Espanyol [LIVE]</display-name>
+  </channel>
+  <channel id="Stade Rennais vs. Lorient - 11:00 AM ET / 09:00 AM MT / 16:00 UK">
+    <display-name lang="en">Stade Rennais vs. Lorient - 11:00 AM ET / 09:00 AM MT / 16:00 UK</display-name>
+    <display-name lang="en">Stade Rennais vs. Lorient [LIVE]</display-name>
+  </channel>
+  <channel id="Fiorentina vs. Cagliari - 12:00 PM ET / 10:00 AM MT / 17:00 UK">
+    <display-name lang="en">Fiorentina vs. Cagliari - 12:00 PM ET / 10:00 AM MT / 17:00 UK</display-name>
+    <display-name lang="en">Fiorentina vs. Cagliari [LIVE]</display-name>
   </channel>
   <channel id="Sevilla vs. Athletic Club - 12:30 PM ET / 10:30 AM MT / 17:30 UK">
     <display-name lang="en">Sevilla vs. Athletic Club - 12:30 PM ET / 10:30 AM MT / 17:30 UK</display-name>
     <display-name lang="en">Sevilla vs. Athletic Club [LIVE]</display-name>
   </channel>
+  <channel id="1. FC Union Berlin vs. Borussia Dortmund - 12:30 PM ET / 10:30 AM MT / 17:30 UK">
+    <display-name lang="en">1. FC Union Berlin vs. Borussia Dortmund - 12:30 PM ET / 10:30 AM MT / 17:30 UK</display-name>
+    <display-name lang="en">1. FC Union Berlin vs. Borussia Dortmund [LIVE]</display-name>
+  </channel>
+  <channel id="AFC Bournemouth vs. Liverpool - 12:30 PM ET / 10:30 AM MT / 17:30 UK">
+    <display-name lang="en">AFC Bournemouth vs. Liverpool - 12:30 PM ET / 10:30 AM MT / 17:30 UK</display-name>
+    <display-name lang="en">AFC Bournemouth vs. Liverpool [LIVE]</display-name>
+  </channel>
+  <channel id="Le Havre AC vs. AS Monaco - 01:00 PM ET / 11:00 AM MT / 18:00 UK">
+    <display-name lang="en">Le Havre AC vs. AS Monaco - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
+    <display-name lang="en">Le Havre AC vs. AS Monaco [LIVE]</display-name>
+  </channel>
+  <channel id="Lecce vs. Lazio - 02:45 PM ET / 12:45 PM MT / 19:45 UK">
+    <display-name lang="en">Lecce vs. Lazio - 02:45 PM ET / 12:45 PM MT / 19:45 UK</display-name>
+    <display-name lang="en">Lecce vs. Lazio [LIVE]</display-name>
+  </channel>
   <channel id="Villarreal vs. Real Madrid - 03:00 PM ET / 01:00 PM MT / 20:00 UK">
     <display-name lang="en">Villarreal vs. Real Madrid - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
     <display-name lang="en">Villarreal vs. Real Madrid [LIVE]</display-name>
+  </channel>
+  <channel id="Marseille vs. Lens - 03:05 PM ET / 01:05 PM MT / 20:05 UK">
+    <display-name lang="en">Marseille vs. Lens - 03:05 PM ET / 01:05 PM MT / 20:05 UK</display-name>
+    <display-name lang="en">Marseille vs. Lens [LIVE]</display-name>
+  </channel>
+  <channel id="Sassuolo vs. Cremonese - 06:30 AM ET / 04:30 AM MT / 11:30 UK">
+    <display-name lang="en">Sassuolo vs. Cremonese - 06:30 AM ET / 04:30 AM MT / 11:30 UK</display-name>
+    <display-name lang="en">Sassuolo vs. Cremonese [LIVE]</display-name>
   </channel>
   <channel id="Atl&#233;tico Madrid vs. Mallorca - 08:00 AM ET / 06:00 AM MT / 13:00 UK">
     <display-name lang="en">Atl&#233;tico Madrid vs. Mallorca - 08:00 AM ET / 06:00 AM MT / 13:00 UK</display-name>
     <display-name lang="en">Atl&#233;tico Madrid vs. Mallorca [LIVE]</display-name>
   </channel>
+  <channel id="Brentford vs. Nottingham Forest - 09:00 AM ET / 07:00 AM MT / 14:00 UK">
+    <display-name lang="en">Brentford vs. Nottingham Forest - 09:00 AM ET / 07:00 AM MT / 14:00 UK</display-name>
+    <display-name lang="en">Brentford vs. Nottingham Forest [LIVE]</display-name>
+  </channel>
+  <channel id="Crystal Palace vs. Chelsea - 09:00 AM ET / 07:00 AM MT / 14:00 UK">
+    <display-name lang="en">Crystal Palace vs. Chelsea - 09:00 AM ET / 07:00 AM MT / 14:00 UK</display-name>
+    <display-name lang="en">Crystal Palace vs. Chelsea [LIVE]</display-name>
+  </channel>
+  <channel id="Newcastle United vs. Aston Villa - 09:00 AM ET / 07:00 AM MT / 14:00 UK">
+    <display-name lang="en">Newcastle United vs. Aston Villa - 09:00 AM ET / 07:00 AM MT / 14:00 UK</display-name>
+    <display-name lang="en">Newcastle United vs. Aston Villa [LIVE]</display-name>
+  </channel>
+  <channel id="Atalanta vs. Parma - 09:00 AM ET / 07:00 AM MT / 14:00 UK">
+    <display-name lang="en">Atalanta vs. Parma - 09:00 AM ET / 07:00 AM MT / 14:00 UK</display-name>
+    <display-name lang="en">Atalanta vs. Parma [LIVE]</display-name>
+  </channel>
+  <channel id="Genoa vs. Bologna - 09:00 AM ET / 07:00 AM MT / 14:00 UK">
+    <display-name lang="en">Genoa vs. Bologna - 09:00 AM ET / 07:00 AM MT / 14:00 UK</display-name>
+    <display-name lang="en">Genoa vs. Bologna [LIVE]</display-name>
+  </channel>
+  <channel id="Nantes vs. Nice - 09:00 AM ET / 07:00 AM MT / 14:00 UK">
+    <display-name lang="en">Nantes vs. Nice - 09:00 AM ET / 07:00 AM MT / 14:00 UK</display-name>
+    <display-name lang="en">Nantes vs. Nice [LIVE]</display-name>
+  </channel>
+  <channel id="Borussia M&#246;nchengladbach vs. VfB Stuttgart - 09:30 AM ET / 07:30 AM MT / 14:30 UK">
+    <display-name lang="en">Borussia M&#246;nchengladbach vs. VfB Stuttgart - 09:30 AM ET / 07:30 AM MT / 14:30 UK</display-name>
+    <display-name lang="en">Borussia M&#246;nchengladbach vs. VfB Stuttgart [LIVE]</display-name>
+  </channel>
   <channel id="Barcelona vs. Real Oviedo - 10:15 AM ET / 08:15 AM MT / 15:15 UK">
     <display-name lang="en">Barcelona vs. Real Oviedo - 10:15 AM ET / 08:15 AM MT / 15:15 UK</display-name>
     <display-name lang="en">Barcelona vs. Real Oviedo [LIVE]</display-name>
+  </channel>
+  <channel id="Brest vs. Toulouse - 11:15 AM ET / 09:15 AM MT / 16:15 UK">
+    <display-name lang="en">Brest vs. Toulouse - 11:15 AM ET / 09:15 AM MT / 16:15 UK</display-name>
+    <display-name lang="en">Brest vs. Toulouse [LIVE]</display-name>
+  </channel>
+  <channel id="Metz vs. Lyon - 11:15 AM ET / 09:15 AM MT / 16:15 UK">
+    <display-name lang="en">Metz vs. Lyon - 11:15 AM ET / 09:15 AM MT / 16:15 UK</display-name>
+    <display-name lang="en">Metz vs. Lyon [LIVE]</display-name>
+  </channel>
+  <channel id="Paris FC vs. Angers - 11:15 AM ET / 09:15 AM MT / 16:15 UK">
+    <display-name lang="en">Paris FC vs. Angers - 11:15 AM ET / 09:15 AM MT / 16:15 UK</display-name>
+    <display-name lang="en">Paris FC vs. Angers [LIVE]</display-name>
+  </channel>
+  <channel id="SC Freiburg vs. FC Cologne - 11:30 AM ET / 09:30 AM MT / 16:30 UK">
+    <display-name lang="en">SC Freiburg vs. FC Cologne - 11:30 AM ET / 09:30 AM MT / 16:30 UK</display-name>
+    <display-name lang="en">SC Freiburg vs. FC Cologne [LIVE]</display-name>
+  </channel>
+  <channel id="Arsenal vs. Manchester United - 11:30 AM ET / 09:30 AM MT / 16:30 UK">
+    <display-name lang="en">Arsenal vs. Manchester United - 11:30 AM ET / 09:30 AM MT / 16:30 UK</display-name>
+    <display-name lang="en">Arsenal vs. Manchester United [LIVE]</display-name>
+  </channel>
+  <channel id="Juventus vs. Napoli - 12:00 PM ET / 10:00 AM MT / 17:00 UK">
+    <display-name lang="en">Juventus vs. Napoli - 12:00 PM ET / 10:00 AM MT / 17:00 UK</display-name>
+    <display-name lang="en">Juventus vs. Napoli [LIVE]</display-name>
   </channel>
   <channel id="Real Sociedad vs. Celta Vigo - 12:30 PM ET / 10:30 AM MT / 17:30 UK">
     <display-name lang="en">Real Sociedad vs. Celta Vigo - 12:30 PM ET / 10:30 AM MT / 17:30 UK</display-name>
     <display-name lang="en">Real Sociedad vs. Celta Vigo [LIVE]</display-name>
   </channel>
+  <channel id="AS Roma vs. AC Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK">
+    <display-name lang="en">AS Roma vs. AC Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK</display-name>
+    <display-name lang="en">AS Roma vs. AC Milan [LIVE]</display-name>
+  </channel>
+  <channel id="Lille vs. Strasbourg - 02:45 PM ET / 12:45 PM MT / 19:45 UK">
+    <display-name lang="en">Lille vs. Strasbourg - 02:45 PM ET / 12:45 PM MT / 19:45 UK</display-name>
+    <display-name lang="en">Lille vs. Strasbourg [LIVE]</display-name>
+  </channel>
   <channel id="Alav&#233;s vs. Real Betis - 03:00 PM ET / 01:00 PM MT / 20:00 UK">
     <display-name lang="en">Alav&#233;s vs. Real Betis - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
     <display-name lang="en">Alav&#233;s vs. Real Betis [LIVE]</display-name>
   </channel>
+  <channel id="Hellas Verona vs. Udinese - 02:45 PM ET / 12:45 PM MT / 19:45 UK">
+    <display-name lang="en">Hellas Verona vs. Udinese - 02:45 PM ET / 12:45 PM MT / 19:45 UK</display-name>
+    <display-name lang="en">Hellas Verona vs. Udinese [LIVE]</display-name>
+  </channel>
   <channel id="Girona vs. Getafe - 03:00 PM ET / 01:00 PM MT / 20:00 UK">
     <display-name lang="en">Girona vs. Getafe - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
     <display-name lang="en">Girona vs. Getafe [LIVE]</display-name>
+  </channel>
+  <channel id="Everton vs. Leeds United - 03:00 PM ET / 01:00 PM MT / 20:00 UK">
+    <display-name lang="en">Everton vs. Leeds United - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
+    <display-name lang="en">Everton vs. Leeds United [LIVE]</display-name>
   </channel>
   <channel id="Buffalo Sabres vs. Carolina Hurricanes - 01:30 PM ET / 11:30 AM MT / 18:30 UK">
     <display-name lang="en">Buffalo Sabres vs. Carolina Hurricanes - 01:30 PM ET / 11:30 AM MT / 18:30 UK</display-name>
@@ -160,6 +292,30 @@
     <display-name lang="en">Puppy Bowl XXII - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
     <display-name lang="en">Puppy Bowl XXII [LIVE]</display-name>
   </channel>
+  <channel id="WWE: Monday Night RAW - 02:00 PM ET / 12:00 PM MT / 19:00 UK">
+    <display-name lang="en">WWE: Monday Night RAW - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
+    <display-name lang="en">WWE: Monday Night RAW [LIVE]</display-name>
+  </channel>
+  <channel id="WWE: Friday Night Smackdown - 03:00 PM ET / 01:00 PM MT / 20:00 UK">
+    <display-name lang="en">WWE: Friday Night Smackdown - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
+    <display-name lang="en">WWE: Friday Night Smackdown [LIVE]</display-name>
+  </channel>
+  <channel id="WWE: NXT - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">WWE: NXT - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">WWE: NXT [LIVE]</display-name>
+  </channel>
+  <channel id="AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">AEW: Wednesday Night Dynamite [LIVE]</display-name>
+  </channel>
+  <channel id="TNA: Impact - 09:00 PM ET / 07:00 PM MT / 02:00 UK">
+    <display-name lang="en">TNA: Impact - 09:00 PM ET / 07:00 PM MT / 02:00 UK</display-name>
+    <display-name lang="en">TNA: Impact [LIVE]</display-name>
+  </channel>
+  <channel id="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">AEW: Saturday Night Collision [LIVE]</display-name>
+  </channel>
   <channel id="24/7 South Park - 07:00 PM ET / 05:00 PM MT / 00:00 UK">
     <display-name lang="en">24/7 South Park - 07:00 PM ET / 05:00 PM MT / 00:00 UK</display-name>
     <display-name lang="en">24/7 South Park [LIVE]</display-name>
@@ -176,31 +332,7 @@
     <display-name lang="en">24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK</display-name>
     <display-name lang="en">24/7 The Simpsons [LIVE]</display-name>
   </channel>
-  <programme start="20260119000102 -0500" channel="Toronto Raptors vs. Los Angeles Lakers - 09:30 PM ET / 07:30 PM MT / 02:30 UK" stop="20260118213000 -0500">
-    <title>Next event: 18 Jan 09:30 PM - Toronto Raptors vs. Los Angeles Lakers (Spectrum Sports Net)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260118213000 -0500" channel="Toronto Raptors vs. Los Angeles Lakers - 09:30 PM ET / 07:30 PM MT / 02:30 UK" stop="20260119001800 -0500">
-    <title>Toronto Raptors vs. Los Angeles Lakers (Spectrum Sports Net)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260119001800 -0500" channel="Toronto Raptors vs. Los Angeles Lakers - 09:30 PM ET / 07:30 PM MT / 02:30 UK" stop="20260118235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260119000102 -0500" channel="Milwaukee Bucks vs. Atlanta Hawks - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260119130000 -0500">
+  <programme start="20260119010102 -0500" channel="Milwaukee Bucks vs. Atlanta Hawks - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260119130000 -0500">
     <title>Next event: 19 Jan 01:00 PM - Milwaukee Bucks vs. Atlanta Hawks (Peacock)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -224,7 +356,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Oklahoma City Thunder vs. Cleveland Cavaliers - 02:30 PM ET / 12:30 PM MT / 19:30 UK" stop="20260119143000 -0500">
+  <programme start="20260119010102 -0500" channel="Oklahoma City Thunder vs. Cleveland Cavaliers - 02:30 PM ET / 12:30 PM MT / 19:30 UK" stop="20260119143000 -0500">
     <title>Next event: 19 Jan 02:30 PM - Oklahoma City Thunder vs. Cleveland Cavaliers (NBC)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -248,7 +380,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="LA Clippers vs. Washington Wizards - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119150000 -0500">
+  <programme start="20260119010102 -0500" channel="LA Clippers vs. Washington Wizards - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119150000 -0500">
     <title>Next event: 19 Jan 03:00 PM - LA Clippers vs. Washington Wizards (MNMT)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -272,7 +404,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Dallas Mavericks vs. New York Knicks - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260119170000 -0500">
+  <programme start="20260119010102 -0500" channel="Dallas Mavericks vs. New York Knicks - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260119170000 -0500">
     <title>Next event: 19 Jan 05:00 PM - Dallas Mavericks vs. New York Knicks (NBC)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -296,7 +428,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Utah Jazz vs. San Antonio Spurs - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260119170000 -0500">
+  <programme start="20260119010102 -0500" channel="Utah Jazz vs. San Antonio Spurs - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260119170000 -0500">
     <title>Next event: 19 Jan 05:00 PM - Utah Jazz vs. San Antonio Spurs (FanDuel SN SW)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -320,7 +452,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Indiana Pacers vs. Philadelphia 76ers - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20260119190000 -0500">
+  <programme start="20260119010102 -0500" channel="Indiana Pacers vs. Philadelphia 76ers - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20260119190000 -0500">
     <title>Next event: 19 Jan 07:00 PM - Indiana Pacers vs. Philadelphia 76ers (NBC Sports Phil)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -344,7 +476,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Phoenix Suns vs. Brooklyn Nets - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260119193000 -0500">
+  <programme start="20260119010102 -0500" channel="Phoenix Suns vs. Brooklyn Nets - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260119193000 -0500">
     <title>Next event: 19 Jan 07:30 PM - Phoenix Suns vs. Brooklyn Nets (YES)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -368,7 +500,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Boston Celtics vs. Detroit Pistons - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260119200000 -0500">
+  <programme start="20260119010102 -0500" channel="Boston Celtics vs. Detroit Pistons - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260119200000 -0500">
     <title>Next event: 19 Jan 08:00 PM - Boston Celtics vs. Detroit Pistons (NBC)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -392,7 +524,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Miami Heat vs. Golden State Warriors - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20260119220000 -0500">
+  <programme start="20260119010102 -0500" channel="Miami Heat vs. Golden State Warriors - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20260119220000 -0500">
     <title>Next event: 19 Jan 10:00 PM - Miami Heat vs. Golden State Warriors (NBC Sports BA)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -416,7 +548,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="UFC 324: Gaethje vs. Pimblett - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260124170000 -0500">
+  <programme start="20260119010102 -0500" channel="UFC 324: Gaethje vs. Pimblett - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260124170000 -0500">
     <title>Next event: 24 Jan 05:00 PM - UFC 324: Gaethje vs. Pimblett (Paramount+)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -440,7 +572,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Cremonese vs. Hellas Verona - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260119123000 -0500">
+  <programme start="20260119010102 -0500" channel="Cremonese vs. Hellas Verona - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260119123000 -0500">
     <title>Next event: 19 Jan 12:30 PM - Cremonese vs. Hellas Verona (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -464,7 +596,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Lazio vs. Como - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260119144500 -0500">
+  <programme start="20260119010102 -0500" channel="Lazio vs. Como - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260119144500 -0500">
     <title>Next event: 19 Jan 02:45 PM - Lazio vs. Como (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -488,7 +620,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Elche vs. Sevilla - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119150000 -0500">
+  <programme start="20260119010102 -0500" channel="Elche vs. Sevilla - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119150000 -0500">
     <title>Next event: 19 Jan 03:00 PM - Elche vs. Sevilla (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -512,7 +644,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Brighton &amp; Hove Albion vs. AFC Bournemouth - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119150000 -0500">
+  <programme start="20260119010102 -0500" channel="Brighton &amp; Hove Albion vs. AFC Bournemouth - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119150000 -0500">
     <title>Next event: 19 Jan 03:00 PM - Brighton &amp; Hove Albion vs. AFC Bournemouth (Premier League)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -536,7 +668,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="St. Pauli vs. Hamburg SV - 02:30 PM ET / 12:30 PM MT / 19:30 UK" stop="20260123143000 -0500">
+  <programme start="20260119010102 -0500" channel="AJ Auxerre vs. Paris Saint-Germain - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260123140000 -0500">
+    <title>Next event: 23 Jan 02:00 PM - AJ Auxerre vs. Paris Saint-Germain (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260123140000 -0500" channel="AJ Auxerre vs. Paris Saint-Germain - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260123163000 -0500">
+    <title>AJ Auxerre vs. Paris Saint-Germain (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260123163000 -0500" channel="AJ Auxerre vs. Paris Saint-Germain - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260123235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="St. Pauli vs. Hamburg SV - 02:30 PM ET / 12:30 PM MT / 19:30 UK" stop="20260123143000 -0500">
     <title>Next event: 23 Jan 02:30 PM - St. Pauli vs. Hamburg SV (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -560,7 +716,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Levante vs. Elche - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260123150000 -0500">
+  <programme start="20260119010102 -0500" channel="Inter Milan vs. Pisa - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260123144500 -0500">
+    <title>Next event: 23 Jan 02:45 PM - Inter Milan vs. Pisa (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260123144500 -0500" channel="Inter Milan vs. Pisa - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260123171500 -0500">
+    <title>Inter Milan vs. Pisa (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260123171500 -0500" channel="Inter Milan vs. Pisa - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260123235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Levante vs. Elche - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260123150000 -0500">
     <title>Next event: 23 Jan 03:00 PM - Levante vs. Elche (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -584,7 +764,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Rayo Vallecano vs. Osasuna - 08:00 AM ET / 06:00 AM MT / 13:00 UK" stop="20260124080000 -0500">
+  <programme start="20260119010102 -0500" channel="West Ham United vs. Sunderland - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20260124073000 -0500">
+    <title>Next event: 24 Jan 07:30 AM - West Ham United vs. Sunderland (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124073000 -0500" channel="West Ham United vs. Sunderland - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20260124100000 -0500">
+    <title>West Ham United vs. Sunderland (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124100000 -0500" channel="West Ham United vs. Sunderland - 07:30 AM ET / 05:30 AM MT / 12:30 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Rayo Vallecano vs. Osasuna - 08:00 AM ET / 06:00 AM MT / 13:00 UK" stop="20260124080000 -0500">
     <title>Next event: 24 Jan 08:00 AM - Rayo Vallecano vs. Osasuna (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -608,7 +812,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="1. FC Heidenheim 1846 vs. RB Leipzig - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124093000 -0500">
+  <programme start="20260119010102 -0500" channel="Como vs. Torino - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260124090000 -0500">
+    <title>Next event: 24 Jan 09:00 AM - Como vs. Torino (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124090000 -0500" channel="Como vs. Torino - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260124113000 -0500">
+    <title>Como vs. Torino (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124113000 -0500" channel="Como vs. Torino - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="1. FC Heidenheim 1846 vs. RB Leipzig - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124093000 -0500">
     <title>Next event: 24 Jan 09:30 AM - 1. FC Heidenheim 1846 vs. RB Leipzig (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -632,7 +860,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Bayer Leverkusen vs. Werder Bremen - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124093000 -0500">
+  <programme start="20260119010102 -0500" channel="Bayer Leverkusen vs. Werder Bremen - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124093000 -0500">
     <title>Next event: 24 Jan 09:30 AM - Bayer Leverkusen vs. Werder Bremen (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -656,7 +884,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Bayern Munich vs. FC Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124093000 -0500">
+  <programme start="20260119010102 -0500" channel="Bayern Munich vs. FC Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124093000 -0500">
     <title>Next event: 24 Jan 09:30 AM - Bayern Munich vs. FC Augsburg (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -680,7 +908,127 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Valencia vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK" stop="20260124101500 -0500">
+  <programme start="20260119010102 -0500" channel="Eintracht Frankfurt vs. TSG Hoffenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124093000 -0500">
+    <title>Next event: 24 Jan 09:30 AM - Eintracht Frankfurt vs. TSG Hoffenheim (Bundesliga)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124093000 -0500" channel="Eintracht Frankfurt vs. TSG Hoffenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124120000 -0500">
+    <title>Eintracht Frankfurt vs. TSG Hoffenheim (Bundesliga)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124120000 -0500" channel="Eintracht Frankfurt vs. TSG Hoffenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Mainz vs. VfL Wolfsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124093000 -0500">
+    <title>Next event: 24 Jan 09:30 AM - Mainz vs. VfL Wolfsburg (Bundesliga)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124093000 -0500" channel="Mainz vs. VfL Wolfsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124120000 -0500">
+    <title>Mainz vs. VfL Wolfsburg (Bundesliga)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124120000 -0500" channel="Mainz vs. VfL Wolfsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Burnley vs. Tottenham Hotspur - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260124100000 -0500">
+    <title>Next event: 24 Jan 10:00 AM - Burnley vs. Tottenham Hotspur (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124100000 -0500" channel="Burnley vs. Tottenham Hotspur - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260124123000 -0500">
+    <title>Burnley vs. Tottenham Hotspur (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124123000 -0500" channel="Burnley vs. Tottenham Hotspur - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Fulham vs. Brighton &amp; Hove Albion - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260124100000 -0500">
+    <title>Next event: 24 Jan 10:00 AM - Fulham vs. Brighton &amp; Hove Albion (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124100000 -0500" channel="Fulham vs. Brighton &amp; Hove Albion - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260124123000 -0500">
+    <title>Fulham vs. Brighton &amp; Hove Albion (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124123000 -0500" channel="Fulham vs. Brighton &amp; Hove Albion - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Manchester City vs. Wolverhampton Wanderers - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260124100000 -0500">
+    <title>Next event: 24 Jan 10:00 AM - Manchester City vs. Wolverhampton Wanderers (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124100000 -0500" channel="Manchester City vs. Wolverhampton Wanderers - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260124123000 -0500">
+    <title>Manchester City vs. Wolverhampton Wanderers (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124123000 -0500" channel="Manchester City vs. Wolverhampton Wanderers - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Valencia vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK" stop="20260124101500 -0500">
     <title>Next event: 24 Jan 10:15 AM - Valencia vs. Espanyol (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -704,7 +1052,55 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Sevilla vs. Athletic Club - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260124123000 -0500">
+  <programme start="20260119010102 -0500" channel="Stade Rennais vs. Lorient - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20260124110000 -0500">
+    <title>Next event: 24 Jan 11:00 AM - Stade Rennais vs. Lorient (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124110000 -0500" channel="Stade Rennais vs. Lorient - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20260124133000 -0500">
+    <title>Stade Rennais vs. Lorient (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124133000 -0500" channel="Stade Rennais vs. Lorient - 11:00 AM ET / 09:00 AM MT / 16:00 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Fiorentina vs. Cagliari - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20260124120000 -0500">
+    <title>Next event: 24 Jan 12:00 PM - Fiorentina vs. Cagliari (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124120000 -0500" channel="Fiorentina vs. Cagliari - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20260124143000 -0500">
+    <title>Fiorentina vs. Cagliari (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124143000 -0500" channel="Fiorentina vs. Cagliari - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Sevilla vs. Athletic Club - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260124123000 -0500">
     <title>Next event: 24 Jan 12:30 PM - Sevilla vs. Athletic Club (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -728,7 +1124,103 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Villarreal vs. Real Madrid - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260124150000 -0500">
+  <programme start="20260119010102 -0500" channel="1. FC Union Berlin vs. Borussia Dortmund - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260124123000 -0500">
+    <title>Next event: 24 Jan 12:30 PM - 1. FC Union Berlin vs. Borussia Dortmund (Bundesliga)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124123000 -0500" channel="1. FC Union Berlin vs. Borussia Dortmund - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260124150000 -0500">
+    <title>1. FC Union Berlin vs. Borussia Dortmund (Bundesliga)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124150000 -0500" channel="1. FC Union Berlin vs. Borussia Dortmund - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="AFC Bournemouth vs. Liverpool - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260124123000 -0500">
+    <title>Next event: 24 Jan 12:30 PM - AFC Bournemouth vs. Liverpool (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124123000 -0500" channel="AFC Bournemouth vs. Liverpool - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260124150000 -0500">
+    <title>AFC Bournemouth vs. Liverpool (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124150000 -0500" channel="AFC Bournemouth vs. Liverpool - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Le Havre AC vs. AS Monaco - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260124130000 -0500">
+    <title>Next event: 24 Jan 01:00 PM - Le Havre AC vs. AS Monaco (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124130000 -0500" channel="Le Havre AC vs. AS Monaco - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260124153000 -0500">
+    <title>Le Havre AC vs. AS Monaco (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124153000 -0500" channel="Le Havre AC vs. AS Monaco - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Lecce vs. Lazio - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260124144500 -0500">
+    <title>Next event: 24 Jan 02:45 PM - Lecce vs. Lazio (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124144500 -0500" channel="Lecce vs. Lazio - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260124171500 -0500">
+    <title>Lecce vs. Lazio (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124171500 -0500" channel="Lecce vs. Lazio - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Villarreal vs. Real Madrid - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260124150000 -0500">
     <title>Next event: 24 Jan 03:00 PM - Villarreal vs. Real Madrid (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -752,7 +1244,55 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Atl&#233;tico Madrid vs. Mallorca - 08:00 AM ET / 06:00 AM MT / 13:00 UK" stop="20260125080000 -0500">
+  <programme start="20260119010102 -0500" channel="Marseille vs. Lens - 03:05 PM ET / 01:05 PM MT / 20:05 UK" stop="20260124150500 -0500">
+    <title>Next event: 24 Jan 03:05 PM - Marseille vs. Lens (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124150500 -0500" channel="Marseille vs. Lens - 03:05 PM ET / 01:05 PM MT / 20:05 UK" stop="20260124173500 -0500">
+    <title>Marseille vs. Lens (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124173500 -0500" channel="Marseille vs. Lens - 03:05 PM ET / 01:05 PM MT / 20:05 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Sassuolo vs. Cremonese - 06:30 AM ET / 04:30 AM MT / 11:30 UK" stop="20260125063000 -0500">
+    <title>Next event: 25 Jan 06:30 AM - Sassuolo vs. Cremonese (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125063000 -0500" channel="Sassuolo vs. Cremonese - 06:30 AM ET / 04:30 AM MT / 11:30 UK" stop="20260125090000 -0500">
+    <title>Sassuolo vs. Cremonese (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125090000 -0500" channel="Sassuolo vs. Cremonese - 06:30 AM ET / 04:30 AM MT / 11:30 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Atl&#233;tico Madrid vs. Mallorca - 08:00 AM ET / 06:00 AM MT / 13:00 UK" stop="20260125080000 -0500">
     <title>Next event: 25 Jan 08:00 AM - Atl&#233;tico Madrid vs. Mallorca (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -776,7 +1316,175 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Barcelona vs. Real Oviedo - 10:15 AM ET / 08:15 AM MT / 15:15 UK" stop="20260125101500 -0500">
+  <programme start="20260119010102 -0500" channel="Brentford vs. Nottingham Forest - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125090000 -0500">
+    <title>Next event: 25 Jan 09:00 AM - Brentford vs. Nottingham Forest (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125090000 -0500" channel="Brentford vs. Nottingham Forest - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125113000 -0500">
+    <title>Brentford vs. Nottingham Forest (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125113000 -0500" channel="Brentford vs. Nottingham Forest - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Crystal Palace vs. Chelsea - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125090000 -0500">
+    <title>Next event: 25 Jan 09:00 AM - Crystal Palace vs. Chelsea (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125090000 -0500" channel="Crystal Palace vs. Chelsea - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125113000 -0500">
+    <title>Crystal Palace vs. Chelsea (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125113000 -0500" channel="Crystal Palace vs. Chelsea - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Newcastle United vs. Aston Villa - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125090000 -0500">
+    <title>Next event: 25 Jan 09:00 AM - Newcastle United vs. Aston Villa (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125090000 -0500" channel="Newcastle United vs. Aston Villa - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125113000 -0500">
+    <title>Newcastle United vs. Aston Villa (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125113000 -0500" channel="Newcastle United vs. Aston Villa - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Atalanta vs. Parma - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125090000 -0500">
+    <title>Next event: 25 Jan 09:00 AM - Atalanta vs. Parma (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125090000 -0500" channel="Atalanta vs. Parma - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125113000 -0500">
+    <title>Atalanta vs. Parma (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125113000 -0500" channel="Atalanta vs. Parma - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Genoa vs. Bologna - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125090000 -0500">
+    <title>Next event: 25 Jan 09:00 AM - Genoa vs. Bologna (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125090000 -0500" channel="Genoa vs. Bologna - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125113000 -0500">
+    <title>Genoa vs. Bologna (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125113000 -0500" channel="Genoa vs. Bologna - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Nantes vs. Nice - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125090000 -0500">
+    <title>Next event: 25 Jan 09:00 AM - Nantes vs. Nice (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125090000 -0500" channel="Nantes vs. Nice - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125113000 -0500">
+    <title>Nantes vs. Nice (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125113000 -0500" channel="Nantes vs. Nice - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Borussia M&#246;nchengladbach vs. VfB Stuttgart - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260125093000 -0500">
+    <title>Next event: 25 Jan 09:30 AM - Borussia M&#246;nchengladbach vs. VfB Stuttgart (Bundesliga)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125093000 -0500" channel="Borussia M&#246;nchengladbach vs. VfB Stuttgart - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260125120000 -0500">
+    <title>Borussia M&#246;nchengladbach vs. VfB Stuttgart (Bundesliga)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125120000 -0500" channel="Borussia M&#246;nchengladbach vs. VfB Stuttgart - 09:30 AM ET / 07:30 AM MT / 14:30 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Barcelona vs. Real Oviedo - 10:15 AM ET / 08:15 AM MT / 15:15 UK" stop="20260125101500 -0500">
     <title>Next event: 25 Jan 10:15 AM - Barcelona vs. Real Oviedo (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -800,7 +1508,151 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Real Sociedad vs. Celta Vigo - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260125123000 -0500">
+  <programme start="20260119010102 -0500" channel="Brest vs. Toulouse - 11:15 AM ET / 09:15 AM MT / 16:15 UK" stop="20260125111500 -0500">
+    <title>Next event: 25 Jan 11:15 AM - Brest vs. Toulouse (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125111500 -0500" channel="Brest vs. Toulouse - 11:15 AM ET / 09:15 AM MT / 16:15 UK" stop="20260125134500 -0500">
+    <title>Brest vs. Toulouse (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125134500 -0500" channel="Brest vs. Toulouse - 11:15 AM ET / 09:15 AM MT / 16:15 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Metz vs. Lyon - 11:15 AM ET / 09:15 AM MT / 16:15 UK" stop="20260125111500 -0500">
+    <title>Next event: 25 Jan 11:15 AM - Metz vs. Lyon (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125111500 -0500" channel="Metz vs. Lyon - 11:15 AM ET / 09:15 AM MT / 16:15 UK" stop="20260125134500 -0500">
+    <title>Metz vs. Lyon (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125134500 -0500" channel="Metz vs. Lyon - 11:15 AM ET / 09:15 AM MT / 16:15 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Paris FC vs. Angers - 11:15 AM ET / 09:15 AM MT / 16:15 UK" stop="20260125111500 -0500">
+    <title>Next event: 25 Jan 11:15 AM - Paris FC vs. Angers (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125111500 -0500" channel="Paris FC vs. Angers - 11:15 AM ET / 09:15 AM MT / 16:15 UK" stop="20260125134500 -0500">
+    <title>Paris FC vs. Angers (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125134500 -0500" channel="Paris FC vs. Angers - 11:15 AM ET / 09:15 AM MT / 16:15 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="SC Freiburg vs. FC Cologne - 11:30 AM ET / 09:30 AM MT / 16:30 UK" stop="20260125113000 -0500">
+    <title>Next event: 25 Jan 11:30 AM - SC Freiburg vs. FC Cologne (Bundesliga)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125113000 -0500" channel="SC Freiburg vs. FC Cologne - 11:30 AM ET / 09:30 AM MT / 16:30 UK" stop="20260125140000 -0500">
+    <title>SC Freiburg vs. FC Cologne (Bundesliga)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125140000 -0500" channel="SC Freiburg vs. FC Cologne - 11:30 AM ET / 09:30 AM MT / 16:30 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Arsenal vs. Manchester United - 11:30 AM ET / 09:30 AM MT / 16:30 UK" stop="20260125113000 -0500">
+    <title>Next event: 25 Jan 11:30 AM - Arsenal vs. Manchester United (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125113000 -0500" channel="Arsenal vs. Manchester United - 11:30 AM ET / 09:30 AM MT / 16:30 UK" stop="20260125140000 -0500">
+    <title>Arsenal vs. Manchester United (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125140000 -0500" channel="Arsenal vs. Manchester United - 11:30 AM ET / 09:30 AM MT / 16:30 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Juventus vs. Napoli - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20260125120000 -0500">
+    <title>Next event: 25 Jan 12:00 PM - Juventus vs. Napoli (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125120000 -0500" channel="Juventus vs. Napoli - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20260125143000 -0500">
+    <title>Juventus vs. Napoli (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125143000 -0500" channel="Juventus vs. Napoli - 12:00 PM ET / 10:00 AM MT / 17:00 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Real Sociedad vs. Celta Vigo - 12:30 PM ET / 10:30 AM MT / 17:30 UK" stop="20260125123000 -0500">
     <title>Next event: 25 Jan 12:30 PM - Real Sociedad vs. Celta Vigo (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -824,7 +1676,55 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Alav&#233;s vs. Real Betis - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260125150000 -0500">
+  <programme start="20260119010102 -0500" channel="AS Roma vs. AC Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260125144500 -0500">
+    <title>Next event: 25 Jan 02:45 PM - AS Roma vs. AC Milan (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125144500 -0500" channel="AS Roma vs. AC Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260125171500 -0500">
+    <title>AS Roma vs. AC Milan (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125171500 -0500" channel="AS Roma vs. AC Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Lille vs. Strasbourg - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260125144500 -0500">
+    <title>Next event: 25 Jan 02:45 PM - Lille vs. Strasbourg (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125144500 -0500" channel="Lille vs. Strasbourg - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260125171500 -0500">
+    <title>Lille vs. Strasbourg (Ligue 1)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125171500 -0500" channel="Lille vs. Strasbourg - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260125235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Alav&#233;s vs. Real Betis - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260125150000 -0500">
     <title>Next event: 25 Jan 03:00 PM - Alav&#233;s vs. Real Betis (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -848,7 +1748,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Girona vs. Getafe - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260126150000 -0500">
+  <programme start="20260119010102 -0500" channel="Hellas Verona vs. Udinese - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260126144500 -0500">
+    <title>Next event: 26 Jan 02:45 PM - Hellas Verona vs. Udinese (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126144500 -0500" channel="Hellas Verona vs. Udinese - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260126171500 -0500">
+    <title>Hellas Verona vs. Udinese (Serie A)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126171500 -0500" channel="Hellas Verona vs. Udinese - 02:45 PM ET / 12:45 PM MT / 19:45 UK" stop="20260126235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Girona vs. Getafe - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260126150000 -0500">
     <title>Next event: 26 Jan 03:00 PM - Girona vs. Getafe (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -872,7 +1796,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Buffalo Sabres vs. Carolina Hurricanes - 01:30 PM ET / 11:30 AM MT / 18:30 UK" stop="20260119133000 -0500">
+  <programme start="20260119010102 -0500" channel="Everton vs. Leeds United - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260126150000 -0500">
+    <title>Next event: 26 Jan 03:00 PM - Everton vs. Leeds United (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126150000 -0500" channel="Everton vs. Leeds United - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260126173000 -0500">
+    <title>Everton vs. Leeds United (Premier League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126173000 -0500" channel="Everton vs. Leeds United - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260126235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="Buffalo Sabres vs. Carolina Hurricanes - 01:30 PM ET / 11:30 AM MT / 18:30 UK" stop="20260119133000 -0500">
     <title>Next event: 19 Jan 01:30 PM - Buffalo Sabres vs. Carolina Hurricanes (TNT)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -896,7 +1844,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Washington Capitals vs. Colorado Avalanche - 04:00 PM ET / 02:00 PM MT / 21:00 UK" stop="20260119160000 -0500">
+  <programme start="20260119010102 -0500" channel="Washington Capitals vs. Colorado Avalanche - 04:00 PM ET / 02:00 PM MT / 21:00 UK" stop="20260119160000 -0500">
     <title>Next event: 19 Jan 04:00 PM - Washington Capitals vs. Colorado Avalanche (TNT)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -920,7 +1868,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Pittsburgh Penguins vs. Seattle Kraken - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260119170000 -0500">
+  <programme start="20260119010102 -0500" channel="Pittsburgh Penguins vs. Seattle Kraken - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260119170000 -0500">
     <title>Next event: 19 Jan 05:00 PM - Pittsburgh Penguins vs. Seattle Kraken (KONG)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -944,7 +1892,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="San Jose Sharks vs. Florida Panthers - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20260119180000 -0500">
+  <programme start="20260119010102 -0500" channel="San Jose Sharks vs. Florida Panthers - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20260119180000 -0500">
     <title>Next event: 19 Jan 06:00 PM - San Jose Sharks vs. Florida Panthers (Scripps Sports)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -968,7 +1916,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Minnesota Wild vs. Toronto Maple Leafs - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260119193000 -0500">
+  <programme start="20260119010102 -0500" channel="Minnesota Wild vs. Toronto Maple Leafs - 07:30 PM ET / 05:30 PM MT / 00:30 UK" stop="20260119193000 -0500">
     <title>Next event: 19 Jan 07:30 PM - Minnesota Wild vs. Toronto Maple Leafs (ESPN+)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -992,7 +1940,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Philadelphia Flyers vs. Vegas Golden Knights - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260119200000 -0500">
+  <programme start="20260119010102 -0500" channel="Philadelphia Flyers vs. Vegas Golden Knights - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260119200000 -0500">
     <title>Next event: 19 Jan 08:00 PM - Philadelphia Flyers vs. Vegas Golden Knights (Scripps Sports)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1016,7 +1964,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Winnipeg Jets vs. Chicago Blackhawks - 08:30 PM ET / 06:30 PM MT / 01:30 UK" stop="20260119203000 -0500">
+  <programme start="20260119010102 -0500" channel="Winnipeg Jets vs. Chicago Blackhawks - 08:30 PM ET / 06:30 PM MT / 01:30 UK" stop="20260119203000 -0500">
     <title>Next event: 19 Jan 08:30 PM - Winnipeg Jets vs. Chicago Blackhawks (CHSN)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1040,7 +1988,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="New Jersey Devils vs. Calgary Flames - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20260119210000 -0500">
+  <programme start="20260119010102 -0500" channel="New Jersey Devils vs. Calgary Flames - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20260119210000 -0500">
     <title>Next event: 19 Jan 09:00 PM - New Jersey Devils vs. Calgary Flames (ESPN+)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1064,7 +2012,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="New York Islanders vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20260119220000 -0500">
+  <programme start="20260119010102 -0500" channel="New York Islanders vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20260119220000 -0500">
     <title>Next event: 19 Jan 10:00 PM - New York Islanders vs. Vancouver Canucks (ESPN+)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1088,7 +2036,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="New York Rangers vs. Anaheim Ducks - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20260119220000 -0500">
+  <programme start="20260119010102 -0500" channel="New York Rangers vs. Anaheim Ducks - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20260119220000 -0500">
     <title>Next event: 19 Jan 10:00 PM - New York Rangers vs. Anaheim Ducks (KCOP)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1112,7 +2060,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="Puppy Bowl XXII - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260208140000 -0500">
+  <programme start="20260119010102 -0500" channel="Puppy Bowl XXII - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260208140000 -0500">
     <title>Next event: 08 Feb 02:00 PM - Puppy Bowl XXII (Animal Planet)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1136,7 +2084,151 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="24/7 South Park - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="19691231190000 -0500">
+  <programme start="20260119010102 -0500" channel="WWE: Monday Night RAW - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260119140000 -0500">
+    <title>Next event: 19 Jan 02:00 PM - WWE: Monday Night RAW (Netflix)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119140000 -0500" channel="WWE: Monday Night RAW - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260119170000 -0500">
+    <title>WWE: Monday Night RAW (Netflix)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119170000 -0500" channel="WWE: Monday Night RAW - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260119235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="WWE: Friday Night Smackdown - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119150000 -0500">
+    <title>Next event: 19 Jan 03:00 PM - WWE: Friday Night Smackdown (USA Network)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119150000 -0500" channel="WWE: Friday Night Smackdown - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119180000 -0500">
+    <title>WWE: Friday Night Smackdown (USA Network)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119180000 -0500" channel="WWE: Friday Night Smackdown - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260119235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="WWE: NXT - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260120200000 -0500">
+    <title>Next event: 20 Jan 08:00 PM - WWE: NXT (CW)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260120200000 -0500" channel="WWE: NXT - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260120230000 -0500">
+    <title>WWE: NXT (CW)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260120230000 -0500" channel="WWE: NXT - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260120235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260121200000 -0500">
+    <title>Next event: 21 Jan 08:00 PM - AEW: Wednesday Night Dynamite (TBS)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260121200000 -0500" channel="AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260121230000 -0500">
+    <title>AEW: Wednesday Night Dynamite (TBS)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260121230000 -0500" channel="AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260121235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="TNA: Impact - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20260122210000 -0500">
+    <title>Next event: 22 Jan 09:00 PM - TNA: Impact (AMC)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260122210000 -0500" channel="TNA: Impact - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20260122230000 -0500">
+    <title>TNA: Impact (AMC)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260122230000 -0500" channel="TNA: Impact - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20260122235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260124200000 -0500">
+    <title>Next event: 24 Jan 08:00 PM - AEW: Saturday Night Collision (TNT)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124200000 -0500" channel="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260124230000 -0500">
+    <title>AEW: Saturday Night Collision (TNT)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124230000 -0500" channel="AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260119010102 -0500" channel="24/7 South Park - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - 24/7 South Park (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1160,7 +2252,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="24/7 COWS - 12:00 AM ET / 10:00 PM MT / 05:00 UK" stop="20250118000000 -0500">
+  <programme start="20260119010102 -0500" channel="24/7 COWS - 12:00 AM ET / 10:00 PM MT / 05:00 UK" stop="20250118000000 -0500">
     <title>Next event: 18 Jan 12:00 AM - 24/7 COWS (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1184,7 +2276,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="24/7 Family Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK" stop="20250118030000 -0500">
+  <programme start="20260119010102 -0500" channel="24/7 Family Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK" stop="20250118030000 -0500">
     <title>Next event: 18 Jan 03:00 AM - 24/7 Family Guy (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1208,7 +2300,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260119000102 -0500" channel="24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK" stop="20250118052800 -0500">
+  <programme start="20260119010102 -0500" channel="24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK" stop="20250118052800 -0500">
     <title>Next event: 18 Jan 05:28 AM - 24/7 The Simpsons (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
