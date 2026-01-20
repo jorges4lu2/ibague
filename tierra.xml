@@ -460,6 +460,10 @@
     <display-name lang="en">TNT Sports Goals Show - 03:00 PM ET / 01:00 PM MT / 20:00 UK</display-name>
     <display-name lang="en">TNT Sports Goals Show [LIVE]</display-name>
   </channel>
+  <channel id="WWE: Royal Rumble - 02:00 PM ET / 12:00 PM MT / 19:00 UK">
+    <display-name lang="en">WWE: Royal Rumble - 02:00 PM ET / 12:00 PM MT / 19:00 UK</display-name>
+    <display-name lang="en">WWE: Royal Rumble [LIVE]</display-name>
+  </channel>
   <programme start="20260120010102 -0500" channel="New England Patriots vs. Denver Broncos - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260125150000 -0500">
     <title>Next event: 25 Jan 03:00 PM - New England Patriots vs. Denver Broncos (CBS)</title>
     <date>2026</date>
@@ -3213,6 +3217,30 @@
     </audio>
   </programme>
   <programme start="20260120180000 -0500" channel="TNT Sports Goals Show - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260120235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260120160102 -0500" channel="WWE: Royal Rumble - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260131140000 -0500">
+    <title>Next event: 31 Jan 02:00 PM - WWE: Royal Rumble (ESPN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260131140000 -0500" channel="WWE: Royal Rumble - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260131200000 -0500">
+    <title>WWE: Royal Rumble (ESPN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260131200000 -0500" channel="WWE: Royal Rumble - 02:00 PM ET / 12:00 PM MT / 19:00 UK" stop="20260131235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
