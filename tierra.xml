@@ -420,6 +420,10 @@
     <display-name lang="en">Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
     <display-name lang="en">Supercross: Anaheim [LIVE]</display-name>
   </channel>
+  <channel id="Raymond Muratalla vs. Andy Cruz - 08:00 PM ET / 06:00 PM MT / 01:00 UK">
+    <display-name lang="en">Raymond Muratalla vs. Andy Cruz - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
+    <display-name lang="en">Raymond Muratalla vs. Andy Cruz [LIVE]</display-name>
+  </channel>
   <programme start="20260121010102 -0500" channel="New England Patriots vs. Denver Broncos - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260125150000 -0500">
     <title>Next event: 25 Jan 03:00 PM - New England Patriots vs. Denver Broncos (CBS)</title>
     <date>2026</date>
@@ -2933,6 +2937,30 @@
     </audio>
   </programme>
   <programme start="20260124230000 -0500" channel="Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260124235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260121130102 -0500" channel="Raymond Muratalla vs. Andy Cruz - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260124200000 -0500">
+    <title>Next event: 24 Jan 08:00 PM - Raymond Muratalla vs. Andy Cruz (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260124200000 -0500" channel="Raymond Muratalla vs. Andy Cruz - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260125020000 -0500">
+    <title>Raymond Muratalla vs. Andy Cruz (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260125020000 -0500" channel="Raymond Muratalla vs. Andy Cruz - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260124235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
