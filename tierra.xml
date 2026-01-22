@@ -408,6 +408,10 @@
     <display-name lang="en">Zuffa Boxing 01 - 05:30 PM ET / 03:30 PM MT / 22:30 UK</display-name>
     <display-name lang="en">Zuffa Boxing 01 [LIVE]</display-name>
   </channel>
+  <channel id="Utrecht vs. Genk - 03:50 PM ET / 01:50 PM MT / 20:50 UK">
+    <display-name lang="en">Utrecht vs. Genk - 03:50 PM ET / 01:50 PM MT / 20:50 UK</display-name>
+    <display-name lang="en">Utrecht vs. Genk [LIVE]</display-name>
+  </channel>
   <programme start="20260122010102 -0500" channel="New England Patriots vs. Denver Broncos - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260125150000 -0500">
     <title>Next event: 25 Jan 03:00 PM - New England Patriots vs. Denver Broncos (CBS)</title>
     <date>2026</date>
@@ -2849,6 +2853,30 @@
     </audio>
   </programme>
   <programme start="20260124013000 -0500" channel="Zuffa Boxing 01 - 05:30 PM ET / 03:30 PM MT / 22:30 UK" stop="20260123235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260122160102 -0500" channel="Utrecht vs. Genk - 03:50 PM ET / 01:50 PM MT / 20:50 UK" stop="20260122155000 -0500">
+    <title>Next event: 22 Jan 03:50 PM - Utrecht vs. Genk (Europa League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260122155000 -0500" channel="Utrecht vs. Genk - 03:50 PM ET / 01:50 PM MT / 20:50 UK" stop="20260122175000 -0500">
+    <title>Utrecht vs. Genk (Europa League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260122175000 -0500" channel="Utrecht vs. Genk - 03:50 PM ET / 01:50 PM MT / 20:50 UK" stop="20260122235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
