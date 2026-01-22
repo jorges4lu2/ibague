@@ -400,6 +400,10 @@
     <display-name lang="en">24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK</display-name>
     <display-name lang="en">24/7 The Simpsons [LIVE]</display-name>
   </channel>
+  <channel id="CBS Sports Golazo Show - 12:45 PM ET / 10:45 AM MT / 17:45 UK">
+    <display-name lang="en">CBS Sports Golazo Show - 12:45 PM ET / 10:45 AM MT / 17:45 UK</display-name>
+    <display-name lang="en">CBS Sports Golazo Show [LIVE]</display-name>
+  </channel>
   <programme start="20260122010102 -0500" channel="New England Patriots vs. Denver Broncos - 03:00 PM ET / 01:00 PM MT / 20:00 UK" stop="20260125150000 -0500">
     <title>Next event: 25 Jan 03:00 PM - New England Patriots vs. Denver Broncos (CBS)</title>
     <date>2026</date>
@@ -2793,6 +2797,30 @@
     </audio>
   </programme>
   <programme start="20250118052800 -0500" channel="24/7 The Simpsons - 05:28 AM ET / 03:28 AM MT / 10:28 UK" stop="20250118235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260122060103 -0500" channel="CBS Sports Golazo Show - 12:45 PM ET / 10:45 AM MT / 17:45 UK" stop="20260122124500 -0500">
+    <title>Next event: 22 Jan 12:45 PM - CBS Sports Golazo Show (Europa League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260122124500 -0500" channel="CBS Sports Golazo Show - 12:45 PM ET / 10:45 AM MT / 17:45 UK" stop="20260122183000 -0500">
+    <title>CBS Sports Golazo Show (Europa League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260122183000 -0500" channel="CBS Sports Golazo Show - 12:45 PM ET / 10:45 AM MT / 17:45 UK" stop="20260122235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
