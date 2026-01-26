@@ -114,56 +114,17 @@
   <channel id="23:30 Utah Mammoth v Tampa Bay Lightning">
     <display-name lang="en">23:30 Utah Mammoth v Tampa Bay Lightning</display-name>
   </channel>
-  <channel id="00:00 1573 Arena">
-    <display-name lang="en">00:00 1573 Arena</display-name>
-  </channel>
   <channel id="00:00 Animated Feed: Day 10 - Australian Open 2026 (STAN)">
     <display-name lang="en">00:00 Animated Feed: Day 10 - Australian Open 2026 (STAN)</display-name>
   </channel>
   <channel id="00:00 Animated Feed: Day 9 - Australian Open 2026 (STAN)">
     <display-name lang="en">00:00 Animated Feed: Day 9 - Australian Open 2026 (STAN)</display-name>
   </channel>
-  <channel id="00:00 ANZ Arena">
-    <display-name lang="en">00:00 ANZ Arena</display-name>
-  </channel>
   <channel id="00:00 Bruins @ Rangers (NHL)">
     <display-name lang="en">00:00 Bruins @ Rangers (NHL)</display-name>
   </channel>
-  <channel id="00:00 Court 11">
-    <display-name lang="en">00:00 Court 11</display-name>
-  </channel>
-  <channel id="00:00 Court 12">
-    <display-name lang="en">00:00 Court 12</display-name>
-  </channel>
-  <channel id="00:00 Court 13">
-    <display-name lang="en">00:00 Court 13</display-name>
-  </channel>
-  <channel id="00:00 Court 14">
-    <display-name lang="en">00:00 Court 14</display-name>
-  </channel>
-  <channel id="00:00 Court 15">
-    <display-name lang="en">00:00 Court 15</display-name>
-  </channel>
-  <channel id="00:00 Court 5">
-    <display-name lang="en">00:00 Court 5</display-name>
-  </channel>
-  <channel id="00:00 Court 6">
-    <display-name lang="en">00:00 Court 6</display-name>
-  </channel>
-  <channel id="00:00 Court 7">
-    <display-name lang="en">00:00 Court 7</display-name>
-  </channel>
-  <channel id="00:00 Court 8">
-    <display-name lang="en">00:00 Court 8</display-name>
-  </channel>
-  <channel id="00:00 Court TBC">
-    <display-name lang="en">00:00 Court TBC</display-name>
-  </channel>
   <channel id="00:00 Islanders @ Flyers (NHL)">
     <display-name lang="en">00:00 Islanders @ Flyers (NHL)</display-name>
-  </channel>
-  <channel id="00:00 Kia Arena">
-    <display-name lang="en">00:00 Kia Arena</display-name>
   </channel>
   <channel id="00:00 Kings @ Blue Jackets (NHL)">
     <display-name lang="en">00:00 Kings @ Blue Jackets (NHL)</display-name>
@@ -258,11 +219,20 @@
   <channel id="03:30 Zhang/puetz v Verbeek/siniakova - Mixed Doubles R2 Australian Open 2026 (STAN)">
     <display-name lang="en">03:30 Zhang/puetz v Verbeek/siniakova - Mixed Doubles R2 Australian Open 2026 (STAN)</display-name>
   </channel>
+  <channel id="19:00 Inside The Ring - Jan 26 (DAZN)">
+    <display-name lang="en">19:00 Inside The Ring - Jan 26 (DAZN)</display-name>
+  </channel>
+  <channel id="19:00 Dazn Transfer By Fabrizio Romano - January 26 (DAZN)">
+    <display-name lang="en">19:00 Dazn Transfer By Fabrizio Romano - January 26 (DAZN)</display-name>
+  </channel>
   <channel id="01:00 WWE MONDAY NIGHT RAW (PPV)">
     <display-name lang="en">01:00 WWE MONDAY NIGHT RAW (PPV)</display-name>
   </channel>
   <channel id="19:45 Hellas Verona v Udinese (Fubo)">
     <display-name lang="en">19:45 Hellas Verona v Udinese (Fubo)</display-name>
+  </channel>
+  <channel id="19:45 Hellas Verona v. Udinese (DAZN)">
+    <display-name lang="en">19:45 Hellas Verona v. Udinese (DAZN)</display-name>
   </channel>
   <channel id="19:45 Verona v Udinese (AMZN)">
     <display-name lang="en">19:45 Verona v Udinese (AMZN)</display-name>
@@ -279,6 +249,9 @@
   <channel id="20:00 Everton v Leeds (Starhub)">
     <display-name lang="en">20:00 Everton v Leeds (Starhub)</display-name>
   </channel>
+  <channel id="20:00 Everton v. Leeds (DAZN)">
+    <display-name lang="en">20:00 Everton v. Leeds (DAZN)</display-name>
+  </channel>
   <channel id="20:00 Girona v Getafe (AMZN)">
     <display-name lang="en">20:00 Girona v Getafe (AMZN)</display-name>
   </channel>
@@ -287,6 +260,9 @@
   </channel>
   <channel id="20:00 Norwich City v Coventry City (PLAY)">
     <display-name lang="en">20:00 Norwich City v Coventry City (PLAY)</display-name>
+  </channel>
+  <channel id="20:00 Norwich v. Coventry (DAZN)">
+    <display-name lang="en">20:00 Norwich v. Coventry (DAZN)</display-name>
   </channel>
   <programme start="20260126000000 -0500" channel="09:30 Shelton v Ruud - Mens Singles R4 Australian Open 2026 (STAN)" stop="20260126043000 -0500">
     <title>[Upcoming: 04:30 AM]  Shelton v Ruud - Mens Singles R4 Australian Open 2026 (STAN)</title>
@@ -1200,30 +1176,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260126000000 -0500" channel="00:00 1573 Arena" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  1573 Arena</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 1573 Arena" stop="20260126212000 -0500">
-    <title>[07:00 PM]  1573 Arena</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 1573 Arena" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260126000000 -0500" channel="00:00 Animated Feed: Day 10 - Australian Open 2026 (STAN)" stop="20260126190000 -0500">
     <title>[Upcoming: 07:00 PM]  Animated Feed: Day 10 - Australian Open 2026 (STAN)</title>
     <date>2026</date>
@@ -1272,30 +1224,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260126000000 -0500" channel="00:00 ANZ Arena" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  ANZ Arena</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 ANZ Arena" stop="20260126212000 -0500">
-    <title>[07:00 PM]  ANZ Arena</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 ANZ Arena" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260126000000 -0500" channel="00:00 Bruins @ Rangers (NHL)" stop="20260126190000 -0500">
     <title>[Upcoming: 07:00 PM]  Bruins @ Rangers (NHL)</title>
     <date>2026</date>
@@ -1320,246 +1248,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Court 11" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Court 11</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Court 11" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Court 11</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Court 11" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Court 12" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Court 12</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Court 12" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Court 12</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Court 12" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Court 13" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Court 13</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Court 13" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Court 13</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Court 13" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Court 14" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Court 14</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Court 14" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Court 14</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Court 14" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Court 15" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Court 15</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Court 15" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Court 15</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Court 15" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Court 5" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Court 5</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Court 5" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Court 5</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Court 5" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Court 6" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Court 6</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Court 6" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Court 6</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Court 6" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Court 7" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Court 7</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Court 7" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Court 7</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Court 7" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Court 8" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Court 8</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Court 8" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Court 8</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Court 8" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Court TBC" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Court TBC</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Court TBC" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Court TBC</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Court TBC" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260126000000 -0500" channel="00:00 Islanders @ Flyers (NHL)" stop="20260126190000 -0500">
     <title>[Upcoming: 07:00 PM]  Islanders @ Flyers (NHL)</title>
     <date>2026</date>
@@ -1577,30 +1265,6 @@
     </audio>
   </programme>
   <programme start="20260126212000 -0500" channel="00:00 Islanders @ Flyers (NHL)" stop="20260126235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126000000 -0500" channel="00:00 Kia Arena" stop="20260126190000 -0500">
-    <title>[Upcoming: 07:00 PM]  Kia Arena</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126190000 -0500" channel="00:00 Kia Arena" stop="20260126212000 -0500">
-    <title>[07:00 PM]  Kia Arena</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260126212000 -0500" channel="00:00 Kia Arena" stop="20260126235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2352,6 +2016,54 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260126000000 -0500" channel="19:00 Inside The Ring - Jan 26 (DAZN)" stop="20260126140000 -0500">
+    <title>[Upcoming: 02:00 PM]  Inside The Ring - Jan 26 (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126140000 -0500" channel="19:00 Inside The Ring - Jan 26 (DAZN)" stop="20260126162000 -0500">
+    <title>[02:00 PM]  Inside The Ring - Jan 26 (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126162000 -0500" channel="19:00 Inside The Ring - Jan 26 (DAZN)" stop="20260126235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126000000 -0500" channel="19:00 Dazn Transfer By Fabrizio Romano - January 26 (DAZN)" stop="20260126140000 -0500">
+    <title>[Upcoming: 02:00 PM]  Dazn Transfer By Fabrizio Romano - January 26 (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126140000 -0500" channel="19:00 Dazn Transfer By Fabrizio Romano - January 26 (DAZN)" stop="20260126162000 -0500">
+    <title>[02:00 PM]  Dazn Transfer By Fabrizio Romano - January 26 (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126162000 -0500" channel="19:00 Dazn Transfer By Fabrizio Romano - January 26 (DAZN)" stop="20260126235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260126000000 -0500" channel="01:00 WWE MONDAY NIGHT RAW (PPV)" stop="20260126200000 -0500">
     <title>[Upcoming: 08:00 PM]  WWE MONDAY NIGHT RAW (PPV)</title>
     <date>2026</date>
@@ -2393,6 +2105,30 @@
     </audio>
   </programme>
   <programme start="20260126170500 -0500" channel="19:45 Hellas Verona v Udinese (Fubo)" stop="20260126235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126000000 -0500" channel="19:45 Hellas Verona v. Udinese (DAZN)" stop="20260126144500 -0500">
+    <title>[Upcoming: 02:45 PM]  Hellas Verona v. Udinese (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126144500 -0500" channel="19:45 Hellas Verona v. Udinese (DAZN)" stop="20260126170500 -0500">
+    <title>[02:45 PM]  Hellas Verona v. Udinese (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126170500 -0500" channel="19:45 Hellas Verona v. Udinese (DAZN)" stop="20260126235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2520,6 +2256,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260126000000 -0500" channel="20:00 Everton v. Leeds (DAZN)" stop="20260126150000 -0500">
+    <title>[Upcoming: 03:00 PM]  Everton v. Leeds (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126150000 -0500" channel="20:00 Everton v. Leeds (DAZN)" stop="20260126172000 -0500">
+    <title>[03:00 PM]  Everton v. Leeds (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126172000 -0500" channel="20:00 Everton v. Leeds (DAZN)" stop="20260126235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260126000000 -0500" channel="20:00 Girona v Getafe (AMZN)" stop="20260126150000 -0500">
     <title>[Upcoming: 03:00 PM]  Girona v Getafe (AMZN)</title>
     <date>2026</date>
@@ -2585,6 +2345,30 @@
     </audio>
   </programme>
   <programme start="20260126172000 -0500" channel="20:00 Norwich City v Coventry City (PLAY)" stop="20260126235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126000000 -0500" channel="20:00 Norwich v. Coventry (DAZN)" stop="20260126150000 -0500">
+    <title>[Upcoming: 03:00 PM]  Norwich v. Coventry (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126150000 -0500" channel="20:00 Norwich v. Coventry (DAZN)" stop="20260126172000 -0500">
+    <title>[03:00 PM]  Norwich v. Coventry (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260126172000 -0500" channel="20:00 Norwich v. Coventry (DAZN)" stop="20260126235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
