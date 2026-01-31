@@ -316,6 +316,10 @@
     <display-name lang="en">24/7 SpongeBob Squarepants - 07:00 PM ET / 05:00 PM MT / 00:00 UK</display-name>
     <display-name lang="en">24/7 SpongeBob Squarepants [LIVE]</display-name>
   </channel>
+  <channel id="RING 6: Teofimo vs. Stevenson - 06:00 PM ET / 04:00 PM MT / 23:00 UK">
+    <display-name lang="en">RING 6: Teofimo vs. Stevenson - 06:00 PM ET / 04:00 PM MT / 23:00 UK</display-name>
+    <display-name lang="en">RING 6: Teofimo vs. Stevenson [LIVE]</display-name>
+  </channel>
   <programme start="20260131010102 -0500" channel="NFC vs. AFC - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260203200000 -0500">
     <title>Next event: 03 Feb 08:00 PM - NFC vs. AFC (ESPN)</title>
     <date>2026</date>
@@ -2205,6 +2209,30 @@
     </audio>
   </programme>
   <programme start="20260127220000 -0500" channel="24/7 SpongeBob Squarepants - 07:00 PM ET / 05:00 PM MT / 00:00 UK" stop="20260127235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260131100102 -0500" channel="RING 6: Teofimo vs. Stevenson - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20260131180000 -0500">
+    <title>Next event: 31 Jan 06:00 PM - RING 6: Teofimo vs. Stevenson (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260131180000 -0500" channel="RING 6: Teofimo vs. Stevenson - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20260201020000 -0500">
+    <title>RING 6: Teofimo vs. Stevenson (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260201020000 -0500" channel="RING 6: Teofimo vs. Stevenson - 06:00 PM ET / 04:00 PM MT / 23:00 UK" stop="20260131235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
