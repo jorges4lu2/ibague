@@ -228,6 +228,10 @@
     <display-name lang="en">The 68th Annual Grammy Awards - 08:00 PM ET / 06:00 PM MT / 01:00 UK</display-name>
     <display-name lang="en">The 68th Annual Grammy Awards [LIVE]</display-name>
   </channel>
+  <channel id="UFC Fight Night: Bautista vs. Oliveira - 05:00 PM ET / 03:00 PM MT / 22:00 UK">
+    <display-name lang="en">UFC Fight Night: Bautista vs. Oliveira - 05:00 PM ET / 03:00 PM MT / 22:00 UK</display-name>
+    <display-name lang="en">UFC Fight Night: Bautista vs. Oliveira [LIVE]</display-name>
+  </channel>
   <programme start="20260201010104 -0500" channel="NFC vs. AFC - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260203200000 -0500">
     <title>Next event: 03 Feb 08:00 PM - NFC vs. AFC (ESPN)</title>
     <date>2026</date>
@@ -1589,6 +1593,30 @@
     </audio>
   </programme>
   <programme start="20260201233000 -0500" channel="The 68th Annual Grammy Awards - 08:00 PM ET / 06:00 PM MT / 01:00 UK" stop="20260201235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260201200103 -0500" channel="UFC Fight Night: Bautista vs. Oliveira - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260207170000 -0500">
+    <title>Next event: 07 Feb 05:00 PM - UFC Fight Night: Bautista vs. Oliveira (Paramount+)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260207170000 -0500" channel="UFC Fight Night: Bautista vs. Oliveira - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260208010000 -0500">
+    <title>UFC Fight Night: Bautista vs. Oliveira (Paramount+)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260208010000 -0500" channel="UFC Fight Night: Bautista vs. Oliveira - 05:00 PM ET / 03:00 PM MT / 22:00 UK" stop="20260207235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
