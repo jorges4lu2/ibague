@@ -512,6 +512,10 @@
     <display-name lang="en">Los Angeles Kings vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK</display-name>
     <display-name lang="en">Los Angeles Kings vs. Vegas Golden Knights [LIVE]</display-name>
   </channel>
+  <channel id="NFL Honors - 09:00 PM ET / 07:00 PM MT / 02:00 UK">
+    <display-name lang="en">NFL Honors - 09:00 PM ET / 07:00 PM MT / 02:00 UK</display-name>
+    <display-name lang="en">NFL Honors [LIVE]</display-name>
+  </channel>
   <programme start="20260204000102 -0500" channel="Men's Downhill: Training - 05:30 AM ET / 03:30 AM MT / 10:30 UK" stop="20260204053000 -0500">
     <title>Next event: 04 Feb 05:30 AM - Men's Downhill: Training (Alpine Skiing)</title>
     <date>2026</date>
@@ -3577,6 +3581,30 @@
     </audio>
   </programme>
   <programme start="20260206010000 -0500" channel="Los Angeles Kings vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK" stop="20260205235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260205160102 -0500" channel="NFL Honors - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20260205210000 -0500">
+    <title>Next event: 05 Feb 09:00 PM - NFL Honors (NBC)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260205210000 -0500" channel="NFL Honors - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20260205230000 -0500">
+    <title>NFL Honors (NBC)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260205230000 -0500" channel="NFL Honors - 09:00 PM ET / 07:00 PM MT / 02:00 UK" stop="20260205235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
