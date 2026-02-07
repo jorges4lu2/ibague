@@ -712,6 +712,10 @@
     <display-name lang="en">Team: Free Dance - 04:00 PM ET / 02:00 PM MT / 21:00 UK</display-name>
     <display-name lang="en">Team: Free Dance [LIVE]</display-name>
   </channel>
+  <channel id="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK">
+    <display-name lang="en">Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK</display-name>
+    <display-name lang="en">Goal Rush [LIVE]</display-name>
+  </channel>
   <programme start="20260204000102 -0500" channel="Men's Downhill: Training - 05:30 AM ET / 03:30 AM MT / 10:30 UK" stop="20260204053000 -0500">
     <title>Next event: 04 Feb 05:30 AM - Men's Downhill: Training (Alpine Skiing)</title>
     <date>2026</date>
@@ -4977,6 +4981,30 @@
     </audio>
   </programme>
   <programme start="20260207170000 -0500" channel="Team: Free Dance - 04:00 PM ET / 02:00 PM MT / 21:00 UK" stop="20260207235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260206220102 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260207100000 -0500">
+    <title>Next event: 07 Feb 10:00 AM - Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260207100000 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260207123000 -0500">
+    <title>Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260207123000 -0500" channel="Goal Rush - 10:00 AM ET / 08:00 AM MT / 15:00 UK" stop="20260207235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
