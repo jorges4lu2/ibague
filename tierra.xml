@@ -756,6 +756,10 @@
     <display-name lang="en">PFL Road to Dubai - 09:00 AM ET / 07:00 AM MT / 14:00 UK</display-name>
     <display-name lang="en">PFL Road to Dubai [LIVE]</display-name>
   </channel>
+  <channel id="Supercross: Glendale - 01:00 PM ET / 11:00 AM MT / 18:00 UK">
+    <display-name lang="en">Supercross: Glendale - 01:00 PM ET / 11:00 AM MT / 18:00 UK</display-name>
+    <display-name lang="en">Supercross: Glendale [LIVE]</display-name>
+  </channel>
   <programme start="20260204000102 -0500" channel="Men's Downhill: Training - 05:30 AM ET / 03:30 AM MT / 10:30 UK" stop="20260204053000 -0500">
     <title>Next event: 04 Feb 05:30 AM - Men's Downhill: Training (Alpine Skiing)</title>
     <date>2026</date>
@@ -5285,6 +5289,30 @@
     </audio>
   </programme>
   <programme start="20260207170000 -0500" channel="PFL Road to Dubai - 09:00 AM ET / 07:00 AM MT / 14:00 UK" stop="20260207235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260207100014 -0500" channel="Supercross: Glendale - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260207130000 -0500">
+    <title>Next event: 07 Feb 01:00 PM - Supercross: Glendale (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260207130000 -0500" channel="Supercross: Glendale - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260208010000 -0500">
+    <title>Supercross: Glendale (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260208010000 -0500" channel="Supercross: Glendale - 01:00 PM ET / 11:00 AM MT / 18:00 UK" stop="20260207235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
