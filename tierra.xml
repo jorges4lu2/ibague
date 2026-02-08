@@ -392,6 +392,10 @@
     <display-name lang="en">LA Clippers vs. Minnesota Timberwolves</display-name>
     <display-name lang="en">LA Clippers vs. Minnesota Timberwolves [LIVE]</display-name>
   </channel>
+  <channel id="Super Bowl LX: Seattle Seahawks vs. New England Patriots">
+    <display-name lang="en">Super Bowl LX: Seattle Seahawks vs. New England Patriots</display-name>
+    <display-name lang="en">Super Bowl LX: Seattle Seahawks vs. New England Patriots [LIVE]</display-name>
+  </channel>
   <programme start="20260207161248 -0500" channel="Gold Zone: Day 1" stop="20260207080000 -0500">
     <title>Next event: 07 Feb 08:00 AM - Gold Zone: Day 1 (GOLD ZONE)</title>
     <date>2026</date>
@@ -2737,6 +2741,30 @@
     </audio>
   </programme>
   <programme start="20260208174800 -0500" channel="LA Clippers vs. Minnesota Timberwolves" stop="20260208235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260208111846 -0500" channel="Super Bowl LX: Seattle Seahawks vs. New England Patriots" stop="20260208183000 -0500">
+    <title>Next event: 08 Feb 06:30 PM - Super Bowl LX: Seattle Seahawks vs. New England Patriots (NBC)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260208183000 -0500" channel="Super Bowl LX: Seattle Seahawks vs. New England Patriots" stop="20260208223000 -0500">
+    <title>Super Bowl LX: Seattle Seahawks vs. New England Patriots (NBC)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260208223000 -0500" channel="Super Bowl LX: Seattle Seahawks vs. New England Patriots" stop="20260208235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
