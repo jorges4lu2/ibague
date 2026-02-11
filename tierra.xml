@@ -396,6 +396,10 @@
     <display-name lang="en">24/7 SpongeBob Squarepants</display-name>
     <display-name lang="en">24/7 SpongeBob Squarepants [LIVE]</display-name>
   </channel>
+  <channel id="Goal Rush">
+    <display-name lang="en">Goal Rush</display-name>
+    <display-name lang="en">Goal Rush [LIVE]</display-name>
+  </channel>
   <programme start="20260211010102 -0500" channel="Men's Normal Hill: Ski Jump" stop="20260211031000 -0500">
     <title>Next event: 11 Feb 03:10 AM - Men's Normal Hill: Ski Jump (Nordic Combined)</title>
     <date>2026</date>
@@ -2765,6 +2769,30 @@
     </audio>
   </programme>
   <programme start="20260127220000 -0500" channel="24/7 SpongeBob Squarepants" stop="20260127235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260211140102 -0500" channel="Goal Rush" stop="20260211143000 -0500">
+    <title>Next event: 11 Feb 02:30 PM - Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260211143000 -0500" channel="Goal Rush" stop="20260211180000 -0500">
+    <title>Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260211180000 -0500" channel="Goal Rush" stop="20260211235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
