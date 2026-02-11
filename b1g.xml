@@ -1263,6 +1263,9 @@
   <channel id="LIVE EVENT 02 - 8pm World Series of Asphalt">
     <display-name lang="en">LIVE EVENT 02 - 8pm World Series of Asphalt</display-name>
   </channel>
+  <channel id="LIVE EVENT 03 - 5:30pm USAC National Sprints Ocale">
+    <display-name lang="en">LIVE EVENT 03 - 5:30pm USAC National Sprints Ocale</display-name>
+  </channel>
   <channel id="LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET">
     <display-name lang="en">LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET</display-name>
   </channel>
@@ -1281,32 +1284,32 @@
   <channel id="UK-BBC Four HD (From 19:00 UK)">
     <display-name lang="en">UK-BBC Four HD (From 19:00 UK)</display-name>
   </channel>
-  <channel id="01. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)">
-    <display-name lang="en">01. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)</display-name>
+  <channel id="01. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)">
+    <display-name lang="en">01. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)</display-name>
   </channel>
-  <channel id="02. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)">
-    <display-name lang="en">02. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)</display-name>
+  <channel id="02. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)">
+    <display-name lang="en">02. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)</display-name>
   </channel>
-  <channel id="03. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)">
-    <display-name lang="en">03. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)</display-name>
+  <channel id="03. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)">
+    <display-name lang="en">03. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)</display-name>
   </channel>
-  <channel id="04. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)">
-    <display-name lang="en">04. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)</display-name>
+  <channel id="04. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)">
+    <display-name lang="en">04. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)</display-name>
   </channel>
-  <channel id="05. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)">
-    <display-name lang="en">05. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)</display-name>
+  <channel id="05. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)">
+    <display-name lang="en">05. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)</display-name>
   </channel>
-  <channel id="06. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)">
-    <display-name lang="en">06. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)</display-name>
+  <channel id="06. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)">
+    <display-name lang="en">06. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)</display-name>
   </channel>
-  <channel id="07. ICC T20 WC | England vs West Indies (Wed 13:30 UK)">
-    <display-name lang="en">07. ICC T20 WC | England vs West Indies (Wed 13:30 UK)</display-name>
+  <channel id="07. ICC T20 WC | India vs Namibia (Thu 13:30 UK)">
+    <display-name lang="en">07. ICC T20 WC | India vs Namibia (Thu 13:30 UK)</display-name>
   </channel>
-  <channel id="08. ICC T20 WC | England vs West Indies (Wed 13:30 UK)">
-    <display-name lang="en">08. ICC T20 WC | England vs West Indies (Wed 13:30 UK)</display-name>
+  <channel id="08. ICC T20 WC | India vs Namibia (Thu 13:30 UK)">
+    <display-name lang="en">08. ICC T20 WC | India vs Namibia (Thu 13:30 UK)</display-name>
   </channel>
-  <channel id="09. ICC T20 WC | England vs West Indies (Wed 13:30 UK)">
-    <display-name lang="en">09. ICC T20 WC | England vs West Indies (Wed 13:30 UK)</display-name>
+  <channel id="09. ICC T20 WC | India vs Namibia (Thu 13:30 UK)">
+    <display-name lang="en">09. ICC T20 WC | India vs Namibia (Thu 13:30 UK)</display-name>
   </channel>
   <channel id="36. EPL 09 | Sunderland vs Liverpool (Wed 20:15 UK)">
     <display-name lang="en">36. EPL 09 | Sunderland vs Liverpool (Wed 20:15 UK)</display-name>
@@ -11601,6 +11604,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260211000000 -0500" channel="LIVE EVENT 03 - 5:30pm USAC National Sprints Ocale" stop="20260211163000 -0500">
+    <title>[Upcoming: 04:30 PM] LIVE EVENT 03 - 5:30pm USAC National Sprints Ocale</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260211163000 -0500" channel="LIVE EVENT 03 - 5:30pm USAC National Sprints Ocale" stop="20260211185000 -0500">
+    <title>[04:30 PM] LIVE EVENT 03 - 5:30pm USAC National Sprints Ocale</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260211185000 -0500" channel="LIVE EVENT 03 - 5:30pm USAC National Sprints Ocale" stop="20260211235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260211000000 -0500" channel="LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET" stop="20260211230000 -0500">
     <title>[Upcoming: 11:00 PM] LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET</title>
     <date>2026</date>
@@ -11745,23 +11772,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211000000 -0500" channel="01. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)" stop="20260211003000 -0500">
-    <title>[Upcoming: 12:30 AM] 01. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)</title>
+  <programme start="20260211000000 -0500" channel="01. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)" stop="20260211003000 -0500">
+    <title>[Upcoming: 12:30 AM] 01. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211003000 -0500" channel="01. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)" stop="20260211025000 -0500">
-    <title>[12:30 AM] 01. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)</title>
+  <programme start="20260211003000 -0500" channel="01. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)" stop="20260211025000 -0500">
+    <title>[12:30 AM] 01. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211025000 -0500" channel="01. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)" stop="20260211235959 -0500">
+  <programme start="20260211025000 -0500" channel="01. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)" stop="20260211235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11769,23 +11796,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211000000 -0500" channel="02. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)" stop="20260211003000 -0500">
-    <title>[Upcoming: 12:30 AM] 02. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)</title>
+  <programme start="20260211000000 -0500" channel="02. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)" stop="20260211003000 -0500">
+    <title>[Upcoming: 12:30 AM] 02. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211003000 -0500" channel="02. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)" stop="20260211025000 -0500">
-    <title>[12:30 AM] 02. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)</title>
+  <programme start="20260211003000 -0500" channel="02. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)" stop="20260211025000 -0500">
+    <title>[12:30 AM] 02. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211025000 -0500" channel="02. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)" stop="20260211235959 -0500">
+  <programme start="20260211025000 -0500" channel="02. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)" stop="20260211235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11793,23 +11820,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211000000 -0500" channel="03. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)" stop="20260211003000 -0500">
-    <title>[Upcoming: 12:30 AM] 03. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)</title>
+  <programme start="20260211000000 -0500" channel="03. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)" stop="20260211003000 -0500">
+    <title>[Upcoming: 12:30 AM] 03. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211003000 -0500" channel="03. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)" stop="20260211025000 -0500">
-    <title>[12:30 AM] 03. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)</title>
+  <programme start="20260211003000 -0500" channel="03. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)" stop="20260211025000 -0500">
+    <title>[12:30 AM] 03. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211025000 -0500" channel="03. ICC T20 WC | South Africa vs Afghanistan (Wed 05:30 UK)" stop="20260211235959 -0500">
+  <programme start="20260211025000 -0500" channel="03. ICC T20 WC | Sri Lanka vs Oman (Thu 05:30 UK)" stop="20260211235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11817,23 +11844,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211000000 -0500" channel="04. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)" stop="20260211043000 -0500">
-    <title>[Upcoming: 04:30 AM] 04. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)</title>
+  <programme start="20260211000000 -0500" channel="04. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)" stop="20260211043000 -0500">
+    <title>[Upcoming: 04:30 AM] 04. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211043000 -0500" channel="04. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)" stop="20260211065000 -0500">
-    <title>[04:30 AM] 04. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)</title>
+  <programme start="20260211043000 -0500" channel="04. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)" stop="20260211065000 -0500">
+    <title>[04:30 AM] 04. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211065000 -0500" channel="04. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)" stop="20260211235959 -0500">
+  <programme start="20260211065000 -0500" channel="04. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)" stop="20260211235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11841,23 +11868,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211000000 -0500" channel="05. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)" stop="20260211043000 -0500">
-    <title>[Upcoming: 04:30 AM] 05. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)</title>
+  <programme start="20260211000000 -0500" channel="05. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)" stop="20260211043000 -0500">
+    <title>[Upcoming: 04:30 AM] 05. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211043000 -0500" channel="05. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)" stop="20260211065000 -0500">
-    <title>[04:30 AM] 05. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)</title>
+  <programme start="20260211043000 -0500" channel="05. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)" stop="20260211065000 -0500">
+    <title>[04:30 AM] 05. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211065000 -0500" channel="05. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)" stop="20260211235959 -0500">
+  <programme start="20260211065000 -0500" channel="05. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)" stop="20260211235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11865,23 +11892,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211000000 -0500" channel="06. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)" stop="20260211043000 -0500">
-    <title>[Upcoming: 04:30 AM] 06. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)</title>
+  <programme start="20260211000000 -0500" channel="06. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)" stop="20260211043000 -0500">
+    <title>[Upcoming: 04:30 AM] 06. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211043000 -0500" channel="06. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)" stop="20260211065000 -0500">
-    <title>[04:30 AM] 06. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)</title>
+  <programme start="20260211043000 -0500" channel="06. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)" stop="20260211065000 -0500">
+    <title>[04:30 AM] 06. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211065000 -0500" channel="06. ICC T20 WC | Australia vs Ireland (Wed 09:30 UK)" stop="20260211235959 -0500">
+  <programme start="20260211065000 -0500" channel="06. ICC T20 WC | Italy vs Nepal (Thu 09:30 UK)" stop="20260211235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11889,23 +11916,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211000000 -0500" channel="07. ICC T20 WC | England vs West Indies (Wed 13:30 UK)" stop="20260211083000 -0500">
-    <title>[Upcoming: 08:30 AM] 07. ICC T20 WC | England vs West Indies (Wed 13:30 UK)</title>
+  <programme start="20260211000000 -0500" channel="07. ICC T20 WC | India vs Namibia (Thu 13:30 UK)" stop="20260211083000 -0500">
+    <title>[Upcoming: 08:30 AM] 07. ICC T20 WC | India vs Namibia (Thu 13:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211083000 -0500" channel="07. ICC T20 WC | England vs West Indies (Wed 13:30 UK)" stop="20260211105000 -0500">
-    <title>[08:30 AM] 07. ICC T20 WC | England vs West Indies (Wed 13:30 UK)</title>
+  <programme start="20260211083000 -0500" channel="07. ICC T20 WC | India vs Namibia (Thu 13:30 UK)" stop="20260211105000 -0500">
+    <title>[08:30 AM] 07. ICC T20 WC | India vs Namibia (Thu 13:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211105000 -0500" channel="07. ICC T20 WC | England vs West Indies (Wed 13:30 UK)" stop="20260211235959 -0500">
+  <programme start="20260211105000 -0500" channel="07. ICC T20 WC | India vs Namibia (Thu 13:30 UK)" stop="20260211235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11913,23 +11940,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211000000 -0500" channel="08. ICC T20 WC | England vs West Indies (Wed 13:30 UK)" stop="20260211083000 -0500">
-    <title>[Upcoming: 08:30 AM] 08. ICC T20 WC | England vs West Indies (Wed 13:30 UK)</title>
+  <programme start="20260211000000 -0500" channel="08. ICC T20 WC | India vs Namibia (Thu 13:30 UK)" stop="20260211083000 -0500">
+    <title>[Upcoming: 08:30 AM] 08. ICC T20 WC | India vs Namibia (Thu 13:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211083000 -0500" channel="08. ICC T20 WC | England vs West Indies (Wed 13:30 UK)" stop="20260211105000 -0500">
-    <title>[08:30 AM] 08. ICC T20 WC | England vs West Indies (Wed 13:30 UK)</title>
+  <programme start="20260211083000 -0500" channel="08. ICC T20 WC | India vs Namibia (Thu 13:30 UK)" stop="20260211105000 -0500">
+    <title>[08:30 AM] 08. ICC T20 WC | India vs Namibia (Thu 13:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211105000 -0500" channel="08. ICC T20 WC | England vs West Indies (Wed 13:30 UK)" stop="20260211235959 -0500">
+  <programme start="20260211105000 -0500" channel="08. ICC T20 WC | India vs Namibia (Thu 13:30 UK)" stop="20260211235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11937,23 +11964,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211000000 -0500" channel="09. ICC T20 WC | England vs West Indies (Wed 13:30 UK)" stop="20260211083000 -0500">
-    <title>[Upcoming: 08:30 AM] 09. ICC T20 WC | England vs West Indies (Wed 13:30 UK)</title>
+  <programme start="20260211000000 -0500" channel="09. ICC T20 WC | India vs Namibia (Thu 13:30 UK)" stop="20260211083000 -0500">
+    <title>[Upcoming: 08:30 AM] 09. ICC T20 WC | India vs Namibia (Thu 13:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211083000 -0500" channel="09. ICC T20 WC | England vs West Indies (Wed 13:30 UK)" stop="20260211105000 -0500">
-    <title>[08:30 AM] 09. ICC T20 WC | England vs West Indies (Wed 13:30 UK)</title>
+  <programme start="20260211083000 -0500" channel="09. ICC T20 WC | India vs Namibia (Thu 13:30 UK)" stop="20260211105000 -0500">
+    <title>[08:30 AM] 09. ICC T20 WC | India vs Namibia (Thu 13:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260211105000 -0500" channel="09. ICC T20 WC | England vs West Indies (Wed 13:30 UK)" stop="20260211235959 -0500">
+  <programme start="20260211105000 -0500" channel="09. ICC T20 WC | India vs Namibia (Thu 13:30 UK)" stop="20260211235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
