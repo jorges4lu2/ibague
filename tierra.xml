@@ -340,6 +340,10 @@
     <display-name lang="en">24/7 SpongeBob Squarepants</display-name>
     <display-name lang="en">24/7 SpongeBob Squarepants [LIVE]</display-name>
   </channel>
+  <channel id="Atl&#233;tico Madrid vs. Barcelona">
+    <display-name lang="en">Atl&#233;tico Madrid vs. Barcelona</display-name>
+    <display-name lang="en">Atl&#233;tico Madrid vs. Barcelona [LIVE]</display-name>
+  </channel>
   <programme start="20260212010102 -0500" channel="Canada vs. Denmark (W Round-Robin)" stop="20260212030500 -0500">
     <title>Next event: 12 Feb 03:05 AM - Canada vs. Denmark (W Round-Robin) (Curling)</title>
     <date>2026</date>
@@ -2373,6 +2377,30 @@
     </audio>
   </programme>
   <programme start="20260127220000 -0500" channel="24/7 SpongeBob Squarepants" stop="20260127235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260212130102 -0500" channel="Atl&#233;tico Madrid vs. Barcelona" stop="20260212150000 -0500">
+    <title>Next event: 12 Feb 03:00 PM - Atl&#233;tico Madrid vs. Barcelona (Copa del Rey)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260212150000 -0500" channel="Atl&#233;tico Madrid vs. Barcelona" stop="20260212173000 -0500">
+    <title>Atl&#233;tico Madrid vs. Barcelona (Copa del Rey)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260212173000 -0500" channel="Atl&#233;tico Madrid vs. Barcelona" stop="20260212235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
