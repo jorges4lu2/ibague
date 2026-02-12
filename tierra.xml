@@ -344,6 +344,10 @@
     <display-name lang="en">Atl&#233;tico Madrid vs. Barcelona</display-name>
     <display-name lang="en">Atl&#233;tico Madrid vs. Barcelona [LIVE]</display-name>
   </channel>
+  <channel id="Premier League Darts: Night 2">
+    <display-name lang="en">Premier League Darts: Night 2</display-name>
+    <display-name lang="en">Premier League Darts: Night 2 [LIVE]</display-name>
+  </channel>
   <programme start="20260212010102 -0500" channel="Canada vs. Denmark (W Round-Robin)" stop="20260212030500 -0500">
     <title>Next event: 12 Feb 03:05 AM - Canada vs. Denmark (W Round-Robin) (Curling)</title>
     <date>2026</date>
@@ -2401,6 +2405,30 @@
     </audio>
   </programme>
   <programme start="20260212173000 -0500" channel="Atl&#233;tico Madrid vs. Barcelona" stop="20260212235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260212140102 -0500" channel="Premier League Darts: Night 2" stop="20260212130000 -0500">
+    <title>Next event: 12 Feb 01:00 PM - Premier League Darts: Night 2 (Sky Sports)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260212130000 -0500" channel="Premier League Darts: Night 2" stop="20260212170000 -0500">
+    <title>Premier League Darts: Night 2 (Sky Sports)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260212170000 -0500" channel="Premier League Darts: Night 2" stop="20260212235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
