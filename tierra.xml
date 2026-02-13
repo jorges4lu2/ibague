@@ -540,6 +540,10 @@
     <display-name lang="en">USA vs. Italy (W Quarterfinal)</display-name>
     <display-name lang="en">USA vs. Italy (W Quarterfinal) [LIVE]</display-name>
   </channel>
+  <channel id="Men's Free">
+    <display-name lang="en">Men's Free</display-name>
+    <display-name lang="en">Men's Free [LIVE]</display-name>
+  </channel>
   <programme start="20260212010102 -0500" channel="Canada vs. Denmark (W Round-Robin)" stop="20260212030500 -0500">
     <title>Next event: 12 Feb 03:05 AM - Canada vs. Denmark (W Round-Robin) (Curling)</title>
     <date>2026</date>
@@ -3773,6 +3777,30 @@
     </audio>
   </programme>
   <programme start="20260213174000 -0500" channel="USA vs. Italy (W Quarterfinal)" stop="20260213235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260212190102 -0500" channel="Men's Free" stop="20260213150000 -0500">
+    <title>Next event: 13 Feb 03:00 PM - Men's Free (Figure Skating)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260213150000 -0500" channel="Men's Free" stop="20260213170000 -0500">
+    <title>Men's Free (Figure Skating)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260213170000 -0500" channel="Men's Free" stop="20260213235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
