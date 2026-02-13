@@ -520,6 +520,10 @@
     <display-name lang="en">Macclesfield FC vs. Brentford</display-name>
     <display-name lang="en">Macclesfield FC vs. Brentford [LIVE]</display-name>
   </channel>
+  <channel id="Oklahoma vs Texas Tech">
+    <display-name lang="en">Oklahoma vs Texas Tech</display-name>
+    <display-name lang="en">Oklahoma vs Texas Tech [LIVE]</display-name>
+  </channel>
   <programme start="20260213010102 -0500" channel="Canada vs. USA (M Round-Robin)" stop="20260213030500 -0500">
     <title>Next event: 13 Feb 03:05 AM - Canada vs. USA (M Round-Robin) (Curling)</title>
     <date>2026</date>
@@ -3633,6 +3637,30 @@
     </audio>
   </programme>
   <programme start="20260216170000 -0500" channel="Macclesfield FC vs. Brentford" stop="20260216235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260213120103 -0500" channel="Oklahoma vs Texas Tech" stop="20260213120000 -0500">
+    <title>Next event: 13 Feb 12:00 PM - Oklahoma vs Texas Tech (FloBaseball)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260213120000 -0500" channel="Oklahoma vs Texas Tech" stop="20260213160000 -0500">
+    <title>Oklahoma vs Texas Tech (FloBaseball)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260213160000 -0500" channel="Oklahoma vs Texas Tech" stop="20260213235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
