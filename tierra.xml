@@ -496,6 +496,10 @@
     <display-name lang="en">Rally TV</display-name>
     <display-name lang="en">Rally TV [LIVE]</display-name>
   </channel>
+  <channel id="FA Cup Goals Show">
+    <display-name lang="en">FA Cup Goals Show</display-name>
+    <display-name lang="en">FA Cup Goals Show [LIVE]</display-name>
+  </channel>
   <programme start="20260214010102 -0500" channel="Great Britain vs. Canada (W Round-Robin)" stop="20260214030500 -0500">
     <title>Next event: 14 Feb 03:05 AM - Great Britain vs. Canada (W Round-Robin) (Curling)</title>
     <date>2026</date>
@@ -3465,6 +3469,30 @@
     </audio>
   </programme>
   <programme start="20260211220000 -0500" channel="Rally TV" stop="20260211235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260214090102 -0500" channel="FA Cup Goals Show" stop="20260214100000 -0500">
+    <title>Next event: 14 Feb 10:00 AM - FA Cup Goals Show (English FA Cup)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260214100000 -0500" channel="FA Cup Goals Show" stop="20260214123000 -0500">
+    <title>FA Cup Goals Show (English FA Cup)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260214123000 -0500" channel="FA Cup Goals Show" stop="20260214235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
