@@ -1356,6 +1356,9 @@
   <channel id="LIVE EVENT 05 - 7pm GCW Holy Smokes">
     <display-name lang="en">LIVE EVENT 05 - 7pm GCW Holy Smokes</display-name>
   </channel>
+  <channel id="LIVE EVENT 06 - 2pm 4K DAYTONA 500">
+    <display-name lang="en">LIVE EVENT 06 - 2pm 4K DAYTONA 500</display-name>
+  </channel>
   <channel id="LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET">
     <display-name lang="en">LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET</display-name>
   </channel>
@@ -12437,6 +12440,30 @@
     </audio>
   </programme>
   <programme start="20260215212000 -0500" channel="LIVE EVENT 05 - 7pm GCW Holy Smokes" stop="20260215235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260215000000 -0500" channel="LIVE EVENT 06 - 2pm 4K DAYTONA 500" stop="20260215140000 -0500">
+    <title>[Upcoming: 02:00 PM] LIVE EVENT 06 - 2pm 4K DAYTONA 500</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260215140000 -0500" channel="LIVE EVENT 06 - 2pm 4K DAYTONA 500" stop="20260215162000 -0500">
+    <title>[02:00 PM] LIVE EVENT 06 - 2pm 4K DAYTONA 500</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260215162000 -0500" channel="LIVE EVENT 06 - 2pm 4K DAYTONA 500" stop="20260215235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
