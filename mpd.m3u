@@ -1,17 +1,46 @@
 #EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"270233c3621c173ad74f16aa6ba367ac":"b39c8748f7f7530b1591c3a2ee0a3703"}
-#EXTINF:-1 tvg-id="hh.ar",Home and Health gigared
-https://cdn03.gigared.com.ar/live/eds/Discovery_HyH/sa_live_dash/Discovery_HyH.mpd
+#KODIPROP:inputstream.adaptive.license_key={"90671184dd82541a9d1786eaa025e345":"74f8eab46c1e43fd8f7b64c21a96fc5b","b87d7da884bd5f3496015f9c2e53c896":"4451447bdf55fe4451f4a3bf177da59a","b6989ba0aa0f5e8a817ecdfd9c385994":"75c6e6d57308f34ca482802a5e796a05"}
+#EXTINF:-1 tvg-id="espn1.cl" group-title="Deportes",ESPN 1
+https://cdn-live.mundogo.cl/espn/espn.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f26eb059fb0854f4d4218c895d7ae803":"ffcb3fd4bd5657889215be4cb6275d1b"}
-#EXTINF:-1 tvg-id="tnt.ar",TNT Sorts Premium gigared
-https://cdn02.gigared.com.ar/live/eds/TNT_Sports_Premium/sa_live_dash/TNT_Sports_Premium.mpd
+#KODIPROP:inputstream.adaptive.license_key={"4a79050eb710572bbc3cfa75706c1411":"3015fdb9da55deb571db141dd9e6a788","6ebf764158155658b1a765c2d86835d3":"3f330026708fc2fdd1a2f0e23cee7d04","888609fc0d8551f3b78cc018fe66f2fe":"42c3abebbeade8d3ccaf2877db162f73"}
+#EXTINF:-1 tvg-id="espn1.cl" group-title="Deportes",ESPN 2
+https://cdn-live.mundogo.cl/espn2/espn2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7f7b16fb85485345849200c178ee6dc4":"134a62a266c7f12c991870472bd6caaa","3c7e7afeae9e56b88deeccc06ed74573":"144d94b55ecd9dcfedff49e209d6fea3","52c6b3a6035e5f6285830fcb2f91a140":"3d06c0a42c5c0abdc0b529d56fb88d43"}
+#EXTINF:-1 tvg-id="espn1.cl" group-title="Deportes",ESPN 3
+https://cdn-live.mundogo.cl/espn3/espn3.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3ccb0a8dcef45a46a2fc24e4bf7bea8c":"d456b3cae88ab7fd87ba9046927b6146","3d78b7726aad540aa00fd08e7c3446f5":"fb4afcd3e6ceeec4f93e94401a2e1b4a","9eb4539dd1d25e4b9195d84d544a283b":"d9ee79035f91d1666fa7c40c024913ea"}
-#EXTINF:-1 tvg-id="espn4.cl",ESPN 4 mundogo
+#EXTINF:-1 tvg-id="espn4.cl" group-title="Deportes",ESPN 4
 https://cdn-live.mundogo.cl/espn4/espn4.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"da2d33fd91ad59bdb6a6d3601c46abde":"a0f80478a8b91b3a734692a2b06b727f","9571ccc3aca751908a95a993b61ce5b0":"1f03ab80d1a91bbc610be45ab594f5e5","698038bd781d5e54bf5f542c5f9216c3":"daa469a3865a67b80195d1c344d76976"}
-#EXTINF:-1 tvg-id="espn4.cl",ESPN 4 mundogo
+#EXTINF:-1 tvg-id="hh.cl" group-title="Documentales",Home and Health
 https://cdn-live.mundogo.cl/discohh/discohh.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b00ee1dd5a625679b07de8541b8e1bb8":"2900528b03cd160fb00a3905b7e24398","2dc3b2a527cf5b94becabef4e011b5e2":"a9a0a582494dedaee6c8ce0caf6ecc18","ed7d6126f16857cfb1205771141aced2":"0b8c5f20ca68e4bdc68769a688d015d9"}
+#EXTINF:-1 tvg-id="hgtv.cl" group-title="Documentales",HGTV
+https://cdn-live.mundogo.cl/hgtv/hgtv.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3e63227cf6064e5e8d0cab035f34df97":"1f288e212fcb9ffe016217df2e70a2bc"}
+#EXTINF:-1 tvg-id="hh.ar" group-title="Documentales",Home and Health bvc
+https://bvclive1.boldmss.com/HOME_AND_HEALTH/HOME_AND_HEALTH_BVC.isml/HOME_AND_HEALTH.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"31bd1c2d7ec744919f9438b166f575d3":"08a8df7583e02f9eba7b0cf77207340b"}
+#EXTINF:-1 tvg-id="espn1.ar" group-title="Deportes",ESPN1ar bvc
+https://bvclive1.boldmss.com/ESPN/ESPN_BVC.isml/ESPN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f26eb059fb0854f4d4218c895d7ae803":"ffcb3fd4bd5657889215be4cb6275d1b"}
+#EXTINF:-1 tvg-id="tnt.ar" group-title="Deportes",TNT Sorts Premium gigared
+https://cdn02.gigared.com.ar/live/eds/TNT_Sports_Premium/sa_live_dash/TNT_Sports_Premium.mpd
