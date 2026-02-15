@@ -204,6 +204,10 @@
     <display-name lang="en">Gonzaga Bulldogs vs. Santa Clara Broncos</display-name>
     <display-name lang="en">Gonzaga Bulldogs vs. Santa Clara Broncos [LIVE]</display-name>
   </channel>
+  <channel id="Indiana Hoosiers vs. Illinois Fighting Illini (Basketball)">
+    <display-name lang="en">Indiana Hoosiers vs. Illinois Fighting Illini (Basketball)</display-name>
+    <display-name lang="en">Indiana Hoosiers vs. Illinois Fighting Illini (Basketball) [LIVE]</display-name>
+  </channel>
   <channel id="Players Championship - Board 1">
     <display-name lang="en">Players Championship - Board 1</display-name>
     <display-name lang="en">Players Championship - Board 1 [LIVE]</display-name>
@@ -312,10 +316,6 @@
     <display-name lang="en">Girona vs. Barcelona</display-name>
     <display-name lang="en">Girona vs. Barcelona [LIVE]</display-name>
   </channel>
-  <channel id="Supercross: Seattle">
-    <display-name lang="en">Supercross: Seattle</display-name>
-    <display-name lang="en">Supercross: Seattle [LIVE]</display-name>
-  </channel>
   <channel id="Pre-Season Testing - Day 1">
     <display-name lang="en">Pre-Season Testing - Day 1</display-name>
     <display-name lang="en">Pre-Season Testing - Day 1 [LIVE]</display-name>
@@ -352,7 +352,7 @@
     <display-name lang="en">Rally TV</display-name>
     <display-name lang="en">Rally TV [LIVE]</display-name>
   </channel>
-  <programme start="20260215000102 -0500" channel="Germany vs. Great Britain (M Round-Robin)" stop="20260215030500 -0500">
+  <programme start="20260215010102 -0500" channel="Germany vs. Great Britain (M Round-Robin)" stop="20260215030500 -0500">
     <title>Next event: 15 Feb 03:05 AM - Germany vs. Great Britain (M Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -376,7 +376,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Norway vs. Italy (M Round-Robin)" stop="20260215030500 -0500">
+  <programme start="20260215010102 -0500" channel="Norway vs. Italy (M Round-Robin)" stop="20260215030500 -0500">
     <title>Next event: 15 Feb 03:05 AM - Norway vs. Italy (M Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -400,7 +400,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="USA vs. Sweden (M Round-Robin)" stop="20260215030500 -0500">
+  <programme start="20260215010102 -0500" channel="USA vs. Sweden (M Round-Robin)" stop="20260215030500 -0500">
     <title>Next event: 15 Feb 03:05 AM - USA vs. Sweden (M Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -424,7 +424,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Women's Giant Slalom: Run 1" stop="20260215040000 -0500">
+  <programme start="20260215010102 -0500" channel="Women's Giant Slalom: Run 1" stop="20260215040000 -0500">
     <title>Next event: 15 Feb 04:00 AM - Women's Giant Slalom: Run 1 (Alpine Skiing)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -448,7 +448,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Women's Monobob: Run 1" stop="20260215040000 -0500">
+  <programme start="20260215010102 -0500" channel="Women's Monobob: Run 1" stop="20260215040000 -0500">
     <title>Next event: 15 Feb 04:00 AM - Women's Monobob: Run 1 (Bobsled)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -472,7 +472,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Men's Snowboard Slopestyle: Qualifying" stop="20260215041500 -0500">
+  <programme start="20260215010102 -0500" channel="Men's Snowboard Slopestyle: Qualifying" stop="20260215041500 -0500">
     <title>Next event: 15 Feb 04:15 AM - Men's Snowboard Slopestyle: Qualifying (Snowboarding)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -496,7 +496,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Men's Dual Moguls: Finals" stop="20260215043000 -0500">
+  <programme start="20260215010102 -0500" channel="Men's Dual Moguls: Finals" stop="20260215043000 -0500">
     <title>Next event: 15 Feb 04:30 AM - Men's Dual Moguls: Finals (Freestyle Skiing)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -520,7 +520,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Men's 12.5km Pursuit" stop="20260215051500 -0500">
+  <programme start="20260215010102 -0500" channel="Men's 12.5km Pursuit" stop="20260215051500 -0500">
     <title>Next event: 15 Feb 05:15 AM - Men's 12.5km Pursuit (Biathlon)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -544,7 +544,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Women's Monobob: Run 2" stop="20260215055000 -0500">
+  <programme start="20260215010102 -0500" channel="Women's Monobob: Run 2" stop="20260215055000 -0500">
     <title>Next event: 15 Feb 05:50 AM - Women's Monobob: Run 2 (Bobsled)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -568,7 +568,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Men's 4x7.5km Relay" stop="20260215060000 -0500">
+  <programme start="20260215010102 -0500" channel="Men's 4x7.5km Relay" stop="20260215060000 -0500">
     <title>Next event: 15 Feb 06:00 AM - Men's 4x7.5km Relay (Cross-Country Skiing)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -592,7 +592,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Switzerland vs. Czechia (Men's Group A)" stop="20260215061000 -0500">
+  <programme start="20260215010102 -0500" channel="Switzerland vs. Czechia (Men's Group A)" stop="20260215061000 -0500">
     <title>Next event: 15 Feb 06:10 AM - Switzerland vs. Czechia (Men's Group A) (Hockey)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -616,7 +616,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Women's Giant Slalom: Run 2" stop="20260215072000 -0500">
+  <programme start="20260215010102 -0500" channel="Women's Giant Slalom: Run 2" stop="20260215072000 -0500">
     <title>Next event: 15 Feb 07:20 AM - Women's Giant Slalom: Run 2 (Alpine Skiing)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -640,7 +640,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Mixed Team Snowboard Cross: Finals" stop="20260215074500 -0500">
+  <programme start="20260215010102 -0500" channel="Mixed Team Snowboard Cross: Finals" stop="20260215074500 -0500">
     <title>Next event: 15 Feb 07:45 AM - Mixed Team Snowboard Cross: Finals (Snowboarding)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -664,7 +664,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Gold Zone: Day 9" stop="20260215080000 -0500">
+  <programme start="20260215010102 -0500" channel="Gold Zone: Day 9" stop="20260215080000 -0500">
     <title>Next event: 15 Feb 08:00 AM - Gold Zone: Day 9 (GOLD ZONE)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -688,7 +688,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Denmark vs. Italy (W Round-Robin)" stop="20260215080500 -0500">
+  <programme start="20260215010102 -0500" channel="Denmark vs. Italy (W Round-Robin)" stop="20260215080500 -0500">
     <title>Next event: 15 Feb 08:05 AM - Denmark vs. Italy (W Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -712,7 +712,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Great Britain vs. Sweden (W Round-Robin)" stop="20260215080500 -0500">
+  <programme start="20260215010102 -0500" channel="Great Britain vs. Sweden (W Round-Robin)" stop="20260215080500 -0500">
     <title>Next event: 15 Feb 08:05 AM - Great Britain vs. Sweden (W Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -736,7 +736,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Japan vs. South Korea (W Round-Robin)" stop="20260215080500 -0500">
+  <programme start="20260215010102 -0500" channel="Japan vs. South Korea (W Round-Robin)" stop="20260215080500 -0500">
     <title>Next event: 15 Feb 08:05 AM - Japan vs. South Korea (W Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -760,7 +760,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="USA vs. China (W Round-Robin)" stop="20260215080500 -0500">
+  <programme start="20260215010102 -0500" channel="USA vs. China (W Round-Robin)" stop="20260215080500 -0500">
     <title>Next event: 15 Feb 08:05 AM - USA vs. China (W Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -784,7 +784,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Women's Snowboard Slopestyle: Qualifying" stop="20260215081500 -0500">
+  <programme start="20260215010102 -0500" channel="Women's Snowboard Slopestyle: Qualifying" stop="20260215081500 -0500">
     <title>Next event: 15 Feb 08:15 AM - Women's Snowboard Slopestyle: Qualifying (Snowboarding)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -808,7 +808,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Women's 10km Pursuit" stop="20260215084500 -0500">
+  <programme start="20260215010102 -0500" channel="Women's 10km Pursuit" stop="20260215084500 -0500">
     <title>Next event: 15 Feb 08:45 AM - Women's 10km Pursuit (Biathlon)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -832,7 +832,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Men's Team Pursuit Qual." stop="20260215100000 -0500">
+  <programme start="20260215010102 -0500" channel="Men's Team Pursuit Qual." stop="20260215100000 -0500">
     <title>Next event: 15 Feb 10:00 AM - Men's Team Pursuit Qual. (Speed Skating)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -856,7 +856,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Figure Skating: Training" stop="20260215102000 -0500">
+  <programme start="20260215010102 -0500" channel="Figure Skating: Training" stop="20260215102000 -0500">
     <title>Next event: 15 Feb 10:20 AM - Figure Skating: Training (Figure Skating)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -880,7 +880,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Canada vs. France (Men's Group A)" stop="20260215104000 -0500">
+  <programme start="20260215010102 -0500" channel="Canada vs. France (Men's Group A)" stop="20260215104000 -0500">
     <title>Next event: 15 Feb 10:40 AM - Canada vs. France (Men's Group A) (Hockey)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -904,7 +904,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Women's 500m" stop="20260215110000 -0500">
+  <programme start="20260215010102 -0500" channel="Women's 500m" stop="20260215110000 -0500">
     <title>Next event: 15 Feb 11:00 AM - Women's 500m (Speed Skating)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -928,7 +928,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Pairs Short: Warm-Up" stop="20260215112000 -0500">
+  <programme start="20260215010102 -0500" channel="Pairs Short: Warm-Up" stop="20260215112000 -0500">
     <title>Next event: 15 Feb 11:20 AM - Pairs Short: Warm-Up (Figure Skating)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -952,7 +952,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Women's Large Hill" stop="20260215113500 -0500">
+  <programme start="20260215010102 -0500" channel="Women's Large Hill" stop="20260215113500 -0500">
     <title>Next event: 15 Feb 11:35 AM - Women's Large Hill (Ski Jumping)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -976,7 +976,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Skeleton Mixed Team Event" stop="20260215120000 -0500">
+  <programme start="20260215010102 -0500" channel="Skeleton Mixed Team Event" stop="20260215120000 -0500">
     <title>Next event: 15 Feb 12:00 PM - Skeleton Mixed Team Event (Skeleton)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1000,7 +1000,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="China vs. Canada (M Round-Robin)" stop="20260215130500 -0500">
+  <programme start="20260215010102 -0500" channel="China vs. Canada (M Round-Robin)" stop="20260215130500 -0500">
     <title>Next event: 15 Feb 01:05 PM - China vs. Canada (M Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1024,7 +1024,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Great Britain vs. Switzerland (M Round-Robin)" stop="20260215130500 -0500">
+  <programme start="20260215010102 -0500" channel="Great Britain vs. Switzerland (M Round-Robin)" stop="20260215130500 -0500">
     <title>Next event: 15 Feb 01:05 PM - Great Britain vs. Switzerland (M Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1048,7 +1048,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Italy vs. Czechia (M Round-Robin)" stop="20260215130500 -0500">
+  <programme start="20260215010102 -0500" channel="Italy vs. Czechia (M Round-Robin)" stop="20260215130500 -0500">
     <title>Next event: 15 Feb 01:05 PM - Italy vs. Czechia (M Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1072,7 +1072,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Norway vs. USA (M Round-Robin)" stop="20260215130500 -0500">
+  <programme start="20260215010102 -0500" channel="Norway vs. USA (M Round-Robin)" stop="20260215130500 -0500">
     <title>Next event: 15 Feb 01:05 PM - Norway vs. USA (M Round-Robin) (Curling)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1096,7 +1096,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Denmark vs. Latvia (Men's Group C)" stop="20260215131000 -0500">
+  <programme start="20260215010102 -0500" channel="Denmark vs. Latvia (Men's Group C)" stop="20260215131000 -0500">
     <title>Next event: 15 Feb 01:10 PM - Denmark vs. Latvia (Men's Group C) (Hockey)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1120,7 +1120,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Men's Freeski Big Air: Qualifying" stop="20260215133000 -0500">
+  <programme start="20260215010102 -0500" channel="Men's Freeski Big Air: Qualifying" stop="20260215133000 -0500">
     <title>Next event: 15 Feb 01:30 PM - Men's Freeski Big Air: Qualifying (Freestyle Skiing)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1144,7 +1144,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Pairs Short (Venue Feed)" stop="20260215134500 -0500">
+  <programme start="20260215010102 -0500" channel="Pairs Short (Venue Feed)" stop="20260215134500 -0500">
     <title>Next event: 15 Feb 01:45 PM - Pairs Short (Venue Feed) (Figure Skating)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1168,7 +1168,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="USA vs. Germany (Men's Group C)" stop="20260215151000 -0500">
+  <programme start="20260215010102 -0500" channel="USA vs. Germany (Men's Group C)" stop="20260215151000 -0500">
     <title>Next event: 15 Feb 03:10 PM - USA vs. Germany (Men's Group C) (Hockey)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1192,7 +1192,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="NC State Wolfpack vs. Seton Hall Pirates" stop="20260215110000 -0500">
+  <programme start="20260215010102 -0500" channel="NC State Wolfpack vs. Seton Hall Pirates" stop="20260215110000 -0500">
     <title>Next event: 15 Feb 11:00 AM - NC State Wolfpack vs. Seton Hall Pirates (Baseball)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1216,7 +1216,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Vanderbilt Commodores vs. Oklahoma State Cowboys" stop="20260215113000 -0500">
+  <programme start="20260215010102 -0500" channel="Vanderbilt Commodores vs. Oklahoma State Cowboys" stop="20260215113000 -0500">
     <title>Next event: 15 Feb 11:30 AM - Vanderbilt Commodores vs. Oklahoma State Cowboys (Baseball)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1240,7 +1240,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Lehigh Mountain Hawks vs. Miami Hurricanes" stop="20260215120000 -0500">
+  <programme start="20260215010102 -0500" channel="Lehigh Mountain Hawks vs. Miami Hurricanes" stop="20260215120000 -0500">
     <title>Next event: 15 Feb 12:00 PM - Lehigh Mountain Hawks vs. Miami Hurricanes (ACC Extra)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1264,7 +1264,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="UC Davis Aggies vs. Texas Longhorns" stop="20260215130000 -0500">
+  <programme start="20260215010102 -0500" channel="UC Davis Aggies vs. Texas Longhorns" stop="20260215130000 -0500">
     <title>Next event: 15 Feb 01:00 PM - UC Davis Aggies vs. Texas Longhorns (SECN+)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1288,7 +1288,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Michigan State Spartans vs. Louisville Cardinals" stop="20260215130000 -0500">
+  <programme start="20260215010102 -0500" channel="Michigan State Spartans vs. Louisville Cardinals" stop="20260215130000 -0500">
     <title>Next event: 15 Feb 01:00 PM - Michigan State Spartans vs. Louisville Cardinals (ACC Extra)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1312,7 +1312,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="James Madison Dukes vs. Florida State Seminoles" stop="20260215130000 -0500">
+  <programme start="20260215010102 -0500" channel="James Madison Dukes vs. Florida State Seminoles" stop="20260215130000 -0500">
     <title>Next event: 15 Feb 01:00 PM - James Madison Dukes vs. Florida State Seminoles (ACC Extra)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1336,7 +1336,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Tennessee Tech Golden Eagles vs. Texas A&amp;M Aggies" stop="20260215130000 -0500">
+  <programme start="20260215010102 -0500" channel="Tennessee Tech Golden Eagles vs. Texas A&amp;M Aggies" stop="20260215130000 -0500">
     <title>Next event: 15 Feb 01:00 PM - Tennessee Tech Golden Eagles vs. Texas A&amp;M Aggies (SECN+)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1360,7 +1360,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Milwaukee Panthers vs. LSU Tigers" stop="20260215140000 -0500">
+  <programme start="20260215010102 -0500" channel="Milwaukee Panthers vs. LSU Tigers" stop="20260215140000 -0500">
     <title>Next event: 15 Feb 02:00 PM - Milwaukee Panthers vs. LSU Tigers (SECN+)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1384,7 +1384,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Oregon State Beavers vs. Stanford Cardinal" stop="20260215140000 -0500">
+  <programme start="20260215010102 -0500" channel="Oregon State Beavers vs. Stanford Cardinal" stop="20260215140000 -0500">
     <title>Next event: 15 Feb 02:00 PM - Oregon State Beavers vs. Stanford Cardinal (Baseball)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1408,7 +1408,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Wake Forest Demon Deacons vs. Indiana State Sycamores" stop="20260215143000 -0500">
+  <programme start="20260215010102 -0500" channel="Wake Forest Demon Deacons vs. Indiana State Sycamores" stop="20260215143000 -0500">
     <title>Next event: 15 Feb 02:30 PM - Wake Forest Demon Deacons vs. Indiana State Sycamores (Baseball)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1432,7 +1432,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Texas Tech Red Raiders vs. Arkansas Razorbacks" stop="20260215153000 -0500">
+  <programme start="20260215010102 -0500" channel="Texas Tech Red Raiders vs. Arkansas Razorbacks" stop="20260215153000 -0500">
     <title>Next event: 15 Feb 03:30 PM - Texas Tech Red Raiders vs. Arkansas Razorbacks (Baseball)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1456,7 +1456,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="UC San Diego Tritons vs. UCLA Bruins" stop="20260215160000 -0500">
+  <programme start="20260215010102 -0500" channel="UC San Diego Tritons vs. UCLA Bruins" stop="20260215160000 -0500">
     <title>Next event: 15 Feb 04:00 PM - UC San Diego Tritons vs. UCLA Bruins (B1G+)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1480,7 +1480,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles" stop="20260215160000 -0500">
+  <programme start="20260215010102 -0500" channel="UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles" stop="20260215160000 -0500">
     <title>Next event: 15 Feb 04:00 PM - UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles (ESPN+)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1504,7 +1504,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Arizona Wildcats vs. Michigan Wolverines" stop="20260215180000 -0500">
+  <programme start="20260215010102 -0500" channel="Arizona Wildcats vs. Michigan Wolverines" stop="20260215180000 -0500">
     <title>Next event: 15 Feb 06:00 PM - Arizona Wildcats vs. Michigan Wolverines (Baseball)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1528,7 +1528,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Oklahoma Sooners vs. TCU Horned Frogs" stop="20260215193000 -0500">
+  <programme start="20260215010102 -0500" channel="Oklahoma Sooners vs. TCU Horned Frogs" stop="20260215193000 -0500">
     <title>Next event: 15 Feb 07:30 PM - Oklahoma Sooners vs. TCU Horned Frogs (Baseball)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1552,7 +1552,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Gonzaga Bulldogs vs. Santa Clara Broncos" stop="20260214223000 -0500">
+  <programme start="20260215010102 -0500" channel="Gonzaga Bulldogs vs. Santa Clara Broncos" stop="20260214223000 -0500">
     <title>Next event: 14 Feb 10:30 PM - Gonzaga Bulldogs vs. Santa Clara Broncos (ESPN)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1576,7 +1576,31 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Players Championship - Board 1" stop="20260216080000 -0500">
+  <programme start="20260215010102 -0500" channel="Indiana Hoosiers vs. Illinois Fighting Illini (Basketball)" stop="20260215130000 -0500">
+    <title>Next event: 15 Feb 01:00 PM - Indiana Hoosiers vs. Illinois Fighting Illini (Basketball) (CBS)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260215130000 -0500" channel="Indiana Hoosiers vs. Illinois Fighting Illini (Basketball)" stop="20260215163000 -0500">
+    <title>Indiana Hoosiers vs. Illinois Fighting Illini (Basketball) (CBS)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260215163000 -0500" channel="Indiana Hoosiers vs. Illinois Fighting Illini (Basketball)" stop="20260215235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260215010102 -0500" channel="Players Championship - Board 1" stop="20260216080000 -0500">
     <title>Next event: 16 Feb 08:00 AM - Players Championship - Board 1 (PDC.TV)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1600,7 +1624,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Players Championship - Board 2" stop="20260216080000 -0500">
+  <programme start="20260215010102 -0500" channel="Players Championship - Board 2" stop="20260216080000 -0500">
     <title>Next event: 16 Feb 08:00 AM - Players Championship - Board 2 (PDC.TV)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1624,7 +1648,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Players Championship - Board 3" stop="20260216080000 -0500">
+  <programme start="20260215010102 -0500" channel="Players Championship - Board 3" stop="20260216080000 -0500">
     <title>Next event: 16 Feb 08:00 AM - Players Championship - Board 3 (PDC.TV)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1648,7 +1672,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Players Championship - Board 4" stop="20260216080000 -0500">
+  <programme start="20260215010102 -0500" channel="Players Championship - Board 4" stop="20260216080000 -0500">
     <title>Next event: 16 Feb 08:00 AM - Players Championship - Board 4 (PDC.TV)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1672,7 +1696,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Udinese vs. Sassuolo" stop="20260215063000 -0500">
+  <programme start="20260215010102 -0500" channel="Udinese vs. Sassuolo" stop="20260215063000 -0500">
     <title>Next event: 15 Feb 06:30 AM - Udinese vs. Sassuolo (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1696,7 +1720,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Birmingham City vs. Leeds United" stop="20260215070000 -0500">
+  <programme start="20260215010102 -0500" channel="Birmingham City vs. Leeds United" stop="20260215070000 -0500">
     <title>Next event: 15 Feb 07:00 AM - Birmingham City vs. Leeds United (English FA Cup)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1720,7 +1744,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Real Oviedo vs. Athletic Club" stop="20260215080000 -0500">
+  <programme start="20260215010102 -0500" channel="Real Oviedo vs. Athletic Club" stop="20260215080000 -0500">
     <title>Next event: 15 Feb 08:00 AM - Real Oviedo vs. Athletic Club (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1744,7 +1768,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Grimsby Town vs. Wolverhampton Wanderers" stop="20260215083000 -0500">
+  <programme start="20260215010102 -0500" channel="Grimsby Town vs. Wolverhampton Wanderers" stop="20260215083000 -0500">
     <title>Next event: 15 Feb 08:30 AM - Grimsby Town vs. Wolverhampton Wanderers (English FA Cup)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1768,7 +1792,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Cremonese vs. Genoa" stop="20260215090000 -0500">
+  <programme start="20260215010102 -0500" channel="Cremonese vs. Genoa" stop="20260215090000 -0500">
     <title>Next event: 15 Feb 09:00 AM - Cremonese vs. Genoa (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1792,7 +1816,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Parma vs. Hellas Verona" stop="20260215090000 -0500">
+  <programme start="20260215010102 -0500" channel="Parma vs. Hellas Verona" stop="20260215090000 -0500">
     <title>Next event: 15 Feb 09:00 AM - Parma vs. Hellas Verona (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1816,7 +1840,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Le Havre AC vs. Toulouse" stop="20260215090000 -0500">
+  <programme start="20260215010102 -0500" channel="Le Havre AC vs. Toulouse" stop="20260215090000 -0500">
     <title>Next event: 15 Feb 09:00 AM - Le Havre AC vs. Toulouse (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1840,7 +1864,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Oxford United vs. Sunderland" stop="20260215090000 -0500">
+  <programme start="20260215010102 -0500" channel="Oxford United vs. Sunderland" stop="20260215090000 -0500">
     <title>Next event: 15 Feb 09:00 AM - Oxford United vs. Sunderland (English FA Cup)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1864,7 +1888,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Stoke City vs. Fulham" stop="20260215090000 -0500">
+  <programme start="20260215010102 -0500" channel="Stoke City vs. Fulham" stop="20260215090000 -0500">
     <title>Next event: 15 Feb 09:00 AM - Stoke City vs. Fulham (English FA Cup)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1888,7 +1912,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="FC Augsburg vs. 1. FC Heidenheim 1846" stop="20260215093000 -0500">
+  <programme start="20260215010102 -0500" channel="FC Augsburg vs. 1. FC Heidenheim 1846" stop="20260215093000 -0500">
     <title>Next event: 15 Feb 09:30 AM - FC Augsburg vs. 1. FC Heidenheim 1846 (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1912,7 +1936,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Rayo Vallecano vs. Atl&#233;tico Madrid" stop="20260215101500 -0500">
+  <programme start="20260215010102 -0500" channel="Rayo Vallecano vs. Atl&#233;tico Madrid" stop="20260215101500 -0500">
     <title>Next event: 15 Feb 10:15 AM - Rayo Vallecano vs. Atl&#233;tico Madrid (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1936,7 +1960,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Lorient vs. Angers" stop="20260215111500 -0500">
+  <programme start="20260215010102 -0500" channel="Lorient vs. Angers" stop="20260215111500 -0500">
     <title>Next event: 15 Feb 11:15 AM - Lorient vs. Angers (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1960,7 +1984,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Metz vs. AJ Auxerre" stop="20260215111500 -0500">
+  <programme start="20260215010102 -0500" channel="Metz vs. AJ Auxerre" stop="20260215111500 -0500">
     <title>Next event: 15 Feb 11:15 AM - Metz vs. AJ Auxerre (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1984,7 +2008,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="RB Leipzig vs. VfL Wolfsburg" stop="20260215113000 -0500">
+  <programme start="20260215010102 -0500" channel="RB Leipzig vs. VfL Wolfsburg" stop="20260215113000 -0500">
     <title>Next event: 15 Feb 11:30 AM - RB Leipzig vs. VfL Wolfsburg (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2008,7 +2032,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Arsenal vs. Wigan Athletic" stop="20260215113000 -0500">
+  <programme start="20260215010102 -0500" channel="Arsenal vs. Wigan Athletic" stop="20260215113000 -0500">
     <title>Next event: 15 Feb 11:30 AM - Arsenal vs. Wigan Athletic (English FA Cup)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2032,7 +2056,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Torino vs. Bologna" stop="20260215120000 -0500">
+  <programme start="20260215010102 -0500" channel="Torino vs. Bologna" stop="20260215120000 -0500">
     <title>Next event: 15 Feb 12:00 PM - Torino vs. Bologna (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2056,7 +2080,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Levante vs. Valencia" stop="20260215123000 -0500">
+  <programme start="20260215010102 -0500" channel="Levante vs. Valencia" stop="20260215123000 -0500">
     <title>Next event: 15 Feb 12:30 PM - Levante vs. Valencia (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2080,7 +2104,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Napoli vs. AS Roma" stop="20260215144500 -0500">
+  <programme start="20260215010102 -0500" channel="Napoli vs. AS Roma" stop="20260215144500 -0500">
     <title>Next event: 15 Feb 02:45 PM - Napoli vs. AS Roma (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2104,7 +2128,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Lyon vs. Nice" stop="20260215144500 -0500">
+  <programme start="20260215010102 -0500" channel="Lyon vs. Nice" stop="20260215144500 -0500">
     <title>Next event: 15 Feb 02:45 PM - Lyon vs. Nice (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2128,7 +2152,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Mallorca vs. Real Betis" stop="20260215150000 -0500">
+  <programme start="20260215010102 -0500" channel="Mallorca vs. Real Betis" stop="20260215150000 -0500">
     <title>Next event: 15 Feb 03:00 PM - Mallorca vs. Real Betis (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2152,7 +2176,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Macclesfield FC vs. Brentford" stop="20260216143000 -0500">
+  <programme start="20260215010102 -0500" channel="Macclesfield FC vs. Brentford" stop="20260216143000 -0500">
     <title>Next event: 16 Feb 02:30 PM - Macclesfield FC vs. Brentford (English FA Cup)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2176,7 +2200,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Cagliari vs. Lecce" stop="20260216144500 -0500">
+  <programme start="20260215010102 -0500" channel="Cagliari vs. Lecce" stop="20260216144500 -0500">
     <title>Next event: 16 Feb 02:45 PM - Cagliari vs. Lecce (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2200,7 +2224,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Girona vs. Barcelona" stop="20260216150000 -0500">
+  <programme start="20260215010102 -0500" channel="Girona vs. Barcelona" stop="20260216150000 -0500">
     <title>Next event: 16 Feb 03:00 PM - Girona vs. Barcelona (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2224,31 +2248,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Supercross: Seattle" stop="20260214130000 -0500">
-    <title>Next event: 14 Feb 01:00 PM - Supercross: Seattle (Peacock)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260214130000 -0500" channel="Supercross: Seattle" stop="20260215010000 -0500">
-    <title>Supercross: Seattle (Peacock)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260215010000 -0500" channel="Supercross: Seattle" stop="20260214235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260215000102 -0500" channel="Pre-Season Testing - Day 1" stop="20260218020000 -0500">
+  <programme start="20260215010102 -0500" channel="Pre-Season Testing - Day 1" stop="20260218020000 -0500">
     <title>Next event: 18 Feb 02:00 AM - Pre-Season Testing - Day 1 (Formula 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2272,7 +2272,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Pre-Season Testing - Day 2" stop="20260219020000 -0500">
+  <programme start="20260215010102 -0500" channel="Pre-Season Testing - Day 2" stop="20260219020000 -0500">
     <title>Next event: 19 Feb 02:00 AM - Pre-Season Testing - Day 2 (Formula 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2296,7 +2296,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Pre-Season Testing - Day 3" stop="20260220020000 -0500">
+  <programme start="20260215010102 -0500" channel="Pre-Season Testing - Day 3" stop="20260220020000 -0500">
     <title>Next event: 20 Feb 02:00 AM - Pre-Season Testing - Day 3 (Formula 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2320,7 +2320,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="24/7 South Park" stop="19691231190000 -0500">
+  <programme start="20260215010102 -0500" channel="24/7 South Park" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - 24/7 South Park (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2344,7 +2344,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="24/7 COWS" stop="20250118000000 -0500">
+  <programme start="20260215010102 -0500" channel="24/7 COWS" stop="20250118000000 -0500">
     <title>Next event: 18 Jan 12:00 AM - 24/7 COWS (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2368,7 +2368,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="24/7 Family Guy" stop="20250118030000 -0500">
+  <programme start="20260215010102 -0500" channel="24/7 Family Guy" stop="20250118030000 -0500">
     <title>Next event: 18 Jan 03:00 AM - 24/7 Family Guy (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2392,7 +2392,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="24/7 The Simpsons" stop="20250118052800 -0500">
+  <programme start="20260215010102 -0500" channel="24/7 The Simpsons" stop="20250118052800 -0500">
     <title>Next event: 18 Jan 05:28 AM - 24/7 The Simpsons (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2416,7 +2416,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="24/7 SpongeBob Squarepants" stop="20260127190000 -0500">
+  <programme start="20260215010102 -0500" channel="24/7 SpongeBob Squarepants" stop="20260127190000 -0500">
     <title>Next event: 27 Jan 07:00 PM - 24/7 SpongeBob Squarepants (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2440,7 +2440,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260215000102 -0500" channel="Rally TV" stop="20260211190000 -0500">
+  <programme start="20260215010102 -0500" channel="Rally TV" stop="20260211190000 -0500">
     <title>Next event: 11 Feb 07:00 PM - Rally TV (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
