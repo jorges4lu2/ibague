@@ -1,29 +1,5 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.file_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fc01d8b958634bdfab0c2c79a81c5c59":"d7be7549c637aa9cd78a05009a7c1a30"}
-#EXTINF:-1 tvg-id="studio_universal" group-title="Movistar",Studio Universal
-https://b45524-p7-h70-ag461wi2-n1-tcc56e4.4.cdn.telefonica.com/_45524/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEyNjcwNTYsInVpcCI6IiIsInVpZCI6IjRVX2hNdFVIa013X2xyWmpsS2RFUkIzcVZCcUMzb1NRTVVsWTUtVWZTdUNaZ0ZfWWhvU1lseE54RUVkTmpsNVciLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiIxZTZkNjM5NTAxM2ExNzlhNGMwMTY5NGNjNzhiNmNjOSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.d99do5ClQ3kIMr1dVw7awO99-svNzcjf6-rrLw5EoLz83bCt-9nOiraZEXL85P8HuF_2uwCLkArF4tG03SRWBQ_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=Live-M
-
-#EXTINF:-1 tvg-id="espn1" group-title="Movistar",ESPN 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ed8ff9da3404a2c894f6c8c19ee259f:03217391b5fa991d37ba790523d766e7
-https://b41859-p7-h29-afxs39r8-n1-t55e7fe.4.cdn.telefonica.com/_41859/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEyNjk3MTgsInVpcCI6IiIsInVpZCI6IjRVX2hNdFVIa013X2xyWmpsS2RFUkIzcVZCcUMzb1NRTVVsWTUtVWZTdUNaZ0ZfWWhvU1lseE54RUVkTmpsNVciLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiIxZTZkNjM5NTAxM2ExNzlhNGMwMTY5NGNjNzhiNmNjOSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ._jwQ5pOBlPDSigpK8AoYT9VhWqKB3mpvbflrYInbNJYIha0qrbkR-g9l10nDhbMmLzrLgXpBL_X9MAl2ZwVg3g_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=Live-M
-
-#KODIPROP:inputstream.adaptive.file_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b759b6fb9bc04bd99a4d3487233c50ad":"648683c1272ac3595394d8b75606481f"}
-#EXTINF:-1 tvg-id="home_and_health" group-title="Movistar",Home and Health
-https://b41852-p7-h8f-ag461wi2-n1-td21720.4.cdn.telefonica.com/_41852/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEyNjkxNTUsInVpcCI6IiIsInVpZCI6IjRVX2hNdFVIa013X2xyWmpsS2RFUkIzcVZCcUMzb1NRTVVsWTUtVWZTdUNaZ0ZfWWhvU1lseE54RUVkTmpsNVciLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiIxZTZkNjM5NTAxM2ExNzlhNGMwMTY5NGNjNzhiNmNjOSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.Uox2-ju3-LbzId0_Pnz8dUR5lLONqDJN0EfkVHG1qahegFT9RdS6TcrtinZDCycr1vKioPnOMoMoFhemPVGn7w_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=Live-M
-
-#KODIPROP:inputstream.adaptive.file_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0b1cfaf5893a4afc86ede2596de51dec":"444a483b0c2b81996d17c30eea280c3e"}
-#EXTINF:-1 tvg-id="hgtv" group-title="Movistar",HGTV
-https://b42555-p7-hd5-afxs39r8-n1-t0f761b.4.cdn.telefonica.com/_42555/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEyNjg2NjUsInVpcCI6IiIsInVpZCI6IjRVX2hNdFVIa013X2xyWmpsS2RFUkIzcVZCcUMzb1NRTVVsWTUtVWZTdUNaZ0ZfWWhvU1lseE54RUVkTmpsNVciLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiIxZTZkNjM5NTAxM2ExNzlhNGMwMTY5NGNjNzhiNmNjOSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.jgQmTOnnKUzEhtIrhge6VduGZNf6mTy6ZPrynmwa-m08PQt4acqqBD4IagUEjHN8uuq01vqd49oknjVTt5uTzA_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=Live-M
-
 #EXTINF:-1 tvg-id="bvc_hd.ar" group-title="Bahía Visión Color",Bvc Hd
 https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.mpd
 
@@ -1946,3 +1922,27 @@ https://cdn03.gigared.com.ar/live/eds/Telehit_Musica/sa_live_dash/Telehit_Musica
 #KODIPROP:inputstream.adaptive.license_key={"6dcafee5775552f97891dfdada84df85":"089ae50f8036135e7e458292e44676b5"}
 #EXTINF:-1 tvg-id="telehit_plus.ar" group-title="Gigared",Telehit Plus
 https://cdn02.gigared.com.ar/live/eds/Telehit_Plus/sa_live_dash/Telehit_Plus.mpd
+
+#EXTINF:-1 tvg-id="studio_universal" group-title="Movistar",Studio Universal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fc01d8b958634bdfab0c2c79a81c5c59":"d7be7549c637aa9cd78a05009a7c1a30"}
+https://b45524-p7-h70-ag461wi2-n1-tcc56e4.4.cdn.telefonica.com/_45524/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEyNjcwNTYsInVpcCI6IiIsInVpZCI6IjRVX2hNdFVIa013X2xyWmpsS2RFUkIzcVZCcUMzb1NRTVVsWTUtVWZTdUNaZ0ZfWWhvU1lseE54RUVkTmpsNVciLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiIxZTZkNjM5NTAxM2ExNzlhNGMwMTY5NGNjNzhiNmNjOSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.d99do5ClQ3kIMr1dVw7awO99-svNzcjf6-rrLw5EoLz83bCt-9nOiraZEXL85P8HuF_2uwCLkArF4tG03SRWBQ_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=Live-M
+
+#EXTINF:-1 tvg-id="espn1" group-title="Movistar",ESPN 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ed8ff9da3404a2c894f6c8c19ee259f:03217391b5fa991d37ba790523d766e7
+https://b41859-p7-h29-afxs39r8-n1-t55e7fe.4.cdn.telefonica.com/_41859/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEyNjk3MTgsInVpcCI6IiIsInVpZCI6IjRVX2hNdFVIa013X2xyWmpsS2RFUkIzcVZCcUMzb1NRTVVsWTUtVWZTdUNaZ0ZfWWhvU1lseE54RUVkTmpsNVciLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiIxZTZkNjM5NTAxM2ExNzlhNGMwMTY5NGNjNzhiNmNjOSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ._jwQ5pOBlPDSigpK8AoYT9VhWqKB3mpvbflrYInbNJYIha0qrbkR-g9l10nDhbMmLzrLgXpBL_X9MAl2ZwVg3g_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=Live-M
+
+#EXTINF:-1 tvg-id="home_and_health" group-title="Movistar",Home and Health
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b759b6fb9bc04bd99a4d3487233c50ad":"648683c1272ac3595394d8b75606481f"}
+https://b41852-p7-h8f-ag461wi2-n1-td21720.4.cdn.telefonica.com/_41852/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEyNjkxNTUsInVpcCI6IiIsInVpZCI6IjRVX2hNdFVIa013X2xyWmpsS2RFUkIzcVZCcUMzb1NRTVVsWTUtVWZTdUNaZ0ZfWWhvU1lseE54RUVkTmpsNVciLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiIxZTZkNjM5NTAxM2ExNzlhNGMwMTY5NGNjNzhiNmNjOSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.Uox2-ju3-LbzId0_Pnz8dUR5lLONqDJN0EfkVHG1qahegFT9RdS6TcrtinZDCycr1vKioPnOMoMoFhemPVGn7w_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=Live-M
+
+#EXTINF:-1 tvg-id="hgtv" group-title="Movistar",HGTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0b1cfaf5893a4afc86ede2596de51dec":"444a483b0c2b81996d17c30eea280c3e"}
+https://b42555-p7-hd5-afxs39r8-n1-t0f761b.4.cdn.telefonica.com/_42555/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEyNjg2NjUsInVpcCI6IiIsInVpZCI6IjRVX2hNdFVIa013X2xyWmpsS2RFUkIzcVZCcUMzb1NRTVVsWTUtVWZTdUNaZ0ZfWWhvU1lseE54RUVkTmpsNVciLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiIxZTZkNjM5NTAxM2ExNzlhNGMwMTY5NGNjNzhiNmNjOSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.jgQmTOnnKUzEhtIrhge6VduGZNf6mTy6ZPrynmwa-m08PQt4acqqBD4IagUEjHN8uuq01vqd49oknjVTt5uTzA_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=Live-M
