@@ -1924,10 +1924,9 @@ https://cdn03.gigared.com.ar/live/eds/Telehit_Musica/sa_live_dash/Telehit_Musica
 https://cdn02.gigared.com.ar/live/eds/Telehit_Plus/sa_live_dash/Telehit_Plus.mpd
 
 #EXTINF:-1 tvg-id="studio_universal" group-title="Movistar",Studio Universal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc01d8b958634bdfab0c2c79a81c5c59:d7be7549c637aa9cd78a05009a7c1a30
-https://b45524-p7-h70-ag461wi2-n1-tcc56e4.4.cdn.telefonica.com/_45524/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEyNjcwNTYsInVpcCI6IiIsInVpZCI6IjRVX2hNdFVIa013X2xyWmpsS2RFUkIzcVZCcUMzb1NRTVVsWTUtVWZTdUNaZ0ZfWWhvU1lseE54RUVkTmpsNVciLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiIxZTZkNjM5NTAxM2ExNzlhNGMwMTY5NGNjNzhiNmNjOSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.d99do5ClQ3kIMr1dVw7awO99-svNzcjf6-rrLw5EoLz83bCt-9nOiraZEXL85P8HuF_2uwCLkArF4tG03SRWBQ_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=Live-M
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fc01d8b958634bdfab0c2c79a81c5c59":"d7be7549c637aa9cd78a05009a7c1a30"}
+https://b45524-p7-h70-ag461wi2-n1-tcc56e4.4.cdn.telefonica.com/_45524/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEyNjcwNTYsInVpcCI6IiIsInVpZCI6IjRVX2hNdFVIa013X2xyWmpsS2RFUkIzcVZCcUMzb1NRTVVsWTUtVWZTdUNaZ0ZfWWhvU1lseE54RUVkTmpsNVciLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiIxZTZkNjM5NTAxM2ExNzlhNGMwMTY5NGNjNzhiNmNjOSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.d99do5ClQ3kIMr1dVw7awO99-svNzcjf6-rrLw5EoLz83bCt-9nOiraZEXL85P8HuF_2uwCLkArF4tG03SRWBQ_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=NONE
 
 #EXTINF:-1 tvg-id="espn1" group-title="Movistar",ESPN 1
 #KODIPROP:inputstream=inputstream.adaptive
