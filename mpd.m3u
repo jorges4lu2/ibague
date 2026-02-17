@@ -2111,3 +2111,10 @@ https://b41842-p1-hbc-afxs39r8-n1-tfe6bcb.4.cdn.telefonica.com/_41842/_-_eyJhbGc
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c3a912f9eff546439372bd0854505edb":"c839b691a950aa7266720979103bbdd6"}
 https://b41891-p1-he3-ag5q1wi2-n1-ted6083.4.cdn.telefonica.com/_41891/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFd05UYzRNREk9In0.eyJpYXQiOjE3NzEzNTMyNzAsInVpcCI6IiIsInVpZCI6IlFYOEx3UjRUQUdlSHNNUnJGZmUwVEtuWDFGU2FZNktsRUZBQ1J3NHNVSFlqQ3pYWUtiVFg2VUxMcTVNR05VcFQiLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiI5YzMxNGM0NWRiNDQ5ZDZkZDhmYmYyMzliMGJmODFhNCIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.IOlvIWtJ5hwbAs2FNqv6BVx1GC0A38ogSuDji68ArNxbLpzOop2zC8aBQ4hsaBjUg3_zinjZHlaFzaMAeYusfA_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=NONE
+
+#EXTINF:-1 tvg-id="espn_gigared" group-title="Movistar",ESPN 1 Gigared
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8b55a3ba068f882f49b36d216f29506f":"77f418bbcfc73739ebca9c52321472d3"}
+https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
