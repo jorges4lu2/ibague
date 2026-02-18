@@ -740,6 +740,10 @@
     <display-name lang="en">USA vs. Sweden (Men's Quarterfinal)</display-name>
     <display-name lang="en">USA vs. Sweden (Men's Quarterfinal) [LIVE]</display-name>
   </channel>
+  <channel id="Premier League Darts: Night 3">
+    <display-name lang="en">Premier League Darts: Night 3</display-name>
+    <display-name lang="en">Premier League Darts: Night 3 [LIVE]</display-name>
+  </channel>
   <programme start="20260217010102 -0500" channel="Czechia vs. Germany (M Round-Robin)" stop="20260217030500 -0500">
     <title>Next event: 17 Feb 03:05 AM - Czechia vs. Germany (M Round-Robin) (Curling)</title>
     <date>2026</date>
@@ -5173,6 +5177,30 @@
     </audio>
   </programme>
   <programme start="20260218170000 -0500" channel="USA vs. Sweden (Men's Quarterfinal)" stop="20260218235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260218150102 -0500" channel="Premier League Darts: Night 3" stop="20260219140000 -0500">
+    <title>Next event: 19 Feb 02:00 PM - Premier League Darts: Night 3 (Sky Sports)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260219140000 -0500" channel="Premier League Darts: Night 3" stop="20260219180000 -0500">
+    <title>Premier League Darts: Night 3 (Sky Sports)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260219180000 -0500" channel="Premier League Darts: Night 3" stop="20260219235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
