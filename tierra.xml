@@ -452,6 +452,10 @@
     <display-name lang="en">Willow Cricket</display-name>
     <display-name lang="en">Willow Cricket [LIVE]</display-name>
   </channel>
+  <channel id="UFC Fight Night: Strickland vs. Hernandez">
+    <display-name lang="en">UFC Fight Night: Strickland vs. Hernandez</display-name>
+    <display-name lang="en">UFC Fight Night: Strickland vs. Hernandez [LIVE]</display-name>
+  </channel>
   <programme start="20260219010102 -0500" channel="China vs. Germany (M Round-Robin)" stop="20260219030500 -0500">
     <title>Next event: 19 Feb 03:05 AM - China vs. Germany (M Round-Robin) (Curling)</title>
     <date>2026</date>
@@ -3157,6 +3161,30 @@
     </audio>
   </programme>
   <programme start="19691231190000 -0500" channel="Willow Cricket" stop="19691231235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260219060103 -0500" channel="UFC Fight Night: Strickland vs. Hernandez" stop="20260221170000 -0500">
+    <title>Next event: 21 Feb 05:00 PM - UFC Fight Night: Strickland vs. Hernandez (Paramount+)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260221170000 -0500" channel="UFC Fight Night: Strickland vs. Hernandez" stop="20260222010000 -0500">
+    <title>UFC Fight Night: Strickland vs. Hernandez (Paramount+)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260222010000 -0500" channel="UFC Fight Night: Strickland vs. Hernandez" stop="20260221235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
