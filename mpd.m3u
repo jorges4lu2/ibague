@@ -371,6 +371,13 @@ https://b45524.4.cdn.telefonica.com/45524/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCI
 #KODIPROP:inputstream.adaptive.license_key={"7ed814eba9d3419ba54a0a6dd16c2dc3":"e0fcd866671ed55ae99445d4a3c0c4f7"}
 https://b41865.4.cdn.telefonica.com/41865/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFME1ETTBNREk9In0.eyJpYXQiOjE3NzE2MjgxNDAsInVpcCI6IiIsInVpZCI6IjB2UjNfc01pLUxQa2hqTnJ1SWdZdGJjMWw5OW5iWlJ6YzFQNFkzX1JSZWhxMThwM0hhYS1UX1VkMGFKQmkyMWwiLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiJhOGI1OWZlYmFjYWRlODUwOGZiNjFkZmFjZTJlN2FkZSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.3b6qZlTNjZQ4Wd3DPhvYtIaEQ4uatBPdqMpD9Ptxq8edoZ8lFYQRI1g3Q4unb2iDlPvusKI7AsY1fb7cmGtNBw_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LIVEHD
 
+#EXTINF:-1 tvg-id="warner_tv" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/08/35/8355162_9D5F70421EBFB84B.png" group-title="Movistar",Warner TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"40663dbd644d4701942f5882166399af":"1f4cd3e475799d9fe6311ed479342559"}
+https://b41893.4.cdn.telefonica.com/41893/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFME1ETTBNREk9In0.eyJpYXQiOjE3NzE2MjgxNDAsInVpcCI6IiIsInVpZCI6IjB2UjNfc01pLUxQa2hqTnJ1SWdZdGJjMWw5OW5iWlJ6YzFQNFkzX1JSZWhxMThwM0hhYS1UX1VkMGFKQmkyMWwiLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiJhOGI1OWZlYmFjYWRlODUwOGZiNjFkZmFjZTJlN2FkZSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.3b6qZlTNjZQ4Wd3DPhvYtIaEQ4uatBPdqMpD9Ptxq8edoZ8lFYQRI1g3Q4unb2iDlPvusKI7AsY1fb7cmGtNBw_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LIVEHD
+
 #EXTINF:-1 tvg-id="amc_series" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/88/22882492_C49DBDD6AFC88005.png" group-title="Movistar",AMC Series
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -378,20 +385,12 @@ https://b41865.4.cdn.telefonica.com/41865/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCI
 #KODIPROP:inputstream.adaptive.license_key={"da1e3b23282746e8bbd4df90cd7b8843":"5aa1292f84b37bd54c08694f14bc760a"}
 https://b47730.4.cdn.telefonica.com/47730/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFME1ETTBNREk9In0.eyJpYXQiOjE3NzE2MjgxNDAsInVpcCI6IiIsInVpZCI6IjB2UjNfc01pLUxQa2hqTnJ1SWdZdGJjMWw5OW5iWlJ6YzFQNFkzX1JSZWhxMThwM0hhYS1UX1VkMGFKQmkyMWwiLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiJhOGI1OWZlYmFjYWRlODUwOGZiNjFkZmFjZTJlN2FkZSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.3b6qZlTNjZQ4Wd3DPhvYtIaEQ4uatBPdqMpD9Ptxq8edoZ8lFYQRI1g3Q4unb2iDlPvusKI7AsY1fb7cmGtNBw_-_/AMCSERIES.mpd
 
-#EXTINF:-1 tvg-id="sony_channel" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402029_63C699E0EA1EFEB6.png"
-            }," group-title="Movistar",Sony Channel
+#EXTINF:-1 tvg-id="sony_channel" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402029_63C699E0EA1EFEB6.png" group-title="Movistar",Sony Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4439405ed8a044bda44de22b58f516d8":"00d9d5084c98b49fdfca27206aeb5bef"}
 https://b41888.4.cdn.telefonica.com/41888/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFME1ETTBNREk9In0.eyJpYXQiOjE3NzE2MjgxNDAsInVpcCI6IiIsInVpZCI6IjB2UjNfc01pLUxQa2hqTnJ1SWdZdGJjMWw5OW5iWlJ6YzFQNFkzX1JSZWhxMThwM0hhYS1UX1VkMGFKQmkyMWwiLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiJhOGI1OWZlYmFjYWRlODUwOGZiNjFkZmFjZTJlN2FkZSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.3b6qZlTNjZQ4Wd3DPhvYtIaEQ4uatBPdqMpD9Ptxq8edoZ8lFYQRI1g3Q4unb2iDlPvusKI7AsY1fb7cmGtNBw_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LIVEHD
-
-#EXTINF:-1 tvg-id="warner_tv" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402025_7930297E846EF33B.png" group-title="Movistar",Warner TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"40663dbd644d4701942f5882166399af":"1f4cd3e475799d9fe6311ed479342559"}
-http://b41893.4.cdn.telefonica.com/41893/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFME1ETTBNREk9In0.eyJpYXQiOjE3NzE2MjgxNDAsInVpcCI6IiIsInVpZCI6IjB2UjNfc01pLUxQa2hqTnJ1SWdZdGJjMWw5OW5iWlJ6YzFQNFkzX1JSZWhxMThwM0hhYS1UX1VkMGFKQmkyMWwiLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiJhOGI1OWZlYmFjYWRlODUwOGZiNjFkZmFjZTJlN2FkZSIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.3b6qZlTNjZQ4Wd3DPhvYtIaEQ4uatBPdqMpD9Ptxq8edoZ8lFYQRI1g3Q4unb2iDlPvusKI7AsY1fb7cmGtNBw_-_/index.mpd/Manifest?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=NONE
 
 #EXTINF:-1 tvg-id="axn" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402156_509AFA5B12D1E5F9.png" group-title="Movistar",AXN
 #KODIPROP:inputstream=inputstream.adaptive
