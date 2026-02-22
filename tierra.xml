@@ -788,6 +788,10 @@
     <display-name lang="en">2026 Winter Olympics Closing Ceremony</display-name>
     <display-name lang="en">2026 Winter Olympics Closing Ceremony [LIVE]</display-name>
   </channel>
+  <channel id="Mario Barrios vs. Ryan Garcia">
+    <display-name lang="en">Mario Barrios vs. Ryan Garcia</display-name>
+    <display-name lang="en">Mario Barrios vs. Ryan Garcia [LIVE]</display-name>
+  </channel>
   <programme start="20260219010102 -0500" channel="China vs. Germany (M Round-Robin)" stop="20260219030500 -0500">
     <title>Next event: 19 Feb 03:05 AM - China vs. Germany (M Round-Robin) (Curling)</title>
     <date>2026</date>
@@ -5509,6 +5513,30 @@
     </audio>
   </programme>
   <programme start="20260222180000 -0500" channel="2026 Winter Olympics Closing Ceremony" stop="20260222235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260221210120 -0500" channel="Mario Barrios vs. Ryan Garcia" stop="20260221200000 -0500">
+    <title>Next event: 21 Feb 08:00 PM - Mario Barrios vs. Ryan Garcia (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260221200000 -0500" channel="Mario Barrios vs. Ryan Garcia" stop="20260222020000 -0500">
+    <title>Mario Barrios vs. Ryan Garcia (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260222020000 -0500" channel="Mario Barrios vs. Ryan Garcia" stop="20260221235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
