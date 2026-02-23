@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20260223 -0500">
-  <channel id="10:00 Sportsnet Central Feb 22 (SN)">
-    <display-name lang="en">10:00 Sportsnet Central Feb 22 (SN)</display-name>
-  </channel>
   <channel id="13:30 Zimbabwe v West Indies - Cricket">
     <display-name lang="en">13:30 Zimbabwe v West Indies - Cricket</display-name>
   </channel>
@@ -138,9 +135,6 @@
   <channel id="01:00 Sacramento Kings @ Memphis Grizzlies (NBA)">
     <display-name lang="en">01:00 Sacramento Kings @ Memphis Grizzlies (NBA)</display-name>
   </channel>
-  <channel id="01:30 2026 Ada Tour | Weekend 1 - Day 3 (PDC)">
-    <display-name lang="en">01:30 2026 Ada Tour | Weekend 1 - Day 3 (PDC)</display-name>
-  </channel>
   <channel id="01:45 Mist v Breeze (Basketball) (MAX)">
     <display-name lang="en">01:45 Mist v Breeze (Basketball) (MAX)</display-name>
   </channel>
@@ -198,30 +192,6 @@
   <channel id="20:00 Walsall v MK Dons (PARA)">
     <display-name lang="en">20:00 Walsall v MK Dons (PARA)</display-name>
   </channel>
-  <programme start="20260223000000 -0500" channel="10:00 Sportsnet Central Feb 22 (SN)" stop="20260223050000 -0500">
-    <title>[Upcoming: 05:00 AM]  Sportsnet Central Feb 22 (SN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260223050000 -0500" channel="10:00 Sportsnet Central Feb 22 (SN)" stop="20260223072000 -0500">
-    <title>[05:00 AM]  Sportsnet Central Feb 22 (SN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260223072000 -0500" channel="10:00 Sportsnet Central Feb 22 (SN)" stop="20260223235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260223000000 -0500" channel="13:30 Zimbabwe v West Indies - Cricket" stop="20260223083000 -0500">
     <title>[Upcoming: 08:30 AM]  Zimbabwe v West Indies - Cricket</title>
     <date>2026</date>
@@ -1295,30 +1265,6 @@
     </audio>
   </programme>
   <programme start="20260223222000 -0500" channel="01:00 Sacramento Kings @ Memphis Grizzlies (NBA)" stop="20260223235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260223000000 -0500" channel="01:30 2026 Ada Tour | Weekend 1 - Day 3 (PDC)" stop="20260223203000 -0500">
-    <title>[Upcoming: 08:30 PM]  2026 Ada Tour | Weekend 1 - Day 3 (PDC)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260223203000 -0500" channel="01:30 2026 Ada Tour | Weekend 1 - Day 3 (PDC)" stop="20260223225000 -0500">
-    <title>[08:30 PM]  2026 Ada Tour | Weekend 1 - Day 3 (PDC)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260223225000 -0500" channel="01:30 2026 Ada Tour | Weekend 1 - Day 3 (PDC)" stop="20260223235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
