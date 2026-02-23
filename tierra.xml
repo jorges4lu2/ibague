@@ -308,6 +308,14 @@
     <display-name lang="en">Rally TV</display-name>
     <display-name lang="en">Rally TV [LIVE]</display-name>
   </channel>
+  <channel id="Atleti vs. Club Brugge">
+    <display-name lang="en">Atleti vs. Club Brugge</display-name>
+    <display-name lang="en">Atleti vs. Club Brugge [LIVE]</display-name>
+  </channel>
+  <channel id="Leverkusen vs. Olympiacos">
+    <display-name lang="en">Leverkusen vs. Olympiacos</display-name>
+    <display-name lang="en">Leverkusen vs. Olympiacos [LIVE]</display-name>
+  </channel>
   <programme start="20260223010102 -0500" channel="New York Yankees vs. Pittsburgh Pirates" stop="20260223130500 -0500">
     <title>Next event: 23 Feb 01:05 PM - New York Yankees vs. Pittsburgh Pirates (MLB)</title>
     <date>2026</date>
@@ -2149,6 +2157,54 @@
     </audio>
   </programme>
   <programme start="20260211220000 -0500" channel="Rally TV" stop="20260211235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260223090102 -0500" channel="Atleti vs. Club Brugge" stop="20260224124500 -0500">
+    <title>Next event: 24 Feb 12:45 PM - Atleti vs. Club Brugge (Champions League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260224124500 -0500" channel="Atleti vs. Club Brugge" stop="20260224154500 -0500">
+    <title>Atleti vs. Club Brugge (Champions League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260224154500 -0500" channel="Atleti vs. Club Brugge" stop="20260224235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260223090102 -0500" channel="Leverkusen vs. Olympiacos" stop="20260224150000 -0500">
+    <title>Next event: 24 Feb 03:00 PM - Leverkusen vs. Olympiacos (Champions League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260224150000 -0500" channel="Leverkusen vs. Olympiacos" stop="20260224180000 -0500">
+    <title>Leverkusen vs. Olympiacos (Champions League)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260224180000 -0500" channel="Leverkusen vs. Olympiacos" stop="20260224235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
