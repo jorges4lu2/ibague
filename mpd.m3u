@@ -1,8 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="espn.ar" group-title="Gigared",ESPN Argentina
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8b55a3ba068f882f49b36d216f29506f":"77f418bbcfc73739ebca9c52321472d3"}
+#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
 https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
 
 #EXTINF:-1 tvg-id="espn1.co" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/38/6383309_6BDEDCF4D8E84A20.png" group-title="Movistar",ESPN 1 Colombia
