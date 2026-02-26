@@ -14,12 +14,26 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/tll6uwepxa/
 #KODIPROP:inputstream.adaptive.license_key={"2904b17cb64c996dbc254981b7602863":"66a7ef671b84498e64f94e8401fe8cb9"}
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdx0scnjmm/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com
 
-#EXTINF:-1 tvg-id="beineng" tvg-logo="" group-title="SportzX",beIN Sports 3
+#EXTINF:-1 tvg-id="beinsports3" tvg-logo="" group-title="SportzX",beIN Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7995c724a13748ed970840a8ab5bb9b3":"67bdaf1e2175b9ff682fcdf0e2354b1e"}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="beinsportsmax" tvg-logo="" group-title="SportzX",beIN Sports MAX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"243b260ec94a35bb130f17e86825aa8b":"626c8597e8c419b9bb77a44e8cc7b5db"}
+https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow14/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28
+
+#EXTINF:-1 tvg-id="beinsportsmax2" tvg-logo="" group-title="SportzX",beIN Sports MAX2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"476578306ea46d7acbf6c19a2e3f4641":"24a983ddaf04f27cda4f0e9aeb13860b"}
+https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow13/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28
 
 #EXTINF:-1 tvg-id="foxdeportes" tvg-logo="" group-title="SportzX",FOX Deportes
 #KODIPROP:inputstream=inputstream.adaptive
@@ -42,6 +56,27 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_key={"4ebfbc0bb025210a68407116ca2f8742":"e82ad032a7261d079ba7a9a360ceede1"}
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vuu3gcknb0/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd
 
+#EXTINF:-1 tvg-id="vix3" tvg-logo="" group-title="SportzX",Vix 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"75f4db0d8e63a9e15de50566f0b92a81":"185c47042c0a7f6449697d57ef1308cb"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jlqbpdn34p/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
+
+#EXTINF:-1 tvg-id="vix4" tvg-logo="" group-title="SportzX",Vix 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f76a05d59b9ce908419ded7cf1d031e3":"43395d32508207efc6669ba9f980b53d"}
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/41728cr5xa/out/v1/f7950b12ed844d15bada882c70729eb1/cenc.mpd
+
+#EXTINF:-1 tvg-id="tntsports1" tvg-logo="" group-title="SportzX",TNT Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"294b5761cefc22d0c6312939e13d8278":"52148f1042d238849f0a7813f1da8a7b	"}
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
 #EXTINF:-1 tvg-id="tntsports2" tvg-logo="" group-title="SportzX",TNT Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -49,10 +84,19 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_key={"f288380ca4cef9ad3f27a92a08e9bb8b":"9f18d26291d9230833501f7f822f6875"}
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="tntsports6" tvg-logo="" group-title="SportzX",TNT Sports 6
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://n13.sanwalyaarpya.com:1686/hls/do6.m3u8?md5=AAP374N5fb5VD_I4ceN8Uw&expires=1772134679
+#EXTINF:-1 tvg-id="tntsports3" tvg-logo="" group-title="SportzX",TNT Sports 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1d96ab366bbe6451edf7407b58e2fa16":"0116201f4a63ac5bf5787d2c610c41a7"}
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="onefight" tvg-logo="" group-title="SportzX",ONE Fight
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"308006101c8fd0262c0f529319b9c127":"37683aadc75b1450efa82d62c647984d"}
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
 #EXTINF:-1 tvg-id="espn1.co" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/38/6383309_6BDEDCF4D8E84A20.png" group-title="Movistar",ESPN 1 Colombia
 #KODIPROP:inputstream=inputstream.adaptive
