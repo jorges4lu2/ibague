@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="win_mas_futbol" tvg-logo="" group-title="Deportes",Win+ Futbol
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f6b30a661c69b70039e4eb51247c4d10":"243493e4a7fac9577326e15f0169f938"}
+https://peruvoslive.clarovideo.com/Content/DASH_DASH_FK/Live/channel(MAINTENANCE_HD)/master.mpd?ip=186.98.71.78&exp=1772290519&hmac=8ca2b2abc3d43ba475a44dd4eac4ff924b0526b6
+
 #EXTINF:-1 tvg-id="willow" tvg-logo="" group-title="SportzX",Willow
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
