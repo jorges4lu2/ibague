@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="win_mas_futbol" tvg-logo="" group-title="Deportes",Win+ Futbol
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f6b30a661c69b70039e4eb51247c4d10":"243493e4a7fac9577326e15f0169f938"}
-https://peruvoslive.clarovideo.com/Content/DASH_DASH_FK/Live/channel(MAINTENANCE_HD)/master.mpd?ip=186.98.71.78&exp=1772290519&hmac=8ca2b2abc3d43ba475a44dd4eac4ff924b0526b6
-
 #EXTINF:-1 tvg-id="willow" tvg-logo="" group-title="SportzX",Willow
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -636,3 +629,73 @@ https://b45451.4.cdn.telefonica.com/45451/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e459d7c13af74680898488641fb9ad2e":"fea9b45bb94fa9e172f89c20a69873de"}
 https://b47605.4.cdn.telefonica.com/47605/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpFM05Ea3dNREk9In0.eyJpYXQiOjE3NzIxNzkyMjgsInVpcCI6IiIsInVpZCI6InZfalhzbzFMRXZrUE82TW5hMXdqNWdDWkdTNVdQX2xwMHoyMU96U1dFSnZnc3U1MmdlWlBxcEhLVG4zU3lWNjkiLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiI1ZTRlOGQ0MDEzMjVjYmRiN2E2NjY3NzY1ZDVlNTlmMCIsImR0IjoiNDAxIiwid2wiOmZhbHNlfQ.TvDM8yczYMeDUOySUMbODpH8tJDCwupPWVW4gZftQTQ5XCvv5mPmeZbT-Z9VSCO5DwP6CcPTdekYoQavXdU4XA_-_/CanalZoom.mpd
+
+#EXTINF:-1 tvg-id="win_mas_futbol" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/44/20444678_5AD0621A09C70A58.png" group-title="Deportes",Win+ Futbol
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f6b30a661c69b70039e4eb51247c4d10":"243493e4a7fac9577326e15f0169f938"}
+https://peruvoslive.clarovideo.com/Content/DASH_DASH_FK/Live/channel(MAINTENANCE_HD)/master.mpd
+
+#EXTINF:-1 tvg-id="claro_sports_1" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Deportes",Claro Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3c72a7db6e745cc5ac98a718df5a0f30":"dd9defe2faef158fb6b9c4fae2a7d6c8"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_COL_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="claro_sports_2" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CLAROSPORTS2/EXPORTACION_WEB/SS/CLAROSPORTS2_t-290x163.png" group-title="Deportes",Claro Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"74cdcb63ff3e4f3ce4da4243b6d1e1d8":"9b8366fa8e9ebcdf4b349d6c9d528115"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="multipremier" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/MULTIPREMIER/EXPORTACION_WEB/SS/MULTIPREMIER_t-290x163.png" group-title="Cine",Multipremier
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"461b4a91b255b46c11bb5540507a37c0":"8560ac95e0923f2de9f1a450c9bad789"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(MULTIPREMIER)/manifest.mpd
+
+#EXTINF:-1 tvg-id="universal_premier" tvg-logo="https://clarovideocdn3.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALPREMIEREHD/EXPORTACION_WEB/SS/UNIVERSALPREMIEREHD_t-290x163.png" group-title="Cine",Universal Premier
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d01c9488e528697a9cd8ebe35b067729":"abb4d0aff05248ae5e53d3e8454671d6"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_PREMIER_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="universal_cinema" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png" group-title="Cine",Universal Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"66ee81febe768875ae2fee5b8f512e15":"54882694734874f280259fb8b6766ab3"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="universal_comedy" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCOMEDYHD/EXPORTACION_WEB/SS/UNIVERSALCOMEDYHD_t-290x163.png" group-title="Cine",Universal Comedy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9a778fbd54a4b2285cea8d44c514a2fd":"d9befb259f2523d17dd5f7ae5ba2dd74"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="universal_crime" tvg-logo="https://clarovideocdn7.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCRIMEHD/EXPORTACION_WEB/SS/UNIVERSALCRIMEHD_t-290x163.png" group-title="Cine",Universal Crime
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dd87aca2d338122cbd283bdd3a0f7502":"2bd42314bdcf4028eeb25fcf61b7b6e3"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CRIME_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="universal_reality" tvg-logo="https://clarovideocdn1.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="Cine",Universal Reality
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aeced86dd6c5ecf4f39cd193109f39f7":"afcb5b67f584f2eeb1783474644a9f8e"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="concert_channel" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CONCERTCHANNEL/EXPORTACION_WEB/SS/CONCERTCHANNEL_t-290x163.png" group-title="Música",Concert Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"618ae52103e4181879324e09f94791b5":"9a2a3f55666473f0a28ce3e766cc4ac0"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CONCERT_CHANNEL_HD)/manifest.mpd
