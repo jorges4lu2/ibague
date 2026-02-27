@@ -288,6 +288,14 @@
     <display-name lang="en">Rally TV</display-name>
     <display-name lang="en">Rally TV [LIVE]</display-name>
   </channel>
+  <channel id="Los Angeles Dodgers vs. San Francisco Giants">
+    <display-name lang="en">Los Angeles Dodgers vs. San Francisco Giants</display-name>
+    <display-name lang="en">Los Angeles Dodgers vs. San Francisco Giants [LIVE]</display-name>
+  </channel>
+  <channel id="Arizona Diamondbacks vs. Seattle Mariners">
+    <display-name lang="en">Arizona Diamondbacks vs. Seattle Mariners</display-name>
+    <display-name lang="en">Arizona Diamondbacks vs. Seattle Mariners [LIVE]</display-name>
+  </channel>
   <programme start="20260227010102 -0500" channel="NFL Network" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - NFL Network (temporary channel)</title>
     <date>2026</date>
@@ -2009,6 +2017,54 @@
     </audio>
   </programme>
   <programme start="20260211220000 -0500" channel="Rally TV" stop="20260211235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260227180102 -0500" channel="Los Angeles Dodgers vs. San Francisco Giants" stop="20260227150500 -0500">
+    <title>Next event: 27 Feb 03:05 PM - Los Angeles Dodgers vs. San Francisco Giants (MLB)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260227150500 -0500" channel="Los Angeles Dodgers vs. San Francisco Giants" stop="20260227183500 -0500">
+    <title>Los Angeles Dodgers vs. San Francisco Giants (MLB)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260227183500 -0500" channel="Los Angeles Dodgers vs. San Francisco Giants" stop="20260227235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260227180102 -0500" channel="Arizona Diamondbacks vs. Seattle Mariners" stop="20260227201000 -0500">
+    <title>Next event: 27 Feb 08:10 PM - Arizona Diamondbacks vs. Seattle Mariners (MLB)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260227201000 -0500" channel="Arizona Diamondbacks vs. Seattle Mariners" stop="20260227234000 -0500">
+    <title>Arizona Diamondbacks vs. Seattle Mariners (MLB)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260227234000 -0500" channel="Arizona Diamondbacks vs. Seattle Mariners" stop="20260227235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
