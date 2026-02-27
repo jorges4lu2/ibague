@@ -4,10 +4,6 @@
     <display-name lang="en">NFL Network</display-name>
     <display-name lang="en">NFL Network [LIVE]</display-name>
   </channel>
-  <channel id="Minnesota Timberwolves vs. LA Clippers">
-    <display-name lang="en">Minnesota Timberwolves vs. LA Clippers</display-name>
-    <display-name lang="en">Minnesota Timberwolves vs. LA Clippers [LIVE]</display-name>
-  </channel>
   <channel id="Cleveland Cavaliers vs. Detroit Pistons">
     <display-name lang="en">Cleveland Cavaliers vs. Detroit Pistons</display-name>
     <display-name lang="en">Cleveland Cavaliers vs. Detroit Pistons [LIVE]</display-name>
@@ -220,10 +216,6 @@
     <display-name lang="en">Real Madrid vs. Getafe</display-name>
     <display-name lang="en">Real Madrid vs. Getafe [LIVE]</display-name>
   </channel>
-  <channel id="Calgary Flames vs. San Jose Sharks">
-    <display-name lang="en">Calgary Flames vs. San Jose Sharks</display-name>
-    <display-name lang="en">Calgary Flames vs. San Jose Sharks [LIVE]</display-name>
-  </channel>
   <channel id="Edmonton Oilers vs. Los Angeles Kings">
     <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings</display-name>
     <display-name lang="en">Edmonton Oilers vs. Los Angeles Kings [LIVE]</display-name>
@@ -296,7 +288,7 @@
     <display-name lang="en">Rally TV</display-name>
     <display-name lang="en">Rally TV [LIVE]</display-name>
   </channel>
-  <programme start="20260227000102 -0500" channel="NFL Network" stop="19691231190000 -0500">
+  <programme start="20260227010102 -0500" channel="NFL Network" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - NFL Network (temporary channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -320,31 +312,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Minnesota Timberwolves vs. LA Clippers" stop="20260226220000 -0500">
-    <title>Next event: 26 Feb 10:00 PM - Minnesota Timberwolves vs. LA Clippers (Prime Video)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260226220000 -0500" channel="Minnesota Timberwolves vs. LA Clippers" stop="20260227004800 -0500">
-    <title>Minnesota Timberwolves vs. LA Clippers (Prime Video)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260227004800 -0500" channel="Minnesota Timberwolves vs. LA Clippers" stop="20260226235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260227000102 -0500" channel="Cleveland Cavaliers vs. Detroit Pistons" stop="20260227190000 -0500">
+  <programme start="20260227010102 -0500" channel="Cleveland Cavaliers vs. Detroit Pistons" stop="20260227190000 -0500">
     <title>Next event: 27 Feb 07:00 PM - Cleveland Cavaliers vs. Detroit Pistons (ESPN)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -368,7 +336,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Brooklyn Nets vs. Boston Celtics" stop="20260227193000 -0500">
+  <programme start="20260227010102 -0500" channel="Brooklyn Nets vs. Boston Celtics" stop="20260227193000 -0500">
     <title>Next event: 27 Feb 07:30 PM - Brooklyn Nets vs. Boston Celtics (NBC Sports BO)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -392,7 +360,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="New York Knicks vs. Milwaukee Bucks" stop="20260227200000 -0500">
+  <programme start="20260227010102 -0500" channel="New York Knicks vs. Milwaukee Bucks" stop="20260227200000 -0500">
     <title>Next event: 27 Feb 08:00 PM - New York Knicks vs. Milwaukee Bucks (FanDuel SN WI)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -416,7 +384,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Memphis Grizzlies vs. Dallas Mavericks" stop="20260227203000 -0500">
+  <programme start="20260227010102 -0500" channel="Memphis Grizzlies vs. Dallas Mavericks" stop="20260227203000 -0500">
     <title>Next event: 27 Feb 08:30 PM - Memphis Grizzlies vs. Dallas Mavericks (KFAA-TV)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -440,7 +408,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Denver Nuggets vs. Oklahoma City Thunder" stop="20260227213000 -0500">
+  <programme start="20260227010102 -0500" channel="Denver Nuggets vs. Oklahoma City Thunder" stop="20260227213000 -0500">
     <title>Next event: 27 Feb 09:30 PM - Denver Nuggets vs. Oklahoma City Thunder (ESPN)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -464,7 +432,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Willow Cricket" stop="19691231190000 -0500">
+  <programme start="20260227010102 -0500" channel="Willow Cricket" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - Willow Cricket (temporary channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -488,7 +456,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="FC Augsburg vs. FC Cologne" stop="20260227143000 -0500">
+  <programme start="20260227010102 -0500" channel="FC Augsburg vs. FC Cologne" stop="20260227143000 -0500">
     <title>Next event: 27 Feb 02:30 PM - FC Augsburg vs. FC Cologne (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -512,7 +480,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Parma vs. Cagliari" stop="20260227144500 -0500">
+  <programme start="20260227010102 -0500" channel="Parma vs. Cagliari" stop="20260227144500 -0500">
     <title>Next event: 27 Feb 02:45 PM - Parma vs. Cagliari (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -536,7 +504,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Strasbourg vs. Lens" stop="20260227144500 -0500">
+  <programme start="20260227010102 -0500" channel="Strasbourg vs. Lens" stop="20260227144500 -0500">
     <title>Next event: 27 Feb 02:45 PM - Strasbourg vs. Lens (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -560,7 +528,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Levante vs. Alav&#233;s" stop="20260227150000 -0500">
+  <programme start="20260227010102 -0500" channel="Levante vs. Alav&#233;s" stop="20260227150000 -0500">
     <title>Next event: 27 Feb 03:00 PM - Levante vs. Alav&#233;s (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -584,7 +552,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Wolverhampton Wanderers vs. Aston Villa" stop="20260227150000 -0500">
+  <programme start="20260227010102 -0500" channel="Wolverhampton Wanderers vs. Aston Villa" stop="20260227150000 -0500">
     <title>Next event: 27 Feb 03:00 PM - Wolverhampton Wanderers vs. Aston Villa (Premier League)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -608,7 +576,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="AFC Bournemouth vs. Sunderland" stop="20260228073000 -0500">
+  <programme start="20260227010102 -0500" channel="AFC Bournemouth vs. Sunderland" stop="20260228073000 -0500">
     <title>Next event: 28 Feb 07:30 AM - AFC Bournemouth vs. Sunderland (Premier League)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -632,7 +600,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Rayo Vallecano vs. Athletic Club" stop="20260228080000 -0500">
+  <programme start="20260227010102 -0500" channel="Rayo Vallecano vs. Athletic Club" stop="20260228080000 -0500">
     <title>Next event: 28 Feb 08:00 AM - Rayo Vallecano vs. Athletic Club (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -656,7 +624,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Como vs. Lecce" stop="20260228090000 -0500">
+  <programme start="20260227010102 -0500" channel="Como vs. Lecce" stop="20260228090000 -0500">
     <title>Next event: 28 Feb 09:00 AM - Como vs. Lecce (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -680,7 +648,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Bayer Leverkusen vs. Mainz" stop="20260228093000 -0500">
+  <programme start="20260227010102 -0500" channel="Bayer Leverkusen vs. Mainz" stop="20260228093000 -0500">
     <title>Next event: 28 Feb 09:30 AM - Bayer Leverkusen vs. Mainz (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -704,7 +672,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Borussia M&#246;nchengladbach vs. 1. FC Union Berlin" stop="20260228093000 -0500">
+  <programme start="20260227010102 -0500" channel="Borussia M&#246;nchengladbach vs. 1. FC Union Berlin" stop="20260228093000 -0500">
     <title>Next event: 28 Feb 09:30 AM - Borussia M&#246;nchengladbach vs. 1. FC Union Berlin (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -728,7 +696,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="TSG Hoffenheim vs. St. Pauli" stop="20260228093000 -0500">
+  <programme start="20260227010102 -0500" channel="TSG Hoffenheim vs. St. Pauli" stop="20260228093000 -0500">
     <title>Next event: 28 Feb 09:30 AM - TSG Hoffenheim vs. St. Pauli (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -752,7 +720,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Werder Bremen vs. 1. FC Heidenheim 1846" stop="20260228093000 -0500">
+  <programme start="20260227010102 -0500" channel="Werder Bremen vs. 1. FC Heidenheim 1846" stop="20260228093000 -0500">
     <title>Next event: 28 Feb 09:30 AM - Werder Bremen vs. 1. FC Heidenheim 1846 (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -776,7 +744,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Burnley vs. Brentford" stop="20260228100000 -0500">
+  <programme start="20260227010102 -0500" channel="Burnley vs. Brentford" stop="20260228100000 -0500">
     <title>Next event: 28 Feb 10:00 AM - Burnley vs. Brentford (Premier League)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -800,7 +768,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Liverpool vs. West Ham United" stop="20260228100000 -0500">
+  <programme start="20260227010102 -0500" channel="Liverpool vs. West Ham United" stop="20260228100000 -0500">
     <title>Next event: 28 Feb 10:00 AM - Liverpool vs. West Ham United (Premier League)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -824,7 +792,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Newcastle United vs. Everton" stop="20260228100000 -0500">
+  <programme start="20260227010102 -0500" channel="Newcastle United vs. Everton" stop="20260228100000 -0500">
     <title>Next event: 28 Feb 10:00 AM - Newcastle United vs. Everton (Premier League)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -848,7 +816,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Barcelona vs. Villarreal" stop="20260228101500 -0500">
+  <programme start="20260227010102 -0500" channel="Barcelona vs. Villarreal" stop="20260228101500 -0500">
     <title>Next event: 28 Feb 10:15 AM - Barcelona vs. Villarreal (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -872,7 +840,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Stade Rennais vs. Toulouse" stop="20260228110000 -0500">
+  <programme start="20260227010102 -0500" channel="Stade Rennais vs. Toulouse" stop="20260228110000 -0500">
     <title>Next event: 28 Feb 11:00 AM - Stade Rennais vs. Toulouse (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -896,7 +864,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Hellas Verona vs. Napoli" stop="20260228120000 -0500">
+  <programme start="20260227010102 -0500" channel="Hellas Verona vs. Napoli" stop="20260228120000 -0500">
     <title>Next event: 28 Feb 12:00 PM - Hellas Verona vs. Napoli (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -920,7 +888,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Mallorca vs. Real Sociedad" stop="20260228123000 -0500">
+  <programme start="20260227010102 -0500" channel="Mallorca vs. Real Sociedad" stop="20260228123000 -0500">
     <title>Next event: 28 Feb 12:30 PM - Mallorca vs. Real Sociedad (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -944,7 +912,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Borussia Dortmund vs. Bayern Munich" stop="20260228123000 -0500">
+  <programme start="20260227010102 -0500" channel="Borussia Dortmund vs. Bayern Munich" stop="20260228123000 -0500">
     <title>Next event: 28 Feb 12:30 PM - Borussia Dortmund vs. Bayern Munich (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -968,7 +936,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="AS Monaco vs. Angers" stop="20260228130000 -0500">
+  <programme start="20260227010102 -0500" channel="AS Monaco vs. Angers" stop="20260228130000 -0500">
     <title>Next event: 28 Feb 01:00 PM - AS Monaco vs. Angers (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -992,7 +960,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Inter Milan vs. Genoa" stop="20260228144500 -0500">
+  <programme start="20260227010102 -0500" channel="Inter Milan vs. Genoa" stop="20260228144500 -0500">
     <title>Next event: 28 Feb 02:45 PM - Inter Milan vs. Genoa (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1016,7 +984,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Real Oviedo vs. Atl&#233;tico Madrid" stop="20260228150000 -0500">
+  <programme start="20260227010102 -0500" channel="Real Oviedo vs. Atl&#233;tico Madrid" stop="20260228150000 -0500">
     <title>Next event: 28 Feb 03:00 PM - Real Oviedo vs. Atl&#233;tico Madrid (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1040,7 +1008,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Le Havre AC vs. Paris Saint-Germain" stop="20260228150500 -0500">
+  <programme start="20260227010102 -0500" channel="Le Havre AC vs. Paris Saint-Germain" stop="20260228150500 -0500">
     <title>Next event: 28 Feb 03:05 PM - Le Havre AC vs. Paris Saint-Germain (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1064,7 +1032,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Cremonese vs. AC Milan" stop="20260301063000 -0500">
+  <programme start="20260227010102 -0500" channel="Cremonese vs. AC Milan" stop="20260301063000 -0500">
     <title>Next event: 01 Mar 06:30 AM - Cremonese vs. AC Milan (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1088,7 +1056,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Elche vs. Espanyol" stop="20260301080000 -0500">
+  <programme start="20260227010102 -0500" channel="Elche vs. Espanyol" stop="20260301080000 -0500">
     <title>Next event: 01 Mar 08:00 AM - Elche vs. Espanyol (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1112,7 +1080,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Brighton &amp; Hove Albion vs. Nottingham Forest" stop="20260301090000 -0500">
+  <programme start="20260227010102 -0500" channel="Brighton &amp; Hove Albion vs. Nottingham Forest" stop="20260301090000 -0500">
     <title>Next event: 01 Mar 09:00 AM - Brighton &amp; Hove Albion vs. Nottingham Forest (Premier League)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1136,7 +1104,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Fulham vs. Tottenham Hotspur" stop="20260301090000 -0500">
+  <programme start="20260227010102 -0500" channel="Fulham vs. Tottenham Hotspur" stop="20260301090000 -0500">
     <title>Next event: 01 Mar 09:00 AM - Fulham vs. Tottenham Hotspur (Premier League)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1160,7 +1128,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Manchester United vs. Crystal Palace" stop="20260301090000 -0500">
+  <programme start="20260227010102 -0500" channel="Manchester United vs. Crystal Palace" stop="20260301090000 -0500">
     <title>Next event: 01 Mar 09:00 AM - Manchester United vs. Crystal Palace (Premier League)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1184,7 +1152,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Sassuolo vs. Atalanta" stop="20260301090000 -0500">
+  <programme start="20260227010102 -0500" channel="Sassuolo vs. Atalanta" stop="20260301090000 -0500">
     <title>Next event: 01 Mar 09:00 AM - Sassuolo vs. Atalanta (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1208,7 +1176,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Paris FC vs. Nice" stop="20260301090000 -0500">
+  <programme start="20260227010102 -0500" channel="Paris FC vs. Nice" stop="20260301090000 -0500">
     <title>Next event: 01 Mar 09:00 AM - Paris FC vs. Nice (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1232,7 +1200,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="VfB Stuttgart vs. VfL Wolfsburg" stop="20260301093000 -0500">
+  <programme start="20260227010102 -0500" channel="VfB Stuttgart vs. VfL Wolfsburg" stop="20260301093000 -0500">
     <title>Next event: 01 Mar 09:30 AM - VfB Stuttgart vs. VfL Wolfsburg (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1256,7 +1224,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Valencia vs. Osasuna" stop="20260301101500 -0500">
+  <programme start="20260227010102 -0500" channel="Valencia vs. Osasuna" stop="20260301101500 -0500">
     <title>Next event: 01 Mar 10:15 AM - Valencia vs. Osasuna (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1280,7 +1248,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Lille vs. Nantes" stop="20260301111500 -0500">
+  <programme start="20260227010102 -0500" channel="Lille vs. Nantes" stop="20260301111500 -0500">
     <title>Next event: 01 Mar 11:15 AM - Lille vs. Nantes (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1304,7 +1272,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Lorient vs. AJ Auxerre" stop="20260301111500 -0500">
+  <programme start="20260227010102 -0500" channel="Lorient vs. AJ Auxerre" stop="20260301111500 -0500">
     <title>Next event: 01 Mar 11:15 AM - Lorient vs. AJ Auxerre (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1328,7 +1296,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Metz vs. Brest" stop="20260301111500 -0500">
+  <programme start="20260227010102 -0500" channel="Metz vs. Brest" stop="20260301111500 -0500">
     <title>Next event: 01 Mar 11:15 AM - Metz vs. Brest (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1352,7 +1320,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Eintracht Frankfurt vs. SC Freiburg" stop="20260301113000 -0500">
+  <programme start="20260227010102 -0500" channel="Eintracht Frankfurt vs. SC Freiburg" stop="20260301113000 -0500">
     <title>Next event: 01 Mar 11:30 AM - Eintracht Frankfurt vs. SC Freiburg (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1376,7 +1344,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Arsenal vs. Chelsea" stop="20260301113000 -0500">
+  <programme start="20260227010102 -0500" channel="Arsenal vs. Chelsea" stop="20260301113000 -0500">
     <title>Next event: 01 Mar 11:30 AM - Arsenal vs. Chelsea (Premier League)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1400,7 +1368,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Torino vs. Lazio" stop="20260301120000 -0500">
+  <programme start="20260227010102 -0500" channel="Torino vs. Lazio" stop="20260301120000 -0500">
     <title>Next event: 01 Mar 12:00 PM - Torino vs. Lazio (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1424,7 +1392,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Real Betis vs. Sevilla" stop="20260301123000 -0500">
+  <programme start="20260227010102 -0500" channel="Real Betis vs. Sevilla" stop="20260301123000 -0500">
     <title>Next event: 01 Mar 12:30 PM - Real Betis vs. Sevilla (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1448,7 +1416,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Hamburg SV vs. RB Leipzig" stop="20260301133000 -0500">
+  <programme start="20260227010102 -0500" channel="Hamburg SV vs. RB Leipzig" stop="20260301133000 -0500">
     <title>Next event: 01 Mar 01:30 PM - Hamburg SV vs. RB Leipzig (Bundesliga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1472,7 +1440,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="AS Roma vs. Juventus" stop="20260301144500 -0500">
+  <programme start="20260227010102 -0500" channel="AS Roma vs. Juventus" stop="20260301144500 -0500">
     <title>Next event: 01 Mar 02:45 PM - AS Roma vs. Juventus (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1496,7 +1464,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Marseille vs. Lyon" stop="20260301144500 -0500">
+  <programme start="20260227010102 -0500" channel="Marseille vs. Lyon" stop="20260301144500 -0500">
     <title>Next event: 01 Mar 02:45 PM - Marseille vs. Lyon (Ligue 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1520,7 +1488,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Girona vs. Celta Vigo" stop="20260301150000 -0500">
+  <programme start="20260227010102 -0500" channel="Girona vs. Celta Vigo" stop="20260301150000 -0500">
     <title>Next event: 01 Mar 03:00 PM - Girona vs. Celta Vigo (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1544,7 +1512,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Pisa vs. Bologna" stop="20260302123000 -0500">
+  <programme start="20260227010102 -0500" channel="Pisa vs. Bologna" stop="20260302123000 -0500">
     <title>Next event: 02 Mar 12:30 PM - Pisa vs. Bologna (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1568,7 +1536,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Udinese vs. Fiorentina" stop="20260302144500 -0500">
+  <programme start="20260227010102 -0500" channel="Udinese vs. Fiorentina" stop="20260302144500 -0500">
     <title>Next event: 02 Mar 02:45 PM - Udinese vs. Fiorentina (Serie A)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1592,7 +1560,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Real Madrid vs. Getafe" stop="20260302150000 -0500">
+  <programme start="20260227010102 -0500" channel="Real Madrid vs. Getafe" stop="20260302150000 -0500">
     <title>Next event: 02 Mar 03:00 PM - Real Madrid vs. Getafe (LaLiga)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1616,31 +1584,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Calgary Flames vs. San Jose Sharks" stop="20260226220000 -0500">
-    <title>Next event: 26 Feb 10:00 PM - Calgary Flames vs. San Jose Sharks (NBC Sports BA)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260226220000 -0500" channel="Calgary Flames vs. San Jose Sharks" stop="20260227010000 -0500">
-    <title>Calgary Flames vs. San Jose Sharks (NBC Sports BA)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260227010000 -0500" channel="Calgary Flames vs. San Jose Sharks" stop="20260226235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260227000102 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20260226223000 -0500">
+  <programme start="20260227010102 -0500" channel="Edmonton Oilers vs. Los Angeles Kings" stop="20260226223000 -0500">
     <title>Next event: 26 Feb 10:30 PM - Edmonton Oilers vs. Los Angeles Kings (ESPN)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1664,7 +1608,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Buffalo Sabres vs. Florida Panthers" stop="20260227190000 -0500">
+  <programme start="20260227010102 -0500" channel="Buffalo Sabres vs. Florida Panthers" stop="20260227190000 -0500">
     <title>Next event: 27 Feb 07:00 PM - Buffalo Sabres vs. Florida Panthers (Scripps Sports)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1688,7 +1632,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Vegas Golden Knights vs. Washington Capitals" stop="20260227190000 -0500">
+  <programme start="20260227010102 -0500" channel="Vegas Golden Knights vs. Washington Capitals" stop="20260227190000 -0500">
     <title>Next event: 27 Feb 07:00 PM - Vegas Golden Knights vs. Washington Capitals (MNMT)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1712,7 +1656,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Minnesota Wild vs. Utah Mammoth" stop="20260227210000 -0500">
+  <programme start="20260227010102 -0500" channel="Minnesota Wild vs. Utah Mammoth" stop="20260227210000 -0500">
     <title>Next event: 27 Feb 09:00 PM - Minnesota Wild vs. Utah Mammoth (Utah 16)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1736,7 +1680,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Winnipeg Jets vs. Anaheim Ducks" stop="20260227220000 -0500">
+  <programme start="20260227010102 -0500" channel="Winnipeg Jets vs. Anaheim Ducks" stop="20260227220000 -0500">
     <title>Next event: 27 Feb 10:00 PM - Winnipeg Jets vs. Anaheim Ducks (Victory+)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1760,7 +1704,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Australian Grand Prix - Practice 1" stop="20260305203000 -0500">
+  <programme start="20260227010102 -0500" channel="Australian Grand Prix - Practice 1" stop="20260305203000 -0500">
     <title>Next event: 05 Mar 08:30 PM - Australian Grand Prix - Practice 1 (Formula 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1784,7 +1728,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Australian Grand Prix - Practice 2" stop="20260306000000 -0500">
+  <programme start="20260227010102 -0500" channel="Australian Grand Prix - Practice 2" stop="20260306000000 -0500">
     <title>Next event: 06 Mar 12:00 AM - Australian Grand Prix - Practice 2 (Formula 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1808,7 +1752,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Australian Grand Prix - Practice 3" stop="20260306203000 -0500">
+  <programme start="20260227010102 -0500" channel="Australian Grand Prix - Practice 3" stop="20260306203000 -0500">
     <title>Next event: 06 Mar 08:30 PM - Australian Grand Prix - Practice 3 (Formula 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1832,7 +1776,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Australian Grand Prix - Qualifying" stop="20260307000000 -0500">
+  <programme start="20260227010102 -0500" channel="Australian Grand Prix - Qualifying" stop="20260307000000 -0500">
     <title>Next event: 07 Mar 12:00 AM - Australian Grand Prix - Qualifying (Formula 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1856,7 +1800,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Australian Grand Prix - Race" stop="20260307230000 -0500">
+  <programme start="20260227010102 -0500" channel="Australian Grand Prix - Race" stop="20260307230000 -0500">
     <title>Next event: 07 Mar 11:00 PM - Australian Grand Prix - Race (Formula 1)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1880,7 +1824,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="WWE: Friday Night Smackdown" stop="20260227200000 -0500">
+  <programme start="20260227010102 -0500" channel="WWE: Friday Night Smackdown" stop="20260227200000 -0500">
     <title>Next event: 27 Feb 08:00 PM - WWE: Friday Night Smackdown (USA)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1904,7 +1848,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="AEW: Saturday Night Collision" stop="20260228200000 -0500">
+  <programme start="20260227010102 -0500" channel="AEW: Saturday Night Collision" stop="20260228200000 -0500">
     <title>Next event: 28 Feb 08:00 PM - AEW: Saturday Night Collision (TNT)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1928,7 +1872,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="24/7 South Park" stop="19691231190000 -0500">
+  <programme start="20260227010102 -0500" channel="24/7 South Park" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - 24/7 South Park (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1952,7 +1896,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="24/7 COWS" stop="20250118000000 -0500">
+  <programme start="20260227010102 -0500" channel="24/7 COWS" stop="20250118000000 -0500">
     <title>Next event: 18 Jan 12:00 AM - 24/7 COWS (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1976,7 +1920,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="24/7 Family Guy" stop="20250118030000 -0500">
+  <programme start="20260227010102 -0500" channel="24/7 Family Guy" stop="20250118030000 -0500">
     <title>Next event: 18 Jan 03:00 AM - 24/7 Family Guy (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2000,7 +1944,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="24/7 The Simpsons" stop="20250118052800 -0500">
+  <programme start="20260227010102 -0500" channel="24/7 The Simpsons" stop="20250118052800 -0500">
     <title>Next event: 18 Jan 05:28 AM - 24/7 The Simpsons (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2024,7 +1968,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="24/7 SpongeBob Squarepants" stop="20260127190000 -0500">
+  <programme start="20260227010102 -0500" channel="24/7 SpongeBob Squarepants" stop="20260127190000 -0500">
     <title>Next event: 27 Jan 07:00 PM - 24/7 SpongeBob Squarepants (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2048,7 +1992,7 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260227000102 -0500" channel="Rally TV" stop="20260211190000 -0500">
+  <programme start="20260227010102 -0500" channel="Rally TV" stop="20260211190000 -0500">
     <title>Next event: 11 Feb 07:00 PM - Rally TV (24/7 channel)</title>
     <date>2026</date>
     <category>Sports</category>
