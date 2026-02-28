@@ -412,6 +412,14 @@
     <display-name lang="en">Texas Rangers vs. Seattle Mariners</display-name>
     <display-name lang="en">Texas Rangers vs. Seattle Mariners [LIVE]</display-name>
   </channel>
+  <channel id="TEST: East vs West 22">
+    <display-name lang="en">TEST: East vs West 22</display-name>
+    <display-name lang="en">TEST: East vs West 22 [LIVE]</display-name>
+  </channel>
+  <channel id="UFC Fight Night: Moreno vs. Kavanagh">
+    <display-name lang="en">UFC Fight Night: Moreno vs. Kavanagh</display-name>
+    <display-name lang="en">UFC Fight Night: Moreno vs. Kavanagh [LIVE]</display-name>
+  </channel>
   <programme start="20260228010102 -0500" channel="NFL Network" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - NFL Network (temporary channel)</title>
     <date>2026</date>
@@ -2877,6 +2885,54 @@
     </audio>
   </programme>
   <programme start="20260301184000 -0500" channel="Texas Rangers vs. Seattle Mariners" stop="20260301235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260228180102 -0500" channel="TEST: East vs West 22" stop="20260228140000 -0500">
+    <title>Next event: 28 Feb 02:00 PM - TEST: East vs West 22 (PPV)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260228140000 -0500" channel="TEST: East vs West 22" stop="20260228200000 -0500">
+    <title>TEST: East vs West 22 (PPV)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260228200000 -0500" channel="TEST: East vs West 22" stop="20260228235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260228180102 -0500" channel="UFC Fight Night: Moreno vs. Kavanagh" stop="20260228170000 -0500">
+    <title>Next event: 28 Feb 05:00 PM - UFC Fight Night: Moreno vs. Kavanagh (Paramount+)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260228170000 -0500" channel="UFC Fight Night: Moreno vs. Kavanagh" stop="20260228200000 -0500">
+    <title>UFC Fight Night: Moreno vs. Kavanagh (Paramount+)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260228200000 -0500" channel="UFC Fight Night: Moreno vs. Kavanagh" stop="20260228235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
