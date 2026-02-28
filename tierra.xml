@@ -296,6 +296,10 @@
     <display-name lang="en">Arizona Diamondbacks vs. Seattle Mariners</display-name>
     <display-name lang="en">Arizona Diamondbacks vs. Seattle Mariners [LIVE]</display-name>
   </channel>
+  <channel id="RAF 06: Cejudo vs. Faber">
+    <display-name lang="en">RAF 06: Cejudo vs. Faber</display-name>
+    <display-name lang="en">RAF 06: Cejudo vs. Faber [LIVE]</display-name>
+  </channel>
   <programme start="20260227010102 -0500" channel="NFL Network" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - NFL Network (temporary channel)</title>
     <date>2026</date>
@@ -2065,6 +2069,30 @@
     </audio>
   </programme>
   <programme start="20260227234000 -0500" channel="Arizona Diamondbacks vs. Seattle Mariners" stop="20260227235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260227220102 -0500" channel="RAF 06: Cejudo vs. Faber" stop="20260228210000 -0500">
+    <title>Next event: 28 Feb 09:00 PM - RAF 06: Cejudo vs. Faber (FOX Nation)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260228210000 -0500" channel="RAF 06: Cejudo vs. Faber" stop="20260301010000 -0500">
+    <title>RAF 06: Cejudo vs. Faber (FOX Nation)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260301010000 -0500" channel="RAF 06: Cejudo vs. Faber" stop="20260228235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
