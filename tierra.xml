@@ -364,6 +364,10 @@
     <display-name lang="en">WWE: Elimination Chamber</display-name>
     <display-name lang="en">WWE: Elimination Chamber [LIVE]</display-name>
   </channel>
+  <channel id="Goal Rush">
+    <display-name lang="en">Goal Rush</display-name>
+    <display-name lang="en">Goal Rush [LIVE]</display-name>
+  </channel>
   <programme start="20260228010102 -0500" channel="NFL Network" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - NFL Network (temporary channel)</title>
     <date>2026</date>
@@ -2541,6 +2545,30 @@
     </audio>
   </programme>
   <programme start="20260228230000 -0500" channel="WWE: Elimination Chamber" stop="20260228235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260228110102 -0500" channel="Goal Rush" stop="20260228090000 -0500">
+    <title>Next event: 28 Feb 09:00 AM - Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260228090000 -0500" channel="Goal Rush" stop="20260228113000 -0500">
+    <title>Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260228113000 -0500" channel="Goal Rush" stop="20260228235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
