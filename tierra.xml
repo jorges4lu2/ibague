@@ -276,6 +276,10 @@
     <display-name lang="en">Goal Rush</display-name>
     <display-name lang="en">Goal Rush [LIVE]</display-name>
   </channel>
+  <channel id="IndyCar: Grand Prix of St. Petersburg">
+    <display-name lang="en">IndyCar: Grand Prix of St. Petersburg</display-name>
+    <display-name lang="en">IndyCar: Grand Prix of St. Petersburg [LIVE]</display-name>
+  </channel>
   <programme start="20260301010102 -0500" channel="NFL Network" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - NFL Network (temporary channel)</title>
     <date>2026</date>
@@ -1925,6 +1929,30 @@
     </audio>
   </programme>
   <programme start="20260301113000 -0500" channel="Goal Rush" stop="20260301235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260301110103 -0500" channel="IndyCar: Grand Prix of St. Petersburg" stop="20260301120000 -0500">
+    <title>Next event: 01 Mar 12:00 PM - IndyCar: Grand Prix of St. Petersburg (FOX)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260301120000 -0500" channel="IndyCar: Grand Prix of St. Petersburg" stop="20260301160000 -0500">
+    <title>IndyCar: Grand Prix of St. Petersburg (FOX)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260301160000 -0500" channel="IndyCar: Grand Prix of St. Petersburg" stop="20260301235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
