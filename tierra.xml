@@ -268,6 +268,14 @@
     <display-name lang="en">Rally TV</display-name>
     <display-name lang="en">Rally TV [LIVE]</display-name>
   </channel>
+  <channel id="East vs West 23">
+    <display-name lang="en">East vs West 23</display-name>
+    <display-name lang="en">East vs West 23 [LIVE]</display-name>
+  </channel>
+  <channel id="Goal Rush">
+    <display-name lang="en">Goal Rush</display-name>
+    <display-name lang="en">Goal Rush [LIVE]</display-name>
+  </channel>
   <programme start="20260301010102 -0500" channel="NFL Network" stop="19691231190000 -0500">
     <title>Next event: 31 Dec 07:00 PM - NFL Network (temporary channel)</title>
     <date>2026</date>
@@ -1869,6 +1877,54 @@
     </audio>
   </programme>
   <programme start="20260211220000 -0500" channel="Rally TV" stop="20260211235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260301100102 -0500" channel="East vs West 23" stop="20260418130000 -0500">
+    <title>Next event: 18 Apr 01:00 PM - East vs West 23 (EVW Sports)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260418130000 -0500" channel="East vs West 23" stop="20260418190000 -0500">
+    <title>East vs West 23 (EVW Sports)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260418190000 -0500" channel="East vs West 23" stop="20260418235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260301100102 -0500" channel="Goal Rush" stop="20260301090000 -0500">
+    <title>Next event: 01 Mar 09:00 AM - Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260301090000 -0500" channel="Goal Rush" stop="20260301113000 -0500">
+    <title>Goal Rush (Peacock)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260301113000 -0500" channel="Goal Rush" stop="20260301235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
