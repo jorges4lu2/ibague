@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20260302 -0500">
-  <channel id="09:30 Kigali Challenger 2026 v Early Rounds v 1 (AMZN)">
-    <display-name lang="en">09:30 Kigali Challenger 2026 v Early Rounds v 1 (AMZN)</display-name>
-  </channel>
   <channel id="10:56 Lee University v Trevecca Nazarene - Womens">
     <display-name lang="en">10:56 Lee University v Trevecca Nazarene - Womens</display-name>
   </channel>
@@ -204,11 +201,11 @@
   <channel id="03:00 Stars @ Canucks (NHL)">
     <display-name lang="en">03:00 Stars @ Canucks (NHL)</display-name>
   </channel>
+  <channel id="03:30 Avalanche @ Kings (NHL)">
+    <display-name lang="en">03:30 Avalanche @ Kings (NHL)</display-name>
+  </channel>
   <channel id="01:00 WWE MONDAY NIGHT RAW (PPV)">
     <display-name lang="en">01:00 WWE MONDAY NIGHT RAW (PPV)</display-name>
-  </channel>
-  <channel id="09:00 Korea v Iran (PLAY)">
-    <display-name lang="en">09:00 Korea v Iran (PLAY)</display-name>
   </channel>
   <channel id="17:30 Pisa v Bologna (AMZN)">
     <display-name lang="en">17:30 Pisa v Bologna (AMZN)</display-name>
@@ -228,30 +225,6 @@
   <channel id="20:00 Real Madrid v Getafe (PLAY)">
     <display-name lang="en">20:00 Real Madrid v Getafe (PLAY)</display-name>
   </channel>
-  <programme start="20260302000000 -0500" channel="09:30 Kigali Challenger 2026 v Early Rounds v 1 (AMZN)" stop="20260302043000 -0500">
-    <title>[Upcoming: 04:30 AM]  Kigali Challenger 2026 v Early Rounds v 1 (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302043000 -0500" channel="09:30 Kigali Challenger 2026 v Early Rounds v 1 (AMZN)" stop="20260302065000 -0500">
-    <title>[04:30 AM]  Kigali Challenger 2026 v Early Rounds v 1 (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302065000 -0500" channel="09:30 Kigali Challenger 2026 v Early Rounds v 1 (AMZN)" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260302000000 -0500" channel="10:56 Lee University v Trevecca Nazarene - Womens" stop="20260302055600 -0500">
     <title>[Upcoming: 05:56 AM]  Lee University v Trevecca Nazarene - Womens</title>
     <date>2026</date>
@@ -1860,6 +1833,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260302000000 -0500" channel="03:30 Avalanche @ Kings (NHL)" stop="20260302223000 -0500">
+    <title>[Upcoming: 10:30 PM]  Avalanche @ Kings (NHL)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260302223000 -0500" channel="03:30 Avalanche @ Kings (NHL)" stop="20260303005000 -0500">
+    <title>[10:30 PM]  Avalanche @ Kings (NHL)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260303005000 -0500" channel="03:30 Avalanche @ Kings (NHL)" stop="20260302235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260302000000 -0500" channel="01:00 WWE MONDAY NIGHT RAW (PPV)" stop="20260302200000 -0500">
     <title>[Upcoming: 08:00 PM]  WWE MONDAY NIGHT RAW (PPV)</title>
     <date>2026</date>
@@ -1877,30 +1874,6 @@
     </audio>
   </programme>
   <programme start="20260302222000 -0500" channel="01:00 WWE MONDAY NIGHT RAW (PPV)" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302000000 -0500" channel="09:00 Korea v Iran (PLAY)" stop="20260302040000 -0500">
-    <title>[Upcoming: 04:00 AM]  Korea v Iran (PLAY)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302040000 -0500" channel="09:00 Korea v Iran (PLAY)" stop="20260302062000 -0500">
-    <title>[04:00 AM]  Korea v Iran (PLAY)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302062000 -0500" channel="09:00 Korea v Iran (PLAY)" stop="20260302235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
