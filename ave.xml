@@ -48,9 +48,6 @@
   <channel id="16:00 Seton Hill v Southwest Minnesota State">
     <display-name lang="en">16:00 Seton Hill v Southwest Minnesota State</display-name>
   </channel>
-  <channel id="16:10 MVC Indoor Track and Field Championship (Day Two)">
-    <display-name lang="en">16:10 MVC Indoor Track and Field Championship (Day Two)</display-name>
-  </channel>
   <channel id="16:15 Alma College v Eastern">
     <display-name lang="en">16:15 Alma College v Eastern</display-name>
   </channel>
@@ -69,32 +66,11 @@
   <channel id="16:30 OHA Edmonton U17 Prep v South Alberta U17">
     <display-name lang="en">16:30 OHA Edmonton U17 Prep v South Alberta U17</display-name>
   </channel>
-  <channel id="17:00 Mon, 3/2 - The Rich Eisen Show">
-    <display-name lang="en">17:00 Mon, 3/2 - The Rich Eisen Show</display-name>
-  </channel>
-  <channel id="18:00 Ultimate Pool: Group A v Last 8 (AMZN)">
-    <display-name lang="en">18:00 Ultimate Pool: Group A v Last 8 (AMZN)</display-name>
-  </channel>
   <channel id="18:30 Detroit Red Wings v Nashville Predators">
     <display-name lang="en">18:30 Detroit Red Wings v Nashville Predators</display-name>
   </channel>
-  <channel id="18:30 UTSA Baseball Weekly Press Conference">
-    <display-name lang="en">18:30 UTSA Baseball Weekly Press Conference</display-name>
-  </channel>
-  <channel id="18:57 Inside The Ring v 2 Mar (AMZN)">
-    <display-name lang="en">18:57 Inside The Ring v 2 Mar (AMZN)</display-name>
-  </channel>
-  <channel id="19:00 Airsprint Private Aviation Canadian Mens Open 2026 v Glass Court v March 02 (AMZN)">
-    <display-name lang="en">19:00 Airsprint Private Aviation Canadian Mens Open 2026 v Glass Court v March 02 (AMZN)</display-name>
-  </channel>
-  <channel id="19:00 Merrimack v Providence">
-    <display-name lang="en">19:00 Merrimack v Providence</display-name>
-  </channel>
   <channel id="19:00 Red Wings @ Predators (NHL)">
     <display-name lang="en">19:00 Red Wings @ Predators (NHL)</display-name>
-  </channel>
-  <channel id="19:00 Red Wings at Predators (AMZN)">
-    <display-name lang="en">19:00 Red Wings at Predators (AMZN)</display-name>
   </channel>
   <channel id="19:00 Toledo v Lipscomb">
     <display-name lang="en">19:00 Toledo v Lipscomb</display-name>
@@ -107,9 +83,6 @@
   </channel>
   <channel id="20:00 Holy Cross v Dartmouth">
     <display-name lang="en">20:00 Holy Cross v Dartmouth</display-name>
-  </channel>
-  <channel id="20:00 Mon, 3/2- NFL Draft Daily">
-    <display-name lang="en">20:00 Mon, 3/2- NFL Draft Daily</display-name>
   </channel>
   <channel id="21:00 South Carolina State v Delaware State">
     <display-name lang="en">21:00 South Carolina State v Delaware State</display-name>
@@ -183,11 +156,14 @@
   <channel id="03:30 Avalanche @ Kings (NHL)">
     <display-name lang="en">03:30 Avalanche @ Kings (NHL)</display-name>
   </channel>
+  <channel id="00:00 Philadelphia Flyers v Toronto Maple Leafs">
+    <display-name lang="en">00:00 Philadelphia Flyers v Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="00:00 IU Indianapolis v Cleveland State (Play-In Game)">
+    <display-name lang="en">00:00 IU Indianapolis v Cleveland State (Play-In Game)</display-name>
+  </channel>
   <channel id="01:00 WWE MONDAY NIGHT RAW (PPV)">
     <display-name lang="en">01:00 WWE MONDAY NIGHT RAW (PPV)</display-name>
-  </channel>
-  <channel id="17:30 Pisa v Bologna (AMZN)">
-    <display-name lang="en">17:30 Pisa v Bologna (AMZN)</display-name>
   </channel>
   <channel id="19:30 Cordoba v Andorra (PLAY)">
     <display-name lang="en">19:30 Cordoba v Andorra (PLAY)</display-name>
@@ -588,30 +564,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260302000000 -0500" channel="16:10 MVC Indoor Track and Field Championship (Day Two)" stop="20260302111000 -0500">
-    <title>[Upcoming: 11:10 AM]  MVC Indoor Track and Field Championship (Day Two)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302111000 -0500" channel="16:10 MVC Indoor Track and Field Championship (Day Two)" stop="20260302133000 -0500">
-    <title>[11:10 AM]  MVC Indoor Track and Field Championship (Day Two)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302133000 -0500" channel="16:10 MVC Indoor Track and Field Championship (Day Two)" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260302000000 -0500" channel="16:15 Alma College v Eastern" stop="20260302111500 -0500">
     <title>[Upcoming: 11:15 AM]  Alma College v Eastern</title>
     <date>2026</date>
@@ -756,54 +708,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260302000000 -0500" channel="17:00 Mon, 3/2 - The Rich Eisen Show" stop="20260302120000 -0500">
-    <title>[Upcoming: 12:00 PM]  Mon, 3/2 - The Rich Eisen Show</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302120000 -0500" channel="17:00 Mon, 3/2 - The Rich Eisen Show" stop="20260302142000 -0500">
-    <title>[12:00 PM]  Mon, 3/2 - The Rich Eisen Show</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302142000 -0500" channel="17:00 Mon, 3/2 - The Rich Eisen Show" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302000000 -0500" channel="18:00 Ultimate Pool: Group A v Last 8 (AMZN)" stop="20260302130000 -0500">
-    <title>[Upcoming: 01:00 PM]  Ultimate Pool: Group A v Last 8 (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302130000 -0500" channel="18:00 Ultimate Pool: Group A v Last 8 (AMZN)" stop="20260302152000 -0500">
-    <title>[01:00 PM]  Ultimate Pool: Group A v Last 8 (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302152000 -0500" channel="18:00 Ultimate Pool: Group A v Last 8 (AMZN)" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260302000000 -0500" channel="18:30 Detroit Red Wings v Nashville Predators" stop="20260302133000 -0500">
     <title>[Upcoming: 01:30 PM]  Detroit Red Wings v Nashville Predators</title>
     <date>2026</date>
@@ -828,102 +732,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260302000000 -0500" channel="18:30 UTSA Baseball Weekly Press Conference" stop="20260302133000 -0500">
-    <title>[Upcoming: 01:30 PM]  UTSA Baseball Weekly Press Conference</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302133000 -0500" channel="18:30 UTSA Baseball Weekly Press Conference" stop="20260302155000 -0500">
-    <title>[01:30 PM]  UTSA Baseball Weekly Press Conference</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302155000 -0500" channel="18:30 UTSA Baseball Weekly Press Conference" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302000000 -0500" channel="18:57 Inside The Ring v 2 Mar (AMZN)" stop="20260302135700 -0500">
-    <title>[Upcoming: 01:57 PM]  Inside The Ring v 2 Mar (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302135700 -0500" channel="18:57 Inside The Ring v 2 Mar (AMZN)" stop="20260302161700 -0500">
-    <title>[01:57 PM]  Inside The Ring v 2 Mar (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302161700 -0500" channel="18:57 Inside The Ring v 2 Mar (AMZN)" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302000000 -0500" channel="19:00 Airsprint Private Aviation Canadian Mens Open 2026 v Glass Court v March 02 (AMZN)" stop="20260302140000 -0500">
-    <title>[Upcoming: 02:00 PM]  Airsprint Private Aviation Canadian Mens Open 2026 v Glass Court v March 02 (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302140000 -0500" channel="19:00 Airsprint Private Aviation Canadian Mens Open 2026 v Glass Court v March 02 (AMZN)" stop="20260302162000 -0500">
-    <title>[02:00 PM]  Airsprint Private Aviation Canadian Mens Open 2026 v Glass Court v March 02 (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302162000 -0500" channel="19:00 Airsprint Private Aviation Canadian Mens Open 2026 v Glass Court v March 02 (AMZN)" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302000000 -0500" channel="19:00 Merrimack v Providence" stop="20260302140000 -0500">
-    <title>[Upcoming: 02:00 PM]  Merrimack v Providence</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302140000 -0500" channel="19:00 Merrimack v Providence" stop="20260302162000 -0500">
-    <title>[02:00 PM]  Merrimack v Providence</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302162000 -0500" channel="19:00 Merrimack v Providence" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260302000000 -0500" channel="19:00 Red Wings @ Predators (NHL)" stop="20260302140000 -0500">
     <title>[Upcoming: 02:00 PM]  Red Wings @ Predators (NHL)</title>
     <date>2026</date>
@@ -941,30 +749,6 @@
     </audio>
   </programme>
   <programme start="20260302162000 -0500" channel="19:00 Red Wings @ Predators (NHL)" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302000000 -0500" channel="19:00 Red Wings at Predators (AMZN)" stop="20260302140000 -0500">
-    <title>[Upcoming: 02:00 PM]  Red Wings at Predators (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302140000 -0500" channel="19:00 Red Wings at Predators (AMZN)" stop="20260302162000 -0500">
-    <title>[02:00 PM]  Red Wings at Predators (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302162000 -0500" channel="19:00 Red Wings at Predators (AMZN)" stop="20260302235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1061,30 +845,6 @@
     </audio>
   </programme>
   <programme start="20260302172000 -0500" channel="20:00 Holy Cross v Dartmouth" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302000000 -0500" channel="20:00 Mon, 3/2- NFL Draft Daily" stop="20260302150000 -0500">
-    <title>[Upcoming: 03:00 PM]  Mon, 3/2- NFL Draft Daily</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302150000 -0500" channel="20:00 Mon, 3/2- NFL Draft Daily" stop="20260302172000 -0500">
-    <title>[03:00 PM]  Mon, 3/2- NFL Draft Daily</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302172000 -0500" channel="20:00 Mon, 3/2- NFL Draft Daily" stop="20260302235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1668,6 +1428,54 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260302000000 -0500" channel="00:00 Philadelphia Flyers v Toronto Maple Leafs" stop="20260302190000 -0500">
+    <title>[Upcoming: 07:00 PM]  Philadelphia Flyers v Toronto Maple Leafs</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260302190000 -0500" channel="00:00 Philadelphia Flyers v Toronto Maple Leafs" stop="20260302212000 -0500">
+    <title>[07:00 PM]  Philadelphia Flyers v Toronto Maple Leafs</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260302212000 -0500" channel="00:00 Philadelphia Flyers v Toronto Maple Leafs" stop="20260302235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260302000000 -0500" channel="00:00 IU Indianapolis v Cleveland State (Play-In Game)" stop="20260302190000 -0500">
+    <title>[Upcoming: 07:00 PM]  IU Indianapolis v Cleveland State (Play-In Game)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260302190000 -0500" channel="00:00 IU Indianapolis v Cleveland State (Play-In Game)" stop="20260302212000 -0500">
+    <title>[07:00 PM]  IU Indianapolis v Cleveland State (Play-In Game)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260302212000 -0500" channel="00:00 IU Indianapolis v Cleveland State (Play-In Game)" stop="20260302235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260302000000 -0500" channel="01:00 WWE MONDAY NIGHT RAW (PPV)" stop="20260302200000 -0500">
     <title>[Upcoming: 08:00 PM]  WWE MONDAY NIGHT RAW (PPV)</title>
     <date>2026</date>
@@ -1685,30 +1493,6 @@
     </audio>
   </programme>
   <programme start="20260302222000 -0500" channel="01:00 WWE MONDAY NIGHT RAW (PPV)" stop="20260302235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302000000 -0500" channel="17:30 Pisa v Bologna (AMZN)" stop="20260302123000 -0500">
-    <title>[Upcoming: 12:30 PM]  Pisa v Bologna (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302123000 -0500" channel="17:30 Pisa v Bologna (AMZN)" stop="20260302145000 -0500">
-    <title>[12:30 PM]  Pisa v Bologna (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260302145000 -0500" channel="17:30 Pisa v Bologna (AMZN)" stop="20260302235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
