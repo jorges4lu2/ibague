@@ -532,6 +532,13 @@ https://b45451.4.cdn.telefonica.com/45451/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCI
 #KODIPROP:inputstream.adaptive.license_key={"e459d7c13af74680898488641fb9ad2e":"fea9b45bb94fa9e172f89c20a69873de"}
 https://b47605.4.cdn.telefonica.com/47605/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpJd09UUTJNREk9In0.eyJpYXQiOjE3NzI1NTU5MTgsInVpcCI6IiIsInVpZCI6ImtHSzNMeW4yZjVJR0I3X0g5a3ZsZEEiLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiJOb25UcnVzdGVkRGV2aWNlIiwiZHQiOiI0MDEiLCJ3bCI6ZmFsc2V9.oeakMA7bVuKudC3cIpv9Gr28_vvCl8F_OMcgnQoUDUKakO3DJilK-SfL6ef99GjSmK52JCHBsHkUOLZrJWYVJA_-_/CanalZoom.mpd
 
+#EXTINF:-1 tvg-id="win_sports" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/44/20444678_5AD0621A09C70A58.png" group-title="Deportes",Win Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2747488564e7e1f8e0f8bb25d349e3ba":"edbcebc4f3b9ac228eed0cc29739bc0c"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINSPORTS_HD)/manifest.mpd
+
 #EXTINF:-1 tvg-id="win_mas_futbol" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/44/20444678_5AD0621A09C70A58.png" group-title="Deportes",Win+ Futbol
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
