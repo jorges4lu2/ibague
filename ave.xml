@@ -345,6 +345,9 @@
   <channel id="00:00 Predators @ Blue Jackets (NHL)">
     <display-name lang="en">00:00 Predators @ Blue Jackets (NHL)</display-name>
   </channel>
+  <channel id="00:00 TCU @ Texas Tech (DAZN)">
+    <display-name lang="en">00:00 TCU @ Texas Tech (DAZN)</display-name>
+  </channel>
   <channel id="00:00 Wizards v Magic (AMZN)">
     <display-name lang="en">00:00 Wizards v Magic (AMZN)</display-name>
   </channel>
@@ -368,6 +371,12 @@
   </channel>
   <channel id="01:00 Thunder v Bulls (AMZN)">
     <display-name lang="en">01:00 Thunder v Bulls (AMZN)</display-name>
+  </channel>
+  <channel id="02:00 Kansas @ Arizona State (DAZN)">
+    <display-name lang="en">02:00 Kansas @ Arizona State (DAZN)</display-name>
+  </channel>
+  <channel id="02:00 Oregon @ Illinois (DAZN)">
+    <display-name lang="en">02:00 Oregon @ Illinois (DAZN)</display-name>
   </channel>
   <channel id="02:00 Senators @ Oilers (NHL)">
     <display-name lang="en">02:00 Senators @ Oilers (NHL)</display-name>
@@ -399,6 +408,9 @@
   <channel id="03:30 Pelicans v Lakers (AMZN)">
     <display-name lang="en">03:30 Pelicans v Lakers (AMZN)</display-name>
   </channel>
+  <channel id="04:00 Nebraska @ UCLA (DAZN)">
+    <display-name lang="en">04:00 Nebraska @ UCLA (DAZN)</display-name>
+  </channel>
   <channel id="04:00 Suns v Kings (AMZN)">
     <display-name lang="en">04:00 Suns v Kings (AMZN)</display-name>
   </channel>
@@ -428,9 +440,6 @@
   </channel>
   <channel id="VNL 19:45 Scarborough v Hereford">
     <display-name lang="en">VNL 19:45 Scarborough v Hereford</display-name>
-  </channel>
-  <channel id="10:00 Gangwon v Machida Zelvia (PLAY)">
-    <display-name lang="en">10:00 Gangwon v Machida Zelvia (PLAY)</display-name>
   </channel>
   <channel id="19:00 Ac Reggiana 1919 v Sudtirol (AMZN)">
     <display-name lang="en">19:00 Ac Reggiana 1919 v Sudtirol (AMZN)</display-name>
@@ -3282,6 +3291,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260303000000 -0500" channel="00:00 TCU @ Texas Tech (DAZN)" stop="20260303190000 -0500">
+    <title>[Upcoming: 07:00 PM]  TCU @ Texas Tech (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260303190000 -0500" channel="00:00 TCU @ Texas Tech (DAZN)" stop="20260303212000 -0500">
+    <title>[07:00 PM]  TCU @ Texas Tech (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260303212000 -0500" channel="00:00 TCU @ Texas Tech (DAZN)" stop="20260303235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260303000000 -0500" channel="00:00 Wizards v Magic (AMZN)" stop="20260303190000 -0500">
     <title>[Upcoming: 07:00 PM]  Wizards v Magic (AMZN)</title>
     <date>2026</date>
@@ -3467,6 +3500,54 @@
     </audio>
   </programme>
   <programme start="20260303222000 -0500" channel="01:00 Thunder v Bulls (AMZN)" stop="20260303235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260303000000 -0500" channel="02:00 Kansas @ Arizona State (DAZN)" stop="20260303210000 -0500">
+    <title>[Upcoming: 09:00 PM]  Kansas @ Arizona State (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260303210000 -0500" channel="02:00 Kansas @ Arizona State (DAZN)" stop="20260303232000 -0500">
+    <title>[09:00 PM]  Kansas @ Arizona State (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260303232000 -0500" channel="02:00 Kansas @ Arizona State (DAZN)" stop="20260303235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260303000000 -0500" channel="02:00 Oregon @ Illinois (DAZN)" stop="20260303210000 -0500">
+    <title>[Upcoming: 09:00 PM]  Oregon @ Illinois (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260303210000 -0500" channel="02:00 Oregon @ Illinois (DAZN)" stop="20260303232000 -0500">
+    <title>[09:00 PM]  Oregon @ Illinois (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260303232000 -0500" channel="02:00 Oregon @ Illinois (DAZN)" stop="20260303235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -3714,6 +3795,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260303000000 -0500" channel="04:00 Nebraska @ UCLA (DAZN)" stop="20260303230000 -0500">
+    <title>[Upcoming: 11:00 PM]  Nebraska @ UCLA (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260303230000 -0500" channel="04:00 Nebraska @ UCLA (DAZN)" stop="20260304012000 -0500">
+    <title>[11:00 PM]  Nebraska @ UCLA (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260304012000 -0500" channel="04:00 Nebraska @ UCLA (DAZN)" stop="20260303235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260303000000 -0500" channel="04:00 Suns v Kings (AMZN)" stop="20260303230000 -0500">
     <title>[Upcoming: 11:00 PM]  Suns v Kings (AMZN)</title>
     <date>2026</date>
@@ -3947,30 +4052,6 @@
     </audio>
   </programme>
   <programme start="20260303170500 -0500" channel="VNL 19:45 Scarborough v Hereford" stop="20260303235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260303000000 -0500" channel="10:00 Gangwon v Machida Zelvia (PLAY)" stop="20260303050000 -0500">
-    <title>[Upcoming: 05:00 AM]  Gangwon v Machida Zelvia (PLAY)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260303050000 -0500" channel="10:00 Gangwon v Machida Zelvia (PLAY)" stop="20260303072000 -0500">
-    <title>[05:00 AM]  Gangwon v Machida Zelvia (PLAY)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260303072000 -0500" channel="10:00 Gangwon v Machida Zelvia (PLAY)" stop="20260303235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
