@@ -588,7 +588,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=d6f00381cc1a58668a11e2a3e0f20fd9:fc817d45af5dce33cbb79793224b834c
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TOONCAST)/manifest.mpd
 
-#EXTINF:-1 tvg-id="a3series" tvg-logo="https://clarovideocdn3.clarovideo.net/ATRESPLAYER/PELICULAS/ATRESSERIESHD/EXPORTACION_WEB/SS/ATRESSERIESHD_t-290x163.png" group-title="Series",A3Series
+#EXTINF:-1 tvg-id="atres_series_hd" tvg-logo="https://clarovideocdn3.clarovideo.net/ATRESPLAYER/PELICULAS/ATRESSERIESHD/EXPORTACION_WEB/SS/ATRESSERIESHD_t-290x163.png" group-title="Series",A3Series
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -861,14 +861,14 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=33290edc4117d612218fdc6b1b7c1aac:3325d43bf783d0f92297f5705b4b3ffb
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(H2_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="discovery_turbo" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DISCOVERYTURBOHD/EXPORTACION_WEB/SS/DISCOVERYTURBOHD_t-290x163.png" group-title="Estilo de vida",Discovery Turbo
+#EXTINF:-1 tvg-id="turbo" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DISCOVERYTURBOHD/EXPORTACION_WEB/SS/DISCOVERYTURBOHD_t-290x163.png" group-title="Estilo de vida",Discovery Turbo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c0ae81216e60e67b762fb5f12106850:a7250440acea79969f79c74f7f93132b
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_TURBO_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="national_geographic" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NATIONALGEOGRAPHIC/EXPORTACION_WEB/SS/NATIONALGEOGRAPHIC_t-290x163.png" group-title="Culturales",National Geographic
+#EXTINF:-1 tvg-id="nat_geo" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NATIONALGEOGRAPHIC/EXPORTACION_WEB/SS/NATIONALGEOGRAPHIC_t-290x163.png" group-title="Culturales",National Geographic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
