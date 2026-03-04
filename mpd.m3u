@@ -532,13 +532,6 @@ https://b45451.4.cdn.telefonica.com/45451/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCI
 #KODIPROP:inputstream.adaptive.license_key={"e459d7c13af74680898488641fb9ad2e":"fea9b45bb94fa9e172f89c20a69873de"}
 https://b47605.4.cdn.telefonica.com/47605/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUzTnpJd09UUTJNREk9In0.eyJpYXQiOjE3NzI1NTU5MTgsInVpcCI6IiIsInVpZCI6ImtHSzNMeW4yZjVJR0I3X0g5a3ZsZEEiLCJhY2MiOiI2NDAwMDE4MzY1NzUiLCJkaWQiOiJOb25UcnVzdGVkRGV2aWNlIiwiZHQiOiI0MDEiLCJ3bCI6ZmFsc2V9.oeakMA7bVuKudC3cIpv9Gr28_vvCl8F_OMcgnQoUDUKakO3DJilK-SfL6ef99GjSmK52JCHBsHkUOLZrJWYVJA_-_/CanalZoom.mpd
 
-#EXTINF:-1 tvg-id="info_claro" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/INFOCLAROHD/EXPORTACION_WEB/SS/INFOCLAROHD_t-290x163.png" group-title="Info",Info Claro
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6414998551c6022f04ecd7e53d0e103:a8b0a71fe760d547785793376b43d982
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(BARKER)/manifest.mpd
-
 #EXTINF:-1 tvg-id="canal_iberoamericano" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/CANALIBEROAMERICANO/EXPORTACION_WEB/SS/CANALIBEROAMERICANO_t-290x163.png" group-title="Culturales",Canal Iberoamericano
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -616,28 +609,28 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=215ec734d77903496b6b7e90acffce96:5d35ea9bc423d889a1d75f6feb1e1cfe
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(A3CINE)/manifest.mpd
 
-#EXTINF:-1 tvg-id="tlnovelas" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELAS_t-290x163.png" group-title="Cine",Tlnovelas
+#EXTINF:-1 tvg-id="tlnovelas" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELAS_t-290x163.png" group-title="Series",Tlnovelas
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e78391deb5706f9311d952d6be6a6139:6f18f24433288d9462597aed58138336
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(A3CINE)/manifest.mpd
 
-#EXTINF:-1 tvg-id="primera_pagina_tv" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/PRIMERAPGINATV/EXPORTACION_WEB/SS/PRIMERAPGINATV_t-290x163.png" group-title="Cine",Primera Página TV
+#EXTINF:-1 tvg-id="primera_pagina_tv" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/PRIMERAPGINATV/EXPORTACION_WEB/SS/PRIMERAPGINATV_t-290x163.png" group-title="Noticias",Primera Página TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69ef132188562de105cc7cffaa19803b:f73e636ab20d12c317e9ab85b899ff6a
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DATA_IFX)/manifest.mpd
 
-#EXTINF:-1 tvg-id="france24_fr" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/FRANCE24FRANCS/EXPORTACION_WEB/SS/FRANCE24FRANCS_t-290x163.png" group-title="Cine",France 24 FR
+#EXTINF:-1 tvg-id="france24_fr" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/FRANCE24FRANCS/EXPORTACION_WEB/SS/FRANCE24FRANCS_t-290x163.png" group-title="Noticias",France 24 FR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bdaa553a724c91f2215193384d96ab5:2224a092d4197ac5c2cb55e0fb098714
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FRANCE_24_FR)/manifest.mpd
 
-#EXTINF:-1 tvg-id="france24_en" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/FRANCE24INGLS/EXPORTACION_WEB/SS/FRANCE24INGLS_t-290x163.png" group-title="Cine",France 24 EN
+#EXTINF:-1 tvg-id="france24_en" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/FRANCE24INGLS/EXPORTACION_WEB/SS/FRANCE24INGLS_t-290x163.png" group-title="Noticias",France 24 EN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -665,47 +658,47 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=f91539ec0553eb3a87b6d85d0c396712:58ab6ec5569e433806fdf9a3868f8df0
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(CLARO_CINEMA)/master.mpd
 
-#EXTINF:-1 tvg-id="ewtn" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/EWTN/EXPORTACION_WEB/SS/EWTN_t-290x163.png" group-title="Cine",EWTN
+#EXTINF:-1 tvg-id="ewtn" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/EWTN/EXPORTACION_WEB/SS/EWTN_t-290x163.png" group-title="Religiosos",EWTN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34bbb9033e5a03393185525774436afd:f46e7bfb08176d137ed4a70d079082c6
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(EWTN)/manifest.mpd
 
-#EXTINF:-1 tvg-id="esne" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/ELSEMBRADOR/EXPORTACION_WEB/SS/ELSEMBRADOR_t-290x163.png" group-title="Cine",ESNE
+#EXTINF:-1 tvg-id="esne" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/ELSEMBRADOR/EXPORTACION_WEB/SS/ELSEMBRADOR_t-290x163.png" group-title="Religiosos",ESNE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb5546dee0fecd37c51480cdecfcc570:54ac6d4e0bf83631cb7f454611cbcc72
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(EL_SEMBRADOR)/manifest.mpd
 
-#EXTINF:-1 tvg-id="cristovision" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CRISTOVISIN/EXPORTACION_WEB/SS/CRISTOVISIN_t-290x163.png" group-title="Cine",Cristovisión
+#EXTINF:-1 tvg-id="cristovision" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CRISTOVISIN/EXPORTACION_WEB/SS/CRISTOVISIN_t-290x163.png" group-title="Religiosos",Cristovisión
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a0eb41adaeb6e90dd228ef7fd0008d5:45b042ff89126f83330e265dc44de2c2
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CRISTOVISION)/manifest.mpd
 
-#EXTINF:-1 tvg-id="enlace" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ENLACE/EXPORTACION_WEB/SS/ENLACE_t-290x163.png" group-title="Cine",Enlace
+#EXTINF:-1 tvg-id="enlace" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ENLACE/EXPORTACION_WEB/SS/ENLACE_t-290x163.png" group-title="Religiosos",Enlace
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03146c768a96ce0dec8f5578e84409db:9b0d9a39ba68518bb7cc8c93ce8e4976
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ENLACE)/manifest.mpd
 
-#EXTINF:-1 tvg-id="tv_familia" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TVFAMILIA/EXPORTACION_WEB/SS/TVFAMILIA_t-290x163.png" group-title="Cine",TV Familia
+#EXTINF:-1 tvg-id="tv_familia" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TVFAMILIA/EXPORTACION_WEB/SS/TVFAMILIA_t-290x163.png" group-title="Estilo de vida",TV Familia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07157a4f89e28600ebf46fbf0faf7b48:5ee4b02ab31d899a785000fa8a5377d3
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TVFAMILIA)/manifest.mpd
 
-#EXTINF:-1 tvg-id="red_mas" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/REDMSCOLOMBIA/EXPORTACION_WEB/SS/REDMSCOLOMBIA_t-290x163.png" group-title="Cine",Red+
+#EXTINF:-1 tvg-id="red_mas" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/INFOCLAROHD/EXPORTACION_WEB/SS/INFOCLAROHD_t-290x163.png" group-title="Nacionales",Red+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07157a4f89e28600ebf46fbf0faf7b48:5ee4b02ab31d899a785000fa8a5377d3
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TVFAMILIA)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d6414998551c6022f04ecd7e53d0e103:a8b0a71fe760d547785793376b43d982
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(BARKER)/manifest.mpd
 
 #EXTINF:-1 tvg-id="canal_claro" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Cine",Canal Claro
 #KODIPROP:inputstream=inputstream.adaptive
@@ -714,103 +707,306 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=ae5d967526f90c80102fab021e3dd282:226f3cfc4f00e03dbe39e2a88760293f
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANAL_CLARO_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="canal_1" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANAL1COLOMBIAHD/EXPORTACION_WEB/SS/CANAL1COLOMBIAHD_t-290x163.png" group-title="Cine",Canal 1
+#EXTINF:-1 tvg-id="canal_1" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANAL1COLOMBIAHD/EXPORTACION_WEB/SS/CANAL1COLOMBIAHD_t-290x163.png" group-title="Nacionales",Canal 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=86babf38afcdc81d92e22c530daf4f5f:dd3a739cbe5a24155065189da26beb68
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANAL_UNO_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="citytv" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/CITYTVHD/EXPORTACION_WEB/SS/CITYTVHD_t-290x163.png" group-title="Cine",Citytv
+#EXTINF:-1 tvg-id="citytv" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/CITYTVHD/EXPORTACION_WEB/SS/CITYTVHD_t-290x163.png" group-title="Nacionales",Citytv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d032d9ab5f3ea56e93e7e26418af057:041bd6b7c5f678981d70d5a2c2cc7c11
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CITY_TV_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="canal_institucional" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CANALINSTITUCIONALHD/EXPORTACION_WEB/SS/CANALINSTITUCIONALHD_t-290x163.png" group-title="Cine",Canal Institucional
+#EXTINF:-1 tvg-id="canal_institucional" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CANALINSTITUCIONALHD/EXPORTACION_WEB/SS/CANALINSTITUCIONALHD_t-290x163.png" group-title="Nacionales",Canal Institucional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=352414e1b7da0c77d81855f61a8086d4:4c318a5d1294c1bf0cfabaeed5f82c66
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(SENAL_INSTITUCIONAL_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="canal_capital" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CANALCAPITALCOLOMBIA/EXPORTACION_WEB/SS/CANALCAPITALCOLOMBIA_t-290x163.png" group-title="Cine",Canal Capital
+#EXTINF:-1 tvg-id="canal_capital" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CANALCAPITALCOLOMBIA/EXPORTACION_WEB/SS/CANALCAPITALCOLOMBIA_t-290x163.png" group-title="Nacionales",Canal Capital
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a849174b8449ed5cd2a001df5542ae49:12e0ac6e955d3b6e785b7cc02aa7a467
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANALCAPITAL_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="teleantioquia" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TELEANTIOQUIANEW/EXPORTACION_WEB/SS/TELEANTIOQUIANEW_t-290x163.png" group-title="Cine",Teleantioquia
+#EXTINF:-1 tvg-id="teleantioquia" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TELEANTIOQUIANEW/EXPORTACION_WEB/SS/TELEANTIOQUIANEW_t-290x163.png" group-title="Nacionales",Teleantioquia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96506896c42acb5430b278c6d2d0e93d:939b7eb40bd8b3d37252b5c692418094
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TELEANTIOQUIA_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="telecaribe" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/TELECARIBEHDCOLOMBIA/EXPORTACION_WEB/SS/TELECARIBEHDCOLOMBIA_t-290x163.png" group-title="Cine",Telecaribe
+#EXTINF:-1 tvg-id="telecaribe" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/TELECARIBEHDCOLOMBIA/EXPORTACION_WEB/SS/TELECARIBEHDCOLOMBIA_t-290x163.png" group-title="Nacionales",Telecaribe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ee0b5203a8866b61e003cd69646385a:aa36de9d7d5f398ec9c1abfed42cb0fc
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TELECARIBE_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="telepacifico" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/TELEPACIFICOCOLOMBIA/EXPORTACION_WEB/SS/TELEPACIFICOCOLOMBIA_t-290x163.png" group-title="Cine",Telepacífico
+#EXTINF:-1 tvg-id="telepacifico" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/TELEPACIFICOCOLOMBIA/EXPORTACION_WEB/SS/TELEPACIFICOCOLOMBIA_t-290x163.png" group-title="Nacionales",Telepacífico
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecba56736b63216a7478f3331b5d2147:0f3b40eee94f829a13f7d990c357c793
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TELEPACIFICO_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="a3cine" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CANAL13/EXPORTACION_WEB/SS/CANAL13_t-290x163.png" group-title="Cine",Trece
+#EXTINF:-1 tvg-id="a3cine" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CANAL13/EXPORTACION_WEB/SS/CANAL13_t-290x163.png" group-title="Nacionales",Trece
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce6a6d4e915aefb76a8d4e899ddbe10b:b489a3f392e81f6a835b939c47c5e2e9
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TRECE_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="canal_tro" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TROCOLOMBIA/EXPORTACION_WEB/SS/TROCOLOMBIA_t-290x163.png" group-title="Cine",Canal TRO
+#EXTINF:-1 tvg-id="canal_tro" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TROCOLOMBIA/EXPORTACION_WEB/SS/TROCOLOMBIA_t-290x163.png" group-title="Nacionales",Canal TRO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48631ff566faae131ede01a6350d7c7e:876a3e4db87c839d2b7e754cbd4e8d72
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TRO_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="telecafe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELECAF/EXPORTACION_WEB/SS/TELECAF_t-290x163.png" group-title="Cine",Telecafé
+#EXTINF:-1 tvg-id="telecafe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELECAF/EXPORTACION_WEB/SS/TELECAF_t-290x163.png" group-title="Nacionales",Telecafé
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b6f759448b8de6dbfbb76cd1af43f2b:6c752fd914d25929660a8110b7305a62
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TELECAFE_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="canal_congreso" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/CANALDELCONGRESOHD/EXPORTACION_WEB/SS/CANALDELCONGRESOHD_t-290x163.png" group-title="Cine",Canal Congreso
+#EXTINF:-1 tvg-id="canal_congreso" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/CANALDELCONGRESOHD/EXPORTACION_WEB/SS/CANALDELCONGRESOHD_t-290x163.png" group-title="Nacionales",Canal Congreso
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5d58d8e564e20ba97d05e11d397e2f6:ab090dfe0fe0561fc24861521d255614
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CONGRESO_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="teleislas" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TELEISLAS/EXPORTACION_WEB/SS/TELEISLAS_t-290x163.png" group-title="Cine",Teleislas
+#EXTINF:-1 tvg-id="teleislas" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TELEISLAS/EXPORTACION_WEB/SS/TELEISLAS_t-290x163.png" group-title="Nacionales",Teleislas
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8125190c0fd430ea24bde844bb5dbf2:0a3745b0bf4868da9ce695e6ca137fb2
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TELEISLASHD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="senal_colombia" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/SEALCOLOMBIAHD/EXPORTACION_WEB/SS/SEALCOLOMBIAHD_t-290x163.png" group-title="Cine",Señal Colombia
+#EXTINF:-1 tvg-id="senal_colombia" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/SEALCOLOMBIAHD/EXPORTACION_WEB/SS/SEALCOLOMBIAHD_t-290x163.png" group-title="Nacionales",Señal Colombia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f29c0fd24b7e277283aa3ad9a417295:7e07baf1b863c973beac85a08e9a8dc1
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(SENAL_COLOMBIA_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="radiola" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/RADIOLATVHD/EXPORTACION_WEB/SS/RADIOLATVHD_t-290x163.png" group-title="Cine",Radiola
+#EXTINF:-1 tvg-id="radiola" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/RADIOLATVHD/EXPORTACION_WEB/SS/RADIOLATVHD_t-290x163.png" group-title="Música",Radiola
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73333735369bd0e84b92324ae8d4e226:77d0ba9731f4209432d956312ebe1ca9
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(RADIOLA_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="discovery_kids" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/DISCOVERYKIDSCHANNEL/EXPORTACION_WEB/SS/DISCOVERYKIDSCHANNEL_t-290x163.png" group-title="Infantiles",Discovery Kids
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=651f6dd6967f69266539faca5336fc79:cab01b81a1dc7772fef494e5f898b50c 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_KIDS_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="cartoon_network" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CARTOONNETWORK/EXPORTACION_WEB/SS/CARTOONNETWORK_t-290x163.png" group-title="Infantiles",Cartoon Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a827f7fede44d8d973cbbaab0c089c0:f91eeb3c7c12d9391434dc79a872c0b9
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="disney_channel" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/DISNEYCHANNELHD/EXPORTACION_WEB/SS/DISNEYCHANNELHD_t-290x163.png" group-title="Infantiles",Disney Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=027e637afed7db11853ff1a19cc8e4db:608f91f05536f5a6c93e70cdd95aba5c
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="disney_jr" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/DISNEYJR/EXPORTACION_WEB/SS/DISNEYJR_t-290x163.png" group-title="Infantiles",Disney Jr
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a54fcc9e39ebb71a0a91b0b7e1946b9:0720f4901617bf3db3581d55110d7ef6
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISNEYJR_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CARTOONITO/EXPORTACION_WEB/SS/CARTOONITO_t-290x163.png" group-title="Infantiles",Cartoonito
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae2a974c3c75a4f5a7185fbbea88b85d:855ef0cf67e7ccff665df7f23d70e17d
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(BOOMERANG_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="plim_plim" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/PLIMPLIM/EXPORTACION_WEB/SS/PLIMPLIM_t-290x163.png" group-title="Infantiles",Plim Plim
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b555dd06c425c0c1ce6a279e63bf2788:e4567a55c4bdcf62e772a8d6f5566f80
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(PLIMPLIM_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/DISCOVERYCHANNELHD/EXPORTACION_WEB/SS/DISCOVERYCHANNELHD_t-290x163.png" group-title="Culturales",Discovery
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7d4348407bf86d982076fb0ffa654e6:80acc54d3c56ed0770c4f12f91b53b68
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_CHANNEL_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="h2" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/HISTORY2/EXPORTACION_WEB/SS/HISTORY2_t-290x163.png" group-title="Culturales",H2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33290edc4117d612218fdc6b1b7c1aac:3325d43bf783d0f92297f5705b4b3ffb
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(H2_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="discovery_turbo" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DISCOVERYTURBOHD/EXPORTACION_WEB/SS/DISCOVERYTURBOHD_t-290x163.png" group-title="Estilo de vida",Discovery Turbo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c0ae81216e60e67b762fb5f12106850:a7250440acea79969f79c74f7f93132b
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_TURBO_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="national_geographic" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NATIONALGEOGRAPHIC/EXPORTACION_WEB/SS/NATIONALGEOGRAPHIC_t-290x163.png" group-title="Culturales",National Geographic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9c20dac5bbea5e375a14f826bf2c685:d84d90193b192a3604f41cf4c213dad7
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(NATGEO_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="tv_agro" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TVAGROHD/EXPORTACION_WEB/SS/TVAGROHD_t-290x163.png" group-title="Culturales",TV Agro
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c15411f196354c9021d7b25c22d42a:8d34b0d2a72bda6f0f9bf1b39c0e8a13
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TV_AGRO_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="home_and_health" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DISCOVERYHOMEANDHEALTHCHANNEL/EXPORTACION_WEB/SS/DISCOVERYHOMEANDHEALTHCHANNEL_t-290x163.png" group-title="Estilo de vida",Home and Health
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed7db993e483308dcd1d3a266018d787:def528875559963d3f125af875ae08c3
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="el_gourmet" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/ELGOURMETCHANNEL/EXPORTACION_WEB/SS/ELGOURMETCHANNEL_t-290x163.png" group-title="Estilo de vida",El Gourmet
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c3307df8d46704c2e3c2bfa79432923:4c450c53c2a8731c9aef7bead79ce726
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(GOURMET_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="e_entertainment" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/EENTERTAINMENTHD/EXPORTACION_WEB/SS/EENTERTAINMENTHD_t-290x163.png" group-title="Series",E Entertainment
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72588762b87fe8482cc2b5c338df022d:16e4fc3c3698540a8343e9a739958e29
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(E_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="lifetime" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/LIFETIMENEW/EXPORTACION_WEB/SS/LIFETIMENEW_t-290x163.png" group-title="Series",Lifetime
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=37a9aae2592aa91c77205f856d1b7c4a:049be7bf21315bf1dcb71f3c8357f461
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(LIFETIME_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="ve_plus" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/VEPLUSTV/EXPORTACION_WEB/SS/VEPLUSTV_t-290x163.png" group-title="Estilo de vida",Ve Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fa9186e9304c3e4372c3532fe91dec6:321505755643da570189eb015f589cc1
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(VEPLUSTV_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="azteca" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/AZTECAINTERNACIONAL/EXPORTACION_WEB/SS/AZTECAINTERNACIONAL_t-290x163.png" group-title="Series",Azteca
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7232714227da809d19792fc162352e4f:709719841f4020ade87ff06d7f62b5ed
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(AZMUNDO_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="telemundo" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TELEMUNDO/EXPORTACION_WEB/SS/TELEMUNDO_t-290x163.png" group-title="Series",Telemundo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b106233ba5dabc88ccf35e4c9828236:56b73f3bf582b4ebd509e27245852e66
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TELEMUNDO_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="pasiones" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/PASIONES/EXPORTACION_WEB/SS/PASIONES_t-290x163.png" group-title="Series",Pasiones
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6bbdd5a6a21ea3d5bec34c515078e124:a975283846427d25df13a345bc40bdc1
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(PASIONES_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="cable_noticias" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CABLENOTICIASHD/EXPORTACION_WEB/SS/CABLENOTICIASHD_t-290x163.png" group-title="Noticias",Cable Noticias
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=017524f9c4892bcf9e2b80bf26d1fcea:f636521f4b39ca6109b3305f5d1bcdab
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CABLENOTICIAS_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="france24_es" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/FRANCE24ESPAOL/EXPORTACION_WEB/SS/FRANCE24ESPAOL_t-290x163.png" group-title="Noticias",France 24 ES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b0d71f8140a99c3d478b5da92dbc896:46666ec5404f8bfd244096f40976bd6b
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FRANCE24_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="antena_3" tvg-logo="https://clarovideocdn1.clarovideo.net/ATRESPLAYER/PELICULAS/ANTENA3INTERNACIONALHD/EXPORTACION_WEB/SS/ANTENA3INTERNACIONALHD_t-290x163.png" group-title="Series",Antena 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62cbef28bf6834880e0f8f8f380b0d5e:22a1f857c75a4fee7edd98d23ef2857e
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ANTENA3HD_ARG)/manifest.mpd
+
+#EXTINF:-1 tvg-id="espn1.co" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPNNEW/EXPORTACION_WEB/SS/ESPNNEW_t-290x163.png" group-title="Deportes",ESPN 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="espn2.co" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/ESPN2NEW/EXPORTACION_WEB/SS/ESPN2NEW_t-290x163.png" group-title="Deportes",ESPN 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="espn3.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="espn4.co" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/ESPN4/EXPORTACION_WEB/SS/ESPN4_t-290x163.png" group-title="Deportes",ESPN 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca5aa31fe437b9271fa3bd9b9167b0a6:b4bc08a35ef0f37472bbb4c52a5f56b8
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_4_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="espn5.co" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN5/EXPORTACION_WEB/SS/ESPN5_t-290x163.png" group-title="Deportes",ESPN 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69cb1c89c556d43aca7c5301bb467fff:1b27b9b6c21675a1cb0d926185bbd537
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_5_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="espn6.co" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN6/EXPORTACION_WEB/SS/ESPN6_t-290x163.png" group-title="Deportes",ESPN 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0f410f6357ac672e9d3b07956944edc:b4bba9f2462759c27b5592d1a54e6b1f
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_6_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="espn7.co" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN7/EXPORTACION_WEB/SS/ESPN7_t-290x163.png" group-title="Deportes",ESPN 7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b5c647e6584cf00ea482b531288fb40:09a669f13d96baf934647a1eb1cb5efa
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_7_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-id="win_sports" tvg-logo="https://clarovideocdn3.clarovideo.net/WINSPORTSX2/PELICULAS/WINSPORTS1521/EXPORTACION_WEB/SS/WINSPORTS1521_t-290x163.png" group-title="Deportes",Win Sports
 #KODIPROP:inputstream=inputstream.adaptive
@@ -826,19 +1022,19 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key={"f6b30a661c69b70039e4eb51247c4d10":"243493e4a7fac9577326e15f0169f938"}
 https://peruvoslive.clarovideo.com/Content/DASH_DASH_FK/Live/channel(MAINTENANCE_HD)/master.mpd
 
-#EXTINF:-1 tvg-id="claro_sports_2" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CLAROSPORTS2/EXPORTACION_WEB/SS/CLAROSPORTS2_t-290x163.png" group-title="Deportes",Claro Sports 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"74cdcb63ff3e4f3ce4da4243b6d1e1d8":"9b8366fa8e9ebcdf4b349d6c9d528115"}
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
-
 #EXTINF:-1 tvg-id="claro_sports_1" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Deportes",Claro Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3c72a7db6e745cc5ac98a718df5a0f30":"dd9defe2faef158fb6b9c4fae2a7d6c8"}
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_COL_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="claro_sports_2" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CLAROSPORTS2/EXPORTACION_WEB/SS/CLAROSPORTS2_t-290x163.png" group-title="Deportes",Claro Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"74cdcb63ff3e4f3ce4da4243b6d1e1d8":"9b8366fa8e9ebcdf4b349d6c9d528115"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-id="universal_premier" tvg-logo="https://clarovideocdn3.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALPREMIEREHD/EXPORTACION_WEB/SS/UNIVERSALPREMIEREHD_t-290x163.png" group-title="Cine",Universal Premier
 #KODIPROP:inputstream=inputstream.adaptive
