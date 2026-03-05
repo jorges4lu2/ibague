@@ -126,6 +126,9 @@
   <channel id="17:00 Thu, 3/5 - The Rich Eisen Show">
     <display-name lang="en">17:00 Thu, 3/5 - The Rich Eisen Show</display-name>
   </channel>
+  <channel id="17:00 UFC 326: Press (DAZN)">
+    <display-name lang="en">17:00 UFC 326: Press (DAZN)</display-name>
+  </channel>
   <channel id="17:00 UTSA Mens Basketball Presser">
     <display-name lang="en">17:00 UTSA Mens Basketball Presser</display-name>
   </channel>
@@ -366,6 +369,9 @@
   <channel id="00:00 Sabres @ Penguins (NHL)">
     <display-name lang="en">00:00 Sabres @ Penguins (NHL)</display-name>
   </channel>
+  <channel id="00:00 UFC 326: Press Conference (DAZN)">
+    <display-name lang="en">00:00 UFC 326: Press Conference (DAZN)</display-name>
+  </channel>
   <channel id="00:30 Nets v Heat (AMZN)">
     <display-name lang="en">00:30 Nets v Heat (AMZN)</display-name>
   </channel>
@@ -390,6 +396,9 @@
   <channel id="01:00 Lightning @ Jets (NHL)">
     <display-name lang="en">01:00 Lightning @ Jets (NHL)</display-name>
   </channel>
+  <channel id="01:00 Michigan @ Iowa (DAZN)">
+    <display-name lang="en">01:00 Michigan @ Iowa (DAZN)</display-name>
+  </channel>
   <channel id="01:00 Michigan v Iowa (Peacock)">
     <display-name lang="en">01:00 Michigan v Iowa (Peacock)</display-name>
   </channel>
@@ -398,6 +407,9 @@
   </channel>
   <channel id="01:00 Raptors v Timberwolves (AMZN)">
     <display-name lang="en">01:00 Raptors v Timberwolves (AMZN)</display-name>
+  </channel>
+  <channel id="01:00 Rutgers @ Michigan State (DAZN)">
+    <display-name lang="en">01:00 Rutgers @ Michigan State (DAZN)</display-name>
   </channel>
   <channel id="01:00 Toronto v Minnesota (NBA) (SN)">
     <display-name lang="en">01:00 Toronto v Minnesota (NBA) (SN)</display-name>
@@ -443,6 +455,12 @@
   </channel>
   <channel id="01:55 UFC 326: PRESS CONFERENCE (UFC)">
     <display-name lang="en">01:55 UFC 326: PRESS CONFERENCE (UFC)</display-name>
+  </channel>
+  <channel id="19:45 American Flat Track Daytona (PPV)">
+    <display-name lang="en">19:45 American Flat Track Daytona (PPV)</display-name>
+  </channel>
+  <channel id="22:00 Lucas Oil Late Models Golden Isles (PPV)">
+    <display-name lang="en">22:00 Lucas Oil Late Models Golden Isles (PPV)</display-name>
   </channel>
   <channel id="20:00 Spurs v Crystal Palace (AMZN)">
     <display-name lang="en">20:00 Spurs v Crystal Palace (AMZN)</display-name>
@@ -1460,6 +1478,30 @@
     </audio>
   </programme>
   <programme start="20260305142000 -0500" channel="17:00 Thu, 3/5 - The Rich Eisen Show" stop="20260305235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305000000 -0500" channel="17:00 UFC 326: Press (DAZN)" stop="20260305120000 -0500">
+    <title>[Upcoming: 12:00 PM]  UFC 326: Press (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305120000 -0500" channel="17:00 UFC 326: Press (DAZN)" stop="20260305142000 -0500">
+    <title>[12:00 PM]  UFC 326: Press (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305142000 -0500" channel="17:00 UFC 326: Press (DAZN)" stop="20260305235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -3387,6 +3429,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260305000000 -0500" channel="00:00 UFC 326: Press Conference (DAZN)" stop="20260305190000 -0500">
+    <title>[Upcoming: 07:00 PM]  UFC 326: Press Conference (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305190000 -0500" channel="00:00 UFC 326: Press Conference (DAZN)" stop="20260305212000 -0500">
+    <title>[07:00 PM]  UFC 326: Press Conference (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305212000 -0500" channel="00:00 UFC 326: Press Conference (DAZN)" stop="20260305235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260305000000 -0500" channel="00:30 Nets v Heat (AMZN)" stop="20260305193000 -0500">
     <title>[Upcoming: 07:30 PM]  Nets v Heat (AMZN)</title>
     <date>2026</date>
@@ -3579,6 +3645,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260305000000 -0500" channel="01:00 Michigan @ Iowa (DAZN)" stop="20260305200000 -0500">
+    <title>[Upcoming: 08:00 PM]  Michigan @ Iowa (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305200000 -0500" channel="01:00 Michigan @ Iowa (DAZN)" stop="20260305222000 -0500">
+    <title>[08:00 PM]  Michigan @ Iowa (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305222000 -0500" channel="01:00 Michigan @ Iowa (DAZN)" stop="20260305235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260305000000 -0500" channel="01:00 Michigan v Iowa (Peacock)" stop="20260305200000 -0500">
     <title>[Upcoming: 08:00 PM]  Michigan v Iowa (Peacock)</title>
     <date>2026</date>
@@ -3644,6 +3734,30 @@
     </audio>
   </programme>
   <programme start="20260305222000 -0500" channel="01:00 Raptors v Timberwolves (AMZN)" stop="20260305235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305000000 -0500" channel="01:00 Rutgers @ Michigan State (DAZN)" stop="20260305200000 -0500">
+    <title>[Upcoming: 08:00 PM]  Rutgers @ Michigan State (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305200000 -0500" channel="01:00 Rutgers @ Michigan State (DAZN)" stop="20260305222000 -0500">
+    <title>[08:00 PM]  Rutgers @ Michigan State (DAZN)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305222000 -0500" channel="01:00 Rutgers @ Michigan State (DAZN)" stop="20260305235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4004,6 +4118,54 @@
     </audio>
   </programme>
   <programme start="20260305231500 -0500" channel="01:55 UFC 326: PRESS CONFERENCE (UFC)" stop="20260305235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305000000 -0500" channel="19:45 American Flat Track Daytona (PPV)" stop="20260305144500 -0500">
+    <title>[Upcoming: 02:45 PM]  American Flat Track Daytona (PPV)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305144500 -0500" channel="19:45 American Flat Track Daytona (PPV)" stop="20260305170500 -0500">
+    <title>[02:45 PM]  American Flat Track Daytona (PPV)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305170500 -0500" channel="19:45 American Flat Track Daytona (PPV)" stop="20260305235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305000000 -0500" channel="22:00 Lucas Oil Late Models Golden Isles (PPV)" stop="20260305170000 -0500">
+    <title>[Upcoming: 05:00 PM]  Lucas Oil Late Models Golden Isles (PPV)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305170000 -0500" channel="22:00 Lucas Oil Late Models Golden Isles (PPV)" stop="20260305192000 -0500">
+    <title>[05:00 PM]  Lucas Oil Late Models Golden Isles (PPV)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260305192000 -0500" channel="22:00 Lucas Oil Late Models Golden Isles (PPV)" stop="20260305235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
