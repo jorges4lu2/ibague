@@ -303,10 +303,6 @@
 		<display-name>CANAL CAPITAL</display-name>
 		<url>https://tv.movistar.co</url>
 	</channel>
-	<channel id="canal_institucional">
-		<display-name>CANAL INSTITUCIONAL</display-name>
-		<url>https://tv.movistar.co</url>
-	</channel>
 	<channel id="city_tv">
 		<display-name>CITY TV</display-name>
 		<url>https://tv.movistar.co</url>
@@ -395,10 +391,6 @@
 		<display-name>Telecafé</display-name>
 		<url>https://tv.movistar.co</url>
 	</channel>
-	<channel id="senal_colombia">
-		<display-name>SEÑAL COLOMBIA</display-name>
-		<url>https://tv.movistar.co</url>
-	</channel>
 	<channel id="telepacifico">
 		<display-name>TELEPACIFICO</display-name>
 		<url>https://tv.movistar.co</url>
@@ -467,11 +459,11 @@
 		<display-name>National Geographic</display-name>
 		<url>https://tv.movistar.co</url>
 	</channel>
-	<channel id="senal_colombia_b">
+	<channel id="senal_colombia">
 		<display-name>Señal Colombia</display-name>
 		<url>https://tv.movistar.co</url>
 	</channel>
-	<channel id="canal_institucional_b">
+	<channel id="canal_institucional">
 		<display-name>Canal Institucional</display-name>
 		<url>https://tv.movistar.co</url>
 	</channel>
@@ -751,16 +743,8 @@
 		<display-name>Ve Plus TV</display-name>
 		<url>https://mi.tv</url>
 	</channel>
-	<channel>
-		<display-name>senal_colombia</display-name>
-		<url>https://mi.tv</url>
-	</channel>
-	<channel>
-		<display-name>canal_institucional</display-name>
-		<url>https://mi.tv</url>
-	</channel>
-	<channel>
-		<display-name>cosmovision</display-name>
+	<channel id="cosmovision">
+		<display-name>Cosmovisión</display-name>
 		<url>https://mi.tv</url>
 	</channel>
 	<programme start="20260306233000 +0000" stop="20260307000000 +0000" channel="bbc_world_news">
@@ -20232,401 +20216,401 @@
 		<desc lang="es">En el año 2032, la policía descongela a un exagente encarcelado para que capture a un antiguo enemigo suyo.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/62/22620905_d3dfee9f77f522e95ac8ec8dc5921a40.jpg" />
 	</programme>
-	<programme start="20260307230000 +0000" stop="20260308000000 +0000" channel="canal_institucional_b">
+	<programme start="20260307230000 +0000" stop="20260308000000 +0000" channel="canal_institucional">
 		<title lang="es">Colombia documental</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/07/17077933_559F45437EFB78B7.jpg" />
 	</programme>
-	<programme start="20260308000000 +0000" stop="20260308000100 +0000" channel="canal_institucional_b">
+	<programme start="20260308000000 +0000" stop="20260308000100 +0000" channel="canal_institucional">
 		<title lang="es">Colombia 360</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13186433_E0E8ED2F047DECE3.jpg" />
 	</programme>
-	<programme start="20260308000100 +0000" stop="20260308003000 +0000" channel="canal_institucional_b">
+	<programme start="20260308000100 +0000" stop="20260308003000 +0000" channel="canal_institucional">
 		<title lang="es">Eco Latinoamérica</title>
 		<desc lang="es">Un magacín con todas las noticias sobre el medio ambiente.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/14/44/14442454_0360DC6183A629F2.jpg" />
 	</programme>
-	<programme start="20260308003000 +0000" stop="20260308010000 +0000" channel="canal_institucional_b">
+	<programme start="20260308003000 +0000" stop="20260308010000 +0000" channel="canal_institucional">
 		<title lang="es">Enlaces</title>
 		<desc lang="es">Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13189574_F648D7E4E63741C6.jpg" />
 	</programme>
-	<programme start="20260308010000 +0000" stop="20260308013000 +0000" channel="canal_institucional_b">
+	<programme start="20260308010000 +0000" stop="20260308013000 +0000" channel="canal_institucional">
 		<title lang="es">Visión futuro</title>
 		<desc lang="es">Información dirigida a todos aquellos que se interesan por el avance de la ciencia en Europa y, específicamente, en Alemania.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/17/13178866_F24153E80C99ACAA.jpg" />
 	</programme>
-	<programme start="20260308013000 +0000" stop="20260308020000 +0000" channel="canal_institucional_b">
+	<programme start="20260308013000 +0000" stop="20260308020000 +0000" channel="canal_institucional">
 		<title lang="es">Las gestas del tiempo</title>
 		<desc lang="es">Se cuenta, a través de experiencias inmersivas, información histórica que gira alrededor de la independencia de la Nueva Granada en 1819.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13187917_7068566AE58E4EFA.jpg" />
 	</programme>
-	<programme start="20260308020000 +0000" stop="20260308030000 +0000" channel="canal_institucional_b">
+	<programme start="20260308020000 +0000" stop="20260308030000 +0000" channel="canal_institucional">
 		<title lang="es">La hora gourmet</title>
 		<desc lang="es">Un espacio con contenidos dedicados a la gastronomía de diferentes partes del mundo, y a través de la misma conocer sobre la cultura, tradición, aspecto social y más sobre los países.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/25/22255957_c84e4d1c0abdbf5c268caca5f9f67fa8.jpg" />
 	</programme>
-	<programme start="20260308030000 +0000" stop="20260308033000 +0000" channel="canal_institucional_b">
+	<programme start="20260308030000 +0000" stop="20260308033000 +0000" channel="canal_institucional">
 		<title lang="es">Noches de ficción</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/14/22143234_b64e4af413863aaf0577ac686538ed27.jpg" />
 	</programme>
-	<programme start="20260308033000 +0000" stop="20260308040000 +0000" channel="canal_institucional_b">
+	<programme start="20260308033000 +0000" stop="20260308040000 +0000" channel="canal_institucional">
 		<title lang="es">Noches de ficción</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/14/22143234_b64e4af413863aaf0577ac686538ed27.jpg" />
 	</programme>
-	<programme start="20260308040000 +0000" stop="20260308043000 +0000" channel="canal_institucional_b">
+	<programme start="20260308040000 +0000" stop="20260308043000 +0000" channel="canal_institucional">
 		<title lang="es">La lista de Erick</title>
 		<desc lang="es">Lo más interesante y atractivo de Rusia es presentado por Erick, un personaje de idiosincrasia latinoamericana que llega a Rusia para descubrir el país tal como es, sin prejuicios.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13190123_5670B8ECA706C9EF.jpg" />
 	</programme>
-	<programme start="20260308043000 +0000" stop="20260308050000 +0000" channel="canal_institucional_b">
+	<programme start="20260308043000 +0000" stop="20260308050000 +0000" channel="canal_institucional">
 		<title lang="es">El mundo al vuelo</title>
 		<desc lang="es">Versión restaurada del emblemático programa que acercó las culturas, creencias, gastronomía y otros aspectos de más de 100 países durante 23 años.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13197578_81957A811BEC6C78.jpg" />
 	</programme>
-	<programme start="20260308050000 +0000" stop="20260308063000 +0000" channel="canal_institucional_b">
+	<programme start="20260308050000 +0000" stop="20260308063000 +0000" channel="canal_institucional">
 		<title lang="es">Encuadre real</title>
 		<desc lang="es">Una serie de documentales que contarán los sucesos que han marcado la historia de Colombia y el mundo.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13185055_BAC40F6E723D0206.jpg" />
 	</programme>
-	<programme start="20260308063000 +0000" stop="20260308070000 +0000" channel="canal_institucional_b">
+	<programme start="20260308063000 +0000" stop="20260308070000 +0000" channel="canal_institucional">
 		<title lang="es">Territorio de ilusiones</title>
 		<desc lang="es">Las historias de las víctimas, líderes sociales y excombatientes de la guerra entre las FARC y el gobierno de Colombia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13187933_498487362972C84D.jpg" />
 	</programme>
-	<programme start="20260308070000 +0000" stop="20260308073000 +0000" channel="canal_institucional_b">
+	<programme start="20260308070000 +0000" stop="20260308073000 +0000" channel="canal_institucional">
 		<title lang="es">De voz a vos</title>
 		<desc lang="es">Un recorrido por la historia de Colombia, construida por indígenas, comunidades afro, mujeres y niños.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13186869_05752D6F42C62C25.jpg" />
 	</programme>
-	<programme start="20260308073000 +0000" stop="20260308080000 +0000" channel="canal_institucional_b">
+	<programme start="20260308073000 +0000" stop="20260308080000 +0000" channel="canal_institucional">
 		<title lang="es">Así avanza el cambio</title>
 		<desc lang="es">Hechos, principales avances y detalles de todos los logros del gobierno de Colombia en el último mes.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/39/21394397_C9230CC7934F5AF3.jpg" />
 	</programme>
-	<programme start="20260308080000 +0000" stop="20260308083000 +0000" channel="canal_institucional_b">
+	<programme start="20260308080000 +0000" stop="20260308083000 +0000" channel="canal_institucional">
 		<title lang="es">Chancho y Vaca</title>
 		<desc lang="es">Dos amigos que te van a enseñar todo lo que necesitas saber sobre dinero, ahorro y decisiones inteligentes. Vas a entender el mundo financiero de forma simple y divertida.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/95/21958809_62a286d723cc535b2eff1e4f49e47e96.jpg" />
 	</programme>
-	<programme start="20260308083000 +0000" stop="20260308090000 +0000" channel="canal_institucional_b">
+	<programme start="20260308083000 +0000" stop="20260308090000 +0000" channel="canal_institucional">
 		<title lang="es">Renacer</title>
 		<desc lang="es">Serie documental inspiradora que busca poner sobre la mesa la donación de órganos, y hacerla ver como un acto de generosidad que puede cambiar vidas. Historias de vida de cómo la decisión de ser donante logra conceder segundas oportunidades.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/56/17567710_8CB8C84CF17505E6.jpg" />
 	</programme>
-	<programme start="20260308090000 +0000" stop="20260308093000 +0000" channel="canal_institucional_b">
+	<programme start="20260308090000 +0000" stop="20260308093000 +0000" channel="canal_institucional">
 		<title lang="es">La búsqueda es contigo</title>
 		<desc lang="es">Un proyecto de la Unidad de Búsqueda de Personas Dadas por Desaparecidas.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/14/75/14755668_26B62AEFFBFA2BE0.jpg" />
 	</programme>
-	<programme start="20260308093000 +0000" stop="20260308100000 +0000" channel="canal_institucional_b">
+	<programme start="20260308093000 +0000" stop="20260308100000 +0000" channel="canal_institucional">
 		<title lang="es">Consciente colectivo</title>
 		<desc lang="es">Un recorrido por las diferentes regiones de Colombia para conocer historias de creatividad, educación y comunicación, como motor cultural del país.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/03/16035029_0CF659EF7E54D8EC.jpg" />
 	</programme>
-	<programme start="20260308100000 +0000" stop="20260308110000 +0000" channel="canal_institucional_b">
+	<programme start="20260308100000 +0000" stop="20260308110000 +0000" channel="canal_institucional">
 		<title lang="es">Colombia documental</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/07/17077933_559F45437EFB78B7.jpg" />
 	</programme>
-	<programme start="20260308110000 +0000" stop="20260308120000 +0000" channel="canal_institucional_b">
+	<programme start="20260308110000 +0000" stop="20260308120000 +0000" channel="canal_institucional">
 		<title lang="es">La hora gourmet</title>
 		<desc lang="es">Un espacio con contenidos dedicados a la gastronomía de diferentes partes del mundo, y a través de la misma conocer sobre la cultura, tradición, aspecto social y más sobre los países.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/25/22255957_c84e4d1c0abdbf5c268caca5f9f67fa8.jpg" />
 	</programme>
-	<programme start="20260308120000 +0000" stop="20260308130000 +0000" channel="canal_institucional_b">
+	<programme start="20260308120000 +0000" stop="20260308130000 +0000" channel="canal_institucional">
 		<title lang="es">Encuadre real</title>
 		<desc lang="es">Una serie de documentales que contarán los sucesos que han marcado la historia de Colombia y el mundo.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13185055_BAC40F6E723D0206.jpg" />
 	</programme>
-	<programme start="20260308130000 +0000" stop="20260308133000 +0000" channel="canal_institucional_b">
+	<programme start="20260308130000 +0000" stop="20260308133000 +0000" channel="canal_institucional">
 		<title lang="es">Noticiero científico y cultural iberoamericano</title>
 		<desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13181286_DE6D15AB98DBEB06.jpg" />
 	</programme>
-	<programme start="20260308133000 +0000" stop="20260308140000 +0000" channel="canal_institucional_b">
+	<programme start="20260308133000 +0000" stop="20260308140000 +0000" channel="canal_institucional">
 		<title lang="es">La otra historia</title>
 		<desc lang="es">En este espacio se cuentan las historias que no han sido contadas de Colombia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/64/22647950_809215a73e4ebed1695048a5b305b036.jpg" />
 	</programme>
-	<programme start="20260308140000 +0000" stop="20260308143000 +0000" channel="canal_institucional_b">
+	<programme start="20260308140000 +0000" stop="20260308143000 +0000" channel="canal_institucional">
 		<title lang="es">¡Escápate!</title>
 		<desc lang="es">Una revista de viaje que muestra Alemania cada semana en toda su diversidad y belleza. Volar con la mente a parajes insospechados y también, para dar la palabra a quienes descubren Alemania recorriendo sus ciudades y paisajes naturales.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/20/13200581_3732F3ABA432AF4C.jpg" />
 	</programme>
-	<programme start="20260308143000 +0000" stop="20260308150000 +0000" channel="canal_institucional_b">
+	<programme start="20260308143000 +0000" stop="20260308150000 +0000" channel="canal_institucional">
 		<title lang="es">RT entrevista</title>
 		<desc lang="es">Las personas más influyentes de la política, el deporte o las artes cuentan su historia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/41/19410983_F301F1DD32C2FC98.jpg" />
 	</programme>
-	<programme start="20260308150000 +0000" stop="20260308151500 +0000" channel="canal_institucional_b">
+	<programme start="20260308150000 +0000" stop="20260308151500 +0000" channel="canal_institucional">
 		<title lang="es">El reportero</title>
 		<desc lang="es">Los reporteros de DW registran los sucesos de la actualidad, los acontecimientos internacionales o las curiosidades de la vida cotidiana. Experimentan y relatan de cerca los cambios de Alemania, Europa y el mundo.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/07/21078903_6951A3E3C5CD81A3.jpg" />
 	</programme>
-	<programme start="20260308151500 +0000" stop="20260308153000 +0000" channel="canal_institucional_b">
+	<programme start="20260308151500 +0000" stop="20260308153000 +0000" channel="canal_institucional">
 		<title lang="es">DW analiza</title>
 		<desc lang="es">Un espacio que informa sobre las noticias internacionales más relevantes y analiza el trasfondo de los hechos.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/65/17656835_4CB20154AEE0EDC5.jpg" />
 	</programme>
-	<programme start="20260308153000 +0000" stop="20260308160000 +0000" channel="canal_institucional_b">
+	<programme start="20260308153000 +0000" stop="20260308160000 +0000" channel="canal_institucional">
 		<title lang="es">En forma</title>
 		<desc lang="es">Un programa dedicado a la vida sana y la prevención tanto desde el punto de vista de la medicina tradicional como de las terapias alternativas.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13189572_4801EFCCDFEF83ED.jpg" />
 	</programme>
-	<programme start="20260308160000 +0000" stop="20260308163000 +0000" channel="canal_institucional_b">
+	<programme start="20260308160000 +0000" stop="20260308163000 +0000" channel="canal_institucional">
 		<title lang="es">Eco Latinoamérica</title>
 		<desc lang="es">Un magacín con todas las noticias sobre el medio ambiente.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/14/44/14442454_0360DC6183A629F2.jpg" />
 	</programme>
-	<programme start="20260308163000 +0000" stop="20260308170000 +0000" channel="canal_institucional_b">
+	<programme start="20260308163000 +0000" stop="20260308170000 +0000" channel="canal_institucional">
 		<title lang="es">Enlaces</title>
 		<desc lang="es">Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13189574_F648D7E4E63741C6.jpg" />
 	</programme>
-	<programme start="20260308170000 +0000" stop="20260308173000 +0000" channel="canal_institucional_b">
+	<programme start="20260308170000 +0000" stop="20260308173000 +0000" channel="canal_institucional">
 		<title lang="es">Noticiero del Senado</title>
 		<desc lang="es">Noticias de actualidad nacional, con noticias sobre debates, inversiones, proyectos de ley con intervención de los honorables Senadores de la República.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/20/13200735_1280CD4C086E106A.jpg" />
 	</programme>
-	<programme start="20260308173000 +0000" stop="20260308180000 +0000" channel="canal_institucional_b">
+	<programme start="20260308173000 +0000" stop="20260308180000 +0000" channel="canal_institucional">
 		<title lang="es">¿Cómo te afecta?</title>
 		<desc lang="es">Las nuevas generaciones consumen noticias sobre todo en redes sociales. El programa quiere llegar a jóvenes y adolescentes de América Latina con temas de interés.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/66/17666728_70F7343291913991.jpg" />
 	</programme>
-	<programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="canal_institucional_b">
+	<programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="canal_institucional">
 		<title lang="es">La lista de Erick</title>
 		<desc lang="es">Lo más interesante y atractivo de Rusia es presentado por Erick, un personaje de idiosincrasia latinoamericana que llega a Rusia para descubrir el país tal como es, sin prejuicios.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13190123_5670B8ECA706C9EF.jpg" />
 	</programme>
-	<programme start="20260308183000 +0000" stop="20260308190000 +0000" channel="canal_institucional_b">
+	<programme start="20260308183000 +0000" stop="20260308190000 +0000" channel="canal_institucional">
 		<title lang="es">Noticiero Cámara de Representantes</title>
 		<desc lang="es">El noticiero de la Cámara de Representantes informa sobre proyectos, salud, economía y asuntos políticos.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13190012_CD1CADBDBD464999.jpg" />
 	</programme>
-	<programme start="20260308190000 +0000" stop="20260308200000 +0000" channel="canal_institucional_b">
+	<programme start="20260308190000 +0000" stop="20260308200000 +0000" channel="canal_institucional">
 		<title lang="es">La hora gourmet</title>
 		<desc lang="es">Un espacio con contenidos dedicados a la gastronomía de diferentes partes del mundo, y a través de la misma conocer sobre la cultura, tradición, aspecto social y más sobre los países.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/25/22255957_c84e4d1c0abdbf5c268caca5f9f67fa8.jpg" />
 	</programme>
-	<programme start="20260308200000 +0000" stop="20260308210000 +0000" channel="canal_institucional_b">
+	<programme start="20260308200000 +0000" stop="20260308210000 +0000" channel="canal_institucional">
 		<title lang="es">Con voz y paz</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/82/22823056_f107c2c817b57927113fb4cce2b0fe40.jpg" />
 	</programme>
-	<programme start="20260308210000 +0000" stop="20260308213000 +0000" channel="canal_institucional_b">
+	<programme start="20260308210000 +0000" stop="20260308213000 +0000" channel="canal_institucional">
 		<title lang="es">El mundo al vuelo</title>
 		<desc lang="es">Versión restaurada del emblemático programa que acercó las culturas, creencias, gastronomía y otros aspectos de más de 100 países durante 23 años.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13197578_81957A811BEC6C78.jpg" />
 	</programme>
-	<programme start="20260308213000 +0000" stop="20260308220000 +0000" channel="canal_institucional_b">
+	<programme start="20260308213000 +0000" stop="20260308220000 +0000" channel="canal_institucional">
 		<title lang="es">Hechos para el cambio</title>
 		<desc lang="es">Crónicas y reportajes que muestran la transformación social en los territorios colombianos, a partir de las oportunidades ofrecidas por el Gobierno.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/54/23545473_4d2533fb0906414f7a29c5de297e950f.jpg" />
 	</programme>
-	<programme start="20260308220000 +0000" stop="20260308223000 +0000" channel="canal_institucional_b">
+	<programme start="20260308220000 +0000" stop="20260308223000 +0000" channel="canal_institucional">
 		<title lang="es">Chancho y Vaca</title>
 		<desc lang="es">Dos amigos que te van a enseñar todo lo que necesitas saber sobre dinero, ahorro y decisiones inteligentes. Vas a entender el mundo financiero de forma simple y divertida.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/95/21958809_62a286d723cc535b2eff1e4f49e47e96.jpg" />
 	</programme>
-	<programme start="20260308223000 +0000" stop="20260308230000 +0000" channel="canal_institucional_b">
+	<programme start="20260308223000 +0000" stop="20260308230000 +0000" channel="canal_institucional">
 		<title lang="es">Noticiero científico y cultural iberoamericano</title>
 		<desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13181286_DE6D15AB98DBEB06.jpg" />
 	</programme>
-	<programme start="20260308230000 +0000" stop="20260308233000 +0000" channel="canal_institucional_b">
+	<programme start="20260308230000 +0000" stop="20260308233000 +0000" channel="canal_institucional">
 		<title lang="es">Colombia documental</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/07/17077933_559F45437EFB78B7.jpg" />
 	</programme>
-	<programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="canal_institucional_b">
+	<programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="canal_institucional">
 		<title lang="es">Entérese del cambio</title>
 		<desc lang="es">Un espacio en el que se mantiene informada a la comunidad.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/26/13269884_1D395CC44D8E0705.jpg" />
 	</programme>
-	<programme start="20260309000000 +0000" stop="20260309000100 +0000" channel="canal_institucional_b">
+	<programme start="20260309000000 +0000" stop="20260309000100 +0000" channel="canal_institucional">
 		<title lang="es">Colombia 360</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13186433_E0E8ED2F047DECE3.jpg" />
 	</programme>
-	<programme start="20260307230000 +0000" stop="20260308000000 +0000" channel="senal_colombia_b">
+	<programme start="20260307230000 +0000" stop="20260308000000 +0000" channel="senal_colombia">
 		<title lang="es">La Colombiana Sound System</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/52/23527729_b92577360592d1f51405280f5d32c428.jpg" />
 	</programme>
-	<programme start="20260308000000 +0000" stop="20260308010000 +0000" channel="senal_colombia_b">
+	<programme start="20260308000000 +0000" stop="20260308010000 +0000" channel="senal_colombia">
 		<title lang="es">RTVC noticias</title>
 		<desc lang="es">Un espacio que tiene como objetivo informar de manera oportuna y dinámica, con contenidos noticiosos que aporten en la construcción de la ciudadanía.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13187413_594CFD167553672E.jpg" />
 	</programme>
-	<programme start="20260308010000 +0000" stop="20260308020000 +0000" channel="senal_colombia_b">
+	<programme start="20260308010000 +0000" stop="20260308020000 +0000" channel="senal_colombia">
 		<title lang="es">El espejo</title>
 		<desc lang="es">Conexión con el séptimo arte con una mirada al cine colombiano, latinoamericano e internacional a través de entrevistas y reportajes.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/16/22163178_0fdd691bf928d21c0078f342af40b056.jpg" />
 	</programme>
-	<programme start="20260308020000 +0000" stop="20260308023000 +0000" channel="senal_colombia_b">
+	<programme start="20260308020000 +0000" stop="20260308023000 +0000" channel="senal_colombia">
 		<title lang="es">Ser trans, una apuesta de vida por defender</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/54/23545429_82b08558c58f3dc1a9cb42741964ab54.jpg" />
 	</programme>
-	<programme start="20260308023000 +0000" stop="20260308030000 +0000" channel="senal_colombia_b">
+	<programme start="20260308023000 +0000" stop="20260308030000 +0000" channel="senal_colombia">
 		<title lang="es">El álbum de los fotógrafos : León Darío Peláez, territorios de un fotógrafo</title>
 		<desc lang="es">Un espacio que explora el trabajo de grandes figuras de la fotografía colombiana.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/30/22306184_0487ae7a469e438c44ab4b5df47c168e.jpg" />
 	</programme>
-	<programme start="20260308030000 +0000" stop="20260308050000 +0000" channel="senal_colombia_b">
+	<programme start="20260308030000 +0000" stop="20260308050000 +0000" channel="senal_colombia">
 		<title lang="es">Cine azul</title>
 		<desc lang="es">Un nuevo espacio cinematográfico que reúne cortos y largometrajes de distintos países de Latinoamérica.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/73/21733758_8D84F710374290DD.jpg" />
 	</programme>
-	<programme start="20260308050000 +0000" stop="20260308060000 +0000" channel="senal_colombia_b">
+	<programme start="20260308050000 +0000" stop="20260308060000 +0000" channel="senal_colombia">
 		<title lang="es">Nariño, el Precursor : Patiadores y carracos</title>
 		<desc lang="es">Serie nacional patrimonial.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/44/20448848_F8D886410ED60376.jpg" />
 	</programme>
-	<programme start="20260308060000 +0000" stop="20260308063000 +0000" channel="senal_colombia_b">
+	<programme start="20260308060000 +0000" stop="20260308063000 +0000" channel="senal_colombia">
 		<title lang="es">Ser youtuber no es cuestión de fama</title>
 		<desc lang="es">La historia de @Afroguajira, una youtuber emergente que muestra Colombia a personas extranjeras interesadas en conocer el país. María, la persona detrás del canal, dejó su trabajo como profesora de biología y cambió las pizarras por los videos.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/63/18636868_8E8DCC86607016CC.jpg" />
 	</programme>
-	<programme start="20260308063000 +0000" stop="20260308070000 +0000" channel="senal_colombia_b">
+	<programme start="20260308063000 +0000" stop="20260308070000 +0000" channel="senal_colombia">
 		<title lang="es">Esa inolvidable primera vez : Muerte</title>
 		<desc lang="es">Historias que ilustran la primera vez que los jóvenes se enfrentan a situaciones de la vida adulta. La curiosidad sexual, el miedo a la muerte y otros asuntos humanos.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/51/19511908_EF7DE430F8432796.jpg" />
 	</programme>
-	<programme start="20260308070000 +0000" stop="20260308073000 +0000" channel="senal_colombia_b">
+	<programme start="20260308070000 +0000" stop="20260308073000 +0000" channel="senal_colombia">
 		<title lang="es">Cronos</title>
 		<desc lang="es">Cada capítulo explora un hecho real sucedido en Colombia, pero desafía la noción que la audiencia tiene de la historia que le narraron, desdibujando las versiones oficiales e indagando en aquello que quedó oculto en la memoria.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/28/21281919_303D70B7FBEC6F2B.jpg" />
 	</programme>
-	<programme start="20260308073000 +0000" stop="20260308080000 +0000" channel="senal_colombia_b">
+	<programme start="20260308073000 +0000" stop="20260308080000 +0000" channel="senal_colombia">
 		<title lang="es">Chisga Records : Flow x flow</title>
 		<desc lang="es">Serie documental que registra un ejercicio musical, una experiencia y experimento de improvisación, que reúne un grupo de diversos y talentosos músicos colombianos que habitan Bogotá.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/26/21263773_88363B49786E504B.jpg" />
 	</programme>
-	<programme start="20260308080000 +0000" stop="20260308083000 +0000" channel="senal_colombia_b">
+	<programme start="20260308080000 +0000" stop="20260308083000 +0000" channel="senal_colombia">
 		<title lang="es">Denominación de origen : Cerámica de Ráquira. Ráquira, Boyacá</title>
 		<desc lang="es">Una mirada a la belleza y pericia depositada en la cerámica del municipio de Ráquira, en el departamento de Boyacá.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/10/22101251_774695f08c15754bbf6e7b1986836461.jpg" />
 	</programme>
-	<programme start="20260308083000 +0000" stop="20260308100000 +0000" channel="senal_colombia_b">
+	<programme start="20260308083000 +0000" stop="20260308100000 +0000" channel="senal_colombia">
 		<title lang="es">Todo lo que vemos</title>
 		<desc lang="es">Programa que aborda las temáticas originadas por la audiencia a través de sus inquietudes y preguntas. Un espacio que reconoce a quienes dedican su tiempo a ver la programación.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/20/13200461_AA791CE7D78F7778.jpg" />
 	</programme>
-	<programme start="20260308100000 +0000" stop="20260308103000 +0000" channel="senal_colombia_b">
+	<programme start="20260308100000 +0000" stop="20260308103000 +0000" channel="senal_colombia">
 		<title lang="es">Señal literaria</title>
 		<desc lang="es">Un programa pensado para aquellas personas a quienes les gusta la lectura, que será invaluable con el paso del tiempo, pues sus registros serán un documento histórico que dará cuenta de lo que se escribía en diferentes épocas.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/13/20136254_3AE7F2832CB76E9E.jpg" />
 	</programme>
-	<programme start="20260308103000 +0000" stop="20260308110000 +0000" channel="senal_colombia_b">
+	<programme start="20260308103000 +0000" stop="20260308110000 +0000" channel="senal_colombia">
 		<title lang="es">Colombia verso a verso</title>
 		<desc lang="es">Un espacio literario dedicado a la poesía nacional y latinoamericana, donde se resalta lo simple y lo cotidiano en las palabras de los colombianos.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/12/22125165_ff610cf24eabf834d5c4481ff77c6c32.jpg" />
 	</programme>
-	<programme start="20260308110000 +0000" stop="20260308113000 +0000" channel="senal_colombia_b">
+	<programme start="20260308110000 +0000" stop="20260308113000 +0000" channel="senal_colombia">
 		<title lang="es">Alma del sur : Tejedora de sueños</title>
 		<desc lang="es">La creación y confección del sombrero de Suaza es un arte que ha sido declarado patrimonio cultural de Huila. En Guayabal se busca salvaguardar esta tradición involucrando a niños y jóvenes en la fabricación.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/52/23520867_116c123891785f116f18e4b32c3cd1f8.jpg" />
 	</programme>
-	<programme start="20260308113000 +0000" stop="20260308120000 +0000" channel="senal_colombia_b">
+	<programme start="20260308113000 +0000" stop="20260308120000 +0000" channel="senal_colombia">
 		<title lang="es">Los niños del agua</title>
 		<desc lang="es">Niños de todo el mundo descubren valiosos conocimientos procedentes de antiguas civilizaciones para proteger el tesoro más importante que les dejaron sus antepasados: el agua.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/30/20301188_AF266E2FB75A63D2.jpg" />
 	</programme>
-	<programme start="20260308120000 +0000" stop="20260308123000 +0000" channel="senal_colombia_b">
+	<programme start="20260308120000 +0000" stop="20260308123000 +0000" channel="senal_colombia">
 		<title lang="es">El mundo animal de Max Rodríguez</title>
 		<desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina en busca de las especies más salvajes y menos conocidas del continente. Su misión es indagar en las costumbres y hábitos de cada especie.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/17/13177710_E379EC02E538ED0D.jpg" />
 	</programme>
-	<programme start="20260308123000 +0000" stop="20260308124500 +0000" channel="senal_colombia_b">
+	<programme start="20260308123000 +0000" stop="20260308124500 +0000" channel="senal_colombia">
 		<title lang="es">Mi genial y fantástico sasquatch : Xolotl y el día de los muertos</title>
 		<desc lang="es">Dos hermanos viajan por el mundo en búsqueda de los Sasquatch, unas simpáticas criaturas.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/52/23520271_964fc79fabac1f3d8202d6d50f47e193.jpg" />
 	</programme>
-	<programme start="20260308124500 +0000" stop="20260308130000 +0000" channel="senal_colombia_b">
+	<programme start="20260308124500 +0000" stop="20260308130000 +0000" channel="senal_colombia">
 		<title lang="es">Zander : Lo real</title>
 		<desc lang="es">Mila y Leo construyen un robot y viajan a los lugares menos esperados, desde el fondo del mar hasta la era prehistórica o los anillos de Saturno.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/90/20900976_ABFC0B7128739921.jpg" />
 	</programme>
-	<programme start="20260308130000 +0000" stop="20260308133000 +0000" channel="senal_colombia_b">
+	<programme start="20260308130000 +0000" stop="20260308133000 +0000" channel="senal_colombia">
 		<title lang="es">Puerto papel</title>
 		<desc lang="es">Matilde, una niña de 12 años, llega a un pueblo de la costa de Puerto Papel a la casa de su abuelo Barba Crespa, en donde pasará las vacaciones. Tras un accidente, adquiere un poder cada día que no puede controlar.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/24/13245238_07FEC33F1AC4C8F7.jpg" />
 	</programme>
-	<programme start="20260308133000 +0000" stop="20260308134500 +0000" channel="senal_colombia_b">
+	<programme start="20260308133000 +0000" stop="20260308134500 +0000" channel="senal_colombia">
 		<title lang="es">Mr. Trance</title>
 		<desc lang="es">Mr. Trance no es un ciudadano normal y corriente, se viste de morado y le pone mucho humor y color a todas las situaciones cotidianas que puedan desorientar su vida normal.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/24/13245973_671315427A1786A8.jpg" />
 	</programme>
-	<programme start="20260308134500 +0000" stop="20260308140000 +0000" channel="senal_colombia_b">
+	<programme start="20260308134500 +0000" stop="20260308140000 +0000" channel="senal_colombia">
 		<title lang="es">Tomás, Alba y Édison</title>
 		<desc lang="es">Tomás y Alba son dos niños llenos de curiosidad y ganas de aprender. Edison, el papá de Tomás, les ayudará a adentrarse en el fascinante mundo del conocimiento.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/24/13245532_BD35CF3BFACC734B.jpg" />
 	</programme>
-	<programme start="20260308140000 +0000" stop="20260308141500 +0000" channel="senal_colombia_b">
+	<programme start="20260308140000 +0000" stop="20260308141500 +0000" channel="senal_colombia">
 		<title lang="es">Lolalá, vamos a cantar</title>
 		<desc lang="es">Aprender los números, jugar a las adivinanzas y cantar es mucho más divertido en compañía de Lola, la gallina y sus cinco pollitos. Esta divertida familia mostrará cómo es la vida en la granja y lo mucho que pueden aprender de todos.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/60/18601073_1089F292FE24CE35.jpg" />
 	</programme>
-	<programme start="20260308141500 +0000" stop="20260308143000 +0000" channel="senal_colombia_b">
+	<programme start="20260308141500 +0000" stop="20260308143000 +0000" channel="senal_colombia">
 		<title lang="es">Cuentitos mágicos</title>
 		<desc lang="es">Se tratan temas simples de las vivencias de los niños de 2 a 6 años, lo que los lleva a un imaginario mágico, lleno de personajes inusuales y situaciones inesperadas. Sus protagonistas son moscas cocineras, brócolis cantantes, una galleta y más.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/24/13246348_93233F4152E683BB.jpg" />
 	</programme>
-	<programme start="20260308143000 +0000" stop="20260308150000 +0000" channel="senal_colombia_b">
+	<programme start="20260308143000 +0000" stop="20260308150000 +0000" channel="senal_colombia">
 		<title lang="es">Frailejón Ernesto Pérez y la leyenda de la gota más pura</title>
 		<desc lang="es">El frailejón Ernesto Pérez lucha por conservar y proteger el medioambiente. En cada episodio, él y sus amigos cruzan bosques, mares y campos para cuidar a la mami Tierra mientras viven emocionantes aventuras.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/60/18600679_D4C113645C8C873E.jpg" />
 	</programme>
-	<programme start="20260308150000 +0000" stop="20260308153000 +0000" channel="senal_colombia_b">
+	<programme start="20260308150000 +0000" stop="20260308153000 +0000" channel="senal_colombia">
 		<title lang="es">Oom Moo-Yoga para niños</title>
 		<desc lang="es">Un programa para que los niños disfruten de los beneficios de la tradicional disciplina física y de meditación del yoga. Ocho vacas de diferentes razas y un gato gurú hacen diferentes posiciones para que los niños puedan hacer en casa.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/14/30/14309881_02057F08FCAE615C.jpg" />
 	</programme>
-	<programme start="20260308153000 +0000" stop="20260308154500 +0000" channel="senal_colombia_b">
+	<programme start="20260308153000 +0000" stop="20260308154500 +0000" channel="senal_colombia">
 		<title lang="es">Doctor W</title>
 		<desc lang="es">Dr. Woody Bonepecker, alias Dr. W, es un delirante doctor que siempre está buscando la verdad de los hechos naturales de la vida cotidiana. En cada episodio explicará a la audiencia distintos fenómenos en su particular, irónico y desopilante estilo.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/49/23499072_a5b9c7fa0b005277e7a58832d0dafc5b.jpg" />
 	</programme>
-	<programme start="20260308154500 +0000" stop="20260308160000 +0000" channel="senal_colombia_b">
+	<programme start="20260308154500 +0000" stop="20260308160000 +0000" channel="senal_colombia">
 		<title lang="es">Don Quijote de la Láctea : Fiebre de Sábado en la Láctea</title>
 		<desc lang="es">Don Quijote tiene fiebre y padece alucinaciones en donde se imagina que el hechicero Frestón secuestra a S.A.N.C.H.O. y a Dulcinea.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/52/23520404_7877d9834fee918b25e2f5e9a382cd73.jpg" />
 	</programme>
-	<programme start="20260308160000 +0000" stop="20260308163000 +0000" channel="senal_colombia_b">
+	<programme start="20260308160000 +0000" stop="20260308163000 +0000" channel="senal_colombia">
 		<title lang="es">Juani y Gatón</title>
 		<desc lang="es">Juani y Gatón recorren el universo en un sofá que se convierte en nave espacial, buscando responder todas sus dudas. Emocionantes historias y lugares harán que vivan miles de aventuras.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/91/20919211_6C9B746019328D85.jpg" />
 	</programme>
-	<programme start="20260308163000 +0000" stop="20260308170000 +0000" channel="senal_colombia_b">
+	<programme start="20260308163000 +0000" stop="20260308170000 +0000" channel="senal_colombia">
 		<title lang="es">Asquerosamente rico</title>
 		<desc lang="es">El chef Giovanni, la rata Marta y la cucaracha Mirta enseñan a preparar platos de manera divertida y arriesgada, recetas deliciosas con un toque asqueroso.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/17/13179182_041138795D67CDC3.jpg" />
 	</programme>
-	<programme start="20260308170000 +0000" stop="20260308173000 +0000" channel="senal_colombia_b">
+	<programme start="20260308170000 +0000" stop="20260308173000 +0000" channel="senal_colombia">
 		<title lang="es">¿Qué harías tu?</title>
 		<desc lang="es">Una serie para niños donde se busca explorar las opiniones de los niños de la misma edad acerca de temas actuales y éticos, que enfrentan en su vida cotidiana.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13193897_51102293903A0E2D.jpg" />
 	</programme>
-	<programme start="20260308173000 +0000" stop="20260308190000 +0000" channel="senal_colombia_b">
+	<programme start="20260308173000 +0000" stop="20260308190000 +0000" channel="senal_colombia">
 		<title lang="es">RTVC noticias</title>
 		<desc lang="es">Un espacio que tiene como objetivo informar de manera oportuna y dinámica, con contenidos noticiosos que aporten en la construcción de la ciudadanía.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13187413_594CFD167553672E.jpg" />
 	</programme>
-	<programme start="20260308190000 +0000" stop="20260308193000 +0000" channel="senal_colombia_b">
+	<programme start="20260308190000 +0000" stop="20260308193000 +0000" channel="senal_colombia">
 		<title lang="es">Vuela Colombia</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/50/23501386_ab9ea1091c16b6b50b9a36458dc87b58.jpg" />
 	</programme>
-	<programme start="20260308193000 +0000" stop="20260308203000 +0000" channel="senal_colombia_b">
+	<programme start="20260308193000 +0000" stop="20260308203000 +0000" channel="senal_colombia">
 		<title lang="es">En clave con Deysa Rayo</title>
 		<desc lang="es">Entrevistas a distintos músicos nacionales sobre su vida y legado a futuras generaciones.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/84/20840073_ECB52BF84D7D01FE.jpg" />
 	</programme>
-	<programme start="20260308203000 +0000" stop="20260308214500 +0000" channel="senal_colombia_b">
+	<programme start="20260308203000 +0000" stop="20260308214500 +0000" channel="senal_colombia">
 		<title lang="es">Hernán Díaz: El retrato de un artista</title>
 		<desc lang="es">Se honra el legado del fotógrafo colombiano. El documental presenta en exclusiva imágenes del archivo personal del fotógrafo colombiano, permite ver su afición por Nueva York y cómo esta ciudad incidió en su obra.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/11/21114072_23DB894D50487F05.jpg" />
 	</programme>
-	<programme start="20260308214500 +0000" stop="20260309000000 +0000" channel="senal_colombia_b">
+	<programme start="20260308214500 +0000" stop="20260309000000 +0000" channel="senal_colombia">
 		<title lang="es">Siete años en el Tíbet</title>
 		<desc lang="es">Un famoso alpinista austríaco aprende lecciones por parte del joven Dalai Lama sobre la humildad y el altruismo.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/30/20301126_5EBEB7AEBB6D19BC.jpg" />
 	</programme>
-	<programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="senal_colombia_b">
+	<programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="senal_colombia">
 		<title lang="es">RTVC noticias</title>
 		<desc lang="es">Un espacio que tiene como objetivo informar de manera oportuna y dinámica, con contenidos noticiosos que aporten en la construcción de la ciudadanía.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13187413_594CFD167553672E.jpg" />
@@ -24540,194 +24524,194 @@
 		<desc lang="es">Lo más interesante y atractivo de Rusia es presentado por Erick, un personaje de idiosincrasia latinoamericana que llega a Rusia para descubrir el país tal como es, sin prejuicios.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13190123_5670B8ECA706C9EF.jpg" />
 	</programme>
-	<programme start="20260306233000 +0000" stop="20260307000000 +0000" channel="canal_institucional_b">
+	<programme start="20260306233000 +0000" stop="20260307000000 +0000" channel="canal_institucional">
 		<title lang="es">Hechos para el cambio</title>
 		<desc lang="es">Crónicas y reportajes que muestran la transformación social en los territorios colombianos, a partir de las oportunidades ofrecidas por el Gobierno.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/54/23545473_4d2533fb0906414f7a29c5de297e950f.jpg" />
 	</programme>
-	<programme start="20260307000000 +0000" stop="20260307000100 +0000" channel="canal_institucional_b">
+	<programme start="20260307000000 +0000" stop="20260307000100 +0000" channel="canal_institucional">
 		<title lang="es">Colombia 360</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13186433_E0E8ED2F047DECE3.jpg" />
 	</programme>
-	<programme start="20260307000100 +0000" stop="20260307003000 +0000" channel="canal_institucional_b">
+	<programme start="20260307000100 +0000" stop="20260307003000 +0000" channel="canal_institucional">
 		<title lang="es">Enlaces</title>
 		<desc lang="es">Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13189574_F648D7E4E63741C6.jpg" />
 	</programme>
-	<programme start="20260307003000 +0000" stop="20260307013000 +0000" channel="canal_institucional_b">
+	<programme start="20260307003000 +0000" stop="20260307013000 +0000" channel="canal_institucional">
 		<title lang="es">Con voz y paz</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/82/22823056_f107c2c817b57927113fb4cce2b0fe40.jpg" />
 	</programme>
-	<programme start="20260307013000 +0000" stop="20260307014500 +0000" channel="canal_institucional_b">
+	<programme start="20260307013000 +0000" stop="20260307014500 +0000" channel="canal_institucional">
 		<title lang="es">DW Noticias</title>
 		<desc lang="es">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/20/13200942_96A1A7C1313A622E.jpg" />
 	</programme>
-	<programme start="20260307014500 +0000" stop="20260307020000 +0000" channel="canal_institucional_b">
+	<programme start="20260307014500 +0000" stop="20260307020000 +0000" channel="canal_institucional">
 		<title lang="es">Economía</title>
 		<desc lang="es">Información económica detallada y de última hora de Alemania, Europa y América Latina.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13189570_267808ECDFA9DFD3.jpg" />
 	</programme>
-	<programme start="20260307020000 +0000" stop="20260307030000 +0000" channel="canal_institucional_b">
+	<programme start="20260307020000 +0000" stop="20260307030000 +0000" channel="canal_institucional">
 		<title lang="es">La hora gourmet</title>
 		<desc lang="es">Un espacio con contenidos dedicados a la gastronomía de diferentes partes del mundo, y a través de la misma conocer sobre la cultura, tradición, aspecto social y más sobre los países.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/25/22255957_c84e4d1c0abdbf5c268caca5f9f67fa8.jpg" />
 	</programme>
-	<programme start="20260307030000 +0000" stop="20260307033000 +0000" channel="canal_institucional_b">
+	<programme start="20260307030000 +0000" stop="20260307033000 +0000" channel="canal_institucional">
 		<title lang="es">Noches de ficción</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/14/22143234_b64e4af413863aaf0577ac686538ed27.jpg" />
 	</programme>
-	<programme start="20260307033000 +0000" stop="20260307040000 +0000" channel="canal_institucional_b">
+	<programme start="20260307033000 +0000" stop="20260307040000 +0000" channel="canal_institucional">
 		<title lang="es">Noches de ficción</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/14/22143234_b64e4af413863aaf0577ac686538ed27.jpg" />
 	</programme>
-	<programme start="20260307040000 +0000" stop="20260307043000 +0000" channel="canal_institucional_b">
+	<programme start="20260307040000 +0000" stop="20260307043000 +0000" channel="canal_institucional">
 		<title lang="es">La lista de Erick</title>
 		<desc lang="es">Lo más interesante y atractivo de Rusia es presentado por Erick, un personaje de idiosincrasia latinoamericana que llega a Rusia para descubrir el país tal como es, sin prejuicios.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13190123_5670B8ECA706C9EF.jpg" />
 	</programme>
-	<programme start="20260307043000 +0000" stop="20260307050000 +0000" channel="canal_institucional_b">
+	<programme start="20260307043000 +0000" stop="20260307050000 +0000" channel="canal_institucional">
 		<title lang="es">El mundo al vuelo</title>
 		<desc lang="es">Versión restaurada del emblemático programa que acercó las culturas, creencias, gastronomía y otros aspectos de más de 100 países durante 23 años.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13197578_81957A811BEC6C78.jpg" />
 	</programme>
-	<programme start="20260307050000 +0000" stop="20260307063000 +0000" channel="canal_institucional_b">
+	<programme start="20260307050000 +0000" stop="20260307063000 +0000" channel="canal_institucional">
 		<title lang="es">Encuadre real</title>
 		<desc lang="es">Una serie de documentales que contarán los sucesos que han marcado la historia de Colombia y el mundo.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13185055_BAC40F6E723D0206.jpg" />
 	</programme>
-	<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="canal_institucional_b">
+	<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="canal_institucional">
 		<title lang="es">Consciente colectivo</title>
 		<desc lang="es">Un recorrido por las diferentes regiones de Colombia para conocer historias de creatividad, educación y comunicación, como motor cultural del país.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/03/16035029_0CF659EF7E54D8EC.jpg" />
 	</programme>
-	<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="canal_institucional_b">
+	<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="canal_institucional">
 		<title lang="es">De voz a vos</title>
 		<desc lang="es">Un recorrido por la historia de Colombia, construida por indígenas, comunidades afro, mujeres y niños.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13186869_05752D6F42C62C25.jpg" />
 	</programme>
-	<programme start="20260307073000 +0000" stop="20260307080000 +0000" channel="canal_institucional_b">
+	<programme start="20260307073000 +0000" stop="20260307080000 +0000" channel="canal_institucional">
 		<title lang="es">La búsqueda es contigo</title>
 		<desc lang="es">Un proyecto de la Unidad de Búsqueda de Personas Dadas por Desaparecidas.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/14/75/14755668_26B62AEFFBFA2BE0.jpg" />
 	</programme>
-	<programme start="20260307080000 +0000" stop="20260307083000 +0000" channel="canal_institucional_b">
+	<programme start="20260307080000 +0000" stop="20260307083000 +0000" channel="canal_institucional">
 		<title lang="es">Así avanza el cambio</title>
 		<desc lang="es">Hechos, principales avances y detalles de todos los logros del gobierno de Colombia en el último mes.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/39/21394397_C9230CC7934F5AF3.jpg" />
 	</programme>
-	<programme start="20260307083000 +0000" stop="20260307090000 +0000" channel="canal_institucional_b">
+	<programme start="20260307083000 +0000" stop="20260307090000 +0000" channel="canal_institucional">
 		<title lang="es">La palabra</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13198769_A5A09027DA550274.jpg" />
 	</programme>
-	<programme start="20260307090000 +0000" stop="20260307093000 +0000" channel="canal_institucional_b">
+	<programme start="20260307090000 +0000" stop="20260307093000 +0000" channel="canal_institucional">
 		<title lang="es">Camino emprendedor</title>
 		<desc lang="es">Serie documental que acompaña los pasos de personas que se han convertido en verdaderos agentes de cambio a través de sus emprendimientos. Se siguen sus huellas hasta lo profundo de las regiones para descubrir y explorar el potencial de sus ideas.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/86/19869172_05B3A35D5434FC26.jpg" />
 	</programme>
-	<programme start="20260307093000 +0000" stop="20260307100000 +0000" channel="canal_institucional_b">
+	<programme start="20260307093000 +0000" stop="20260307100000 +0000" channel="canal_institucional">
 		<title lang="es">La otra historia</title>
 		<desc lang="es">En este espacio se cuentan las historias que no han sido contadas de Colombia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/64/22647950_809215a73e4ebed1695048a5b305b036.jpg" />
 	</programme>
-	<programme start="20260307100000 +0000" stop="20260307110000 +0000" channel="canal_institucional_b">
+	<programme start="20260307100000 +0000" stop="20260307110000 +0000" channel="canal_institucional">
 		<title lang="es">Colombia documental</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/07/17077933_559F45437EFB78B7.jpg" />
 	</programme>
-	<programme start="20260307110000 +0000" stop="20260307120000 +0000" channel="canal_institucional_b">
+	<programme start="20260307110000 +0000" stop="20260307120000 +0000" channel="canal_institucional">
 		<title lang="es">La hora gourmet</title>
 		<desc lang="es">Un espacio con contenidos dedicados a la gastronomía de diferentes partes del mundo, y a través de la misma conocer sobre la cultura, tradición, aspecto social y más sobre los países.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/25/22255957_c84e4d1c0abdbf5c268caca5f9f67fa8.jpg" />
 	</programme>
-	<programme start="20260307120000 +0000" stop="20260307130000 +0000" channel="canal_institucional_b">
+	<programme start="20260307120000 +0000" stop="20260307130000 +0000" channel="canal_institucional">
 		<title lang="es">Encuadre real</title>
 		<desc lang="es">Una serie de documentales que contarán los sucesos que han marcado la historia de Colombia y el mundo.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13185055_BAC40F6E723D0206.jpg" />
 	</programme>
-	<programme start="20260307130000 +0000" stop="20260307133000 +0000" channel="canal_institucional_b">
+	<programme start="20260307130000 +0000" stop="20260307133000 +0000" channel="canal_institucional">
 		<title lang="es">Noticiero científico y cultural iberoamericano</title>
 		<desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13181286_DE6D15AB98DBEB06.jpg" />
 	</programme>
-	<programme start="20260307133000 +0000" stop="20260307140000 +0000" channel="canal_institucional_b">
+	<programme start="20260307133000 +0000" stop="20260307140000 +0000" channel="canal_institucional">
 		<title lang="es">RT Reporta</title>
 		<desc lang="es">Un programa que permite conocer, a través de la mirada de los periodistas, lo que ocurre delante y detrás de las cámaras en cada lugar del mundo donde se suceden los hechos que se transformarán en noticia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/26/21262053_4D4B17679C3699BC.jpg" />
 	</programme>
-	<programme start="20260307140000 +0000" stop="20260307150000 +0000" channel="canal_institucional_b">
+	<programme start="20260307140000 +0000" stop="20260307150000 +0000" channel="canal_institucional">
 		<title lang="es">Con voz y paz</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/82/22823056_f107c2c817b57927113fb4cce2b0fe40.jpg" />
 	</programme>
-	<programme start="20260307150000 +0000" stop="20260307153000 +0000" channel="canal_institucional_b">
+	<programme start="20260307150000 +0000" stop="20260307153000 +0000" channel="canal_institucional">
 		<title lang="es">Entérese del cambio</title>
 		<desc lang="es">Un espacio en el que se mantiene informada a la comunidad.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/26/13269884_1D395CC44D8E0705.jpg" />
 	</programme>
-	<programme start="20260307153000 +0000" stop="20260307160000 +0000" channel="canal_institucional_b">
+	<programme start="20260307153000 +0000" stop="20260307160000 +0000" channel="canal_institucional">
 		<title lang="es">Colombia en el Mundo</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/50/20505991_C81C6BFF56DAA69D.jpg" />
 	</programme>
-	<programme start="20260307160000 +0000" stop="20260307163000 +0000" channel="canal_institucional_b">
+	<programme start="20260307160000 +0000" stop="20260307163000 +0000" channel="canal_institucional">
 		<title lang="es">Enlaces</title>
 		<desc lang="es">Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13189574_F648D7E4E63741C6.jpg" />
 	</programme>
-	<programme start="20260307163000 +0000" stop="20260307170000 +0000" channel="canal_institucional_b">
+	<programme start="20260307163000 +0000" stop="20260307170000 +0000" channel="canal_institucional">
 		<title lang="es">Global es</title>
 		<desc lang="es">Un tercio de la superficie terrestre es terreno de cultivo. Con frecuencia, las prácticas agrícolas destruyen el suelo, sin embargo, hay muchas alternativas que permiten alimentar al mundo sin acabar con el planeta.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/04/16040182_97ED21D5AE0594AF.jpg" />
 	</programme>
-	<programme start="20260307170000 +0000" stop="20260307173000 +0000" channel="canal_institucional_b">
+	<programme start="20260307170000 +0000" stop="20260307173000 +0000" channel="canal_institucional">
 		<title lang="es">RT Reporta</title>
 		<desc lang="es">Un programa que permite conocer, a través de la mirada de los periodistas, lo que ocurre delante y detrás de las cámaras en cada lugar del mundo donde se suceden los hechos que se transformarán en noticia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/26/21262053_4D4B17679C3699BC.jpg" />
 	</programme>
-	<programme start="20260307173000 +0000" stop="20260307180000 +0000" channel="canal_institucional_b">
+	<programme start="20260307173000 +0000" stop="20260307180000 +0000" channel="canal_institucional">
 		<title lang="es">RT entrevista</title>
 		<desc lang="es">Las personas más influyentes de la política, el deporte o las artes cuentan su historia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/41/19410983_F301F1DD32C2FC98.jpg" />
 	</programme>
-	<programme start="20260307180000 +0000" stop="20260307183000 +0000" channel="canal_institucional_b">
+	<programme start="20260307180000 +0000" stop="20260307183000 +0000" channel="canal_institucional">
 		<title lang="es">La lista de Erick</title>
 		<desc lang="es">Lo más interesante y atractivo de Rusia es presentado por Erick, un personaje de idiosincrasia latinoamericana que llega a Rusia para descubrir el país tal como es, sin prejuicios.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13190123_5670B8ECA706C9EF.jpg" />
 	</programme>
-	<programme start="20260307183000 +0000" stop="20260307190000 +0000" channel="canal_institucional_b">
+	<programme start="20260307183000 +0000" stop="20260307190000 +0000" channel="canal_institucional">
 		<title lang="es">Visión futuro</title>
 		<desc lang="es">Información dirigida a todos aquellos que se interesan por el avance de la ciencia en Europa y, específicamente, en Alemania.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/17/13178866_F24153E80C99ACAA.jpg" />
 	</programme>
-	<programme start="20260307190000 +0000" stop="20260307200000 +0000" channel="canal_institucional_b">
+	<programme start="20260307190000 +0000" stop="20260307200000 +0000" channel="canal_institucional">
 		<title lang="es">La hora gourmet</title>
 		<desc lang="es">Un espacio con contenidos dedicados a la gastronomía de diferentes partes del mundo, y a través de la misma conocer sobre la cultura, tradición, aspecto social y más sobre los países.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/25/22255957_c84e4d1c0abdbf5c268caca5f9f67fa8.jpg" />
 	</programme>
-	<programme start="20260307200000 +0000" stop="20260307203000 +0000" channel="canal_institucional_b">
+	<programme start="20260307200000 +0000" stop="20260307203000 +0000" channel="canal_institucional">
 		<title lang="es">Patrimonio mundial</title>
 		<desc lang="es">Obras extraordinarias de la arquitectura, monumentos sorprendentes y fascinantes paisajes naturales, todos ellos reconocidos por la UNESCO como patrimonios de la humanidad.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13189511_272619E1D2BAF5D6.jpg" />
 	</programme>
-	<programme start="20260307203000 +0000" stop="20260307210000 +0000" channel="canal_institucional_b">
+	<programme start="20260307203000 +0000" stop="20260307210000 +0000" channel="canal_institucional">
 		<title lang="es">¿Cómo te afecta?</title>
 		<desc lang="es">Las nuevas generaciones consumen noticias sobre todo en redes sociales. El programa quiere llegar a jóvenes y adolescentes de América Latina con temas de interés.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/66/17666728_70F7343291913991.jpg" />
 	</programme>
-	<programme start="20260307210000 +0000" stop="20260307213000 +0000" channel="canal_institucional_b">
+	<programme start="20260307210000 +0000" stop="20260307213000 +0000" channel="canal_institucional">
 		<title lang="es">El mundo al vuelo</title>
 		<desc lang="es">Versión restaurada del emblemático programa que acercó las culturas, creencias, gastronomía y otros aspectos de más de 100 países durante 23 años.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13197578_81957A811BEC6C78.jpg" />
 	</programme>
-	<programme start="20260307213000 +0000" stop="20260307220000 +0000" channel="canal_institucional_b">
+	<programme start="20260307213000 +0000" stop="20260307220000 +0000" channel="canal_institucional">
 		<title lang="es">Hechos para el cambio</title>
 		<desc lang="es">Crónicas y reportajes que muestran la transformación social en los territorios colombianos, a partir de las oportunidades ofrecidas por el Gobierno.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/54/23545473_4d2533fb0906414f7a29c5de297e950f.jpg" />
 	</programme>
-	<programme start="20260307220000 +0000" stop="20260307223000 +0000" channel="canal_institucional_b">
+	<programme start="20260307220000 +0000" stop="20260307223000 +0000" channel="canal_institucional">
 		<title lang="es">Territorio de ilusiones</title>
 		<desc lang="es">Las historias de las víctimas, líderes sociales y excombatientes de la guerra entre las FARC y el gobierno de Colombia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13187933_498487362972C84D.jpg" />
 	</programme>
-	<programme start="20260307223000 +0000" stop="20260307230000 +0000" channel="canal_institucional_b">
+	<programme start="20260307223000 +0000" stop="20260307230000 +0000" channel="canal_institucional">
 		<title lang="es">Noticiero científico y cultural iberoamericano</title>
 		<desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13181286_DE6D15AB98DBEB06.jpg" />
@@ -24907,186 +24891,186 @@
 		<desc lang="es">En el desierto de Kalahari, Will conoce al pueblo san y va de cacería para aprender sus secretos de supervivencia, pero se da cuenta de que no está listo para este tipo de aventura.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/37/23374957_556e14dc0fbe4fa832701cfb7d8dab0b.jpg" />
 	</programme>
-	<programme start="20260306231500 +0000" stop="20260307000000 +0000" channel="senal_colombia_b">
+	<programme start="20260306231500 +0000" stop="20260307000000 +0000" channel="senal_colombia">
 		<title lang="es">La minga</title>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/52/23527725_fc31fe3ddb4a63b57c81a02938b71c2a.jpg" />
 	</programme>
-	<programme start="20260307000000 +0000" stop="20260307010000 +0000" channel="senal_colombia_b">
+	<programme start="20260307000000 +0000" stop="20260307010000 +0000" channel="senal_colombia">
 		<title lang="es">RTVC noticias</title>
 		<desc lang="es">Un espacio que tiene como objetivo informar de manera oportuna y dinámica, con contenidos noticiosos que aporten en la construcción de la ciudadanía.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13187413_594CFD167553672E.jpg" />
 	</programme>
-	<programme start="20260307010000 +0000" stop="20260307020000 +0000" channel="senal_colombia_b">
+	<programme start="20260307010000 +0000" stop="20260307020000 +0000" channel="senal_colombia">
 		<title lang="es">Noches de opinión : Ricardo Vargas</title>
 		<desc lang="es">Una edición más en este espacio de diálogo con el maestro Ricardo Vargas Meza.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/98/16986585_1A3F0431CF3F5F2C.jpg" />
 	</programme>
-	<programme start="20260307020000 +0000" stop="20260307023000 +0000" channel="senal_colombia_b">
+	<programme start="20260307020000 +0000" stop="20260307023000 +0000" channel="senal_colombia">
 		<title lang="es">Taxi rap</title>
 		<desc lang="es">A bordo de un taxi adaptado como un estudio móvil, artistas y grupos de hiphop contarán sus sueños, desafíos, expresiones y mostrarán su música para que se conozca en todas las regiones del país.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/98/21985416_b03e18dcb88260c4821d2c3afecbe892.jpg" />
 	</programme>
-	<programme start="20260307023000 +0000" stop="20260307030000 +0000" channel="senal_colombia_b">
+	<programme start="20260307023000 +0000" stop="20260307030000 +0000" channel="senal_colombia">
 		<title lang="es">RTVC noticias</title>
 		<desc lang="es">Un espacio que tiene como objetivo informar de manera oportuna y dinámica, con contenidos noticiosos que aporten en la construcción de la ciudadanía.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13187413_594CFD167553672E.jpg" />
 	</programme>
-	<programme start="20260307030000 +0000" stop="20260307043000 +0000" channel="senal_colombia_b">
+	<programme start="20260307030000 +0000" stop="20260307043000 +0000" channel="senal_colombia">
 		<title lang="es">Mi país imaginario</title>
 		<desc lang="es">En 2019, las protestas estallaron en las calles de Santiago, la capital de Chile, cuando la población exigía más democracia e igualdad social en torno a la educación, la sanidad y las oportunidades laborales.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/52/23520587_d0772972dbae4d9162f473a3e9214514.jpg" />
 	</programme>
-	<programme start="20260307043000 +0000" stop="20260307053000 +0000" channel="senal_colombia_b">
+	<programme start="20260307043000 +0000" stop="20260307053000 +0000" channel="senal_colombia">
 		<title lang="es">Nariño, el Precursor : Noticias muy gordas</title>
 		<desc lang="es">Serie nacional patrimonial.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/44/20448848_F8D886410ED60376.jpg" />
 	</programme>
-	<programme start="20260307053000 +0000" stop="20260307060000 +0000" channel="senal_colombia_b">
+	<programme start="20260307053000 +0000" stop="20260307060000 +0000" channel="senal_colombia">
 		<title lang="es">Tesoros olvidados : Lazareto de Agua de Dios</title>
 		<desc lang="es">A finales del siglo XIX se presentó una peste de lepra en el país. El Gobierno decidió crear zonas para recluir a los enfermos. Agua de Dios fue una de las zonas, y allí dentro del hospital San Rafael fueron aislados los enfermos más graves.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/13/22130371_f5303c0462aa9b4f07c794bf78d9553b.jpg" />
 	</programme>
-	<programme start="20260307060000 +0000" stop="20260307070000 +0000" channel="senal_colombia_b">
+	<programme start="20260307060000 +0000" stop="20260307070000 +0000" channel="senal_colombia">
 		<title lang="es">Hijos de las estrellas : Espectáculos de luz</title>
 		<desc lang="es">Se exploran episodios cósmicos como las auroras boreales, creadas por el sol en los extremos del planeta. Se muestra un antiguo templo construido para marcar el paso de la luz en diferentes épocas del año.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/37/18379746_3F2A5FA25BFC6C93.jpg" />
 	</programme>
-	<programme start="20260307070000 +0000" stop="20260307080000 +0000" channel="senal_colombia_b">
+	<programme start="20260307070000 +0000" stop="20260307080000 +0000" channel="senal_colombia">
 		<title lang="es">Entre ellas y el gol</title>
 		<desc lang="es">Las experiencias e historias de jugadoras, así como de entrenadoras, comentaristas, narradoras, árbitras y otras figuras femeninas del fútbol. Con sus vivencias y desafíos, se convierten en referentes para quienes inician su camino en este deporte.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/08/23084498_4119b226ecb45660ea458f37c1fe280c.jpg" />
 	</programme>
-	<programme start="20260307080000 +0000" stop="20260307090000 +0000" channel="senal_colombia_b">
+	<programme start="20260307080000 +0000" stop="20260307090000 +0000" channel="senal_colombia">
 		<title lang="es">Doctor Faga</title>
 		<desc lang="es">Programa que trata de temas de salud en la infancia y la adolescencia enfocados en temas de crianza, problemática de salud y aspectos sociales que puedan causar problemas en la vida familiar.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13194077_560A247C62751ED1.jpg" />
 	</programme>
-	<programme start="20260307090000 +0000" stop="20260307100000 +0000" channel="senal_colombia_b">
+	<programme start="20260307090000 +0000" stop="20260307100000 +0000" channel="senal_colombia">
 		<title lang="es">Noches de opinión : Ricardo Vargas</title>
 		<desc lang="es">Una edición más en este espacio de diálogo con el maestro Ricardo Vargas Meza.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/98/16986585_1A3F0431CF3F5F2C.jpg" />
 	</programme>
-	<programme start="20260307100000 +0000" stop="20260307110000 +0000" channel="senal_colombia_b">
+	<programme start="20260307100000 +0000" stop="20260307110000 +0000" channel="senal_colombia">
 		<title lang="es">Extramuros : Luis Fernando Ramírez</title>
 		<desc lang="es">Espacio para conocer las historias y las experiencias de diferentes artistas y comunidades de Colombia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/61/22616260_4dc7b441dcef90866e288666ec913539.jpg" />
 	</programme>
-	<programme start="20260307110000 +0000" stop="20260307113000 +0000" channel="senal_colombia_b">
+	<programme start="20260307110000 +0000" stop="20260307113000 +0000" channel="senal_colombia">
 		<title lang="es">Suena la tierra : Identidad campesina</title>
 		<desc lang="es">Tres historias que muestran la lucha por la identidad cultural: Jaime enfrenta a las grandes constructoras de la ciudad. El valor artesanal del sombrero vueltiao. Fermín pesca con atarraya para preservar este oficio.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/42/21423649_DAA1D3D0E095FC50.jpg" />
 	</programme>
-	<programme start="20260307113000 +0000" stop="20260307120000 +0000" channel="senal_colombia_b">
+	<programme start="20260307113000 +0000" stop="20260307120000 +0000" channel="senal_colombia">
 		<title lang="es">Los niños del agua</title>
 		<desc lang="es">Niños de todo el mundo descubren valiosos conocimientos procedentes de antiguas civilizaciones para proteger el tesoro más importante que les dejaron sus antepasados: el agua.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/30/20301188_AF266E2FB75A63D2.jpg" />
 	</programme>
-	<programme start="20260307120000 +0000" stop="20260307123000 +0000" channel="senal_colombia_b">
+	<programme start="20260307120000 +0000" stop="20260307123000 +0000" channel="senal_colombia">
 		<title lang="es">El mundo animal de Max Rodríguez</title>
 		<desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina en busca de las especies más salvajes y menos conocidas del continente. Su misión es indagar en las costumbres y hábitos de cada especie.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/17/13177710_E379EC02E538ED0D.jpg" />
 	</programme>
-	<programme start="20260307123000 +0000" stop="20260307124500 +0000" channel="senal_colombia_b">
+	<programme start="20260307123000 +0000" stop="20260307124500 +0000" channel="senal_colombia">
 		<title lang="es">Mi genial y fantástico sasquatch : La caverna secreta</title>
 		<desc lang="es">Dos hermanos viajan por el mundo en búsqueda de los Sasquatch, unas simpáticas criaturas.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/52/23520723_3f09b8a56858b8364de78469ff9e9e98.jpg" />
 	</programme>
-	<programme start="20260307124500 +0000" stop="20260307130000 +0000" channel="senal_colombia_b">
+	<programme start="20260307124500 +0000" stop="20260307130000 +0000" channel="senal_colombia">
 		<title lang="es">Zander : Antes de nacer</title>
 		<desc lang="es">Mila y Leo construyen un robot y viajan a los lugares menos esperados, desde el fondo del mar hasta la era prehistórica o los anillos de Saturno.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/54/23540582_7e8c52cd4e6dea4b2ab6f3e409624336.jpg" />
 	</programme>
-	<programme start="20260307130000 +0000" stop="20260307133000 +0000" channel="senal_colombia_b">
+	<programme start="20260307130000 +0000" stop="20260307133000 +0000" channel="senal_colombia">
 		<title lang="es">Puerto papel</title>
 		<desc lang="es">Matilde, una niña de 12 años, llega a un pueblo de la costa de Puerto Papel a la casa de su abuelo Barba Crespa, en donde pasará las vacaciones. Tras un accidente, adquiere un poder cada día que no puede controlar.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/24/13245238_07FEC33F1AC4C8F7.jpg" />
 	</programme>
-	<programme start="20260307133000 +0000" stop="20260307134500 +0000" channel="senal_colombia_b">
+	<programme start="20260307133000 +0000" stop="20260307134500 +0000" channel="senal_colombia">
 		<title lang="es">Mr. Trance</title>
 		<desc lang="es">Mr. Trance no es un ciudadano normal y corriente, se viste de morado y le pone mucho humor y color a todas las situaciones cotidianas que puedan desorientar su vida normal.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/24/13245973_671315427A1786A8.jpg" />
 	</programme>
-	<programme start="20260307134500 +0000" stop="20260307140000 +0000" channel="senal_colombia_b">
+	<programme start="20260307134500 +0000" stop="20260307140000 +0000" channel="senal_colombia">
 		<title lang="es">Tomás, Alba y Édison</title>
 		<desc lang="es">Tomás y Alba son dos niños llenos de curiosidad y ganas de aprender. Edison, el papá de Tomás, les ayudará a adentrarse en el fascinante mundo del conocimiento.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/24/13245532_BD35CF3BFACC734B.jpg" />
 	</programme>
-	<programme start="20260307140000 +0000" stop="20260307141500 +0000" channel="senal_colombia_b">
+	<programme start="20260307140000 +0000" stop="20260307141500 +0000" channel="senal_colombia">
 		<title lang="es">Lolalá, vamos a cantar</title>
 		<desc lang="es">Aprender los números, jugar a las adivinanzas y cantar es mucho más divertido en compañía de Lola, la gallina y sus cinco pollitos. Esta divertida familia mostrará cómo es la vida en la granja y lo mucho que pueden aprender de todos.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/60/18601073_1089F292FE24CE35.jpg" />
 	</programme>
-	<programme start="20260307141500 +0000" stop="20260307143000 +0000" channel="senal_colombia_b">
+	<programme start="20260307141500 +0000" stop="20260307143000 +0000" channel="senal_colombia">
 		<title lang="es">Cuentitos mágicos</title>
 		<desc lang="es">Se tratan temas simples de las vivencias de los niños de 2 a 6 años, lo que los lleva a un imaginario mágico, lleno de personajes inusuales y situaciones inesperadas. Sus protagonistas son moscas cocineras, brócolis cantantes, una galleta y más.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/24/13246348_93233F4152E683BB.jpg" />
 	</programme>
-	<programme start="20260307143000 +0000" stop="20260307150000 +0000" channel="senal_colombia_b">
+	<programme start="20260307143000 +0000" stop="20260307150000 +0000" channel="senal_colombia">
 		<title lang="es">Frailejón Ernesto Pérez y la leyenda de la gota más pura</title>
 		<desc lang="es">El frailejón Ernesto Pérez lucha por conservar y proteger el medioambiente. En cada episodio, él y sus amigos cruzan bosques, mares y campos para cuidar a la mami Tierra mientras viven emocionantes aventuras.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/60/18600679_D4C113645C8C873E.jpg" />
 	</programme>
-	<programme start="20260307150000 +0000" stop="20260307153000 +0000" channel="senal_colombia_b">
+	<programme start="20260307150000 +0000" stop="20260307153000 +0000" channel="senal_colombia">
 		<title lang="es">Oom Moo-Yoga para niños</title>
 		<desc lang="es">Un programa para que los niños disfruten de los beneficios de la tradicional disciplina física y de meditación del yoga. Ocho vacas de diferentes razas y un gato gurú hacen diferentes posiciones para que los niños puedan hacer en casa.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/14/30/14309881_02057F08FCAE615C.jpg" />
 	</programme>
-	<programme start="20260307153000 +0000" stop="20260307154500 +0000" channel="senal_colombia_b">
+	<programme start="20260307153000 +0000" stop="20260307154500 +0000" channel="senal_colombia">
 		<title lang="es">Doctor W</title>
 		<desc lang="es">Dr. Woody Bonepecker, alias Dr. W, es un delirante doctor que siempre está buscando la verdad de los hechos naturales de la vida cotidiana. En cada episodio explicará a la audiencia distintos fenómenos en su particular, irónico y desopilante estilo.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/49/23499072_a5b9c7fa0b005277e7a58832d0dafc5b.jpg" />
 	</programme>
-	<programme start="20260307154500 +0000" stop="20260307160000 +0000" channel="senal_colombia_b">
+	<programme start="20260307154500 +0000" stop="20260307160000 +0000" channel="senal_colombia">
 		<title lang="es">Don Quijote de la Láctea</title>
 		<desc lang="es">La Infanta Doña Aldonza busca a don Quijote y Sancho para averiguar el origen de las palabras, guiados por el conocimiento de Dulcinea 300, una guardiana de palabras.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/87/20876312_A2EE8B6DB70CA3C9.jpg" />
 	</programme>
-	<programme start="20260307160000 +0000" stop="20260307163000 +0000" channel="senal_colombia_b">
+	<programme start="20260307160000 +0000" stop="20260307163000 +0000" channel="senal_colombia">
 		<title lang="es">Juani y Gatón</title>
 		<desc lang="es">Juani y Gatón recorren el universo en un sofá que se convierte en nave espacial, buscando responder todas sus dudas. Emocionantes historias y lugares harán que vivan miles de aventuras.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/91/20919211_6C9B746019328D85.jpg" />
 	</programme>
-	<programme start="20260307163000 +0000" stop="20260307170000 +0000" channel="senal_colombia_b">
+	<programme start="20260307163000 +0000" stop="20260307170000 +0000" channel="senal_colombia">
 		<title lang="es">Asquerosamente rico</title>
 		<desc lang="es">El chef Giovanni, la rata Marta y la cucaracha Mirta enseñan a preparar platos de manera divertida y arriesgada, recetas deliciosas con un toque asqueroso.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/17/13179182_041138795D67CDC3.jpg" />
 	</programme>
-	<programme start="20260307170000 +0000" stop="20260307173000 +0000" channel="senal_colombia_b">
+	<programme start="20260307170000 +0000" stop="20260307173000 +0000" channel="senal_colombia">
 		<title lang="es">¿Qué harías tu?</title>
 		<desc lang="es">Una serie para niños donde se busca explorar las opiniones de los niños de la misma edad acerca de temas actuales y éticos, que enfrentan en su vida cotidiana.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/19/13193897_51102293903A0E2D.jpg" />
 	</programme>
-	<programme start="20260307173000 +0000" stop="20260307190000 +0000" channel="senal_colombia_b">
+	<programme start="20260307173000 +0000" stop="20260307190000 +0000" channel="senal_colombia">
 		<title lang="es">RTVC noticias</title>
 		<desc lang="es">Un espacio que tiene como objetivo informar de manera oportuna y dinámica, con contenidos noticiosos que aporten en la construcción de la ciudadanía.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/18/13187413_594CFD167553672E.jpg" />
 	</programme>
-	<programme start="20260307190000 +0000" stop="20260307193000 +0000" channel="senal_colombia_b">
+	<programme start="20260307190000 +0000" stop="20260307193000 +0000" channel="senal_colombia">
 		<title lang="es">Todo lo que vemos</title>
 		<desc lang="es">Programa que aborda las temáticas originadas por la audiencia a través de sus inquietudes y preguntas. Un espacio que reconoce a quienes dedican su tiempo a ver la programación.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/20/13200461_AA791CE7D78F7778.jpg" />
 	</programme>
-	<programme start="20260307193000 +0000" stop="20260307200000 +0000" channel="senal_colombia_b">
+	<programme start="20260307193000 +0000" stop="20260307200000 +0000" channel="senal_colombia">
 		<title lang="es">Onda Pacífico</title>
 		<desc lang="es">Una mirada a las comunidades que habitan el Pacífico colombiano, las cuales rebosan de identidad y cultura.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/05/22058513_05e7e03ec0f96dd54ab03ca832c3a233.jpg" />
 	</programme>
-	<programme start="20260307200000 +0000" stop="20260307203000 +0000" channel="senal_colombia_b">
+	<programme start="20260307200000 +0000" stop="20260307203000 +0000" channel="senal_colombia">
 		<title lang="es">Colombia verso a verso</title>
 		<desc lang="es">Un espacio literario dedicado a la poesía nacional y latinoamericana, donde se resalta lo simple y lo cotidiano en las palabras de los colombianos.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/12/22125165_ff610cf24eabf834d5c4481ff77c6c32.jpg" />
 	</programme>
-	<programme start="20260307203000 +0000" stop="20260307210000 +0000" channel="senal_colombia_b">
+	<programme start="20260307203000 +0000" stop="20260307210000 +0000" channel="senal_colombia">
 		<title lang="es">Señal literaria : Víctor Cabezas</title>
 		<desc lang="es">Un programa pensado para aquellas personas a quienes les gusta la lectura, que será invaluable con el paso del tiempo, pues sus registros serán un documento histórico que dará cuenta de lo que se escribía en diferentes épocas.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/53/23537823_cc5ab84e3216fc019f627461f7423b23.jpg" />
 	</programme>
-	<programme start="20260307210000 +0000" stop="20260307220000 +0000" channel="senal_colombia_b">
+	<programme start="20260307210000 +0000" stop="20260307220000 +0000" channel="senal_colombia">
 		<title lang="es">Extramuros</title>
 		<desc lang="es">Espacio para conocer las historias y las experiencias de diferentes artistas y comunidades de Colombia.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/16/22167638_b57fff83b9e0e6f7074ee6b138e21d77.jpg" />
 	</programme>
-	<programme start="20260307220000 +0000" stop="20260307230000 +0000" channel="senal_colombia_b">
+	<programme start="20260307220000 +0000" stop="20260307230000 +0000" channel="senal_colombia">
 		<title lang="es">Diálogos con Camilo Bogotá</title>
 		<desc lang="es">Un espacio que aborda temas de interés social, cultural y ambiental, con las voces de expertos académicos y de las comunidades.</desc>
 		<icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/41/23411376_14fba08924dc798e044c9e1ca02bceab.jpg" />
@@ -46897,505 +46881,505 @@
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_el-palenque_l_m.jpg" />
 	</programme>
-	<programme start="20260308040000 +0000" stop="20260308063000 +0000">
+	<programme start="20260308040000 +0000" stop="20260308063000 +0000" channel="cosmovision">
 		<title lang="es">Cine Cosmovisión</title>
 		<desc lang="es">Disfruta de una selección de las mejores películas.</desc>
 		<category lang="es">Película</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_cine-cosmovision_l_m.jpg" />
 	</programme>
-	<programme start="20260308063000 +0000" stop="20260308070000 +0000">
+	<programme start="20260308063000 +0000" stop="20260308070000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308070000 +0000" stop="20260308080000 +0000">
+	<programme start="20260308070000 +0000" stop="20260308080000 +0000" channel="cosmovision">
 		<title lang="es">La tertulia política</title>
 		<desc lang="es">Felipe Vélez analiza los temas más relevantes de la política actual en Colombia. Junto a diversos expertos invitados, el presentador reflexiona sobre la actualidad del país.</desc>
 		<category lang="es">Político</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308080000 +0000" stop="20260308100000 +0000">
+	<programme start="20260308080000 +0000" stop="20260308100000 +0000" channel="cosmovision">
 		<title lang="es">Cine Cosmovisión</title>
 		<desc lang="es">Disfruta de una selección de las mejores películas.</desc>
 		<category lang="es">Película</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_cine-cosmovision_l_m.jpg" />
 	</programme>
-	<programme start="20260308100000 +0000" stop="20260308110000 +0000">
+	<programme start="20260308100000 +0000" stop="20260308110000 +0000" channel="cosmovision">
 		<title lang="es">Viaje a las estrellas</title>
 		<desc lang="es">Viaje a las Estrellas es un programa especial que intenta resolver las preguntas que desde siglos inmemoriales el humano siempre se ha hecho. Nuestro verdadero origen, si venimos de las estrellas, si hay más vida en el universo y más temas.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_viaje-a-las-estrellas_l_m.jpg" />
 	</programme>
-	<programme start="20260308110000 +0000" stop="20260308120000 +0000">
+	<programme start="20260308110000 +0000" stop="20260308120000 +0000" channel="cosmovision">
 		<title lang="es">Misa</title>
 		<desc lang="es">La Santa Misa lleva a los televidentes el mensaje semanal de la Iglesia Católica</desc>
 		<category lang="es">Religioso</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_misa_l_m.jpg" />
 	</programme>
-	<programme start="20260308120000 +0000" stop="20260308123000 +0000">
+	<programme start="20260308120000 +0000" stop="20260308123000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308123000 +0000" stop="20260309010000 +0000">
+	<programme start="20260308123000 +0000" stop="20260309010000 +0000" channel="cosmovision">
 		<title lang="es">Es tu futuro</title>
 		<desc lang="es">Es tu futuro Abogados es una compañía dedicada a la representación administrativa y judicial de personas naturales ante empresas públicas y privadas, en la reclamación de sus derechos laborales y de seguridad social.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_es-tu-futuro_l_m.jpg" />
 	</programme>
-	<programme start="20260309010000 +0000" stop="20260309020000 +0000">
+	<programme start="20260309010000 +0000" stop="20260309020000 +0000" channel="cosmovision">
 		<title lang="es">Misa</title>
 		<desc lang="es">La Santa Misa lleva a los televidentes el mensaje semanal de la Iglesia Católica</desc>
 		<category lang="es">Religioso</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_misa_l_m.jpg" />
 	</programme>
-	<programme start="20260309020000 +0000" stop="20260309030000 +0000">
+	<programme start="20260309020000 +0000" stop="20260309030000 +0000" channel="cosmovision">
 		<title lang="es">Viaje a las estrellas</title>
 		<desc lang="es">Viaje a las Estrellas es un programa especial que intenta resolver las preguntas que desde siglos inmemoriales el humano siempre se ha hecho. Nuestro verdadero origen, si venimos de las estrellas, si hay más vida en el universo y más temas.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_viaje-a-las-estrellas_l_m.jpg" />
 	</programme>
-	<programme start="20260309030000 +0000" stop="20260309033000 +0000">
+	<programme start="20260309030000 +0000" stop="20260309033000 +0000" channel="cosmovision">
 		<title lang="es">Visión empresarial</title>
 		<desc lang="es">Un espacio que brinda información sobre las principales novedades, tendencias e innovaciones que surgen en el ámbito empresarial nacional e internacional. Cada edición cuenta con datos de interés, informes, curiosidades y consejos útiles.</desc>
 		<category lang="es">Economía</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_vision-empresarial_l_m.jpg" />
 	</programme>
-	<programme start="20260309033000 +0000" stop="20260309040000 +0000">
+	<programme start="20260309033000 +0000" stop="20260309040000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309040000 +0000" stop="20260309043000 +0000">
+	<programme start="20260309040000 +0000" stop="20260309043000 +0000" channel="cosmovision">
 		<title lang="es">Vibart dental</title>
 		<desc lang="es">Un espacio informecial acerca de la Clínica dental Vibart del Carlos Villegas Bateman. A través del espacio,el público podrá informarse sobre tratamientos, atención a pacientes y mucho más.</desc>
 		<category lang="es">Publicidad</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309043000 +0000" stop="20260309050000 +0000">
+	<programme start="20260309043000 +0000" stop="20260309050000 +0000" channel="cosmovision">
 		<title lang="es">Rescatando sonrisas</title>
 		<desc lang="es">Programa de televisión de la clínica odontológica Oralstudio junto al Dr José Fernando Espitia. Durante el espacio, se muestran y explican casos odontológicos de alta complejidad para demostrar el trabajo del centro médico.</desc>
 		<category lang="es">Salud</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309050000 +0000" stop="20260309053000 +0000">
+	<programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309053000 +0000" stop="20260309060000 +0000">
+	<programme start="20260309053000 +0000" stop="20260309060000 +0000" channel="cosmovision">
 		<title lang="es">Es tu futuro</title>
 		<desc lang="es">Es tu futuro Abogados es una compañía dedicada a la representación administrativa y judicial de personas naturales ante empresas públicas y privadas, en la reclamación de sus derechos laborales y de seguridad social.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_es-tu-futuro_l_m.jpg" />
 	</programme>
-	<programme start="20260309060000 +0000" stop="20260309070000 +0000">
+	<programme start="20260309060000 +0000" stop="20260309070000 +0000" channel="cosmovision">
 		<title lang="es">Misa</title>
 		<desc lang="es">La Santa Misa lleva a los televidentes el mensaje semanal de la Iglesia Católica</desc>
 		<category lang="es">Religioso</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_misa_l_m.jpg" />
 	</programme>
-	<programme start="20260309070000 +0000" stop="20260309080000 +0000">
+	<programme start="20260309070000 +0000" stop="20260309080000 +0000" channel="cosmovision">
 		<title lang="es">La tertulia política</title>
 		<desc lang="es">Felipe Vélez analiza los temas más relevantes de la política actual en Colombia. Junto a diversos expertos invitados, el presentador reflexiona sobre la actualidad del país.</desc>
 		<category lang="es">Político</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309080000 +0000" stop="20260309083000 +0000">
+	<programme start="20260309080000 +0000" stop="20260309083000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309083000 +0000" stop="20260309090000 +0000">
+	<programme start="20260309083000 +0000" stop="20260309090000 +0000" channel="cosmovision">
 		<title lang="es">Viajando a la carta</title>
 		<desc lang="es">Una guía acerca de los lugares de Colombia y el mundo más destacados para visitar en las vacaciones. El espacio propone recomendaciones, noticias y consejos para lograr que el viaje sea la mejor experiencia.</desc>
 		<category lang="es">Turismo</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_viajando-a-la-carta_l_m.jpg" />
 	</programme>
-	<programme start="20260309090000 +0000" stop="20260309093000 +0000">
+	<programme start="20260309090000 +0000" stop="20260309093000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309093000 +0000" stop="20260309103000 +0000">
+	<programme start="20260309093000 +0000" stop="20260309103000 +0000" channel="cosmovision">
 		<title lang="es">Viaje a las estrellas</title>
 		<desc lang="es">Viaje a las Estrellas es un programa especial que intenta resolver las preguntas que desde siglos inmemoriales el humano siempre se ha hecho. Nuestro verdadero origen, si venimos de las estrellas, si hay más vida en el universo y más temas.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_viaje-a-las-estrellas_l_m.jpg" />
 	</programme>
-	<programme start="20260309103000 +0000" stop="20260309110000 +0000">
+	<programme start="20260309103000 +0000" stop="20260309110000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309110000 +0000" stop="20260309120000 +0000">
+	<programme start="20260309110000 +0000" stop="20260309120000 +0000" channel="cosmovision">
 		<title lang="es">La tertulia política</title>
 		<desc lang="es">Felipe Vélez analiza los temas más relevantes de la política actual en Colombia. Junto a diversos expertos invitados, el presentador reflexiona sobre la actualidad del país.</desc>
 		<category lang="es">Político</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309120000 +0000" stop="20260309123000 +0000">
+	<programme start="20260309120000 +0000" stop="20260309123000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309123000 +0000" stop="20260310010000 +0000">
+	<programme start="20260309123000 +0000" stop="20260310010000 +0000" channel="cosmovision">
 		<title lang="es">Es tu futuro</title>
 		<desc lang="es">Es tu futuro Abogados es una compañía dedicada a la representación administrativa y judicial de personas naturales ante empresas públicas y privadas, en la reclamación de sus derechos laborales y de seguridad social.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_es-tu-futuro_l_m.jpg" />
 	</programme>
-	<programme start="20260310010000 +0000" stop="20260310020000 +0000">
+	<programme start="20260310010000 +0000" stop="20260310020000 +0000" channel="cosmovision">
 		<title lang="es">Viaje a las estrellas</title>
 		<desc lang="es">Viaje a las Estrellas es un programa especial que intenta resolver las preguntas que desde siglos inmemoriales el humano siempre se ha hecho. Nuestro verdadero origen, si venimos de las estrellas, si hay más vida en el universo y más temas.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_viaje-a-las-estrellas_l_m.jpg" />
 	</programme>
-	<programme start="20260310020000 +0000" stop="20260310023000 +0000">
+	<programme start="20260310020000 +0000" stop="20260310023000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260310023000 +0000" stop="20260310040000 +0000">
+	<programme start="20260310023000 +0000" stop="20260310040000 +0000" channel="cosmovision">
 		<title lang="es">La cofradia</title>
 		<desc lang="es">Un espacio de contenido religioso en el que un grupo de amigos se reúne los domingos a contar historias a través del arte, la música y la interpretación. La cosmovisión es la forma en la que se concibe el mundo en sus distintas variables.</desc>
 		<category lang="es">Religioso</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260310040000 +0000" stop="20260310050000 +0000">
+	<programme start="20260310040000 +0000" stop="20260310050000 +0000" channel="cosmovision">
 		<title lang="es">Cine Cosmovisión</title>
 		<desc lang="es">Disfruta de una selección de las mejores películas.</desc>
 		<category lang="es">Película</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_cine-cosmovision_l_m.jpg" />
 	</programme>
-	<programme start="20260307050000 +0000" stop="20260307063000 +0000">
+	<programme start="20260307050000 +0000" stop="20260307063000 +0000" channel="cosmovision">
 		<title lang="es">Nos cogió la noche</title>
 		<desc lang="es">Se ponen sobre la mesa los temas más candentes del momento, los cuales son tratados por invitados con diferentes puntos de vista que marcan sus posiciones con argumentos de peso para conectarte con la realidad de los hechos.</desc>
 		<category lang="es">Periodístico</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_nos-cogio-la-noche_l_m.jpg" />
 	</programme>
-	<programme start="20260307063000 +0000" stop="20260307073000 +0000">
+	<programme start="20260307063000 +0000" stop="20260307073000 +0000" channel="cosmovision">
 		<title lang="es">Nos cogió la noche - Opinión</title>
 		<desc lang="es">Programa de opinión política y actualidad de Antioquia dirigido por Nacho López, que aborda temas locales y nacionales con análisis profundo, buscando educar y fomentar el debate público. Se caracteriza por su enfoque crítico.</desc>
 		<category lang="es">Noticiero</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260307073000 +0000" stop="20260307100000 +0000">
+	<programme start="20260307073000 +0000" stop="20260307100000 +0000" channel="cosmovision">
 		<title lang="es">Cine Cosmovisión</title>
 		<desc lang="es">Disfruta de una selección de las mejores películas.</desc>
 		<category lang="es">Película</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_cine-cosmovision_l_m.jpg" />
 	</programme>
-	<programme start="20260307100000 +0000" stop="20260307103000 +0000">
+	<programme start="20260307100000 +0000" stop="20260307103000 +0000" channel="cosmovision">
 		<title lang="es">Misa</title>
 		<desc lang="es">La Santa Misa lleva a los televidentes el mensaje semanal de la Iglesia Católica</desc>
 		<category lang="es">Religioso</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_misa_l_m.jpg" />
 	</programme>
-	<programme start="20260307103000 +0000" stop="20260307110000 +0000">
+	<programme start="20260307103000 +0000" stop="20260307110000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260307110000 +0000" stop="20260307113000 +0000">
+	<programme start="20260307110000 +0000" stop="20260307113000 +0000" channel="cosmovision">
 		<title lang="es">Misa</title>
 		<desc lang="es">La Santa Misa lleva a los televidentes el mensaje semanal de la Iglesia Católica</desc>
 		<category lang="es">Religioso</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_misa_l_m.jpg" />
 	</programme>
-	<programme start="20260307113000 +0000" stop="20260307120000 +0000">
+	<programme start="20260307113000 +0000" stop="20260307120000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260307120000 +0000" stop="20260307123000 +0000">
+	<programme start="20260307120000 +0000" stop="20260307123000 +0000" channel="cosmovision">
 		<title lang="es">Es tu futuro</title>
 		<desc lang="es">Es tu futuro Abogados es una compañía dedicada a la representación administrativa y judicial de personas naturales ante empresas públicas y privadas, en la reclamación de sus derechos laborales y de seguridad social.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_es-tu-futuro_l_m.jpg" />
 	</programme>
-	<programme start="20260307123000 +0000" stop="20260308010000 +0000">
+	<programme start="20260307123000 +0000" stop="20260308010000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308010000 +0000" stop="20260308013000 +0000">
+	<programme start="20260308010000 +0000" stop="20260308013000 +0000" channel="cosmovision">
 		<title lang="es">Misa</title>
 		<desc lang="es">La Santa Misa lleva a los televidentes el mensaje semanal de la Iglesia Católica</desc>
 		<category lang="es">Religioso</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_misa_l_m.jpg" />
 	</programme>
-	<programme start="20260308013000 +0000" stop="20260308020000 +0000">
+	<programme start="20260308013000 +0000" stop="20260308020000 +0000" channel="cosmovision">
 		<title lang="es">Viajando a la carta</title>
 		<desc lang="es">Una guía acerca de los lugares de Colombia y el mundo más destacados para visitar en las vacaciones. El espacio propone recomendaciones, noticias y consejos para lograr que el viaje sea la mejor experiencia.</desc>
 		<category lang="es">Turismo</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_viajando-a-la-carta_l_m.jpg" />
 	</programme>
-	<programme start="20260308020000 +0000" stop="20260308030000 +0000">
+	<programme start="20260308020000 +0000" stop="20260308030000 +0000" channel="cosmovision">
 		<title lang="es">Viaje a las estrellas</title>
 		<desc lang="es">Viaje a las Estrellas es un programa especial que intenta resolver las preguntas que desde siglos inmemoriales el humano siempre se ha hecho. Nuestro verdadero origen, si venimos de las estrellas, si hay más vida en el universo y más temas.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_viaje-a-las-estrellas_l_m.jpg" />
 	</programme>
-	<programme start="20260308030000 +0000" stop="20260308033000 +0000">
+	<programme start="20260308030000 +0000" stop="20260308033000 +0000" channel="cosmovision">
 		<title lang="es">Rescatando sonrisas</title>
 		<desc lang="es">Programa de televisión de la clínica odontológica Oralstudio junto al Dr José Fernando Espitia. Durante el espacio, se muestran y explican casos odontológicos de alta complejidad para demostrar el trabajo del centro médico.</desc>
 		<category lang="es">Salud</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308033000 +0000" stop="20260308043000 +0000">
+	<programme start="20260308033000 +0000" stop="20260308043000 +0000" channel="cosmovision">
 		<title lang="es">La tertulia política</title>
 		<desc lang="es">Felipe Vélez analiza los temas más relevantes de la política actual en Colombia. Junto a diversos expertos invitados, el presentador reflexiona sobre la actualidad del país.</desc>
 		<category lang="es">Político</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308043000 +0000" stop="20260308050000 +0000">
+	<programme start="20260308043000 +0000" stop="20260308050000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308050000 +0000" stop="20260308053000 +0000">
+	<programme start="20260308050000 +0000" stop="20260308053000 +0000" channel="cosmovision">
 		<title lang="es">Es tu futuro</title>
 		<desc lang="es">Es tu futuro Abogados es una compañía dedicada a la representación administrativa y judicial de personas naturales ante empresas públicas y privadas, en la reclamación de sus derechos laborales y de seguridad social.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_es-tu-futuro_l_m.jpg" />
 	</programme>
-	<programme start="20260308053000 +0000" stop="20260308060000 +0000">
+	<programme start="20260308053000 +0000" stop="20260308060000 +0000" channel="cosmovision">
 		<title lang="es">PodCast NCN</title>
 		<desc lang="es">Programa de información, análisis y opinión que desarrolla temas regionales y nacionales. Junto a periodistas y expertos, el público podrá informarse al completo sobre la relidada.</desc>
 		<category lang="es">Talk Show</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308060000 +0000" stop="20260308063000 +0000">
+	<programme start="20260308060000 +0000" stop="20260308063000 +0000" channel="cosmovision">
 		<title lang="es">Viajando a la carta</title>
 		<desc lang="es">Una guía acerca de los lugares de Colombia y el mundo más destacados para visitar en las vacaciones. El espacio propone recomendaciones, noticias y consejos para lograr que el viaje sea la mejor experiencia.</desc>
 		<category lang="es">Turismo</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_viajando-a-la-carta_l_m.jpg" />
 	</programme>
-	<programme start="20260308073000 +0000" stop="20260308083000 +0000">
+	<programme start="20260308073000 +0000" stop="20260308083000 +0000" channel="cosmovision">
 		<title lang="es">La tertulia política</title>
 		<desc lang="es">Felipe Vélez analiza los temas más relevantes de la política actual en Colombia. Junto a diversos expertos invitados, el presentador reflexiona sobre la actualidad del país.</desc>
 		<category lang="es">Político</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308083000 +0000" stop="20260308110000 +0000">
+	<programme start="20260308083000 +0000" stop="20260308110000 +0000" channel="cosmovision">
 		<title lang="es">Cine Cosmovisión</title>
 		<desc lang="es">Disfruta de una selección de las mejores películas.</desc>
 		<category lang="es">Película</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_cine-cosmovision_l_m.jpg" />
 	</programme>
-	<programme start="20260308113000 +0000" stop="20260308120000 +0000">
+	<programme start="20260308113000 +0000" stop="20260308120000 +0000" channel="cosmovision">
 		<title lang="es">Viajando a la carta</title>
 		<desc lang="es">Una guía acerca de los lugares de Colombia y el mundo más destacados para visitar en las vacaciones. El espacio propone recomendaciones, noticias y consejos para lograr que el viaje sea la mejor experiencia.</desc>
 		<category lang="es">Turismo</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_viajando-a-la-carta_l_m.jpg" />
 	</programme>
-	<programme start="20260309013000 +0000" stop="20260309023000 +0000">
+	<programme start="20260309013000 +0000" stop="20260309023000 +0000" channel="cosmovision">
 		<title lang="es">Viaje a las estrellas</title>
 		<desc lang="es">Viaje a las Estrellas es un programa especial que intenta resolver las preguntas que desde siglos inmemoriales el humano siempre se ha hecho. Nuestro verdadero origen, si venimos de las estrellas, si hay más vida en el universo y más temas.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_viaje-a-las-estrellas_l_m.jpg" />
 	</programme>
-	<programme start="20260309023000 +0000" stop="20260309040000 +0000">
+	<programme start="20260309023000 +0000" stop="20260309040000 +0000" channel="cosmovision">
 		<title lang="es">La cofradia</title>
 		<desc lang="es">Un espacio de contenido religioso en el que un grupo de amigos se reúne los domingos a contar historias a través del arte, la música y la interpretación. La cosmovisión es la forma en la que se concibe el mundo en sus distintas variables.</desc>
 		<category lang="es">Religioso</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308090000 +0000" stop="20260308093000 +0000">
+	<programme start="20260308090000 +0000" stop="20260308093000 +0000" channel="cosmovision">
 		<title lang="es">La búsqueda es contigo</title>
 		<desc lang="es">Historias de los familiares de los desaparecidos: las afectaciones familiares, los saberes adquiridos en el proceso, el liderazgo y el trabajo de los colectivos, y por último, las expresiones artísticas y literarias de la búsqueda.</desc>
 		<category lang="es">Documental</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_la-busqueda-es-contigo_l_m.jpg" />
 	</programme>
-	<programme start="20260308093000 +0000" stop="20260308100000 +0000">
+	<programme start="20260308093000 +0000" stop="20260308100000 +0000" channel="cosmovision">
 		<title lang="es">Consciente colectivo</title>
 		<desc lang="es">Un recorrido por las diferentes regiones de Colombia para conocer historias de creatividad, educación y comunicación, como motor cultural del país.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_consciente-colectivo_l_m.jpg" />
 	</programme>
-	<programme start="20260309031500 +0000" stop="20260309033000 +0000">
+	<programme start="20260309031500 +0000" stop="20260309033000 +0000" channel="cosmovision">
 		<title lang="es">DW analiza</title>
 		<desc lang="es">Ponemos en contexto la actualidad internacional y analizamos el contexto de los hechos. Hablamos con especialistas para conocer todos los ángulos de la noticia y presentamos todo con un lenguaje para acercar a los más jóvenes.</desc>
 		<category lang="es">Noticiero</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_dw-analiza_l_m.jpg" />
 	</programme>
-	<programme start="20260309063000 +0000" stop="20260309070000 +0000">
+	<programme start="20260309063000 +0000" stop="20260309070000 +0000" channel="cosmovision">
 		<title lang="es">Noticias cámara de representantes</title>
 		<desc lang="es">Resumen semanal sobre las noticias más relevantes e impactantes de la Cámara de Representantes de Colombia con los hechos ocurridos en esta instancia junto con los testimonios de sus protagonistas, bajo un enfoque holístico.</desc>
 		<category lang="es">Periodístico</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_noticias-camara-de-representantes_l_m.jpg" />
 	</programme>
-	<programme start="20260309100000 +0000" stop="20260309103000 +0000">
+	<programme start="20260309100000 +0000" stop="20260309103000 +0000" channel="cosmovision">
 		<title lang="es">Chancho y vaca</title>
 		<desc lang="es">Chancho y Vaca recorrerán distintas ciudades y municipios del país, dialogando con la gente sobre sus preocupaciones económicas y las prácticas monetarias que pueden usar. Visibiliza la importancia de conocer cómo funciona la economía.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309113000 +0000" stop="20260309120000 +0000">
+	<programme start="20260309113000 +0000" stop="20260309120000 +0000" channel="cosmovision">
 		<title lang="es">Entérese del cambio: Diálogos regionales vinculantes</title>
 		<desc lang="es">Retransmisión de los Diálogos Regionales Vinculantes que se llevan a cabo en Colombia. Estos eventos son espacios donde el Gobierno nacional escuchará las necesidades, peticiones y propuestas de los diferentes territorios.</desc>
 		<category lang="es">Político</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309120100 +0000" stop="20260309123000 +0000">
+	<programme start="20260309120100 +0000" stop="20260309123000 +0000" channel="cosmovision">
 		<title lang="es">Entre-vistas con alma de país</title>
 		<desc lang="es">Patricia Pardo realiza entrevistas de opinión donde se resalta al ser humano detrás de un personaje que aporta su conocimiento al progreso nacional desde su profesión y vocación, dando su visión de país frente a la realidad de Colombia.</desc>
 		<category lang="es">Entrevista</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_entre-vistas-con-alma-de-pais_l_m.jpg" />
 	</programme>
-	<programme start="20260310013000 +0000" stop="20260310020000 +0000">
+	<programme start="20260310013000 +0000" stop="20260310020000 +0000" channel="cosmovision">
 		<title lang="es">Las gestas del tiempo</title>
 		<desc lang="es">Cuenta, a través de experiencias interactivas, información histórica que gira alrededor de la independencia de la Nueva Granada en 1819.</desc>
 		<category lang="es">Entretenimientos</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260310030000 +0000" stop="20260310040000 +0000">
+	<programme start="20260310030000 +0000" stop="20260310040000 +0000" channel="cosmovision">
 		<title lang="es">Colombia documental</title>
 		<desc lang="es">Un espacio que presenta diversos contenidos para que el público amplíe sus conocimientos sobre el mundo.</desc>
 		<category lang="es">Documental</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260310043000 +0000" stop="20260310050000 +0000">
+	<programme start="20260310043000 +0000" stop="20260310050000 +0000" channel="cosmovision">
 		<title lang="es">El mundo al vuelo</title>
 		<desc lang="es">Serie documental dirigida y conducida por Héctor Mora que presentó distintos escenarios internacionales desde la óptica del turismo cultural.</desc>
 		<category lang="es">Documental</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_el-mundo-al-vuelo_l_m.jpg" />
 	</programme>
-	<programme start="20260310050000 +0000" stop="20260310060000 +0000">
+	<programme start="20260310050000 +0000" stop="20260310060000 +0000" channel="cosmovision">
 		<title lang="es">Encuadre real</title>
 		<desc lang="es">Historias reales que cuentan otra forma de vivir y de ver la vida. Documentales que cuentan los sucesos que han marcado la historia de nuestro país.</desc>
 		<category lang="es">Documental</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_encuadre-real_l_m.jpg" />
 	</programme>
-	<programme start="20260307070000 +0000" stop="20260307073000 +0000">
+	<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="cosmovision">
 		<title lang="es">De voz a vos</title>
 		<desc lang="es">Descubre una parte de la historia que no nos habían contado antes.</desc>
 		<category lang="es">Interés general</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_de-voz-a-vos_l_m.jpg" />
 	</programme>
-	<programme start="20260307080000 +0000" stop="20260307083000 +0000">
+	<programme start="20260307080000 +0000" stop="20260307083000 +0000" channel="cosmovision">
 		<title lang="es">Así avanza el cambio</title>
 		<desc lang="es">El programa "Así avanza el cambio" destaca los esfuerzos del gobierno colombiano por lograr una transformación nacional, haciendo hincapié en diversas iniciativas destinadas a impulsar el desarrollo del país y mejorar su posición...</desc>
 		<category lang="es">Político</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260307083000 +0000" stop="20260307090000 +0000">
+	<programme start="20260307083000 +0000" stop="20260307090000 +0000" channel="cosmovision">
 		<title lang="es">La palabra</title>
 		<desc lang="es">Un espacio de Radiónica donde los jóvenes de todo el país cuentan su visión del mundo, desde diversas disciplinas y temáticas. Un diálogo nacional que involucra las ciudades y zonas rurales para hablar de realidad y actualidad.</desc>
 		<category lang="es">Noticiero</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_la-palabra_l_m.jpg" />
 	</programme>
-	<programme start="20260307090000 +0000" stop="20260307093000 +0000">
+	<programme start="20260307090000 +0000" stop="20260307093000 +0000" channel="cosmovision">
 		<title lang="es">Camino emprendedor</title>
 		<desc lang="es">Camino emprendedor es un proyecto en el que se busca exaltar a los emprendedores colombianos, retratar su perseverancia, fuerza mental y amor por lo que hacen, características que los han llevado a hacer realidad sus ideas.</desc>
 		<category lang="es">Documental</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260307093000 +0000" stop="20260307100000 +0000">
+	<programme start="20260307093000 +0000" stop="20260307100000 +0000" channel="cosmovision">
 		<title lang="es">La otra historia</title>
 		<desc lang="es">El espacio permite conocer los momentos más polémicos de la vida de la Argentina revelando aspectos desconocidos de la historia oficial. El programa cuenta con material de archivo y testimonios inéditos de los protagonistas de cada tema.</desc>
 		<category lang="es">Documental</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260308103000 +0000" stop="20260308110000 +0000">
+	<programme start="20260308103000 +0000" stop="20260308110000 +0000" channel="cosmovision">
 		<title lang="es">Noticiero científico y cultural iberoamericano</title>
 		<desc lang="es">Espacio que contribuye a divulgar, fomentar e interpretar las actividades científicas y culturales en el mundo, así como fortalecer la cooperación y comunicación entre los distintos pueblos de la región.</desc>
 		<category lang="es">Noticiero</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_noticiero-cientifico-y-cultural-iberoamericano_l_m.jpg" />
 	</programme>
-	<programme start="20260308120100 +0000" stop="20260308123000 +0000">
+	<programme start="20260308120100 +0000" stop="20260308123000 +0000" channel="cosmovision">
 		<title lang="es">Eco Latinoamérica</title>
 		<desc lang="es">Una serie de reportajes que presentan conceptos innovadores y proyectos que tienen como objetivo proteger el medio ambiente y actuar contra el cambio climático en la región.</desc>
 		<category lang="es">Magazine</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_eco-latinoamerica_l_m.jpg" />
 	</programme>
-	<programme start="20260308124500 +0000" stop="20260309010000 +0000">
+	<programme start="20260308124500 +0000" stop="20260309010000 +0000" channel="cosmovision">
 		<title lang="es">Zander</title>
 		<desc lang="es">Mila y Leo abren un nuevo debate sobre como comprar que es real o no, tras compartir un mito griego con Zander.</desc>
 		<category lang="es">Temporada 1 Episodio 2</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg" />
 	</programme>
-	<programme start="20260309014500 +0000" stop="20260309020000 +0000">
+	<programme start="20260309014500 +0000" stop="20260309020000 +0000" channel="cosmovision">
 		<title lang="es">Tomás, Alba y Edison</title>
 		<desc lang="es">Edison tiene un hijo que se llama Tomás, quien al estar tan enamorado de Alba decide crear los inventos más increíbles que revolucionan el mundo, todo para poder impresionarla.</desc>
 		<category lang="es">Temporada 2 - 9 y 10</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_tomas-alba-y-edison-t02e00-1-y-2_l_m.jpg" />
 	</programme>
-	<programme start="20260309021500 +0000" stop="20260309023000 +0000">
+	<programme start="20260309021500 +0000" stop="20260309023000 +0000" channel="cosmovision">
 		<title lang="es">Cuentitos mágicos</title>
 		<desc lang="es">Una serie animada que incluye fábulas y cuentos cantados que se desarrollan en un imaginario mágico lleno de personajes inusuales y situaciones inesperadas.</desc>
 		<category lang="es">Temporada 2 - 9 y 10</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_cuentitos-magicos-t02e00-3-10-11-15-y-31_l_m.jpg" />
 	</programme>
-	<programme start="20260309034500 +0000" stop="20260309040000 +0000">
+	<programme start="20260309034500 +0000" stop="20260309040000 +0000" channel="cosmovision">
 		<title lang="es">Don Quijote de la láctea</title>
 		<desc lang="es">¡Habrá Palabra! Es el lema que identifica a estos divertidos personajes quienes estarán llenos de aventuras en sus recorridos espaciales.</desc>
 		<category lang="es">Episodio 12</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_don-quijote-de-la-lactea-t00e12_l_m.jpg" />
 	</programme>
-	<programme start="20260309073000 +0000" stop="20260309083000 +0000">
+	<programme start="20260309073000 +0000" stop="20260309083000 +0000" channel="cosmovision">
 		<title lang="es">En clave con Deysa Rayo</title>
 		<desc lang="es">Un espacio de entrevistas que enaltece la vida y obra de los músicos colombianos, y a través de una conversación reflexiona sobre su legado. Entre los artistas que participan se encuentran Walter Silva, Jorge Velosa o Juancho Valencia</desc>
 		<category lang="es">Musical</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
 	</programme>
-	<programme start="20260309094500 +0000" stop="20260309120000 +0000">
+	<programme start="20260309094500 +0000" stop="20260309120000 +0000" channel="cosmovision">
 		<title lang="es">Siete años en el Tíbet</title>
 		<desc lang="es">En 1939, un montañista austríaco viaja al Himalaya para dirigir una expedición. Pero, cuando estalla la Segunda Guerra Mundial, se convierte en prisionero de guerra.</desc>
 		<category lang="es">Seven Years in TibetDrama / 1997 / 7.0</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_siete-anos-en-el-tibet-1997_l_m.jpg" />
 	</programme>
-	<programme start="20260310041500 +0000" stop="20260310050000 +0000">
+	<programme start="20260310041500 +0000" stop="20260310050000 +0000" channel="cosmovision">
 		<title lang="es">Revivamos nuestra historia</title>
 		<desc lang="es">Una selección de los momentos más destacados de la historia colombiana que se tratan a través de cápsulas y especiales.</desc>
 		<category lang="es">Temporada 1 Episodio 134 - Nariño el precursor</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_revivamos-nuestra-historia-t01e134-narino-el-precursor_l_m.jpg" />
 	</programme>
-	<programme start="20260307060000 +0000" stop="20260307070000 +0000">
+	<programme start="20260307060000 +0000" stop="20260307070000 +0000" channel="cosmovision">
 		<title lang="es">Hijos de las estrellas</title>
 		<desc lang="es">Recorre lugares, personajes e historias de Chile y el mundo, a través de los cuales conoceremos cómo la astronomía, el universo y sus misterios han determinado el desarrollo de la humanidad y sus culturas.</desc>
 		<category lang="es">Temporada 2 Episodio 2</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_hijos-de-las-estrellas-t02e02-nuevos-mundos_l_m.jpg" />
 	</programme>
-	<programme start="20260307124500 +0000" stop="20260308010000 +0000">
+	<programme start="20260307124500 +0000" stop="20260308010000 +0000" channel="cosmovision">
 		<title lang="es">Zander</title>
 		<desc lang="es">Zander está muy preocupado porque no sabe de dónde vino antes de nacer.</desc>
 		<category lang="es">Temporada 1 Episodio 1 - Antes de nacer</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg" />
 	</programme>
-	<programme start="20260308014500 +0000" stop="20260308020000 +0000">
+	<programme start="20260308014500 +0000" stop="20260308020000 +0000" channel="cosmovision">
 		<title lang="es">Tomás, Alba y Edison</title>
 		<desc lang="es">Edison tiene un hijo que se llama Tomás, quien al estar tan enamorado de Alba decide crear los inventos más increíbles que revolucionan el mundo, todo para poder impresionarla.</desc>
 		<category lang="es">Temporada 3 - 7 y 8</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg" />
 	</programme>
-	<programme start="20260308021500 +0000" stop="20260308023000 +0000">
+	<programme start="20260308021500 +0000" stop="20260308023000 +0000" channel="cosmovision">
 		<title lang="es">Cuentitos mágicos</title>
 		<desc lang="es">Una serie animada que incluye fábulas y cuentos cantados que se desarrollan en un imaginario mágico lleno de personajes inusuales y situaciones inesperadas.</desc>
 		<category lang="es">Temporada 1 - 7 y 8</category>
 		<icon src="https://cdn.mitvstatic.com/programs/co_cuentitos-magicos-t01e00-1-y-2_l_m.jpg" />
 	</programme>
-	<programme start="20260308023000 +0000" stop="20260308030000 +0000">
+	<programme start="20260308023000 +0000" stop="20260308030000 +0000" channel="cosmovision">
 		<title lang="es">Frailejón Ernesto Pérez y la leyenda de la gota más pura</title>
 		<desc lang="es">Con la ayuda del profesor Alexander Mojica, el Frailejón Ernesto Pérez logra espantar los fantasmas azules para recuperar a su amiga Mochi./ Los frailejones glandulosos están en peligro por la ampliación de una carretera en Duitama.</desc>
 		<category lang="es">Temporada 2 - 7 y 8</category>
 		<icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg" />
 	</programme>
-	<programme start="20260308034500 +0000" stop="20260308040000 +0000">
+	<programme start="20260308034500 +0000" stop="20260308040000 +0000" channel="cosmovision">
 		<title lang="es">Don Quijote de la láctea</title>
 		<desc lang="es">¡Habrá Palabra! Es el lema que identifica a estos divertidos personajes quienes estarán llenos de aventuras en sus recorridos espaciales.</desc>
 		<category lang="es">Episodio 11</category>
