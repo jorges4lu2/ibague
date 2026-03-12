@@ -1266,6 +1266,9 @@
   <channel id="NXT: Vengeance Day (Sun 00:00 UK)">
     <display-name lang="en">NXT: Vengeance Day (Sun 00:00 UK)</display-name>
   </channel>
+  <channel id="LIVE EVENT 02 - 8pm UFC BJJ 6 Fowler v Machado">
+    <display-name lang="en">LIVE EVENT 02 - 8pm UFC BJJ 6 Fowler v Machado</display-name>
+  </channel>
   <channel id="LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET">
     <display-name lang="en">LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET</display-name>
   </channel>
@@ -11603,6 +11606,30 @@
     </audio>
   </programme>
   <programme start="20260312212000 -0500" channel="NXT: Vengeance Day (Sun 00:00 UK)" stop="20260312235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260312000000 -0500" channel="LIVE EVENT 02 - 8pm UFC BJJ 6 Fowler v Machado" stop="20260312200000 -0500">
+    <title>[Upcoming: 08:00 PM] LIVE EVENT 02 - 8pm UFC BJJ 6 Fowler v Machado</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260312200000 -0500" channel="LIVE EVENT 02 - 8pm UFC BJJ 6 Fowler v Machado" stop="20260312222000 -0500">
+    <title>[08:00 PM] LIVE EVENT 02 - 8pm UFC BJJ 6 Fowler v Machado</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260312222000 -0500" channel="LIVE EVENT 02 - 8pm UFC BJJ 6 Fowler v Machado" stop="20260312235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
