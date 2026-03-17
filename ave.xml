@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20260317 -0500">
-  <channel id="06:10 New Zealand v South Africa (2nd T20)">
-    <display-name lang="en">06:10 New Zealand v South Africa (2nd T20)</display-name>
-  </channel>
-  <channel id="08:00 Sydney FC v Melbourne City FC">
-    <display-name lang="en">08:00 Sydney FC v Melbourne City FC</display-name>
-  </channel>
   <channel id="09:00 Southern Super Stars v Royal Riders Punjab - Cricket">
     <display-name lang="en">09:00 Southern Super Stars v Royal Riders Punjab - Cricket</display-name>
   </channel>
@@ -495,20 +489,11 @@
   <channel id="VNL 19:45 Brackley v Solihull Moors">
     <display-name lang="en">VNL 19:45 Brackley v Solihull Moors</display-name>
   </channel>
-  <channel id="00:00 WWE Monday Night Raw (PPV)">
-    <display-name lang="en">00:00 WWE Monday Night Raw (PPV)</display-name>
-  </channel>
   <channel id="00:00 Indy Eleven v. Des Moines Menace (PARA)">
     <display-name lang="en">00:00 Indy Eleven v. Des Moines Menace (PARA)</display-name>
   </channel>
   <channel id="01:00 Ld Alajuelense v Los Angeles (PLAY)">
     <display-name lang="en">01:00 Ld Alajuelense v Los Angeles (PLAY)</display-name>
-  </channel>
-  <channel id="08:00 Sydney v Melbourne City (AMZN)">
-    <display-name lang="en">08:00 Sydney v Melbourne City (AMZN)</display-name>
-  </channel>
-  <channel id="10:00 China v Australia (PLAY)">
-    <display-name lang="en">10:00 China v Australia (PLAY)</display-name>
   </channel>
   <channel id="10:30 Gimcheon v Gwangju (PLAY)">
     <display-name lang="en">10:30 Gimcheon v Gwangju (PLAY)</display-name>
@@ -521,6 +506,9 @@
   </channel>
   <channel id="17:45 Sporting CP v Bodo/Glimt (Setanta)">
     <display-name lang="en">17:45 Sporting CP v Bodo/Glimt (Setanta)</display-name>
+  </channel>
+  <channel id="17:45 Sporting CP v Bodo/Glimt (UEFA)">
+    <display-name lang="en">17:45 Sporting CP v Bodo/Glimt (UEFA)</display-name>
   </channel>
   <channel id="17:45 Sporting CP v. Bodo/Glimt (PARA)">
     <display-name lang="en">17:45 Sporting CP v. Bodo/Glimt (PARA)</display-name>
@@ -555,6 +543,9 @@
   <channel id="20:00 Arsenal v Bayer Leverkusen (Setanta)">
     <display-name lang="en">20:00 Arsenal v Bayer Leverkusen (Setanta)</display-name>
   </channel>
+  <channel id="20:00 Arsenal v Bayer Leverkusen (UEFA)">
+    <display-name lang="en">20:00 Arsenal v Bayer Leverkusen (UEFA)</display-name>
+  </channel>
   <channel id="20:00 Arsenal v. Bayer Leverkusen (PARA)">
     <display-name lang="en">20:00 Arsenal v. Bayer Leverkusen (PARA)</display-name>
   </channel>
@@ -567,6 +558,9 @@
   <channel id="20:00 Chelsea v PSG (Setanta)">
     <display-name lang="en">20:00 Chelsea v PSG (Setanta)</display-name>
   </channel>
+  <channel id="20:00 Chelsea v PSG (UEFA)">
+    <display-name lang="en">20:00 Chelsea v PSG (UEFA)</display-name>
+  </channel>
   <channel id="20:00 Chelsea v. PSG (PARA)">
     <display-name lang="en">20:00 Chelsea v. PSG (PARA)</display-name>
   </channel>
@@ -576,72 +570,15 @@
   <channel id="20:00 Man City v Real Madrid (Setanta)">
     <display-name lang="en">20:00 Man City v Real Madrid (Setanta)</display-name>
   </channel>
+  <channel id="20:00 Man City v Real Madrid (UEFA)">
+    <display-name lang="en">20:00 Man City v Real Madrid (UEFA)</display-name>
+  </channel>
   <channel id="20:00 Man. City v. Real Madrid (PARA)">
     <display-name lang="en">20:00 Man. City v. Real Madrid (PARA)</display-name>
   </channel>
   <channel id="23:00 Vermont Green v. Portland Hearts of Pine (PARA)">
     <display-name lang="en">23:00 Vermont Green v. Portland Hearts of Pine (PARA)</display-name>
   </channel>
-  <channel id="17:45 Sporting CP v Bodo/Glimt (UEFA)">
-    <display-name lang="en">17:45 Sporting CP v Bodo/Glimt (UEFA)</display-name>
-  </channel>
-  <channel id="20:00 Arsenal v Bayer Leverkusen (UEFA)">
-    <display-name lang="en">20:00 Arsenal v Bayer Leverkusen (UEFA)</display-name>
-  </channel>
-  <channel id="20:00 Man City v Real Madrid (UEFA)">
-    <display-name lang="en">20:00 Man City v Real Madrid (UEFA)</display-name>
-  </channel>
-  <channel id="20:00 Chelsea v PSG (UEFA)">
-    <display-name lang="en">20:00 Chelsea v PSG (UEFA)</display-name>
-  </channel>
-  <programme start="20260317000000 -0500" channel="06:10 New Zealand v South Africa (2nd T20)" stop="20260317011000 -0500">
-    <title>[Upcoming: 01:10 AM]  New Zealand v South Africa (2nd T20)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317011000 -0500" channel="06:10 New Zealand v South Africa (2nd T20)" stop="20260317033000 -0500">
-    <title>[01:10 AM]  New Zealand v South Africa (2nd T20)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317033000 -0500" channel="06:10 New Zealand v South Africa (2nd T20)" stop="20260317235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317000000 -0500" channel="08:00 Sydney FC v Melbourne City FC" stop="20260317030000 -0500">
-    <title>[Upcoming: 03:00 AM]  Sydney FC v Melbourne City FC</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317030000 -0500" channel="08:00 Sydney FC v Melbourne City FC" stop="20260317052000 -0500">
-    <title>[03:00 AM]  Sydney FC v Melbourne City FC</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317052000 -0500" channel="08:00 Sydney FC v Melbourne City FC" stop="20260317235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260317000000 -0500" channel="09:00 Southern Super Stars v Royal Riders Punjab - Cricket" stop="20260317040000 -0500">
     <title>[Upcoming: 04:00 AM]  Southern Super Stars v Royal Riders Punjab - Cricket</title>
     <date>2026</date>
@@ -4554,30 +4491,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260317000000 -0500" channel="00:00 WWE Monday Night Raw (PPV)" stop="20260317190000 -0500">
-    <title>[Upcoming: 07:00 PM]  WWE Monday Night Raw (PPV)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317190000 -0500" channel="00:00 WWE Monday Night Raw (PPV)" stop="20260317212000 -0500">
-    <title>[07:00 PM]  WWE Monday Night Raw (PPV)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317212000 -0500" channel="00:00 WWE Monday Night Raw (PPV)" stop="20260317235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260317000000 -0500" channel="00:00 Indy Eleven v. Des Moines Menace (PARA)" stop="20260317190000 -0500">
     <title>[Upcoming: 07:00 PM]  Indy Eleven v. Des Moines Menace (PARA)</title>
     <date>2026</date>
@@ -4619,54 +4532,6 @@
     </audio>
   </programme>
   <programme start="20260317222000 -0500" channel="01:00 Ld Alajuelense v Los Angeles (PLAY)" stop="20260317235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317000000 -0500" channel="08:00 Sydney v Melbourne City (AMZN)" stop="20260317030000 -0500">
-    <title>[Upcoming: 03:00 AM]  Sydney v Melbourne City (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317030000 -0500" channel="08:00 Sydney v Melbourne City (AMZN)" stop="20260317052000 -0500">
-    <title>[03:00 AM]  Sydney v Melbourne City (AMZN)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317052000 -0500" channel="08:00 Sydney v Melbourne City (AMZN)" stop="20260317235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317000000 -0500" channel="10:00 China v Australia (PLAY)" stop="20260317050000 -0500">
-    <title>[Upcoming: 05:00 AM]  China v Australia (PLAY)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317050000 -0500" channel="10:00 China v Australia (PLAY)" stop="20260317072000 -0500">
-    <title>[05:00 AM]  China v Australia (PLAY)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317072000 -0500" channel="10:00 China v Australia (PLAY)" stop="20260317235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4763,6 +4628,30 @@
     </audio>
   </programme>
   <programme start="20260317150500 -0500" channel="17:45 Sporting CP v Bodo/Glimt (Setanta)" stop="20260317235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260317000000 -0500" channel="17:45 Sporting CP v Bodo/Glimt (UEFA)" stop="20260317124500 -0500">
+    <title>[Upcoming: 12:45 PM]  Sporting CP v Bodo/Glimt (UEFA)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260317124500 -0500" channel="17:45 Sporting CP v Bodo/Glimt (UEFA)" stop="20260317150500 -0500">
+    <title>[12:45 PM]  Sporting CP v Bodo/Glimt (UEFA)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260317150500 -0500" channel="17:45 Sporting CP v Bodo/Glimt (UEFA)" stop="20260317235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -5034,6 +4923,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260317000000 -0500" channel="20:00 Arsenal v Bayer Leverkusen (UEFA)" stop="20260317150000 -0500">
+    <title>[Upcoming: 03:00 PM]  Arsenal v Bayer Leverkusen (UEFA)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260317150000 -0500" channel="20:00 Arsenal v Bayer Leverkusen (UEFA)" stop="20260317172000 -0500">
+    <title>[03:00 PM]  Arsenal v Bayer Leverkusen (UEFA)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260317172000 -0500" channel="20:00 Arsenal v Bayer Leverkusen (UEFA)" stop="20260317235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260317000000 -0500" channel="20:00 Arsenal v. Bayer Leverkusen (PARA)" stop="20260317150000 -0500">
     <title>[Upcoming: 03:00 PM]  Arsenal v. Bayer Leverkusen (PARA)</title>
     <date>2026</date>
@@ -5130,6 +5043,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260317000000 -0500" channel="20:00 Chelsea v PSG (UEFA)" stop="20260317150000 -0500">
+    <title>[Upcoming: 03:00 PM]  Chelsea v PSG (UEFA)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260317150000 -0500" channel="20:00 Chelsea v PSG (UEFA)" stop="20260317172000 -0500">
+    <title>[03:00 PM]  Chelsea v PSG (UEFA)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260317172000 -0500" channel="20:00 Chelsea v PSG (UEFA)" stop="20260317235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260317000000 -0500" channel="20:00 Chelsea v. PSG (PARA)" stop="20260317150000 -0500">
     <title>[Upcoming: 03:00 PM]  Chelsea v. PSG (PARA)</title>
     <date>2026</date>
@@ -5202,6 +5139,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260317000000 -0500" channel="20:00 Man City v Real Madrid (UEFA)" stop="20260317150000 -0500">
+    <title>[Upcoming: 03:00 PM]  Man City v Real Madrid (UEFA)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260317150000 -0500" channel="20:00 Man City v Real Madrid (UEFA)" stop="20260317172000 -0500">
+    <title>[03:00 PM]  Man City v Real Madrid (UEFA)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260317172000 -0500" channel="20:00 Man City v Real Madrid (UEFA)" stop="20260317235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260317000000 -0500" channel="20:00 Man. City v. Real Madrid (PARA)" stop="20260317150000 -0500">
     <title>[Upcoming: 03:00 PM]  Man. City v. Real Madrid (PARA)</title>
     <date>2026</date>
@@ -5243,102 +5204,6 @@
     </audio>
   </programme>
   <programme start="20260317202000 -0500" channel="23:00 Vermont Green v. Portland Hearts of Pine (PARA)" stop="20260317235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317000000 -0500" channel="17:45 Sporting CP v Bodo/Glimt (UEFA)" stop="20260317124500 -0500">
-    <title>[Upcoming: 12:45 PM]  Sporting CP v Bodo/Glimt (UEFA)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317124500 -0500" channel="17:45 Sporting CP v Bodo/Glimt (UEFA)" stop="20260317150500 -0500">
-    <title>[12:45 PM]  Sporting CP v Bodo/Glimt (UEFA)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317150500 -0500" channel="17:45 Sporting CP v Bodo/Glimt (UEFA)" stop="20260317235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317000000 -0500" channel="20:00 Arsenal v Bayer Leverkusen (UEFA)" stop="20260317150000 -0500">
-    <title>[Upcoming: 03:00 PM]  Arsenal v Bayer Leverkusen (UEFA)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317150000 -0500" channel="20:00 Arsenal v Bayer Leverkusen (UEFA)" stop="20260317172000 -0500">
-    <title>[03:00 PM]  Arsenal v Bayer Leverkusen (UEFA)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317172000 -0500" channel="20:00 Arsenal v Bayer Leverkusen (UEFA)" stop="20260317235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317000000 -0500" channel="20:00 Man City v Real Madrid (UEFA)" stop="20260317150000 -0500">
-    <title>[Upcoming: 03:00 PM]  Man City v Real Madrid (UEFA)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317150000 -0500" channel="20:00 Man City v Real Madrid (UEFA)" stop="20260317172000 -0500">
-    <title>[03:00 PM]  Man City v Real Madrid (UEFA)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317172000 -0500" channel="20:00 Man City v Real Madrid (UEFA)" stop="20260317235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317000000 -0500" channel="20:00 Chelsea v PSG (UEFA)" stop="20260317150000 -0500">
-    <title>[Upcoming: 03:00 PM]  Chelsea v PSG (UEFA)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317150000 -0500" channel="20:00 Chelsea v PSG (UEFA)" stop="20260317172000 -0500">
-    <title>[03:00 PM]  Chelsea v PSG (UEFA)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260317172000 -0500" channel="20:00 Chelsea v PSG (UEFA)" stop="20260317235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
