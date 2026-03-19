@@ -1398,6 +1398,12 @@
   <channel id="LIVE EVENT 01 - 3pm TX2K26">
     <display-name lang="en">LIVE EVENT 01 - 3pm TX2K26</display-name>
   </channel>
+  <channel id="LIVE EVENT 03 - 7pm OVW Live">
+    <display-name lang="en">LIVE EVENT 03 - 7pm OVW Live</display-name>
+  </channel>
+  <channel id="LIVE EVENT 04 - 8pm Parrilla v Velasquez">
+    <display-name lang="en">LIVE EVENT 04 - 8pm Parrilla v Velasquez</display-name>
+  </channel>
   <channel id="LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET">
     <display-name lang="en">LIVE EVENT 26 -Danny Garcia vs Daniel Gonzalez / Oct 18 : 11PM UK / 6PM ET</display-name>
   </channel>
@@ -12767,6 +12773,54 @@
     </audio>
   </programme>
   <programme start="20260319172000 -0500" channel="LIVE EVENT 01 - 3pm TX2K26" stop="20260319235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260319000000 -0500" channel="LIVE EVENT 03 - 7pm OVW Live" stop="20260319190000 -0500">
+    <title>[Upcoming: 07:00 PM] LIVE EVENT 03 - 7pm OVW Live</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260319190000 -0500" channel="LIVE EVENT 03 - 7pm OVW Live" stop="20260319212000 -0500">
+    <title>[07:00 PM] LIVE EVENT 03 - 7pm OVW Live</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260319212000 -0500" channel="LIVE EVENT 03 - 7pm OVW Live" stop="20260319235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260319000000 -0500" channel="LIVE EVENT 04 - 8pm Parrilla v Velasquez" stop="20260319200000 -0500">
+    <title>[Upcoming: 08:00 PM] LIVE EVENT 04 - 8pm Parrilla v Velasquez</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260319200000 -0500" channel="LIVE EVENT 04 - 8pm Parrilla v Velasquez" stop="20260319222000 -0500">
+    <title>[08:00 PM] LIVE EVENT 04 - 8pm Parrilla v Velasquez</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260319222000 -0500" channel="LIVE EVENT 04 - 8pm Parrilla v Velasquez" stop="20260319235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
