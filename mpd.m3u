@@ -322,7 +322,10 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=ed7db993e483308dcd1d3a266018d787:def528875559963d3f125af875ae08c3
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/manifest.mpd
 
-#EXTINF:0 tvg-id="sun_channel" tvg-name="SUN CHANNEL" CUID="89" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60329_dark_360w_270h.png" group-title="Estilo de vida",SUN CHANNEL
+#EXTINF:0 tvg-id="travel_xp" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118366_dark_360w_270h.png" group-title="Estilo de vida",Travel XP
+https://ori1.relay.edge-apps.net/hls/hp6dm-89cho-6n1l-5f64l.m3u8
+
+#EXTINF:0 tvg-id="sun_channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60329_dark_360w_270h.png" group-title="Estilo de vida",SUN CHANNEL
 https://ori1.relay.edge-apps.net/hls/7oj3g-cdej2-kl131-b7hd8.m3u8
 
 #EXTINF:-1 tvg-id="telemundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="Series",Telemundo
@@ -580,37 +583,37 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(
 #EXTINF:0 tvg-id="multi_cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="Cine",MC
 https://ori1.relay.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
 	
-#EXTINF:0 tvg-id="hbo" tvg-name="HBO" CUID="68" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Cine",HBO
+#EXTINF:0 tvg-id="hbo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Cine",HBO
 https://ori1.relay.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
 
-#EXTINF:0 tvg-id="hbo2" tvg-name="HBO 2" CUID="69" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Cine",HBO 2
+#EXTINF:0 tvg-id="hbo2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Cine",HBO 2
 https://ori1.relay.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
 
-#EXTINF:0 tvg-id="hbo_plus" tvg-name="HBO +" CUID="70" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Cine",HBO +
+#EXTINF:0 tvg-id="hbo_plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Cine",HBO +
 https://ori1.relay.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
 
-#EXTINF:0 tvg-id="hbo_pop" tvg-name="HBO POP" CUID="71" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="Cine",HBO POP
+#EXTINF:0 tvg-id="hbo_pop" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="Cine",HBO POP
 https://ori1.relay.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
 
-#EXTINF:0 tvg-id="hbo_extreme" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Cine",HBO XTREME
+#EXTINF:0 tvg-id="hbo_extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Cine",HBO XTREME
 https://ori1.relay.edge-apps.net/hls/5o27b-5alop-lcagn-834c8.m3u8
 
-#EXTINF:0 tvg-id="hbo_mundi" tvg-name="HBO MUNDI" CUID="73" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="Cine",HBO MUNDI
+#EXTINF:0 tvg-id="hbo_mundi" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="Cine",HBO MUNDI
 https://ori1.relay.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5.m3u8
 
-#EXTINF:0 tvg-id="hbo_family_este" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Cine",HBO FAMILY
+#EXTINF:0 tvg-id="hbo_family_este" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Cine",HBO FAMILY
 https://ori1.relay.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
 
-#EXTINF:0 tvg-id="hbo_signature" tvg-name="HBO SIGNATURE" CUID="75" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="Cine",HBO SIGNATURE
+#EXTINF:0 tvg-id="hbo_signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="Cine",HBO SIGNATURE
 https://ori1.relay.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
 
-#EXTINF:0 tvg-id="cine_premium" tvg-name="CINE PREMIUM" CUID="76" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345688/s1gwqr9b7ipbxy4jm2cp.png" group-title="Cine",CINE PREMIUM
+#EXTINF:0 tvg-id="cine_premium" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345688/s1gwqr9b7ipbxy4jm2cp.png" group-title="Cine",CINE PREMIUM
 https://ori1.relay.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
 
-#EXTINF:0 tvg-id="cine_familiar" tvg-name="CINE FAMILIAR" CUID="77" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345713/ikagari0fl7tttbrotfb.png" group-title="Cine",CINE FAMILIAR
+#EXTINF:0 tvg-id="cine_familiar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345713/ikagari0fl7tttbrotfb.png" group-title="Cine",CINE FAMILIAR
 https://ori1.relay.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 
-#EXTINF:0 tvg-id="cine_hispano" tvg-name="CINE HISPANO" CUID="78" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345736/dustkhfhwtbduu0zrl5n.png" group-title="Cine",CINE HISPANO
+#EXTINF:0 tvg-id="cine_hispano" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345736/dustkhfhwtbduu0zrl5n.png" group-title="Cine",CINE HISPANO
 https://ori1.relay.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
 
 #EXTINF:-1 tvg-id="universal_premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="Cine",Universal Premier
