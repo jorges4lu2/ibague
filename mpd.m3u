@@ -658,12 +658,18 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
 
+#EXTINF:0 tvg-id="espn1.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Deportes",ESPN 1 Argentina
+https://ori1.relay.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
+
 #EXTINF:-1 tvg-id="espn2.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
+
+#EXTINF:0 tvg-id="espn2.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2 Argentina
+https://ori1.relay.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
 
 #EXTINF:-1 tvg-id="espn3.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 3
 #KODIPROP:inputstream=inputstream.adaptive
@@ -672,12 +678,18 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd
 
+#EXTINF:0 tvg-id="espn3.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 3 Argentina
+https://ori1.relay.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
+
 #EXTINF:-1 tvg-id="espn4.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Deportes",ESPN 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca5aa31fe437b9271fa3bd9b9167b0a6:b4bc08a35ef0f37472bbb4c52a5f56b8
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_4_HD)/manifest.mpd
+
+#EXTINF:0 tvg-id="espn4.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Deportes",ESPN 4 Argentina
+https://ori1.relay.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
 #EXTINF:-1 tvg-id="espn5.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122027_dark_360w_270h.png" group-title="Deportes",ESPN 5
 #KODIPROP:inputstream=inputstream.adaptive
@@ -699,6 +711,33 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b5c647e6584cf00ea482b531288fb40:09a669f13d96baf934647a1eb1cb5efa
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_7_HD)/manifest.mpd
+
+#EXTINF:0 tvg-id="espn_premium.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN Premium
+https://ori1.relay.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
+
+#EXTINF:0 tvg-id="tnt_sports_premium.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="Deportes",TNT Sports Premium
+https://ori1.relay.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
+
+#EXTINF:0 tvg-id="tyc_sports.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023XSVV.png_dark_360w_270h.png" group-title="Deportes",TYC Sports
+https://ori1.relay.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
+
+#EXTINF:0 tvg-id="fox_sports.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="Deportes",FOX Sports
+https://ori1.relay.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
+
+#EXTINF:0 tvg-id="fox_sports2.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWLFM.png_dark_360w_270h.png" group-title="Deportes",FOX Sports 2
+https://ori1.relay.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
+
+#EXTINF:0 tvg-id="fox_sports3.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWY1H.png_dark_360w_270h.png" group-title="Deportes",FOX Sports 3
+https://ori1.relay.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8
+
+#EXTINF:0 tvg-id="golf_channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="Deportes",Golf Channel
+https://ori1.relay.edge-apps.net/hls/3ng17-nl903-o8epk-9kaij.m3u8
+
+#EXTINF:0 tvg-id="deportv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_dark_360w_270h.png" group-title="Deportes",DEPORTV
+https://ori1.relay.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
+
+#EXTINF:0 tvg-id="cablevideo_eventos.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1747771091/p66yptgchm9w1mp2vlgd.png" group-title="Deportes",Cablevideo Eventos
+https://ori1.relay.edge-apps.net/hls/m8hok-nellb-e6mo6-n858e.m3u8
 
 #EXTINF:-1 tvg-id="win_sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87031_dark_360w_270h.png" group-title="Deportes",Win Sports
 #KODIPROP:inputstream=inputstream.adaptive
