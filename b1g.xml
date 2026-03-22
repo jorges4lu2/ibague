@@ -357,23 +357,23 @@
   <channel id="02. Serie A | Parma vs Cremonese (Sat 14:00 UK)">
     <display-name lang="en">02. Serie A | Parma vs Cremonese (Sat 14:00 UK)</display-name>
   </channel>
-  <channel id="NHL | 01 - 1pm Jets @ Penguins">
-    <display-name lang="en">NHL | 01 - 1pm Jets @ Penguins</display-name>
+  <channel id="NHL | 01 - 12pm Jets @ Rangers">
+    <display-name lang="en">NHL | 01 - 12pm Jets @ Rangers</display-name>
   </channel>
-  <channel id="NHL | 02 - 2pm Golden Knights @ Predators">
-    <display-name lang="en">NHL | 02 - 2pm Golden Knights @ Predators</display-name>
+  <channel id="NHL | 02 - 12:30pm Avalanche @ Capitals">
+    <display-name lang="en">NHL | 02 - 12:30pm Avalanche @ Capitals</display-name>
   </channel>
-  <channel id="NHL | 03 - 4pm Stars @ Wild">
-    <display-name lang="en">NHL | 03 - 4pm Stars @ Wild</display-name>
+  <channel id="NHL | 03 - 3pm Hurricanes @ Penguins">
+    <display-name lang="en">NHL | 03 - 3pm Hurricanes @ Penguins</display-name>
   </channel>
-  <channel id="NHL | 04 - 4pm Sabres @ Kings">
-    <display-name lang="en">NHL | 04 - 4pm Sabres @ Kings</display-name>
+  <channel id="NHL | 04 - 3pm Pred@ors @ Blackhawks">
+    <display-name lang="en">NHL | 04 - 3pm Pred@ors @ Blackhawks</display-name>
   </channel>
-  <channel id="NHL | 05 - 4pm Flyers @ Sharks">
-    <display-name lang="en">NHL | 05 - 4pm Flyers @ Sharks</display-name>
+  <channel id="NHL | 05 - 7pm Blue Jackets @ Islanders">
+    <display-name lang="en">NHL | 05 - 7pm Blue Jackets @ Islanders</display-name>
   </channel>
-  <channel id="NHL | 06 - 5pm Kraken @ Blue Jackets">
-    <display-name lang="en">NHL | 06 - 5pm Kraken @ Blue Jackets</display-name>
+  <channel id="NHL | 06 - 7pm Golden Knights @ Stars">
+    <display-name lang="en">NHL | 06 - 7pm Golden Knights @ Stars</display-name>
   </channel>
   <channel id="NHL | 07 - 7pm Islanders @ Canadiens">
     <display-name lang="en">NHL | 07 - 7pm Islanders @ Canadiens</display-name>
@@ -1572,14 +1572,17 @@
   <channel id="BOXING: Carlos Adames vs. Austin Williams (Sun 00:00 UK)">
     <display-name lang="en">BOXING: Carlos Adames vs. Austin Williams (Sun 00:00 UK)</display-name>
   </channel>
-  <channel id="LIVE EVENT 01 - 1/4pm UFC Fight Night Evloev v Murphy">
-    <display-name lang="en">LIVE EVENT 01 - 1/4pm UFC Fight Night Evloev v Murphy</display-name>
+  <channel id="LIVE EVENT 01 - 10am TX2K26">
+    <display-name lang="en">LIVE EVENT 01 - 10am TX2K26</display-name>
   </channel>
-  <channel id="LIVE EVENT 03 - 1/3pm Liddard v Denny">
-    <display-name lang="en">LIVE EVENT 03 - 1/3pm Liddard v Denny</display-name>
+  <channel id="LIVE EVENT 02 - 11:30am Gorilla 2">
+    <display-name lang="en">LIVE EVENT 02 - 11:30am Gorilla 2</display-name>
   </channel>
-  <channel id="LIVE EVENT 04 - 3pm Bushido Stankis v Gezius">
-    <display-name lang="en">LIVE EVENT 04 - 3pm Bushido Stankis v Gezius</display-name>
+  <channel id="LIVE EVENT 03 - 1:30pm Williams Grove Sprint Cars">
+    <display-name lang="en">LIVE EVENT 03 - 1:30pm Williams Grove Sprint Cars</display-name>
+  </channel>
+  <channel id="LIVE EVENT 04 - 3pm Short Track Super Series Bridgeport">
+    <display-name lang="en">LIVE EVENT 04 - 3pm Short Track Super Series Bridgeport</display-name>
   </channel>
   <channel id="LIVE EVENT 05 - 7pm Toughman Contest">
     <display-name lang="en">LIVE EVENT 05 - 7pm Toughman Contest</display-name>
@@ -1593,23 +1596,14 @@
   <channel id="LIVE EVENT 08 - 8pm Adames v Williams">
     <display-name lang="en">LIVE EVENT 08 - 8pm Adames v Williams</display-name>
   </channel>
-  <channel id="LIVE EVENT 09 - 8pm MMA Mexico 7">
-    <display-name lang="en">LIVE EVENT 09 - 8pm MMA Mexico 7</display-name>
-  </channel>
   <channel id="LIVE EVENT 10 - 8pm HOG x Big Event Superclash">
     <display-name lang="en">LIVE EVENT 10 - 8pm HOG x Big Event Superclash</display-name>
   </channel>
   <channel id="LIVE EVENT 11 - 10am TX2K26">
     <display-name lang="en">LIVE EVENT 11 - 10am TX2K26</display-name>
   </channel>
-  <channel id="LIVE EVENT 12 - 1:30am King of Modifieds South Boston">
-    <display-name lang="en">LIVE EVENT 12 - 1:30am King of Modifieds South Boston</display-name>
-  </channel>
   <channel id="LIVE EVENT 13 - 1/7pm AMA Supercross Championship Birmingham">
     <display-name lang="en">LIVE EVENT 13 - 1/7pm AMA Supercross Championship Birmingham</display-name>
-  </channel>
-  <channel id="LIVE EVENT 14 - 3:30pm Opening Night Port Royal">
-    <display-name lang="en">LIVE EVENT 14 - 3:30pm Opening Night Port Royal</display-name>
   </channel>
   <channel id="LIVE EVENT 15 - 3:40pm American Flat Track Senoia">
     <display-name lang="en">LIVE EVENT 15 - 3:40pm American Flat Track Senoia</display-name>
@@ -4683,23 +4677,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="NHL | 01 - 1pm Jets @ Penguins" stop="20260321130000 -0500">
-    <title>[Upcoming: 01:00 PM] NHL | 01 - 1pm Jets @ Penguins</title>
+  <programme start="20260321000000 -0500" channel="NHL | 01 - 12pm Jets @ Rangers" stop="20260321120000 -0500">
+    <title>[Upcoming: 12:00 PM] NHL | 01 - 12pm Jets @ Rangers</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321130000 -0500" channel="NHL | 01 - 1pm Jets @ Penguins" stop="20260321152000 -0500">
-    <title>[01:00 PM] NHL | 01 - 1pm Jets @ Penguins</title>
+  <programme start="20260321120000 -0500" channel="NHL | 01 - 12pm Jets @ Rangers" stop="20260321142000 -0500">
+    <title>[12:00 PM] NHL | 01 - 12pm Jets @ Rangers</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321152000 -0500" channel="NHL | 01 - 1pm Jets @ Penguins" stop="20260321235959 -0500">
+  <programme start="20260321142000 -0500" channel="NHL | 01 - 12pm Jets @ Rangers" stop="20260321235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4707,23 +4701,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="NHL | 02 - 2pm Golden Knights @ Predators" stop="20260321140000 -0500">
-    <title>[Upcoming: 02:00 PM] NHL | 02 - 2pm Golden Knights @ Predators</title>
+  <programme start="20260321000000 -0500" channel="NHL | 02 - 12:30pm Avalanche @ Capitals" stop="20260321073000 -0500">
+    <title>[Upcoming: 07:30 AM] NHL | 02 - 12:30pm Avalanche @ Capitals</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321140000 -0500" channel="NHL | 02 - 2pm Golden Knights @ Predators" stop="20260321162000 -0500">
-    <title>[02:00 PM] NHL | 02 - 2pm Golden Knights @ Predators</title>
+  <programme start="20260321073000 -0500" channel="NHL | 02 - 12:30pm Avalanche @ Capitals" stop="20260321095000 -0500">
+    <title>[07:30 AM] NHL | 02 - 12:30pm Avalanche @ Capitals</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321162000 -0500" channel="NHL | 02 - 2pm Golden Knights @ Predators" stop="20260321235959 -0500">
+  <programme start="20260321095000 -0500" channel="NHL | 02 - 12:30pm Avalanche @ Capitals" stop="20260321235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4731,23 +4725,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="NHL | 03 - 4pm Stars @ Wild" stop="20260321160000 -0500">
-    <title>[Upcoming: 04:00 PM] NHL | 03 - 4pm Stars @ Wild</title>
+  <programme start="20260321000000 -0500" channel="NHL | 03 - 3pm Hurricanes @ Penguins" stop="20260321150000 -0500">
+    <title>[Upcoming: 03:00 PM] NHL | 03 - 3pm Hurricanes @ Penguins</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321160000 -0500" channel="NHL | 03 - 4pm Stars @ Wild" stop="20260321182000 -0500">
-    <title>[04:00 PM] NHL | 03 - 4pm Stars @ Wild</title>
+  <programme start="20260321150000 -0500" channel="NHL | 03 - 3pm Hurricanes @ Penguins" stop="20260321172000 -0500">
+    <title>[03:00 PM] NHL | 03 - 3pm Hurricanes @ Penguins</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321182000 -0500" channel="NHL | 03 - 4pm Stars @ Wild" stop="20260321235959 -0500">
+  <programme start="20260321172000 -0500" channel="NHL | 03 - 3pm Hurricanes @ Penguins" stop="20260321235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4755,23 +4749,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="NHL | 04 - 4pm Sabres @ Kings" stop="20260321160000 -0500">
-    <title>[Upcoming: 04:00 PM] NHL | 04 - 4pm Sabres @ Kings</title>
+  <programme start="20260321000000 -0500" channel="NHL | 04 - 3pm Pred@ors @ Blackhawks" stop="20260321150000 -0500">
+    <title>[Upcoming: 03:00 PM] NHL | 04 - 3pm Pred@ors @ Blackhawks</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321160000 -0500" channel="NHL | 04 - 4pm Sabres @ Kings" stop="20260321182000 -0500">
-    <title>[04:00 PM] NHL | 04 - 4pm Sabres @ Kings</title>
+  <programme start="20260321150000 -0500" channel="NHL | 04 - 3pm Pred@ors @ Blackhawks" stop="20260321172000 -0500">
+    <title>[03:00 PM] NHL | 04 - 3pm Pred@ors @ Blackhawks</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321182000 -0500" channel="NHL | 04 - 4pm Sabres @ Kings" stop="20260321235959 -0500">
+  <programme start="20260321172000 -0500" channel="NHL | 04 - 3pm Pred@ors @ Blackhawks" stop="20260321235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4779,23 +4773,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="NHL | 05 - 4pm Flyers @ Sharks" stop="20260321160000 -0500">
-    <title>[Upcoming: 04:00 PM] NHL | 05 - 4pm Flyers @ Sharks</title>
+  <programme start="20260321000000 -0500" channel="NHL | 05 - 7pm Blue Jackets @ Islanders" stop="20260321190000 -0500">
+    <title>[Upcoming: 07:00 PM] NHL | 05 - 7pm Blue Jackets @ Islanders</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321160000 -0500" channel="NHL | 05 - 4pm Flyers @ Sharks" stop="20260321182000 -0500">
-    <title>[04:00 PM] NHL | 05 - 4pm Flyers @ Sharks</title>
+  <programme start="20260321190000 -0500" channel="NHL | 05 - 7pm Blue Jackets @ Islanders" stop="20260321212000 -0500">
+    <title>[07:00 PM] NHL | 05 - 7pm Blue Jackets @ Islanders</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321182000 -0500" channel="NHL | 05 - 4pm Flyers @ Sharks" stop="20260321235959 -0500">
+  <programme start="20260321212000 -0500" channel="NHL | 05 - 7pm Blue Jackets @ Islanders" stop="20260321235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4803,23 +4797,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="NHL | 06 - 5pm Kraken @ Blue Jackets" stop="20260321170000 -0500">
-    <title>[Upcoming: 05:00 PM] NHL | 06 - 5pm Kraken @ Blue Jackets</title>
+  <programme start="20260321000000 -0500" channel="NHL | 06 - 7pm Golden Knights @ Stars" stop="20260321190000 -0500">
+    <title>[Upcoming: 07:00 PM] NHL | 06 - 7pm Golden Knights @ Stars</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321170000 -0500" channel="NHL | 06 - 5pm Kraken @ Blue Jackets" stop="20260321192000 -0500">
-    <title>[05:00 PM] NHL | 06 - 5pm Kraken @ Blue Jackets</title>
+  <programme start="20260321190000 -0500" channel="NHL | 06 - 7pm Golden Knights @ Stars" stop="20260321212000 -0500">
+    <title>[07:00 PM] NHL | 06 - 7pm Golden Knights @ Stars</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321192000 -0500" channel="NHL | 06 - 5pm Kraken @ Blue Jackets" stop="20260321235959 -0500">
+  <programme start="20260321212000 -0500" channel="NHL | 06 - 7pm Golden Knights @ Stars" stop="20260321235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -14403,23 +14397,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="LIVE EVENT 01 - 1/4pm UFC Fight Night Evloev v Murphy" stop="20260321160000 -0500">
-    <title>[Upcoming: 04:00 PM] LIVE EVENT 01 - 1/4pm UFC Fight Night Evloev v Murphy</title>
+  <programme start="20260321000000 -0500" channel="LIVE EVENT 01 - 10am TX2K26" stop="20260321100000 -0500">
+    <title>[Upcoming: 10:00 AM] LIVE EVENT 01 - 10am TX2K26</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321160000 -0500" channel="LIVE EVENT 01 - 1/4pm UFC Fight Night Evloev v Murphy" stop="20260321182000 -0500">
-    <title>[04:00 PM] LIVE EVENT 01 - 1/4pm UFC Fight Night Evloev v Murphy</title>
+  <programme start="20260321100000 -0500" channel="LIVE EVENT 01 - 10am TX2K26" stop="20260321122000 -0500">
+    <title>[10:00 AM] LIVE EVENT 01 - 10am TX2K26</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321182000 -0500" channel="LIVE EVENT 01 - 1/4pm UFC Fight Night Evloev v Murphy" stop="20260321235959 -0500">
+  <programme start="20260321122000 -0500" channel="LIVE EVENT 01 - 10am TX2K26" stop="20260321235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -14427,23 +14421,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="LIVE EVENT 03 - 1/3pm Liddard v Denny" stop="20260321150000 -0500">
-    <title>[Upcoming: 03:00 PM] LIVE EVENT 03 - 1/3pm Liddard v Denny</title>
+  <programme start="20260321000000 -0500" channel="LIVE EVENT 02 - 11:30am Gorilla 2" stop="20260321103000 -0500">
+    <title>[Upcoming: 10:30 AM] LIVE EVENT 02 - 11:30am Gorilla 2</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321150000 -0500" channel="LIVE EVENT 03 - 1/3pm Liddard v Denny" stop="20260321172000 -0500">
-    <title>[03:00 PM] LIVE EVENT 03 - 1/3pm Liddard v Denny</title>
+  <programme start="20260321103000 -0500" channel="LIVE EVENT 02 - 11:30am Gorilla 2" stop="20260321125000 -0500">
+    <title>[10:30 AM] LIVE EVENT 02 - 11:30am Gorilla 2</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321172000 -0500" channel="LIVE EVENT 03 - 1/3pm Liddard v Denny" stop="20260321235959 -0500">
+  <programme start="20260321125000 -0500" channel="LIVE EVENT 02 - 11:30am Gorilla 2" stop="20260321235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -14451,23 +14445,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="LIVE EVENT 04 - 3pm Bushido Stankis v Gezius" stop="20260321150000 -0500">
-    <title>[Upcoming: 03:00 PM] LIVE EVENT 04 - 3pm Bushido Stankis v Gezius</title>
+  <programme start="20260321000000 -0500" channel="LIVE EVENT 03 - 1:30pm Williams Grove Sprint Cars" stop="20260321123000 -0500">
+    <title>[Upcoming: 12:30 PM] LIVE EVENT 03 - 1:30pm Williams Grove Sprint Cars</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321150000 -0500" channel="LIVE EVENT 04 - 3pm Bushido Stankis v Gezius" stop="20260321172000 -0500">
-    <title>[03:00 PM] LIVE EVENT 04 - 3pm Bushido Stankis v Gezius</title>
+  <programme start="20260321123000 -0500" channel="LIVE EVENT 03 - 1:30pm Williams Grove Sprint Cars" stop="20260321145000 -0500">
+    <title>[12:30 PM] LIVE EVENT 03 - 1:30pm Williams Grove Sprint Cars</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321172000 -0500" channel="LIVE EVENT 04 - 3pm Bushido Stankis v Gezius" stop="20260321235959 -0500">
+  <programme start="20260321145000 -0500" channel="LIVE EVENT 03 - 1:30pm Williams Grove Sprint Cars" stop="20260321235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260321000000 -0500" channel="LIVE EVENT 04 - 3pm Short Track Super Series Bridgeport" stop="20260321150000 -0500">
+    <title>[Upcoming: 03:00 PM] LIVE EVENT 04 - 3pm Short Track Super Series Bridgeport</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260321150000 -0500" channel="LIVE EVENT 04 - 3pm Short Track Super Series Bridgeport" stop="20260321172000 -0500">
+    <title>[03:00 PM] LIVE EVENT 04 - 3pm Short Track Super Series Bridgeport</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260321172000 -0500" channel="LIVE EVENT 04 - 3pm Short Track Super Series Bridgeport" stop="20260321235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -14571,30 +14589,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="LIVE EVENT 09 - 8pm MMA Mexico 7" stop="20260321200000 -0500">
-    <title>[Upcoming: 08:00 PM] LIVE EVENT 09 - 8pm MMA Mexico 7</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260321200000 -0500" channel="LIVE EVENT 09 - 8pm MMA Mexico 7" stop="20260321222000 -0500">
-    <title>[08:00 PM] LIVE EVENT 09 - 8pm MMA Mexico 7</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260321222000 -0500" channel="LIVE EVENT 09 - 8pm MMA Mexico 7" stop="20260321235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260321000000 -0500" channel="LIVE EVENT 10 - 8pm HOG x Big Event Superclash" stop="20260321200000 -0500">
     <title>[Upcoming: 08:00 PM] LIVE EVENT 10 - 8pm HOG x Big Event Superclash</title>
     <date>2026</date>
@@ -14643,30 +14637,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260321000000 -0500" channel="LIVE EVENT 12 - 1:30am King of Modifieds South Boston" stop="20260321003000 -0500">
-    <title>[Upcoming: 12:30 AM] LIVE EVENT 12 - 1:30am King of Modifieds South Boston</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260321003000 -0500" channel="LIVE EVENT 12 - 1:30am King of Modifieds South Boston" stop="20260321025000 -0500">
-    <title>[12:30 AM] LIVE EVENT 12 - 1:30am King of Modifieds South Boston</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260321025000 -0500" channel="LIVE EVENT 12 - 1:30am King of Modifieds South Boston" stop="20260321235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260321000000 -0500" channel="LIVE EVENT 13 - 1/7pm AMA Supercross Championship Birmingham" stop="20260321190000 -0500">
     <title>[Upcoming: 07:00 PM] LIVE EVENT 13 - 1/7pm AMA Supercross Championship Birmingham</title>
     <date>2026</date>
@@ -14684,30 +14654,6 @@
     </audio>
   </programme>
   <programme start="20260321212000 -0500" channel="LIVE EVENT 13 - 1/7pm AMA Supercross Championship Birmingham" stop="20260321235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260321000000 -0500" channel="LIVE EVENT 14 - 3:30pm Opening Night Port Royal" stop="20260321143000 -0500">
-    <title>[Upcoming: 02:30 PM] LIVE EVENT 14 - 3:30pm Opening Night Port Royal</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260321143000 -0500" channel="LIVE EVENT 14 - 3:30pm Opening Night Port Royal" stop="20260321165000 -0500">
-    <title>[02:30 PM] LIVE EVENT 14 - 3:30pm Opening Night Port Royal</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260321165000 -0500" channel="LIVE EVENT 14 - 3:30pm Opening Night Port Royal" stop="20260321235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
