@@ -252,8 +252,8 @@
   <channel id="NHL | 01 - 12:30pm Red Wings @ Rangers">
     <display-name lang="en">NHL | 01 - 12:30pm Red Wings @ Rangers</display-name>
   </channel>
-  <channel id="NHL | 02 - 10pm Blues @ Ducks">
-    <display-name lang="en">NHL | 02 - 10pm Blues @ Ducks</display-name>
+  <channel id="NHL | 02 - 1pm Wild @ Senators">
+    <display-name lang="en">NHL | 02 - 1pm Wild @ Senators</display-name>
   </channel>
   <channel id="NHL | 03 - 3pm Avalanche @ Stars">
     <display-name lang="en">NHL | 03 - 3pm Avalanche @ Stars</display-name>
@@ -1301,9 +1301,6 @@
   </channel>
   <channel id="LIVE EVENT 14 - 5pm SMART Modifieds Dominion">
     <display-name lang="en">LIVE EVENT 14 - 5pm SMART Modifieds Dominion</display-name>
-  </channel>
-  <channel id="LIVE EVENT 15 - 5:45pm USAC Chuck Amati Classic Paragon">
-    <display-name lang="en">LIVE EVENT 15 - 5:45pm USAC Chuck Amati Classic Paragon</display-name>
   </channel>
   <channel id="LIVE EVENT 16 - 6pm NASCAR Weekly Racing Langley">
     <display-name lang="en">LIVE EVENT 16 - 6pm NASCAR Weekly Racing Langley</display-name>
@@ -3552,23 +3549,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260404000000 -0500" channel="NHL | 02 - 10pm Blues @ Ducks" stop="20260404220000 -0500">
-    <title>[Upcoming: 10:00 PM] NHL | 02 - 10pm Blues @ Ducks</title>
+  <programme start="20260404000000 -0500" channel="NHL | 02 - 1pm Wild @ Senators" stop="20260404130000 -0500">
+    <title>[Upcoming: 01:00 PM] NHL | 02 - 1pm Wild @ Senators</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260404220000 -0500" channel="NHL | 02 - 10pm Blues @ Ducks" stop="20260405002000 -0500">
-    <title>[10:00 PM] NHL | 02 - 10pm Blues @ Ducks</title>
+  <programme start="20260404130000 -0500" channel="NHL | 02 - 1pm Wild @ Senators" stop="20260404152000 -0500">
+    <title>[01:00 PM] NHL | 02 - 1pm Wild @ Senators</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260405002000 -0500" channel="NHL | 02 - 10pm Blues @ Ducks" stop="20260404235959 -0500">
+  <programme start="20260404152000 -0500" channel="NHL | 02 - 1pm Wild @ Senators" stop="20260404235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11945,30 +11942,6 @@
     </audio>
   </programme>
   <programme start="20260404192000 -0500" channel="LIVE EVENT 14 - 5pm SMART Modifieds Dominion" stop="20260404235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260404000000 -0500" channel="LIVE EVENT 15 - 5:45pm USAC Chuck Amati Classic Paragon" stop="20260404164500 -0500">
-    <title>[Upcoming: 04:45 PM] LIVE EVENT 15 - 5:45pm USAC Chuck Amati Classic Paragon</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260404164500 -0500" channel="LIVE EVENT 15 - 5:45pm USAC Chuck Amati Classic Paragon" stop="20260404190500 -0500">
-    <title>[04:45 PM] LIVE EVENT 15 - 5:45pm USAC Chuck Amati Classic Paragon</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260404190500 -0500" channel="LIVE EVENT 15 - 5:45pm USAC Chuck Amati Classic Paragon" stop="20260404235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
