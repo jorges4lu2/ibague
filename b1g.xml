@@ -1185,11 +1185,20 @@
   <channel id="BOXING: Antonio Perez vs. Abraham Montoya HD (Sat 01:00 UK)">
     <display-name lang="en">BOXING: Antonio Perez vs. Abraham Montoya HD (Sat 01:00 UK)</display-name>
   </channel>
+  <channel id="LIVE EVENT 01 - 5pm UFC Fight Night Moicano v Duncan">
+    <display-name lang="en">LIVE EVENT 01 - 5pm UFC Fight Night Moicano v Duncan</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 - 12pm/2pm Chisora v Wilder">
+    <display-name lang="en">LIVE EVENT 02 - 12pm/2pm Chisora v Wilder</display-name>
+  </channel>
+  <channel id="LIVE EVENT 03 - 9am TNT IGNition evel Up 2026">
+    <display-name lang="en">LIVE EVENT 03 - 9am TNT IGNition evel Up 2026</display-name>
+  </channel>
   <channel id="LIVE EVENT 04 - 8pm Perez v Montoya">
     <display-name lang="en">LIVE EVENT 04 - 8pm Perez v Montoya</display-name>
   </channel>
-  <channel id="LIVE EVENT 05 - 8pm CFFC BJJ 17">
-    <display-name lang="en">LIVE EVENT 05 - 8pm CFFC BJJ 17</display-name>
+  <channel id="LIVE EVENT 05 - 9pm CFFC BJJ 17">
+    <display-name lang="en">LIVE EVENT 05 - 9pm CFFC BJJ 17</display-name>
   </channel>
   <channel id="LIVE EVENT 06 - 11pm GCW: Last Call 2026">
     <display-name lang="en">LIVE EVENT 06 - 11pm GCW: Last Call 2026</display-name>
@@ -10905,6 +10914,78 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260403000000 -0500" channel="LIVE EVENT 01 - 5pm UFC Fight Night Moicano v Duncan" stop="20260403170000 -0500">
+    <title>[Upcoming: 05:00 PM] LIVE EVENT 01 - 5pm UFC Fight Night Moicano v Duncan</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260403170000 -0500" channel="LIVE EVENT 01 - 5pm UFC Fight Night Moicano v Duncan" stop="20260403192000 -0500">
+    <title>[05:00 PM] LIVE EVENT 01 - 5pm UFC Fight Night Moicano v Duncan</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260403192000 -0500" channel="LIVE EVENT 01 - 5pm UFC Fight Night Moicano v Duncan" stop="20260403235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260403000000 -0500" channel="LIVE EVENT 02 - 12pm/2pm Chisora v Wilder" stop="20260403120000 -0500">
+    <title>[Upcoming: 12:00 PM] LIVE EVENT 02 - 12pm/2pm Chisora v Wilder</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260403120000 -0500" channel="LIVE EVENT 02 - 12pm/2pm Chisora v Wilder" stop="20260403142000 -0500">
+    <title>[12:00 PM] LIVE EVENT 02 - 12pm/2pm Chisora v Wilder</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260403142000 -0500" channel="LIVE EVENT 02 - 12pm/2pm Chisora v Wilder" stop="20260403235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260403000000 -0500" channel="LIVE EVENT 03 - 9am TNT IGNition evel Up 2026" stop="20260403090000 -0500">
+    <title>[Upcoming: 09:00 AM] LIVE EVENT 03 - 9am TNT IGNition evel Up 2026</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260403090000 -0500" channel="LIVE EVENT 03 - 9am TNT IGNition evel Up 2026" stop="20260403112000 -0500">
+    <title>[09:00 AM] LIVE EVENT 03 - 9am TNT IGNition evel Up 2026</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260403112000 -0500" channel="LIVE EVENT 03 - 9am TNT IGNition evel Up 2026" stop="20260403235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260403000000 -0500" channel="LIVE EVENT 04 - 8pm Perez v Montoya" stop="20260403200000 -0500">
     <title>[Upcoming: 08:00 PM] LIVE EVENT 04 - 8pm Perez v Montoya</title>
     <date>2026</date>
@@ -10929,23 +11010,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260403000000 -0500" channel="LIVE EVENT 05 - 8pm CFFC BJJ 17" stop="20260403200000 -0500">
-    <title>[Upcoming: 08:00 PM] LIVE EVENT 05 - 8pm CFFC BJJ 17</title>
+  <programme start="20260403000000 -0500" channel="LIVE EVENT 05 - 9pm CFFC BJJ 17" stop="20260403210000 -0500">
+    <title>[Upcoming: 09:00 PM] LIVE EVENT 05 - 9pm CFFC BJJ 17</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260403200000 -0500" channel="LIVE EVENT 05 - 8pm CFFC BJJ 17" stop="20260403222000 -0500">
-    <title>[08:00 PM] LIVE EVENT 05 - 8pm CFFC BJJ 17</title>
+  <programme start="20260403210000 -0500" channel="LIVE EVENT 05 - 9pm CFFC BJJ 17" stop="20260403232000 -0500">
+    <title>[09:00 PM] LIVE EVENT 05 - 9pm CFFC BJJ 17</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260403222000 -0500" channel="LIVE EVENT 05 - 8pm CFFC BJJ 17" stop="20260403235959 -0500">
+  <programme start="20260403232000 -0500" channel="LIVE EVENT 05 - 9pm CFFC BJJ 17" stop="20260403235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
