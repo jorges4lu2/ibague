@@ -957,11 +957,17 @@
   <channel id="DIRTVISION 01 : Williams Grove Speedway 7:00 pm">
     <display-name lang="en">DIRTVISION 01 : Williams Grove Speedway 7:00 pm</display-name>
   </channel>
-  <channel id="DIRTVISION 02 : I-55 Federated Auto Parts Raceway Park 7:15 pm">
-    <display-name lang="en">DIRTVISION 02 : I-55 Federated Auto Parts Raceway Park 7:15 pm</display-name>
+  <channel id="DIRTVISION 02 :Volusia Speedway Park 6:00 pm">
+    <display-name lang="en">DIRTVISION 02 :Volusia Speedway Park 6:00 pm</display-name>
   </channel>
-  <channel id="DIRTVISION 03 : Farmer City Raceway 7:15 pm">
-    <display-name lang="en">DIRTVISION 03 : Farmer City Raceway 7:15 pm</display-name>
+  <channel id="DIRTVISION 03 : Farmer City Raceway 6:15 pm">
+    <display-name lang="en">DIRTVISION 03 : Farmer City Raceway 6:15 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 04 : I-55 Federated Auto Parts Raceway Park 7:15 pm">
+    <display-name lang="en">DIRTVISION 04 : I-55 Federated Auto Parts Raceway Park 7:15 pm</display-name>
+  </channel>
+  <channel id="Dirtvision 05 : Salina Highbanks Speedway 7:15 pm">
+    <display-name lang="en">Dirtvision 05 : Salina Highbanks Speedway 7:15 pm</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -1305,8 +1311,8 @@
   <channel id="GB-DAZN 26: Enterprise National League| Sutton United vs. Hartlepool| Sat 18 Oct 5:30 PM">
     <display-name lang="en">GB-DAZN 26: Enterprise National League| Sutton United vs. Hartlepool| Sat 18 Oct 5:30 PM</display-name>
   </channel>
-  <channel id="Super League plus  | Event 1St Helens v Catalans Dragons | Betfred Challenge Cup | Quarter Finals // UK Fri 10 Apr 7:55pm // ET Fri 10 Apr 2:55pm">
-    <display-name lang="en">Super League plus  | Event 1St Helens v Catalans Dragons | Betfred Challenge Cup | Quarter Finals // UK Fri 10 Apr 7:55pm // ET Fri 10 Apr 2:55pm</display-name>
+  <channel id="Super League plus  | Event 1 Warrington Wolves v Leigh Leopards | Betfred Challenge Cup | Quarter Finals // UK Sat 11 Apr 5:25pm // ET Sat 11 Apr 12:25pm">
+    <display-name lang="en">Super League plus  | Event 1 Warrington Wolves v Leigh Leopards | Betfred Challenge Cup | Quarter Finals // UK Sat 11 Apr 5:25pm // ET Sat 11 Apr 12:25pm</display-name>
   </channel>
   <channel id="Super League Plus | Event 2 Warrington Wolves v Leigh Leopards | Rivals Round | Betfred Super League // UK Sat 4 Apr 2:55pm // ET Sat 4 Apr 9:55am">
     <display-name lang="en">Super League Plus | Event 2 Warrington Wolves v Leigh Leopards | Rivals Round | Betfred Super League // UK Sat 4 Apr 2:55pm // ET Sat 4 Apr 9:55am</display-name>
@@ -9456,23 +9462,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411000000 -0500" channel="DIRTVISION 02 : I-55 Federated Auto Parts Raceway Park 7:15 pm" stop="20260411191500 -0500">
-    <title>[Upcoming: 07:15 PM] DIRTVISION 02 : I-55 Federated Auto Parts Raceway Park 7:15 pm</title>
+  <programme start="20260411000000 -0500" channel="DIRTVISION 02 :Volusia Speedway Park 6:00 pm" stop="20260411180000 -0500">
+    <title>[Upcoming: 06:00 PM] DIRTVISION 02 :Volusia Speedway Park 6:00 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411191500 -0500" channel="DIRTVISION 02 : I-55 Federated Auto Parts Raceway Park 7:15 pm" stop="20260411213500 -0500">
-    <title>[07:15 PM] DIRTVISION 02 : I-55 Federated Auto Parts Raceway Park 7:15 pm</title>
+  <programme start="20260411180000 -0500" channel="DIRTVISION 02 :Volusia Speedway Park 6:00 pm" stop="20260411202000 -0500">
+    <title>[06:00 PM] DIRTVISION 02 :Volusia Speedway Park 6:00 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411213500 -0500" channel="DIRTVISION 02 : I-55 Federated Auto Parts Raceway Park 7:15 pm" stop="20260411235959 -0500">
+  <programme start="20260411202000 -0500" channel="DIRTVISION 02 :Volusia Speedway Park 6:00 pm" stop="20260411235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9480,23 +9486,71 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411000000 -0500" channel="DIRTVISION 03 : Farmer City Raceway 7:15 pm" stop="20260411191500 -0500">
-    <title>[Upcoming: 07:15 PM] DIRTVISION 03 : Farmer City Raceway 7:15 pm</title>
+  <programme start="20260411000000 -0500" channel="DIRTVISION 03 : Farmer City Raceway 6:15 pm" stop="20260411181500 -0500">
+    <title>[Upcoming: 06:15 PM] DIRTVISION 03 : Farmer City Raceway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411191500 -0500" channel="DIRTVISION 03 : Farmer City Raceway 7:15 pm" stop="20260411213500 -0500">
-    <title>[07:15 PM] DIRTVISION 03 : Farmer City Raceway 7:15 pm</title>
+  <programme start="20260411181500 -0500" channel="DIRTVISION 03 : Farmer City Raceway 6:15 pm" stop="20260411203500 -0500">
+    <title>[06:15 PM] DIRTVISION 03 : Farmer City Raceway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411213500 -0500" channel="DIRTVISION 03 : Farmer City Raceway 7:15 pm" stop="20260411235959 -0500">
+  <programme start="20260411203500 -0500" channel="DIRTVISION 03 : Farmer City Raceway 6:15 pm" stop="20260411235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260411000000 -0500" channel="DIRTVISION 04 : I-55 Federated Auto Parts Raceway Park 7:15 pm" stop="20260411191500 -0500">
+    <title>[Upcoming: 07:15 PM] DIRTVISION 04 : I-55 Federated Auto Parts Raceway Park 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260411191500 -0500" channel="DIRTVISION 04 : I-55 Federated Auto Parts Raceway Park 7:15 pm" stop="20260411213500 -0500">
+    <title>[07:15 PM] DIRTVISION 04 : I-55 Federated Auto Parts Raceway Park 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260411213500 -0500" channel="DIRTVISION 04 : I-55 Federated Auto Parts Raceway Park 7:15 pm" stop="20260411235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260411000000 -0500" channel="Dirtvision 05 : Salina Highbanks Speedway 7:15 pm" stop="20260411191500 -0500">
+    <title>[Upcoming: 07:15 PM] Dirtvision 05 : Salina Highbanks Speedway 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260411191500 -0500" channel="Dirtvision 05 : Salina Highbanks Speedway 7:15 pm" stop="20260411213500 -0500">
+    <title>[07:15 PM] Dirtvision 05 : Salina Highbanks Speedway 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260411213500 -0500" channel="Dirtvision 05 : Salina Highbanks Speedway 7:15 pm" stop="20260411235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -12240,23 +12294,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411000000 -0500" channel="Super League plus  | Event 1St Helens v Catalans Dragons | Betfred Challenge Cup | Quarter Finals // UK Fri 10 Apr 7:55pm // ET Fri 10 Apr 2:55pm" stop="20260411135500 -0500">
-    <title>[Upcoming: 01:55 PM] Super League plus  | Event 1St Helens v Catalans Dragons | Betfred Challenge Cup | Quarter Finals // UK Fri 10 Apr 7:55pm // ET Fri 10 Apr 2:55pm</title>
+  <programme start="20260411000000 -0500" channel="Super League plus  | Event 1 Warrington Wolves v Leigh Leopards | Betfred Challenge Cup | Quarter Finals // UK Sat 11 Apr 5:25pm // ET Sat 11 Apr 12:25pm" stop="20260411112500 -0500">
+    <title>[Upcoming: 11:25 AM] Super League plus  | Event 1 Warrington Wolves v Leigh Leopards | Betfred Challenge Cup | Quarter Finals // UK Sat 11 Apr 5:25pm // ET Sat 11 Apr 12:25pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411135500 -0500" channel="Super League plus  | Event 1St Helens v Catalans Dragons | Betfred Challenge Cup | Quarter Finals // UK Fri 10 Apr 7:55pm // ET Fri 10 Apr 2:55pm" stop="20260411161500 -0500">
-    <title>[01:55 PM] Super League plus  | Event 1St Helens v Catalans Dragons | Betfred Challenge Cup | Quarter Finals // UK Fri 10 Apr 7:55pm // ET Fri 10 Apr 2:55pm</title>
+  <programme start="20260411112500 -0500" channel="Super League plus  | Event 1 Warrington Wolves v Leigh Leopards | Betfred Challenge Cup | Quarter Finals // UK Sat 11 Apr 5:25pm // ET Sat 11 Apr 12:25pm" stop="20260411134500 -0500">
+    <title>[11:25 AM] Super League plus  | Event 1 Warrington Wolves v Leigh Leopards | Betfred Challenge Cup | Quarter Finals // UK Sat 11 Apr 5:25pm // ET Sat 11 Apr 12:25pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411161500 -0500" channel="Super League plus  | Event 1St Helens v Catalans Dragons | Betfred Challenge Cup | Quarter Finals // UK Fri 10 Apr 7:55pm // ET Fri 10 Apr 2:55pm" stop="20260411235959 -0500">
+  <programme start="20260411134500 -0500" channel="Super League plus  | Event 1 Warrington Wolves v Leigh Leopards | Betfred Challenge Cup | Quarter Finals // UK Sat 11 Apr 5:25pm // ET Sat 11 Apr 12:25pm" stop="20260411235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
