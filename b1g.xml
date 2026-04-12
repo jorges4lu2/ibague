@@ -1500,11 +1500,14 @@
   <channel id="LIVE EVENT 02 - 9pm UFC 327 Prochazka v Ulberg">
     <display-name lang="en">LIVE EVENT 02 - 9pm UFC 327 Prochazka v Ulberg</display-name>
   </channel>
-  <channel id="LIVE EVENT 03 - 2pm Fury v Makhmudov">
-    <display-name lang="en">LIVE EVENT 03 - 2pm Fury v Makhmudov</display-name>
+  <channel id="LIVE EVENT 03 - 4:15pm NWMT Thompson">
+    <display-name lang="en">LIVE EVENT 03 - 4:15pm NWMT Thompson</display-name>
   </channel>
   <channel id="LIVE EVENT 04 - 11pm BKFC Fight Night Pitolo v Coltrane">
     <display-name lang="en">LIVE EVENT 04 - 11pm BKFC Fight Night Pitolo v Coltrane</display-name>
+  </channel>
+  <channel id="LIVE EVENT 05 - 6:10pm USAC Sprints Terre Haute">
+    <display-name lang="en">LIVE EVENT 05 - 6:10pm USAC Sprints Terre Haute</display-name>
   </channel>
   <channel id="LIVE EVENT 07 - 6pm PFL Chicago">
     <display-name lang="en">LIVE EVENT 07 - 6pm PFL Chicago</display-name>
@@ -1523,9 +1526,6 @@
   </channel>
   <channel id="LIVE EVENT 12 - 9pm Adams v Agyarko">
     <display-name lang="en">LIVE EVENT 12 - 9pm Adams v Agyarko</display-name>
-  </channel>
-  <channel id="LIVE EVENT 13 - 9am/3pm AMA Supercross Championship">
-    <display-name lang="en">LIVE EVENT 13 - 9am/3pm AMA Supercross Championship</display-name>
   </channel>
   <channel id="LIVE EVENT 14 - 3pm The Funny Car Chaos Classic">
     <display-name lang="en">LIVE EVENT 14 - 3pm The Funny Car Chaos Classic</display-name>
@@ -13800,23 +13800,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411000000 -0500" channel="LIVE EVENT 03 - 2pm Fury v Makhmudov" stop="20260411140000 -0500">
-    <title>[Upcoming: 02:00 PM] LIVE EVENT 03 - 2pm Fury v Makhmudov</title>
+  <programme start="20260411000000 -0500" channel="LIVE EVENT 03 - 4:15pm NWMT Thompson" stop="20260411151500 -0500">
+    <title>[Upcoming: 03:15 PM] LIVE EVENT 03 - 4:15pm NWMT Thompson</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411140000 -0500" channel="LIVE EVENT 03 - 2pm Fury v Makhmudov" stop="20260411162000 -0500">
-    <title>[02:00 PM] LIVE EVENT 03 - 2pm Fury v Makhmudov</title>
+  <programme start="20260411151500 -0500" channel="LIVE EVENT 03 - 4:15pm NWMT Thompson" stop="20260411173500 -0500">
+    <title>[03:15 PM] LIVE EVENT 03 - 4:15pm NWMT Thompson</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260411162000 -0500" channel="LIVE EVENT 03 - 2pm Fury v Makhmudov" stop="20260411235959 -0500">
+  <programme start="20260411173500 -0500" channel="LIVE EVENT 03 - 4:15pm NWMT Thompson" stop="20260411235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -13841,6 +13841,30 @@
     </audio>
   </programme>
   <programme start="20260412012000 -0500" channel="LIVE EVENT 04 - 11pm BKFC Fight Night Pitolo v Coltrane" stop="20260411235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260411000000 -0500" channel="LIVE EVENT 05 - 6:10pm USAC Sprints Terre Haute" stop="20260411171000 -0500">
+    <title>[Upcoming: 05:10 PM] LIVE EVENT 05 - 6:10pm USAC Sprints Terre Haute</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260411171000 -0500" channel="LIVE EVENT 05 - 6:10pm USAC Sprints Terre Haute" stop="20260411193000 -0500">
+    <title>[05:10 PM] LIVE EVENT 05 - 6:10pm USAC Sprints Terre Haute</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260411193000 -0500" channel="LIVE EVENT 05 - 6:10pm USAC Sprints Terre Haute" stop="20260411235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -13985,30 +14009,6 @@
     </audio>
   </programme>
   <programme start="20260411232000 -0500" channel="LIVE EVENT 12 - 9pm Adams v Agyarko" stop="20260411235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260411000000 -0500" channel="LIVE EVENT 13 - 9am/3pm AMA Supercross Championship" stop="20260411090000 -0500">
-    <title>[Upcoming: 09:00 AM] LIVE EVENT 13 - 9am/3pm AMA Supercross Championship</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260411090000 -0500" channel="LIVE EVENT 13 - 9am/3pm AMA Supercross Championship" stop="20260411112000 -0500">
-    <title>[09:00 AM] LIVE EVENT 13 - 9am/3pm AMA Supercross Championship</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260411112000 -0500" channel="LIVE EVENT 13 - 9am/3pm AMA Supercross Championship" stop="20260411235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
