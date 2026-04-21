@@ -201,11 +201,23 @@
   <channel id="L1 Pass 09 | PSG vs Lyon (Sun 19:45 UK)">
     <display-name lang="en">L1 Pass 09 | PSG vs Lyon (Sun 19:45 UK)</display-name>
   </channel>
+  <channel id="DEPORTIVO ALAVES (Tue 20:00 UK)">
+    <display-name lang="en">DEPORTIVO ALAVES (Tue 20:00 UK)</display-name>
+  </channel>
   <channel id="GETAFE CF (Mon 20:00 UK)">
     <display-name lang="en">GETAFE CF (Mon 20:00 UK)</display-name>
   </channel>
+  <channel id="GIRONA FC (Tue 20:30 UK)">
+    <display-name lang="en">GIRONA FC (Tue 20:30 UK)</display-name>
+  </channel>
   <channel id="LEVANTE UD (Mon 20:00 UK)">
     <display-name lang="en">LEVANTE UD (Mon 20:00 UK)</display-name>
+  </channel>
+  <channel id="REAL BETIS (Tue 20:30 UK)">
+    <display-name lang="en">REAL BETIS (Tue 20:30 UK)</display-name>
+  </channel>
+  <channel id="REAL MADRID CF (Tue 20:30 UK)">
+    <display-name lang="en">REAL MADRID CF (Tue 20:30 UK)</display-name>
   </channel>
   <channel id="01. EPL | Goal Rush Match Day # 33 (Sat 15:00 UK)">
     <display-name lang="en">01. EPL | Goal Rush Match Day # 33 (Sat 15:00 UK)</display-name>
@@ -2826,6 +2838,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260421000000 -0500" channel="DEPORTIVO ALAVES (Tue 20:00 UK)" stop="20260421140000 -0500">
+    <title>[Upcoming: 02:00 PM] DEPORTIVO ALAVES (Tue 20:00 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260421140000 -0500" channel="DEPORTIVO ALAVES (Tue 20:00 UK)" stop="20260421162000 -0500">
+    <title>[02:00 PM] DEPORTIVO ALAVES (Tue 20:00 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260421162000 -0500" channel="DEPORTIVO ALAVES (Tue 20:00 UK)" stop="20260421235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260421000000 -0500" channel="GETAFE CF (Mon 20:00 UK)" stop="20260421140000 -0500">
     <title>[Upcoming: 02:00 PM] GETAFE CF (Mon 20:00 UK)</title>
     <date>2026</date>
@@ -2850,6 +2886,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260421000000 -0500" channel="GIRONA FC (Tue 20:30 UK)" stop="20260421143000 -0500">
+    <title>[Upcoming: 02:30 PM] GIRONA FC (Tue 20:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260421143000 -0500" channel="GIRONA FC (Tue 20:30 UK)" stop="20260421165000 -0500">
+    <title>[02:30 PM] GIRONA FC (Tue 20:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260421165000 -0500" channel="GIRONA FC (Tue 20:30 UK)" stop="20260421235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260421000000 -0500" channel="LEVANTE UD (Mon 20:00 UK)" stop="20260421140000 -0500">
     <title>[Upcoming: 02:00 PM] LEVANTE UD (Mon 20:00 UK)</title>
     <date>2026</date>
@@ -2867,6 +2927,54 @@
     </audio>
   </programme>
   <programme start="20260421162000 -0500" channel="LEVANTE UD (Mon 20:00 UK)" stop="20260421235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260421000000 -0500" channel="REAL BETIS (Tue 20:30 UK)" stop="20260421143000 -0500">
+    <title>[Upcoming: 02:30 PM] REAL BETIS (Tue 20:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260421143000 -0500" channel="REAL BETIS (Tue 20:30 UK)" stop="20260421165000 -0500">
+    <title>[02:30 PM] REAL BETIS (Tue 20:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260421165000 -0500" channel="REAL BETIS (Tue 20:30 UK)" stop="20260421235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260421000000 -0500" channel="REAL MADRID CF (Tue 20:30 UK)" stop="20260421143000 -0500">
+    <title>[Upcoming: 02:30 PM] REAL MADRID CF (Tue 20:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260421143000 -0500" channel="REAL MADRID CF (Tue 20:30 UK)" stop="20260421165000 -0500">
+    <title>[02:30 PM] REAL MADRID CF (Tue 20:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260421165000 -0500" channel="REAL MADRID CF (Tue 20:30 UK)" stop="20260421235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
