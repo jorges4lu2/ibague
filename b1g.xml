@@ -159,11 +159,11 @@
   <channel id="MLB 16 | Cardinals x Tigers start:2026-04-06 00:20:00 stop:2026-04-06 07:33:20">
     <display-name lang="en">MLB 16 | Cardinals x Tigers start:2026-04-06 00:20:00 stop:2026-04-06 07:33:20</display-name>
   </channel>
-  <channel id="01. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)">
-    <display-name lang="en">01. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</display-name>
+  <channel id="01. Serie A | Pisa vs Lecce (Fri 19:45 UK)">
+    <display-name lang="en">01. Serie A | Pisa vs Lecce (Fri 19:45 UK)</display-name>
   </channel>
-  <channel id="02. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)">
-    <display-name lang="en">02. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</display-name>
+  <channel id="02. Serie A | Pisa vs Lecce (Fri 19:45 UK)">
+    <display-name lang="en">02. Serie A | Pisa vs Lecce (Fri 19:45 UK)</display-name>
   </channel>
   <channel id="NHL | 01 - 7pm Lightning @ Canadiens">
     <display-name lang="en">NHL | 01 - 7pm Lightning @ Canadiens</display-name>
@@ -195,11 +195,11 @@
   <channel id="WSL 01 | Arsenal vs Leicester City (Wed 19:00 UK)">
     <display-name lang="en">WSL 01 | Arsenal vs Leicester City (Wed 19:00 UK)</display-name>
   </channel>
-  <channel id="RCD ESPANYOL (Mon 20:00 UK)">
-    <display-name lang="en">RCD ESPANYOL (Mon 20:00 UK)</display-name>
+  <channel id="GIRONA FC (Fri 20:00 UK)">
+    <display-name lang="en">GIRONA FC (Fri 20:00 UK)</display-name>
   </channel>
-  <channel id="LEVANTE UD (Mon 20:00 UK)">
-    <display-name lang="en">LEVANTE UD (Mon 20:00 UK)</display-name>
+  <channel id="RCD MALLORCA (Fri 20:00 UK)">
+    <display-name lang="en">RCD MALLORCA (Fri 20:00 UK)</display-name>
   </channel>
   <channel id="01. EPL | Goal Rush Match Day # 34 (Sat 15:00 UK)">
     <display-name lang="en">01. EPL | Goal Rush Match Day # 34 (Sat 15:00 UK)</display-name>
@@ -336,6 +336,12 @@
   <channel id="ARSENAL F.C (Sat 17:30 UK)">
     <display-name lang="en">ARSENAL F.C (Sat 17:30 UK)</display-name>
   </channel>
+  <channel id="BURNLEY F.C (Fri 20:00 UK)">
+    <display-name lang="en">BURNLEY F.C (Fri 20:00 UK)</display-name>
+  </channel>
+  <channel id="LEEDS UNITED F.C (Fri 20:00 UK)">
+    <display-name lang="en">LEEDS UNITED F.C (Fri 20:00 UK)</display-name>
+  </channel>
   <channel id="11. EPL 03 | Newcastle United vs Brighton and Hove Albion (Sat 15:00 UK)">
     <display-name lang="en">11. EPL 03 | Newcastle United vs Brighton and Hove Albion (Sat 15:00 UK)</display-name>
   </channel>
@@ -441,14 +447,17 @@
   <channel id="TH | MonoMax PL 10: Everton vs Manchester City (Tue 20:00 UK)">
     <display-name lang="en">TH | MonoMax PL 10: Everton vs Manchester City (Tue 20:00 UK)</display-name>
   </channel>
-  <channel id="01. Super League | Hull KR vs Castleford (Thu 20:00 UK)">
-    <display-name lang="en">01. Super League | Hull KR vs Castleford (Thu 20:00 UK)</display-name>
+  <channel id="01. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)">
+    <display-name lang="en">01. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)</display-name>
   </channel>
-  <channel id="02. Super League | Hull KR vs Castleford (Thu 20:00 UK)">
-    <display-name lang="en">02. Super League | Hull KR vs Castleford (Thu 20:00 UK)</display-name>
+  <channel id="02. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)">
+    <display-name lang="en">02. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)</display-name>
   </channel>
-  <channel id="03. Super League | Hull KR vs Castleford (Thu 20:00 UK)">
-    <display-name lang="en">03. Super League | Hull KR vs Castleford (Thu 20:00 UK)</display-name>
+  <channel id="03. Super League | St Helens vs York Knights (Fri 20:00 UK)">
+    <display-name lang="en">03. Super League | St Helens vs York Knights (Fri 20:00 UK)</display-name>
+  </channel>
+  <channel id="04. Super League | St Helens vs York Knights (Fri 20:00 UK)">
+    <display-name lang="en">04. Super League | St Helens vs York Knights (Fri 20:00 UK)</display-name>
   </channel>
   <channel id="UFC 00 : UFC PERTH: CEREMONIAL WEIGH-IN start:2026-05-01 12:25:00 stop:2026-05-01 14:30:00">
     <display-name lang="en">UFC 00 : UFC PERTH: CEREMONIAL WEIGH-IN start:2026-05-01 12:25:00 stop:2026-05-01 14:30:00</display-name>
@@ -966,164 +975,128 @@
   <channel id="National League 03 | Scunthorpe vs Southend // UK Tue 28 Apr 7:45pm // ET Tue 28 Apr 2:45pm">
     <display-name lang="en">National League 03 | Scunthorpe vs Southend // UK Tue 28 Apr 7:45pm // ET Tue 28 Apr 2:45pm</display-name>
   </channel>
-  <channel id="01. HALO | World Snooker Championship (Thu 13:00/19:00 UK)">
-    <display-name lang="en">01. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</display-name>
+  <channel id="01. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)">
+    <display-name lang="en">01. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</display-name>
   </channel>
-  <channel id="02. HALO | World Snooker Championship (Thu 13:00/19:00 UK)">
-    <display-name lang="en">02. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</display-name>
+  <channel id="02. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)">
+    <display-name lang="en">02. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</display-name>
   </channel>
-  <channel id="03. HALO | World Snooker Championship (Thu 13:00/19:00 UK)">
-    <display-name lang="en">03. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</display-name>
+  <channel id="03. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)">
+    <display-name lang="en">03. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</display-name>
   </channel>
-  <channel id="04. HALO | World Snooker Championship (Thu 13:00/19:00 UK)">
-    <display-name lang="en">04. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</display-name>
+  <channel id="04. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)">
+    <display-name lang="en">04. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</display-name>
   </channel>
-  <channel id="05. HALO | World Snooker Championship (Thu 13:00/19:00 UK)">
-    <display-name lang="en">05. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</display-name>
+  <channel id="05. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)">
+    <display-name lang="en">05. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</display-name>
   </channel>
-  <channel id="06. Cycling | Tour of Turkiye (Thu 12:30 UK)">
-    <display-name lang="en">06. Cycling | Tour of Turkiye (Thu 12:30 UK)</display-name>
+  <channel id="06. Cycling | Tour of Turkiye (Fri 12:30 UK)">
+    <display-name lang="en">06. Cycling | Tour of Turkiye (Fri 12:30 UK)</display-name>
   </channel>
-  <channel id="07. Cycling | Tour de Romandie (Thu 14:30 UK)">
-    <display-name lang="en">07. Cycling | Tour de Romandie (Thu 14:30 UK)</display-name>
+  <channel id="07. Cycling | Tour de Romandie (Fri 14:45 UK)">
+    <display-name lang="en">07. Cycling | Tour de Romandie (Fri 14:45 UK)</display-name>
   </channel>
-  <channel id="08. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)">
-    <display-name lang="en">08. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)</display-name>
+  <channel id="08. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)">
+    <display-name lang="en">08. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)</display-name>
   </channel>
-  <channel id="09. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)">
-    <display-name lang="en">09. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)</display-name>
+  <channel id="09. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)">
+    <display-name lang="en">09. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)</display-name>
   </channel>
-  <channel id="10. Horse Racing | Punchestown (Thu 15:30 UK)">
-    <display-name lang="en">10. Horse Racing | Punchestown (Thu 15:30 UK)</display-name>
+  <channel id="10. Horse Racing | Punchestown (Fri 16:00 UK)">
+    <display-name lang="en">10. Horse Racing | Punchestown (Fri 16:00 UK)</display-name>
   </channel>
-  <channel id="11. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)">
-    <display-name lang="en">11. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)</display-name>
+  <channel id="11. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)">
+    <display-name lang="en">11. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)</display-name>
   </channel>
-  <channel id="12. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)">
-    <display-name lang="en">12. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)</display-name>
+  <channel id="12. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)">
+    <display-name lang="en">12. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)</display-name>
   </channel>
-  <channel id="13. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)">
-    <display-name lang="en">13. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)</display-name>
+  <channel id="13. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)">
+    <display-name lang="en">13. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)</display-name>
   </channel>
-  <channel id="14. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)">
-    <display-name lang="en">14. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)</display-name>
+  <channel id="14. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)">
+    <display-name lang="en">14. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)</display-name>
   </channel>
-  <channel id="15. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)">
-    <display-name lang="en">15. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)</display-name>
+  <channel id="15. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)">
+    <display-name lang="en">15. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)</display-name>
   </channel>
-  <channel id="16. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)">
-    <display-name lang="en">16. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)</display-name>
+  <channel id="16. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)">
+    <display-name lang="en">16. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)</display-name>
   </channel>
-  <channel id="17. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)">
-    <display-name lang="en">17. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)</display-name>
+  <channel id="17. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)">
+    <display-name lang="en">17. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)</display-name>
   </channel>
-  <channel id="18. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)">
-    <display-name lang="en">18. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</display-name>
+  <channel id="18. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)">
+    <display-name lang="en">18. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</display-name>
   </channel>
-  <channel id="19. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)">
-    <display-name lang="en">19. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</display-name>
+  <channel id="19. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)">
+    <display-name lang="en">19. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</display-name>
   </channel>
-  <channel id="20. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)">
-    <display-name lang="en">20. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</display-name>
+  <channel id="20. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)">
+    <display-name lang="en">20. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</display-name>
   </channel>
-  <channel id="21. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)">
-    <display-name lang="en">21. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</display-name>
+  <channel id="21. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)">
+    <display-name lang="en">21. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</display-name>
   </channel>
-  <channel id="22. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)">
-    <display-name lang="en">22. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</display-name>
+  <channel id="22. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)">
+    <display-name lang="en">22. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</display-name>
   </channel>
-  <channel id="23. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)">
-    <display-name lang="en">23. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</display-name>
+  <channel id="23. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)">
+    <display-name lang="en">23. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</display-name>
   </channel>
-  <channel id="24. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)">
-    <display-name lang="en">24. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</display-name>
+  <channel id="24. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)">
+    <display-name lang="en">24. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</display-name>
   </channel>
-  <channel id="25. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)">
-    <display-name lang="en">25. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</display-name>
+  <channel id="25. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)">
+    <display-name lang="en">25. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</display-name>
   </channel>
-  <channel id="26. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)">
-    <display-name lang="en">26. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)</display-name>
+  <channel id="26. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)">
+    <display-name lang="en">26. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)</display-name>
   </channel>
-  <channel id="27. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)">
-    <display-name lang="en">27. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)</display-name>
+  <channel id="27. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)">
+    <display-name lang="en">27. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)</display-name>
   </channel>
-  <channel id="28. LPGA | Riviera Maya Open (Thu 15:00 UK)">
-    <display-name lang="en">28. LPGA | Riviera Maya Open (Thu 15:00 UK)</display-name>
+  <channel id="28. LPGA | Riviera Maya Open (Fri 15:00 UK)">
+    <display-name lang="en">28. LPGA | Riviera Maya Open (Fri 15:00 UK)</display-name>
   </channel>
-  <channel id="29. LPGA | Riviera Maya Open (Thu 15:00 UK)">
-    <display-name lang="en">29. LPGA | Riviera Maya Open (Thu 15:00 UK)</display-name>
+  <channel id="29. LPGA | Riviera Maya Open (Fri 15:00 UK)">
+    <display-name lang="en">29. LPGA | Riviera Maya Open (Fri 15:00 UK)</display-name>
   </channel>
-  <channel id="30. LPGA | Riviera Maya Open (Thu 15:00 UK)">
-    <display-name lang="en">30. LPGA | Riviera Maya Open (Thu 15:00 UK)</display-name>
+  <channel id="30. LET | MCB Ladies Classic (Fri 11:00 UK)">
+    <display-name lang="en">30. LET | MCB Ladies Classic (Fri 11:00 UK)</display-name>
   </channel>
-  <channel id="31. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)">
-    <display-name lang="en">31. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</display-name>
+  <channel id="31. Surfing | WSL Championship Tour Gold Coast (Fri 22:30 UK)">
+    <display-name lang="en">31. Surfing | WSL Championship Tour Gold Coast (Fri 22:30 UK)</display-name>
   </channel>
-  <channel id="32. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)">
-    <display-name lang="en">32. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</display-name>
+  <channel id="32. SLB Basketball | Leicester vs Sheffield (Fri 19:30 UK)">
+    <display-name lang="en">32. SLB Basketball | Leicester vs Sheffield (Fri 19:30 UK)</display-name>
   </channel>
-  <channel id="33. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)">
-    <display-name lang="en">33. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</display-name>
+  <channel id="33. SLB Basketball | Surrey vs Cheshire (Fri 19:30 UK)">
+    <display-name lang="en">33. SLB Basketball | Surrey vs Cheshire (Fri 19:30 UK)</display-name>
   </channel>
-  <channel id="34. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)">
-    <display-name lang="en">34. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</display-name>
+  <channel id="34. Mountain Bike World Series | Yongpyong (Sat 04:30 UK)">
+    <display-name lang="en">34. Mountain Bike World Series | Yongpyong (Sat 04:30 UK)</display-name>
   </channel>
-  <channel id="35. SLB Basketball | Manchester vs Bristol (Thu 19:30 UK)">
-    <display-name lang="en">35. SLB Basketball | Manchester vs Bristol (Thu 19:30 UK)</display-name>
+  <channel id="35. Super Netball | Mavericks vs Swifts (Sat 08:00 UK)">
+    <display-name lang="en">35. Super Netball | Mavericks vs Swifts (Sat 08:00 UK)</display-name>
   </channel>
-  <channel id="03. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)">
-    <display-name lang="en">03. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</display-name>
+  <channel id="03. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)">
+    <display-name lang="en">03. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)</display-name>
   </channel>
-  <channel id="04. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)">
-    <display-name lang="en">04. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</display-name>
+  <channel id="04. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)">
+    <display-name lang="en">04. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)</display-name>
   </channel>
-  <channel id="05. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)">
-    <display-name lang="en">05. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</display-name>
+  <channel id="BOXING: Carter Efe vs, Habeeb 'Portable' Badmus (Fri 18:00 UK)">
+    <display-name lang="en">BOXING: Carter Efe vs, Habeeb 'Portable' Badmus (Fri 18:00 UK)</display-name>
   </channel>
-  <channel id="06. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)">
-    <display-name lang="en">06. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</display-name>
+  <channel id="BOXING: Tsendbaatar Erdenebat vs. Cobia Breedy (Fri 21:00 UK)">
+    <display-name lang="en">BOXING: Tsendbaatar Erdenebat vs. Cobia Breedy (Fri 21:00 UK)</display-name>
   </channel>
-  <channel id="07. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)">
-    <display-name lang="en">07. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</display-name>
+  <channel id="BOXING: Naoya Inoue vs. Junto Nakatani FHD (Sat 08:00 UK)">
+    <display-name lang="en">BOXING: Naoya Inoue vs. Junto Nakatani FHD (Sat 08:00 UK)</display-name>
   </channel>
-  <channel id="08. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)">
-    <display-name lang="en">08. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</display-name>
-  </channel>
-  <channel id="09. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)">
-    <display-name lang="en">09. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</display-name>
-  </channel>
-  <channel id="10. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)">
-    <display-name lang="en">10. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</display-name>
-  </channel>
-  <channel id="11. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)">
-    <display-name lang="en">11. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</display-name>
-  </channel>
-  <channel id="12. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)">
-    <display-name lang="en">12. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</display-name>
-  </channel>
-  <channel id="13. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)">
-    <display-name lang="en">13. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</display-name>
-  </channel>
-  <channel id="14. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)">
-    <display-name lang="en">14. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</display-name>
-  </channel>
-  <channel id="15. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)">
-    <display-name lang="en">15. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</display-name>
-  </channel>
-  <channel id="16. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)">
-    <display-name lang="en">16. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</display-name>
-  </channel>
-  <channel id="UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal FHD (Sat 23:00 UK)">
-    <display-name lang="en">UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal FHD (Sat 23:00 UK)</display-name>
-  </channel>
-  <channel id="UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal HD (Sat 23:00 UK)">
-    <display-name lang="en">UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal HD (Sat 23:00 UK)</display-name>
-  </channel>
-  <channel id="BOXING: Jacob Bank vs. Paulinus Ndjolonimu (Sat 18:00 UK)">
-    <display-name lang="en">BOXING: Jacob Bank vs. Paulinus Ndjolonimu (Sat 18:00 UK)</display-name>
-  </channel>
-  <channel id="BOXING: Jarrell Miller vs, Cuban Lenier Pero (Sun 01:00 UK)">
-    <display-name lang="en">BOXING: Jarrell Miller vs, Cuban Lenier Pero (Sun 01:00 UK)</display-name>
+  <channel id="BOXING: Naoya Inoue vs. Junto Nakatani HD (Sat 08:00 UK)">
+    <display-name lang="en">BOXING: Naoya Inoue vs. Junto Nakatani HD (Sat 08:00 UK)</display-name>
   </channel>
   <channel id="LIVE EVENT 01 - 9:30am ONE Friday Fights 152 Kongklai v Lobo">
     <display-name lang="en">LIVE EVENT 01 - 9:30am ONE Friday Fights 152 Kongklai v Lobo</display-name>
@@ -1158,23 +1131,23 @@
   <channel id="05. PSL | Hyderabad Kingsmen vs Islamabad United (Fri 15:00 UK)">
     <display-name lang="en">05. PSL | Hyderabad Kingsmen vs Islamabad United (Fri 15:00 UK)</display-name>
   </channel>
-  <channel id="06. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)">
-    <display-name lang="en">06. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</display-name>
+  <channel id="06. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)">
+    <display-name lang="en">06. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</display-name>
   </channel>
-  <channel id="07. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)">
-    <display-name lang="en">07. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</display-name>
+  <channel id="07. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)">
+    <display-name lang="en">07. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</display-name>
   </channel>
-  <channel id="08. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)">
-    <display-name lang="en">08. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</display-name>
+  <channel id="08. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)">
+    <display-name lang="en">08. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</display-name>
   </channel>
-  <channel id="09. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)">
-    <display-name lang="en">09. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</display-name>
+  <channel id="09. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)">
+    <display-name lang="en">09. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</display-name>
   </channel>
-  <channel id="10. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)">
-    <display-name lang="en">10. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</display-name>
+  <channel id="10. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)">
+    <display-name lang="en">10. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</display-name>
   </channel>
-  <channel id="11. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)">
-    <display-name lang="en">11. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</display-name>
+  <channel id="11. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)">
+    <display-name lang="en">11. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</display-name>
   </channel>
   <channel id="36. EPL 09 | Chelsea vs Nottingham Forest (Mon 15:00 UK)">
     <display-name lang="en">36. EPL 09 | Chelsea vs Nottingham Forest (Mon 15:00 UK)</display-name>
@@ -2637,23 +2610,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="01. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 01. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="01. Serie A | Pisa vs Lecce (Fri 19:45 UK)" stop="20260501134500 -0500">
+    <title>[Upcoming: 01:45 PM] 01. Serie A | Pisa vs Lecce (Fri 19:45 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="01. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 01. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</title>
+  <programme start="20260501134500 -0500" channel="01. Serie A | Pisa vs Lecce (Fri 19:45 UK)" stop="20260501160500 -0500">
+    <title>[01:45 PM] 01. Serie A | Pisa vs Lecce (Fri 19:45 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="01. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501160500 -0500" channel="01. Serie A | Pisa vs Lecce (Fri 19:45 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2661,23 +2634,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="02. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 02. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="02. Serie A | Pisa vs Lecce (Fri 19:45 UK)" stop="20260501134500 -0500">
+    <title>[Upcoming: 01:45 PM] 02. Serie A | Pisa vs Lecce (Fri 19:45 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="02. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 02. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</title>
+  <programme start="20260501134500 -0500" channel="02. Serie A | Pisa vs Lecce (Fri 19:45 UK)" stop="20260501160500 -0500">
+    <title>[01:45 PM] 02. Serie A | Pisa vs Lecce (Fri 19:45 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="02. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501160500 -0500" channel="02. Serie A | Pisa vs Lecce (Fri 19:45 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2925,23 +2898,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="RCD ESPANYOL (Mon 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] RCD ESPANYOL (Mon 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="GIRONA FC (Fri 20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] GIRONA FC (Fri 20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="RCD ESPANYOL (Mon 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] RCD ESPANYOL (Mon 20:00 UK)</title>
+  <programme start="20260501140000 -0500" channel="GIRONA FC (Fri 20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] GIRONA FC (Fri 20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="RCD ESPANYOL (Mon 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501162000 -0500" channel="GIRONA FC (Fri 20:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -2949,23 +2922,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="LEVANTE UD (Mon 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] LEVANTE UD (Mon 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="RCD MALLORCA (Fri 20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] RCD MALLORCA (Fri 20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="LEVANTE UD (Mon 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] LEVANTE UD (Mon 20:00 UK)</title>
+  <programme start="20260501140000 -0500" channel="RCD MALLORCA (Fri 20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] RCD MALLORCA (Fri 20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="LEVANTE UD (Mon 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501162000 -0500" channel="RCD MALLORCA (Fri 20:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4053,6 +4026,54 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260501000000 -0500" channel="BURNLEY F.C (Fri 20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] BURNLEY F.C (Fri 20:00 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501140000 -0500" channel="BURNLEY F.C (Fri 20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] BURNLEY F.C (Fri 20:00 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501162000 -0500" channel="BURNLEY F.C (Fri 20:00 UK)" stop="20260501235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501000000 -0500" channel="LEEDS UNITED F.C (Fri 20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] LEEDS UNITED F.C (Fri 20:00 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501140000 -0500" channel="LEEDS UNITED F.C (Fri 20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] LEEDS UNITED F.C (Fri 20:00 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501162000 -0500" channel="LEEDS UNITED F.C (Fri 20:00 UK)" stop="20260501235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260501000000 -0500" channel="11. EPL 03 | Newcastle United vs Brighton and Hove Albion (Sat 15:00 UK)" stop="20260501090000 -0500">
     <title>[Upcoming: 09:00 AM] 11. EPL 03 | Newcastle United vs Brighton and Hove Albion (Sat 15:00 UK)</title>
     <date>2026</date>
@@ -4893,23 +4914,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="01. Super League | Hull KR vs Castleford (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 01. Super League | Hull KR vs Castleford (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="01. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] 01. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="01. Super League | Hull KR vs Castleford (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 01. Super League | Hull KR vs Castleford (Thu 20:00 UK)</title>
+  <programme start="20260501140000 -0500" channel="01. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] 01. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="01. Super League | Hull KR vs Castleford (Thu 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501162000 -0500" channel="01. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4917,23 +4938,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="02. Super League | Hull KR vs Castleford (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 02. Super League | Hull KR vs Castleford (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="02. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] 02. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="02. Super League | Hull KR vs Castleford (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 02. Super League | Hull KR vs Castleford (Thu 20:00 UK)</title>
+  <programme start="20260501140000 -0500" channel="02. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] 02. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="02. Super League | Hull KR vs Castleford (Thu 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501162000 -0500" channel="02. Super League | Leeds Rhinos vs Wakefield Trinity (Fri 20:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4941,23 +4962,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="03. Super League | Hull KR vs Castleford (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 03. Super League | Hull KR vs Castleford (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="03. Super League | St Helens vs York Knights (Fri 20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] 03. Super League | St Helens vs York Knights (Fri 20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="03. Super League | Hull KR vs Castleford (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 03. Super League | Hull KR vs Castleford (Thu 20:00 UK)</title>
+  <programme start="20260501140000 -0500" channel="03. Super League | St Helens vs York Knights (Fri 20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] 03. Super League | St Helens vs York Knights (Fri 20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="03. Super League | Hull KR vs Castleford (Thu 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501162000 -0500" channel="03. Super League | St Helens vs York Knights (Fri 20:00 UK)" stop="20260501235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501000000 -0500" channel="04. Super League | St Helens vs York Knights (Fri 20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] 04. Super League | St Helens vs York Knights (Fri 20:00 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501140000 -0500" channel="04. Super League | St Helens vs York Knights (Fri 20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] 04. Super League | St Helens vs York Knights (Fri 20:00 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501162000 -0500" channel="04. Super League | St Helens vs York Knights (Fri 20:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9093,23 +9138,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="01. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 01. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="01. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501130000 -0500">
+    <title>[Upcoming: 01:00 PM] 01. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="01. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 01. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</title>
+  <programme start="20260501130000 -0500" channel="01. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501152000 -0500">
+    <title>[01:00 PM] 01. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="01. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501152000 -0500" channel="01. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9117,23 +9162,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="02. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 02. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="02. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501130000 -0500">
+    <title>[Upcoming: 01:00 PM] 02. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="02. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 02. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</title>
+  <programme start="20260501130000 -0500" channel="02. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501152000 -0500">
+    <title>[01:00 PM] 02. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="02. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501152000 -0500" channel="02. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9141,23 +9186,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="03. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 03. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="03. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501130000 -0500">
+    <title>[Upcoming: 01:00 PM] 03. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="03. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 03. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</title>
+  <programme start="20260501130000 -0500" channel="03. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501152000 -0500">
+    <title>[01:00 PM] 03. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="03. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501152000 -0500" channel="03. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9165,23 +9210,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="04. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 04. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="04. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501130000 -0500">
+    <title>[Upcoming: 01:00 PM] 04. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="04. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 04. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</title>
+  <programme start="20260501130000 -0500" channel="04. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501152000 -0500">
+    <title>[01:00 PM] 04. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="04. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501152000 -0500" channel="04. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9189,23 +9234,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="05. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 05. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="05. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501130000 -0500">
+    <title>[Upcoming: 01:00 PM] 05. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="05. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 05. HALO | World Snooker Championship (Thu 13:00/19:00 UK)</title>
+  <programme start="20260501130000 -0500" channel="05. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501152000 -0500">
+    <title>[01:00 PM] 05. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="05. HALO | World Snooker Championship (Thu 13:00/19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501152000 -0500" channel="05. HALO | World Snooker Championship (Fri 10:00/14:30/19:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9213,23 +9258,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="06. Cycling | Tour of Turkiye (Thu 12:30 UK)" stop="20260501063000 -0500">
-    <title>[Upcoming: 06:30 AM] 06. Cycling | Tour of Turkiye (Thu 12:30 UK)</title>
+  <programme start="20260501000000 -0500" channel="06. Cycling | Tour of Turkiye (Fri 12:30 UK)" stop="20260501063000 -0500">
+    <title>[Upcoming: 06:30 AM] 06. Cycling | Tour of Turkiye (Fri 12:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501063000 -0500" channel="06. Cycling | Tour of Turkiye (Thu 12:30 UK)" stop="20260501085000 -0500">
-    <title>[06:30 AM] 06. Cycling | Tour of Turkiye (Thu 12:30 UK)</title>
+  <programme start="20260501063000 -0500" channel="06. Cycling | Tour of Turkiye (Fri 12:30 UK)" stop="20260501085000 -0500">
+    <title>[06:30 AM] 06. Cycling | Tour of Turkiye (Fri 12:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501085000 -0500" channel="06. Cycling | Tour of Turkiye (Thu 12:30 UK)" stop="20260501235959 -0500">
+  <programme start="20260501085000 -0500" channel="06. Cycling | Tour of Turkiye (Fri 12:30 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9237,23 +9282,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="07. Cycling | Tour de Romandie (Thu 14:30 UK)" stop="20260501083000 -0500">
-    <title>[Upcoming: 08:30 AM] 07. Cycling | Tour de Romandie (Thu 14:30 UK)</title>
+  <programme start="20260501000000 -0500" channel="07. Cycling | Tour de Romandie (Fri 14:45 UK)" stop="20260501084500 -0500">
+    <title>[Upcoming: 08:45 AM] 07. Cycling | Tour de Romandie (Fri 14:45 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501083000 -0500" channel="07. Cycling | Tour de Romandie (Thu 14:30 UK)" stop="20260501105000 -0500">
-    <title>[08:30 AM] 07. Cycling | Tour de Romandie (Thu 14:30 UK)</title>
+  <programme start="20260501084500 -0500" channel="07. Cycling | Tour de Romandie (Fri 14:45 UK)" stop="20260501110500 -0500">
+    <title>[08:45 AM] 07. Cycling | Tour de Romandie (Fri 14:45 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501105000 -0500" channel="07. Cycling | Tour de Romandie (Thu 14:30 UK)" stop="20260501235959 -0500">
+  <programme start="20260501110500 -0500" channel="07. Cycling | Tour de Romandie (Fri 14:45 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9261,23 +9306,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="08. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)" stop="20260501110000 -0500">
-    <title>[Upcoming: 11:00 AM] 08. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="08. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)" stop="20260501110000 -0500">
+    <title>[Upcoming: 11:00 AM] 08. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501110000 -0500" channel="08. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)" stop="20260501132000 -0500">
-    <title>[11:00 AM] 08. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)</title>
+  <programme start="20260501110000 -0500" channel="08. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)" stop="20260501132000 -0500">
+    <title>[11:00 AM] 08. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501132000 -0500" channel="08. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501132000 -0500" channel="08. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9285,23 +9330,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="09. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)" stop="20260501110000 -0500">
-    <title>[Upcoming: 11:00 AM] 09. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="09. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)" stop="20260501110000 -0500">
+    <title>[Upcoming: 11:00 AM] 09. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501110000 -0500" channel="09. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)" stop="20260501132000 -0500">
-    <title>[11:00 AM] 09. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)</title>
+  <programme start="20260501110000 -0500" channel="09. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)" stop="20260501132000 -0500">
+    <title>[11:00 AM] 09. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501132000 -0500" channel="09. Badminton | BWF Thomas and Uber Cup Finals (Thu 09:00/17:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501132000 -0500" channel="09. Badminton | BWF Thomas and Uber Cup Finals (Fri 09:00/17:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9309,23 +9354,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="10. Horse Racing | Punchestown (Thu 15:30 UK)" stop="20260501093000 -0500">
-    <title>[Upcoming: 09:30 AM] 10. Horse Racing | Punchestown (Thu 15:30 UK)</title>
+  <programme start="20260501000000 -0500" channel="10. Horse Racing | Punchestown (Fri 16:00 UK)" stop="20260501100000 -0500">
+    <title>[Upcoming: 10:00 AM] 10. Horse Racing | Punchestown (Fri 16:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501093000 -0500" channel="10. Horse Racing | Punchestown (Thu 15:30 UK)" stop="20260501115000 -0500">
-    <title>[09:30 AM] 10. Horse Racing | Punchestown (Thu 15:30 UK)</title>
+  <programme start="20260501100000 -0500" channel="10. Horse Racing | Punchestown (Fri 16:00 UK)" stop="20260501122000 -0500">
+    <title>[10:00 AM] 10. Horse Racing | Punchestown (Fri 16:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501115000 -0500" channel="10. Horse Racing | Punchestown (Thu 15:30 UK)" stop="20260501235959 -0500">
+  <programme start="20260501122000 -0500" channel="10. Horse Racing | Punchestown (Fri 16:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9333,23 +9378,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="11. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 11. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="11. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)" stop="20260501130000 -0500">
+    <title>[Upcoming: 01:00 PM] 11. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="11. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 11. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)</title>
+  <programme start="20260501130000 -0500" channel="11. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)" stop="20260501152000 -0500">
+    <title>[01:00 PM] 11. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="11. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501152000 -0500" channel="11. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9357,23 +9402,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="12. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 12. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="12. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)" stop="20260501130000 -0500">
+    <title>[Upcoming: 01:00 PM] 12. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="12. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 12. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)</title>
+  <programme start="20260501130000 -0500" channel="12. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)" stop="20260501152000 -0500">
+    <title>[01:00 PM] 12. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="12. ATP Tour | Madrid Open (Thu 12:00/19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501152000 -0500" channel="12. ATP Tour | Madrid Open (Fri 15:00/19:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9381,23 +9426,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="13. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)" stop="20260501143000 -0500">
-    <title>[Upcoming: 02:30 PM] 13. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)</title>
+  <programme start="20260501000000 -0500" channel="13. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)" stop="20260501143000 -0500">
+    <title>[Upcoming: 02:30 PM] 13. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501143000 -0500" channel="13. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)" stop="20260501165000 -0500">
-    <title>[02:30 PM] 13. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)</title>
+  <programme start="20260501143000 -0500" channel="13. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)" stop="20260501165000 -0500">
+    <title>[02:30 PM] 13. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501165000 -0500" channel="13. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)" stop="20260501235959 -0500">
+  <programme start="20260501165000 -0500" channel="13. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9405,23 +9450,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="14. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)" stop="20260501143000 -0500">
-    <title>[Upcoming: 02:30 PM] 14. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)</title>
+  <programme start="20260501000000 -0500" channel="14. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)" stop="20260501143000 -0500">
+    <title>[Upcoming: 02:30 PM] 14. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501143000 -0500" channel="14. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)" stop="20260501165000 -0500">
-    <title>[02:30 PM] 14. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)</title>
+  <programme start="20260501143000 -0500" channel="14. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)" stop="20260501165000 -0500">
+    <title>[02:30 PM] 14. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501165000 -0500" channel="14. WTA Tour | Madrid Open (Thu 15:00/20:30 UK)" stop="20260501235959 -0500">
+  <programme start="20260501165000 -0500" channel="14. WTA Tour | Madrid Open (Fri 15:00/20:30 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9429,23 +9474,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="15. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)" stop="20260501230000 -0500">
-    <title>[Upcoming: 11:00 PM] 15. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="15. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)" stop="20260501220000 -0500">
+    <title>[Upcoming: 10:00 PM] 15. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501230000 -0500" channel="15. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)" stop="20260502012000 -0500">
-    <title>[11:00 PM] 15. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)</title>
+  <programme start="20260501220000 -0500" channel="15. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)" stop="20260502002000 -0500">
+    <title>[10:00 PM] 15. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260502012000 -0500" channel="15. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260502002000 -0500" channel="15. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9453,23 +9498,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="16. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)" stop="20260501230000 -0500">
-    <title>[Upcoming: 11:00 PM] 16. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="16. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)" stop="20260501220000 -0500">
+    <title>[Upcoming: 10:00 PM] 16. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501230000 -0500" channel="16. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)" stop="20260502012000 -0500">
-    <title>[11:00 PM] 16. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)</title>
+  <programme start="20260501220000 -0500" channel="16. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)" stop="20260502002000 -0500">
+    <title>[10:00 PM] 16. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260502012000 -0500" channel="16. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260502002000 -0500" channel="16. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9477,23 +9522,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="17. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)" stop="20260501230000 -0500">
-    <title>[Upcoming: 11:00 PM] 17. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="17. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)" stop="20260501220000 -0500">
+    <title>[Upcoming: 10:00 PM] 17. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501230000 -0500" channel="17. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)" stop="20260502012000 -0500">
-    <title>[11:00 PM] 17. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)</title>
+  <programme start="20260501220000 -0500" channel="17. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)" stop="20260502002000 -0500">
+    <title>[10:00 PM] 17. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260502012000 -0500" channel="17. Asian Tour | GS Caltex Maekyung Open (Fri 05:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260502002000 -0500" channel="17. Asian Tour | GS Caltex Maekyung Open (Sat 04:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9501,23 +9546,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="18. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501050000 -0500">
-    <title>[Upcoming: 05:00 AM] 18. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="18. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501050000 -0500">
+    <title>[Upcoming: 05:00 AM] 18. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501050000 -0500" channel="18. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501072000 -0500">
-    <title>[05:00 AM] 18. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</title>
+  <programme start="20260501050000 -0500" channel="18. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501072000 -0500">
+    <title>[05:00 AM] 18. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501072000 -0500" channel="18. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501072000 -0500" channel="18. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9525,23 +9570,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="19. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501050000 -0500">
-    <title>[Upcoming: 05:00 AM] 19. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="19. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501050000 -0500">
+    <title>[Upcoming: 05:00 AM] 19. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501050000 -0500" channel="19. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501072000 -0500">
-    <title>[05:00 AM] 19. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</title>
+  <programme start="20260501050000 -0500" channel="19. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501072000 -0500">
+    <title>[05:00 AM] 19. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501072000 -0500" channel="19. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501072000 -0500" channel="19. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9549,23 +9594,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="20. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501050000 -0500">
-    <title>[Upcoming: 05:00 AM] 20. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="20. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501050000 -0500">
+    <title>[Upcoming: 05:00 AM] 20. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501050000 -0500" channel="20. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501072000 -0500">
-    <title>[05:00 AM] 20. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</title>
+  <programme start="20260501050000 -0500" channel="20. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501072000 -0500">
+    <title>[05:00 AM] 20. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501072000 -0500" channel="20. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501072000 -0500" channel="20. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9573,23 +9618,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="21. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501050000 -0500">
-    <title>[Upcoming: 05:00 AM] 21. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="21. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501050000 -0500">
+    <title>[Upcoming: 05:00 AM] 21. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501050000 -0500" channel="21. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501072000 -0500">
-    <title>[05:00 AM] 21. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)</title>
+  <programme start="20260501050000 -0500" channel="21. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501072000 -0500">
+    <title>[05:00 AM] 21. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501072000 -0500" channel="21. DP World Tour | Turkish Airlines Open (Thu 11:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501072000 -0500" channel="21. DP World Tour | Turkish Airlines Open (Fri 11:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9597,23 +9642,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="22. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 22. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="22. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] 22. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="22. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 22. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</title>
+  <programme start="20260501140000 -0500" channel="22. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] 22. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="22. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501162000 -0500" channel="22. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9621,23 +9666,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="23. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 23. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="23. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] 23. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="23. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 23. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</title>
+  <programme start="20260501140000 -0500" channel="23. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] 23. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="23. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501162000 -0500" channel="23. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9645,23 +9690,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="24. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 24. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="24. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] 24. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="24. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 24. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</title>
+  <programme start="20260501140000 -0500" channel="24. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] 24. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="24. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501162000 -0500" channel="24. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9669,23 +9714,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="25. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 25. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="25. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501140000 -0500">
+    <title>[Upcoming: 02:00 PM] 25. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="25. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 25. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)</title>
+  <programme start="20260501140000 -0500" channel="25. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501162000 -0500">
+    <title>[02:00 PM] 25. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="25. PGA Tour | Cadillac Championship (Thu 13:30/20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501162000 -0500" channel="25. PGA Tour | Cadillac Championship (Fri 13:30/20:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9693,23 +9738,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="26. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)" stop="20260501110000 -0500">
-    <title>[Upcoming: 11:00 AM] 26. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="26. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)" stop="20260501110000 -0500">
+    <title>[Upcoming: 11:00 AM] 26. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501110000 -0500" channel="26. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)" stop="20260501132000 -0500">
-    <title>[11:00 AM] 26. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)</title>
+  <programme start="20260501110000 -0500" channel="26. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)" stop="20260501132000 -0500">
+    <title>[11:00 AM] 26. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501132000 -0500" channel="26. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501132000 -0500" channel="26. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9717,23 +9762,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="27. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)" stop="20260501110000 -0500">
-    <title>[Upcoming: 11:00 AM] 27. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="27. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)" stop="20260501110000 -0500">
+    <title>[Upcoming: 11:00 AM] 27. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501110000 -0500" channel="27. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)" stop="20260501132000 -0500">
-    <title>[11:00 AM] 27. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)</title>
+  <programme start="20260501110000 -0500" channel="27. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)" stop="20260501132000 -0500">
+    <title>[11:00 AM] 27. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501132000 -0500" channel="27. PGA Tour Champions | Regions Traditional (Thu 17:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501132000 -0500" channel="27. PGA Tour Champions | Regions Traditional (Fri 17:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9741,23 +9786,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="28. LPGA | Riviera Maya Open (Thu 15:00 UK)" stop="20260501090000 -0500">
-    <title>[Upcoming: 09:00 AM] 28. LPGA | Riviera Maya Open (Thu 15:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="28. LPGA | Riviera Maya Open (Fri 15:00 UK)" stop="20260501090000 -0500">
+    <title>[Upcoming: 09:00 AM] 28. LPGA | Riviera Maya Open (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501090000 -0500" channel="28. LPGA | Riviera Maya Open (Thu 15:00 UK)" stop="20260501112000 -0500">
-    <title>[09:00 AM] 28. LPGA | Riviera Maya Open (Thu 15:00 UK)</title>
+  <programme start="20260501090000 -0500" channel="28. LPGA | Riviera Maya Open (Fri 15:00 UK)" stop="20260501112000 -0500">
+    <title>[09:00 AM] 28. LPGA | Riviera Maya Open (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501112000 -0500" channel="28. LPGA | Riviera Maya Open (Thu 15:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501112000 -0500" channel="28. LPGA | Riviera Maya Open (Fri 15:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9765,23 +9810,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="29. LPGA | Riviera Maya Open (Thu 15:00 UK)" stop="20260501090000 -0500">
-    <title>[Upcoming: 09:00 AM] 29. LPGA | Riviera Maya Open (Thu 15:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="29. LPGA | Riviera Maya Open (Fri 15:00 UK)" stop="20260501090000 -0500">
+    <title>[Upcoming: 09:00 AM] 29. LPGA | Riviera Maya Open (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501090000 -0500" channel="29. LPGA | Riviera Maya Open (Thu 15:00 UK)" stop="20260501112000 -0500">
-    <title>[09:00 AM] 29. LPGA | Riviera Maya Open (Thu 15:00 UK)</title>
+  <programme start="20260501090000 -0500" channel="29. LPGA | Riviera Maya Open (Fri 15:00 UK)" stop="20260501112000 -0500">
+    <title>[09:00 AM] 29. LPGA | Riviera Maya Open (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501112000 -0500" channel="29. LPGA | Riviera Maya Open (Thu 15:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501112000 -0500" channel="29. LPGA | Riviera Maya Open (Fri 15:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9789,23 +9834,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="30. LPGA | Riviera Maya Open (Thu 15:00 UK)" stop="20260501090000 -0500">
-    <title>[Upcoming: 09:00 AM] 30. LPGA | Riviera Maya Open (Thu 15:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="30. LET | MCB Ladies Classic (Fri 11:00 UK)" stop="20260501050000 -0500">
+    <title>[Upcoming: 05:00 AM] 30. LET | MCB Ladies Classic (Fri 11:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501090000 -0500" channel="30. LPGA | Riviera Maya Open (Thu 15:00 UK)" stop="20260501112000 -0500">
-    <title>[09:00 AM] 30. LPGA | Riviera Maya Open (Thu 15:00 UK)</title>
+  <programme start="20260501050000 -0500" channel="30. LET | MCB Ladies Classic (Fri 11:00 UK)" stop="20260501072000 -0500">
+    <title>[05:00 AM] 30. LET | MCB Ladies Classic (Fri 11:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501112000 -0500" channel="30. LPGA | Riviera Maya Open (Thu 15:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501072000 -0500" channel="30. LET | MCB Ladies Classic (Fri 11:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9813,23 +9858,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="31. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 31. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="31. Surfing | WSL Championship Tour Gold Coast (Fri 22:30 UK)" stop="20260501163000 -0500">
+    <title>[Upcoming: 04:30 PM] 31. Surfing | WSL Championship Tour Gold Coast (Fri 22:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="31. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 31. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</title>
+  <programme start="20260501163000 -0500" channel="31. Surfing | WSL Championship Tour Gold Coast (Fri 22:30 UK)" stop="20260501185000 -0500">
+    <title>[04:30 PM] 31. Surfing | WSL Championship Tour Gold Coast (Fri 22:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="31. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501185000 -0500" channel="31. Surfing | WSL Championship Tour Gold Coast (Fri 22:30 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9837,23 +9882,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="32. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 32. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="32. SLB Basketball | Leicester vs Sheffield (Fri 19:30 UK)" stop="20260501133000 -0500">
+    <title>[Upcoming: 01:30 PM] 32. SLB Basketball | Leicester vs Sheffield (Fri 19:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="32. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 32. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</title>
+  <programme start="20260501133000 -0500" channel="32. SLB Basketball | Leicester vs Sheffield (Fri 19:30 UK)" stop="20260501155000 -0500">
+    <title>[01:30 PM] 32. SLB Basketball | Leicester vs Sheffield (Fri 19:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="32. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501155000 -0500" channel="32. SLB Basketball | Leicester vs Sheffield (Fri 19:30 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9861,23 +9906,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="33. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 33. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="33. SLB Basketball | Surrey vs Cheshire (Fri 19:30 UK)" stop="20260501133000 -0500">
+    <title>[Upcoming: 01:30 PM] 33. SLB Basketball | Surrey vs Cheshire (Fri 19:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="33. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 33. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</title>
+  <programme start="20260501133000 -0500" channel="33. SLB Basketball | Surrey vs Cheshire (Fri 19:30 UK)" stop="20260501155000 -0500">
+    <title>[01:30 PM] 33. SLB Basketball | Surrey vs Cheshire (Fri 19:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="33. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501155000 -0500" channel="33. SLB Basketball | Surrey vs Cheshire (Fri 19:30 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9885,23 +9930,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="34. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501130000 -0500">
-    <title>[Upcoming: 01:00 PM] 34. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="34. Mountain Bike World Series | Yongpyong (Sat 04:30 UK)" stop="20260501223000 -0500">
+    <title>[Upcoming: 10:30 PM] 34. Mountain Bike World Series | Yongpyong (Sat 04:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501130000 -0500" channel="34. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501152000 -0500">
-    <title>[01:00 PM] 34. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)</title>
+  <programme start="20260501223000 -0500" channel="34. Mountain Bike World Series | Yongpyong (Sat 04:30 UK)" stop="20260502005000 -0500">
+    <title>[10:30 PM] 34. Mountain Bike World Series | Yongpyong (Sat 04:30 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501152000 -0500" channel="34. PL Darts | Night 13: Aberdeen (Thu 19:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260502005000 -0500" channel="34. Mountain Bike World Series | Yongpyong (Sat 04:30 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9909,23 +9954,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="35. SLB Basketball | Manchester vs Bristol (Thu 19:30 UK)" stop="20260501133000 -0500">
-    <title>[Upcoming: 01:30 PM] 35. SLB Basketball | Manchester vs Bristol (Thu 19:30 UK)</title>
+  <programme start="20260501000000 -0500" channel="35. Super Netball | Mavericks vs Swifts (Sat 08:00 UK)" stop="20260501020000 -0500">
+    <title>[Upcoming: 02:00 AM] 35. Super Netball | Mavericks vs Swifts (Sat 08:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501133000 -0500" channel="35. SLB Basketball | Manchester vs Bristol (Thu 19:30 UK)" stop="20260501155000 -0500">
-    <title>[01:30 PM] 35. SLB Basketball | Manchester vs Bristol (Thu 19:30 UK)</title>
+  <programme start="20260501020000 -0500" channel="35. Super Netball | Mavericks vs Swifts (Sat 08:00 UK)" stop="20260501042000 -0500">
+    <title>[02:00 AM] 35. Super Netball | Mavericks vs Swifts (Sat 08:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501155000 -0500" channel="35. SLB Basketball | Manchester vs Bristol (Thu 19:30 UK)" stop="20260501235959 -0500">
+  <programme start="20260501042000 -0500" channel="35. Super Netball | Mavericks vs Swifts (Sat 08:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9933,23 +9978,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="03. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 03. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="03. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)" stop="20260501120000 -0500">
+    <title>[Upcoming: 12:00 PM] 03. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="03. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 03. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</title>
+  <programme start="20260501120000 -0500" channel="03. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)" stop="20260501142000 -0500">
+    <title>[12:00 PM] 03. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="03. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501142000 -0500" channel="03. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9957,23 +10002,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="04. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 04. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="04. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)" stop="20260501120000 -0500">
+    <title>[Upcoming: 12:00 PM] 04. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="04. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 04. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)</title>
+  <programme start="20260501120000 -0500" channel="04. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)" stop="20260501142000 -0500">
+    <title>[12:00 PM] 04. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="04. UEFA EL | Nottingham Forest vs Aston Villa (Thu 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501142000 -0500" channel="04. Super Lig | Gaziantep vs Besiktas (Fri 18:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9981,23 +10026,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="05. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 05. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="BOXING: Carter Efe vs, Habeeb 'Portable' Badmus (Fri 18:00 UK)" stop="20260501120000 -0500">
+    <title>[Upcoming: 12:00 PM] BOXING: Carter Efe vs, Habeeb 'Portable' Badmus (Fri 18:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="05. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 05. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</title>
+  <programme start="20260501120000 -0500" channel="BOXING: Carter Efe vs, Habeeb 'Portable' Badmus (Fri 18:00 UK)" stop="20260501142000 -0500">
+    <title>[12:00 PM] BOXING: Carter Efe vs, Habeeb 'Portable' Badmus (Fri 18:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="05. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501142000 -0500" channel="BOXING: Carter Efe vs, Habeeb 'Portable' Badmus (Fri 18:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -10005,23 +10050,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="06. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 06. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="BOXING: Tsendbaatar Erdenebat vs. Cobia Breedy (Fri 21:00 UK)" stop="20260501150000 -0500">
+    <title>[Upcoming: 03:00 PM] BOXING: Tsendbaatar Erdenebat vs. Cobia Breedy (Fri 21:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="06. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 06. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</title>
+  <programme start="20260501150000 -0500" channel="BOXING: Tsendbaatar Erdenebat vs. Cobia Breedy (Fri 21:00 UK)" stop="20260501172000 -0500">
+    <title>[03:00 PM] BOXING: Tsendbaatar Erdenebat vs. Cobia Breedy (Fri 21:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="06. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501172000 -0500" channel="BOXING: Tsendbaatar Erdenebat vs. Cobia Breedy (Fri 21:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -10029,23 +10074,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="07. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 07. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="BOXING: Naoya Inoue vs. Junto Nakatani FHD (Sat 08:00 UK)" stop="20260501020000 -0500">
+    <title>[Upcoming: 02:00 AM] BOXING: Naoya Inoue vs. Junto Nakatani FHD (Sat 08:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="07. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 07. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</title>
+  <programme start="20260501020000 -0500" channel="BOXING: Naoya Inoue vs. Junto Nakatani FHD (Sat 08:00 UK)" stop="20260501042000 -0500">
+    <title>[02:00 AM] BOXING: Naoya Inoue vs. Junto Nakatani FHD (Sat 08:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="07. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501042000 -0500" channel="BOXING: Naoya Inoue vs. Junto Nakatani FHD (Sat 08:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -10053,311 +10098,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="08. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 08. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="BOXING: Naoya Inoue vs. Junto Nakatani HD (Sat 08:00 UK)" stop="20260501020000 -0500">
+    <title>[Upcoming: 02:00 AM] BOXING: Naoya Inoue vs. Junto Nakatani HD (Sat 08:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501140000 -0500" channel="08. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 08. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)</title>
+  <programme start="20260501020000 -0500" channel="BOXING: Naoya Inoue vs. Junto Nakatani HD (Sat 08:00 UK)" stop="20260501042000 -0500">
+    <title>[02:00 AM] BOXING: Naoya Inoue vs. Junto Nakatani HD (Sat 08:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501162000 -0500" channel="08. UEFA EL | Braga vs Freiburg (Thu 20:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="09. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 09. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501140000 -0500" channel="09. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 09. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501162000 -0500" channel="09. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="10. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 10. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501140000 -0500" channel="10. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 10. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501162000 -0500" channel="10. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="11. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 11. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501140000 -0500" channel="11. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 11. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501162000 -0500" channel="11. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="12. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 12. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501140000 -0500" channel="12. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 12. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501162000 -0500" channel="12. UEFA CFL | Shakhtar vs Crystal Palace (Thu 20:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="13. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 13. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501140000 -0500" channel="13. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 13. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501162000 -0500" channel="13. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="14. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 14. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501140000 -0500" channel="14. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 14. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501162000 -0500" channel="14. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="15. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 15. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501140000 -0500" channel="15. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 15. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501162000 -0500" channel="15. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="16. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501140000 -0500">
-    <title>[Upcoming: 02:00 PM] 16. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501140000 -0500" channel="16. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501162000 -0500">
-    <title>[02:00 PM] 16. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501162000 -0500" channel="16. UEFA CFL | Rayo Vallecano vs Strasbourg (Thu 20:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal FHD (Sat 23:00 UK)" stop="20260501170000 -0500">
-    <title>[Upcoming: 05:00 PM] UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal FHD (Sat 23:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501170000 -0500" channel="UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal FHD (Sat 23:00 UK)" stop="20260501192000 -0500">
-    <title>[05:00 PM] UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal FHD (Sat 23:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501192000 -0500" channel="UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal FHD (Sat 23:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal HD (Sat 23:00 UK)" stop="20260501170000 -0500">
-    <title>[Upcoming: 05:00 PM] UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal HD (Sat 23:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501170000 -0500" channel="UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal HD (Sat 23:00 UK)" stop="20260501192000 -0500">
-    <title>[05:00 PM] UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal HD (Sat 23:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501192000 -0500" channel="UFC Vegas 116: Aljamain Sterling vs. Youssef Zalal HD (Sat 23:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="BOXING: Jacob Bank vs. Paulinus Ndjolonimu (Sat 18:00 UK)" stop="20260501120000 -0500">
-    <title>[Upcoming: 12:00 PM] BOXING: Jacob Bank vs. Paulinus Ndjolonimu (Sat 18:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501120000 -0500" channel="BOXING: Jacob Bank vs. Paulinus Ndjolonimu (Sat 18:00 UK)" stop="20260501142000 -0500">
-    <title>[12:00 PM] BOXING: Jacob Bank vs. Paulinus Ndjolonimu (Sat 18:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501142000 -0500" channel="BOXING: Jacob Bank vs. Paulinus Ndjolonimu (Sat 18:00 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="BOXING: Jarrell Miller vs, Cuban Lenier Pero (Sun 01:00 UK)" stop="20260501190000 -0500">
-    <title>[Upcoming: 07:00 PM] BOXING: Jarrell Miller vs, Cuban Lenier Pero (Sun 01:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501190000 -0500" channel="BOXING: Jarrell Miller vs, Cuban Lenier Pero (Sun 01:00 UK)" stop="20260501212000 -0500">
-    <title>[07:00 PM] BOXING: Jarrell Miller vs, Cuban Lenier Pero (Sun 01:00 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501212000 -0500" channel="BOXING: Jarrell Miller vs, Cuban Lenier Pero (Sun 01:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501042000 -0500" channel="BOXING: Naoya Inoue vs. Junto Nakatani HD (Sat 08:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -10629,23 +10386,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="06. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501090000 -0500">
-    <title>[Upcoming: 09:00 AM] 06. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="06. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501090000 -0500">
+    <title>[Upcoming: 09:00 AM] 06. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501090000 -0500" channel="06. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501112000 -0500">
-    <title>[09:00 AM] 06. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501090000 -0500" channel="06. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501112000 -0500">
+    <title>[09:00 AM] 06. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501112000 -0500" channel="06. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501112000 -0500" channel="06. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -10653,23 +10410,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="07. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501090000 -0500">
-    <title>[Upcoming: 09:00 AM] 07. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="07. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501090000 -0500">
+    <title>[Upcoming: 09:00 AM] 07. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501090000 -0500" channel="07. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501112000 -0500">
-    <title>[09:00 AM] 07. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501090000 -0500" channel="07. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501112000 -0500">
+    <title>[09:00 AM] 07. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501112000 -0500" channel="07. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501112000 -0500" channel="07. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -10677,23 +10434,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="08. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501090000 -0500">
-    <title>[Upcoming: 09:00 AM] 08. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="08. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501090000 -0500">
+    <title>[Upcoming: 09:00 AM] 08. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501090000 -0500" channel="08. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501112000 -0500">
-    <title>[09:00 AM] 08. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501090000 -0500" channel="08. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501112000 -0500">
+    <title>[09:00 AM] 08. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501112000 -0500" channel="08. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501112000 -0500" channel="08. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -10701,23 +10458,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="09. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501090000 -0500">
-    <title>[Upcoming: 09:00 AM] 09. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="09. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501090000 -0500">
+    <title>[Upcoming: 09:00 AM] 09. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501090000 -0500" channel="09. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501112000 -0500">
-    <title>[09:00 AM] 09. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501090000 -0500" channel="09. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501112000 -0500">
+    <title>[09:00 AM] 09. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501112000 -0500" channel="09. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501112000 -0500" channel="09. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -10725,23 +10482,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="10. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501090000 -0500">
-    <title>[Upcoming: 09:00 AM] 10. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="10. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501090000 -0500">
+    <title>[Upcoming: 09:00 AM] 10. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501090000 -0500" channel="10. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501112000 -0500">
-    <title>[09:00 AM] 10. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501090000 -0500" channel="10. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501112000 -0500">
+    <title>[09:00 AM] 10. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501112000 -0500" channel="10. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501112000 -0500" channel="10. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -10749,23 +10506,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="11. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501090000 -0500">
-    <title>[Upcoming: 09:00 AM] 11. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501000000 -0500" channel="11. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501090000 -0500">
+    <title>[Upcoming: 09:00 AM] 11. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501090000 -0500" channel="11. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501112000 -0500">
-    <title>[09:00 AM] 11. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)</title>
+  <programme start="20260501090000 -0500" channel="11. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501112000 -0500">
+    <title>[09:00 AM] 11. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501112000 -0500" channel="11. IPL | Gujarat Titans vs Royal Challengers (Thu 15:00 UK)" stop="20260501235959 -0500">
+  <programme start="20260501112000 -0500" channel="11. IPL | Rajasthan Royals vs Delhi Capitals (Fri 15:00 UK)" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
