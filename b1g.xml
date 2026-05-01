@@ -333,9 +333,6 @@
   <channel id="Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm">
     <display-name lang="en">Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm</display-name>
   </channel>
-  <channel id="ARSENAL F.C (Sat 17:30 UK)">
-    <display-name lang="en">ARSENAL F.C (Sat 17:30 UK)</display-name>
-  </channel>
   <channel id="BURNLEY F.C (Fri 20:00 UK)">
     <display-name lang="en">BURNLEY F.C (Fri 20:00 UK)</display-name>
   </channel>
@@ -611,6 +608,12 @@
   </channel>
   <channel id="DIRTVISION 01 : Mississippi Thunder Speedway 6:45 pm">
     <display-name lang="en">DIRTVISION 01 : Mississippi Thunder Speedway 6:45 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 02 : Williams Grove Speedway 7:00 pm">
+    <display-name lang="en">DIRTVISION 02 : Williams Grove Speedway 7:00 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 03 : Jacksonville Speedway 7:15 pm">
+    <display-name lang="en">DIRTVISION 03 : Jacksonville Speedway 7:15 pm</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -1100,9 +1103,6 @@
   </channel>
   <channel id="LIVE EVENT 01 - 9:30am ONE Friday Fights 152 Kongklai v Lobo">
     <display-name lang="en">LIVE EVENT 01 - 9:30am ONE Friday Fights 152 Kongklai v Lobo</display-name>
-  </channel>
-  <channel id="LIVE EVENT 02 - 8am Eternal MMA 105">
-    <display-name lang="en">LIVE EVENT 02 - 8am Eternal MMA 105</display-name>
   </channel>
   <channel id="LIVE EVENT 03 - 1pm Efe v Portable">
     <display-name lang="en">LIVE EVENT 03 - 1pm Efe v Portable</display-name>
@@ -4053,30 +4053,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260501000000 -0500" channel="ARSENAL F.C (Sat 17:30 UK)" stop="20260501113000 -0500">
-    <title>[Upcoming: 11:30 AM] ARSENAL F.C (Sat 17:30 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501113000 -0500" channel="ARSENAL F.C (Sat 17:30 UK)" stop="20260501135000 -0500">
-    <title>[11:30 AM] ARSENAL F.C (Sat 17:30 UK)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501135000 -0500" channel="ARSENAL F.C (Sat 17:30 UK)" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260501000000 -0500" channel="BURNLEY F.C (Fri 20:00 UK)" stop="20260501140000 -0500">
     <title>[Upcoming: 02:00 PM] BURNLEY F.C (Fri 20:00 UK)</title>
     <date>2026</date>
@@ -6278,6 +6254,54 @@
     </audio>
   </programme>
   <programme start="20260501210500 -0500" channel="DIRTVISION 01 : Mississippi Thunder Speedway 6:45 pm" stop="20260501235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501000000 -0500" channel="DIRTVISION 02 : Williams Grove Speedway 7:00 pm" stop="20260501190000 -0500">
+    <title>[Upcoming: 07:00 PM] DIRTVISION 02 : Williams Grove Speedway 7:00 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501190000 -0500" channel="DIRTVISION 02 : Williams Grove Speedway 7:00 pm" stop="20260501212000 -0500">
+    <title>[07:00 PM] DIRTVISION 02 : Williams Grove Speedway 7:00 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501212000 -0500" channel="DIRTVISION 02 : Williams Grove Speedway 7:00 pm" stop="20260501235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501000000 -0500" channel="DIRTVISION 03 : Jacksonville Speedway 7:15 pm" stop="20260501191500 -0500">
+    <title>[Upcoming: 07:15 PM] DIRTVISION 03 : Jacksonville Speedway 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501191500 -0500" channel="DIRTVISION 03 : Jacksonville Speedway 7:15 pm" stop="20260501213500 -0500">
+    <title>[07:15 PM] DIRTVISION 03 : Jacksonville Speedway 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260501213500 -0500" channel="DIRTVISION 03 : Jacksonville Speedway 7:15 pm" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -10190,30 +10214,6 @@
     </audio>
   </programme>
   <programme start="20260501105000 -0500" channel="LIVE EVENT 01 - 9:30am ONE Friday Fights 152 Kongklai v Lobo" stop="20260501235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501000000 -0500" channel="LIVE EVENT 02 - 8am Eternal MMA 105" stop="20260501080000 -0500">
-    <title>[Upcoming: 08:00 AM] LIVE EVENT 02 - 8am Eternal MMA 105</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501080000 -0500" channel="LIVE EVENT 02 - 8am Eternal MMA 105" stop="20260501102000 -0500">
-    <title>[08:00 AM] LIVE EVENT 02 - 8am Eternal MMA 105</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260501102000 -0500" channel="LIVE EVENT 02 - 8am Eternal MMA 105" stop="20260501235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
