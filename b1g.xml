@@ -1239,14 +1239,14 @@
   <channel id="BOXING: David Benavidez vs.Gilberto Zurdo Ramirez (Sun 22:30 UK)">
     <display-name lang="en">BOXING: David Benavidez vs.Gilberto Zurdo Ramirez (Sun 22:30 UK)</display-name>
   </channel>
+  <channel id="LIVE EVENT 01 - 4pm Prelims UFC 328">
+    <display-name lang="en">LIVE EVENT 01 - 4pm Prelims UFC 328</display-name>
+  </channel>
   <channel id="LIVE EVENT 02 - 9:30am ACA 203 Gaforov v Akopyan">
     <display-name lang="en">LIVE EVENT 02 - 9:30am ACA 203 Gaforov v Akopyan</display-name>
   </channel>
-  <channel id="LIVE EVENT 03 - 10am UAE Warriors 70">
-    <display-name lang="en">LIVE EVENT 03 - 10am UAE Warriors 70</display-name>
-  </channel>
-  <channel id="LIVE EVENT 04 - 9:45am USAC Road Racing COTA">
-    <display-name lang="en">LIVE EVENT 04 - 9:45am USAC Road Racing COTA</display-name>
+  <channel id="LIVE EVENT 03 - 4pm WWE Backlash">
+    <display-name lang="en">LIVE EVENT 03 - 4pm WWE Backlash</display-name>
   </channel>
   <channel id="LIVE EVENT 05 - 5:30pm Weekly Racing Stafford">
     <display-name lang="en">LIVE EVENT 05 - 5:30pm Weekly Racing Stafford</display-name>
@@ -1254,8 +1254,8 @@
   <channel id="LIVE EVENT 06 - 6pm Kentucky Battle of the Thrones">
     <display-name lang="en">LIVE EVENT 06 - 6pm Kentucky Battle of the Thrones</display-name>
   </channel>
-  <channel id="LIVE EVENT 07 - 6pm HLR Bryan Clauson Hero Classic Kokomo">
-    <display-name lang="en">LIVE EVENT 07 - 6pm HLR Bryan Clauson Hero Classic Kokomo</display-name>
+  <channel id="LIVE EVENT 07 - 10am UAE Warriors 71">
+    <display-name lang="en">LIVE EVENT 07 - 10am UAE Warriors 71</display-name>
   </channel>
   <channel id="LIVE EVENT 08 - 6:15pm Weekly Racing Utica">
     <display-name lang="en">LIVE EVENT 08 - 6:15pm Weekly Racing Utica</display-name>
@@ -1263,20 +1263,17 @@
   <channel id="LIVE EVENT 09 - 6:15pm World of Outlaws Sprint Cars">
     <display-name lang="en">LIVE EVENT 09 - 6:15pm World of Outlaws Sprint Cars</display-name>
   </channel>
-  <channel id="LIVE EVENT 10 - 6:30pm Attica Sprint Cars">
-    <display-name lang="en">LIVE EVENT 10 - 6:30pm Attica Sprint Cars</display-name>
+  <channel id="LIVE EVENT 10 - 9:45am USAC Road Racing COTA">
+    <display-name lang="en">LIVE EVENT 10 - 9:45am USAC Road Racing COTA</display-name>
   </channel>
-  <channel id="LIVE EVENT 11 - 6:45pm Lucas Oil Late Models Farmer City">
-    <display-name lang="en">LIVE EVENT 11 - 6:45pm Lucas Oil Late Models Farmer City</display-name>
+  <channel id="LIVE EVENT 11 - 1/7pm AMA Supercross Championship Salt Lake City">
+    <display-name lang="en">LIVE EVENT 11 - 1/7pm AMA Supercross Championship Salt Lake City</display-name>
   </channel>
-  <channel id="LIVE EVENT 12 - 7pm IRA Sprints Davenport">
-    <display-name lang="en">LIVE EVENT 12 - 7pm IRA Sprints Davenport</display-name>
+  <channel id="LIVE EVENT 12 - 3:30pm Nascar Weekly Racing Berlin">
+    <display-name lang="en">LIVE EVENT 12 - 3:30pm Nascar Weekly Racing Berlin</display-name>
   </channel>
-  <channel id="LIVE EVENT 13 - 7pm Spring Nationals Ponderosa">
-    <display-name lang="en">LIVE EVENT 13 - 7pm Spring Nationals Ponderosa</display-name>
-  </channel>
-  <channel id="LIVE EVENT 14 - 7:15pm Jacksonville Sprints">
-    <display-name lang="en">LIVE EVENT 14 - 7:15pm Jacksonville Sprints</display-name>
+  <channel id="LIVE EVENT 13 - 5:15pm Nascar Weekly Racing Riverhead">
+    <display-name lang="en">LIVE EVENT 13 - 5:15pm Nascar Weekly Racing Riverhead</display-name>
   </channel>
   <channel id="LIVE EVENT 15 - 7:30pm USAC Silver Crowns Kansas">
     <display-name lang="en">LIVE EVENT 15 - 7:30pm USAC Silver Crowns Kansas</display-name>
@@ -11436,6 +11433,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260508000000 -0500" channel="LIVE EVENT 01 - 4pm Prelims UFC 328" stop="20260508160000 -0500">
+    <title>[Upcoming: 04:00 PM] LIVE EVENT 01 - 4pm Prelims UFC 328</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260508160000 -0500" channel="LIVE EVENT 01 - 4pm Prelims UFC 328" stop="20260508182000 -0500">
+    <title>[04:00 PM] LIVE EVENT 01 - 4pm Prelims UFC 328</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260508182000 -0500" channel="LIVE EVENT 01 - 4pm Prelims UFC 328" stop="20260508235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260508000000 -0500" channel="LIVE EVENT 02 - 9:30am ACA 203 Gaforov v Akopyan" stop="20260508083000 -0500">
     <title>[Upcoming: 08:30 AM] LIVE EVENT 02 - 9:30am ACA 203 Gaforov v Akopyan</title>
     <date>2026</date>
@@ -11460,47 +11481,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508000000 -0500" channel="LIVE EVENT 03 - 10am UAE Warriors 70" stop="20260508100000 -0500">
-    <title>[Upcoming: 10:00 AM] LIVE EVENT 03 - 10am UAE Warriors 70</title>
+  <programme start="20260508000000 -0500" channel="LIVE EVENT 03 - 4pm WWE Backlash" stop="20260508160000 -0500">
+    <title>[Upcoming: 04:00 PM] LIVE EVENT 03 - 4pm WWE Backlash</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508100000 -0500" channel="LIVE EVENT 03 - 10am UAE Warriors 70" stop="20260508122000 -0500">
-    <title>[10:00 AM] LIVE EVENT 03 - 10am UAE Warriors 70</title>
+  <programme start="20260508160000 -0500" channel="LIVE EVENT 03 - 4pm WWE Backlash" stop="20260508182000 -0500">
+    <title>[04:00 PM] LIVE EVENT 03 - 4pm WWE Backlash</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508122000 -0500" channel="LIVE EVENT 03 - 10am UAE Warriors 70" stop="20260508235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260508000000 -0500" channel="LIVE EVENT 04 - 9:45am USAC Road Racing COTA" stop="20260508084500 -0500">
-    <title>[Upcoming: 08:45 AM] LIVE EVENT 04 - 9:45am USAC Road Racing COTA</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260508084500 -0500" channel="LIVE EVENT 04 - 9:45am USAC Road Racing COTA" stop="20260508110500 -0500">
-    <title>[08:45 AM] LIVE EVENT 04 - 9:45am USAC Road Racing COTA</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260508110500 -0500" channel="LIVE EVENT 04 - 9:45am USAC Road Racing COTA" stop="20260508235959 -0500">
+  <programme start="20260508182000 -0500" channel="LIVE EVENT 03 - 4pm WWE Backlash" stop="20260508235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11556,23 +11553,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508000000 -0500" channel="LIVE EVENT 07 - 6pm HLR Bryan Clauson Hero Classic Kokomo" stop="20260508180000 -0500">
-    <title>[Upcoming: 06:00 PM] LIVE EVENT 07 - 6pm HLR Bryan Clauson Hero Classic Kokomo</title>
+  <programme start="20260508000000 -0500" channel="LIVE EVENT 07 - 10am UAE Warriors 71" stop="20260508100000 -0500">
+    <title>[Upcoming: 10:00 AM] LIVE EVENT 07 - 10am UAE Warriors 71</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508180000 -0500" channel="LIVE EVENT 07 - 6pm HLR Bryan Clauson Hero Classic Kokomo" stop="20260508202000 -0500">
-    <title>[06:00 PM] LIVE EVENT 07 - 6pm HLR Bryan Clauson Hero Classic Kokomo</title>
+  <programme start="20260508100000 -0500" channel="LIVE EVENT 07 - 10am UAE Warriors 71" stop="20260508122000 -0500">
+    <title>[10:00 AM] LIVE EVENT 07 - 10am UAE Warriors 71</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508202000 -0500" channel="LIVE EVENT 07 - 6pm HLR Bryan Clauson Hero Classic Kokomo" stop="20260508235959 -0500">
+  <programme start="20260508122000 -0500" channel="LIVE EVENT 07 - 10am UAE Warriors 71" stop="20260508235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11628,23 +11625,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508000000 -0500" channel="LIVE EVENT 10 - 6:30pm Attica Sprint Cars" stop="20260508173000 -0500">
-    <title>[Upcoming: 05:30 PM] LIVE EVENT 10 - 6:30pm Attica Sprint Cars</title>
+  <programme start="20260508000000 -0500" channel="LIVE EVENT 10 - 9:45am USAC Road Racing COTA" stop="20260508084500 -0500">
+    <title>[Upcoming: 08:45 AM] LIVE EVENT 10 - 9:45am USAC Road Racing COTA</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508173000 -0500" channel="LIVE EVENT 10 - 6:30pm Attica Sprint Cars" stop="20260508195000 -0500">
-    <title>[05:30 PM] LIVE EVENT 10 - 6:30pm Attica Sprint Cars</title>
+  <programme start="20260508084500 -0500" channel="LIVE EVENT 10 - 9:45am USAC Road Racing COTA" stop="20260508110500 -0500">
+    <title>[08:45 AM] LIVE EVENT 10 - 9:45am USAC Road Racing COTA</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508195000 -0500" channel="LIVE EVENT 10 - 6:30pm Attica Sprint Cars" stop="20260508235959 -0500">
+  <programme start="20260508110500 -0500" channel="LIVE EVENT 10 - 9:45am USAC Road Racing COTA" stop="20260508235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11652,23 +11649,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508000000 -0500" channel="LIVE EVENT 11 - 6:45pm Lucas Oil Late Models Farmer City" stop="20260508174500 -0500">
-    <title>[Upcoming: 05:45 PM] LIVE EVENT 11 - 6:45pm Lucas Oil Late Models Farmer City</title>
+  <programme start="20260508000000 -0500" channel="LIVE EVENT 11 - 1/7pm AMA Supercross Championship Salt Lake City" stop="20260508190000 -0500">
+    <title>[Upcoming: 07:00 PM] LIVE EVENT 11 - 1/7pm AMA Supercross Championship Salt Lake City</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508174500 -0500" channel="LIVE EVENT 11 - 6:45pm Lucas Oil Late Models Farmer City" stop="20260508200500 -0500">
-    <title>[05:45 PM] LIVE EVENT 11 - 6:45pm Lucas Oil Late Models Farmer City</title>
+  <programme start="20260508190000 -0500" channel="LIVE EVENT 11 - 1/7pm AMA Supercross Championship Salt Lake City" stop="20260508212000 -0500">
+    <title>[07:00 PM] LIVE EVENT 11 - 1/7pm AMA Supercross Championship Salt Lake City</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508200500 -0500" channel="LIVE EVENT 11 - 6:45pm Lucas Oil Late Models Farmer City" stop="20260508235959 -0500">
+  <programme start="20260508212000 -0500" channel="LIVE EVENT 11 - 1/7pm AMA Supercross Championship Salt Lake City" stop="20260508235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11676,23 +11673,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508000000 -0500" channel="LIVE EVENT 12 - 7pm IRA Sprints Davenport" stop="20260508190000 -0500">
-    <title>[Upcoming: 07:00 PM] LIVE EVENT 12 - 7pm IRA Sprints Davenport</title>
+  <programme start="20260508000000 -0500" channel="LIVE EVENT 12 - 3:30pm Nascar Weekly Racing Berlin" stop="20260508143000 -0500">
+    <title>[Upcoming: 02:30 PM] LIVE EVENT 12 - 3:30pm Nascar Weekly Racing Berlin</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508190000 -0500" channel="LIVE EVENT 12 - 7pm IRA Sprints Davenport" stop="20260508212000 -0500">
-    <title>[07:00 PM] LIVE EVENT 12 - 7pm IRA Sprints Davenport</title>
+  <programme start="20260508143000 -0500" channel="LIVE EVENT 12 - 3:30pm Nascar Weekly Racing Berlin" stop="20260508165000 -0500">
+    <title>[02:30 PM] LIVE EVENT 12 - 3:30pm Nascar Weekly Racing Berlin</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508212000 -0500" channel="LIVE EVENT 12 - 7pm IRA Sprints Davenport" stop="20260508235959 -0500">
+  <programme start="20260508165000 -0500" channel="LIVE EVENT 12 - 3:30pm Nascar Weekly Racing Berlin" stop="20260508235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11700,47 +11697,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508000000 -0500" channel="LIVE EVENT 13 - 7pm Spring Nationals Ponderosa" stop="20260508190000 -0500">
-    <title>[Upcoming: 07:00 PM] LIVE EVENT 13 - 7pm Spring Nationals Ponderosa</title>
+  <programme start="20260508000000 -0500" channel="LIVE EVENT 13 - 5:15pm Nascar Weekly Racing Riverhead" stop="20260508161500 -0500">
+    <title>[Upcoming: 04:15 PM] LIVE EVENT 13 - 5:15pm Nascar Weekly Racing Riverhead</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508190000 -0500" channel="LIVE EVENT 13 - 7pm Spring Nationals Ponderosa" stop="20260508212000 -0500">
-    <title>[07:00 PM] LIVE EVENT 13 - 7pm Spring Nationals Ponderosa</title>
+  <programme start="20260508161500 -0500" channel="LIVE EVENT 13 - 5:15pm Nascar Weekly Racing Riverhead" stop="20260508183500 -0500">
+    <title>[04:15 PM] LIVE EVENT 13 - 5:15pm Nascar Weekly Racing Riverhead</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260508212000 -0500" channel="LIVE EVENT 13 - 7pm Spring Nationals Ponderosa" stop="20260508235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260508000000 -0500" channel="LIVE EVENT 14 - 7:15pm Jacksonville Sprints" stop="20260508181500 -0500">
-    <title>[Upcoming: 06:15 PM] LIVE EVENT 14 - 7:15pm Jacksonville Sprints</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260508181500 -0500" channel="LIVE EVENT 14 - 7:15pm Jacksonville Sprints" stop="20260508203500 -0500">
-    <title>[06:15 PM] LIVE EVENT 14 - 7:15pm Jacksonville Sprints</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260508203500 -0500" channel="LIVE EVENT 14 - 7:15pm Jacksonville Sprints" stop="20260508235959 -0500">
+  <programme start="20260508183500 -0500" channel="LIVE EVENT 13 - 5:15pm Nascar Weekly Racing Riverhead" stop="20260508235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
