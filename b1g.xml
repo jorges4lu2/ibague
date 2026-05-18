@@ -213,6 +213,9 @@
   <channel id="02. Serie A | Pisa vs Napoli (Sun 11:00 UK)">
     <display-name lang="en">02. Serie A | Pisa vs Napoli (Sun 11:00 UK)</display-name>
   </channel>
+  <channel id="NHL | 01 - 7:30pm Canadiens @ Sabres">
+    <display-name lang="en">NHL | 01 - 7:30pm Canadiens @ Sabres</display-name>
+  </channel>
   <channel id="L1 Pass 01 | Brest vs Angers (Sun 20:00 UK)">
     <display-name lang="en">L1 Pass 01 | Brest vs Angers (Sun 20:00 UK)</display-name>
   </channel>
@@ -1287,9 +1290,6 @@
   <channel id="LIVE EVENT 03 - 5:30pm Fury FC 119">
     <display-name lang="en">LIVE EVENT 03 - 5:30pm Fury FC 119</display-name>
   </channel>
-  <channel id="LIVE EVENT 04 - 5:30pm IRA Sprints at Angell Park">
-    <display-name lang="en">LIVE EVENT 04 - 5:30pm IRA Sprints at Angell Park</display-name>
-  </channel>
   <channel id="LIVE EVENT 05 - 6pm GCW Ring of Dreams 2026">
     <display-name lang="en">LIVE EVENT 05 - 6pm GCW Ring of Dreams 2026</display-name>
   </channel>
@@ -1301,9 +1301,6 @@
   </channel>
   <channel id="LIVE EVENT 08 - 7pm Mars Late Models at Coles">
     <display-name lang="en">LIVE EVENT 08 - 7pm Mars Late Models at Coles</display-name>
-  </channel>
-  <channel id="LIVE EVENT 09 - 7:25pm Husets Late Models">
-    <display-name lang="en">LIVE EVENT 09 - 7:25pm Husets Late Models</display-name>
   </channel>
   <channel id="LIVE EVENT 10 - 9pm Primos Pro Wrestling Alpha 9">
     <display-name lang="en">LIVE EVENT 10 - 9pm Primos Pro Wrestling Alpha 9</display-name>
@@ -3242,6 +3239,30 @@
     </audio>
   </programme>
   <programme start="20260517072000 -0500" channel="02. Serie A | Pisa vs Napoli (Sun 11:00 UK)" stop="20260517235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260517000000 -0500" channel="NHL | 01 - 7:30pm Canadiens @ Sabres" stop="20260517133000 -0500">
+    <title>[Upcoming: 01:30 PM] NHL | 01 - 7:30pm Canadiens @ Sabres</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260517133000 -0500" channel="NHL | 01 - 7:30pm Canadiens @ Sabres" stop="20260517155000 -0500">
+    <title>[01:30 PM] NHL | 01 - 7:30pm Canadiens @ Sabres</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260517155000 -0500" channel="NHL | 01 - 7:30pm Canadiens @ Sabres" stop="20260517235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -11841,30 +11862,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260517000000 -0500" channel="LIVE EVENT 04 - 5:30pm IRA Sprints at Angell Park" stop="20260517163000 -0500">
-    <title>[Upcoming: 04:30 PM] LIVE EVENT 04 - 5:30pm IRA Sprints at Angell Park</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260517163000 -0500" channel="LIVE EVENT 04 - 5:30pm IRA Sprints at Angell Park" stop="20260517185000 -0500">
-    <title>[04:30 PM] LIVE EVENT 04 - 5:30pm IRA Sprints at Angell Park</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260517185000 -0500" channel="LIVE EVENT 04 - 5:30pm IRA Sprints at Angell Park" stop="20260517235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260517000000 -0500" channel="LIVE EVENT 05 - 6pm GCW Ring of Dreams 2026" stop="20260517180000 -0500">
     <title>[Upcoming: 06:00 PM] LIVE EVENT 05 - 6pm GCW Ring of Dreams 2026</title>
     <date>2026</date>
@@ -11954,30 +11951,6 @@
     </audio>
   </programme>
   <programme start="20260517212000 -0500" channel="LIVE EVENT 08 - 7pm Mars Late Models at Coles" stop="20260517235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260517000000 -0500" channel="LIVE EVENT 09 - 7:25pm Husets Late Models" stop="20260517182500 -0500">
-    <title>[Upcoming: 06:25 PM] LIVE EVENT 09 - 7:25pm Husets Late Models</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260517182500 -0500" channel="LIVE EVENT 09 - 7:25pm Husets Late Models" stop="20260517204500 -0500">
-    <title>[06:25 PM] LIVE EVENT 09 - 7:25pm Husets Late Models</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260517204500 -0500" channel="LIVE EVENT 09 - 7:25pm Husets Late Models" stop="20260517235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
