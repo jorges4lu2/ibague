@@ -471,11 +471,8 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 : Weedsport Speedway 4:45 pm">
-    <display-name lang="en">DIRTVISION 01 : Weedsport Speedway 4:45 pm</display-name>
-  </channel>
-  <channel id="DIRTVISION 02 : Huset's Speedway 7:15 pm">
-    <display-name lang="en">DIRTVISION 02 : Huset's Speedway 7:15 pm</display-name>
+  <channel id="DIRTVISION 01 : Huset's Speedway 7:15 pm">
+    <display-name lang="en">DIRTVISION 01 : Huset's Speedway 7:15 pm</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -905,12 +902,6 @@
   </channel>
   <channel id="LIVE EVENT 01 - 8pm WWE Monday Night RAW">
     <display-name lang="en">LIVE EVENT 01 - 8pm WWE Monday Night RAW</display-name>
-  </channel>
-  <channel id="LIVE EVENT 02 - 1:30pm Memorial Day Classic Thunder Road">
-    <display-name lang="en">LIVE EVENT 02 - 1:30pm Memorial Day Classic Thunder Road</display-name>
-  </channel>
-  <channel id="LIVE EVENT 03 - 6pm Spring Nationals Sugar Creek">
-    <display-name lang="en">LIVE EVENT 03 - 6pm Spring Nationals Sugar Creek</display-name>
   </channel>
   <channel id="LIVE EVENT 04 - 7:15pm World of Outlaws Sprint Cars Husets">
     <display-name lang="en">LIVE EVENT 04 - 7:15pm World of Outlaws Sprint Cars Husets</display-name>
@@ -4893,47 +4884,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260525000000 -0500" channel="DIRTVISION 01 : Weedsport Speedway 4:45 pm" stop="20260525164500 -0500">
-    <title>[Upcoming: 04:45 PM] DIRTVISION 01 : Weedsport Speedway 4:45 pm</title>
+  <programme start="20260525000000 -0500" channel="DIRTVISION 01 : Huset's Speedway 7:15 pm" stop="20260525191500 -0500">
+    <title>[Upcoming: 07:15 PM] DIRTVISION 01 : Huset's Speedway 7:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260525164500 -0500" channel="DIRTVISION 01 : Weedsport Speedway 4:45 pm" stop="20260525190500 -0500">
-    <title>[04:45 PM] DIRTVISION 01 : Weedsport Speedway 4:45 pm</title>
+  <programme start="20260525191500 -0500" channel="DIRTVISION 01 : Huset's Speedway 7:15 pm" stop="20260525213500 -0500">
+    <title>[07:15 PM] DIRTVISION 01 : Huset's Speedway 7:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260525190500 -0500" channel="DIRTVISION 01 : Weedsport Speedway 4:45 pm" stop="20260525235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260525000000 -0500" channel="DIRTVISION 02 : Huset's Speedway 7:15 pm" stop="20260525191500 -0500">
-    <title>[Upcoming: 07:15 PM] DIRTVISION 02 : Huset's Speedway 7:15 pm</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260525191500 -0500" channel="DIRTVISION 02 : Huset's Speedway 7:15 pm" stop="20260525213500 -0500">
-    <title>[07:15 PM] DIRTVISION 02 : Huset's Speedway 7:15 pm</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260525213500 -0500" channel="DIRTVISION 02 : Huset's Speedway 7:15 pm" stop="20260525235959 -0500">
+  <programme start="20260525213500 -0500" channel="DIRTVISION 01 : Huset's Speedway 7:15 pm" stop="20260525235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8366,54 +8333,6 @@
     </audio>
   </programme>
   <programme start="20260525222000 -0500" channel="LIVE EVENT 01 - 8pm WWE Monday Night RAW" stop="20260525235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260525000000 -0500" channel="LIVE EVENT 02 - 1:30pm Memorial Day Classic Thunder Road" stop="20260525123000 -0500">
-    <title>[Upcoming: 12:30 PM] LIVE EVENT 02 - 1:30pm Memorial Day Classic Thunder Road</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260525123000 -0500" channel="LIVE EVENT 02 - 1:30pm Memorial Day Classic Thunder Road" stop="20260525145000 -0500">
-    <title>[12:30 PM] LIVE EVENT 02 - 1:30pm Memorial Day Classic Thunder Road</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260525145000 -0500" channel="LIVE EVENT 02 - 1:30pm Memorial Day Classic Thunder Road" stop="20260525235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260525000000 -0500" channel="LIVE EVENT 03 - 6pm Spring Nationals Sugar Creek" stop="20260525180000 -0500">
-    <title>[Upcoming: 06:00 PM] LIVE EVENT 03 - 6pm Spring Nationals Sugar Creek</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260525180000 -0500" channel="LIVE EVENT 03 - 6pm Spring Nationals Sugar Creek" stop="20260525202000 -0500">
-    <title>[06:00 PM] LIVE EVENT 03 - 6pm Spring Nationals Sugar Creek</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260525202000 -0500" channel="LIVE EVENT 03 - 6pm Spring Nationals Sugar Creek" stop="20260525235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
