@@ -999,6 +999,9 @@
   <channel id="LIVE EVENT 09 - 7:25pm Husets Late Models">
     <display-name lang="en">LIVE EVENT 09 - 7:25pm Husets Late Models</display-name>
   </channel>
+  <channel id="LIVE EVENT 10 - 7pm Cracker Barrell 400">
+    <display-name lang="en">LIVE EVENT 10 - 7pm Cracker Barrell 400</display-name>
+  </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
   </channel>
@@ -9197,6 +9200,30 @@
     </audio>
   </programme>
   <programme start="20260531204500 -0500" channel="LIVE EVENT 09 - 7:25pm Husets Late Models" stop="20260531235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260531000000 -0500" channel="LIVE EVENT 10 - 7pm Cracker Barrell 400" stop="20260531190000 -0500">
+    <title>[Upcoming: 07:00 PM] LIVE EVENT 10 - 7pm Cracker Barrell 400</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260531190000 -0500" channel="LIVE EVENT 10 - 7pm Cracker Barrell 400" stop="20260531212000 -0500">
+    <title>[07:00 PM] LIVE EVENT 10 - 7pm Cracker Barrell 400</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260531212000 -0500" channel="LIVE EVENT 10 - 7pm Cracker Barrell 400" stop="20260531235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
