@@ -849,9 +849,6 @@
   <channel id="BOXING: Kevin Lerena vs. Ryad Merhy (Sat 20:00 UK)">
     <display-name lang="en">BOXING: Kevin Lerena vs. Ryad Merhy (Sat 20:00 UK)</display-name>
   </channel>
-  <channel id="LIVE EVENT 01 - 2pm WWE Monday Night RAW">
-    <display-name lang="en">LIVE EVENT 01 - 2pm WWE Monday Night RAW</display-name>
-  </channel>
   <channel id="LIVE EVENT 02 - 6:15pm Wild Thing Kart Series Stafford">
     <display-name lang="en">LIVE EVENT 02 - 6:15pm Wild Thing Kart Series Stafford</display-name>
   </channel>
@@ -872,6 +869,18 @@
   </channel>
   <channel id="UK-BBC Four HD (From 19:00 UK)">
     <display-name lang="en">UK-BBC Four HD (From 19:00 UK)</display-name>
+  </channel>
+  <channel id="01. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)">
+    <display-name lang="en">01. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</display-name>
+  </channel>
+  <channel id="02. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)">
+    <display-name lang="en">02. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</display-name>
+  </channel>
+  <channel id="03. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)">
+    <display-name lang="en">03. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</display-name>
+  </channel>
+  <channel id="04. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)">
+    <display-name lang="en">04. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</display-name>
   </channel>
   <channel id="IN | Sports 18 2">
     <display-name lang="en">IN | Sports 18 2</display-name>
@@ -7833,30 +7842,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260601000000 -0500" channel="LIVE EVENT 01 - 2pm WWE Monday Night RAW" stop="20260601140000 -0500">
-    <title>[Upcoming: 02:00 PM] LIVE EVENT 01 - 2pm WWE Monday Night RAW</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260601140000 -0500" channel="LIVE EVENT 01 - 2pm WWE Monday Night RAW" stop="20260601162000 -0500">
-    <title>[02:00 PM] LIVE EVENT 01 - 2pm WWE Monday Night RAW</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260601162000 -0500" channel="LIVE EVENT 01 - 2pm WWE Monday Night RAW" stop="20260601235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260601000000 -0500" channel="LIVE EVENT 02 - 6:15pm Wild Thing Kart Series Stafford" stop="20260601171500 -0500">
     <title>[Upcoming: 05:15 PM] LIVE EVENT 02 - 6:15pm Wild Thing Kart Series Stafford</title>
     <date>2026</date>
@@ -8018,6 +8003,102 @@
     </audio>
   </programme>
   <programme start="20260601152000 -0500" channel="UK-BBC Four HD (From 19:00 UK)" stop="20260601235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601000000 -0500" channel="01. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601063000 -0500">
+    <title>[Upcoming: 06:30 AM] 01. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601063000 -0500" channel="01. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601085000 -0500">
+    <title>[06:30 AM] 01. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601085000 -0500" channel="01. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601000000 -0500" channel="02. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601063000 -0500">
+    <title>[Upcoming: 06:30 AM] 02. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601063000 -0500" channel="02. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601085000 -0500">
+    <title>[06:30 AM] 02. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601085000 -0500" channel="02. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601000000 -0500" channel="03. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601063000 -0500">
+    <title>[Upcoming: 06:30 AM] 03. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601063000 -0500" channel="03. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601085000 -0500">
+    <title>[06:30 AM] 03. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601085000 -0500" channel="03. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601000000 -0500" channel="04. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601063000 -0500">
+    <title>[Upcoming: 06:30 AM] 04. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601063000 -0500" channel="04. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601085000 -0500">
+    <title>[06:30 AM] 04. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260601085000 -0500" channel="04. 2nd ODI | Pakistan vs Australia (Tue 12:30 UK)" stop="20260601235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
