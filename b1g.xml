@@ -393,11 +393,8 @@
   <channel id="WNBA 1 Connecticut Sun @ Indiana Fever start:2025-05-31 00:30:00 stop:2025-05-31 02:30:00">
     <display-name lang="en">WNBA 1 Connecticut Sun @ Indiana Fever start:2025-05-31 00:30:00 stop:2025-05-31 02:30:00</display-name>
   </channel>
-  <channel id="New York Liberty vs Toronto Tempo (USA Network) @ Jun 3 19:30 :WNBA  02">
-    <display-name lang="en">New York Liberty vs Toronto Tempo (USA Network) @ Jun 3 19:30 :WNBA  02</display-name>
-  </channel>
-  <channel id="New York Liberty vs Toronto Tempo (Liberty) @ Jun 3 19:30 :WNBA  03">
-    <display-name lang="en">New York Liberty vs Toronto Tempo (Liberty) @ Jun 3 19:30 :WNBA  03</display-name>
+  <channel id="Minnesota Lynx vs Golden State Valkyries @ Jun 4 21:00 :WNBA 02">
+    <display-name lang="en">Minnesota Lynx vs Golden State Valkyries @ Jun 4 21:00 :WNBA 02</display-name>
   </channel>
   <channel id="NCAAF 01 Minnesota vs Syracuse 7PM">
     <display-name lang="en">NCAAF 01 Minnesota vs Syracuse 7PM</display-name>
@@ -437,6 +434,9 @@
   </channel>
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
+  </channel>
+  <channel id="DIRTVISION 01 : Jackson Motorplex 8:00 pm">
+    <display-name lang="en">DIRTVISION 01 : Jackson Motorplex 8:00 pm</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -965,6 +965,12 @@
   </channel>
   <channel id="LIVE EVENT 05 - 8pm UFC BJJ 9 Fowler v Johnson">
     <display-name lang="en">LIVE EVENT 05 - 8pm UFC BJJ 9 Fowler v Johnson</display-name>
+  </channel>
+  <channel id="LIVE EVENT 06 - 6:30pm Ramirez v Richards">
+    <display-name lang="en">LIVE EVENT 06 - 6:30pm Ramirez v Richards</display-name>
+  </channel>
+  <channel id="LIVE EVENT 07 - 7pm BKFC Hollywood Henry v Lane">
+    <display-name lang="en">LIVE EVENT 07 - 7pm BKFC Hollywood Henry v Lane</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -4326,47 +4332,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260604000000 -0500" channel="New York Liberty vs Toronto Tempo (USA Network) @ Jun 3 19:30 :WNBA  02" stop="20260604123000 -0500">
-    <title>[Upcoming: 12:30 PM] New York Liberty vs Toronto Tempo (USA Network) @ Jun 3 19:30 :WNBA  02</title>
+  <programme start="20260604000000 -0500" channel="Minnesota Lynx vs Golden State Valkyries @ Jun 4 21:00 :WNBA 02" stop="20260604140000 -0500">
+    <title>[Upcoming: 02:00 PM] Minnesota Lynx vs Golden State Valkyries @ Jun 4 21:00 :WNBA 02</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260604123000 -0500" channel="New York Liberty vs Toronto Tempo (USA Network) @ Jun 3 19:30 :WNBA  02" stop="20260604145000 -0500">
-    <title>[12:30 PM] New York Liberty vs Toronto Tempo (USA Network) @ Jun 3 19:30 :WNBA  02</title>
+  <programme start="20260604140000 -0500" channel="Minnesota Lynx vs Golden State Valkyries @ Jun 4 21:00 :WNBA 02" stop="20260604162000 -0500">
+    <title>[02:00 PM] Minnesota Lynx vs Golden State Valkyries @ Jun 4 21:00 :WNBA 02</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260604145000 -0500" channel="New York Liberty vs Toronto Tempo (USA Network) @ Jun 3 19:30 :WNBA  02" stop="20260604235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260604000000 -0500" channel="New York Liberty vs Toronto Tempo (Liberty) @ Jun 3 19:30 :WNBA  03" stop="20260604123000 -0500">
-    <title>[Upcoming: 12:30 PM] New York Liberty vs Toronto Tempo (Liberty) @ Jun 3 19:30 :WNBA  03</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260604123000 -0500" channel="New York Liberty vs Toronto Tempo (Liberty) @ Jun 3 19:30 :WNBA  03" stop="20260604145000 -0500">
-    <title>[12:30 PM] New York Liberty vs Toronto Tempo (Liberty) @ Jun 3 19:30 :WNBA  03</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260604145000 -0500" channel="New York Liberty vs Toronto Tempo (Liberty) @ Jun 3 19:30 :WNBA  03" stop="20260604235959 -0500">
+  <programme start="20260604162000 -0500" channel="Minnesota Lynx vs Golden State Valkyries @ Jun 4 21:00 :WNBA 02" stop="20260604235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4679,6 +4661,30 @@
     </audio>
   </programme>
   <programme start="20260604142000 -0500" channel="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT" stop="20260604235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260604000000 -0500" channel="DIRTVISION 01 : Jackson Motorplex 8:00 pm" stop="20260604200000 -0500">
+    <title>[Upcoming: 08:00 PM] DIRTVISION 01 : Jackson Motorplex 8:00 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260604200000 -0500" channel="DIRTVISION 01 : Jackson Motorplex 8:00 pm" stop="20260604222000 -0500">
+    <title>[08:00 PM] DIRTVISION 01 : Jackson Motorplex 8:00 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260604222000 -0500" channel="DIRTVISION 01 : Jackson Motorplex 8:00 pm" stop="20260604235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8903,6 +8909,54 @@
     </audio>
   </programme>
   <programme start="20260604222000 -0500" channel="LIVE EVENT 05 - 8pm UFC BJJ 9 Fowler v Johnson" stop="20260604235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260604000000 -0500" channel="LIVE EVENT 06 - 6:30pm Ramirez v Richards" stop="20260604173000 -0500">
+    <title>[Upcoming: 05:30 PM] LIVE EVENT 06 - 6:30pm Ramirez v Richards</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260604173000 -0500" channel="LIVE EVENT 06 - 6:30pm Ramirez v Richards" stop="20260604195000 -0500">
+    <title>[05:30 PM] LIVE EVENT 06 - 6:30pm Ramirez v Richards</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260604195000 -0500" channel="LIVE EVENT 06 - 6:30pm Ramirez v Richards" stop="20260604235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260604000000 -0500" channel="LIVE EVENT 07 - 7pm BKFC Hollywood Henry v Lane" stop="20260604190000 -0500">
+    <title>[Upcoming: 07:00 PM] LIVE EVENT 07 - 7pm BKFC Hollywood Henry v Lane</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260604190000 -0500" channel="LIVE EVENT 07 - 7pm BKFC Hollywood Henry v Lane" stop="20260604212000 -0500">
+    <title>[07:00 PM] LIVE EVENT 07 - 7pm BKFC Hollywood Henry v Lane</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260604212000 -0500" channel="LIVE EVENT 07 - 7pm BKFC Hollywood Henry v Lane" stop="20260604235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
