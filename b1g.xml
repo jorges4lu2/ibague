@@ -426,8 +426,17 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 :Millbridge Speedway 6:15 pm">
-    <display-name lang="en">DIRTVISION 01 :Millbridge Speedway 6:15 pm</display-name>
+  <channel id="DIRTVISION 01 : West Virginia Motor Speedway 6:15 pm">
+    <display-name lang="en">DIRTVISION 01 : West Virginia Motor Speedway 6:15 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 02 : Knoxville Raceway 7:00 pm">
+    <display-name lang="en">DIRTVISION 02 : Knoxville Raceway 7:00 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 03 : Coles County Speedway 7:15 pm">
+    <display-name lang="en">DIRTVISION 03 : Coles County Speedway 7:15 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 04 : DIRT Zone 7:30 pm">
+    <display-name lang="en">DIRTVISION 04 : DIRT Zone 7:30 pm</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -4572,23 +4581,95 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260612000000 -0500" channel="DIRTVISION 01 :Millbridge Speedway 6:15 pm" stop="20260612181500 -0500">
-    <title>[Upcoming: 06:15 PM] DIRTVISION 01 :Millbridge Speedway 6:15 pm</title>
+  <programme start="20260612000000 -0500" channel="DIRTVISION 01 : West Virginia Motor Speedway 6:15 pm" stop="20260612181500 -0500">
+    <title>[Upcoming: 06:15 PM] DIRTVISION 01 : West Virginia Motor Speedway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260612181500 -0500" channel="DIRTVISION 01 :Millbridge Speedway 6:15 pm" stop="20260612203500 -0500">
-    <title>[06:15 PM] DIRTVISION 01 :Millbridge Speedway 6:15 pm</title>
+  <programme start="20260612181500 -0500" channel="DIRTVISION 01 : West Virginia Motor Speedway 6:15 pm" stop="20260612203500 -0500">
+    <title>[06:15 PM] DIRTVISION 01 : West Virginia Motor Speedway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260612203500 -0500" channel="DIRTVISION 01 :Millbridge Speedway 6:15 pm" stop="20260612235959 -0500">
+  <programme start="20260612203500 -0500" channel="DIRTVISION 01 : West Virginia Motor Speedway 6:15 pm" stop="20260612235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260612000000 -0500" channel="DIRTVISION 02 : Knoxville Raceway 7:00 pm" stop="20260612190000 -0500">
+    <title>[Upcoming: 07:00 PM] DIRTVISION 02 : Knoxville Raceway 7:00 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260612190000 -0500" channel="DIRTVISION 02 : Knoxville Raceway 7:00 pm" stop="20260612212000 -0500">
+    <title>[07:00 PM] DIRTVISION 02 : Knoxville Raceway 7:00 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260612212000 -0500" channel="DIRTVISION 02 : Knoxville Raceway 7:00 pm" stop="20260612235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260612000000 -0500" channel="DIRTVISION 03 : Coles County Speedway 7:15 pm" stop="20260612191500 -0500">
+    <title>[Upcoming: 07:15 PM] DIRTVISION 03 : Coles County Speedway 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260612191500 -0500" channel="DIRTVISION 03 : Coles County Speedway 7:15 pm" stop="20260612213500 -0500">
+    <title>[07:15 PM] DIRTVISION 03 : Coles County Speedway 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260612213500 -0500" channel="DIRTVISION 03 : Coles County Speedway 7:15 pm" stop="20260612235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260612000000 -0500" channel="DIRTVISION 04 : DIRT Zone 7:30 pm" stop="20260612193000 -0500">
+    <title>[Upcoming: 07:30 PM] DIRTVISION 04 : DIRT Zone 7:30 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260612193000 -0500" channel="DIRTVISION 04 : DIRT Zone 7:30 pm" stop="20260612215000 -0500">
+    <title>[07:30 PM] DIRTVISION 04 : DIRT Zone 7:30 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260612215000 -0500" channel="DIRTVISION 04 : DIRT Zone 7:30 pm" stop="20260612235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
