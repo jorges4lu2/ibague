@@ -171,6 +171,9 @@
   <channel id="MLB 15 | Rockies x Athletics start:2026-06-14 03:05:00 stop:2026-06-14 10:18:20">
     <display-name lang="en">MLB 15 | Rockies x Athletics start:2026-06-14 03:05:00 stop:2026-06-14 10:18:20</display-name>
   </channel>
+  <channel id="NHL | 01 - 8pm Hurricanes @ Golden Knights">
+    <display-name lang="en">NHL | 01 - 8pm Hurricanes @ Golden Knights</display-name>
+  </channel>
   <channel id="01. EPL | Goal Rush Match Day # 38 (Sun 15:00 UK)">
     <display-name lang="en">01. EPL | Goal Rush Match Day # 38 (Sun 15:00 UK)</display-name>
   </channel>
@@ -885,20 +888,26 @@
   <channel id="LIVE EVENT 02 - 8pm RAF 10 Chimaev v Danis">
     <display-name lang="en">LIVE EVENT 02 - 8pm RAF 10 Chimaev v Danis</display-name>
   </channel>
-  <channel id="LIVE EVENT 06 - 12:30pm Glory Collision 9">
-    <display-name lang="en">LIVE EVENT 06 - 12:30pm Glory Collision 9</display-name>
+  <channel id="LIVE EVENT 03 - 9am Haddir v Diarra">
+    <display-name lang="en">LIVE EVENT 03 - 9am Haddir v Diarra</display-name>
   </channel>
-  <channel id="LIVE EVENT 07 - 1:30pm Fury v Hall">
-    <display-name lang="en">LIVE EVENT 07 - 1:30pm Fury v Hall</display-name>
+  <channel id="LIVE EVENT 04 - 2pm Nascar Cup Series Great American Getaway 400">
+    <display-name lang="en">LIVE EVENT 04 - 2pm Nascar Cup Series Great American Getaway 400</display-name>
   </channel>
-  <channel id="LIVE EVENT 08 - 1pm Kiwitt v Kasujja">
-    <display-name lang="en">LIVE EVENT 08 - 1pm Kiwitt v Kasujja</display-name>
+  <channel id="LIVE EVENT 06 - 4:30pm Short Track Super Series Brookfield">
+    <display-name lang="en">LIVE EVENT 06 - 4:30pm Short Track Super Series Brookfield</display-name>
   </channel>
-  <channel id="LIVE EVENT 09 - 1pm Bushido 104 Winter v Schuster">
-    <display-name lang="en">LIVE EVENT 09 - 1pm Bushido 104 Winter v Schuster</display-name>
+  <channel id="LIVE EVENT 07 - 5pm Gonzalez v Perez">
+    <display-name lang="en">LIVE EVENT 07 - 5pm Gonzalez v Perez</display-name>
   </channel>
-  <channel id="LIVE EVENT 10 - 1pm PFL Africa Adeshina v Campos">
-    <display-name lang="en">LIVE EVENT 10 - 1pm PFL Africa Adeshina v Campos</display-name>
+  <channel id="LIVE EVENT 08 - 5pm Big BLock Special Utica">
+    <display-name lang="en">LIVE EVENT 08 - 5pm Big BLock Special Utica</display-name>
+  </channel>
+  <channel id="LIVE EVENT 09 - 5:45pm USAC Indiana Midget Week Kokomo">
+    <display-name lang="en">LIVE EVENT 09 - 5:45pm USAC Indiana Midget Week Kokomo</display-name>
+  </channel>
+  <channel id="LIVE EVENT 10 - 6pm RoC Modifieds ShangriLa">
+    <display-name lang="en">LIVE EVENT 10 - 6pm RoC Modifieds ShangriLa</display-name>
   </channel>
   <channel id="LIVE EVENT 11 - 8pm Vargas v Rodriguez">
     <display-name lang="en">LIVE EVENT 11 - 8pm Vargas v Rodriguez</display-name>
@@ -908,9 +917,6 @@
   </channel>
   <channel id="LIVE EVENT 13 - 9pm Combat FC 13">
     <display-name lang="en">LIVE EVENT 13 - 9pm Combat FC 13</display-name>
-  </channel>
-  <channel id="LIVE EVENT 14 - 12/3pm AMA Supercross Championship Lakewood">
-    <display-name lang="en">LIVE EVENT 14 - 12/3pm AMA Supercross Championship Lakewood</display-name>
   </channel>
   <channel id="LIVE EVENT 15 - 5pm CARS Tour Dominion">
     <display-name lang="en">LIVE EVENT 15 - 5pm CARS Tour Dominion</display-name>
@@ -924,9 +930,6 @@
   <channel id="LIVE EVENT 18 - 5:45pm USAC Indiana Midget Week Tri-State">
     <display-name lang="en">LIVE EVENT 18 - 5:45pm USAC Indiana Midget Week Tri-State</display-name>
   </channel>
-  <channel id="LIVE EVENT 19 - 6pm Volusia Sprint Cars">
-    <display-name lang="en">LIVE EVENT 19 - 6pm Volusia Sprint Cars</display-name>
-  </channel>
   <channel id="LIVE EVENT 20 - 6pm 75th Anniversary Legends Night Fonda">
     <display-name lang="en">LIVE EVENT 20 - 6pm 75th Anniversary Legends Night Fonda</display-name>
   </channel>
@@ -938,12 +941,6 @@
   </channel>
   <channel id="LIVE EVENT 23 - 6:30pm Land of Legends Late Models">
     <display-name lang="en">LIVE EVENT 23 - 6:30pm Land of Legends Late Models</display-name>
-  </channel>
-  <channel id="LIVE EVENT 24 - 6:45pm USAC MRA Sprints I-35">
-    <display-name lang="en">LIVE EVENT 24 - 6:45pm USAC MRA Sprints I-35</display-name>
-  </channel>
-  <channel id="LIVE EVENT 25 - 7pm World of Outlaws Sprint Cars Knoxville">
-    <display-name lang="en">LIVE EVENT 25 - 7pm World of Outlaws Sprint Cars Knoxville</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -2522,6 +2519,30 @@
     </audio>
   </programme>
   <programme start="20260613222500 -0500" channel="MLB 15 | Rockies x Athletics start:2026-06-14 03:05:00 stop:2026-06-14 10:18:20" stop="20260613235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260613000000 -0500" channel="NHL | 01 - 8pm Hurricanes @ Golden Knights" stop="20260613200000 -0500">
+    <title>[Upcoming: 08:00 PM] NHL | 01 - 8pm Hurricanes @ Golden Knights</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260613200000 -0500" channel="NHL | 01 - 8pm Hurricanes @ Golden Knights" stop="20260613222000 -0500">
+    <title>[08:00 PM] NHL | 01 - 8pm Hurricanes @ Golden Knights</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260613222000 -0500" channel="NHL | 01 - 8pm Hurricanes @ Golden Knights" stop="20260613235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8241,23 +8262,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613000000 -0500" channel="LIVE EVENT 06 - 12:30pm Glory Collision 9" stop="20260613113000 -0500">
-    <title>[Upcoming: 11:30 AM] LIVE EVENT 06 - 12:30pm Glory Collision 9</title>
+  <programme start="20260613000000 -0500" channel="LIVE EVENT 03 - 9am Haddir v Diarra" stop="20260613090000 -0500">
+    <title>[Upcoming: 09:00 AM] LIVE EVENT 03 - 9am Haddir v Diarra</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613113000 -0500" channel="LIVE EVENT 06 - 12:30pm Glory Collision 9" stop="20260613135000 -0500">
-    <title>[11:30 AM] LIVE EVENT 06 - 12:30pm Glory Collision 9</title>
+  <programme start="20260613090000 -0500" channel="LIVE EVENT 03 - 9am Haddir v Diarra" stop="20260613112000 -0500">
+    <title>[09:00 AM] LIVE EVENT 03 - 9am Haddir v Diarra</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613135000 -0500" channel="LIVE EVENT 06 - 12:30pm Glory Collision 9" stop="20260613235959 -0500">
+  <programme start="20260613112000 -0500" channel="LIVE EVENT 03 - 9am Haddir v Diarra" stop="20260613235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8265,23 +8286,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613000000 -0500" channel="LIVE EVENT 07 - 1:30pm Fury v Hall" stop="20260613123000 -0500">
-    <title>[Upcoming: 12:30 PM] LIVE EVENT 07 - 1:30pm Fury v Hall</title>
+  <programme start="20260613000000 -0500" channel="LIVE EVENT 04 - 2pm Nascar Cup Series Great American Getaway 400" stop="20260613140000 -0500">
+    <title>[Upcoming: 02:00 PM] LIVE EVENT 04 - 2pm Nascar Cup Series Great American Getaway 400</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613123000 -0500" channel="LIVE EVENT 07 - 1:30pm Fury v Hall" stop="20260613145000 -0500">
-    <title>[12:30 PM] LIVE EVENT 07 - 1:30pm Fury v Hall</title>
+  <programme start="20260613140000 -0500" channel="LIVE EVENT 04 - 2pm Nascar Cup Series Great American Getaway 400" stop="20260613162000 -0500">
+    <title>[02:00 PM] LIVE EVENT 04 - 2pm Nascar Cup Series Great American Getaway 400</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613145000 -0500" channel="LIVE EVENT 07 - 1:30pm Fury v Hall" stop="20260613235959 -0500">
+  <programme start="20260613162000 -0500" channel="LIVE EVENT 04 - 2pm Nascar Cup Series Great American Getaway 400" stop="20260613235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8289,23 +8310,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613000000 -0500" channel="LIVE EVENT 08 - 1pm Kiwitt v Kasujja" stop="20260613130000 -0500">
-    <title>[Upcoming: 01:00 PM] LIVE EVENT 08 - 1pm Kiwitt v Kasujja</title>
+  <programme start="20260613000000 -0500" channel="LIVE EVENT 06 - 4:30pm Short Track Super Series Brookfield" stop="20260613153000 -0500">
+    <title>[Upcoming: 03:30 PM] LIVE EVENT 06 - 4:30pm Short Track Super Series Brookfield</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613130000 -0500" channel="LIVE EVENT 08 - 1pm Kiwitt v Kasujja" stop="20260613152000 -0500">
-    <title>[01:00 PM] LIVE EVENT 08 - 1pm Kiwitt v Kasujja</title>
+  <programme start="20260613153000 -0500" channel="LIVE EVENT 06 - 4:30pm Short Track Super Series Brookfield" stop="20260613175000 -0500">
+    <title>[03:30 PM] LIVE EVENT 06 - 4:30pm Short Track Super Series Brookfield</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613152000 -0500" channel="LIVE EVENT 08 - 1pm Kiwitt v Kasujja" stop="20260613235959 -0500">
+  <programme start="20260613175000 -0500" channel="LIVE EVENT 06 - 4:30pm Short Track Super Series Brookfield" stop="20260613235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8313,23 +8334,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613000000 -0500" channel="LIVE EVENT 09 - 1pm Bushido 104 Winter v Schuster" stop="20260613130000 -0500">
-    <title>[Upcoming: 01:00 PM] LIVE EVENT 09 - 1pm Bushido 104 Winter v Schuster</title>
+  <programme start="20260613000000 -0500" channel="LIVE EVENT 07 - 5pm Gonzalez v Perez" stop="20260613170000 -0500">
+    <title>[Upcoming: 05:00 PM] LIVE EVENT 07 - 5pm Gonzalez v Perez</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613130000 -0500" channel="LIVE EVENT 09 - 1pm Bushido 104 Winter v Schuster" stop="20260613152000 -0500">
-    <title>[01:00 PM] LIVE EVENT 09 - 1pm Bushido 104 Winter v Schuster</title>
+  <programme start="20260613170000 -0500" channel="LIVE EVENT 07 - 5pm Gonzalez v Perez" stop="20260613192000 -0500">
+    <title>[05:00 PM] LIVE EVENT 07 - 5pm Gonzalez v Perez</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613152000 -0500" channel="LIVE EVENT 09 - 1pm Bushido 104 Winter v Schuster" stop="20260613235959 -0500">
+  <programme start="20260613192000 -0500" channel="LIVE EVENT 07 - 5pm Gonzalez v Perez" stop="20260613235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8337,23 +8358,71 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613000000 -0500" channel="LIVE EVENT 10 - 1pm PFL Africa Adeshina v Campos" stop="20260613130000 -0500">
-    <title>[Upcoming: 01:00 PM] LIVE EVENT 10 - 1pm PFL Africa Adeshina v Campos</title>
+  <programme start="20260613000000 -0500" channel="LIVE EVENT 08 - 5pm Big BLock Special Utica" stop="20260613170000 -0500">
+    <title>[Upcoming: 05:00 PM] LIVE EVENT 08 - 5pm Big BLock Special Utica</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613130000 -0500" channel="LIVE EVENT 10 - 1pm PFL Africa Adeshina v Campos" stop="20260613152000 -0500">
-    <title>[01:00 PM] LIVE EVENT 10 - 1pm PFL Africa Adeshina v Campos</title>
+  <programme start="20260613170000 -0500" channel="LIVE EVENT 08 - 5pm Big BLock Special Utica" stop="20260613192000 -0500">
+    <title>[05:00 PM] LIVE EVENT 08 - 5pm Big BLock Special Utica</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613152000 -0500" channel="LIVE EVENT 10 - 1pm PFL Africa Adeshina v Campos" stop="20260613235959 -0500">
+  <programme start="20260613192000 -0500" channel="LIVE EVENT 08 - 5pm Big BLock Special Utica" stop="20260613235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260613000000 -0500" channel="LIVE EVENT 09 - 5:45pm USAC Indiana Midget Week Kokomo" stop="20260613164500 -0500">
+    <title>[Upcoming: 04:45 PM] LIVE EVENT 09 - 5:45pm USAC Indiana Midget Week Kokomo</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260613164500 -0500" channel="LIVE EVENT 09 - 5:45pm USAC Indiana Midget Week Kokomo" stop="20260613190500 -0500">
+    <title>[04:45 PM] LIVE EVENT 09 - 5:45pm USAC Indiana Midget Week Kokomo</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260613190500 -0500" channel="LIVE EVENT 09 - 5:45pm USAC Indiana Midget Week Kokomo" stop="20260613235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260613000000 -0500" channel="LIVE EVENT 10 - 6pm RoC Modifieds ShangriLa" stop="20260613180000 -0500">
+    <title>[Upcoming: 06:00 PM] LIVE EVENT 10 - 6pm RoC Modifieds ShangriLa</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260613180000 -0500" channel="LIVE EVENT 10 - 6pm RoC Modifieds ShangriLa" stop="20260613202000 -0500">
+    <title>[06:00 PM] LIVE EVENT 10 - 6pm RoC Modifieds ShangriLa</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260613202000 -0500" channel="LIVE EVENT 10 - 6pm RoC Modifieds ShangriLa" stop="20260613235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8426,30 +8495,6 @@
     </audio>
   </programme>
   <programme start="20260613232000 -0500" channel="LIVE EVENT 13 - 9pm Combat FC 13" stop="20260613235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613000000 -0500" channel="LIVE EVENT 14 - 12/3pm AMA Supercross Championship Lakewood" stop="20260613150000 -0500">
-    <title>[Upcoming: 03:00 PM] LIVE EVENT 14 - 12/3pm AMA Supercross Championship Lakewood</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613150000 -0500" channel="LIVE EVENT 14 - 12/3pm AMA Supercross Championship Lakewood" stop="20260613172000 -0500">
-    <title>[03:00 PM] LIVE EVENT 14 - 12/3pm AMA Supercross Championship Lakewood</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613172000 -0500" channel="LIVE EVENT 14 - 12/3pm AMA Supercross Championship Lakewood" stop="20260613235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8553,30 +8598,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260613000000 -0500" channel="LIVE EVENT 19 - 6pm Volusia Sprint Cars" stop="20260613180000 -0500">
-    <title>[Upcoming: 06:00 PM] LIVE EVENT 19 - 6pm Volusia Sprint Cars</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613180000 -0500" channel="LIVE EVENT 19 - 6pm Volusia Sprint Cars" stop="20260613202000 -0500">
-    <title>[06:00 PM] LIVE EVENT 19 - 6pm Volusia Sprint Cars</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613202000 -0500" channel="LIVE EVENT 19 - 6pm Volusia Sprint Cars" stop="20260613235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260613000000 -0500" channel="LIVE EVENT 20 - 6pm 75th Anniversary Legends Night Fonda" stop="20260613180000 -0500">
     <title>[Upcoming: 06:00 PM] LIVE EVENT 20 - 6pm 75th Anniversary Legends Night Fonda</title>
     <date>2026</date>
@@ -8666,54 +8687,6 @@
     </audio>
   </programme>
   <programme start="20260613195000 -0500" channel="LIVE EVENT 23 - 6:30pm Land of Legends Late Models" stop="20260613235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613000000 -0500" channel="LIVE EVENT 24 - 6:45pm USAC MRA Sprints I-35" stop="20260613174500 -0500">
-    <title>[Upcoming: 05:45 PM] LIVE EVENT 24 - 6:45pm USAC MRA Sprints I-35</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613174500 -0500" channel="LIVE EVENT 24 - 6:45pm USAC MRA Sprints I-35" stop="20260613200500 -0500">
-    <title>[05:45 PM] LIVE EVENT 24 - 6:45pm USAC MRA Sprints I-35</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613200500 -0500" channel="LIVE EVENT 24 - 6:45pm USAC MRA Sprints I-35" stop="20260613235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613000000 -0500" channel="LIVE EVENT 25 - 7pm World of Outlaws Sprint Cars Knoxville" stop="20260613190000 -0500">
-    <title>[Upcoming: 07:00 PM] LIVE EVENT 25 - 7pm World of Outlaws Sprint Cars Knoxville</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613190000 -0500" channel="LIVE EVENT 25 - 7pm World of Outlaws Sprint Cars Knoxville" stop="20260613212000 -0500">
-    <title>[07:00 PM] LIVE EVENT 25 - 7pm World of Outlaws Sprint Cars Knoxville</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260613212000 -0500" channel="LIVE EVENT 25 - 7pm World of Outlaws Sprint Cars Knoxville" stop="20260613235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
