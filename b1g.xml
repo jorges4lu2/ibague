@@ -330,8 +330,11 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 : Wilmot Raceway 6:45pm">
-    <display-name lang="en">DIRTVISION 01 : Wilmot Raceway 6:45pm</display-name>
+  <channel id="DIRTVISION 01 : Lebanon Valley Speedway 5:45pm">
+    <display-name lang="en">DIRTVISION 01 : Lebanon Valley Speedway 5:45pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 02 : West Liberty Raceway 7:15 pm">
+    <display-name lang="en">DIRTVISION 02 : West Liberty Raceway 7:15 pm</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -3618,23 +3621,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260616000000 -0500" channel="DIRTVISION 01 : Wilmot Raceway 6:45pm" stop="20260616124500 -0500">
-    <title>[Upcoming: 12:45 PM] DIRTVISION 01 : Wilmot Raceway 6:45pm</title>
+  <programme start="20260616000000 -0500" channel="DIRTVISION 01 : Lebanon Valley Speedway 5:45pm" stop="20260616114500 -0500">
+    <title>[Upcoming: 11:45 AM] DIRTVISION 01 : Lebanon Valley Speedway 5:45pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260616124500 -0500" channel="DIRTVISION 01 : Wilmot Raceway 6:45pm" stop="20260616150500 -0500">
-    <title>[12:45 PM] DIRTVISION 01 : Wilmot Raceway 6:45pm</title>
+  <programme start="20260616114500 -0500" channel="DIRTVISION 01 : Lebanon Valley Speedway 5:45pm" stop="20260616140500 -0500">
+    <title>[11:45 AM] DIRTVISION 01 : Lebanon Valley Speedway 5:45pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260616150500 -0500" channel="DIRTVISION 01 : Wilmot Raceway 6:45pm" stop="20260616235959 -0500">
+  <programme start="20260616140500 -0500" channel="DIRTVISION 01 : Lebanon Valley Speedway 5:45pm" stop="20260616235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260616000000 -0500" channel="DIRTVISION 02 : West Liberty Raceway 7:15 pm" stop="20260616191500 -0500">
+    <title>[Upcoming: 07:15 PM] DIRTVISION 02 : West Liberty Raceway 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260616191500 -0500" channel="DIRTVISION 02 : West Liberty Raceway 7:15 pm" stop="20260616213500 -0500">
+    <title>[07:15 PM] DIRTVISION 02 : West Liberty Raceway 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260616213500 -0500" channel="DIRTVISION 02 : West Liberty Raceway 7:15 pm" stop="20260616235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
