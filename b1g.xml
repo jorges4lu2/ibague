@@ -78,11 +78,17 @@
   <channel id="UFC: UFC Fight Night Multiview @ Jun 20 8:00 PM :Paramount+  04">
     <display-name lang="en">UFC: UFC Fight Night Multiview @ Jun 20 8:00 PM :Paramount+  04</display-name>
   </channel>
-  <channel id="Monster Energy Mammoth Motocross @ Jun 24 12:00 PM :Flo Racing  03">
-    <display-name lang="en">Monster Energy Mammoth Motocross @ Jun 24 12:00 PM :Flo Racing  03</display-name>
+  <channel id="PDRA North vs South Shootout @ Jun 25 4:00 PM :Flo Racing  03">
+    <display-name lang="en">PDRA North vs South Shootout @ Jun 25 4:00 PM :Flo Racing  03</display-name>
+  </channel>
+  <channel id="USAC Hoosier Hundred at Lucas Oil @ Jun 25 5:25 PM :Flo Racing  04">
+    <display-name lang="en">USAC Hoosier Hundred at Lucas Oil @ Jun 25 5:25 PM :Flo Racing  04</display-name>
   </channel>
   <channel id="Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM">
     <display-name lang="en">Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM</display-name>
+  </channel>
+  <channel id="Double Feature Night at Thunder Road @ Jun 25 6:15 PM :Flo Racing  06">
+    <display-name lang="en">Double Feature Night at Thunder Road @ Jun 25 6:15 PM :Flo Racing  06</display-name>
   </channel>
   <channel id="Flo Racing 08 :IMCA Weekly Racing at Marshalltown @ Jul 18 7:30 PM">
     <display-name lang="en">Flo Racing 08 :IMCA Weekly Racing at Marshalltown @ Jul 18 7:30 PM</display-name>
@@ -855,8 +861,8 @@
   <channel id="LIVE EVENT 03 - 5:45pm Lucas Oil Firecracker 100 Lernerville">
     <display-name lang="en">LIVE EVENT 03 - 5:45pm Lucas Oil Firecracker 100 Lernerville</display-name>
   </channel>
-  <channel id="LIVE EVENT 04 - 6pm Short Track Super Series Afton">
-    <display-name lang="en">LIVE EVENT 04 - 6pm Short Track Super Series Afton</display-name>
+  <channel id="LIVE EVENT 04 - CANCELLED 6pm Short Track Super Series Afton">
+    <display-name lang="en">LIVE EVENT 04 - CANCELLED 6pm Short Track Super Series Afton</display-name>
   </channel>
   <channel id="LIVE EVENT 05 - 6:15pm Double Feature Night Thunder Road">
     <display-name lang="en">LIVE EVENT 05 - 6:15pm Double Feature Night Thunder Road</display-name>
@@ -1710,23 +1716,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260625000000 -0500" channel="Monster Energy Mammoth Motocross @ Jun 24 12:00 PM :Flo Racing  03" stop="20260625120000 -0500">
-    <title>[Upcoming: 12:00 PM] Monster Energy Mammoth Motocross @ Jun 24 12:00 PM :Flo Racing  03</title>
+  <programme start="20260625000000 -0500" channel="PDRA North vs South Shootout @ Jun 25 4:00 PM :Flo Racing  03" stop="20260625160000 -0500">
+    <title>[Upcoming: 04:00 PM] PDRA North vs South Shootout @ Jun 25 4:00 PM :Flo Racing  03</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260625120000 -0500" channel="Monster Energy Mammoth Motocross @ Jun 24 12:00 PM :Flo Racing  03" stop="20260625142000 -0500">
-    <title>[12:00 PM] Monster Energy Mammoth Motocross @ Jun 24 12:00 PM :Flo Racing  03</title>
+  <programme start="20260625160000 -0500" channel="PDRA North vs South Shootout @ Jun 25 4:00 PM :Flo Racing  03" stop="20260625182000 -0500">
+    <title>[04:00 PM] PDRA North vs South Shootout @ Jun 25 4:00 PM :Flo Racing  03</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260625142000 -0500" channel="Monster Energy Mammoth Motocross @ Jun 24 12:00 PM :Flo Racing  03" stop="20260625235959 -0500">
+  <programme start="20260625182000 -0500" channel="PDRA North vs South Shootout @ Jun 25 4:00 PM :Flo Racing  03" stop="20260625235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260625000000 -0500" channel="USAC Hoosier Hundred at Lucas Oil @ Jun 25 5:25 PM :Flo Racing  04" stop="20260625172500 -0500">
+    <title>[Upcoming: 05:25 PM] USAC Hoosier Hundred at Lucas Oil @ Jun 25 5:25 PM :Flo Racing  04</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260625172500 -0500" channel="USAC Hoosier Hundred at Lucas Oil @ Jun 25 5:25 PM :Flo Racing  04" stop="20260625194500 -0500">
+    <title>[05:25 PM] USAC Hoosier Hundred at Lucas Oil @ Jun 25 5:25 PM :Flo Racing  04</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260625194500 -0500" channel="USAC Hoosier Hundred at Lucas Oil @ Jun 25 5:25 PM :Flo Racing  04" stop="20260625235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -1751,6 +1781,30 @@
     </audio>
   </programme>
   <programme start="20260625212000 -0500" channel="Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM" stop="20260625235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260625000000 -0500" channel="Double Feature Night at Thunder Road @ Jun 25 6:15 PM :Flo Racing  06" stop="20260625181500 -0500">
+    <title>[Upcoming: 06:15 PM] Double Feature Night at Thunder Road @ Jun 25 6:15 PM :Flo Racing  06</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260625181500 -0500" channel="Double Feature Night at Thunder Road @ Jun 25 6:15 PM :Flo Racing  06" stop="20260625203500 -0500">
+    <title>[06:15 PM] Double Feature Night at Thunder Road @ Jun 25 6:15 PM :Flo Racing  06</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260625203500 -0500" channel="Double Feature Night at Thunder Road @ Jun 25 6:15 PM :Flo Racing  06" stop="20260625235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -7926,23 +7980,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260625000000 -0500" channel="LIVE EVENT 04 - 6pm Short Track Super Series Afton" stop="20260625180000 -0500">
-    <title>[Upcoming: 06:00 PM] LIVE EVENT 04 - 6pm Short Track Super Series Afton</title>
+  <programme start="20260625000000 -0500" channel="LIVE EVENT 04 - CANCELLED 6pm Short Track Super Series Afton" stop="20260625180000 -0500">
+    <title>[Upcoming: 06:00 PM] LIVE EVENT 04 - CANCELLED 6pm Short Track Super Series Afton</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260625180000 -0500" channel="LIVE EVENT 04 - 6pm Short Track Super Series Afton" stop="20260625202000 -0500">
-    <title>[06:00 PM] LIVE EVENT 04 - 6pm Short Track Super Series Afton</title>
+  <programme start="20260625180000 -0500" channel="LIVE EVENT 04 - CANCELLED 6pm Short Track Super Series Afton" stop="20260625202000 -0500">
+    <title>[06:00 PM] LIVE EVENT 04 - CANCELLED 6pm Short Track Super Series Afton</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260625202000 -0500" channel="LIVE EVENT 04 - 6pm Short Track Super Series Afton" stop="20260625235959 -0500">
+  <programme start="20260625202000 -0500" channel="LIVE EVENT 04 - CANCELLED 6pm Short Track Super Series Afton" stop="20260625235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
