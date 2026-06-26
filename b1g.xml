@@ -198,9 +198,6 @@
   <channel id="LOI 10: Sligo Rovers FC vs Bohemian FC // UK Sat 1 Apr 7:45pm // ET Sat 1 Apr 2:45pm">
     <display-name lang="en">LOI 10: Sligo Rovers FC vs Bohemian FC // UK Sat 1 Apr 7:45pm // ET Sat 1 Apr 2:45pm</display-name>
   </channel>
-  <channel id="LOI 13: Cork City FC (W) vs Shamrock Rovers FC (W) // UK Sun 17 Sep 2:00pm // ET Sun 17 Sep 9:00am">
-    <display-name lang="en">LOI 13: Cork City FC (W) vs Shamrock Rovers FC (W) // UK Sun 17 Sep 2:00pm // ET Sun 17 Sep 9:00am</display-name>
-  </channel>
   <channel id="GaaGo 1 | DUBLIN v DONEGAL // UK Sun 21 Jun 11:35am // ET Sun 21 Jun 6:35am">
     <display-name lang="en">GaaGo 1 | DUBLIN v DONEGAL // UK Sun 21 Jun 11:35am // ET Sun 21 Jun 6:35am</display-name>
   </channel>
@@ -375,8 +372,8 @@
   <channel id="DIRTVISION 04 : Belleville High Banks 7:15 pm">
     <display-name lang="en">DIRTVISION 04 : Belleville High Banks 7:15 pm</display-name>
   </channel>
-  <channel id="DIRTVISION 05 : Jacksonville Speedway 7:15 pm">
-    <display-name lang="en">DIRTVISION 05 : Jacksonville Speedway 7:15 pm</display-name>
+  <channel id="DIRTVISION 05 : Jacksonville Speedway 7:15 pm  Cancelled">
+    <display-name lang="en">DIRTVISION 05 : Jacksonville Speedway 7:15 pm  Cancelled</display-name>
   </channel>
   <channel id="DIRTVISION 06: River Cities Speedway 7:15 pm">
     <display-name lang="en">DIRTVISION 06: River Cities Speedway 7:15 pm</display-name>
@@ -384,8 +381,8 @@
   <channel id="Dirtvision 07: DIRT Zone 7:30 pm">
     <display-name lang="en">Dirtvision 07: DIRT Zone 7:30 pm</display-name>
   </channel>
-  <channel id="Dirtvision 08: Paducah International Raceway 7:45 pm">
-    <display-name lang="en">Dirtvision 08: Paducah International Raceway 7:45 pm</display-name>
+  <channel id="Dirtvision 08: Paducah International Raceway 7:45 pm  Cancelled">
+    <display-name lang="en">Dirtvision 08: Paducah International Raceway 7:45 pm  Cancelled</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -917,9 +914,6 @@
   </channel>
   <channel id="LIVE EVENT 23 - 7:15pm World of Outlaws Sprint Cars Cedar Lake">
     <display-name lang="en">LIVE EVENT 23 - 7:15pm World of Outlaws Sprint Cars Cedar Lake</display-name>
-  </channel>
-  <channel id="LIVE EVENT 24 - 7:15pm Jacksonville Sprints">
-    <display-name lang="en">LIVE EVENT 24 - 7:15pm Jacksonville Sprints</display-name>
   </channel>
   <channel id="LIVE EVENT 25 - 7:15pm World of Outlaws Late Models River Cities">
     <display-name lang="en">LIVE EVENT 25 - 7:15pm World of Outlaws Late Models River Cities</display-name>
@@ -2724,30 +2718,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260626000000 -0500" channel="LOI 13: Cork City FC (W) vs Shamrock Rovers FC (W) // UK Sun 17 Sep 2:00pm // ET Sun 17 Sep 9:00am" stop="20260626080000 -0500">
-    <title>[Upcoming: 08:00 AM] LOI 13: Cork City FC (W) vs Shamrock Rovers FC (W) // UK Sun 17 Sep 2:00pm // ET Sun 17 Sep 9:00am</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260626080000 -0500" channel="LOI 13: Cork City FC (W) vs Shamrock Rovers FC (W) // UK Sun 17 Sep 2:00pm // ET Sun 17 Sep 9:00am" stop="20260626102000 -0500">
-    <title>[08:00 AM] LOI 13: Cork City FC (W) vs Shamrock Rovers FC (W) // UK Sun 17 Sep 2:00pm // ET Sun 17 Sep 9:00am</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260626102000 -0500" channel="LOI 13: Cork City FC (W) vs Shamrock Rovers FC (W) // UK Sun 17 Sep 2:00pm // ET Sun 17 Sep 9:00am" stop="20260626235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260626000000 -0500" channel="GaaGo 1 | DUBLIN v DONEGAL // UK Sun 21 Jun 11:35am // ET Sun 21 Jun 6:35am" stop="20260626053500 -0500">
     <title>[Upcoming: 05:35 AM] GaaGo 1 | DUBLIN v DONEGAL // UK Sun 21 Jun 11:35am // ET Sun 21 Jun 6:35am</title>
     <date>2026</date>
@@ -4140,23 +4110,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260626000000 -0500" channel="DIRTVISION 05 : Jacksonville Speedway 7:15 pm" stop="20260626191500 -0500">
-    <title>[Upcoming: 07:15 PM] DIRTVISION 05 : Jacksonville Speedway 7:15 pm</title>
+  <programme start="20260626000000 -0500" channel="DIRTVISION 05 : Jacksonville Speedway 7:15 pm  Cancelled" stop="20260626191500 -0500">
+    <title>[Upcoming: 07:15 PM] DIRTVISION 05 : Jacksonville Speedway 7:15 pm  Cancelled</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260626191500 -0500" channel="DIRTVISION 05 : Jacksonville Speedway 7:15 pm" stop="20260626213500 -0500">
-    <title>[07:15 PM] DIRTVISION 05 : Jacksonville Speedway 7:15 pm</title>
+  <programme start="20260626191500 -0500" channel="DIRTVISION 05 : Jacksonville Speedway 7:15 pm  Cancelled" stop="20260626213500 -0500">
+    <title>[07:15 PM] DIRTVISION 05 : Jacksonville Speedway 7:15 pm  Cancelled</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260626213500 -0500" channel="DIRTVISION 05 : Jacksonville Speedway 7:15 pm" stop="20260626235959 -0500">
+  <programme start="20260626213500 -0500" channel="DIRTVISION 05 : Jacksonville Speedway 7:15 pm  Cancelled" stop="20260626235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4212,23 +4182,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260626000000 -0500" channel="Dirtvision 08: Paducah International Raceway 7:45 pm" stop="20260626194500 -0500">
-    <title>[Upcoming: 07:45 PM] Dirtvision 08: Paducah International Raceway 7:45 pm</title>
+  <programme start="20260626000000 -0500" channel="Dirtvision 08: Paducah International Raceway 7:45 pm  Cancelled" stop="20260626194500 -0500">
+    <title>[Upcoming: 07:45 PM] Dirtvision 08: Paducah International Raceway 7:45 pm  Cancelled</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260626194500 -0500" channel="Dirtvision 08: Paducah International Raceway 7:45 pm" stop="20260626220500 -0500">
-    <title>[07:45 PM] Dirtvision 08: Paducah International Raceway 7:45 pm</title>
+  <programme start="20260626194500 -0500" channel="Dirtvision 08: Paducah International Raceway 7:45 pm  Cancelled" stop="20260626220500 -0500">
+    <title>[07:45 PM] Dirtvision 08: Paducah International Raceway 7:45 pm  Cancelled</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260626220500 -0500" channel="Dirtvision 08: Paducah International Raceway 7:45 pm" stop="20260626235959 -0500">
+  <programme start="20260626220500 -0500" channel="Dirtvision 08: Paducah International Raceway 7:45 pm  Cancelled" stop="20260626235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8477,30 +8447,6 @@
     </audio>
   </programme>
   <programme start="20260626203500 -0500" channel="LIVE EVENT 23 - 7:15pm World of Outlaws Sprint Cars Cedar Lake" stop="20260626235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260626000000 -0500" channel="LIVE EVENT 24 - 7:15pm Jacksonville Sprints" stop="20260626181500 -0500">
-    <title>[Upcoming: 06:15 PM] LIVE EVENT 24 - 7:15pm Jacksonville Sprints</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260626181500 -0500" channel="LIVE EVENT 24 - 7:15pm Jacksonville Sprints" stop="20260626203500 -0500">
-    <title>[06:15 PM] LIVE EVENT 24 - 7:15pm Jacksonville Sprints</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260626203500 -0500" channel="LIVE EVENT 24 - 7:15pm Jacksonville Sprints" stop="20260626235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
