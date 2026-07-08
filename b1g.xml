@@ -81,12 +81,6 @@
   <channel id="World Rugby: Spain vs Fiji @ Jul 7 12:20 PM :Paramount+  05">
     <display-name lang="en">World Rugby: Spain vs Fiji @ Jul 7 12:20 PM :Paramount+  05</display-name>
   </channel>
-  <channel id="Summer Shootout at Charlotte @ Jul 7 6:00 PM :Flo Racing  03">
-    <display-name lang="en">Summer Shootout at Charlotte @ Jul 7 6:00 PM :Flo Racing  03</display-name>
-  </channel>
-  <channel id="USAC National at Sweet Springs @ Jul 7 6:15 PM :Flo Racing  04">
-    <display-name lang="en">USAC National at Sweet Springs @ Jul 7 6:15 PM :Flo Racing  04</display-name>
-  </channel>
   <channel id="Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM">
     <display-name lang="en">Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM</display-name>
   </channel>
@@ -330,14 +324,20 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 : Cornwall Motor Speedway 5:45 pm">
-    <display-name lang="en">DIRTVISION 01 : Cornwall Motor Speedway 5:45 pm</display-name>
+  <channel id="DIRTVISION 01 : Mohawk International Raceway 6:15 pm">
+    <display-name lang="en">DIRTVISION 01 : Mohawk International Raceway 6:15 pm</display-name>
   </channel>
-  <channel id="DIRTVISION 02 : Montpelier Motor Speedway 5:45 pm">
-    <display-name lang="en">DIRTVISION 02 : Montpelier Motor Speedway 5:45 pm</display-name>
+  <channel id="DIRTVISION 02 : Millbridge Speedway 6:15 pm">
+    <display-name lang="en">DIRTVISION 02 : Millbridge Speedway 6:15 pm</display-name>
   </channel>
-  <channel id="DIRTVISION 03 : Millbridge Speedway 6:15 pm">
-    <display-name lang="en">DIRTVISION 03 : Millbridge Speedway 6:15 pm</display-name>
+  <channel id="DIRTVISION 03 : Stateline Speedway (NY) 6:45 pm">
+    <display-name lang="en">DIRTVISION 03 : Stateline Speedway (NY) 6:45 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 04 : I-96 Speedway 7:00 pm">
+    <display-name lang="en">DIRTVISION 04 : I-96 Speedway 7:00 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 05 : DIRT Zone 7:30 pm">
+    <display-name lang="en">DIRTVISION 05 : DIRT Zone 7:30 pm</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -755,6 +755,24 @@
   </channel>
   <channel id="AEW x NJPW | Forbidden Door (Mon 01:00 UK)">
     <display-name lang="en">AEW x NJPW | Forbidden Door (Mon 01:00 UK)</display-name>
+  </channel>
+  <channel id="LIVE EVENT 01 - 6:15pm Super DIRTcar Series Mohawk">
+    <display-name lang="en">LIVE EVENT 01 - 6:15pm Super DIRTcar Series Mohawk</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 - 6:15pm Millbridge Micro Sprints">
+    <display-name lang="en">LIVE EVENT 02 - 6:15pm Millbridge Micro Sprints</display-name>
+  </channel>
+  <channel id="LIVE EVENT 03 - 6:45pm World of Outlaws Late Models Stateline">
+    <display-name lang="en">LIVE EVENT 03 - 6:45pm World of Outlaws Late Models Stateline</display-name>
+  </channel>
+  <channel id="LIVE EVENT 04 - 7pm DIRTcar Summer Nationals I96">
+    <display-name lang="en">LIVE EVENT 04 - 7pm DIRTcar Summer Nationals I96</display-name>
+  </channel>
+  <channel id="LIVE EVENT 05 - 7:15pm USAC National Midgets Mitchell Co">
+    <display-name lang="en">LIVE EVENT 05 - 7:15pm USAC National Midgets Mitchell Co</display-name>
+  </channel>
+  <channel id="LIVE EVENT 06 - 10pm Tuff N Uff 155">
+    <display-name lang="en">LIVE EVENT 06 - 10pm Tuff N Uff 155</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -1598,54 +1616,6 @@
     </audio>
   </programme>
   <programme start="20260708144000 -0500" channel="World Rugby: Spain vs Fiji @ Jul 7 12:20 PM :Paramount+  05" stop="20260708235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260708000000 -0500" channel="Summer Shootout at Charlotte @ Jul 7 6:00 PM :Flo Racing  03" stop="20260708180000 -0500">
-    <title>[Upcoming: 06:00 PM] Summer Shootout at Charlotte @ Jul 7 6:00 PM :Flo Racing  03</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260708180000 -0500" channel="Summer Shootout at Charlotte @ Jul 7 6:00 PM :Flo Racing  03" stop="20260708202000 -0500">
-    <title>[06:00 PM] Summer Shootout at Charlotte @ Jul 7 6:00 PM :Flo Racing  03</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260708202000 -0500" channel="Summer Shootout at Charlotte @ Jul 7 6:00 PM :Flo Racing  03" stop="20260708235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260708000000 -0500" channel="USAC National at Sweet Springs @ Jul 7 6:15 PM :Flo Racing  04" stop="20260708181500 -0500">
-    <title>[Upcoming: 06:15 PM] USAC National at Sweet Springs @ Jul 7 6:15 PM :Flo Racing  04</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260708181500 -0500" channel="USAC National at Sweet Springs @ Jul 7 6:15 PM :Flo Racing  04" stop="20260708203500 -0500">
-    <title>[06:15 PM] USAC National at Sweet Springs @ Jul 7 6:15 PM :Flo Racing  04</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260708203500 -0500" channel="USAC National at Sweet Springs @ Jul 7 6:15 PM :Flo Racing  04" stop="20260708235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -3597,23 +3567,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260708000000 -0500" channel="DIRTVISION 01 : Cornwall Motor Speedway 5:45 pm" stop="20260708174500 -0500">
-    <title>[Upcoming: 05:45 PM] DIRTVISION 01 : Cornwall Motor Speedway 5:45 pm</title>
+  <programme start="20260708000000 -0500" channel="DIRTVISION 01 : Mohawk International Raceway 6:15 pm" stop="20260708181500 -0500">
+    <title>[Upcoming: 06:15 PM] DIRTVISION 01 : Mohawk International Raceway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260708174500 -0500" channel="DIRTVISION 01 : Cornwall Motor Speedway 5:45 pm" stop="20260708200500 -0500">
-    <title>[05:45 PM] DIRTVISION 01 : Cornwall Motor Speedway 5:45 pm</title>
+  <programme start="20260708181500 -0500" channel="DIRTVISION 01 : Mohawk International Raceway 6:15 pm" stop="20260708203500 -0500">
+    <title>[06:15 PM] DIRTVISION 01 : Mohawk International Raceway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260708200500 -0500" channel="DIRTVISION 01 : Cornwall Motor Speedway 5:45 pm" stop="20260708235959 -0500">
+  <programme start="20260708203500 -0500" channel="DIRTVISION 01 : Mohawk International Raceway 6:15 pm" stop="20260708235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -3621,23 +3591,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260708000000 -0500" channel="DIRTVISION 02 : Montpelier Motor Speedway 5:45 pm" stop="20260708174500 -0500">
-    <title>[Upcoming: 05:45 PM] DIRTVISION 02 : Montpelier Motor Speedway 5:45 pm</title>
+  <programme start="20260708000000 -0500" channel="DIRTVISION 02 : Millbridge Speedway 6:15 pm" stop="20260708181500 -0500">
+    <title>[Upcoming: 06:15 PM] DIRTVISION 02 : Millbridge Speedway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260708174500 -0500" channel="DIRTVISION 02 : Montpelier Motor Speedway 5:45 pm" stop="20260708200500 -0500">
-    <title>[05:45 PM] DIRTVISION 02 : Montpelier Motor Speedway 5:45 pm</title>
+  <programme start="20260708181500 -0500" channel="DIRTVISION 02 : Millbridge Speedway 6:15 pm" stop="20260708203500 -0500">
+    <title>[06:15 PM] DIRTVISION 02 : Millbridge Speedway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260708200500 -0500" channel="DIRTVISION 02 : Montpelier Motor Speedway 5:45 pm" stop="20260708235959 -0500">
+  <programme start="20260708203500 -0500" channel="DIRTVISION 02 : Millbridge Speedway 6:15 pm" stop="20260708235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -3645,23 +3615,71 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260708000000 -0500" channel="DIRTVISION 03 : Millbridge Speedway 6:15 pm" stop="20260708181500 -0500">
-    <title>[Upcoming: 06:15 PM] DIRTVISION 03 : Millbridge Speedway 6:15 pm</title>
+  <programme start="20260708000000 -0500" channel="DIRTVISION 03 : Stateline Speedway (NY) 6:45 pm" stop="20260708184500 -0500">
+    <title>[Upcoming: 06:45 PM] DIRTVISION 03 : Stateline Speedway (NY) 6:45 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260708181500 -0500" channel="DIRTVISION 03 : Millbridge Speedway 6:15 pm" stop="20260708203500 -0500">
-    <title>[06:15 PM] DIRTVISION 03 : Millbridge Speedway 6:15 pm</title>
+  <programme start="20260708184500 -0500" channel="DIRTVISION 03 : Stateline Speedway (NY) 6:45 pm" stop="20260708210500 -0500">
+    <title>[06:45 PM] DIRTVISION 03 : Stateline Speedway (NY) 6:45 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260708203500 -0500" channel="DIRTVISION 03 : Millbridge Speedway 6:15 pm" stop="20260708235959 -0500">
+  <programme start="20260708210500 -0500" channel="DIRTVISION 03 : Stateline Speedway (NY) 6:45 pm" stop="20260708235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708000000 -0500" channel="DIRTVISION 04 : I-96 Speedway 7:00 pm" stop="20260708190000 -0500">
+    <title>[Upcoming: 07:00 PM] DIRTVISION 04 : I-96 Speedway 7:00 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708190000 -0500" channel="DIRTVISION 04 : I-96 Speedway 7:00 pm" stop="20260708212000 -0500">
+    <title>[07:00 PM] DIRTVISION 04 : I-96 Speedway 7:00 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708212000 -0500" channel="DIRTVISION 04 : I-96 Speedway 7:00 pm" stop="20260708235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708000000 -0500" channel="DIRTVISION 05 : DIRT Zone 7:30 pm" stop="20260708193000 -0500">
+    <title>[Upcoming: 07:30 PM] DIRTVISION 05 : DIRT Zone 7:30 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708193000 -0500" channel="DIRTVISION 05 : DIRT Zone 7:30 pm" stop="20260708215000 -0500">
+    <title>[07:30 PM] DIRTVISION 05 : DIRT Zone 7:30 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708215000 -0500" channel="DIRTVISION 05 : DIRT Zone 7:30 pm" stop="20260708235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -6998,6 +7016,150 @@
     </audio>
   </programme>
   <programme start="20260708212000 -0500" channel="AEW x NJPW | Forbidden Door (Mon 01:00 UK)" stop="20260708235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708000000 -0500" channel="LIVE EVENT 01 - 6:15pm Super DIRTcar Series Mohawk" stop="20260708171500 -0500">
+    <title>[Upcoming: 05:15 PM] LIVE EVENT 01 - 6:15pm Super DIRTcar Series Mohawk</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708171500 -0500" channel="LIVE EVENT 01 - 6:15pm Super DIRTcar Series Mohawk" stop="20260708193500 -0500">
+    <title>[05:15 PM] LIVE EVENT 01 - 6:15pm Super DIRTcar Series Mohawk</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708193500 -0500" channel="LIVE EVENT 01 - 6:15pm Super DIRTcar Series Mohawk" stop="20260708235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708000000 -0500" channel="LIVE EVENT 02 - 6:15pm Millbridge Micro Sprints" stop="20260708171500 -0500">
+    <title>[Upcoming: 05:15 PM] LIVE EVENT 02 - 6:15pm Millbridge Micro Sprints</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708171500 -0500" channel="LIVE EVENT 02 - 6:15pm Millbridge Micro Sprints" stop="20260708193500 -0500">
+    <title>[05:15 PM] LIVE EVENT 02 - 6:15pm Millbridge Micro Sprints</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708193500 -0500" channel="LIVE EVENT 02 - 6:15pm Millbridge Micro Sprints" stop="20260708235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708000000 -0500" channel="LIVE EVENT 03 - 6:45pm World of Outlaws Late Models Stateline" stop="20260708174500 -0500">
+    <title>[Upcoming: 05:45 PM] LIVE EVENT 03 - 6:45pm World of Outlaws Late Models Stateline</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708174500 -0500" channel="LIVE EVENT 03 - 6:45pm World of Outlaws Late Models Stateline" stop="20260708200500 -0500">
+    <title>[05:45 PM] LIVE EVENT 03 - 6:45pm World of Outlaws Late Models Stateline</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708200500 -0500" channel="LIVE EVENT 03 - 6:45pm World of Outlaws Late Models Stateline" stop="20260708235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708000000 -0500" channel="LIVE EVENT 04 - 7pm DIRTcar Summer Nationals I96" stop="20260708190000 -0500">
+    <title>[Upcoming: 07:00 PM] LIVE EVENT 04 - 7pm DIRTcar Summer Nationals I96</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708190000 -0500" channel="LIVE EVENT 04 - 7pm DIRTcar Summer Nationals I96" stop="20260708212000 -0500">
+    <title>[07:00 PM] LIVE EVENT 04 - 7pm DIRTcar Summer Nationals I96</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708212000 -0500" channel="LIVE EVENT 04 - 7pm DIRTcar Summer Nationals I96" stop="20260708235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708000000 -0500" channel="LIVE EVENT 05 - 7:15pm USAC National Midgets Mitchell Co" stop="20260708181500 -0500">
+    <title>[Upcoming: 06:15 PM] LIVE EVENT 05 - 7:15pm USAC National Midgets Mitchell Co</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708181500 -0500" channel="LIVE EVENT 05 - 7:15pm USAC National Midgets Mitchell Co" stop="20260708203500 -0500">
+    <title>[06:15 PM] LIVE EVENT 05 - 7:15pm USAC National Midgets Mitchell Co</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708203500 -0500" channel="LIVE EVENT 05 - 7:15pm USAC National Midgets Mitchell Co" stop="20260708235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708000000 -0500" channel="LIVE EVENT 06 - 10pm Tuff N Uff 155" stop="20260708220000 -0500">
+    <title>[Upcoming: 10:00 PM] LIVE EVENT 06 - 10pm Tuff N Uff 155</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260708220000 -0500" channel="LIVE EVENT 06 - 10pm Tuff N Uff 155" stop="20260709002000 -0500">
+    <title>[10:00 PM] LIVE EVENT 06 - 10pm Tuff N Uff 155</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260709002000 -0500" channel="LIVE EVENT 06 - 10pm Tuff N Uff 155" stop="20260708235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
