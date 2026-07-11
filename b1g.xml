@@ -807,14 +807,23 @@
   <channel id="AEW x NJPW | Forbidden Door (Mon 01:00 UK)">
     <display-name lang="en">AEW x NJPW | Forbidden Door (Mon 01:00 UK)</display-name>
   </channel>
+  <channel id="LIVE EVENT 01 - 5pm UFC 329 Prelims">
+    <display-name lang="en">LIVE EVENT 01 - 5pm UFC 329 Prelims</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 - 9pm UFC 329 McGregor v Holloway II">
+    <display-name lang="en">LIVE EVENT 02 - 9pm UFC 329 McGregor v Holloway II</display-name>
+  </channel>
+  <channel id="LIVE EVENT 03 - 9am Polaris 38">
+    <display-name lang="en">LIVE EVENT 03 - 9am Polaris 38</display-name>
+  </channel>
   <channel id="LIVE EVENT 04 - 8pm Fight to Win 320">
     <display-name lang="en">LIVE EVENT 04 - 8pm Fight to Win 320</display-name>
   </channel>
-  <channel id="LIVE EVENT 05 - 12pm MotoAmerica Superbikes Ridge Monterey">
-    <display-name lang="en">LIVE EVENT 05 - 12pm MotoAmerica Superbikes Ridge Monterey</display-name>
+  <channel id="LIVE EVENT 05 - 12pm Real American Freestyle Tbilisi Georgia">
+    <display-name lang="en">LIVE EVENT 05 - 12pm Real American Freestyle Tbilisi Georgia</display-name>
   </channel>
-  <channel id="LIVE EVENT 06 - 4:15pm Zenith Racing Series Road America">
-    <display-name lang="en">LIVE EVENT 06 - 4:15pm Zenith Racing Series Road America</display-name>
+  <channel id="LIVE EVENT 06 - 12:30pm Senshi 32 Grand Prix">
+    <display-name lang="en">LIVE EVENT 06 - 12:30pm Senshi 32 Grand Prix</display-name>
   </channel>
   <channel id="LIVE EVENT 07 - 5:15pm Weekly Racing Stafford">
     <display-name lang="en">LIVE EVENT 07 - 5:15pm Weekly Racing Stafford</display-name>
@@ -7521,6 +7530,78 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260710000000 -0500" channel="LIVE EVENT 01 - 5pm UFC 329 Prelims" stop="20260710170000 -0500">
+    <title>[Upcoming: 05:00 PM] LIVE EVENT 01 - 5pm UFC 329 Prelims</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260710170000 -0500" channel="LIVE EVENT 01 - 5pm UFC 329 Prelims" stop="20260710192000 -0500">
+    <title>[05:00 PM] LIVE EVENT 01 - 5pm UFC 329 Prelims</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260710192000 -0500" channel="LIVE EVENT 01 - 5pm UFC 329 Prelims" stop="20260710235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260710000000 -0500" channel="LIVE EVENT 02 - 9pm UFC 329 McGregor v Holloway II" stop="20260710210000 -0500">
+    <title>[Upcoming: 09:00 PM] LIVE EVENT 02 - 9pm UFC 329 McGregor v Holloway II</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260710210000 -0500" channel="LIVE EVENT 02 - 9pm UFC 329 McGregor v Holloway II" stop="20260710232000 -0500">
+    <title>[09:00 PM] LIVE EVENT 02 - 9pm UFC 329 McGregor v Holloway II</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260710232000 -0500" channel="LIVE EVENT 02 - 9pm UFC 329 McGregor v Holloway II" stop="20260710235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260710000000 -0500" channel="LIVE EVENT 03 - 9am Polaris 38" stop="20260710090000 -0500">
+    <title>[Upcoming: 09:00 AM] LIVE EVENT 03 - 9am Polaris 38</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260710090000 -0500" channel="LIVE EVENT 03 - 9am Polaris 38" stop="20260710112000 -0500">
+    <title>[09:00 AM] LIVE EVENT 03 - 9am Polaris 38</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260710112000 -0500" channel="LIVE EVENT 03 - 9am Polaris 38" stop="20260710235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260710000000 -0500" channel="LIVE EVENT 04 - 8pm Fight to Win 320" stop="20260710200000 -0500">
     <title>[Upcoming: 08:00 PM] LIVE EVENT 04 - 8pm Fight to Win 320</title>
     <date>2026</date>
@@ -7545,23 +7626,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260710000000 -0500" channel="LIVE EVENT 05 - 12pm MotoAmerica Superbikes Ridge Monterey" stop="20260710120000 -0500">
-    <title>[Upcoming: 12:00 PM] LIVE EVENT 05 - 12pm MotoAmerica Superbikes Ridge Monterey</title>
+  <programme start="20260710000000 -0500" channel="LIVE EVENT 05 - 12pm Real American Freestyle Tbilisi Georgia" stop="20260710120000 -0500">
+    <title>[Upcoming: 12:00 PM] LIVE EVENT 05 - 12pm Real American Freestyle Tbilisi Georgia</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260710120000 -0500" channel="LIVE EVENT 05 - 12pm MotoAmerica Superbikes Ridge Monterey" stop="20260710142000 -0500">
-    <title>[12:00 PM] LIVE EVENT 05 - 12pm MotoAmerica Superbikes Ridge Monterey</title>
+  <programme start="20260710120000 -0500" channel="LIVE EVENT 05 - 12pm Real American Freestyle Tbilisi Georgia" stop="20260710142000 -0500">
+    <title>[12:00 PM] LIVE EVENT 05 - 12pm Real American Freestyle Tbilisi Georgia</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260710142000 -0500" channel="LIVE EVENT 05 - 12pm MotoAmerica Superbikes Ridge Monterey" stop="20260710235959 -0500">
+  <programme start="20260710142000 -0500" channel="LIVE EVENT 05 - 12pm Real American Freestyle Tbilisi Georgia" stop="20260710235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -7569,23 +7650,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260710000000 -0500" channel="LIVE EVENT 06 - 4:15pm Zenith Racing Series Road America" stop="20260710151500 -0500">
-    <title>[Upcoming: 03:15 PM] LIVE EVENT 06 - 4:15pm Zenith Racing Series Road America</title>
+  <programme start="20260710000000 -0500" channel="LIVE EVENT 06 - 12:30pm Senshi 32 Grand Prix" stop="20260710113000 -0500">
+    <title>[Upcoming: 11:30 AM] LIVE EVENT 06 - 12:30pm Senshi 32 Grand Prix</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260710151500 -0500" channel="LIVE EVENT 06 - 4:15pm Zenith Racing Series Road America" stop="20260710173500 -0500">
-    <title>[03:15 PM] LIVE EVENT 06 - 4:15pm Zenith Racing Series Road America</title>
+  <programme start="20260710113000 -0500" channel="LIVE EVENT 06 - 12:30pm Senshi 32 Grand Prix" stop="20260710135000 -0500">
+    <title>[11:30 AM] LIVE EVENT 06 - 12:30pm Senshi 32 Grand Prix</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260710173500 -0500" channel="LIVE EVENT 06 - 4:15pm Zenith Racing Series Road America" stop="20260710235959 -0500">
+  <programme start="20260710135000 -0500" channel="LIVE EVENT 06 - 12:30pm Senshi 32 Grand Prix" stop="20260710235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
