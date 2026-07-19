@@ -939,9 +939,6 @@
   <channel id="LIVE EVENT 01 - 5pm UFC Fight Night Du Plessis v Usman">
     <display-name lang="en">LIVE EVENT 01 - 5pm UFC Fight Night Du Plessis v Usman</display-name>
   </channel>
-  <channel id="LIVE EVENT 02 - 1pm BKFC 91 Naples Hunt v Pugliesi">
-    <display-name lang="en">LIVE EVENT 02 - 1pm BKFC 91 Naples Hunt v Pugliesi</display-name>
-  </channel>
   <channel id="LIVE EVENT 03 - 8pm WWE Saturday Night Main Event">
     <display-name lang="en">LIVE EVENT 03 - 8pm WWE Saturday Night Main Event</display-name>
   </channel>
@@ -969,8 +966,8 @@
   <channel id="LIVE EVENT 11 - 7pm FLEX Wrestling Here To Show The World">
     <display-name lang="en">LIVE EVENT 11 - 7pm FLEX Wrestling Here To Show The World</display-name>
   </channel>
-  <channel id="LIVE EVENT 12 - 8/10pm BKB 56">
-    <display-name lang="en">LIVE EVENT 12 - 8/10pm BKB 56</display-name>
+  <channel id="LIVE EVENT 12 - 10pm BKB 56">
+    <display-name lang="en">LIVE EVENT 12 - 10pm BKB 56</display-name>
   </channel>
   <channel id="LIVE EVENT 13 - 11am/2pm AMA Supercross Championship Millville">
     <display-name lang="en">LIVE EVENT 13 - 11am/2pm AMA Supercross Championship Millville</display-name>
@@ -981,11 +978,11 @@
   <channel id="LIVE EVENT 15 - 6pm World of Outlaws Sprint Cars Eldora">
     <display-name lang="en">LIVE EVENT 15 - 6pm World of Outlaws Sprint Cars Eldora</display-name>
   </channel>
-  <channel id="LIVE EVENT 16 - 6pm RoC Modifieds Holland">
-    <display-name lang="en">LIVE EVENT 16 - 6pm RoC Modifieds Holland</display-name>
+  <channel id="LIVE EVENT 16 - CANCELLED 6pm RoC Modifieds Holland">
+    <display-name lang="en">LIVE EVENT 16 - CANCELLED 6pm RoC Modifieds Holland</display-name>
   </channel>
-  <channel id="LIVE EVENT 17 - 6pm Empire Super Sprints Fonda">
-    <display-name lang="en">LIVE EVENT 17 - 6pm Empire Super Sprints Fonda</display-name>
+  <channel id="LIVE EVENT 17 - CANCELLED 6pm Empire Super Sprints Fonda">
+    <display-name lang="en">LIVE EVENT 17 - CANCELLED 6pm Empire Super Sprints Fonda</display-name>
   </channel>
   <channel id="LIVE EVENT 18 - 6:55pm IMCA King of the Creek 141 Speedway">
     <display-name lang="en">LIVE EVENT 18 - 6:55pm IMCA King of the Creek 141 Speedway</display-name>
@@ -993,8 +990,8 @@
   <channel id="LIVE EVENT 19 - 7pm Lucas Oil Late Models Shelby">
     <display-name lang="en">LIVE EVENT 19 - 7pm Lucas Oil Late Models Shelby</display-name>
   </channel>
-  <channel id="LIVE EVENT 20 - 7pm Southern Nationals Screven">
-    <display-name lang="en">LIVE EVENT 20 - 7pm Southern Nationals Screven</display-name>
+  <channel id="LIVE EVENT 20 - 7pm Southern Nationals Cochrun">
+    <display-name lang="en">LIVE EVENT 20 - 7pm Southern Nationals Cochrun</display-name>
   </channel>
   <channel id="LIVE EVENT 21 - 7pm USAC MRA Sprints I-35">
     <display-name lang="en">LIVE EVENT 21 - 7pm USAC MRA Sprints I-35</display-name>
@@ -8730,30 +8727,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718000000 -0500" channel="LIVE EVENT 02 - 1pm BKFC 91 Naples Hunt v Pugliesi" stop="20260718130000 -0500">
-    <title>[Upcoming: 01:00 PM] LIVE EVENT 02 - 1pm BKFC 91 Naples Hunt v Pugliesi</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260718130000 -0500" channel="LIVE EVENT 02 - 1pm BKFC 91 Naples Hunt v Pugliesi" stop="20260718152000 -0500">
-    <title>[01:00 PM] LIVE EVENT 02 - 1pm BKFC 91 Naples Hunt v Pugliesi</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260718152000 -0500" channel="LIVE EVENT 02 - 1pm BKFC 91 Naples Hunt v Pugliesi" stop="20260718235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20260718000000 -0500" channel="LIVE EVENT 03 - 8pm WWE Saturday Night Main Event" stop="20260718200000 -0500">
     <title>[Upcoming: 08:00 PM] LIVE EVENT 03 - 8pm WWE Saturday Night Main Event</title>
     <date>2026</date>
@@ -8970,23 +8943,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718000000 -0500" channel="LIVE EVENT 12 - 8/10pm BKB 56" stop="20260718220000 -0500">
-    <title>[Upcoming: 10:00 PM] LIVE EVENT 12 - 8/10pm BKB 56</title>
+  <programme start="20260718000000 -0500" channel="LIVE EVENT 12 - 10pm BKB 56" stop="20260718220000 -0500">
+    <title>[Upcoming: 10:00 PM] LIVE EVENT 12 - 10pm BKB 56</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718220000 -0500" channel="LIVE EVENT 12 - 8/10pm BKB 56" stop="20260719002000 -0500">
-    <title>[10:00 PM] LIVE EVENT 12 - 8/10pm BKB 56</title>
+  <programme start="20260718220000 -0500" channel="LIVE EVENT 12 - 10pm BKB 56" stop="20260719002000 -0500">
+    <title>[10:00 PM] LIVE EVENT 12 - 10pm BKB 56</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260719002000 -0500" channel="LIVE EVENT 12 - 8/10pm BKB 56" stop="20260718235959 -0500">
+  <programme start="20260719002000 -0500" channel="LIVE EVENT 12 - 10pm BKB 56" stop="20260718235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9066,23 +9039,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718000000 -0500" channel="LIVE EVENT 16 - 6pm RoC Modifieds Holland" stop="20260718180000 -0500">
-    <title>[Upcoming: 06:00 PM] LIVE EVENT 16 - 6pm RoC Modifieds Holland</title>
+  <programme start="20260718000000 -0500" channel="LIVE EVENT 16 - CANCELLED 6pm RoC Modifieds Holland" stop="20260718180000 -0500">
+    <title>[Upcoming: 06:00 PM] LIVE EVENT 16 - CANCELLED 6pm RoC Modifieds Holland</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718180000 -0500" channel="LIVE EVENT 16 - 6pm RoC Modifieds Holland" stop="20260718202000 -0500">
-    <title>[06:00 PM] LIVE EVENT 16 - 6pm RoC Modifieds Holland</title>
+  <programme start="20260718180000 -0500" channel="LIVE EVENT 16 - CANCELLED 6pm RoC Modifieds Holland" stop="20260718202000 -0500">
+    <title>[06:00 PM] LIVE EVENT 16 - CANCELLED 6pm RoC Modifieds Holland</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718202000 -0500" channel="LIVE EVENT 16 - 6pm RoC Modifieds Holland" stop="20260718235959 -0500">
+  <programme start="20260718202000 -0500" channel="LIVE EVENT 16 - CANCELLED 6pm RoC Modifieds Holland" stop="20260718235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9090,23 +9063,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718000000 -0500" channel="LIVE EVENT 17 - 6pm Empire Super Sprints Fonda" stop="20260718180000 -0500">
-    <title>[Upcoming: 06:00 PM] LIVE EVENT 17 - 6pm Empire Super Sprints Fonda</title>
+  <programme start="20260718000000 -0500" channel="LIVE EVENT 17 - CANCELLED 6pm Empire Super Sprints Fonda" stop="20260718180000 -0500">
+    <title>[Upcoming: 06:00 PM] LIVE EVENT 17 - CANCELLED 6pm Empire Super Sprints Fonda</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718180000 -0500" channel="LIVE EVENT 17 - 6pm Empire Super Sprints Fonda" stop="20260718202000 -0500">
-    <title>[06:00 PM] LIVE EVENT 17 - 6pm Empire Super Sprints Fonda</title>
+  <programme start="20260718180000 -0500" channel="LIVE EVENT 17 - CANCELLED 6pm Empire Super Sprints Fonda" stop="20260718202000 -0500">
+    <title>[06:00 PM] LIVE EVENT 17 - CANCELLED 6pm Empire Super Sprints Fonda</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718202000 -0500" channel="LIVE EVENT 17 - 6pm Empire Super Sprints Fonda" stop="20260718235959 -0500">
+  <programme start="20260718202000 -0500" channel="LIVE EVENT 17 - CANCELLED 6pm Empire Super Sprints Fonda" stop="20260718235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9162,23 +9135,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718000000 -0500" channel="LIVE EVENT 20 - 7pm Southern Nationals Screven" stop="20260718190000 -0500">
-    <title>[Upcoming: 07:00 PM] LIVE EVENT 20 - 7pm Southern Nationals Screven</title>
+  <programme start="20260718000000 -0500" channel="LIVE EVENT 20 - 7pm Southern Nationals Cochrun" stop="20260718190000 -0500">
+    <title>[Upcoming: 07:00 PM] LIVE EVENT 20 - 7pm Southern Nationals Cochrun</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718190000 -0500" channel="LIVE EVENT 20 - 7pm Southern Nationals Screven" stop="20260718212000 -0500">
-    <title>[07:00 PM] LIVE EVENT 20 - 7pm Southern Nationals Screven</title>
+  <programme start="20260718190000 -0500" channel="LIVE EVENT 20 - 7pm Southern Nationals Cochrun" stop="20260718212000 -0500">
+    <title>[07:00 PM] LIVE EVENT 20 - 7pm Southern Nationals Cochrun</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260718212000 -0500" channel="LIVE EVENT 20 - 7pm Southern Nationals Screven" stop="20260718235959 -0500">
+  <programme start="20260718212000 -0500" channel="LIVE EVENT 20 - 7pm Southern Nationals Cochrun" stop="20260718235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
