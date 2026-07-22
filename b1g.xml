@@ -780,6 +780,9 @@
   <channel id="LIVE EVENT 05 - 7:30pm FloRacing Night In America Fairbury">
     <display-name lang="en">LIVE EVENT 05 - 7:30pm FloRacing Night In America Fairbury</display-name>
   </channel>
+  <channel id="LIVE EVENT 06 - 11pm INKA MMA 59">
+    <display-name lang="en">LIVE EVENT 06 - 11pm INKA MMA 59</display-name>
+  </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
   </channel>
@@ -7220,6 +7223,30 @@
     </audio>
   </programme>
   <programme start="20260722205000 -0500" channel="LIVE EVENT 05 - 7:30pm FloRacing Night In America Fairbury" stop="20260722235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260722000000 -0500" channel="LIVE EVENT 06 - 11pm INKA MMA 59" stop="20260722230000 -0500">
+    <title>[Upcoming: 11:00 PM] LIVE EVENT 06 - 11pm INKA MMA 59</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260722230000 -0500" channel="LIVE EVENT 06 - 11pm INKA MMA 59" stop="20260723012000 -0500">
+    <title>[11:00 PM] LIVE EVENT 06 - 11pm INKA MMA 59</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260723012000 -0500" channel="LIVE EVENT 06 - 11pm INKA MMA 59" stop="20260722235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
