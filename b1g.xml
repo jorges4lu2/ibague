@@ -327,11 +327,14 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 : Autodrome Drummond  5:45 pm">
-    <display-name lang="en">DIRTVISION 01 : Autodrome Drummond  5:45 pm</display-name>
+  <channel id="DIRTVISION 01 : Airborne Park Speedway  5:45 pm">
+    <display-name lang="en">DIRTVISION 01 : Airborne Park Speedway  5:45 pm</display-name>
   </channel>
-  <channel id="DIRTVISION 02 : Millbridge Speedway 6:15 pm">
-    <display-name lang="en">DIRTVISION 02 : Millbridge Speedway 6:15 pm</display-name>
+  <channel id="DIRTVISION 02 : Ohsweken Speedway 6:15 pm">
+    <display-name lang="en">DIRTVISION 02 : Ohsweken Speedway 6:15 pm</display-name>
+  </channel>
+  <channel id="DIRTVISION 03 : Millbridge Speedway 6:15 pm">
+    <display-name lang="en">DIRTVISION 03 : Millbridge Speedway 6:15 pm</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -746,6 +749,9 @@
   </channel>
   <channel id="05. PSF | Rangers vs Saint-&#201;tienne 19:45 22/07">
     <display-name lang="en">05. PSF | Rangers vs Saint-&#201;tienne 19:45 22/07</display-name>
+  </channel>
+  <channel id="06. PSF | Maidenhead United vs Wolves 19:30 22/07">
+    <display-name lang="en">06. PSF | Maidenhead United vs Wolves 19:30 22/07</display-name>
   </channel>
   <channel id="UFC Fight Night: Dricus Du Plessis vs Kamaru Usman (Sat 23:00 UK)">
     <display-name lang="en">UFC Fight Night: Dricus Du Plessis vs Kamaru Usman (Sat 23:00 UK)</display-name>
@@ -3597,23 +3603,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260722000000 -0500" channel="DIRTVISION 01 : Autodrome Drummond  5:45 pm" stop="20260722174500 -0500">
-    <title>[Upcoming: 05:45 PM] DIRTVISION 01 : Autodrome Drummond  5:45 pm</title>
+  <programme start="20260722000000 -0500" channel="DIRTVISION 01 : Airborne Park Speedway  5:45 pm" stop="20260722174500 -0500">
+    <title>[Upcoming: 05:45 PM] DIRTVISION 01 : Airborne Park Speedway  5:45 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260722174500 -0500" channel="DIRTVISION 01 : Autodrome Drummond  5:45 pm" stop="20260722200500 -0500">
-    <title>[05:45 PM] DIRTVISION 01 : Autodrome Drummond  5:45 pm</title>
+  <programme start="20260722174500 -0500" channel="DIRTVISION 01 : Airborne Park Speedway  5:45 pm" stop="20260722200500 -0500">
+    <title>[05:45 PM] DIRTVISION 01 : Airborne Park Speedway  5:45 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260722200500 -0500" channel="DIRTVISION 01 : Autodrome Drummond  5:45 pm" stop="20260722235959 -0500">
+  <programme start="20260722200500 -0500" channel="DIRTVISION 01 : Airborne Park Speedway  5:45 pm" stop="20260722235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -3621,23 +3627,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260722000000 -0500" channel="DIRTVISION 02 : Millbridge Speedway 6:15 pm" stop="20260722181500 -0500">
-    <title>[Upcoming: 06:15 PM] DIRTVISION 02 : Millbridge Speedway 6:15 pm</title>
+  <programme start="20260722000000 -0500" channel="DIRTVISION 02 : Ohsweken Speedway 6:15 pm" stop="20260722181500 -0500">
+    <title>[Upcoming: 06:15 PM] DIRTVISION 02 : Ohsweken Speedway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260722181500 -0500" channel="DIRTVISION 02 : Millbridge Speedway 6:15 pm" stop="20260722203500 -0500">
-    <title>[06:15 PM] DIRTVISION 02 : Millbridge Speedway 6:15 pm</title>
+  <programme start="20260722181500 -0500" channel="DIRTVISION 02 : Ohsweken Speedway 6:15 pm" stop="20260722203500 -0500">
+    <title>[06:15 PM] DIRTVISION 02 : Ohsweken Speedway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260722203500 -0500" channel="DIRTVISION 02 : Millbridge Speedway 6:15 pm" stop="20260722235959 -0500">
+  <programme start="20260722203500 -0500" channel="DIRTVISION 02 : Ohsweken Speedway 6:15 pm" stop="20260722235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260722000000 -0500" channel="DIRTVISION 03 : Millbridge Speedway 6:15 pm" stop="20260722181500 -0500">
+    <title>[Upcoming: 06:15 PM] DIRTVISION 03 : Millbridge Speedway 6:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260722181500 -0500" channel="DIRTVISION 03 : Millbridge Speedway 6:15 pm" stop="20260722203500 -0500">
+    <title>[06:15 PM] DIRTVISION 03 : Millbridge Speedway 6:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260722203500 -0500" channel="DIRTVISION 03 : Millbridge Speedway 6:15 pm" stop="20260722235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -6950,6 +6980,30 @@
     </audio>
   </programme>
   <programme start="20260722150500 -0500" channel="05. PSF | Rangers vs Saint-&#201;tienne 19:45 22/07" stop="20260722235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260722000000 -0500" channel="06. PSF | Maidenhead United vs Wolves 19:30 22/07" stop="20260722123000 -0500">
+    <title>[Upcoming: 12:30 PM] 06. PSF | Maidenhead United vs Wolves 19:30 22/07</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260722123000 -0500" channel="06. PSF | Maidenhead United vs Wolves 19:30 22/07" stop="20260722145000 -0500">
+    <title>[12:30 PM] 06. PSF | Maidenhead United vs Wolves 19:30 22/07</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260722145000 -0500" channel="06. PSF | Maidenhead United vs Wolves 19:30 22/07" stop="20260722235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
