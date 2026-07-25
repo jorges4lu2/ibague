@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <tv date="20260725 -0500">
+  <channel id="Cymru Premier 01 | Cardiff Airport vs. Felinfach (Sat 20:00 UK)">
+    <display-name lang="en">Cymru Premier 01 | Cardiff Airport vs. Felinfach (Sat 20:00 UK)</display-name>
+  </channel>
   <channel id="01. Commonwealth Games | Glasgow (Fri 08:30 UK)">
     <display-name lang="en">01. Commonwealth Games | Glasgow (Fri 08:30 UK)</display-name>
   </channel>
@@ -960,9 +963,6 @@
   <channel id="LIVE EVENT 04 - 7:30/9pm Spence Jr v Tszyu">
     <display-name lang="en">LIVE EVENT 04 - 7:30/9pm Spence Jr v Tszyu</display-name>
   </channel>
-  <channel id="LIVE EVENT 06 - 1:30am Highland Boxing No Holds Barrred">
-    <display-name lang="en">LIVE EVENT 06 - 1:30am Highland Boxing No Holds Barrred</display-name>
-  </channel>
   <channel id="LIVE EVENT 07 - 11am Mecum Auctions Harrisburg">
     <display-name lang="en">LIVE EVENT 07 - 11am Mecum Auctions Harrisburg</display-name>
   </channel>
@@ -1236,6 +1236,30 @@
   <channel id="IT-DAZN 11 HD: UEFA Women`s Champions League| Lyon v Galatasaray (Turkish commentary)| Tue 08 Oct 19:45">
     <display-name lang="en">IT-DAZN 11 HD: UEFA Women`s Champions League| Lyon v Galatasaray (Turkish commentary)| Tue 08 Oct 19:45</display-name>
   </channel>
+  <programme start="20260725000000 -0500" channel="Cymru Premier 01 | Cardiff Airport vs. Felinfach (Sat 20:00 UK)" stop="20260725140000 -0500">
+    <title>[Upcoming: 02:00 PM] Cymru Premier 01 | Cardiff Airport vs. Felinfach (Sat 20:00 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260725140000 -0500" channel="Cymru Premier 01 | Cardiff Airport vs. Felinfach (Sat 20:00 UK)" stop="20260725162000 -0500">
+    <title>[02:00 PM] Cymru Premier 01 | Cardiff Airport vs. Felinfach (Sat 20:00 UK)</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260725162000 -0500" channel="Cymru Premier 01 | Cardiff Airport vs. Felinfach (Sat 20:00 UK)" stop="20260725235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260725000000 -0500" channel="01. Commonwealth Games | Glasgow (Fri 08:30 UK)" stop="20260725023000 -0500">
     <title>[Upcoming: 02:30 AM] 01. Commonwealth Games | Glasgow (Fri 08:30 UK)</title>
     <date>2026</date>
@@ -8909,30 +8933,6 @@
     </audio>
   </programme>
   <programme start="20260725232000 -0500" channel="LIVE EVENT 04 - 7:30/9pm Spence Jr v Tszyu" stop="20260725235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260725000000 -0500" channel="LIVE EVENT 06 - 1:30am Highland Boxing No Holds Barrred" stop="20260725003000 -0500">
-    <title>[Upcoming: 12:30 AM] LIVE EVENT 06 - 1:30am Highland Boxing No Holds Barrred</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260725003000 -0500" channel="LIVE EVENT 06 - 1:30am Highland Boxing No Holds Barrred" stop="20260725025000 -0500">
-    <title>[12:30 AM] LIVE EVENT 06 - 1:30am Highland Boxing No Holds Barrred</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260725025000 -0500" channel="LIVE EVENT 06 - 1:30am Highland Boxing No Holds Barrred" stop="20260725235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
