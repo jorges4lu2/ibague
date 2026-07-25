@@ -876,8 +876,11 @@
   <channel id="BOXING: Diego Pacheco vs. Immanuwel Aleem (Sat 22:30 UK)">
     <display-name lang="en">BOXING: Diego Pacheco vs. Immanuwel Aleem (Sat 22:30 UK)</display-name>
   </channel>
-  <channel id="LIVE EVENT 02 - 11am Mecum Auctions Harrisburg">
-    <display-name lang="en">LIVE EVENT 02 - 11am Mecum Auctions Harrisburg</display-name>
+  <channel id="LIVE EVENT 01 - 9am UFC Fight Night Ankalaev v Guskov">
+    <display-name lang="en">LIVE EVENT 01 - 9am UFC Fight Night Ankalaev v Guskov</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 - 9am Joshua v Prenga">
+    <display-name lang="en">LIVE EVENT 02 - 9am Joshua v Prenga</display-name>
   </channel>
   <channel id="LIVE EVENT 03 - 6:30pm Andrade v Ataide">
     <display-name lang="en">LIVE EVENT 03 - 6:30pm Andrade v Ataide</display-name>
@@ -909,14 +912,14 @@
   <channel id="LIVE EVENT 12 - 6:45pm IRA Sprints Mississippi Thunder">
     <display-name lang="en">LIVE EVENT 12 - 6:45pm IRA Sprints Mississippi Thunder</display-name>
   </channel>
-  <channel id="LIVE EVENT 13 - 7pm Albany Saratoga Stan Da Man Night">
-    <display-name lang="en">LIVE EVENT 13 - 7pm Albany Saratoga Stan Da Man Night</display-name>
+  <channel id="LIVE EVENT 13 - CANCELLED 8:30pm Albany Saratoga Stan Da Man Night">
+    <display-name lang="en">LIVE EVENT 13 - CANCELLED 8:30pm Albany Saratoga Stan Da Man Night</display-name>
   </channel>
   <channel id="LIVE EVENT 14 - 7pm Williams Grove Sprint Cars">
     <display-name lang="en">LIVE EVENT 14 - 7pm Williams Grove Sprint Cars</display-name>
   </channel>
-  <channel id="LIVE EVENT 15 - 7pm Southern Nationals North Georgia">
-    <display-name lang="en">LIVE EVENT 15 - 7pm Southern Nationals North Georgia</display-name>
+  <channel id="LIVE EVENT 15 - CANCELLED 7pm Southern Nationals North Georgia">
+    <display-name lang="en">LIVE EVENT 15 - CANCELLED 7pm Southern Nationals North Georgia</display-name>
   </channel>
   <channel id="LIVE EVENT 16 - 7:15pm Jacksonville Sprints">
     <display-name lang="en">LIVE EVENT 16 - 7:15pm Jacksonville Sprints</display-name>
@@ -8151,23 +8154,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260724000000 -0500" channel="LIVE EVENT 02 - 11am Mecum Auctions Harrisburg" stop="20260724110000 -0500">
-    <title>[Upcoming: 11:00 AM] LIVE EVENT 02 - 11am Mecum Auctions Harrisburg</title>
+  <programme start="20260724000000 -0500" channel="LIVE EVENT 01 - 9am UFC Fight Night Ankalaev v Guskov" stop="20260724090000 -0500">
+    <title>[Upcoming: 09:00 AM] LIVE EVENT 01 - 9am UFC Fight Night Ankalaev v Guskov</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260724110000 -0500" channel="LIVE EVENT 02 - 11am Mecum Auctions Harrisburg" stop="20260724132000 -0500">
-    <title>[11:00 AM] LIVE EVENT 02 - 11am Mecum Auctions Harrisburg</title>
+  <programme start="20260724090000 -0500" channel="LIVE EVENT 01 - 9am UFC Fight Night Ankalaev v Guskov" stop="20260724112000 -0500">
+    <title>[09:00 AM] LIVE EVENT 01 - 9am UFC Fight Night Ankalaev v Guskov</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260724132000 -0500" channel="LIVE EVENT 02 - 11am Mecum Auctions Harrisburg" stop="20260724235959 -0500">
+  <programme start="20260724112000 -0500" channel="LIVE EVENT 01 - 9am UFC Fight Night Ankalaev v Guskov" stop="20260724235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260724000000 -0500" channel="LIVE EVENT 02 - 9am Joshua v Prenga" stop="20260724090000 -0500">
+    <title>[Upcoming: 09:00 AM] LIVE EVENT 02 - 9am Joshua v Prenga</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260724090000 -0500" channel="LIVE EVENT 02 - 9am Joshua v Prenga" stop="20260724112000 -0500">
+    <title>[09:00 AM] LIVE EVENT 02 - 9am Joshua v Prenga</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260724112000 -0500" channel="LIVE EVENT 02 - 9am Joshua v Prenga" stop="20260724235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8415,23 +8442,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260724000000 -0500" channel="LIVE EVENT 13 - 7pm Albany Saratoga Stan Da Man Night" stop="20260724190000 -0500">
-    <title>[Upcoming: 07:00 PM] LIVE EVENT 13 - 7pm Albany Saratoga Stan Da Man Night</title>
+  <programme start="20260724000000 -0500" channel="LIVE EVENT 13 - CANCELLED 8:30pm Albany Saratoga Stan Da Man Night" stop="20260724193000 -0500">
+    <title>[Upcoming: 07:30 PM] LIVE EVENT 13 - CANCELLED 8:30pm Albany Saratoga Stan Da Man Night</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260724190000 -0500" channel="LIVE EVENT 13 - 7pm Albany Saratoga Stan Da Man Night" stop="20260724212000 -0500">
-    <title>[07:00 PM] LIVE EVENT 13 - 7pm Albany Saratoga Stan Da Man Night</title>
+  <programme start="20260724193000 -0500" channel="LIVE EVENT 13 - CANCELLED 8:30pm Albany Saratoga Stan Da Man Night" stop="20260724215000 -0500">
+    <title>[07:30 PM] LIVE EVENT 13 - CANCELLED 8:30pm Albany Saratoga Stan Da Man Night</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260724212000 -0500" channel="LIVE EVENT 13 - 7pm Albany Saratoga Stan Da Man Night" stop="20260724235959 -0500">
+  <programme start="20260724215000 -0500" channel="LIVE EVENT 13 - CANCELLED 8:30pm Albany Saratoga Stan Da Man Night" stop="20260724235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8463,23 +8490,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260724000000 -0500" channel="LIVE EVENT 15 - 7pm Southern Nationals North Georgia" stop="20260724190000 -0500">
-    <title>[Upcoming: 07:00 PM] LIVE EVENT 15 - 7pm Southern Nationals North Georgia</title>
+  <programme start="20260724000000 -0500" channel="LIVE EVENT 15 - CANCELLED 7pm Southern Nationals North Georgia" stop="20260724190000 -0500">
+    <title>[Upcoming: 07:00 PM] LIVE EVENT 15 - CANCELLED 7pm Southern Nationals North Georgia</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260724190000 -0500" channel="LIVE EVENT 15 - 7pm Southern Nationals North Georgia" stop="20260724212000 -0500">
-    <title>[07:00 PM] LIVE EVENT 15 - 7pm Southern Nationals North Georgia</title>
+  <programme start="20260724190000 -0500" channel="LIVE EVENT 15 - CANCELLED 7pm Southern Nationals North Georgia" stop="20260724212000 -0500">
+    <title>[07:00 PM] LIVE EVENT 15 - CANCELLED 7pm Southern Nationals North Georgia</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260724212000 -0500" channel="LIVE EVENT 15 - 7pm Southern Nationals North Georgia" stop="20260724235959 -0500">
+  <programme start="20260724212000 -0500" channel="LIVE EVENT 15 - CANCELLED 7pm Southern Nationals North Georgia" stop="20260724235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
