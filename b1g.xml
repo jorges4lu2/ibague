@@ -855,6 +855,9 @@
   <channel id="04. PSF | 19:45 Birmingham City vs Barcelona">
     <display-name lang="en">04. PSF | 19:45 Birmingham City vs Barcelona</display-name>
   </channel>
+  <channel id="05. PSF | 19:45 Crystal Palace vs Al Ula SC">
+    <display-name lang="en">05. PSF | 19:45 Crystal Palace vs Al Ula SC</display-name>
+  </channel>
   <channel id="PSF 09 | 15:00 Crewe Alexandra vs Birmingham City">
     <display-name lang="en">PSF 09 | 15:00 Crewe Alexandra vs Birmingham City</display-name>
   </channel>
@@ -869,9 +872,6 @@
   </channel>
   <channel id="AEW: Redemption HD (Mon 00:00 UK)">
     <display-name lang="en">AEW: Redemption HD (Mon 00:00 UK)</display-name>
-  </channel>
-  <channel id="LIVE EVENT 01 - 9:30am ONE Friday Fights 164 Watcharaphon v Hamidi">
-    <display-name lang="en">LIVE EVENT 01 - 9:30am ONE Friday Fights 164 Watcharaphon v Hamidi</display-name>
   </channel>
   <channel id="LIVE EVENT 02 - 2pm Portable v Okocha 2">
     <display-name lang="en">LIVE EVENT 02 - 2pm Portable v Okocha 2</display-name>
@@ -891,8 +891,8 @@
   <channel id="LIVE EVENT 07 - 10pm Curiel v Castillo (En Espanol)">
     <display-name lang="en">LIVE EVENT 07 - 10pm Curiel v Castillo (En Espanol)</display-name>
   </channel>
-  <channel id="LIVE EVENT 08 - 11:20am Zenith Racing Series Watkins Glen">
-    <display-name lang="en">LIVE EVENT 08 - 11:20am Zenith Racing Series Watkins Glen</display-name>
+  <channel id="LIVE EVENT 08 - 3pm Zenith Racing Series Watkins Glen">
+    <display-name lang="en">LIVE EVENT 08 - 3pm Zenith Racing Series Watkins Glen</display-name>
   </channel>
   <channel id="LIVE EVENT 09 - 12pm MotoAmerica Superbikes Mid Ohio">
     <display-name lang="en">LIVE EVENT 09 - 12pm MotoAmerica Superbikes Mid Ohio</display-name>
@@ -7989,6 +7989,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260731000000 -0500" channel="05. PSF | 19:45 Crystal Palace vs Al Ula SC" stop="20260731124500 -0500">
+    <title>[Upcoming: 12:45 PM] 05. PSF | 19:45 Crystal Palace vs Al Ula SC</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260731124500 -0500" channel="05. PSF | 19:45 Crystal Palace vs Al Ula SC" stop="20260731150500 -0500">
+    <title>[12:45 PM] 05. PSF | 19:45 Crystal Palace vs Al Ula SC</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260731150500 -0500" channel="05. PSF | 19:45 Crystal Palace vs Al Ula SC" stop="20260731235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260731000000 -0500" channel="PSF 09 | 15:00 Crewe Alexandra vs Birmingham City" stop="20260731080000 -0500">
     <title>[Upcoming: 08:00 AM] PSF 09 | 15:00 Crewe Alexandra vs Birmingham City</title>
     <date>2026</date>
@@ -8102,30 +8126,6 @@
     </audio>
   </programme>
   <programme start="20260731202000 -0500" channel="AEW: Redemption HD (Mon 00:00 UK)" stop="20260731235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260731000000 -0500" channel="LIVE EVENT 01 - 9:30am ONE Friday Fights 164 Watcharaphon v Hamidi" stop="20260731083000 -0500">
-    <title>[Upcoming: 08:30 AM] LIVE EVENT 01 - 9:30am ONE Friday Fights 164 Watcharaphon v Hamidi</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260731083000 -0500" channel="LIVE EVENT 01 - 9:30am ONE Friday Fights 164 Watcharaphon v Hamidi" stop="20260731105000 -0500">
-    <title>[08:30 AM] LIVE EVENT 01 - 9:30am ONE Friday Fights 164 Watcharaphon v Hamidi</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260731105000 -0500" channel="LIVE EVENT 01 - 9:30am ONE Friday Fights 164 Watcharaphon v Hamidi" stop="20260731235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -8277,23 +8277,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260731000000 -0500" channel="LIVE EVENT 08 - 11:20am Zenith Racing Series Watkins Glen" stop="20260731102000 -0500">
-    <title>[Upcoming: 10:20 AM] LIVE EVENT 08 - 11:20am Zenith Racing Series Watkins Glen</title>
+  <programme start="20260731000000 -0500" channel="LIVE EVENT 08 - 3pm Zenith Racing Series Watkins Glen" stop="20260731150000 -0500">
+    <title>[Upcoming: 03:00 PM] LIVE EVENT 08 - 3pm Zenith Racing Series Watkins Glen</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260731102000 -0500" channel="LIVE EVENT 08 - 11:20am Zenith Racing Series Watkins Glen" stop="20260731124000 -0500">
-    <title>[10:20 AM] LIVE EVENT 08 - 11:20am Zenith Racing Series Watkins Glen</title>
+  <programme start="20260731150000 -0500" channel="LIVE EVENT 08 - 3pm Zenith Racing Series Watkins Glen" stop="20260731172000 -0500">
+    <title>[03:00 PM] LIVE EVENT 08 - 3pm Zenith Racing Series Watkins Glen</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260731124000 -0500" channel="LIVE EVENT 08 - 11:20am Zenith Racing Series Watkins Glen" stop="20260731235959 -0500">
+  <programme start="20260731172000 -0500" channel="LIVE EVENT 08 - 3pm Zenith Racing Series Watkins Glen" stop="20260731235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
