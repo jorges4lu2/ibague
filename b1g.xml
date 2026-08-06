@@ -420,6 +420,9 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
+  <channel id="DIRTVISION 01 : Knoxville Raceway 7:15 pm">
+    <display-name lang="en">DIRTVISION 01 : Knoxville Raceway 7:15 pm</display-name>
+  </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
   </channel>
@@ -843,14 +846,20 @@
   <channel id="WWE: SummerSlam (Sat-Sun 23:00 UK)">
     <display-name lang="en">WWE: SummerSlam (Sat-Sun 23:00 UK)</display-name>
   </channel>
-  <channel id="LIVE EVENT 01 - 7am AMA Loretta Lynn Nat'l MX Championship">
-    <display-name lang="en">LIVE EVENT 01 - 7am AMA Loretta Lynn Nat'l MX Championship</display-name>
+  <channel id="LIVE EVENT 01 - 8am AMA Loretta Lynn Nat'l MX Championship">
+    <display-name lang="en">LIVE EVENT 01 - 8am AMA Loretta Lynn Nat'l MX Championship</display-name>
   </channel>
-  <channel id="LIVE EVENT 02 - CANCELLED 6pm STSS Action Track USA">
-    <display-name lang="en">LIVE EVENT 02 - CANCELLED 6pm STSS Action Track USA</display-name>
+  <channel id="LIVE EVENT 02 - 4pm PDRA Thunder Valley Throwdown">
+    <display-name lang="en">LIVE EVENT 02 - 4pm PDRA Thunder Valley Throwdown</display-name>
   </channel>
-  <channel id="LIVE EVENT 03 - 7:45pm NWMT Thompson">
-    <display-name lang="en">LIVE EVENT 03 - 7:45pm NWMT Thompson</display-name>
+  <channel id="LIVE EVENT 03 - 6:45pm Lucas Oil North/South 100 Florence">
+    <display-name lang="en">LIVE EVENT 03 - 6:45pm Lucas Oil North/South 100 Florence</display-name>
+  </channel>
+  <channel id="LIVE EVENT 04 - 7:15pm Knoxville Sprints">
+    <display-name lang="en">LIVE EVENT 04 - 7:15pm Knoxville Sprints</display-name>
+  </channel>
+  <channel id="LIVE EVENT 05 - 8pm GCW 20 Years of Bad Boy">
+    <display-name lang="en">LIVE EVENT 05 - 8pm GCW 20 Years of Bad Boy</display-name>
   </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
@@ -4431,6 +4440,30 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme start="20260806000000 -0500" channel="DIRTVISION 01 : Knoxville Raceway 7:15 pm" stop="20260806191500 -0500">
+    <title>[Upcoming: 07:15 PM] DIRTVISION 01 : Knoxville Raceway 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260806191500 -0500" channel="DIRTVISION 01 : Knoxville Raceway 7:15 pm" stop="20260806213500 -0500">
+    <title>[07:15 PM] DIRTVISION 01 : Knoxville Raceway 7:15 pm</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260806213500 -0500" channel="DIRTVISION 01 : Knoxville Raceway 7:15 pm" stop="20260806235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
   <programme start="20260806000000 -0500" channel="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET" stop="20260806155800 -0500">
     <title>[Upcoming: 03:58 PM] Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</title>
     <date>2026</date>
@@ -7815,23 +7848,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260806000000 -0500" channel="LIVE EVENT 01 - 7am AMA Loretta Lynn Nat'l MX Championship" stop="20260806070000 -0500">
-    <title>[Upcoming: 07:00 AM] LIVE EVENT 01 - 7am AMA Loretta Lynn Nat'l MX Championship</title>
+  <programme start="20260806000000 -0500" channel="LIVE EVENT 01 - 8am AMA Loretta Lynn Nat'l MX Championship" stop="20260806080000 -0500">
+    <title>[Upcoming: 08:00 AM] LIVE EVENT 01 - 8am AMA Loretta Lynn Nat'l MX Championship</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260806070000 -0500" channel="LIVE EVENT 01 - 7am AMA Loretta Lynn Nat'l MX Championship" stop="20260806092000 -0500">
-    <title>[07:00 AM] LIVE EVENT 01 - 7am AMA Loretta Lynn Nat'l MX Championship</title>
+  <programme start="20260806080000 -0500" channel="LIVE EVENT 01 - 8am AMA Loretta Lynn Nat'l MX Championship" stop="20260806102000 -0500">
+    <title>[08:00 AM] LIVE EVENT 01 - 8am AMA Loretta Lynn Nat'l MX Championship</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260806092000 -0500" channel="LIVE EVENT 01 - 7am AMA Loretta Lynn Nat'l MX Championship" stop="20260806235959 -0500">
+  <programme start="20260806102000 -0500" channel="LIVE EVENT 01 - 8am AMA Loretta Lynn Nat'l MX Championship" stop="20260806235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -7839,23 +7872,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260806000000 -0500" channel="LIVE EVENT 02 - CANCELLED 6pm STSS Action Track USA" stop="20260806180000 -0500">
-    <title>[Upcoming: 06:00 PM] LIVE EVENT 02 - CANCELLED 6pm STSS Action Track USA</title>
+  <programme start="20260806000000 -0500" channel="LIVE EVENT 02 - 4pm PDRA Thunder Valley Throwdown" stop="20260806160000 -0500">
+    <title>[Upcoming: 04:00 PM] LIVE EVENT 02 - 4pm PDRA Thunder Valley Throwdown</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260806180000 -0500" channel="LIVE EVENT 02 - CANCELLED 6pm STSS Action Track USA" stop="20260806202000 -0500">
-    <title>[06:00 PM] LIVE EVENT 02 - CANCELLED 6pm STSS Action Track USA</title>
+  <programme start="20260806160000 -0500" channel="LIVE EVENT 02 - 4pm PDRA Thunder Valley Throwdown" stop="20260806182000 -0500">
+    <title>[04:00 PM] LIVE EVENT 02 - 4pm PDRA Thunder Valley Throwdown</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260806202000 -0500" channel="LIVE EVENT 02 - CANCELLED 6pm STSS Action Track USA" stop="20260806235959 -0500">
+  <programme start="20260806182000 -0500" channel="LIVE EVENT 02 - 4pm PDRA Thunder Valley Throwdown" stop="20260806235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -7863,23 +7896,71 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260806000000 -0500" channel="LIVE EVENT 03 - 7:45pm NWMT Thompson" stop="20260806184500 -0500">
-    <title>[Upcoming: 06:45 PM] LIVE EVENT 03 - 7:45pm NWMT Thompson</title>
+  <programme start="20260806000000 -0500" channel="LIVE EVENT 03 - 6:45pm Lucas Oil North/South 100 Florence" stop="20260806174500 -0500">
+    <title>[Upcoming: 05:45 PM] LIVE EVENT 03 - 6:45pm Lucas Oil North/South 100 Florence</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260806184500 -0500" channel="LIVE EVENT 03 - 7:45pm NWMT Thompson" stop="20260806210500 -0500">
-    <title>[06:45 PM] LIVE EVENT 03 - 7:45pm NWMT Thompson</title>
+  <programme start="20260806174500 -0500" channel="LIVE EVENT 03 - 6:45pm Lucas Oil North/South 100 Florence" stop="20260806200500 -0500">
+    <title>[05:45 PM] LIVE EVENT 03 - 6:45pm Lucas Oil North/South 100 Florence</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260806210500 -0500" channel="LIVE EVENT 03 - 7:45pm NWMT Thompson" stop="20260806235959 -0500">
+  <programme start="20260806200500 -0500" channel="LIVE EVENT 03 - 6:45pm Lucas Oil North/South 100 Florence" stop="20260806235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260806000000 -0500" channel="LIVE EVENT 04 - 7:15pm Knoxville Sprints" stop="20260806181500 -0500">
+    <title>[Upcoming: 06:15 PM] LIVE EVENT 04 - 7:15pm Knoxville Sprints</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260806181500 -0500" channel="LIVE EVENT 04 - 7:15pm Knoxville Sprints" stop="20260806203500 -0500">
+    <title>[06:15 PM] LIVE EVENT 04 - 7:15pm Knoxville Sprints</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260806203500 -0500" channel="LIVE EVENT 04 - 7:15pm Knoxville Sprints" stop="20260806235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260806000000 -0500" channel="LIVE EVENT 05 - 8pm GCW 20 Years of Bad Boy" stop="20260806200000 -0500">
+    <title>[Upcoming: 08:00 PM] LIVE EVENT 05 - 8pm GCW 20 Years of Bad Boy</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260806200000 -0500" channel="LIVE EVENT 05 - 8pm GCW 20 Years of Bad Boy" stop="20260806222000 -0500">
+    <title>[08:00 PM] LIVE EVENT 05 - 8pm GCW 20 Years of Bad Boy</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260806222000 -0500" channel="LIVE EVENT 05 - 8pm GCW 20 Years of Bad Boy" stop="20260806235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
