@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="m3u-to-epg-bogota-final-ppv">
+<tv generator-info-name="m3u-to-epg-bogota-final-ppv-v2">
   <channel id="ended..phygital.games.of.the.future.semi.final..sat.08.aug.1045.03.sa..8k.exclusive..sa.shahid.ppv.1">
     <display-name>ENDED | PHYGITAL GAMES OF THE FUTURE: SEMI FINAL | Sat 08 Aug 10:45 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 1</display-name>
   </channel>
@@ -1254,8 +1254,14 @@
   <channel id="scottish.cup.6.2000.buckie.thistle.vs.dundee.united">
     <display-name>Scottish Cup 6: 20:00 Buckie Thistle vs Dundee United</display-name>
   </channel>
+  <channel id="boxing.05..fury.vs.hall.6pm">
+    <display-name>Boxing  05  :  FURY vs HALL  6PM</display-name>
+  </channel>
   <channel id="boxing.6.fury.v.makhmudov.1900">
     <display-name>Boxing 6: Fury v Makhmudov 19:00</display-name>
+  </channel>
+  <channel id="live.event.01.-.5pm.ufc.fight.night.gamrot.v.salkilld">
+    <display-name>LIVE EVENT 01 - 5pm UFC Fight Night Gamrot v Salkilld</display-name>
   </channel>
   <channel id="live.event.02.-.63010pm.mvpw.05.johnson.v.thorslund">
     <display-name>LIVE EVENT 02 - 6:30/10pm MVPW 05 Johnson v Thorslund</display-name>
@@ -1269,8 +1275,17 @@
   <channel id="live.event.05.-.1130am.mckenna.v.oliha">
     <display-name>LIVE EVENT 05 - 11:30am McKenna v Oliha</display-name>
   </channel>
+  <channel id="live.event.06.-.12pm.apfc.ifl.3">
+    <display-name>LIVE EVENT 06 - 12pm APFC IFL 3</display-name>
+  </channel>
   <channel id="live.event.07.-.605pm.acw.georgetown.smash">
     <display-name>LIVE EVENT 07 - 6:05pm ACW Georgetown Smash</display-name>
+  </channel>
+  <channel id="live.event.08.-.7pm.gogirl.the.unstoppable.force">
+    <display-name>LIVE EVENT 08 - 7pm GoGirl The Unstoppable Force</display-name>
+  </channel>
+  <channel id="live.event.09.-.8am.ama.loretta.lynn.natl.mx.championship">
+    <display-name>LIVE EVENT 09 - 8am AMA Loretta Lynn Nat&#x27;l MX Championship</display-name>
   </channel>
   <channel id="live.event.10.-.845am.pdra.thunder.valley.throwdown">
     <display-name>LIVE EVENT 10 - 8:45am PDRA Thunder Valley Throwdown</display-name>
@@ -1278,8 +1293,29 @@
   <channel id="live.event.11.-.1010am.usac.silver.crown.iowa">
     <display-name>LIVE EVENT 11 - 10:10am USAC Silver Crown Iowa</display-name>
   </channel>
+  <channel id="live.event.12.-.12pm.national.dirt.lm.hall.of.fame.ceremony">
+    <display-name>LIVE EVENT 12 - 12pm National Dirt LM Hall of Fame Ceremony</display-name>
+  </channel>
   <channel id="live.event.13.-.430pm.cars.tour.hickory">
     <display-name>LIVE EVENT 13 - 4:30pm CARS Tour Hickory</display-name>
+  </channel>
+  <channel id="live.event.14.-.5pm.ismamss.supermodifieds.oswego">
+    <display-name>LIVE EVENT 14 - 5pm ISMA/MSS Supermodifieds Oswego</display-name>
+  </channel>
+  <channel id="live.event.15.-.6pm.napa.all.star.sprints.stateline">
+    <display-name>LIVE EVENT 15 - 6pm NAPA All Star Sprints Stateline</display-name>
+  </channel>
+  <channel id="live.event.16.-.6pm.bill.awtey.tribute.jennerstown">
+    <display-name>LIVE EVENT 16 - 6pm Bill Awtey Tribute Jennerstown</display-name>
+  </channel>
+  <channel id="live.event.17.-.6pm.weekly.racing.fonda">
+    <display-name>LIVE EVENT 17 - 6pm Weekly Racing Fonda</display-name>
+  </channel>
+  <channel id="live.event.18.-.6pm.weekly.racing.port.royal">
+    <display-name>LIVE EVENT 18 - 6pm Weekly Racing Port Royal</display-name>
+  </channel>
+  <channel id="live.event.19.-.6pm.roc.modified.race.holland">
+    <display-name>LIVE EVENT 19 - 6pm RoC Modified Race Holland</display-name>
   </channel>
   <channel id="live.event.20.-.615pm.land.of.legends">
     <display-name>LIVE EVENT 20 - 6:15pm Land of Legends</display-name>
@@ -1289,6 +1325,15 @@
   </channel>
   <channel id="live.event.22.-.655pm.imca.weekly.racing.141.speedway">
     <display-name>LIVE EVENT 22 - 6:55pm IMCA Weekly Racing 141 Speedway</display-name>
+  </channel>
+  <channel id="live.event.23.-.7pm.world.of.outlaws.sprint.cars.i55.federated">
+    <display-name>LIVE EVENT 23 - 7pm World of Outlaws Sprint Cars I55 Federated</display-name>
+  </channel>
+  <channel id="live.event.24.-.7pm.mars.late.models.macon">
+    <display-name>LIVE EVENT 24 - 7pm MARS Late Models Macon</display-name>
+  </channel>
+  <channel id="live.event.25.-.7pm.american.flat.track.jackpine.gypsies">
+    <display-name>LIVE EVENT 25 - 7pm American Flat Track Jackpine Gypsies</display-name>
   </channel>
   <channel id="ppv.event.01.prelims.ufc.fn.8.8.500.pm.et">
     <display-name>PPV EVENT 01: PRELIMS UFC FN (8.8 5:00 PM ET)</display-name>
@@ -1604,6 +1649,18 @@
   </channel>
   <channel id="gaago.6..clare.v.dublin..uk.sat.20.jun.520pm..et.sat.20.jun.1220pm">
     <display-name>GaaGo 6 | CLARE v DUBLIN // UK Sat 20 Jun 5:20pm // ET Sat 20 Jun 12:20pm</display-name>
+  </channel>
+  <channel id="nifl.1..glentoran.vs.carrick..sat.10.3pm">
+    <display-name>NIFL 1 | Glentoran vs Carrick | Sat 10 3PM</display-name>
+  </channel>
+  <channel id="nifl.2..cliftonville.vs.coleraine..sat.10n.3pm">
+    <display-name>NIFL 2 | Cliftonville vs Coleraine | Sat 10n 3PM</display-name>
+  </channel>
+  <channel id="nifl.3..dungannon.vs.crusaders..sat.10.3pm">
+    <display-name>NIFL 3 | Dungannon vs Crusaders | Sat 10 3PM</display-name>
+  </channel>
+  <channel id="nifl.4..glenavon.vs.linfield..sat.10.3pm">
+    <display-name>NIFL 4 | Glenavon vs Linfield | Sat 10 3PM</display-name>
   </channel>
   <channel id="ie.clubber.01..waterford.gaa.abbeyside..ballinacourty.vs.de.la.salle.2026-08-08.140000">
     <display-name>(IE) (Clubber 01) | Waterford GAA: Abbeyside / Ballinacourty vs De La Salle (2026-08-08 14:00:00)</display-name>
@@ -5646,6 +5703,9 @@
   <channel id="end..cricket.review-the.hundred.women.2026.mi.london.vs.rockets.-.25th.match..all..08-08-2026..0530.gmt..8k.exclusive..us.soccer.ppv.59">
     <display-name>End | Cricket Review-The Hundred Women 2026: MI London vs Rockets - 25th Match | all | 08-08-2026 | 05:30 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 59</display-name>
   </channel>
+  <channel id="live..u20.champs.day.4.am..all..8k.exclusive..us.soccer.ppv.60">
+    <display-name>Live | U20 Champs: Day 4 AM | all | 8K EXCLUSIVE | US: SOCCER PPV 60</display-name>
+  </channel>
   <channel id="end..pony.league.world.series.-.game.2..all..08-08-2026..0000.gmt..8k.exclusive..us.soccer.ppv.61">
     <display-name>End | PONY League World Series - Game 2 | all | 08-08-2026 | 00:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 61</display-name>
   </channel>
@@ -6149,6 +6209,9 @@
   </channel>
   <channel id="apple.mls.048..2098-12-31.080020">
     <display-name>(Apple) (MLS) 048 |  (2098-12-31 08:00:20)</display-name>
+  </channel>
+  <channel id="nfl..01.-.8pm.2026.hof.game.carolina.panthers..arizona.cardinals">
+    <display-name>NFL  | 01 - 8pm 2026 HOF Game Carolina Panthers @ Arizona Cardinals</display-name>
   </channel>
   <channel id="ended..southside.classic.-.part.1..sat.08.aug.0600.edt.us..8k.exclusive..us.nfhs.ppv.1">
     <display-name>ENDED | SOUTHSIDE CLASSIC - PART 1 | Sat 08 Aug 06:00 EDT (US) | 8K EXCLUSIVE | US: NFHS PPV 1</display-name>
@@ -7292,6 +7355,12 @@
   </channel>
   <channel id="ncaaf.01.nc.state.at.wake.forest.730pm">
     <display-name>NCAAF 01: NC State at Wake Forest 7:30pm</display-name>
+  </channel>
+  <channel id="ncaaf.34.ualbany.at.lowa.6pm">
+    <display-name>NCAAF 34: UAlbany at lowa 6pm</display-name>
+  </channel>
+  <channel id="ncaaf.58.7pm.north.carolina.at.charlotte">
+    <display-name>NCAAF 58: 7PM North Carolina at Charlotte</display-name>
   </channel>
   <channel id="rugby.1.eels.vs.panthers.1050am">
     <display-name>Rugby 1: Eels vs Panthers 10:50am</display-name>
@@ -21747,6 +21816,18 @@
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="boxing.05..fury.vs.hall.6pm">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] Boxing  05  :  FURY vs HALL  6PM</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="boxing.05..fury.vs.hall.6pm">
+    <title lang="es">Boxing  05  :  FURY vs HALL  6PM</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="boxing.05..fury.vs.hall.6pm">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
   <programme start="20260808050100 +0000" stop="20260808230000 +0000" channel="boxing.6.fury.v.makhmudov.1900">
     <title lang="es">[Upcoming: 6:00PM 08/08/2026] Boxing 6: Fury v Makhmudov 19:00</title>
     <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
@@ -21756,6 +21837,18 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260809010000 +0000" stop="20260809045900 +0000" channel="boxing.6.fury.v.makhmudov.1900">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808210000 +0000" channel="live.event.01.-.5pm.ufc.fight.night.gamrot.v.salkilld">
+    <title lang="es">[Upcoming: 4:00PM 08/08/2026] LIVE EVENT 01 - 5pm UFC Fight Night Gamrot v Salkilld</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808210000 +0000" stop="20260808230000 +0000" channel="live.event.01.-.5pm.ufc.fight.night.gamrot.v.salkilld">
+    <title lang="es">LIVE EVENT 01 - 5pm UFC Fight Night Gamrot v Salkilld</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809045900 +0000" channel="live.event.01.-.5pm.ufc.fight.night.gamrot.v.salkilld">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -21807,6 +21900,18 @@
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
+  <programme start="20260808050100 +0000" stop="20260808160000 +0000" channel="live.event.06.-.12pm.apfc.ifl.3">
+    <title lang="es">[Upcoming: 11:00AM 08/08/2026] LIVE EVENT 06 - 12pm APFC IFL 3</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808160000 +0000" stop="20260808180000 +0000" channel="live.event.06.-.12pm.apfc.ifl.3">
+    <title lang="es">LIVE EVENT 06 - 12pm APFC IFL 3</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808180000 +0000" stop="20260809045900 +0000" channel="live.event.06.-.12pm.apfc.ifl.3">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
   <programme start="20260808050100 +0000" stop="20260808220500 +0000" channel="live.event.07.-.605pm.acw.georgetown.smash">
     <title lang="es">[Upcoming: 5:05PM 08/08/2026] LIVE EVENT 07 - 6:05pm ACW Georgetown Smash</title>
     <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
@@ -21816,6 +21921,30 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260809000500 +0000" stop="20260809045900 +0000" channel="live.event.07.-.605pm.acw.georgetown.smash">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808230000 +0000" channel="live.event.08.-.7pm.gogirl.the.unstoppable.force">
+    <title lang="es">[Upcoming: 6:00PM 08/08/2026] LIVE EVENT 08 - 7pm GoGirl The Unstoppable Force</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809010000 +0000" channel="live.event.08.-.7pm.gogirl.the.unstoppable.force">
+    <title lang="es">LIVE EVENT 08 - 7pm GoGirl The Unstoppable Force</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809010000 +0000" stop="20260809045900 +0000" channel="live.event.08.-.7pm.gogirl.the.unstoppable.force">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808120000 +0000" channel="live.event.09.-.8am.ama.loretta.lynn.natl.mx.championship">
+    <title lang="es">[Upcoming: 7:00AM 08/08/2026] LIVE EVENT 09 - 8am AMA Loretta Lynn Nat&#x27;l MX Championship</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808120000 +0000" stop="20260808140000 +0000" channel="live.event.09.-.8am.ama.loretta.lynn.natl.mx.championship">
+    <title lang="es">LIVE EVENT 09 - 8am AMA Loretta Lynn Nat&#x27;l MX Championship</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808140000 +0000" stop="20260809045900 +0000" channel="live.event.09.-.8am.ama.loretta.lynn.natl.mx.championship">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -21843,6 +21972,18 @@
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
+  <programme start="20260808050100 +0000" stop="20260808160000 +0000" channel="live.event.12.-.12pm.national.dirt.lm.hall.of.fame.ceremony">
+    <title lang="es">[Upcoming: 11:00AM 08/08/2026] LIVE EVENT 12 - 12pm National Dirt LM Hall of Fame Ceremony</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808160000 +0000" stop="20260808180000 +0000" channel="live.event.12.-.12pm.national.dirt.lm.hall.of.fame.ceremony">
+    <title lang="es">LIVE EVENT 12 - 12pm National Dirt LM Hall of Fame Ceremony</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808180000 +0000" stop="20260809045900 +0000" channel="live.event.12.-.12pm.national.dirt.lm.hall.of.fame.ceremony">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
   <programme start="20260808050100 +0000" stop="20260808203000 +0000" channel="live.event.13.-.430pm.cars.tour.hickory">
     <title lang="es">[Upcoming: 3:30PM 08/08/2026] LIVE EVENT 13 - 4:30pm CARS Tour Hickory</title>
     <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
@@ -21852,6 +21993,78 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260808223000 +0000" stop="20260809045900 +0000" channel="live.event.13.-.430pm.cars.tour.hickory">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808210000 +0000" channel="live.event.14.-.5pm.ismamss.supermodifieds.oswego">
+    <title lang="es">[Upcoming: 4:00PM 08/08/2026] LIVE EVENT 14 - 5pm ISMA/MSS Supermodifieds Oswego</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808210000 +0000" stop="20260808230000 +0000" channel="live.event.14.-.5pm.ismamss.supermodifieds.oswego">
+    <title lang="es">LIVE EVENT 14 - 5pm ISMA/MSS Supermodifieds Oswego</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809045900 +0000" channel="live.event.14.-.5pm.ismamss.supermodifieds.oswego">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="live.event.15.-.6pm.napa.all.star.sprints.stateline">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] LIVE EVENT 15 - 6pm NAPA All Star Sprints Stateline</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="live.event.15.-.6pm.napa.all.star.sprints.stateline">
+    <title lang="es">LIVE EVENT 15 - 6pm NAPA All Star Sprints Stateline</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="live.event.15.-.6pm.napa.all.star.sprints.stateline">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="live.event.16.-.6pm.bill.awtey.tribute.jennerstown">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] LIVE EVENT 16 - 6pm Bill Awtey Tribute Jennerstown</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="live.event.16.-.6pm.bill.awtey.tribute.jennerstown">
+    <title lang="es">LIVE EVENT 16 - 6pm Bill Awtey Tribute Jennerstown</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="live.event.16.-.6pm.bill.awtey.tribute.jennerstown">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="live.event.17.-.6pm.weekly.racing.fonda">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] LIVE EVENT 17 - 6pm Weekly Racing Fonda</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="live.event.17.-.6pm.weekly.racing.fonda">
+    <title lang="es">LIVE EVENT 17 - 6pm Weekly Racing Fonda</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="live.event.17.-.6pm.weekly.racing.fonda">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="live.event.18.-.6pm.weekly.racing.port.royal">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] LIVE EVENT 18 - 6pm Weekly Racing Port Royal</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="live.event.18.-.6pm.weekly.racing.port.royal">
+    <title lang="es">LIVE EVENT 18 - 6pm Weekly Racing Port Royal</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="live.event.18.-.6pm.weekly.racing.port.royal">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="live.event.19.-.6pm.roc.modified.race.holland">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] LIVE EVENT 19 - 6pm RoC Modified Race Holland</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="live.event.19.-.6pm.roc.modified.race.holland">
+    <title lang="es">LIVE EVENT 19 - 6pm RoC Modified Race Holland</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="live.event.19.-.6pm.roc.modified.race.holland">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -21888,6 +22101,42 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260809005500 +0000" stop="20260809045900 +0000" channel="live.event.22.-.655pm.imca.weekly.racing.141.speedway">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808230000 +0000" channel="live.event.23.-.7pm.world.of.outlaws.sprint.cars.i55.federated">
+    <title lang="es">[Upcoming: 6:00PM 08/08/2026] LIVE EVENT 23 - 7pm World of Outlaws Sprint Cars I55 Federated</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809010000 +0000" channel="live.event.23.-.7pm.world.of.outlaws.sprint.cars.i55.federated">
+    <title lang="es">LIVE EVENT 23 - 7pm World of Outlaws Sprint Cars I55 Federated</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809010000 +0000" stop="20260809045900 +0000" channel="live.event.23.-.7pm.world.of.outlaws.sprint.cars.i55.federated">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808230000 +0000" channel="live.event.24.-.7pm.mars.late.models.macon">
+    <title lang="es">[Upcoming: 6:00PM 08/08/2026] LIVE EVENT 24 - 7pm MARS Late Models Macon</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809010000 +0000" channel="live.event.24.-.7pm.mars.late.models.macon">
+    <title lang="es">LIVE EVENT 24 - 7pm MARS Late Models Macon</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809010000 +0000" stop="20260809045900 +0000" channel="live.event.24.-.7pm.mars.late.models.macon">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808230000 +0000" channel="live.event.25.-.7pm.american.flat.track.jackpine.gypsies">
+    <title lang="es">[Upcoming: 6:00PM 08/08/2026] LIVE EVENT 25 - 7pm American Flat Track Jackpine Gypsies</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809010000 +0000" channel="live.event.25.-.7pm.american.flat.track.jackpine.gypsies">
+    <title lang="es">LIVE EVENT 25 - 7pm American Flat Track Jackpine Gypsies</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809010000 +0000" stop="20260809045900 +0000" channel="live.event.25.-.7pm.american.flat.track.jackpine.gypsies">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -23148,6 +23397,54 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260620062000 +0000" stop="20260620045900 +0000" channel="gaago.6..clare.v.dublin..uk.sat.20.jun.520pm..et.sat.20.jun.1220pm">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808140000 +0000" channel="nifl.1..glentoran.vs.carrick..sat.10.3pm">
+    <title lang="es">[Upcoming: 9:00AM 08/08/2026] NIFL 1 | Glentoran vs Carrick | Sat 10 3PM</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="nifl.1..glentoran.vs.carrick..sat.10.3pm">
+    <title lang="es">NIFL 1 | Glentoran vs Carrick | Sat 10 3PM</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808160000 +0000" stop="20260809045900 +0000" channel="nifl.1..glentoran.vs.carrick..sat.10.3pm">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808140000 +0000" channel="nifl.2..cliftonville.vs.coleraine..sat.10n.3pm">
+    <title lang="es">[Upcoming: 9:00AM 08/08/2026] NIFL 2 | Cliftonville vs Coleraine | Sat 10n 3PM</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="nifl.2..cliftonville.vs.coleraine..sat.10n.3pm">
+    <title lang="es">NIFL 2 | Cliftonville vs Coleraine | Sat 10n 3PM</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808160000 +0000" stop="20260809045900 +0000" channel="nifl.2..cliftonville.vs.coleraine..sat.10n.3pm">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808140000 +0000" channel="nifl.3..dungannon.vs.crusaders..sat.10.3pm">
+    <title lang="es">[Upcoming: 9:00AM 08/08/2026] NIFL 3 | Dungannon vs Crusaders | Sat 10 3PM</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="nifl.3..dungannon.vs.crusaders..sat.10.3pm">
+    <title lang="es">NIFL 3 | Dungannon vs Crusaders | Sat 10 3PM</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808160000 +0000" stop="20260809045900 +0000" channel="nifl.3..dungannon.vs.crusaders..sat.10.3pm">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808140000 +0000" channel="nifl.4..glenavon.vs.linfield..sat.10.3pm">
+    <title lang="es">[Upcoming: 9:00AM 08/08/2026] NIFL 4 | Glenavon vs Linfield | Sat 10 3PM</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="nifl.4..glenavon.vs.linfield..sat.10.3pm">
+    <title lang="es">NIFL 4 | Glenavon vs Linfield | Sat 10 3PM</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808160000 +0000" stop="20260809045900 +0000" channel="nifl.4..glenavon.vs.linfield..sat.10.3pm">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -38799,6 +39096,18 @@
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="boxing.05..fury.vs.hall.6pm">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] Boxing  05  :  FURY vs HALL  6PM</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="boxing.05..fury.vs.hall.6pm">
+    <title lang="es">Boxing  05  :  FURY vs HALL  6PM</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="boxing.05..fury.vs.hall.6pm">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
   <programme start="20260808050100 +0000" stop="20260808230000 +0000" channel="boxing.6.fury.v.makhmudov.1900">
     <title lang="es">[Upcoming: 6:00PM 08/08/2026] Boxing 6: Fury v Makhmudov 19:00</title>
     <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
@@ -38808,6 +39117,18 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260809010000 +0000" stop="20260809045900 +0000" channel="boxing.6.fury.v.makhmudov.1900">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808210000 +0000" channel="live.event.01.-.5pm.ufc.fight.night.gamrot.v.salkilld">
+    <title lang="es">[Upcoming: 4:00PM 08/08/2026] LIVE EVENT 01 - 5pm UFC Fight Night Gamrot v Salkilld</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808210000 +0000" stop="20260808230000 +0000" channel="live.event.01.-.5pm.ufc.fight.night.gamrot.v.salkilld">
+    <title lang="es">LIVE EVENT 01 - 5pm UFC Fight Night Gamrot v Salkilld</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809045900 +0000" channel="live.event.01.-.5pm.ufc.fight.night.gamrot.v.salkilld">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -38859,6 +39180,18 @@
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
+  <programme start="20260808050100 +0000" stop="20260808160000 +0000" channel="live.event.06.-.12pm.apfc.ifl.3">
+    <title lang="es">[Upcoming: 11:00AM 08/08/2026] LIVE EVENT 06 - 12pm APFC IFL 3</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808160000 +0000" stop="20260808180000 +0000" channel="live.event.06.-.12pm.apfc.ifl.3">
+    <title lang="es">LIVE EVENT 06 - 12pm APFC IFL 3</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808180000 +0000" stop="20260809045900 +0000" channel="live.event.06.-.12pm.apfc.ifl.3">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
   <programme start="20260808050100 +0000" stop="20260808220500 +0000" channel="live.event.07.-.605pm.acw.georgetown.smash">
     <title lang="es">[Upcoming: 5:05PM 08/08/2026] LIVE EVENT 07 - 6:05pm ACW Georgetown Smash</title>
     <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
@@ -38868,6 +39201,30 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260809000500 +0000" stop="20260809045900 +0000" channel="live.event.07.-.605pm.acw.georgetown.smash">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808230000 +0000" channel="live.event.08.-.7pm.gogirl.the.unstoppable.force">
+    <title lang="es">[Upcoming: 6:00PM 08/08/2026] LIVE EVENT 08 - 7pm GoGirl The Unstoppable Force</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809010000 +0000" channel="live.event.08.-.7pm.gogirl.the.unstoppable.force">
+    <title lang="es">LIVE EVENT 08 - 7pm GoGirl The Unstoppable Force</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809010000 +0000" stop="20260809045900 +0000" channel="live.event.08.-.7pm.gogirl.the.unstoppable.force">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808120000 +0000" channel="live.event.09.-.8am.ama.loretta.lynn.natl.mx.championship">
+    <title lang="es">[Upcoming: 7:00AM 08/08/2026] LIVE EVENT 09 - 8am AMA Loretta Lynn Nat&#x27;l MX Championship</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808120000 +0000" stop="20260808140000 +0000" channel="live.event.09.-.8am.ama.loretta.lynn.natl.mx.championship">
+    <title lang="es">LIVE EVENT 09 - 8am AMA Loretta Lynn Nat&#x27;l MX Championship</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808140000 +0000" stop="20260809045900 +0000" channel="live.event.09.-.8am.ama.loretta.lynn.natl.mx.championship">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -38895,6 +39252,18 @@
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
+  <programme start="20260808050100 +0000" stop="20260808160000 +0000" channel="live.event.12.-.12pm.national.dirt.lm.hall.of.fame.ceremony">
+    <title lang="es">[Upcoming: 11:00AM 08/08/2026] LIVE EVENT 12 - 12pm National Dirt LM Hall of Fame Ceremony</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808160000 +0000" stop="20260808180000 +0000" channel="live.event.12.-.12pm.national.dirt.lm.hall.of.fame.ceremony">
+    <title lang="es">LIVE EVENT 12 - 12pm National Dirt LM Hall of Fame Ceremony</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808180000 +0000" stop="20260809045900 +0000" channel="live.event.12.-.12pm.national.dirt.lm.hall.of.fame.ceremony">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
   <programme start="20260808050100 +0000" stop="20260808203000 +0000" channel="live.event.13.-.430pm.cars.tour.hickory">
     <title lang="es">[Upcoming: 3:30PM 08/08/2026] LIVE EVENT 13 - 4:30pm CARS Tour Hickory</title>
     <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
@@ -38904,6 +39273,78 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260808223000 +0000" stop="20260809045900 +0000" channel="live.event.13.-.430pm.cars.tour.hickory">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808210000 +0000" channel="live.event.14.-.5pm.ismamss.supermodifieds.oswego">
+    <title lang="es">[Upcoming: 4:00PM 08/08/2026] LIVE EVENT 14 - 5pm ISMA/MSS Supermodifieds Oswego</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808210000 +0000" stop="20260808230000 +0000" channel="live.event.14.-.5pm.ismamss.supermodifieds.oswego">
+    <title lang="es">LIVE EVENT 14 - 5pm ISMA/MSS Supermodifieds Oswego</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809045900 +0000" channel="live.event.14.-.5pm.ismamss.supermodifieds.oswego">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="live.event.15.-.6pm.napa.all.star.sprints.stateline">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] LIVE EVENT 15 - 6pm NAPA All Star Sprints Stateline</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="live.event.15.-.6pm.napa.all.star.sprints.stateline">
+    <title lang="es">LIVE EVENT 15 - 6pm NAPA All Star Sprints Stateline</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="live.event.15.-.6pm.napa.all.star.sprints.stateline">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="live.event.16.-.6pm.bill.awtey.tribute.jennerstown">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] LIVE EVENT 16 - 6pm Bill Awtey Tribute Jennerstown</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="live.event.16.-.6pm.bill.awtey.tribute.jennerstown">
+    <title lang="es">LIVE EVENT 16 - 6pm Bill Awtey Tribute Jennerstown</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="live.event.16.-.6pm.bill.awtey.tribute.jennerstown">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="live.event.17.-.6pm.weekly.racing.fonda">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] LIVE EVENT 17 - 6pm Weekly Racing Fonda</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="live.event.17.-.6pm.weekly.racing.fonda">
+    <title lang="es">LIVE EVENT 17 - 6pm Weekly Racing Fonda</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="live.event.17.-.6pm.weekly.racing.fonda">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="live.event.18.-.6pm.weekly.racing.port.royal">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] LIVE EVENT 18 - 6pm Weekly Racing Port Royal</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="live.event.18.-.6pm.weekly.racing.port.royal">
+    <title lang="es">LIVE EVENT 18 - 6pm Weekly Racing Port Royal</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="live.event.18.-.6pm.weekly.racing.port.royal">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808220000 +0000" channel="live.event.19.-.6pm.roc.modified.race.holland">
+    <title lang="es">[Upcoming: 5:00PM 08/08/2026] LIVE EVENT 19 - 6pm RoC Modified Race Holland</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="live.event.19.-.6pm.roc.modified.race.holland">
+    <title lang="es">LIVE EVENT 19 - 6pm RoC Modified Race Holland</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809000000 +0000" stop="20260809045900 +0000" channel="live.event.19.-.6pm.roc.modified.race.holland">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -38940,6 +39381,42 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260809005500 +0000" stop="20260809045900 +0000" channel="live.event.22.-.655pm.imca.weekly.racing.141.speedway">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808230000 +0000" channel="live.event.23.-.7pm.world.of.outlaws.sprint.cars.i55.federated">
+    <title lang="es">[Upcoming: 6:00PM 08/08/2026] LIVE EVENT 23 - 7pm World of Outlaws Sprint Cars I55 Federated</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809010000 +0000" channel="live.event.23.-.7pm.world.of.outlaws.sprint.cars.i55.federated">
+    <title lang="es">LIVE EVENT 23 - 7pm World of Outlaws Sprint Cars I55 Federated</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809010000 +0000" stop="20260809045900 +0000" channel="live.event.23.-.7pm.world.of.outlaws.sprint.cars.i55.federated">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808230000 +0000" channel="live.event.24.-.7pm.mars.late.models.macon">
+    <title lang="es">[Upcoming: 6:00PM 08/08/2026] LIVE EVENT 24 - 7pm MARS Late Models Macon</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809010000 +0000" channel="live.event.24.-.7pm.mars.late.models.macon">
+    <title lang="es">LIVE EVENT 24 - 7pm MARS Late Models Macon</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809010000 +0000" stop="20260809045900 +0000" channel="live.event.24.-.7pm.mars.late.models.macon">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808230000 +0000" channel="live.event.25.-.7pm.american.flat.track.jackpine.gypsies">
+    <title lang="es">[Upcoming: 6:00PM 08/08/2026] LIVE EVENT 25 - 7pm American Flat Track Jackpine Gypsies</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808230000 +0000" stop="20260809010000 +0000" channel="live.event.25.-.7pm.american.flat.track.jackpine.gypsies">
+    <title lang="es">LIVE EVENT 25 - 7pm American Flat Track Jackpine Gypsies</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260809010000 +0000" stop="20260809045900 +0000" channel="live.event.25.-.7pm.american.flat.track.jackpine.gypsies">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -39852,6 +40329,18 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260808073000 +0000" stop="20260809045900 +0000" channel="end..cricket.review-the.hundred.women.2026.mi.london.vs.rockets.-.25th.match..all..08-08-2026..0530.gmt..8k.exclusive..us.soccer.ppv.59">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260807050100 +0000" stop="20260808030000 +0000" channel="live..u20.champs.day.4.am..all..8k.exclusive..us.soccer.ppv.60">
+    <title lang="es">[Upcoming: 10:00PM 07/08/2026] Live | U20 Champs: Day 4 AM | all | 8K EXCLUSIVE | US: SOCCER PPV 60</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808030000 +0000" stop="20260808050000 +0000" channel="live..u20.champs.day.4.am..all..8k.exclusive..us.soccer.ppv.60">
+    <title lang="es">Live | U20 Champs: Day 4 AM | all | 8K EXCLUSIVE | US: SOCCER PPV 60</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808050000 +0000" stop="20260808045900 +0000" channel="live..u20.champs.day.4.am..all..8k.exclusive..us.soccer.ppv.60">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -41892,6 +42381,18 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20981231090000 +0000" stop="20990101045900 +0000" channel="apple.mls.048..2098-12-31.080020">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808190000 +0000" channel="nfl..01.-.8pm.2026.hof.game.carolina.panthers..arizona.cardinals">
+    <title lang="es">[Upcoming: 2:00PM 08/08/2026] NFL  | 01 - 8pm 2026 HOF Game Carolina Panthers @ Arizona Cardinals</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808190000 +0000" stop="20260808210000 +0000" channel="nfl..01.-.8pm.2026.hof.game.carolina.panthers..arizona.cardinals">
+    <title lang="es">NFL  | 01 - 8pm 2026 HOF Game Carolina Panthers @ Arizona Cardinals</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808210000 +0000" stop="20260809045900 +0000" channel="nfl..01.-.8pm.2026.hof.game.carolina.panthers..arizona.cardinals">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
@@ -46464,6 +46965,30 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260808203000 +0000" stop="20260809045900 +0000" channel="ncaaf.01.nc.state.at.wake.forest.730pm">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808170000 +0000" channel="ncaaf.34.ualbany.at.lowa.6pm">
+    <title lang="es">[Upcoming: 12:00PM 08/08/2026] NCAAF 34: UAlbany at lowa 6pm</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808170000 +0000" stop="20260808190000 +0000" channel="ncaaf.34.ualbany.at.lowa.6pm">
+    <title lang="es">NCAAF 34: UAlbany at lowa 6pm</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808190000 +0000" stop="20260809045900 +0000" channel="ncaaf.34.ualbany.at.lowa.6pm">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808050100 +0000" stop="20260808180000 +0000" channel="ncaaf.58.7pm.north.carolina.at.charlotte">
+    <title lang="es">[Upcoming: 1:00PM 08/08/2026] NCAAF 58: 7PM North Carolina at Charlotte</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260808180000 +0000" stop="20260808200000 +0000" channel="ncaaf.58.7pm.north.carolina.at.charlotte">
+    <title lang="es">NCAAF 58: 7PM North Carolina at Charlotte</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260808200000 +0000" stop="20260809045900 +0000" channel="ncaaf.58.7pm.north.carolina.at.charlotte">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
