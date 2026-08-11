@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="m3u-to-epg-bogota-gmt-strict-v2">
+<tv generator-info-name="m3u-to-epg-bogota-gmt-strict-v3">
   <channel id="ended..international.falcon.breeders.auction.day.4..tue.11.aug.1900.03.sa..8k.exclusive..sa.shahid.ppv.1">
     <display-name>ENDED | INTERNATIONAL FALCON BREEDERS AUCTION: DAY 4 | Tue 11 Aug 19:00 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 1</display-name>
   </channel>
@@ -12083,6 +12083,9 @@
   </channel>
   <channel id="end..the.hundred.womens.competition.2026.-.30th.match.-.manchester.super.giants.women.vs.sunrisers.leeds.women..all..11-08-2026..1500.gmt..8k.exclusive..ca.soccer.ppv.5">
     <display-name>End | The Hundred Womens Competition 2026 - 30th Match - Manchester Super Giants Women vs Sunrisers Leeds Women | all | 11-08-2026 | 15:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 5</display-name>
+  </channel>
+  <channel id="end..mens.quarterfinals..all..11-08-2026..1830.gmt..8k.exclusive..ca.soccer.ppv.6">
+    <display-name>End | Men&#x27;s Quarterfinals | all | 11-08-2026 | 18:30 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 6</display-name>
   </channel>
   <channel id="next..club.bolvar.vs..so.paulo.fc..all..11-08-2026..0220.gmt..8k.exclusive..ca.soccer.ppv.9">
     <display-name>Next | Club Bolívar vs. São Paulo FC | all | 11-08-2026 | 02:20 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 9</display-name>
@@ -62757,6 +62760,18 @@
     <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
   </programme>
   <programme start="20260811220000 +0000" stop="20260812045900 +0000" channel="end..the.hundred.womens.competition.2026.-.30th.match.-.manchester.super.giants.women.vs.sunrisers.leeds.women..all..11-08-2026..1500.gmt..8k.exclusive..ca.soccer.ppv.5">
+    <title lang="es">The event has ended</title>
+    <desc lang="es">Evento posterior generado automáticamente.</desc>
+  </programme>
+  <programme start="20260811050100 +0000" stop="20260811233000 +0000" channel="end..mens.quarterfinals..all..11-08-2026..1830.gmt..8k.exclusive..ca.soccer.ppv.6">
+    <title lang="es">[Upcoming: 6:30PM 11/08/2026] End | Men&#x27;s Quarterfinals | all | 11-08-2026 | 18:30 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 6</title>
+    <desc lang="es">Evento previo (Upcoming) generado automáticamente.</desc>
+  </programme>
+  <programme start="20260811233000 +0000" stop="20260812013000 +0000" channel="end..mens.quarterfinals..all..11-08-2026..1830.gmt..8k.exclusive..ca.soccer.ppv.6">
+    <title lang="es">End | Men&#x27;s Quarterfinals | all | 11-08-2026 | 18:30 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 6</title>
+    <desc lang="es">Evento principal convertido a America/Bogota desde la hora original del título.</desc>
+  </programme>
+  <programme start="20260812013000 +0000" stop="20260812045900 +0000" channel="end..mens.quarterfinals..all..11-08-2026..1830.gmt..8k.exclusive..ca.soccer.ppv.6">
     <title lang="es">The event has ended</title>
     <desc lang="es">Evento posterior generado automáticamente.</desc>
   </programme>
