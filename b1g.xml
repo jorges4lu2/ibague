@@ -1263,8 +1263,11 @@
   <channel id="LIVE EVENT 01 - 2pm FSC 37">
     <display-name lang="en">LIVE EVENT 01 - 2pm FSC 37</display-name>
   </channel>
-  <channel id="LIVE EVENT 02 - 6/8pm Rolly v Teofimo">
-    <display-name lang="en">LIVE EVENT 02 - 6/8pm Rolly v Teofimo</display-name>
+  <channel id="LIVE EVENT 02 - 5:50pm IRA Sprints Angell">
+    <display-name lang="en">LIVE EVENT 02 - 5:50pm IRA Sprints Angell</display-name>
+  </channel>
+  <channel id="LIVE EVENT 03 - 6pm TNA Lockdown">
+    <display-name lang="en">LIVE EVENT 03 - 6pm TNA Lockdown</display-name>
   </channel>
   <channel id="LIVE EVENT 04 - 7:25pm Husets Late Models">
     <display-name lang="en">LIVE EVENT 04 - 7:25pm Husets Late Models</display-name>
@@ -11610,23 +11613,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260823000000 -0500" channel="LIVE EVENT 02 - 6/8pm Rolly v Teofimo" stop="20260823200000 -0500">
-    <title>[Upcoming: 08:00 PM] LIVE EVENT 02 - 6/8pm Rolly v Teofimo</title>
+  <programme start="20260823000000 -0500" channel="LIVE EVENT 02 - 5:50pm IRA Sprints Angell" stop="20260823165000 -0500">
+    <title>[Upcoming: 04:50 PM] LIVE EVENT 02 - 5:50pm IRA Sprints Angell</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260823200000 -0500" channel="LIVE EVENT 02 - 6/8pm Rolly v Teofimo" stop="20260823222000 -0500">
-    <title>[08:00 PM] LIVE EVENT 02 - 6/8pm Rolly v Teofimo</title>
+  <programme start="20260823165000 -0500" channel="LIVE EVENT 02 - 5:50pm IRA Sprints Angell" stop="20260823191000 -0500">
+    <title>[04:50 PM] LIVE EVENT 02 - 5:50pm IRA Sprints Angell</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260823222000 -0500" channel="LIVE EVENT 02 - 6/8pm Rolly v Teofimo" stop="20260823235959 -0500">
+  <programme start="20260823191000 -0500" channel="LIVE EVENT 02 - 5:50pm IRA Sprints Angell" stop="20260823235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260823000000 -0500" channel="LIVE EVENT 03 - 6pm TNA Lockdown" stop="20260823180000 -0500">
+    <title>[Upcoming: 06:00 PM] LIVE EVENT 03 - 6pm TNA Lockdown</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260823180000 -0500" channel="LIVE EVENT 03 - 6pm TNA Lockdown" stop="20260823202000 -0500">
+    <title>[06:00 PM] LIVE EVENT 03 - 6pm TNA Lockdown</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260823202000 -0500" channel="LIVE EVENT 03 - 6pm TNA Lockdown" stop="20260823235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
