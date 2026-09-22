@@ -324,11 +324,8 @@
   <channel id="NHL | 04 - 7pm Hurricanes at Panthers">
     <display-name lang="en">NHL | 04 - 7pm Hurricanes at Panthers</display-name>
   </channel>
-  <channel id="NHL | 05 - 7pm Mammoth at Avalanche">
-    <display-name lang="en">NHL | 05 - 7pm Mammoth at Avalanche</display-name>
-  </channel>
-  <channel id="NHL | 06 - 8pm Kraken at Flames">
-    <display-name lang="en">NHL | 06 - 8pm Kraken at Flames</display-name>
+  <channel id="NHL | 05 - 8pm Wild at Blackhawks">
+    <display-name lang="en">NHL | 05 - 8pm Wild at Blackhawks</display-name>
   </channel>
   <channel id="WSL 02 | Charlton vs London City (Sat 12:30 UK)">
     <display-name lang="en">WSL 02 | Charlton vs London City (Sat 12:30 UK)</display-name>
@@ -3612,47 +3609,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260921000000 -0500" channel="NHL | 05 - 7pm Mammoth at Avalanche" stop="20260921190000 -0500">
-    <title>[Upcoming: 07:00 PM] NHL | 05 - 7pm Mammoth at Avalanche</title>
+  <programme start="20260921000000 -0500" channel="NHL | 05 - 8pm Wild at Blackhawks" stop="20260921200000 -0500">
+    <title>[Upcoming: 08:00 PM] NHL | 05 - 8pm Wild at Blackhawks</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260921190000 -0500" channel="NHL | 05 - 7pm Mammoth at Avalanche" stop="20260921212000 -0500">
-    <title>[07:00 PM] NHL | 05 - 7pm Mammoth at Avalanche</title>
+  <programme start="20260921200000 -0500" channel="NHL | 05 - 8pm Wild at Blackhawks" stop="20260921222000 -0500">
+    <title>[08:00 PM] NHL | 05 - 8pm Wild at Blackhawks</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260921212000 -0500" channel="NHL | 05 - 7pm Mammoth at Avalanche" stop="20260921235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260921000000 -0500" channel="NHL | 06 - 8pm Kraken at Flames" stop="20260921200000 -0500">
-    <title>[Upcoming: 08:00 PM] NHL | 06 - 8pm Kraken at Flames</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260921200000 -0500" channel="NHL | 06 - 8pm Kraken at Flames" stop="20260921222000 -0500">
-    <title>[08:00 PM] NHL | 06 - 8pm Kraken at Flames</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260921222000 -0500" channel="NHL | 06 - 8pm Kraken at Flames" stop="20260921235959 -0500">
+  <programme start="20260921222000 -0500" channel="NHL | 05 - 8pm Wild at Blackhawks" stop="20260921235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
