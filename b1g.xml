@@ -1029,8 +1029,11 @@
   <channel id="BOXING: John Hedges vs. Pat Brown HD (Sat 16:15 UK)">
     <display-name lang="en">BOXING: John Hedges vs. Pat Brown HD (Sat 16:15 UK)</display-name>
   </channel>
-  <channel id="LIVE EVENT 02 - 1:30pm Ares 43">
-    <display-name lang="en">LIVE EVENT 02 - 1:30pm Ares 43</display-name>
+  <channel id="LIVE EVENT 01 - 5pm UFC Fight Night Rosas Jr v Barcelos">
+    <display-name lang="en">LIVE EVENT 01 - 5pm UFC Fight Night Rosas Jr v Barcelos</display-name>
+  </channel>
+  <channel id="LIVE EVENT 02 - 10:55am Davies v Collins Prelims">
+    <display-name lang="en">LIVE EVENT 02 - 10:55am Davies v Collins Prelims</display-name>
   </channel>
   <channel id="LIVE EVENT 03 - 7pm Shooto Brazil 140">
     <display-name lang="en">LIVE EVENT 03 - 7pm Shooto Brazil 140</display-name>
@@ -1047,14 +1050,14 @@
   <channel id="LIVE EVENT 07 - 12pm MotoAmerica Superbikes New Jersey">
     <display-name lang="en">LIVE EVENT 07 - 12pm MotoAmerica Superbikes New Jersey</display-name>
   </channel>
-  <channel id="LIVE EVENT 08 - 5:15pm Weekly Racing Stafford">
-    <display-name lang="en">LIVE EVENT 08 - 5:15pm Weekly Racing Stafford</display-name>
+  <channel id="LIVE EVENT 08 - 12pm Sojar Boy v Scorpion">
+    <display-name lang="en">LIVE EVENT 08 - 12pm Sojar Boy v Scorpion</display-name>
   </channel>
   <channel id="LIVE EVENT 09 - 5:45pm 4 Crown Nationals Eldora">
     <display-name lang="en">LIVE EVENT 09 - 5:45pm 4 Crown Nationals Eldora</display-name>
   </channel>
-  <channel id="LIVE EVENT 10 - 6pm AMSOIL Championship Off Road">
-    <display-name lang="en">LIVE EVENT 10 - 6pm AMSOIL Championship Off Road</display-name>
+  <channel id="LIVE EVENT 10 - 12pm Uskov v Naeemi">
+    <display-name lang="en">LIVE EVENT 10 - 12pm Uskov v Naeemi</display-name>
   </channel>
   <channel id="LIVE EVENT 11 - 6pm Southern Showcase Swainsboro">
     <display-name lang="en">LIVE EVENT 11 - 6pm Southern Showcase Swainsboro</display-name>
@@ -9507,23 +9510,47 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260925000000 -0500" channel="LIVE EVENT 02 - 1:30pm Ares 43" stop="20260925123000 -0500">
-    <title>[Upcoming: 12:30 PM] LIVE EVENT 02 - 1:30pm Ares 43</title>
+  <programme start="20260925000000 -0500" channel="LIVE EVENT 01 - 5pm UFC Fight Night Rosas Jr v Barcelos" stop="20260925170000 -0500">
+    <title>[Upcoming: 05:00 PM] LIVE EVENT 01 - 5pm UFC Fight Night Rosas Jr v Barcelos</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260925123000 -0500" channel="LIVE EVENT 02 - 1:30pm Ares 43" stop="20260925145000 -0500">
-    <title>[12:30 PM] LIVE EVENT 02 - 1:30pm Ares 43</title>
+  <programme start="20260925170000 -0500" channel="LIVE EVENT 01 - 5pm UFC Fight Night Rosas Jr v Barcelos" stop="20260925192000 -0500">
+    <title>[05:00 PM] LIVE EVENT 01 - 5pm UFC Fight Night Rosas Jr v Barcelos</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260925145000 -0500" channel="LIVE EVENT 02 - 1:30pm Ares 43" stop="20260925235959 -0500">
+  <programme start="20260925192000 -0500" channel="LIVE EVENT 01 - 5pm UFC Fight Night Rosas Jr v Barcelos" stop="20260925235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260925000000 -0500" channel="LIVE EVENT 02 - 10:55am Davies v Collins Prelims" stop="20260925095500 -0500">
+    <title>[Upcoming: 09:55 AM] LIVE EVENT 02 - 10:55am Davies v Collins Prelims</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260925095500 -0500" channel="LIVE EVENT 02 - 10:55am Davies v Collins Prelims" stop="20260925121500 -0500">
+    <title>[09:55 AM] LIVE EVENT 02 - 10:55am Davies v Collins Prelims</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260925121500 -0500" channel="LIVE EVENT 02 - 10:55am Davies v Collins Prelims" stop="20260925235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9651,23 +9678,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260925000000 -0500" channel="LIVE EVENT 08 - 5:15pm Weekly Racing Stafford" stop="20260925161500 -0500">
-    <title>[Upcoming: 04:15 PM] LIVE EVENT 08 - 5:15pm Weekly Racing Stafford</title>
+  <programme start="20260925000000 -0500" channel="LIVE EVENT 08 - 12pm Sojar Boy v Scorpion" stop="20260925120000 -0500">
+    <title>[Upcoming: 12:00 PM] LIVE EVENT 08 - 12pm Sojar Boy v Scorpion</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260925161500 -0500" channel="LIVE EVENT 08 - 5:15pm Weekly Racing Stafford" stop="20260925183500 -0500">
-    <title>[04:15 PM] LIVE EVENT 08 - 5:15pm Weekly Racing Stafford</title>
+  <programme start="20260925120000 -0500" channel="LIVE EVENT 08 - 12pm Sojar Boy v Scorpion" stop="20260925142000 -0500">
+    <title>[12:00 PM] LIVE EVENT 08 - 12pm Sojar Boy v Scorpion</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260925183500 -0500" channel="LIVE EVENT 08 - 5:15pm Weekly Racing Stafford" stop="20260925235959 -0500">
+  <programme start="20260925142000 -0500" channel="LIVE EVENT 08 - 12pm Sojar Boy v Scorpion" stop="20260925235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9699,23 +9726,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260925000000 -0500" channel="LIVE EVENT 10 - 6pm AMSOIL Championship Off Road" stop="20260925180000 -0500">
-    <title>[Upcoming: 06:00 PM] LIVE EVENT 10 - 6pm AMSOIL Championship Off Road</title>
+  <programme start="20260925000000 -0500" channel="LIVE EVENT 10 - 12pm Uskov v Naeemi" stop="20260925120000 -0500">
+    <title>[Upcoming: 12:00 PM] LIVE EVENT 10 - 12pm Uskov v Naeemi</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260925180000 -0500" channel="LIVE EVENT 10 - 6pm AMSOIL Championship Off Road" stop="20260925202000 -0500">
-    <title>[06:00 PM] LIVE EVENT 10 - 6pm AMSOIL Championship Off Road</title>
+  <programme start="20260925120000 -0500" channel="LIVE EVENT 10 - 12pm Uskov v Naeemi" stop="20260925142000 -0500">
+    <title>[12:00 PM] LIVE EVENT 10 - 12pm Uskov v Naeemi</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260925202000 -0500" channel="LIVE EVENT 10 - 6pm AMSOIL Championship Off Road" stop="20260925235959 -0500">
+  <programme start="20260925142000 -0500" channel="LIVE EVENT 10 - 12pm Uskov v Naeemi" stop="20260925235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
