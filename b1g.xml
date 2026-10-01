@@ -348,6 +348,9 @@
   <channel id="MLB 01 :  Phillies x Braves start:2026-10-01 19:00:00 stop:2026-10-02 02:13:20">
     <display-name lang="en">MLB 01 :  Phillies x Braves start:2026-10-01 19:00:00 stop:2026-10-02 02:13:20</display-name>
   </channel>
+  <channel id="MLB 02 : Cubs x Padres start:2026-10-02 03:00:00 stop:2026-10-02 10:13:20">
+    <display-name lang="en">MLB 02 : Cubs x Padres start:2026-10-02 03:00:00 stop:2026-10-02 10:13:20</display-name>
+  </channel>
   <channel id="MLB 6 | San diego padres @ los angeles dodgers // UK Fri 27 Sep 3:00am // ET Thu 26 Sep 10:00pm">
     <display-name lang="en">MLB 6 | San diego padres @ los angeles dodgers // UK Fri 27 Sep 3:00am // ET Thu 26 Sep 10:00pm</display-name>
   </channel>
@@ -3950,6 +3953,30 @@
     </audio>
   </programme>
   <programme start="20261001142000 -0500" channel="MLB 01 :  Phillies x Braves start:2026-10-01 19:00:00 stop:2026-10-02 02:13:20" stop="20261001235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261001000000 -0500" channel="MLB 02 : Cubs x Padres start:2026-10-02 03:00:00 stop:2026-10-02 10:13:20" stop="20261001200000 -0500">
+    <title>[Upcoming: 08:00 PM] MLB 02 : Cubs x Padres start:2026-10-02 03:00:00 stop:2026-10-02 10:13:20</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261001200000 -0500" channel="MLB 02 : Cubs x Padres start:2026-10-02 03:00:00 stop:2026-10-02 10:13:20" stop="20261001222000 -0500">
+    <title>[08:00 PM] MLB 02 : Cubs x Padres start:2026-10-02 03:00:00 stop:2026-10-02 10:13:20</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261001222000 -0500" channel="MLB 02 : Cubs x Padres start:2026-10-02 03:00:00 stop:2026-10-02 10:13:20" stop="20261001235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
