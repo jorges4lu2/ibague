@@ -942,6 +942,9 @@
   <channel id="LIVE EVENT 01 - 6:15pm Millbridge Speedway">
     <display-name lang="en">LIVE EVENT 01 - 6:15pm Millbridge Speedway</display-name>
   </channel>
+  <channel id="LIVE EVENT 02 - 8PM AEW Dynamite Pac Tribute Show">
+    <display-name lang="en">LIVE EVENT 02 - 8PM AEW Dynamite Pac Tribute Show</display-name>
+  </channel>
   <channel id="Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET">
     <display-name lang="en">Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET</display-name>
   </channel>
@@ -8681,6 +8684,30 @@
     </audio>
   </programme>
   <programme start="20260930193500 -0500" channel="LIVE EVENT 01 - 6:15pm Millbridge Speedway" stop="20260930235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260930000000 -0500" channel="LIVE EVENT 02 - 8PM AEW Dynamite Pac Tribute Show" stop="20260930200000 -0500">
+    <title>[Upcoming: 08:00 PM] LIVE EVENT 02 - 8PM AEW Dynamite Pac Tribute Show</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260930200000 -0500" channel="LIVE EVENT 02 - 8PM AEW Dynamite Pac Tribute Show" stop="20260930222000 -0500">
+    <title>[08:00 PM] LIVE EVENT 02 - 8PM AEW Dynamite Pac Tribute Show</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20260930222000 -0500" channel="LIVE EVENT 02 - 8PM AEW Dynamite Pac Tribute Show" stop="20260930235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
