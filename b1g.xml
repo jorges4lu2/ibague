@@ -573,6 +573,9 @@
   <channel id="NFL  | 14 - 4:25pm Chargers at Seahawks">
     <display-name lang="en">NFL  | 14 - 4:25pm Chargers at Seahawks</display-name>
   </channel>
+  <channel id="Toronto Raptors vs Miami Heat @ Oct 3 7:00 PM  :NBA  01">
+    <display-name lang="en">Toronto Raptors vs Miami Heat @ Oct 3 7:00 PM  :NBA  01</display-name>
+  </channel>
   <channel id="NBA 08 : Spurs (SAS) @ Raptors (TOR) // UK Sun 21/07 11:50pm // ET Sun 21/07 6:50pm">
     <display-name lang="en">NBA 08 : Spurs (SAS) @ Raptors (TOR) // UK Sun 21/07 11:50pm // ET Sun 21/07 6:50pm</display-name>
   </channel>
@@ -5879,6 +5882,30 @@
     </audio>
   </programme>
   <programme start="20261003124500 -0500" channel="NFL  | 14 - 4:25pm Chargers at Seahawks" stop="20261003235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261003000000 -0500" channel="Toronto Raptors vs Miami Heat @ Oct 3 7:00 PM  :NBA  01" stop="20261003190000 -0500">
+    <title>[Upcoming: 07:00 PM] Toronto Raptors vs Miami Heat @ Oct 3 7:00 PM  :NBA  01</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261003190000 -0500" channel="Toronto Raptors vs Miami Heat @ Oct 3 7:00 PM  :NBA  01" stop="20261003212000 -0500">
+    <title>[07:00 PM] Toronto Raptors vs Miami Heat @ Oct 3 7:00 PM  :NBA  01</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261003212000 -0500" channel="Toronto Raptors vs Miami Heat @ Oct 3 7:00 PM  :NBA  01" stop="20261003235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
