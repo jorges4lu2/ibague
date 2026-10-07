@@ -447,11 +447,17 @@
   <channel id="Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM">
     <display-name lang="en">Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM</display-name>
   </channel>
-  <channel id="NBA  01 : Nets vs Hornets 12:00am Wed">
-    <display-name lang="en">NBA  01 : Nets vs Hornets 12:00am Wed</display-name>
+  <channel id="NBA 01 : Indiana Pacers vs Minnesota Timberwolves  @ Oct 7 7:00 PM">
+    <display-name lang="en">NBA 01 : Indiana Pacers vs Minnesota Timberwolves  @ Oct 7 7:00 PM</display-name>
   </channel>
-  <channel id="NBA 02 : Lakers vs Warriors 03:00am Wed">
-    <display-name lang="en">NBA 02 : Lakers vs Warriors 03:00am Wed</display-name>
+  <channel id="NBA 02 : Chicago Bulls vs Phoenix Suns @ Oct 7 8:00 PM">
+    <display-name lang="en">NBA 02 : Chicago Bulls vs Phoenix Suns @ Oct 7 8:00 PM</display-name>
+  </channel>
+  <channel id="NBA 03 : Memphis Grizzlies vs Orlando Magic @ Oct 7 8:00 PM">
+    <display-name lang="en">NBA 03 : Memphis Grizzlies vs Orlando Magic @ Oct 7 8:00 PM</display-name>
+  </channel>
+  <channel id="NBA 05 : Portland Trail Blazers vs Golden State Warriors @ Oct 7 10:00 PM">
+    <display-name lang="en">NBA 05 : Portland Trail Blazers vs Golden State Warriors @ Oct 7 10:00 PM</display-name>
   </channel>
   <channel id="NBA 08 : Spurs (SAS) @ Raptors (TOR) // UK Sun 21/07 11:50pm // ET Sun 21/07 6:50pm">
     <display-name lang="en">NBA 08 : Spurs (SAS) @ Raptors (TOR) // UK Sun 21/07 11:50pm // ET Sun 21/07 6:50pm</display-name>
@@ -4560,23 +4566,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261007000000 -0500" channel="NBA  01 : Nets vs Hornets 12:00am Wed" stop="20261007180000 -0500">
-    <title>[Upcoming: 06:00 PM] NBA  01 : Nets vs Hornets 12:00am Wed</title>
+  <programme start="20261007000000 -0500" channel="NBA 01 : Indiana Pacers vs Minnesota Timberwolves  @ Oct 7 7:00 PM" stop="20261007190000 -0500">
+    <title>[Upcoming: 07:00 PM] NBA 01 : Indiana Pacers vs Minnesota Timberwolves  @ Oct 7 7:00 PM</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261007180000 -0500" channel="NBA  01 : Nets vs Hornets 12:00am Wed" stop="20261007202000 -0500">
-    <title>[06:00 PM] NBA  01 : Nets vs Hornets 12:00am Wed</title>
+  <programme start="20261007190000 -0500" channel="NBA 01 : Indiana Pacers vs Minnesota Timberwolves  @ Oct 7 7:00 PM" stop="20261007212000 -0500">
+    <title>[07:00 PM] NBA 01 : Indiana Pacers vs Minnesota Timberwolves  @ Oct 7 7:00 PM</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261007202000 -0500" channel="NBA  01 : Nets vs Hornets 12:00am Wed" stop="20261007235959 -0500">
+  <programme start="20261007212000 -0500" channel="NBA 01 : Indiana Pacers vs Minnesota Timberwolves  @ Oct 7 7:00 PM" stop="20261007235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -4584,23 +4590,71 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261007000000 -0500" channel="NBA 02 : Lakers vs Warriors 03:00am Wed" stop="20261007210000 -0500">
-    <title>[Upcoming: 09:00 PM] NBA 02 : Lakers vs Warriors 03:00am Wed</title>
+  <programme start="20261007000000 -0500" channel="NBA 02 : Chicago Bulls vs Phoenix Suns @ Oct 7 8:00 PM" stop="20261007200000 -0500">
+    <title>[Upcoming: 08:00 PM] NBA 02 : Chicago Bulls vs Phoenix Suns @ Oct 7 8:00 PM</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261007210000 -0500" channel="NBA 02 : Lakers vs Warriors 03:00am Wed" stop="20261007232000 -0500">
-    <title>[09:00 PM] NBA 02 : Lakers vs Warriors 03:00am Wed</title>
+  <programme start="20261007200000 -0500" channel="NBA 02 : Chicago Bulls vs Phoenix Suns @ Oct 7 8:00 PM" stop="20261007222000 -0500">
+    <title>[08:00 PM] NBA 02 : Chicago Bulls vs Phoenix Suns @ Oct 7 8:00 PM</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261007232000 -0500" channel="NBA 02 : Lakers vs Warriors 03:00am Wed" stop="20261007235959 -0500">
+  <programme start="20261007222000 -0500" channel="NBA 02 : Chicago Bulls vs Phoenix Suns @ Oct 7 8:00 PM" stop="20261007235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261007000000 -0500" channel="NBA 03 : Memphis Grizzlies vs Orlando Magic @ Oct 7 8:00 PM" stop="20261007200000 -0500">
+    <title>[Upcoming: 08:00 PM] NBA 03 : Memphis Grizzlies vs Orlando Magic @ Oct 7 8:00 PM</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261007200000 -0500" channel="NBA 03 : Memphis Grizzlies vs Orlando Magic @ Oct 7 8:00 PM" stop="20261007222000 -0500">
+    <title>[08:00 PM] NBA 03 : Memphis Grizzlies vs Orlando Magic @ Oct 7 8:00 PM</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261007222000 -0500" channel="NBA 03 : Memphis Grizzlies vs Orlando Magic @ Oct 7 8:00 PM" stop="20261007235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261007000000 -0500" channel="NBA 05 : Portland Trail Blazers vs Golden State Warriors @ Oct 7 10:00 PM" stop="20261007220000 -0500">
+    <title>[Upcoming: 10:00 PM] NBA 05 : Portland Trail Blazers vs Golden State Warriors @ Oct 7 10:00 PM</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261007220000 -0500" channel="NBA 05 : Portland Trail Blazers vs Golden State Warriors @ Oct 7 10:00 PM" stop="20261008002000 -0500">
+    <title>[10:00 PM] NBA 05 : Portland Trail Blazers vs Golden State Warriors @ Oct 7 10:00 PM</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261008002000 -0500" channel="NBA 05 : Portland Trail Blazers vs Golden State Warriors @ Oct 7 10:00 PM" stop="20261007235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
