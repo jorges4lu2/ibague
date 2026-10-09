@@ -186,8 +186,14 @@
   <channel id="SC with Jay Onrait C @ Oct 9 05:00 :TSN+  20">
     <display-name lang="en">SC with Jay Onrait C @ Oct 9 05:00 :TSN+  20</display-name>
   </channel>
-  <channel id="Paramount+ 01: 10:45PM PBR Teams: Ridge Rider Days _ Night 1">
-    <display-name lang="en">Paramount+ 01: 10:45PM PBR Teams: Ridge Rider Days _ Night 1</display-name>
+  <channel id="Paramount+ 01: 2:45PM West Ham United vs. Queens Park Rangers">
+    <display-name lang="en">Paramount+ 01: 2:45PM West Ham United vs. Queens Park Rangers</display-name>
+  </channel>
+  <channel id="Paramount+ 02: 6PM UFC Fight Night Preview Show: Allen vs. Duncan">
+    <display-name lang="en">Paramount+ 02: 6PM UFC Fight Night Preview Show: Allen vs. Duncan</display-name>
+  </channel>
+  <channel id="Paramount+ 03: 11PM PBR Teams: Ridge Rider Days _ Night 2">
+    <display-name lang="en">Paramount+ 03: 11PM PBR Teams: Ridge Rider Days _ Night 2</display-name>
   </channel>
   <channel id="SMART Modifieds at Tri County @ Oct 9 4:05 PM :Flo Racing  03">
     <display-name lang="en">SMART Modifieds at Tri County @ Oct 9 4:05 PM :Flo Racing  03</display-name>
@@ -627,15 +633,6 @@
   <channel id="Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM">
     <display-name lang="en">Matchroom Event 05: British Open 2024 - Day 4 - T1 | The Centaur, Cheltenham | snooker | Thu 26 Sep 12:00:00 PM</display-name>
   </channel>
-  <channel id="NFL 01: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys">
-    <display-name lang="en">NFL 01: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys</display-name>
-  </channel>
-  <channel id="NFL 02: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Backup)">
-    <display-name lang="en">NFL 02: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Backup)</display-name>
-  </channel>
-  <channel id="NFL 03: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Espa&#241;ol)">
-    <display-name lang="en">NFL 03: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Espa&#241;ol)</display-name>
-  </channel>
   <channel id="NFL  | 11 - 4:05pm Broncos at Chargers">
     <display-name lang="en">NFL  | 11 - 4:05pm Broncos at Chargers</display-name>
   </channel>
@@ -645,8 +642,8 @@
   <channel id="NFL  | 13 - 4:25pm 49ers at Seahawks">
     <display-name lang="en">NFL  | 13 - 4:25pm 49ers at Seahawks</display-name>
   </channel>
-  <channel id="NFL  | 14 - 8:20pm Ravens at Falcons">
-    <display-name lang="en">NFL  | 14 - 8:20pm Ravens at Falcons</display-name>
+  <channel id="NFL  | 14 - SNF 8:20pm Ravens at Falcons">
+    <display-name lang="en">NFL  | 14 - SNF 8:20pm Ravens at Falcons</display-name>
   </channel>
   <channel id="NBA 01 : Cleveland Cavaliers vs Boston Celtics  @ Oct 8 7:00 PM">
     <display-name lang="en">NBA 01 : Cleveland Cavaliers vs Boston Celtics  @ Oct 8 7:00 PM</display-name>
@@ -714,11 +711,11 @@
   <channel id="British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT">
     <display-name lang="en">British Speedway 02: Kings Lynn Stars vs Sheffield Tigers 08-29 19:00 GMT</display-name>
   </channel>
-  <channel id="DIRTVISION 01 : Oswego Speedway 12:45 pm">
-    <display-name lang="en">DIRTVISION 01 : Oswego Speedway 12:45 pm</display-name>
+  <channel id="DIRTVISION 01 : Oswego Speedway 1:15 pm">
+    <display-name lang="en">DIRTVISION 01 : Oswego Speedway 1:15 pm</display-name>
   </channel>
-  <channel id="DIRTVISION 02 : Millstream Speedway 6:15 pm">
-    <display-name lang="en">DIRTVISION 02 : Millstream Speedway 6:15 pm</display-name>
+  <channel id="DIRTVISION 02 : Mansfield Speedway 6:15 pm">
+    <display-name lang="en">DIRTVISION 02 : Mansfield Speedway 6:15 pm</display-name>
   </channel>
   <channel id="Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET">
     <display-name lang="en">Fite TV 1 SD: TrillerTV-Icarus Sports TUI Socca Champions League 2025: Fratellos FC (Athens, Greece) vs ACS Arhivarul Ploiesti (Ploiesti, Romania) - Fri,17 Oct 15:58 ET</display-name>
@@ -1019,9 +1016,6 @@
   </channel>
   <channel id="LIVE EVENT 01 - 9:30am ONE Friday Fights 174 Dedduanglek v Mong">
     <display-name lang="en">LIVE EVENT 01 - 9:30am ONE Friday Fights 174 Dedduanglek v Mong</display-name>
-  </channel>
-  <channel id="LIVE EVENT 02 - 2am ZFN Origin 06">
-    <display-name lang="en">LIVE EVENT 02 - 2am ZFN Origin 06</display-name>
   </channel>
   <channel id="LIVE EVENT 03 - 8pm BKFC Fight Night Cisneros v Petersen">
     <display-name lang="en">LIVE EVENT 03 - 8pm BKFC Fight Night Cisneros v Petersen</display-name>
@@ -2793,23 +2787,71 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009000000 -0500" channel="Paramount+ 01: 10:45PM PBR Teams: Ridge Rider Days _ Night 1" stop="20261009164500 -0500">
-    <title>[Upcoming: 04:45 PM] Paramount+ 01: 10:45PM PBR Teams: Ridge Rider Days _ Night 1</title>
+  <programme start="20261009000000 -0500" channel="Paramount+ 01: 2:45PM West Ham United vs. Queens Park Rangers" stop="20261009084500 -0500">
+    <title>[Upcoming: 08:45 AM] Paramount+ 01: 2:45PM West Ham United vs. Queens Park Rangers</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009164500 -0500" channel="Paramount+ 01: 10:45PM PBR Teams: Ridge Rider Days _ Night 1" stop="20261009190500 -0500">
-    <title>[04:45 PM] Paramount+ 01: 10:45PM PBR Teams: Ridge Rider Days _ Night 1</title>
+  <programme start="20261009084500 -0500" channel="Paramount+ 01: 2:45PM West Ham United vs. Queens Park Rangers" stop="20261009110500 -0500">
+    <title>[08:45 AM] Paramount+ 01: 2:45PM West Ham United vs. Queens Park Rangers</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009190500 -0500" channel="Paramount+ 01: 10:45PM PBR Teams: Ridge Rider Days _ Night 1" stop="20261009235959 -0500">
+  <programme start="20261009110500 -0500" channel="Paramount+ 01: 2:45PM West Ham United vs. Queens Park Rangers" stop="20261009235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261009000000 -0500" channel="Paramount+ 02: 6PM UFC Fight Night Preview Show: Allen vs. Duncan" stop="20261009180000 -0500">
+    <title>[Upcoming: 06:00 PM] Paramount+ 02: 6PM UFC Fight Night Preview Show: Allen vs. Duncan</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261009180000 -0500" channel="Paramount+ 02: 6PM UFC Fight Night Preview Show: Allen vs. Duncan" stop="20261009202000 -0500">
+    <title>[06:00 PM] Paramount+ 02: 6PM UFC Fight Night Preview Show: Allen vs. Duncan</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261009202000 -0500" channel="Paramount+ 02: 6PM UFC Fight Night Preview Show: Allen vs. Duncan" stop="20261009235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261009000000 -0500" channel="Paramount+ 03: 11PM PBR Teams: Ridge Rider Days _ Night 2" stop="20261009230000 -0500">
+    <title>[Upcoming: 11:00 PM] Paramount+ 03: 11PM PBR Teams: Ridge Rider Days _ Night 2</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261009230000 -0500" channel="Paramount+ 03: 11PM PBR Teams: Ridge Rider Days _ Night 2" stop="20261010012000 -0500">
+    <title>[11:00 PM] Paramount+ 03: 11PM PBR Teams: Ridge Rider Days _ Night 2</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261010012000 -0500" channel="Paramount+ 03: 11PM PBR Teams: Ridge Rider Days _ Night 2" stop="20261009235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -6321,78 +6363,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009000000 -0500" channel="NFL 01: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys" stop="20261009141500 -0500">
-    <title>[Upcoming: 02:15 PM] NFL 01: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009141500 -0500" channel="NFL 01: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys" stop="20261009163500 -0500">
-    <title>[02:15 PM] NFL 01: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009163500 -0500" channel="NFL 01: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys" stop="20261009235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009000000 -0500" channel="NFL 02: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Backup)" stop="20261009141500 -0500">
-    <title>[Upcoming: 02:15 PM] NFL 02: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Backup)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009141500 -0500" channel="NFL 02: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Backup)" stop="20261009163500 -0500">
-    <title>[02:15 PM] NFL 02: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Backup)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009163500 -0500" channel="NFL 02: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Backup)" stop="20261009235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009000000 -0500" channel="NFL 03: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Espa&#241;ol)" stop="20261009141500 -0500">
-    <title>[Upcoming: 02:15 PM] NFL 03: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Espa&#241;ol)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009141500 -0500" channel="NFL 03: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Espa&#241;ol)" stop="20261009163500 -0500">
-    <title>[02:15 PM] NFL 03: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Espa&#241;ol)</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009163500 -0500" channel="NFL 03: 8:15PM Tampa Bay Buccaneers vs Dallas Cowboys (Espa&#241;ol)" stop="20261009235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20261009000000 -0500" channel="NFL  | 11 - 4:05pm Broncos at Chargers" stop="20261009100500 -0500">
     <title>[Upcoming: 10:05 AM] NFL  | 11 - 4:05pm Broncos at Chargers</title>
     <date>2026</date>
@@ -6465,23 +6435,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009000000 -0500" channel="NFL  | 14 - 8:20pm Ravens at Falcons" stop="20261009142000 -0500">
-    <title>[Upcoming: 02:20 PM] NFL  | 14 - 8:20pm Ravens at Falcons</title>
+  <programme start="20261009000000 -0500" channel="NFL  | 14 - SNF 8:20pm Ravens at Falcons" stop="20261009142000 -0500">
+    <title>[Upcoming: 02:20 PM] NFL  | 14 - SNF 8:20pm Ravens at Falcons</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009142000 -0500" channel="NFL  | 14 - 8:20pm Ravens at Falcons" stop="20261009164000 -0500">
-    <title>[02:20 PM] NFL  | 14 - 8:20pm Ravens at Falcons</title>
+  <programme start="20261009142000 -0500" channel="NFL  | 14 - SNF 8:20pm Ravens at Falcons" stop="20261009164000 -0500">
+    <title>[02:20 PM] NFL  | 14 - SNF 8:20pm Ravens at Falcons</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009164000 -0500" channel="NFL  | 14 - 8:20pm Ravens at Falcons" stop="20261009235959 -0500">
+  <programme start="20261009164000 -0500" channel="NFL  | 14 - SNF 8:20pm Ravens at Falcons" stop="20261009235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -7017,23 +6987,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009000000 -0500" channel="DIRTVISION 01 : Oswego Speedway 12:45 pm" stop="20261009124500 -0500">
-    <title>[Upcoming: 12:45 PM] DIRTVISION 01 : Oswego Speedway 12:45 pm</title>
+  <programme start="20261009000000 -0500" channel="DIRTVISION 01 : Oswego Speedway 1:15 pm" stop="20261009131500 -0500">
+    <title>[Upcoming: 01:15 PM] DIRTVISION 01 : Oswego Speedway 1:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009124500 -0500" channel="DIRTVISION 01 : Oswego Speedway 12:45 pm" stop="20261009150500 -0500">
-    <title>[12:45 PM] DIRTVISION 01 : Oswego Speedway 12:45 pm</title>
+  <programme start="20261009131500 -0500" channel="DIRTVISION 01 : Oswego Speedway 1:15 pm" stop="20261009153500 -0500">
+    <title>[01:15 PM] DIRTVISION 01 : Oswego Speedway 1:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009150500 -0500" channel="DIRTVISION 01 : Oswego Speedway 12:45 pm" stop="20261009235959 -0500">
+  <programme start="20261009153500 -0500" channel="DIRTVISION 01 : Oswego Speedway 1:15 pm" stop="20261009235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -7041,23 +7011,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009000000 -0500" channel="DIRTVISION 02 : Millstream Speedway 6:15 pm" stop="20261009181500 -0500">
-    <title>[Upcoming: 06:15 PM] DIRTVISION 02 : Millstream Speedway 6:15 pm</title>
+  <programme start="20261009000000 -0500" channel="DIRTVISION 02 : Mansfield Speedway 6:15 pm" stop="20261009181500 -0500">
+    <title>[Upcoming: 06:15 PM] DIRTVISION 02 : Mansfield Speedway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009181500 -0500" channel="DIRTVISION 02 : Millstream Speedway 6:15 pm" stop="20261009203500 -0500">
-    <title>[06:15 PM] DIRTVISION 02 : Millstream Speedway 6:15 pm</title>
+  <programme start="20261009181500 -0500" channel="DIRTVISION 02 : Mansfield Speedway 6:15 pm" stop="20261009203500 -0500">
+    <title>[06:15 PM] DIRTVISION 02 : Mansfield Speedway 6:15 pm</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261009203500 -0500" channel="DIRTVISION 02 : Millstream Speedway 6:15 pm" stop="20261009235959 -0500">
+  <programme start="20261009203500 -0500" channel="DIRTVISION 02 : Mansfield Speedway 6:15 pm" stop="20261009235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -9458,30 +9428,6 @@
     </audio>
   </programme>
   <programme start="20261009105000 -0500" channel="LIVE EVENT 01 - 9:30am ONE Friday Fights 174 Dedduanglek v Mong" stop="20261009235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009000000 -0500" channel="LIVE EVENT 02 - 2am ZFN Origin 06" stop="20261009020000 -0500">
-    <title>[Upcoming: 02:00 AM] LIVE EVENT 02 - 2am ZFN Origin 06</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009020000 -0500" channel="LIVE EVENT 02 - 2am ZFN Origin 06" stop="20261009042000 -0500">
-    <title>[02:00 AM] LIVE EVENT 02 - 2am ZFN Origin 06</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261009042000 -0500" channel="LIVE EVENT 02 - 2am ZFN Origin 06" stop="20261009235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
