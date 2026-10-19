@@ -690,12 +690,6 @@
   <channel id="NFL 10: 4:25PM Buffalo Bills vs Las Vegas Raiders">
     <display-name lang="en">NFL 10: 4:25PM Buffalo Bills vs Las Vegas Raiders</display-name>
   </channel>
-  <channel id="NFL  | 11 - 4:25pm Chargers at Chiefs">
-    <display-name lang="en">NFL  | 11 - 4:25pm Chargers at Chiefs</display-name>
-  </channel>
-  <channel id="NFL  | 12 - 4:25pm Bills at Raiders">
-    <display-name lang="en">NFL  | 12 - 4:25pm Bills at Raiders</display-name>
-  </channel>
   <channel id="NFL  | 13 - SNF 8:20pm Cowboys at Packers">
     <display-name lang="en">NFL  | 13 - SNF 8:20pm Cowboys at Packers</display-name>
   </channel>
@@ -1128,8 +1122,8 @@
   <channel id="BOXING: Sebastian Fundora vs. Ermal Hadribeaj (Sun 01:00 UK)">
     <display-name lang="en">BOXING: Sebastian Fundora vs. Ermal Hadribeaj (Sun 01:00 UK)</display-name>
   </channel>
-  <channel id="LIVE EVENT 01 - 2pm STSS Octoberfest Hagerstown">
-    <display-name lang="en">LIVE EVENT 01 - 2pm STSS Octoberfest Hagerstown</display-name>
+  <channel id="LIVE EVENT 01 - 8pm WWE Monday Night RAW">
+    <display-name lang="en">LIVE EVENT 01 - 8pm WWE Monday Night RAW</display-name>
   </channel>
   <channel id="LIVE EVENT 02 - 4:15pm Lucas Oil DTWC WVMS">
     <display-name lang="en">LIVE EVENT 02 - 4:15pm Lucas Oil DTWC WVMS</display-name>
@@ -6882,54 +6876,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261018000000 -0500" channel="NFL  | 11 - 4:25pm Chargers at Chiefs" stop="20261018102500 -0500">
-    <title>[Upcoming: 10:25 AM] NFL  | 11 - 4:25pm Chargers at Chiefs</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261018102500 -0500" channel="NFL  | 11 - 4:25pm Chargers at Chiefs" stop="20261018124500 -0500">
-    <title>[10:25 AM] NFL  | 11 - 4:25pm Chargers at Chiefs</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261018124500 -0500" channel="NFL  | 11 - 4:25pm Chargers at Chiefs" stop="20261018235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261018000000 -0500" channel="NFL  | 12 - 4:25pm Bills at Raiders" stop="20261018102500 -0500">
-    <title>[Upcoming: 10:25 AM] NFL  | 12 - 4:25pm Bills at Raiders</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261018102500 -0500" channel="NFL  | 12 - 4:25pm Bills at Raiders" stop="20261018124500 -0500">
-    <title>[10:25 AM] NFL  | 12 - 4:25pm Bills at Raiders</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261018124500 -0500" channel="NFL  | 12 - 4:25pm Bills at Raiders" stop="20261018235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
   <programme start="20261018000000 -0500" channel="NFL  | 13 - SNF 8:20pm Cowboys at Packers" stop="20261018142000 -0500">
     <title>[Upcoming: 02:20 PM] NFL  | 13 - SNF 8:20pm Cowboys at Packers</title>
     <date>2026</date>
@@ -10386,23 +10332,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261018000000 -0500" channel="LIVE EVENT 01 - 2pm STSS Octoberfest Hagerstown" stop="20261018140000 -0500">
-    <title>[Upcoming: 02:00 PM] LIVE EVENT 01 - 2pm STSS Octoberfest Hagerstown</title>
+  <programme start="20261018000000 -0500" channel="LIVE EVENT 01 - 8pm WWE Monday Night RAW" stop="20261018200000 -0500">
+    <title>[Upcoming: 08:00 PM] LIVE EVENT 01 - 8pm WWE Monday Night RAW</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261018140000 -0500" channel="LIVE EVENT 01 - 2pm STSS Octoberfest Hagerstown" stop="20261018162000 -0500">
-    <title>[02:00 PM] LIVE EVENT 01 - 2pm STSS Octoberfest Hagerstown</title>
+  <programme start="20261018200000 -0500" channel="LIVE EVENT 01 - 8pm WWE Monday Night RAW" stop="20261018222000 -0500">
+    <title>[08:00 PM] LIVE EVENT 01 - 8pm WWE Monday Night RAW</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261018162000 -0500" channel="LIVE EVENT 01 - 2pm STSS Octoberfest Hagerstown" stop="20261018235959 -0500">
+  <programme start="20261018222000 -0500" channel="LIVE EVENT 01 - 8pm WWE Monday Night RAW" stop="20261018235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
