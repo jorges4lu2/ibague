@@ -219,6 +219,12 @@
   <channel id="Paramount+ 11: 2PM Juventus vs. Lazio">
     <display-name lang="en">Paramount+ 11: 2PM Juventus vs. Lazio</display-name>
   </channel>
+  <channel id="PBR RidePass @ May 8 5:00 PM :Flo Racing  01">
+    <display-name lang="en">PBR RidePass @ May 8 5:00 PM :Flo Racing  01</display-name>
+  </channel>
+  <channel id="FloRacing 24 7 @ Oct 18 4:00 AM :Flo Racing  02">
+    <display-name lang="en">FloRacing 24 7 @ Oct 18 4:00 AM :Flo Racing  02</display-name>
+  </channel>
   <channel id="Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM">
     <display-name lang="en">Flo Racing 05 :Southern Nationals at Swainsboro @ Jul 18 7:00 PM</display-name>
   </channel>
@@ -711,41 +717,17 @@
   <channel id="NFL  | 14 - MNF 8:15pm Commanders at 49ers">
     <display-name lang="en">NFL  | 14 - MNF 8:15pm Commanders at 49ers</display-name>
   </channel>
-  <channel id="Philadelphia 76ers vs Boston Celtics @ Oct 16 7:00 PM :NBA  01">
-    <display-name lang="en">Philadelphia 76ers vs Boston Celtics @ Oct 16 7:00 PM :NBA  01</display-name>
+  <channel id="Detroit Pistons vs Boston Celtics @ Oct 20 3:00 PM :NBA  01">
+    <display-name lang="en">Detroit Pistons vs Boston Celtics @ Oct 20 3:00 PM :NBA  01</display-name>
   </channel>
-  <channel id="Orlando Magic vs Miami Heat @ Oct 16 7:00 PM :NBA  02">
-    <display-name lang="en">Orlando Magic vs Miami Heat @ Oct 16 7:00 PM :NBA  02</display-name>
+  <channel id="New York Knicks vs Philadelphia 76ers @ Oct 20 7:00 PM :NBA  02">
+    <display-name lang="en">New York Knicks vs Philadelphia 76ers @ Oct 20 7:00 PM :NBA  02</display-name>
   </channel>
-  <channel id="Detroit Pistons vs Toronto Raptors @ Oct 16 7:00 PM :NBA  03">
-    <display-name lang="en">Detroit Pistons vs Toronto Raptors @ Oct 16 7:00 PM :NBA  03</display-name>
-  </channel>
-  <channel id="Indiana Pacers vs Milwaukee Bucks @ Oct 16 7:00 PM :NBA  04">
-    <display-name lang="en">Indiana Pacers vs Milwaukee Bucks @ Oct 16 7:00 PM :NBA  04</display-name>
-  </channel>
-  <channel id="Dallas Mavericks vs Atlanta Hawks  @ Oct 16 8:00 PM :NBA  05">
-    <display-name lang="en">Dallas Mavericks vs Atlanta Hawks  @ Oct 16 8:00 PM :NBA  05</display-name>
-  </channel>
-  <channel id="Chicago Bulls vs Minnesota Timberwolves @ Oct 16 8:00 PM :NBA  06">
-    <display-name lang="en">Chicago Bulls vs Minnesota Timberwolves @ Oct 16 8:00 PM :NBA  06</display-name>
-  </channel>
-  <channel id="Memphis Grizzlies vs Charlotte Hornets  @ Oct 16 8:00 PM :NBA  07">
-    <display-name lang="en">Memphis Grizzlies vs Charlotte Hornets  @ Oct 16 8:00 PM :NBA  07</display-name>
+  <channel id="San Antonio Spurs vs Oklahoma City Thunder @ Oct 20 9:30 PM :NBA  03">
+    <display-name lang="en">San Antonio Spurs vs Oklahoma City Thunder @ Oct 20 9:30 PM :NBA  03</display-name>
   </channel>
   <channel id="NBA 08 : Spurs (SAS) @ Raptors (TOR) // UK Sun 21/07 11:50pm // ET Sun 21/07 6:50pm">
     <display-name lang="en">NBA 08 : Spurs (SAS) @ Raptors (TOR) // UK Sun 21/07 11:50pm // ET Sun 21/07 6:50pm</display-name>
-  </channel>
-  <channel id="San Antonio Spurs vs Sacramento Kings @ Oct 16 8:00 PM :NBA  09">
-    <display-name lang="en">San Antonio Spurs vs Sacramento Kings @ Oct 16 8:00 PM :NBA  09</display-name>
-  </channel>
-  <channel id="Golden State Warriors vs Portland Trail Blazers @ Oct 16 10:00 PM :NBA  10">
-    <display-name lang="en">Golden State Warriors vs Portland Trail Blazers @ Oct 16 10:00 PM :NBA  10</display-name>
-  </channel>
-  <channel id="Phoenix Suns vs Utah Jazz @ Oct 16 10:00 PM :NBA  11">
-    <display-name lang="en">Phoenix Suns vs Utah Jazz @ Oct 16 10:00 PM :NBA  11</display-name>
-  </channel>
-  <channel id="Los Angeles Lakers vs Denver Nuggets @ Oct 16 10:30 PM :NBA  12">
-    <display-name lang="en">Los Angeles Lakers vs Denver Nuggets @ Oct 16 10:30 PM :NBA  12</display-name>
   </channel>
   <channel id="WNBA 1 Connecticut Sun @ Indiana Fever start:2025-05-31 00:30:00 stop:2025-05-31 02:30:00">
     <display-name lang="en">WNBA 1 Connecticut Sun @ Indiana Fever start:2025-05-31 00:30:00 stop:2025-05-31 02:30:00</display-name>
@@ -3113,6 +3095,54 @@
     </audio>
   </programme>
   <programme start="20261020162000 -0500" channel="Paramount+ 11: 2PM Juventus vs. Lazio" stop="20261020235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261020000000 -0500" channel="PBR RidePass @ May 8 5:00 PM :Flo Racing  01" stop="20261020170000 -0500">
+    <title>[Upcoming: 05:00 PM] PBR RidePass @ May 8 5:00 PM :Flo Racing  01</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261020170000 -0500" channel="PBR RidePass @ May 8 5:00 PM :Flo Racing  01" stop="20261020192000 -0500">
+    <title>[05:00 PM] PBR RidePass @ May 8 5:00 PM :Flo Racing  01</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261020192000 -0500" channel="PBR RidePass @ May 8 5:00 PM :Flo Racing  01" stop="20261020235959 -0500">
+    <title>Event has ended</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261020000000 -0500" channel="FloRacing 24 7 @ Oct 18 4:00 AM :Flo Racing  02" stop="20261020040000 -0500">
+    <title>[Upcoming: 04:00 AM] FloRacing 24 7 @ Oct 18 4:00 AM :Flo Racing  02</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261020040000 -0500" channel="FloRacing 24 7 @ Oct 18 4:00 AM :Flo Racing  02" stop="20261020062000 -0500">
+    <title>[04:00 AM] FloRacing 24 7 @ Oct 18 4:00 AM :Flo Racing  02</title>
+    <date>2026</date>
+    <category>Sports</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20261020062000 -0500" channel="FloRacing 24 7 @ Oct 18 4:00 AM :Flo Racing  02" stop="20261020235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -7056,23 +7086,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261020000000 -0500" channel="Philadelphia 76ers vs Boston Celtics @ Oct 16 7:00 PM :NBA  01" stop="20261020190000 -0500">
-    <title>[Upcoming: 07:00 PM] Philadelphia 76ers vs Boston Celtics @ Oct 16 7:00 PM :NBA  01</title>
+  <programme start="20261020000000 -0500" channel="Detroit Pistons vs Boston Celtics @ Oct 20 3:00 PM :NBA  01" stop="20261020150000 -0500">
+    <title>[Upcoming: 03:00 PM] Detroit Pistons vs Boston Celtics @ Oct 20 3:00 PM :NBA  01</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261020190000 -0500" channel="Philadelphia 76ers vs Boston Celtics @ Oct 16 7:00 PM :NBA  01" stop="20261020212000 -0500">
-    <title>[07:00 PM] Philadelphia 76ers vs Boston Celtics @ Oct 16 7:00 PM :NBA  01</title>
+  <programme start="20261020150000 -0500" channel="Detroit Pistons vs Boston Celtics @ Oct 20 3:00 PM :NBA  01" stop="20261020172000 -0500">
+    <title>[03:00 PM] Detroit Pistons vs Boston Celtics @ Oct 20 3:00 PM :NBA  01</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261020212000 -0500" channel="Philadelphia 76ers vs Boston Celtics @ Oct 16 7:00 PM :NBA  01" stop="20261020235959 -0500">
+  <programme start="20261020172000 -0500" channel="Detroit Pistons vs Boston Celtics @ Oct 20 3:00 PM :NBA  01" stop="20261020235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -7080,23 +7110,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261020000000 -0500" channel="Orlando Magic vs Miami Heat @ Oct 16 7:00 PM :NBA  02" stop="20261020190000 -0500">
-    <title>[Upcoming: 07:00 PM] Orlando Magic vs Miami Heat @ Oct 16 7:00 PM :NBA  02</title>
+  <programme start="20261020000000 -0500" channel="New York Knicks vs Philadelphia 76ers @ Oct 20 7:00 PM :NBA  02" stop="20261020190000 -0500">
+    <title>[Upcoming: 07:00 PM] New York Knicks vs Philadelphia 76ers @ Oct 20 7:00 PM :NBA  02</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261020190000 -0500" channel="Orlando Magic vs Miami Heat @ Oct 16 7:00 PM :NBA  02" stop="20261020212000 -0500">
-    <title>[07:00 PM] Orlando Magic vs Miami Heat @ Oct 16 7:00 PM :NBA  02</title>
+  <programme start="20261020190000 -0500" channel="New York Knicks vs Philadelphia 76ers @ Oct 20 7:00 PM :NBA  02" stop="20261020212000 -0500">
+    <title>[07:00 PM] New York Knicks vs Philadelphia 76ers @ Oct 20 7:00 PM :NBA  02</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261020212000 -0500" channel="Orlando Magic vs Miami Heat @ Oct 16 7:00 PM :NBA  02" stop="20261020235959 -0500">
+  <programme start="20261020212000 -0500" channel="New York Knicks vs Philadelphia 76ers @ Oct 20 7:00 PM :NBA  02" stop="20261020235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -7104,119 +7134,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261020000000 -0500" channel="Detroit Pistons vs Toronto Raptors @ Oct 16 7:00 PM :NBA  03" stop="20261020190000 -0500">
-    <title>[Upcoming: 07:00 PM] Detroit Pistons vs Toronto Raptors @ Oct 16 7:00 PM :NBA  03</title>
+  <programme start="20261020000000 -0500" channel="San Antonio Spurs vs Oklahoma City Thunder @ Oct 20 9:30 PM :NBA  03" stop="20261020213000 -0500">
+    <title>[Upcoming: 09:30 PM] San Antonio Spurs vs Oklahoma City Thunder @ Oct 20 9:30 PM :NBA  03</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261020190000 -0500" channel="Detroit Pistons vs Toronto Raptors @ Oct 16 7:00 PM :NBA  03" stop="20261020212000 -0500">
-    <title>[07:00 PM] Detroit Pistons vs Toronto Raptors @ Oct 16 7:00 PM :NBA  03</title>
+  <programme start="20261020213000 -0500" channel="San Antonio Spurs vs Oklahoma City Thunder @ Oct 20 9:30 PM :NBA  03" stop="20261020235000 -0500">
+    <title>[09:30 PM] San Antonio Spurs vs Oklahoma City Thunder @ Oct 20 9:30 PM :NBA  03</title>
     <date>2026</date>
     <category>Sports</category>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261020212000 -0500" channel="Detroit Pistons vs Toronto Raptors @ Oct 16 7:00 PM :NBA  03" stop="20261020235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020000000 -0500" channel="Indiana Pacers vs Milwaukee Bucks @ Oct 16 7:00 PM :NBA  04" stop="20261020190000 -0500">
-    <title>[Upcoming: 07:00 PM] Indiana Pacers vs Milwaukee Bucks @ Oct 16 7:00 PM :NBA  04</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020190000 -0500" channel="Indiana Pacers vs Milwaukee Bucks @ Oct 16 7:00 PM :NBA  04" stop="20261020212000 -0500">
-    <title>[07:00 PM] Indiana Pacers vs Milwaukee Bucks @ Oct 16 7:00 PM :NBA  04</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020212000 -0500" channel="Indiana Pacers vs Milwaukee Bucks @ Oct 16 7:00 PM :NBA  04" stop="20261020235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020000000 -0500" channel="Dallas Mavericks vs Atlanta Hawks  @ Oct 16 8:00 PM :NBA  05" stop="20261020200000 -0500">
-    <title>[Upcoming: 08:00 PM] Dallas Mavericks vs Atlanta Hawks  @ Oct 16 8:00 PM :NBA  05</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020200000 -0500" channel="Dallas Mavericks vs Atlanta Hawks  @ Oct 16 8:00 PM :NBA  05" stop="20261020222000 -0500">
-    <title>[08:00 PM] Dallas Mavericks vs Atlanta Hawks  @ Oct 16 8:00 PM :NBA  05</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020222000 -0500" channel="Dallas Mavericks vs Atlanta Hawks  @ Oct 16 8:00 PM :NBA  05" stop="20261020235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020000000 -0500" channel="Chicago Bulls vs Minnesota Timberwolves @ Oct 16 8:00 PM :NBA  06" stop="20261020200000 -0500">
-    <title>[Upcoming: 08:00 PM] Chicago Bulls vs Minnesota Timberwolves @ Oct 16 8:00 PM :NBA  06</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020200000 -0500" channel="Chicago Bulls vs Minnesota Timberwolves @ Oct 16 8:00 PM :NBA  06" stop="20261020222000 -0500">
-    <title>[08:00 PM] Chicago Bulls vs Minnesota Timberwolves @ Oct 16 8:00 PM :NBA  06</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020222000 -0500" channel="Chicago Bulls vs Minnesota Timberwolves @ Oct 16 8:00 PM :NBA  06" stop="20261020235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020000000 -0500" channel="Memphis Grizzlies vs Charlotte Hornets  @ Oct 16 8:00 PM :NBA  07" stop="20261020200000 -0500">
-    <title>[Upcoming: 08:00 PM] Memphis Grizzlies vs Charlotte Hornets  @ Oct 16 8:00 PM :NBA  07</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020200000 -0500" channel="Memphis Grizzlies vs Charlotte Hornets  @ Oct 16 8:00 PM :NBA  07" stop="20261020222000 -0500">
-    <title>[08:00 PM] Memphis Grizzlies vs Charlotte Hornets  @ Oct 16 8:00 PM :NBA  07</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020222000 -0500" channel="Memphis Grizzlies vs Charlotte Hornets  @ Oct 16 8:00 PM :NBA  07" stop="20261020235959 -0500">
+  <programme start="20261020235000 -0500" channel="San Antonio Spurs vs Oklahoma City Thunder @ Oct 20 9:30 PM :NBA  03" stop="20261020235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
@@ -7241,102 +7175,6 @@
     </audio>
   </programme>
   <programme start="20261020201000 -0500" channel="NBA 08 : Spurs (SAS) @ Raptors (TOR) // UK Sun 21/07 11:50pm // ET Sun 21/07 6:50pm" stop="20261020235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020000000 -0500" channel="San Antonio Spurs vs Sacramento Kings @ Oct 16 8:00 PM :NBA  09" stop="20261020200000 -0500">
-    <title>[Upcoming: 08:00 PM] San Antonio Spurs vs Sacramento Kings @ Oct 16 8:00 PM :NBA  09</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020200000 -0500" channel="San Antonio Spurs vs Sacramento Kings @ Oct 16 8:00 PM :NBA  09" stop="20261020222000 -0500">
-    <title>[08:00 PM] San Antonio Spurs vs Sacramento Kings @ Oct 16 8:00 PM :NBA  09</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020222000 -0500" channel="San Antonio Spurs vs Sacramento Kings @ Oct 16 8:00 PM :NBA  09" stop="20261020235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020000000 -0500" channel="Golden State Warriors vs Portland Trail Blazers @ Oct 16 10:00 PM :NBA  10" stop="20261020220000 -0500">
-    <title>[Upcoming: 10:00 PM] Golden State Warriors vs Portland Trail Blazers @ Oct 16 10:00 PM :NBA  10</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020220000 -0500" channel="Golden State Warriors vs Portland Trail Blazers @ Oct 16 10:00 PM :NBA  10" stop="20261021002000 -0500">
-    <title>[10:00 PM] Golden State Warriors vs Portland Trail Blazers @ Oct 16 10:00 PM :NBA  10</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261021002000 -0500" channel="Golden State Warriors vs Portland Trail Blazers @ Oct 16 10:00 PM :NBA  10" stop="20261020235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020000000 -0500" channel="Phoenix Suns vs Utah Jazz @ Oct 16 10:00 PM :NBA  11" stop="20261020220000 -0500">
-    <title>[Upcoming: 10:00 PM] Phoenix Suns vs Utah Jazz @ Oct 16 10:00 PM :NBA  11</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020220000 -0500" channel="Phoenix Suns vs Utah Jazz @ Oct 16 10:00 PM :NBA  11" stop="20261021002000 -0500">
-    <title>[10:00 PM] Phoenix Suns vs Utah Jazz @ Oct 16 10:00 PM :NBA  11</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261021002000 -0500" channel="Phoenix Suns vs Utah Jazz @ Oct 16 10:00 PM :NBA  11" stop="20261020235959 -0500">
-    <title>Event has ended</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020000000 -0500" channel="Los Angeles Lakers vs Denver Nuggets @ Oct 16 10:30 PM :NBA  12" stop="20261020223000 -0500">
-    <title>[Upcoming: 10:30 PM] Los Angeles Lakers vs Denver Nuggets @ Oct 16 10:30 PM :NBA  12</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261020223000 -0500" channel="Los Angeles Lakers vs Denver Nuggets @ Oct 16 10:30 PM :NBA  12" stop="20261021005000 -0500">
-    <title>[10:30 PM] Los Angeles Lakers vs Denver Nuggets @ Oct 16 10:30 PM :NBA  12</title>
-    <date>2026</date>
-    <category>Sports</category>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20261021005000 -0500" channel="Los Angeles Lakers vs Denver Nuggets @ Oct 16 10:30 PM :NBA  12" stop="20261020235959 -0500">
     <title>Event has ended</title>
     <date>2026</date>
     <category>Sports</category>
